@@ -1,2 +1,2 @@
 # rss-feeds
-Using R to set up a better BBC RSS feeds by removing some of the junk. Inspired by Dan Q's 'BBC News without the crap'
+[![.github/workflows/run-feed.yaml](https://github.com/alan-y/rss-feeds/actions/workflows/run-feed.yaml/badge.svg)](https://github.com/alan-y/rss-feeds/actions/workflows/run-feed.yaml)

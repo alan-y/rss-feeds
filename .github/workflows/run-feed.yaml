@@ -1,0 +1,35 @@
+on:
+  push:
+    branches: main
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch:
+
+jobs:
+  process-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+
+      - name: Install packages
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::xml2
+            any::stringr
+            any::purrr
+
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Process feed
+        run: Rscript -e 'source("process_feed.R")'
+
+      - name: Commit results
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add *.xml
+          git commit -m 'Data updated' || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
