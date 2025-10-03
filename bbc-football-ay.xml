@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 03 Oct 2025 18:26:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 18:53:31 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -72,14 +72,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5d/live/352a99f0-9ebc-11f0-b741-177e3e2c2fc7.png"/>
     </item>
     <item>
-      <title><![CDATA[Are fears over Maresca's Chelsea future unfair?]]></title>
-      <description><![CDATA[With some suggesting Enzo Maresca is under pressure at Chelsea, what are the causes of their downturn and are they the manager's fault?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cewn7dpxn0yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cewn7dpxn0yo</guid>
-      <pubDate>Fri, 03 Oct 2025 14:26:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c381/live/3c7cf000-a064-11f0-8c3b-297dfedf4956.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['No problem' with Bellingham - Tuchel]]></title>
       <description><![CDATA[England manager Thomas Tuchel says there is "no problem" with Jude Bellingham, or the other players he left out of the squad including Phil Foden and Jack Grealish, that will face Wales and Latvia this month. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/cly18z2g0qxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -126,6 +118,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c3dr2l9vyv1o</guid>
       <pubDate>Wed, 01 Oct 2025 23:10:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8bd/live/478c8550-9f10-11f0-92db-77261a15b9d2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Are fears over Maresca's Chelsea future unfair?]]></title>
+      <description><![CDATA[With some suggesting Enzo Maresca is under pressure at Chelsea, what are the causes of their downturn and are they the manager's fault?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cewn7dpxn0yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cewn7dpxn0yo</guid>
+      <pubDate>Fri, 03 Oct 2025 14:26:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c381/live/3c7cf000-a064-11f0-8c3b-297dfedf4956.jpg"/>
     </item>
     <item>
       <title><![CDATA[Defenders not as good as they were in my day - Rooney]]></title>
@@ -176,12 +176,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efa4/live/b3530840-a04b-11f0-b687-23a5afa8b42e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Martin's mentality mantra soundtracks another Rangers loss]]></title>
-      <description><![CDATA[After another defeat for Rangers, Russell Martin says mentality is to blame and not the tactical approach of his team.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c07vyzrjj0ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07vyzrjj0ro</guid>
-      <pubDate>Thu, 02 Oct 2025 23:29:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f93/live/f0500020-9fe4-11f0-9462-afec1c2fb901.jpg"/>
+      <title><![CDATA['Awful' & 'ridiculous' - but was VAR really to blame for Celtic defeat?]]></title>
+      <description><![CDATA[Celtic were angered by the decision to rule out a goal against Sporting Braga, but were they at fault for their own downfall?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2r3pk2gk5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2r3pk2gk5o</guid>
+      <pubDate>Thu, 02 Oct 2025 22:13:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc21/live/225af750-9fd6-11f0-bd54-0355775be11d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['I heard their opinion' - Postecoglou undaunted as Forest fans want him sacked]]></title>
+      <description><![CDATA[Ange Postecoglou remains defiant despite Nottingham Forest fans turning on the new manager after a sixth game without a win.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd72wenj4vdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd72wenj4vdo</guid>
+      <pubDate>Thu, 02 Oct 2025 22:39:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ff/live/f8854ad0-9fd9-11f0-9dfc-fb769328a6c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Real Madrid cool Konate interest - Friday's gossip]]></title>
@@ -216,20 +224,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a89c/live/aac45c80-a062-11f0-928c-71dbb8619e94.png"/>
     </item>
     <item>
-      <title><![CDATA['Awful' & 'ridiculous' - but was VAR really to blame for Celtic defeat?]]></title>
-      <description><![CDATA[Celtic were angered by the decision to rule out a goal against Sporting Braga, but were they at fault for their own downfall?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2r3pk2gk5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2r3pk2gk5o</guid>
-      <pubDate>Thu, 02 Oct 2025 22:13:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc21/live/225af750-9fd6-11f0-bd54-0355775be11d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I heard their opinion' - Postecoglou undaunted as Forest fans want him sacked]]></title>
-      <description><![CDATA[Ange Postecoglou remains defiant despite Nottingham Forest fans turning on the new manager after a sixth game without a win.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd72wenj4vdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd72wenj4vdo</guid>
-      <pubDate>Thu, 02 Oct 2025 22:39:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ff/live/f8854ad0-9fd9-11f0-9dfc-fb769328a6c6.jpg"/>
+      <title><![CDATA[Martin's mentality mantra soundtracks another Rangers loss]]></title>
+      <description><![CDATA[After another defeat for Rangers, Russell Martin says mentality is to blame and not the tactical approach of his team.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c07vyzrjj0ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07vyzrjj0ro</guid>
+      <pubDate>Thu, 02 Oct 2025 23:29:58 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f93/live/f0500020-9fe4-11f0-9462-afec1c2fb901.jpg"/>
     </item>
     <item>
       <title><![CDATA[Tottenham midfielder Bentancur signs new contract]]></title>
@@ -270,14 +270,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07v27ypl98o</guid>
       <pubDate>Fri, 03 Oct 2025 07:12:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3c1/live/b809dcd0-9f8b-11f0-a934-075243299099.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Moore's focus on 'Hollywood derby' before Wales duty]]></title>
-      <description><![CDATA[Striker Kieffer Moore targets Wrexham's first home win in the Championship before turning his attention to international duty with Wales. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3e7y8dxj9xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3e7y8dxj9xo</guid>
-      <pubDate>Fri, 03 Oct 2025 03:57:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9735/live/53cba1c0-9fb0-11f0-8410-854cfa733f11.jpg"/>
     </item>
     <item>
       <title><![CDATA[O'Neill unmoved by Nagelsmann's 'long ball' remark]]></title>
