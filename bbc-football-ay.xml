@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 03 Oct 2025 16:41:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 16:54:50 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -192,20 +192,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4013/live/73427f80-a049-11f0-9251-31c97a45eb73.jpg"/>
     </item>
     <item>
-      <title><![CDATA[All change for high-pressure East Anglia derby]]></title>
-      <description><![CDATA[Ipswich Town meet Norwich City in the first East Anglia derby of the season, with both having a huge turnover of players.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqxz1zqj385o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxz1zqj385o</guid>
-      <pubDate>Fri, 03 Oct 2025 15:01:06 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe81/live/70c80540-a02b-11f0-b953-476f858a7e51.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Real Madrid cool Konate interest - Friday's gossip]]></title>
       <description><![CDATA[Real Madrid cool interest in Liverpool defender Ibrahima Konate, Manchester United want Brentford's Yehor Yarmolyuk while Newcastle eye Athletic Club's Oihan Sancet, plus more.]]></description>
       <link>https://www.bbc.com/sport/football/articles/crl5wr6d20no?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crl5wr6d20no</guid>
       <pubDate>Thu, 02 Oct 2025 21:36:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b1/live/f5ddc3c0-9fd4-11f0-b741-177e3e2c2fc7.png"/>
+    </item>
+    <item>
+      <title><![CDATA[All change for high-pressure East Anglia derby]]></title>
+      <description><![CDATA[Ipswich Town meet Norwich City in the first East Anglia derby of the season, with both having a huge turnover of players.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqxz1zqj385o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxz1zqj385o</guid>
+      <pubDate>Fri, 03 Oct 2025 15:01:06 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe81/live/70c80540-a02b-11f0-b953-476f858a7e51.jpg"/>
     </item>
     <item>
       <title><![CDATA[What did Taylor Swift sing about Real Madrid?]]></title>
@@ -248,14 +248,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd40/live/378fe630-9fe5-11f0-b92d-33e1a154a01e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Moore's focus on 'Hollywood derby' before Wales duty]]></title>
-      <description><![CDATA[Striker Kieffer Moore targets Wrexham's first home win in the Championship before turning his attention to international duty with Wales. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3e7y8dxj9xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3e7y8dxj9xo</guid>
-      <pubDate>Fri, 03 Oct 2025 03:57:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9735/live/53cba1c0-9fb0-11f0-8410-854cfa733f11.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[What are penalty retake rules after Roma penalty drama?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team explains the rules on penalty retakes after Roma took the same penalty three times against Lille in the Europa League]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj9zg7ddmkko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -270,6 +262,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdr6p1kz3x8o</guid>
       <pubDate>Thu, 02 Oct 2025 14:14:10 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8085/live/649db710-9f90-11f0-92db-77261a15b9d2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Moore's focus on 'Hollywood derby' before Wales duty]]></title>
+      <description><![CDATA[Striker Kieffer Moore targets Wrexham's first home win in the Championship before turning his attention to international duty with Wales. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3e7y8dxj9xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3e7y8dxj9xo</guid>
+      <pubDate>Fri, 03 Oct 2025 03:57:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9735/live/53cba1c0-9fb0-11f0-8410-854cfa733f11.jpg"/>
     </item>
     <item>
       <title><![CDATA['Hungry' Palace's unbeaten run hits record 19 games]]></title>
@@ -512,20 +512,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51bf/live/7ff8e140-8ff2-11f0-9cf6-cbf3e73ce2b9.png"/>
     </item>
     <item>
+      <title><![CDATA[Will previous calls sway Rangers as Martin pressure mounts? ]]></title>
+      <description><![CDATA[Russell Martin is under intense pressure at Rangers but does a recent history of chopping and changing managers at Ibrox work in his favour?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpd9362ez43o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpd9362ez43o</guid>
+      <pubDate>Fri, 03 Oct 2025 16:45:56 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/953f/live/ef81f060-a055-11f0-b687-23a5afa8b42e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Edinburgh derby in numbers as Hearts & Hibs face off]]></title>
       <description><![CDATA[BBC Sport Scotland sets the scene for the first Edinburgh derby of the season.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cpd93vnx6xzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpd93vnx6xzo</guid>
       <pubDate>Fri, 03 Oct 2025 11:50:47 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e04/live/1e070610-a050-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Gerrard open to Rangers return' - gossip]]></title>
-      <description><![CDATA[Steven Gerrard is reportedly open to a Rangers return with current head coach Russell Martin under pressure, while Celtic striker Callum Osmand is said to have rejected a loan move.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy50vp2np71o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy50vp2np71o</guid>
-      <pubDate>Fri, 03 Oct 2025 06:42:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65c5/live/d77872a0-a023-11f0-b741-177e3e2c2fc7.png"/>
     </item>
     <item>
       <title><![CDATA[Fans facing 'extremely worrying' safety conditions at Uefa matches]]></title>
