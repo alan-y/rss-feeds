@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 05 Oct 2025 13:03:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 13:34:04 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -96,38 +96,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e92/live/c4e76d90-a167-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Chelsea score dramatic 95th-minute winner to beat Liverpool]]></title>
-      <description><![CDATA[Moises Caicedo scores a screamer before 18-year-old Estevao Willian nets a 95th-minute winner as Chelsea beat Liverpool in a thriller at Stamford Bridge.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c5y83x27766o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5y83x27766o</guid>
-      <pubDate>Sat, 04 Oct 2025 19:06:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e4d/live/1c8f5750-a15a-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd beat Sunderland to ease pressure on Amorim]]></title>
-      <description><![CDATA[Watch highlights as Mason Mount and Benjamin Sesko help Manchester United grab a crucial win against Sunderland, while Senne Lammens keeps a clean sheet on his debut.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cy85e9d3ld5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy85e9d3ld5o</guid>
-      <pubDate>Sat, 04 Oct 2025 18:59:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e98/live/90557a00-a14d-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Rice and Saka score as Arsenal beat West Ham]]></title>
-      <description><![CDATA[Watch highlights as Declan Rice and Bukayo Saka score to take a comfortable win for Arsenal against West Ham in Mikel Arteta's 300th game in charge.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cgj1e68v2zgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgj1e68v2zgo</guid>
-      <pubDate>Sat, 04 Oct 2025 19:00:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1650/live/d014b5d0-a14c-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Kudus stars for Tottenham in win over Leeds]]></title>
-      <description><![CDATA[Mohammed Kudus scores his first goal for Tottenham Hotspur in a 2-1 win against Leeds United at Elland Road.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c1791d5nr4eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1791d5nr4eo</guid>
-      <pubDate>Sat, 04 Oct 2025 19:01:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0241/live/89421d10-a137-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[The younger Mbappe emerging from his brother's shadow]]></title>
       <description><![CDATA[Being the brother of a football superstar is not easy. But Ethan Mbappe is aiming to emerge from the shadows and make a name for himself.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5ykwnj5weyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -166,6 +134,38 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07vrzpm8ldo</guid>
       <pubDate>Sat, 04 Oct 2025 16:19:30 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4f1/live/56207830-a166-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Chelsea score dramatic 95th-minute winner to beat Liverpool]]></title>
+      <description><![CDATA[Moises Caicedo scores a screamer before 18-year-old Estevao Willian nets a 95th-minute winner as Chelsea beat Liverpool in a thriller at Stamford Bridge.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c5y83x27766o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5y83x27766o</guid>
+      <pubDate>Sat, 04 Oct 2025 19:06:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e4d/live/1c8f5750-a15a-11f0-92db-77261a15b9d2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Man Utd beat Sunderland to ease pressure on Amorim]]></title>
+      <description><![CDATA[Watch highlights as Mason Mount and Benjamin Sesko help Manchester United grab a crucial win against Sunderland, while Senne Lammens keeps a clean sheet on his debut.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cy85e9d3ld5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy85e9d3ld5o</guid>
+      <pubDate>Sat, 04 Oct 2025 18:59:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e98/live/90557a00-a14d-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rice and Saka score as Arsenal beat West Ham]]></title>
+      <description><![CDATA[Watch highlights as Declan Rice and Bukayo Saka score to take a comfortable win for Arsenal against West Ham in Mikel Arteta's 300th game in charge.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cgj1e68v2zgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgj1e68v2zgo</guid>
+      <pubDate>Sat, 04 Oct 2025 19:00:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1650/live/d014b5d0-a14c-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Kudus stars for Tottenham in win over Leeds]]></title>
+      <description><![CDATA[Mohammed Kudus scores his first goal for Tottenham Hotspur in a 2-1 win against Leeds United at Elland Road.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c1791d5nr4eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1791d5nr4eo</guid>
+      <pubDate>Sat, 04 Oct 2025 19:01:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0241/live/89421d10-a137-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wafcon expands to 16 teams for 2026 finals]]></title>
@@ -216,20 +216,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed49/live/eaf3fdc0-a15b-11f0-b741-177e3e2c2fc7.png"/>
     </item>
     <item>
-      <title><![CDATA[Blackpool sack veteran boss Bruce after poor start]]></title>
-      <description><![CDATA[Blackpool sack veteran boss Steve Bruce after one year in charge after a poor start to the League One season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9317e4gk88o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9317e4gk88o</guid>
-      <pubDate>Sat, 04 Oct 2025 19:00:32 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a2e/live/40338b50-a154-11f0-b532-53fba03d9a6f.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[When music meets football - can you beat our lyrics quiz?]]></title>
       <description><![CDATA[How well do you know songs including football references? ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cddmjeg4dvqo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cddmjeg4dvqo</guid>
       <pubDate>Sat, 04 Oct 2025 17:58:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db9b/live/85c54a00-a145-11f0-9be2-514f62a90aaf.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Blackpool sack veteran boss Bruce after poor start]]></title>
+      <description><![CDATA[Blackpool sack veteran boss Steve Bruce after one year in charge after a poor start to the League One season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9317e4gk88o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9317e4gk88o</guid>
+      <pubDate>Sat, 04 Oct 2025 19:00:32 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a2e/live/40338b50-a154-11f0-b532-53fba03d9a6f.jpg"/>
     </item>
     <item>
       <title><![CDATA['Quality' Watson 'drives' Kilmarnock - but can they keep him?]]></title>
