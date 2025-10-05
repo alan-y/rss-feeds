@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 05 Oct 2025 10:46:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 11:14:44 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[From last-gasp winners to woes - Liverpool's late goal problem]]></title>
-      <description><![CDATA[Liverpool's remarkable run of either scoring or conceding late goals continues - and their fortune has run out, writes Phil McNulty.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czjvl4rz3r7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czjvl4rz3r7o</guid>
-      <pubDate>Sat, 04 Oct 2025 20:31:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc18/live/3380fd40-a15c-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
     <item>
       <title><![CDATA[What's changed since Newcastle takeover?]]></title>
       <description><![CDATA[Tuesday marks the four-year anniversary of Newcastle United's takeover, so what has changed?]]></description>
@@ -32,8 +24,16 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c97/live/d8331380-9f88-11f0-a934-075243299099.jpg"/>
     </item>
     <item>
+      <title><![CDATA[From last-gasp winners to woes - Liverpool's late goal problem]]></title>
+      <description><![CDATA[Liverpool's remarkable run of either scoring or conceding late goals continues - and their fortune has run out, writes Phil McNulty.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/czjvl4rz3r7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czjvl4rz3r7o</guid>
+      <pubDate>Sat, 04 Oct 2025 20:31:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc18/live/3380fd40-a15c-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['No longer feels meaningful' - Spurs stop taking knee]]></title>
-      <description><![CDATA[Tottenham will not take the knee before Sunday's Women's Super League match because the anti-racism gesture "no longer feels meaningful".]]></description>
+      <description><![CDATA[Tottenham did not take the knee before Sunday's Women's Super League match because the anti-racism gesture "no longer feels meaningful".]]></description>
       <link>https://www.bbc.com/sport/football/articles/c98dvmq28jmo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98dvmq28jmo</guid>
       <pubDate>Sun, 05 Oct 2025 10:30:09 GMT</pubDate>
@@ -78,14 +78,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8xrngxg4wyo</guid>
       <pubDate>Sat, 04 Oct 2025 20:47:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d43c/live/968ec110-a157-11f0-b532-53fba03d9a6f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wafcon expands to 16 teams for 2026 finals]]></title>
-      <description><![CDATA[The Women's Africa Cup of Nations will expand from 12 to 16 teams beginning with the 2026 finals in Morocco.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c07p44r1z2zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07p44r1z2zo</guid>
-      <pubDate>Sun, 05 Oct 2025 08:25:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9052/live/777c3af0-6a7a-11f0-85c3-f353314ad7f2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ex-Portsmouth, Leicester and Sheffield Wednesday owner Mandaric dies]]></title>
@@ -176,8 +168,16 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4f1/live/56207830-a166-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Wafcon expands to 16 teams for 2026 finals]]></title>
+      <description><![CDATA[The Women's Africa Cup of Nations will expand from 12 to 16 teams beginning with the 2026 finals in Morocco.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c07p44r1z2zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07p44r1z2zo</guid>
+      <pubDate>Sun, 05 Oct 2025 08:25:01 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9052/live/777c3af0-6a7a-11f0-85c3-f353314ad7f2.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Can Rodgers rediscover Celtic's attacking X-factor?]]></title>
-      <description><![CDATA[Celtic have a lot to work out amid an alamring downtown in scoring and form, writes Tom English.]]></description>
+      <description><![CDATA[Celtic have a lot to work out amid an alarming downtown in scoring and form, writes Tom English.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3064nrn6rpo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3064nrn6rpo</guid>
       <pubDate>Sat, 04 Oct 2025 17:38:59 GMT</pubDate>
@@ -200,20 +200,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4679/live/47593230-a132-11f0-a9f1-8d9167fcc08f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Dribble king Kudus impresses again amid 'big expectations']]></title>
-      <description><![CDATA[Mohammed Kudus scored and assisted in Tottenham's win over Leeds as he shows again why he is becoming Tottenham's most influential player.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce3240lvyzdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3240lvyzdo</guid>
-      <pubDate>Sat, 04 Oct 2025 15:54:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f58/live/7bc63f00-a154-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Real Madrid want Man City's Rodri - Sunday's gossip]]></title>
       <description><![CDATA[Manchester City midfielder Rodri is a target for Real Madrid, Manchester United defender Harry Maguire is lined up for a move to Saudi Arabia, plus more.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c059qnjgn4go?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c059qnjgn4go</guid>
       <pubDate>Sun, 05 Oct 2025 06:01:34 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7fe/live/7a8de410-a16a-11f0-b741-177e3e2c2fc7.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Dribble king Kudus impresses again amid 'big expectations']]></title>
+      <description><![CDATA[Mohammed Kudus scored and assisted in Tottenham's win over Leeds as he shows again why he is becoming Tottenham's most influential player.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce3240lvyzdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3240lvyzdo</guid>
+      <pubDate>Sat, 04 Oct 2025 15:54:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f58/live/7bc63f00-a154-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Can Coventry stay top? Aaron McLean's EFL takeaways]]></title>
