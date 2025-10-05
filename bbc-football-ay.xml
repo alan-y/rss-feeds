@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 05 Oct 2025 17:29:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 17:47:13 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,22 +40,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f37d/live/c17782a0-a200-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Maybe we needed it' - Glasner on losing unbeaten record]]></title>
-      <description><![CDATA[Crystal Palace manager head coach Oliver Glasner admits it "hurts" to see his side lose their club-record 19-match unbeaten run after conceding a 93rd-minute goal in a 2-1 loss to Everton, but believes it could be beneficial to Palace in the long run.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c15k11wy5g7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c15k11wy5g7o</guid>
-      <pubDate>Sun, 05 Oct 2025 16:04:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8502/live/7e20b640-a203-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Grealish has helped Everton an awful lot - Moyes]]></title>
-      <description><![CDATA[Everton head coach David Moyes reflects on Jack Grealish's performance after he scored an extra time goal to claim the three points against Crystal Palace.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cg7dmm5dme3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cg7dmm5dme3o</guid>
-      <pubDate>Sun, 05 Oct 2025 15:54:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71a2/live/b533c020-a201-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Tottenham beat Brighton to move third in WSL]]></title>
       <description><![CDATA[Watch highlights as Cathinka Tandberg scores her third Women's Super League goal of the season as Tottenham beat Brighton 1-0 to move third in the table.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c0r0dyrw7d1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -64,12 +48,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af3c/live/f1842b10-a1ec-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Villa beat West Ham and claim three points with two stunning strikes]]></title>
-      <description><![CDATA[Aston Villa claimed their first WSL win of the season with two impressive goals and lead West Ham to their seventh successive league loss.]]></description>
+      <title><![CDATA['Maybe we needed it' - Glasner on losing unbeaten record]]></title>
+      <description><![CDATA[Crystal Palace manager head coach Oliver Glasner admits it "hurts" to see his side lose their club-record 19-match unbeaten run after conceding a 93rd-minute goal in a 2-1 loss to Everton, but believes it could be beneficial to Palace in the long run.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c15k11wy5g7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c15k11wy5g7o</guid>
+      <pubDate>Sun, 05 Oct 2025 16:04:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8502/live/7e20b640-a203-11f0-92db-77261a15b9d2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Two stunning strikes help Villa extend West Ham's losing start]]></title>
+      <description><![CDATA[Aston Villa claim their first WSL win of the season with two impressive goals and inflict a seventh successive league loss on West Ham. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/c4gk31z6ee6o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c4gk31z6ee6o</guid>
       <pubDate>Sun, 05 Oct 2025 17:27:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7f1/live/4faf4840-a20c-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Grealish has helped Everton an awful lot - Moyes]]></title>
+      <description><![CDATA[Everton head coach David Moyes reflects on Jack Grealish's performance after he scored an extra time goal to claim the three points against Crystal Palace.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cg7dmm5dme3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cg7dmm5dme3o</guid>
+      <pubDate>Sun, 05 Oct 2025 15:54:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71a2/live/b533c020-a201-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
       <title><![CDATA[From last-gasp winners to woes - Liverpool's late goal problem]]></title>
