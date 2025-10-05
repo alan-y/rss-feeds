@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 05 Oct 2025 13:34:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 13:47:52 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -46,14 +46,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgj1e8w82l5o</guid>
       <pubDate>Sat, 04 Oct 2025 19:04:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e05/live/7e4f3e60-a155-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Arteta's unlucky captain - how Odegaard set unwanted record]]></title>
-      <description><![CDATA[Arsenal continue their strong start to the season with victory over West Ham - but Martin Odegaard sets an unwanted record.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c80gn74d59jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80gn74d59jo</guid>
-      <pubDate>Sat, 04 Oct 2025 18:12:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/520f/live/474c8f90-a154-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Schmeichel in disguise? - Lammens impresses Rooney in 'solid' debut]]></title>
@@ -94,6 +86,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c4gvd81mwy3o</guid>
       <pubDate>Sat, 04 Oct 2025 21:19:45 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e92/live/c4e76d90-a167-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Arteta's unlucky captain - how Odegaard set unwanted record]]></title>
+      <description><![CDATA[Arsenal continue their strong start to the season with victory over West Ham - but Martin Odegaard sets an unwanted record.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c80gn74d59jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80gn74d59jo</guid>
+      <pubDate>Sat, 04 Oct 2025 18:12:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/520f/live/474c8f90-a154-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[The younger Mbappe emerging from his brother's shadow]]></title>
@@ -208,14 +208,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f58/live/7bc63f00-a154-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Can Coventry stay top? Aaron McLean's EFL takeaways]]></title>
-      <description><![CDATA[Former Peterborough, Hull and Bradford striker – and Final Score's EFL pundit – Aaron McLean sifts through some of the main talking points and gives his five takeaways from across the Championship, League One and League Two.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c708gn24ddeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c708gn24ddeo</guid>
-      <pubDate>Sat, 04 Oct 2025 19:57:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed49/live/eaf3fdc0-a15b-11f0-b741-177e3e2c2fc7.png"/>
-    </item>
-    <item>
       <title><![CDATA[When music meets football - can you beat our lyrics quiz?]]></title>
       <description><![CDATA[How well do you know songs including football references? ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cddmjeg4dvqo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -240,6 +232,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e49/live/ba424b70-a15e-11f0-b532-53fba03d9a6f.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Can Coventry stay top? Aaron McLean's EFL takeaways]]></title>
+      <description><![CDATA[Former Peterborough, Hull and Bradford striker – and Final Score's EFL pundit – Aaron McLean sifts through some of the main talking points and gives his five takeaways from across the Championship, League One and League Two.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c708gn24ddeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c708gn24ddeo</guid>
+      <pubDate>Sat, 04 Oct 2025 19:57:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed49/live/eaf3fdc0-a15b-11f0-b741-177e3e2c2fc7.png"/>
+    </item>
+    <item>
       <title><![CDATA[Manager almost quit football after Vigar's death]]></title>
       <description><![CDATA[Chichester City FC boss Miles Rutherford said the late striker's family helped change his mind.  ]]></description>
       <link>https://www.bbc.com/news/articles/c87ynpjnr7ro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -254,14 +254,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c15kypn0kqeo</guid>
       <pubDate>Sat, 04 Oct 2025 08:34:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc0/live/c3450480-a030-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I like to be famous but unknown' - Ekitike in his own words]]></title>
-      <description><![CDATA[Hugo Ekitike sits down with Kelly Somers to discuss playing for Liverpool and being a private person.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly18ld7zvyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly18ld7zvyo</guid>
-      <pubDate>Sat, 04 Oct 2025 05:06:38 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1c6/live/1bed25d0-9f97-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Spurs' Kudus a 'breath of fresh air']]></title>
