@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 07:47:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 08:26:15 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -24,12 +24,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bbe/live/c4446f00-a1e4-11f0-ab23-d127b1d8dfad.jpg"/>
     </item>
     <item>
-      <title><![CDATA[The true extent of cyber attacks on UK business - and the weak spots that allow them to happen ]]></title>
+      <title><![CDATA[The true cost of cyber attacks on UK business is greater than it seems]]></title>
       <description><![CDATA[Are this year's major attacks the "cumulative effect of a kind of inaction on cyber security" from the government and big business?]]></description>
       <link>https://www.bbc.com/news/articles/c5ye8zj5l4jo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ye8zj5l4jo</guid>
       <pubDate>Mon, 06 Oct 2025 00:52:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd0d/live/eacf7ae0-a110-11f0-b741-177e3e2c2fc7.jpg"/>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9110/live/e6c0c6c0-a28c-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[How China is challenging Nvidia's AI chip dominance]]></title>
@@ -38,6 +38,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cgmz2vm3yv8o</guid>
       <pubDate>Sun, 05 Oct 2025 23:00:21 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9949/live/85746ea0-9cd6-11f0-8245-f3f629744491.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Scientists grow mini human brains to power computers]]></title>
+      <description><![CDATA[BBC News goes inside the lab powering computers with 'mini brains' grown from human cells.]]></description>
+      <link>https://www.bbc.com/news/articles/cy7p1lzvxjro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy7p1lzvxjro</guid>
+      <pubDate>Sat, 04 Oct 2025 01:39:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d322/live/ec405a00-9f91-11f0-b9ae-cbef91e6ae73.jpg"/>
     </item>
     <item>
       <title><![CDATA[Apple pulls US immigration official tracking apps ]]></title>
@@ -96,20 +104,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c43/live/45f4f830-9eca-11f0-8281-d137a399b095.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Snapchat to charge users for storing their old photos and videos]]></title>
-      <description><![CDATA[It has not said how much the storage plans will cost UK users, only that they were part of a "gradual global rollout".]]></description>
-      <link>https://www.bbc.com/news/articles/cz69238p5p8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cz69238p5p8o</guid>
-      <pubDate>Wed, 01 Oct 2025 10:13:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5274/live/133063e0-9eab-11f0-9d1f-e7d83132d3ab.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Pinterest boss says he thinks about Molly Russell every day]]></title>
       <description><![CDATA[Addressing the case publicly for the first time, Bill Ready says the tragedy "guides" the firm's work.]]></description>
       <link>https://www.bbc.com/news/articles/c62lj72zyy5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c62lj72zyy5o</guid>
       <pubDate>Wed, 01 Oct 2025 06:12:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dcc/live/a3820050-9ddb-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Snapchat to charge users for storing their old photos and videos]]></title>
+      <description><![CDATA[It has not said how much the storage plans will cost UK users, only that they were part of a "gradual global rollout".]]></description>
+      <link>https://www.bbc.com/news/articles/cz69238p5p8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cz69238p5p8o</guid>
+      <pubDate>Wed, 01 Oct 2025 10:13:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5274/live/133063e0-9eab-11f0-9d1f-e7d83132d3ab.jpg"/>
     </item>
     <item>
       <title><![CDATA[Half of UK adults now regularly use mobile payments]]></title>
@@ -254,14 +262,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cpd92gpld0go</guid>
       <pubDate>Wed, 24 Sep 2025 07:11:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98be/live/12f91a30-98ab-11f0-a14e-6d2172009a89.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[TikTok child data protection inadequate, Canadian privacy officials say]]></title>
-      <description><![CDATA[TikTok says it will introduce measures to "strengthen our platform" although it disputes some of the findings.]]></description>
-      <link>https://www.bbc.com/news/articles/c4gj5lqq52lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gj5lqq52lo</guid>
-      <pubDate>Wed, 24 Sep 2025 01:46:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e474/live/cbd05a40-98d9-11f0-bd83-414b4601261d.jpg"/>
     </item>
     <item>
       <title><![CDATA[The people turning to AI for dating and relationship advice]]></title>
