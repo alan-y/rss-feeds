@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 06:28:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 06:55:47 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,6 +48,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7b7/live/3480d240-a226-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Ten games, three goals - assessing Gyokeres' Arsenal start]]></title>
+      <description><![CDATA[After Viktor Gyokeres' three goals in his first 10 Arsenal games, BBC Sport looks at the £64m signing's impact.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdx2750g617o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdx2750g617o</guid>
+      <pubDate>Mon, 06 Oct 2025 06:27:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/302e/live/31168350-a214-11f0-80f5-61832317d528.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Grealish for England'? Everton loanee giving Tuchel a 'headache']]></title>
       <description><![CDATA[Two days after being left out of the England squad, has Jack Grealish given manager Thomas Tuchel "a headache"?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cpd9701jnylo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -70,14 +78,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78ngyyg0lyo</guid>
       <pubDate>Sun, 05 Oct 2025 21:04:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1681/live/7b7241d0-a234-11f0-92db-77261a15b9d2.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
-      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce84l8467pgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce84l8467pgo</guid>
-      <pubDate>Sun, 05 Oct 2025 21:37:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb2b/live/d93b7dd0-a230-11f0-928c-71dbb8619e94.png"/>
     </item>
     <item>
       <title><![CDATA['Nowhere near our level' but Celtic show 'heart' in landmark win]]></title>
@@ -177,11 +177,19 @@
     </item>
     <item>
       <title><![CDATA[Ramsey a Wales injury doubt for England and Belgium]]></title>
-      <description><![CDATA[Aaron Ramsey has suffered a fresh injury scare - plus a look at which other players got minutes and how they performed for their clubs before joining up with the Wales camp.]]></description>
+      <description><![CDATA[Aaron Ramsey suffers a fresh injury scare - plus a look at how the rest of Craig Bellamy's squad performed for their clubs before Wales duty.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cp3v0xl0v1vo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3v0xl0v1vo</guid>
       <pubDate>Mon, 06 Oct 2025 04:47:25 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b21/live/403aac00-a26c-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
+      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce84l8467pgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce84l8467pgo</guid>
+      <pubDate>Sun, 05 Oct 2025 21:37:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb2b/live/d93b7dd0-a230-11f0-928c-71dbb8619e94.png"/>
     </item>
     <item>
       <title><![CDATA[Nine games, nine losses for troubled West Ham & Liverpool]]></title>
@@ -232,20 +240,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82f0/live/9218fde0-a1fb-11f0-947b-6b8b23372a50.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Are you Schmeichel in disguise?' Lammens serenaded on Man Utd debut]]></title>
-      <description><![CDATA[Senne Lammens was compared to Peter Schmeichel in fan chants on his Manchester United debut - but how did he really get on?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgj1e8w82l5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgj1e8w82l5o</guid>
-      <pubDate>Sat, 04 Oct 2025 19:04:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e05/live/7e4f3e60-a155-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Good on them for being excited' - should Hearts fans dare to dream of title?]]></title>
       <description><![CDATA[Derek McInnes says Hearts fans are right to be excited after a late derby winner sends his side five points clear in the Scottish Premiership.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8xrngxg4wyo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8xrngxg4wyo</guid>
       <pubDate>Sat, 04 Oct 2025 20:47:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d43c/live/968ec110-a157-11f0-b532-53fba03d9a6f.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Are you Schmeichel in disguise?' Lammens serenaded on Man Utd debut]]></title>
+      <description><![CDATA[Senne Lammens was compared to Peter Schmeichel in fan chants on his Manchester United debut - but how did he really get on?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgj1e8w82l5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgj1e8w82l5o</guid>
+      <pubDate>Sat, 04 Oct 2025 19:04:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e05/live/7e4f3e60-a155-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA['He's going to be special' - the moment Estevao arrived]]></title>
