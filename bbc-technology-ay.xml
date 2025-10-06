@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 05 Oct 2025 23:47:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 01:19:44 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[The true extent of cyber attacks on UK business - and the weak spots that allow them to happen ]]></title>
+      <description><![CDATA[Are this year's major attacks the "cumulative effect of a kind of inaction on cyber security" from the government and big business?]]></description>
+      <link>https://www.bbc.com/news/articles/c5ye8zj5l4jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ye8zj5l4jo</guid>
+      <pubDate>Mon, 06 Oct 2025 00:52:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd0d/live/eacf7ae0-a110-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
     <item>
       <title><![CDATA[How China is challenging Nvidia's AI chip dominance]]></title>
       <description><![CDATA[Beijing has urged local firms to use homemade chips. But is China ready to turn away from Nvidia?]]></description>
@@ -102,24 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c2ejvld0ypyo</guid>
       <pubDate>Wed, 01 Oct 2025 08:49:07 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4768/live/cc21e390-9de5-11f0-a561-d7c24224dfc6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Imgur blocks access to UK users after regulator warned of fine]]></title>
-      <description><![CDATA[The image-hosting platform - which is widely used to make memes - was facing a fine over its use of children's data.
-
-]]></description>
-      <link>https://www.bbc.com/news/articles/c4gzxv5gy3qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gzxv5gy3qo</guid>
-      <pubDate>Tue, 30 Sep 2025 13:19:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90cd/live/66c98e50-9dfc-11f0-a82d-4d2348b593b6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[AO boss tells BBC: We're a British success story – the UK should be turbocharging us]]></title>
-      <description><![CDATA[John Roberts, the founder of AO and so-called kitchen king, says tax rises are putting "grit" into businesses.]]></description>
-      <link>https://www.bbc.com/news/articles/c8exj892085o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8exj892085o</guid>
-      <pubDate>Tue, 30 Sep 2025 23:28:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26c5/live/f9fe0080-9e0a-11f0-bc74-c938242ac6b1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chinese woman convicted after 'world's biggest' bitcoin seizure]]></title>
@@ -264,14 +254,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gj5lqq52lo</guid>
       <pubDate>Wed, 24 Sep 2025 01:46:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e474/live/cbd05a40-98d9-11f0-bd83-414b4601261d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Trump claims a TikTok deal is done. Who would own it, and how would it work?]]></title>
-      <description><![CDATA[Trump says a deal is done but the details have not been confirmed by China or the app's owner ByteDance.]]></description>
-      <link>https://www.bbc.com/news/articles/clyng762q4eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/clyng762q4eo</guid>
-      <pubDate>Tue, 30 Sep 2025 11:23:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bbf/live/de7d5e70-9a98-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
       <title><![CDATA[The people turning to AI for dating and relationship advice]]></title>
