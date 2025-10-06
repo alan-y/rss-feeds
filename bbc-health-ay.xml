@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 09:47:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 10:20:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Nobel Prize for discovering immune  security guards]]></title>
+      <description><![CDATA[The prize-winning work explains how the immune system attacks hostile infections, but not the body's own cells.]]></description>
+      <link>https://www.bbc.com/news/articles/c2knwvpd7vno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2knwvpd7vno</guid>
+      <pubDate>Mon, 06 Oct 2025 10:00:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d22/live/4ce477f0-a29a-11f0-b5fb-09dc1426da0e.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Former England captain Moody reveals MND diagnosis ]]></title>
       <description><![CDATA[Former England captain Lewis Moody says in an exclusive BBC interview he has "a reluctance to look the future in the face".]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cjed4qvzjeyo</guid>
       <pubDate>Wed, 01 Oct 2025 15:19:25 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db7c/live/6ad86760-9e1e-11f0-b3fe-41cd43eebd60.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Mum's anti-chemo views influenced daughter's death]]></title>
-      <description><![CDATA[Paloma Shemirani died after refusing chemotherapy despite a diagnosis of non-Hodgkin lymphoma.]]></description>
-      <link>https://www.bbc.com/news/articles/c77dmp3jjepo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c77dmp3jjepo</guid>
-      <pubDate>Thu, 02 Oct 2025 14:59:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/a9de5340-9fa7-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[I went undercover as a cleaner at a failing care home. Here's what I witnessed]]></title>
@@ -232,7 +232,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f97c/live/6604bf20-9853-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
-      <title><![CDATA[EastEnders' Kellie Bright on the challenges of being a Send parent]]></title>
+      <title><![CDATA[EastEnders' Kellie Bright on the challenges of being parent of an autistic child]]></title>
       <description><![CDATA[The soap actor meets families fighting for their children’s education for BBC Panorama.]]></description>
       <link>https://www.bbc.com/news/articles/c0jqy8pn275o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jqy8pn275o</guid>
