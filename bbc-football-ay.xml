@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 05:18:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 05:36:10 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -136,6 +136,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26de/live/61e138b0-a20d-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Rooney questions work ethic of 'lost' Salah]]></title>
+      <description><![CDATA[Wayne Rooney, Kelly Somers, Kae Kurd and John Gibbons from The Anfield Wrap discuss Liverpool's loss of form, and why their talisman Mohamed Salah looks "lost".]]></description>
+      <link>https://www.bbc.com/sport/football/videos/ckg3evgn521o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ckg3evgn521o</guid>
+      <pubDate>Mon, 06 Oct 2025 05:19:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5261/live/771d1980-a229-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['They aren't talking about Isak anymore' - is Woltemade proving his worth?]]></title>
       <description><![CDATA[Match of the Day's Kelly Cates, Joe Hart and Danny Murphy discuss whether Nick Woltemade is proving he is worth the £69m Newcastle paid for him in the summer.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cpvleyn4nw3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -166,14 +174,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c4gk31z6ee6o</guid>
       <pubDate>Sun, 05 Oct 2025 17:27:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7f1/live/4faf4840-a20c-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['You've got to give a manager time' - Hart on life under Postecoglou]]></title>
-      <description><![CDATA[Match of the Day's Joe Hart talks about his experience playing under Ange Postecoglou at Celtic to explain why he should be given more time at Nottingham Forest.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cx2rzg05eweo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2rzg05eweo</guid>
-      <pubDate>Sun, 05 Oct 2025 23:10:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6966/live/8726d820-a23d-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Nine games, nine losses for troubled West Ham & Liverpool]]></title>
@@ -280,12 +280,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4f1/live/56207830-a166-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Wafcon expands to 16 teams for 2026 finals]]></title>
-      <description><![CDATA[The Women's Africa Cup of Nations will expand from 12 to 16 teams beginning with the 2026 finals in Morocco.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c07p44r1z2zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07p44r1z2zo</guid>
-      <pubDate>Sun, 05 Oct 2025 08:25:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9052/live/777c3af0-6a7a-11f0-85c3-f353314ad7f2.jpg"/>
+      <title><![CDATA['You've got to give a manager time' - Hart on life under Postecoglou]]></title>
+      <description><![CDATA[Match of the Day's Joe Hart talks about his experience playing under Ange Postecoglou at Celtic to explain why he should be given more time at Nottingham Forest.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cx2rzg05eweo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2rzg05eweo</guid>
+      <pubDate>Sun, 05 Oct 2025 23:10:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6966/live/8726d820-a23d-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch Martin's final Rangers interview]]></title>
@@ -366,14 +366,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgmzkkw748lo</guid>
       <pubDate>Sun, 05 Oct 2025 16:11:49 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389e/live/467da160-a205-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Watch as Martin leaves Falkirk separately before being sacked]]></title>
-      <description><![CDATA[Watch Russell Martin leave Falkirk separately as Rangers fans hold up the team bus.]]></description>
-      <link>https://www.bbc.com/sport/videos/clydj335242o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/videos/clydj335242o</guid>
-      <pubDate>Sun, 05 Oct 2025 18:30:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fc/live/3f7d1710-a219-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
       <title><![CDATA[The younger Mbappe emerging from his brother's shadow]]></title>
@@ -486,6 +478,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07vr3x1834o</guid>
       <pubDate>Sun, 05 Oct 2025 18:16:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33ff/live/57609e70-a218-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Watch as Martin leaves Falkirk separately before being sacked]]></title>
+      <description><![CDATA[Watch Russell Martin leave Falkirk separately as Rangers fans hold up the team bus.]]></description>
+      <link>https://www.bbc.com/sport/videos/clydj335242o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/videos/clydj335242o</guid>
+      <pubDate>Sun, 05 Oct 2025 18:30:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fc/live/3f7d1710-a219-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
       <title><![CDATA[San Siro could be demolished as sale approved]]></title>
