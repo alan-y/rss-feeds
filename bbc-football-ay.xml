@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 23:16:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 23:32:09 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -232,14 +232,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/302e/live/31168350-a214-11f0-80f5-61832317d528.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Naismith wants Scotland destiny 'in our own hands']]></title>
-      <description><![CDATA[Scotland want maximum points this month to ensure their World Cup qualifying fate "is in our own hands", says assistant coach Steven Naismith.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c99gdp9m717o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c99gdp9m717o</guid>
-      <pubDate>Mon, 06 Oct 2025 13:25:39 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65c6/live/6461eee0-a2b7-11f0-b2c5-019105d9c0cd.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[What to look out for as Women's Champions League returns]]></title>
       <description><![CDATA[The Women's Champions League league phase is about to begin - and BBC Sport takes a look at what to expect from the new format.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c89d0d0lgg4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -264,6 +256,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbb/live/db9b1be0-a234-11f0-928c-71dbb8619e94.png"/>
     </item>
     <item>
+      <title><![CDATA[Naismith wants Scotland destiny 'in our own hands']]></title>
+      <description><![CDATA[Scotland want maximum points this month to ensure their World Cup qualifying fate "is in our own hands", says assistant coach Steven Naismith.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c99gdp9m717o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c99gdp9m717o</guid>
+      <pubDate>Mon, 06 Oct 2025 13:25:39 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65c6/live/6461eee0-a2b7-11f0-b2c5-019105d9c0cd.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
       <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
       <link>https://www.bbc.com/sport/football/articles/ce84l8467pgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -282,14 +282,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91a9/live/c7fc3e70-a2b6-11f0-b2c5-019105d9c0cd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Depay late for Dutch duty after passport stolen]]></title>
-      <description><![CDATA[Netherlands forward Memphis Depay will be late for international duty because his passport was stolen in Brazil, where he plays for Corinthians.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c99gdm04m3lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c99gdm04m3lo</guid>
-      <pubDate>Mon, 06 Oct 2025 14:48:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7496/live/b758b530-a2c0-11f0-8b38-691926760cd4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Who can still claim Africa's spots at 2026 World Cup?]]></title>
       <description><![CDATA[Seven spots at the 2026 Fifa World Cup remain up for grabs as the group stage of African qualifying reaches its climax.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cp8w4x8p2n6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -304,6 +296,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgew8llg6ko</guid>
       <pubDate>Mon, 06 Oct 2025 10:45:43 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c8/live/3052d500-a29f-11f0-92db-77261a15b9d2.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Depay late for Dutch duty after passport stolen]]></title>
+      <description><![CDATA[Netherlands forward Memphis Depay will be late for international duty because his passport was stolen in Brazil, where he plays for Corinthians.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c99gdm04m3lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c99gdm04m3lo</guid>
+      <pubDate>Mon, 06 Oct 2025 14:48:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7496/live/b758b530-a2c0-11f0-8b38-691926760cd4.jpg"/>
     </item>
     <item>
       <title><![CDATA['The name's Wirtz... Florian Wirtz' - which players have 'gone 007'?]]></title>
@@ -360,14 +360,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2pmz11znzo</guid>
       <pubDate>Sun, 05 Oct 2025 17:21:58 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d27/live/7aee4bf0-a20c-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Grealish for England'? Everton loanee giving Tuchel a 'headache']]></title>
-      <description><![CDATA[Two days after being left out of the England squad, has Jack Grealish given manager Thomas Tuchel "a headache"?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpd9701jnylo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpd9701jnylo</guid>
-      <pubDate>Sun, 05 Oct 2025 17:43:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6034/live/e5319ab0-a21d-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA['Nowhere near our level' but Celtic show 'heart' in landmark win]]></title>
