@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 20:38:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 20:51:36 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,7 +40,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/121b/live/436c09a0-9de9-11f0-b3aa-f94b46cdf49f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How Harry Kane-inspired tactic is undoing Barcelona]]></title>
+      <title><![CDATA[How Kane-inspired tactic is undoing Barcelona]]></title>
       <description><![CDATA[Barcelona have lost their latest two games and there is a Harry Kane-inspired tactical tweak that teams are using to disrupt their defence this season.]]></description>
       <link>https://www.bbc.com/sport/articles/c78n30k8l2po?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/c78n30k8l2po</guid>
@@ -152,6 +152,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4595/live/663cd0f0-a2d9-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Lammens' confidence grew on Man Utd debut - Schmeichel]]></title>
+      <description><![CDATA[Former Manchester United goalkeeper Peter Schmeichel praises 23-year-old Senne Lammens' performance for the Red Devils in their 2-0 victory over Sunderland. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c62zk5l65k7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c62zk5l65k7o</guid>
+      <pubDate>Mon, 06 Oct 2025 20:48:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fca/live/1aefabc0-a2f4-11f0-92db-77261a15b9d2.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Rooney questions work ethic of 'lost' Salah]]></title>
       <description><![CDATA[Wayne Rooney, Kelly Somers, Kae Kurd and John Gibbons from The Anfield Wrap discuss Liverpool's loss of form, and why their talisman Mohamed Salah looks "lost".]]></description>
       <link>https://www.bbc.com/sport/football/videos/ckg3evgn521o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -174,14 +182,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn95wly8317o</guid>
       <pubDate>Mon, 06 Oct 2025 07:35:06 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b9e/live/0397e150-a23f-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Are 'exciting' Man Utd WSL title contenders?]]></title>
-      <description><![CDATA[The Women's Football Show pundits Fern Whelan & Nia Jones discuss whether Manchester United are Women's Super League title contenders.]]></description>
-      <link>https://www.bbc.com/sport/videos/cvgqy8xzgnlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/videos/cvgqy8xzgnlo</guid>
-      <pubDate>Mon, 06 Oct 2025 09:34:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9d7/live/57d8bec0-a293-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why Salah has become a 'little problem' for Liverpool]]></title>
@@ -386,6 +386,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11ea/live/8367d650-a227-11f0-9a8d-55d7ff06f061.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Are 'exciting' Man Utd WSL title contenders?]]></title>
+      <description><![CDATA[The Women's Football Show pundits Fern Whelan & Nia Jones discuss whether Manchester United are Women's Super League title contenders.]]></description>
+      <link>https://www.bbc.com/sport/videos/cvgqy8xzgnlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/videos/cvgqy8xzgnlo</guid>
+      <pubDate>Mon, 06 Oct 2025 09:34:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9d7/live/57d8bec0-a293-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['They aren't talking about Isak anymore' - is Woltemade proving his worth?]]></title>
       <description><![CDATA[Match of the Day's Kelly Cates, Joe Hart and Danny Murphy discuss whether Nick Woltemade is proving he is worth the £69m Newcastle paid for him in the summer.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cpvleyn4nw3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -464,14 +472,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c4g9xnq7w8vo</guid>
       <pubDate>Sun, 05 Oct 2025 19:18:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/220e/live/0d43e4f0-a21d-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Maybe we needed it' - Glasner on losing unbeaten record]]></title>
-      <description><![CDATA[Crystal Palace manager head coach Oliver Glasner admits it "hurts" to see his side lose their club-record 19-match unbeaten run after conceding a 93rd-minute goal in a 2-1 loss to Everton, but believes it could be beneficial to Palace in the long run.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c15k11wy5g7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c15k11wy5g7o</guid>
-      <pubDate>Sun, 05 Oct 2025 16:04:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8502/live/7e20b640-a203-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[The younger Mbappe emerging from his brother's shadow]]></title>
