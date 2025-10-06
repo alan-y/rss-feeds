@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 14:51:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 15:19:30 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -106,6 +106,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65c6/live/6461eee0-a2b7-11f0-b2c5-019105d9c0cd.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Gobby troublemaker to meticulous coach' - Bellamy's evolution]]></title>
+      <description><![CDATA[Craig Bellamy has evolved from a spiky, controversial player to a deep-thinking coach of Wales, as those who know him best tell BBC Sport.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c86425e84ygo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c86425e84ygo</guid>
+      <pubDate>Mon, 06 Oct 2025 06:59:47 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abd7/live/c4b1ce60-a045-11f0-9251-31c97a45eb73.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Grealish's 93rd-minute winner ends Palace unbeaten run]]></title>
       <description><![CDATA[Watch highlights as Jack Grealish scores a dramatic 93rd-minute winner to end Crystal Palace's club-record 19-match unbeaten run.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c8rvnnj2m84o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -186,14 +194,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2237/live/7fc65580-a23b-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Gobby troublemaker to meticulous coach' - Bellamy's evolution]]></title>
-      <description><![CDATA[Craig Bellamy has evolved from a spiky, controversial player to a deep-thinking coach of Wales, as those who know him best tell BBC Sport.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c86425e84ygo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c86425e84ygo</guid>
-      <pubDate>Mon, 06 Oct 2025 06:59:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abd7/live/c4b1ce60-a045-11f0-9251-31c97a45eb73.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Depay late for Dutch duty after passport stolen]]></title>
       <description><![CDATA[Netherlands forward Memphis Depay will be late for international duty because his passport was stolen in Brazil, where he plays for Corinthians.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c99gdm04m3lo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -226,20 +226,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e9/live/45d3fa60-9e14-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
-      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce84l8467pgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce84l8467pgo</guid>
-      <pubDate>Sun, 05 Oct 2025 21:37:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb2b/live/d93b7dd0-a230-11f0-928c-71dbb8619e94.png"/>
-    </item>
-    <item>
       <title><![CDATA['I'll take Ferguson & Wenger to dinner' - Guardiola on 250 wins record]]></title>
       <description><![CDATA[Pep Guardiola says he will celebrate landmark of 250 Premier League wins in record time by inviting Sir Alex Ferguson and Arsene Wenger to dinner.]]></description>
       <link>https://www.bbc.com/sport/football/articles/clyl8e80l9do?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyl8e80l9do</guid>
       <pubDate>Sun, 05 Oct 2025 20:57:42 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7b7/live/3480d240-a226-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
+      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce84l8467pgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce84l8467pgo</guid>
+      <pubDate>Sun, 05 Oct 2025 21:37:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb2b/live/d93b7dd0-a230-11f0-928c-71dbb8619e94.png"/>
     </item>
     <item>
       <title><![CDATA['Nowhere near our level' but Celtic show 'heart' in landmark win]]></title>
@@ -474,6 +474,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab32/live/2024ee20-9b9c-11f0-bdeb-9de9348d5d1d.jpg"/>
     </item>
     <item>
+      <title><![CDATA[What are penalty retake rules after Roma penalty drama?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team explains the rules on penalty retakes after Roma took the same penalty three times against Lille in the Europa League]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj9zg7ddmkko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj9zg7ddmkko</guid>
+      <pubDate>Fri, 03 Oct 2025 10:45:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80f2/live/40c2a870-a042-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Why are Kazakhstan part of Uefa?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team explains why Kazakhstan are part of Uefa.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cp8j6rqyed8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -496,22 +504,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3drl8yzv9lo</guid>
       <pubDate>Mon, 29 Sep 2025 12:13:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/446c/live/98c49fb0-9d2c-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What is meldonium and can it enhance a footballer's performance?]]></title>
-      <description><![CDATA[Meldonium use has led to significant bans for several prominent athletes.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0ew9qnv9dqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0ew9qnv9dqo</guid>
-      <pubDate>Tue, 16 Sep 2025 14:11:26 GMT</pubDate>
-      <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53fb/live/4c9d8e80-4c64-11f0-86d5-3b52b53af158.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What is the Champions League anthem?]]></title>
-      <description><![CDATA[Our Ask Me Anything team look at how the Champions League anthem was created and what the lyrics are.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8d7gdez5dzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8d7gdez5dzo</guid>
-      <pubDate>Mon, 15 Sep 2025 11:56:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd5b/live/d819a980-921e-11f0-9cf6-cbf3e73ce2b9.png"/>
     </item>
     <item>
       <title><![CDATA[Is the Premier League getting younger?]]></title>
