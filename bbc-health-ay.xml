@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 07 Oct 2025 08:54:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 09:21:42 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,6 +40,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0150/live/57488580-a2bb-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Deaf people criticise hospital interpreter delays]]></title>
+      <description><![CDATA[A charity says it has had more than 100 complaints about a lack of interpreters at the hospital.]]></description>
+      <link>https://www.bbc.com/news/articles/cp3vz90lw43o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3vz90lw43o</guid>
+      <pubDate>Tue, 07 Oct 2025 04:56:29 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de7f/live/23a05cb0-9b01-11f0-8272-7f0194ae8142.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Scientists win Nobel Prize for discovering why immune system does not destroy the body]]></title>
       <description><![CDATA[The prize-winning discovery explains how the immune system attacks hostile infections, but not the body's own cells.]]></description>
       <link>https://www.bbc.com/news/articles/c2knwvpd7vno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -64,12 +72,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04a1/live/6b953710-a034-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What exactly is freshers' flu - and why do so many get it?]]></title>
-      <description><![CDATA[It's not the actual flu, and it's rarely serious, but when thousands of students arrive on campus they bring a cocktail of viruses.]]></description>
-      <link>https://www.bbc.com/news/articles/c147218x7rgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c147218x7rgo</guid>
-      <pubDate>Sat, 04 Oct 2025 23:05:38 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c9b/live/2dd015c0-a0b2-11f0-ac11-a11de8fbd7b8.png"/>
+      <title><![CDATA['Why won't anyone give my son access to healthcare?']]></title>
+      <description><![CDATA[When Harry turned 18, he no longer had access to various healthcare services, his mum says. ]]></description>
+      <link>https://www.bbc.com/news/articles/c3dr4v3vz3lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3dr4v3vz3lo</guid>
+      <pubDate>Tue, 07 Oct 2025 05:11:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8053/live/69655560-a04d-11f0-b76f-25c45ed3060d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is it a cold, flu or Covid – and how to avoid the worst]]></title>
@@ -224,20 +232,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92e1/live/dc7ba250-9dca-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Pharmacies to offer toddler flu spray vaccination]]></title>
-      <description><![CDATA[Children aged two and three-years-old can received the flu nasal spray in pharmacies for the first time from October 1.]]></description>
-      <link>https://www.bbc.com/news/articles/c179xqqy1w5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c179xqqy1w5o</guid>
-      <pubDate>Wed, 24 Sep 2025 08:49:37 GMT</pubDate>
-      <media:thumbnail width="240" height="142" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c8d/live/91ad3620-991b-11f0-858a-a904eacbef23.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[EastEnders' Kellie Bright on the challenges of being parent of an autistic child]]></title>
       <description><![CDATA[The soap actor meets families fighting for their children’s education for BBC Panorama.]]></description>
       <link>https://www.bbc.com/news/articles/c0jqy8pn275o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jqy8pn275o</guid>
       <pubDate>Mon, 06 Oct 2025 00:35:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f006/live/37372320-a07a-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What exactly is freshers' flu - and why do so many get it?]]></title>
+      <description><![CDATA[It's not the actual flu, and it's rarely serious, but when thousands of students arrive on campus they bring a cocktail of viruses.]]></description>
+      <link>https://www.bbc.com/news/articles/c147218x7rgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c147218x7rgo</guid>
+      <pubDate>Sat, 04 Oct 2025 23:05:38 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c9b/live/2dd015c0-a0b2-11f0-ac11-a11de8fbd7b8.png"/>
     </item>
     <item>
       <title><![CDATA[How weight-loss injections are turning obesity into a wealth issue]]></title>
@@ -382,14 +390,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8179z199vo</guid>
       <pubDate>Wed, 16 Jul 2025 21:00:21 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e23/live/a49702b0-5e75-11f0-a633-790fe0633fd6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[NHS tracker - are hospital waiting times improving near you?]]></title>
-      <description><![CDATA[Use our interactive tracker to see if treatment waits are getting better at your local hospital.]]></description>
-      <link>https://www.bbc.com/news/articles/cq53qx2vg6jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq53qx2vg6jo</guid>
-      <pubDate>Thu, 11 Sep 2025 09:38:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e64/live/1cccf440-5013-11f0-8c47-237c2e4015f5.png"/>
     </item>
     <item>
       <title><![CDATA[What is chickenpox and how can I get my child vaccinated?]]></title>
