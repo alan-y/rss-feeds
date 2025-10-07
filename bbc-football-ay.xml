@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 07 Oct 2025 22:35:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 22:47:32 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[England's Golden Generation were 'egotistical losers' - Gerrard]]></title>
-      <description><![CDATA[Former England captain Steven Gerrard says he sometimes "hated" being on international duty and blames a lack of success with the Three Lions on key players being "egotistical losers".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cq653600zdqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq653600zdqo</guid>
-      <pubDate>Tue, 07 Oct 2025 15:27:03 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/484c/live/ae1954d0-a38c-11f0-96cf-a52f331e209a.jpg"/>
-    </item>
     <item>
       <title><![CDATA['Tough moments' after Saudi move -  Henderson]]></title>
       <description><![CDATA[England midfielder Jordan Henderson says he has had "tough moments" since leaving Liverpool for Saudi Arabia and could "have made different decisions".]]></description>
@@ -32,12 +24,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cfb/live/fb6b5c00-a3c4-11f0-8ab2-f1e2a3fe0243.jpg"/>
     </item>
     <item>
-      <title><![CDATA['The perfect signing' - Son's Messi-like impact in Los Angeles]]></title>
-      <description><![CDATA[After more than a decade at Tottenham Hotspur, BBC Sport looks at the impact "perfect signing" Son Heung-min is having at Los Angeles FC.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c708lx0y87xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c708lx0y87xo</guid>
-      <pubDate>Tue, 07 Oct 2025 12:06:37 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ca0/live/c2bd5af0-a2c2-11f0-8b38-691926760cd4.jpg"/>
+      <title><![CDATA[England's Golden Generation were 'egotistical losers' - Gerrard]]></title>
+      <description><![CDATA[Former England captain Steven Gerrard says he sometimes "hated" being on international duty and blames a lack of success with the Three Lions on key players being "egotistical losers".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cq653600zdqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq653600zdqo</guid>
+      <pubDate>Tue, 07 Oct 2025 15:27:03 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/484c/live/ae1954d0-a38c-11f0-96cf-a52f331e209a.jpg"/>
     </item>
     <item>
       <title><![CDATA['Vinicius smiling again but his future has never been more uncertain']]></title>
@@ -46,6 +38,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2lx8xnjwz5o</guid>
       <pubDate>Tue, 07 Oct 2025 14:06:18 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4cb/live/d8ee6ad0-a2d6-11f0-928c-71dbb8619e94.png"/>
+    </item>
+    <item>
+      <title><![CDATA['The perfect signing' - Son's Messi-like impact in Los Angeles]]></title>
+      <description><![CDATA[After more than a decade at Tottenham Hotspur, BBC Sport looks at the impact "perfect signing" Son Heung-min is having at Los Angeles FC.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c708lx0y87xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c708lx0y87xo</guid>
+      <pubDate>Tue, 07 Oct 2025 12:06:37 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ca0/live/c2bd5af0-a2c2-11f0-8b38-691926760cd4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arsenal consider Wembley move to enable Emirates Stadium expansion]]></title>
@@ -144,6 +144,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e0e/live/fa398c60-a14b-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Gerrard cites 'unfinished business' as Rangers wait]]></title>
+      <description><![CDATA[Rangers are awaiting confirmation over whether their former manager Steven Gerrard is interested in a return to Ibrox.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy9v4pgzj5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy9v4pgzj5o</guid>
+      <pubDate>Tue, 07 Oct 2025 17:49:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f89e/live/28ef26c0-a39d-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Baraclough has 'no bitterness' over NI sacking]]></title>
       <description><![CDATA[As Northern Ireland prepare to host Slovakia in World Cup qualifying, former NI boss Ian Baraclough speaks to BBC Sport NI about his tenure. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c80gn75jxkeo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -176,14 +184,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czjvzrj2grvo</guid>
       <pubDate>Tue, 07 Oct 2025 15:55:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de3a/live/ffb7d060-a390-11f0-95e7-93813d968835.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Gerrard cites 'unfinished business' as Rangers wait]]></title>
-      <description><![CDATA[Rangers are awaiting confirmation over whether their former manager Steven Gerrard is interested in a return to Ibrox.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy9v4pgzj5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy9v4pgzj5o</guid>
-      <pubDate>Tue, 07 Oct 2025 17:49:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f89e/live/28ef26c0-a39d-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Can you name the teams from England 2-1 Wales at Euro 2016?]]></title>
@@ -234,6 +234,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1152/live/5937e750-a298-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How much would Tottenham Hotspur be worth?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team explains how much Tottenham Hotspur is likely to be worth amid links with a future takeover.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx23z2xzggqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx23z2xzggqo</guid>
+      <pubDate>Tue, 07 Oct 2025 15:54:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/758e/live/10a3c8c0-a391-11f0-92db-77261a15b9d2.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Why is this the last October international break of its kind?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team explain the major changes happening to football's international breaks starting in 2026.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cq5jl744pwpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -250,12 +258,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8504/live/d1758290-a2f2-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How much are Tottenham Hotspur worth?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team explains how much Tottenham Hotspur is likely to be worth amid links with a future takeover.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx23z2xzggqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx23z2xzggqo</guid>
-      <pubDate>Tue, 07 Oct 2025 15:54:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/758e/live/10a3c8c0-a391-11f0-92db-77261a15b9d2.jpg"/>
+      <title><![CDATA[Was Martin worst Rangers boss ever? What do the numbers say?]]></title>
+      <description><![CDATA[BBC Scotland crunches the numbers behind Russell Martin's calamitous four-month tenure and looks at who Rangers could turn to next.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3e7qv8le3lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3e7qv8le3lo</guid>
+      <pubDate>Mon, 06 Oct 2025 16:17:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2917/live/12c86c70-a29f-11f0-92db-77261a15b9d2.png"/>
     </item>
     <item>
       <title><![CDATA[England squad strength 'ridiculous' - Wales boss Bellamy]]></title>
@@ -274,20 +282,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f3d/live/d075ff90-a384-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why has Cole Palmer trademarked 'Cold Palmer'?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team looks at why Chelsea and England star Cole Palmer trademarked his nickname and autograph.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp8j0852810o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8j0852810o</guid>
+      <pubDate>Tue, 07 Oct 2025 15:09:37 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ac6/live/40d65cd0-a38a-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Brazil's undisputed star? Neymar's World Cup race against time]]></title>
       <description><![CDATA[Will Neymar, racked by injuries and out of sorts when he does make it on to the pitch, still be Brazil's undisputed star at the World Cup next summer?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn4wp40jl0xo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn4wp40jl0xo</guid>
       <pubDate>Mon, 06 Oct 2025 06:57:36 GMT</pubDate>
       <media:thumbnail width="240" height="132" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f74f/live/f49e1870-9f7f-11f0-b741-177e3e2c2fc7.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Is Martin worst Rangers boss ever? What do the numbers say?]]></title>
-      <description><![CDATA[BBC Scotland crunches the numbers behind Russell Martin's calamitous four-month tenure and looks at who Rangers could turn to next.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3e7qv8le3lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3e7qv8le3lo</guid>
-      <pubDate>Mon, 06 Oct 2025 16:17:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2917/live/12c86c70-a29f-11f0-92db-77261a15b9d2.png"/>
     </item>
     <item>
       <title><![CDATA[World Cup 'last piece of jigsaw' for Scotland men]]></title>
@@ -298,12 +306,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a267/live/999e4e10-a2e3-11f0-ba2e-7d74c4f6f1cb.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Why has Cole Palmer trademarked 'Cold Palmer'?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team looks at why Chelsea and England star Cole Palmer trademarked his nickname and autograph.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp8j0852810o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8j0852810o</guid>
-      <pubDate>Tue, 07 Oct 2025 15:09:37 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ac6/live/40d65cd0-a38a-11f0-b741-177e3e2c2fc7.jpg"/>
+      <title><![CDATA[Who has qualified for the 2026 World Cup so far?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team looks at who has qualified for next year's Fifa World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cglepde7yzlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cglepde7yzlo</guid>
+      <pubDate>Tue, 07 Oct 2025 08:09:35 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72df/live/6320ea80-a353-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Gerrard? Dyche? McInnes? Who next for Rangers' 'poisoned chalice'?]]></title>
@@ -314,14 +322,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed6d/live/64708920-a29c-11f0-b741-177e3e2c2fc7.png"/>
     </item>
     <item>
-      <title><![CDATA[Who has qualified for the 2026 World Cup so far?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team looks at who has qualified for next year's Fifa World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cglepde7yzlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cglepde7yzlo</guid>
-      <pubDate>Tue, 07 Oct 2025 08:09:35 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72df/live/6320ea80-a353-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[O'Reilly replaces injured James in England squad]]></title>
       <description><![CDATA[Manchester City defender Nico O'Reilly receives his first call-up to the England squad following the withdrawal of Reece James.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c9wd4848nrxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -330,28 +330,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20a7/live/8d4546c0-a2a0-11f0-94eb-2d0a64a6f1c0.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Can you name NI squad from Euro 2020 Slovakia play-off?]]></title>
-      <description><![CDATA[Ahead of Friday's World Cup qualifier, how many of the 23-man squad can you name from Northern Ireland's Euro 2020 play-off defeat by Slovakia?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx23134zxvyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx23134zxvyo</guid>
-      <pubDate>Tue, 07 Oct 2025 05:42:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa22/live/414af1d0-a2e0-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[US entrepreneur rules out Spurs takeover bid]]></title>
-      <description><![CDATA[American tech entrepreneur Brooklyn Earick announces he will not make a formal takeover bid for Tottenham.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c99gdgdjegeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c99gdgdjegeo</guid>
-      <pubDate>Mon, 06 Oct 2025 18:29:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52f1/live/2b97dbd0-a2dd-11f0-a01f-432b14e9b57f.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Ten games, three goals - assessing Gyokeres' Arsenal start]]></title>
       <description><![CDATA[After Viktor Gyokeres' three goals in his first 10 Arsenal games, BBC Sport looks at the £64m signing's impact.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdx2750g617o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdx2750g617o</guid>
       <pubDate>Mon, 06 Oct 2025 06:27:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/302e/live/31168350-a214-11f0-80f5-61832317d528.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Salah work ethic questionable in Liverpool dip - Rooney]]></title>
+      <description><![CDATA[Mohamed Salah's work ethic is questionable during Liverpool's dip in form, says former Manchester United and England striker Wayne Rooney.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c20ej0mzrz1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20ej0mzrz1o</guid>
+      <pubDate>Mon, 06 Oct 2025 10:00:33 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90e/live/7ba40460-a22d-11f0-bad1-135fa7f86807.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Can you name NI squad from Euro 2020 Slovakia play-off?]]></title>
+      <description><![CDATA[Ahead of Friday's World Cup qualifier, how many of the 23-man squad can you name from Northern Ireland's Euro 2020 play-off defeat by Slovakia?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx23134zxvyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx23134zxvyo</guid>
+      <pubDate>Tue, 07 Oct 2025 05:42:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa22/live/414af1d0-a2e0-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Uefa 'reluctantly' approves games played abroad]]></title>
