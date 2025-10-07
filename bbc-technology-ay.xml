@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 07 Oct 2025 19:47:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 20:19:44 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Two arrested over nursery cyber-attack]]></title>
+      <description><![CDATA[Pair held by police investigating reports of attack on a chain of London-based nurseries.]]></description>
+      <link>https://www.bbc.com/news/articles/cpvlgzk0xvpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cpvlgzk0xvpo</guid>
+      <pubDate>Tue, 07 Oct 2025 20:17:50 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f3f/live/028105e0-a3ba-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
     <item>
       <title><![CDATA[MrBeast: AI means it's 'scary times' for YouTube creators]]></title>
       <description><![CDATA[He says he's worried about what will happen to millions of creators when AI videos are as good as normal ones.]]></description>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r0y14ly5ro</guid>
       <pubDate>Fri, 03 Oct 2025 10:26:49 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/697e/live/62a6c8a0-a00a-11f0-a884-c9c349ad39f4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hackers say they have deleted children's pictures and data after nursery attack backlash]]></title>
-      <description><![CDATA[The hackers tell the BBC they are sorry for their actions - but experts say it's a practical rather than moral move.]]></description>
-      <link>https://www.bbc.com/news/articles/c8rv83mrlyyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8rv83mrlyyo</guid>
-      <pubDate>Wed, 01 Oct 2025 23:01:12 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0d0/live/7387ec40-9ef1-11f0-966a-39edada3cd47.jpg"/>
     </item>
     <item>
       <title><![CDATA[Xbox Game Pass price increase angers players]]></title>
