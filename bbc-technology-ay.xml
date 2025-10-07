@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 07 Oct 2025 10:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 11:17:46 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[MrBeast: AI means it's 'scary times' for YouTube creators]]></title>
+      <description><![CDATA[He says he's worried about what will happen to millions of creators when AI videos are as good as normal ones.]]></description>
+      <link>https://www.bbc.com/news/articles/cm2zmm0ry67o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2zmm0ry67o</guid>
+      <pubDate>Tue, 07 Oct 2025 11:15:05 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d2e/live/52bcf7c0-a35c-11f0-9ba1-d9aaa400322a.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Snapchat users share fury at upcoming fees for storing old photos and videos]]></title>
       <description><![CDATA[Snap said only a small number of users would be affected by the changes, but many online disagree.]]></description>
@@ -254,22 +262,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0knpm6v36go</guid>
       <pubDate>Wed, 24 Sep 2025 09:03:45 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e45a/live/386998d0-989c-11f0-8e62-81f400027fcb.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Man arrested in connection with cyber-attack on airports]]></title>
-      <description><![CDATA[The National Crime Agency (NCA) said a man in his forties was arrested in West Sussex.]]></description>
-      <link>https://www.bbc.com/news/articles/c62ldxyj431o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c62ldxyj431o</guid>
-      <pubDate>Wed, 24 Sep 2025 11:53:42 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a132/live/f7b9e9a0-9938-11f0-869a-3fa4ad43e8ee.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[AI tool helped recover £500m lost to fraud, government says]]></title>
-      <description><![CDATA[Ministers say software developed by the Cabinet Office has helped to ramp up fraud detection.]]></description>
-      <link>https://www.bbc.com/news/articles/cpd92gpld0go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cpd92gpld0go</guid>
-      <pubDate>Wed, 24 Sep 2025 07:11:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98be/live/12f91a30-98ab-11f0-a14e-6d2172009a89.jpg"/>
     </item>
     <item>
       <title><![CDATA[Food firms scramble to meet the high-protein craze]]></title>
