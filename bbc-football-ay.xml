@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 07 Oct 2025 17:46:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 18:29:31 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -72,7 +72,7 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f9b/live/e7d044a0-a381-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
-      <title><![CDATA['It's not over until it's over' - Parrott on World Cup hopes]]></title>
+      <title><![CDATA['Not over until it's over' - Parrott on World Cup hopes]]></title>
       <description><![CDATA[Republic of Ireland striker Troy Parrott says the Irish squad retain belief that they can still qualify for next year's World Cup.]]></description>
       <link>https://www.bbc.com/sport/football/articles/czjvzrj2grvo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czjvzrj2grvo</guid>
@@ -104,14 +104,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gw1qj494no</guid>
       <pubDate>Tue, 07 Oct 2025 16:58:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094f/live/12e054d0-a39d-11f0-95e7-93813d968835.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Baraclough has 'no bitterness' over NI sacking]]></title>
-      <description><![CDATA[As Northern Ireland prepare to host Slovakia in World Cup qualifying, former NI boss Ian Baraclough speaks to BBC Sport NI about his tenure. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c80gn75jxkeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80gn75jxkeo</guid>
-      <pubDate>Tue, 07 Oct 2025 05:40:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/649d/live/2b8db050-a135-11f0-a9f1-8d9167fcc08f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sutton says calls for Postecoglou's sacking 'ridiculous']]></title>
@@ -154,6 +146,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5261/live/771d1980-a229-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Baraclough has 'no bitterness' over NI sacking]]></title>
+      <description><![CDATA[As Northern Ireland prepare to host Slovakia in World Cup qualifying, former NI boss Ian Baraclough speaks to BBC Sport NI about his tenure. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c80gn75jxkeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80gn75jxkeo</guid>
+      <pubDate>Tue, 07 Oct 2025 05:40:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/649d/live/2b8db050-a135-11f0-a9f1-8d9167fcc08f.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Fifa accuses Malaysia of faking foreign-born players' eligibility]]></title>
       <description><![CDATA[The alleged forgery was done to comply with Fifa's 'grandfather rule' for foreign-born players.]]></description>
       <link>https://www.bbc.com/news/articles/cqxzv75dp4go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -163,10 +163,10 @@
     </item>
     <item>
       <title><![CDATA[Gerrard cites 'unfinished business' as Rangers wait]]></title>
-      <description><![CDATA[Rangers are open to reappointing Steven Gerrard as their next head coach as they await confirmation over whether he is open to a return to Ibrox.]]></description>
+      <description><![CDATA[Rangers are awaiting confirmation over whether their former manager Steven Gerrard is interested in a return to Ibrox.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwy9v4pgzj5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy9v4pgzj5o</guid>
-      <pubDate>Tue, 07 Oct 2025 17:02:01 GMT</pubDate>
+      <pubDate>Tue, 07 Oct 2025 17:49:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f89e/live/28ef26c0-a39d-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
@@ -298,20 +298,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed6d/live/64708920-a29c-11f0-b741-177e3e2c2fc7.png"/>
     </item>
     <item>
-      <title><![CDATA[Chair of football regulator revealed - who is he and what will he do?]]></title>
-      <description><![CDATA[Sports media rights executive David Kogan is appointed as the first chair of English football's new independent regulator.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly6kg4zrgmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly6kg4zrgmo</guid>
-      <pubDate>Mon, 06 Oct 2025 16:34:39 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6144/live/7f62d520-a2b1-11f0-bced-69e06f2484e5.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why has Cole Palmer trademarked 'Cold Palmer'?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team looks at why Chelsea and England star Cole Palmer trademarked his nickname and autograph.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cp8j0852810o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8j0852810o</guid>
       <pubDate>Tue, 07 Oct 2025 15:09:37 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ac6/live/40d65cd0-a38a-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Chair of football regulator revealed - who is he and what will he do?]]></title>
+      <description><![CDATA[Sports media rights executive David Kogan is appointed as the first chair of English football's new independent regulator.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly6kg4zrgmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly6kg4zrgmo</guid>
+      <pubDate>Mon, 06 Oct 2025 16:34:39 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6144/live/7f62d520-a2b1-11f0-bced-69e06f2484e5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Who has qualified for the 2026 World Cup so far?]]></title>
@@ -360,14 +360,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/c78n30k8l2po</guid>
       <pubDate>Mon, 06 Oct 2025 16:47:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0389/live/ea678f60-a2d3-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Salah work ethic questionable in Liverpool dip - Rooney]]></title>
-      <description><![CDATA[Mohamed Salah's work ethic is questionable during Liverpool's dip in form, says former Manchester United and England striker Wayne Rooney.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c20ej0mzrz1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20ej0mzrz1o</guid>
-      <pubDate>Mon, 06 Oct 2025 10:00:33 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90e/live/7ba40460-a22d-11f0-bad1-135fa7f86807.jpg"/>
     </item>
     <item>
       <title><![CDATA[Kelly's stunner & Macario's backheel magic among WSL best goals     ]]></title>
