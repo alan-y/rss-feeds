@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 08 Oct 2025 18:30:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 18:54:32 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Children harmed by decision to redeploy health visitors, Covid inquiry hears]]></title>
+      <description><![CDATA[Some children paid "the highest price" of death because of redeployments, says health visiting charity head.]]></description>
+      <link>https://www.bbc.com/news/articles/c1jz3n126kwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1jz3n126kwo</guid>
+      <pubDate>Wed, 08 Oct 2025 18:42:37 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c97/live/867a0080-a465-11f0-8c79-29eeaf2ea52d.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Pharmacies facing angry patients over Covid jab confusion]]></title>
       <description><![CDATA[Up to half of patients coming to some pharmacies are being turned away because they are not eligible.]]></description>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/czrp1282grvo</guid>
       <pubDate>Wed, 24 Sep 2025 00:42:38 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef5/live/628ea1d0-986c-11f0-af62-91486a511a31.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[New online NHS hospital service by 2027, PM to promise]]></title>
-      <description><![CDATA[Patients will get the option of digital support when GPs refer them but only for certain conditions.]]></description>
-      <link>https://www.bbc.com/news/articles/c9317k58xkjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9317k58xkjo</guid>
-      <pubDate>Tue, 30 Sep 2025 07:20:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92e1/live/dc7ba250-9dca-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[EastEnders' Kellie Bright on the challenges of being parent of an autistic child]]></title>
