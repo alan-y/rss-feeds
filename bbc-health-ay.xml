@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 08 Oct 2025 05:18:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 05:38:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -736,6 +736,16 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9264/live/d36d3540-948b-11f0-a3f2-ebe3b9e0c5e6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[School Council Network focusing on digital safety]]></title>
+      <description><![CDATA[The meetings allow primary and secondary school councils to shape policy directly with government.
+
+]]></description>
+      <link>https://www.bbc.com/news/articles/ce9re98xj5lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce9re98xj5lo</guid>
+      <pubDate>Wed, 08 Oct 2025 05:30:57 GMT</pubDate>
+      <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2525/live/fb50ff60-a386-11f0-928c-71dbb8619e94.png"/>
+    </item>
+    <item>
       <title><![CDATA[Gym with wellbeing focus welcomes lottery boost ]]></title>
       <description><![CDATA[The Soma Space offers combined strength training and psychotherapy, and prospective clients can be referred.]]></description>
       <link>https://www.bbc.com/news/articles/cwy0xd11k25o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -750,14 +760,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxyzkrj7vgo</guid>
       <pubDate>Tue, 19 Aug 2025 13:24:10 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f2e/live/dffc8f90-7cf8-11f0-b048-e3872696e5df.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Art charity 'buzzing' about opening of new £75m campus]]></title>
-      <description><![CDATA[Art Shape works with the NHS to deliver creative courses as prescriptions.]]></description>
-      <link>https://www.bbc.com/news/articles/c8rym6jxlggo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8rym6jxlggo</guid>
-      <pubDate>Mon, 18 Aug 2025 17:34:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55c3/live/3db65090-7c58-11f0-adbd-f7cd4f760c3f.jpg"/>
     </item>
     <item>
       <title><![CDATA['Nature should run through a city the same way that water does']]></title>
