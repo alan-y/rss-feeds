@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 02:41:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 03:32:08 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[China tightens export rules for crucial rare earths]]></title>
+      <description><![CDATA[The announcement comes ahead of a meeting between China's President Xi Jinping and his US counterpart Donald Trump later this month.]]></description>
+      <link>https://www.bbc.com/news/articles/ckgzl0nwvd7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgzl0nwvd7o</guid>
+      <pubDate>Thu, 09 Oct 2025 03:14:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70a/live/123611c0-a4b3-11f0-92b0-ffd5b41fc4eb.jpg"/>
+    </item>
     <item>
       <title><![CDATA['I was lucky to get out': Everest hikers battle hypothermia as blizzard rescue continues]]></title>
       <description><![CDATA[At least one hiker has died and hundreds are still stranded near the mountain's eastern face.]]></description>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ce9r5x472rzo</guid>
       <pubDate>Fri, 03 Oct 2025 05:24:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bd7/live/eb6c1cd0-a00f-11f0-ab74-f9fa33ca83dc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[A new China tech visa has caught India's attention - now locals aren't happy]]></title>
-      <description><![CDATA[China's aim to attract global talent comes as the US is making it harder to bring in foreign workers. ]]></description>
-      <link>https://www.bbc.com/news/articles/cvg4eeerzrwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg4eeerzrwo</guid>
-      <pubDate>Wed, 01 Oct 2025 22:24:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c41/live/3613a190-9e94-11f0-9f70-63cdd409bfce.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chinese woman convicted after 'world's biggest' bitcoin seizure]]></title>
@@ -72,6 +72,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3274/live/90509f20-9a96-11f0-88f7-0f8a7eda6f0c.jpg"/>
     </item>
     <item>
+      <title><![CDATA[A new China tech visa has caught India's attention - now locals aren't happy]]></title>
+      <description><![CDATA[China's aim to attract global talent comes as the US is making it harder to bring in foreign workers. ]]></description>
+      <link>https://www.bbc.com/news/articles/cvg4eeerzrwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg4eeerzrwo</guid>
+      <pubDate>Wed, 01 Oct 2025 22:24:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c41/live/3613a190-9e94-11f0-9f70-63cdd409bfce.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Howling winds and sheets of rain: Inside Chinese city battered by Typhoon Ragasa]]></title>
       <description><![CDATA[The strong winds hit in waves - and standing upright is almost impossible, our correspondent writes.]]></description>
       <link>https://www.bbc.com/news/articles/cq8edyey1llo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0rllxld8go</guid>
       <pubDate>Wed, 03 Sep 2025 13:20:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/689e/live/f0990300-891a-11f0-84c8-99de564f0440.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['A clear message to Trump': BBC correspondents react to China's military parade]]></title>
-      <description><![CDATA[The display of might comes as Beijing positions itself as a global counterweight to the United States.]]></description>
-      <link>https://www.bbc.com/news/articles/c7545p2px5no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c7545p2px5no</guid>
-      <pubDate>Wed, 03 Sep 2025 06:21:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263c/live/eec10d20-88b6-11f0-9cf6-cbf3e73ce2b9.jpg"/>
     </item>
   </channel>
 </rss>
