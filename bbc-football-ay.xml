@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 18:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 19:15:27 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -120,14 +120,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4595/live/663cd0f0-a2d9-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
-      <title><![CDATA[England v Wales - five classic matches]]></title>
-      <description><![CDATA[From pitch invasions to stoppage-time winners, BBC Sport looks back at the memorable encounters between England and Wales.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8rv06jx8ryo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8rv06jx8ryo</guid>
-      <pubDate>Thu, 09 Oct 2025 06:24:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c82a/live/7e4fed60-a394-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How England U21 boss Carsley got his start in Derby]]></title>
       <description><![CDATA[England Under-21 manager Lee Carsley reflects on how his career started on a doorstep in Derby before his return to the city.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c74928zpdjvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -158,6 +150,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn4we3xy5l3o</guid>
       <pubDate>Wed, 08 Oct 2025 18:33:28 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0743/live/058979f0-a475-11f0-92db-77261a15b9d2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[England v Wales - five classic matches]]></title>
+      <description><![CDATA[From pitch invasions to stoppage-time winners, BBC Sport looks back at the memorable encounters between England and Wales.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8rv06jx8ryo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8rv06jx8ryo</guid>
+      <pubDate>Thu, 09 Oct 2025 06:24:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c82a/live/7e4fed60-a394-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hole in her heart & longer left leg - Snoeijs' unusual birth]]></title>
