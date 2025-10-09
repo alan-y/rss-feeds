@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 14:18:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 14:50:02 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['Just trying to stay alive' - Djokovic reaches semis]]></title>
+      <description><![CDATA[Novak Djokovic says he is "just trying to stay alive" after reaching his 80th Masters semi-finals in gruelling conditions in China.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cdjz1ej4wyyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cdjz1ej4wyyo</guid>
+      <pubDate>Thu, 09 Oct 2025 14:46:55 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0719/live/e8017460-a50e-11f0-8ca1-17e6d6c99149.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Does Federer have a point? Are courts being slowed to aid Alcaraz and Sinner?]]></title>
       <description><![CDATA[Roger Federer set tongues wagging when he said tournament directors like uniformly slow courts but are his instincts right?]]></description>
@@ -40,6 +48,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f65/live/39747d90-a42b-11f0-ba96-81d873a15aec.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Breakwell dreams of Grand Slams after career high]]></title>
+      <description><![CDATA[Wheelchair tennis star Abbie Breakwell reflects on a remarkable year that has seen her world ranking soar from a career low to new heights.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c80gz1g9l4ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c80gz1g9l4ro</guid>
+      <pubDate>Thu, 09 Oct 2025 13:40:56 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b18d/live/7e711dc0-a504-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Do you want a player to die on court?' - tennis in the heat]]></title>
       <description><![CDATA[After facing high temperatures on the Asian swing of the tennis tours, some players are questioning the sport's heat policies.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c1jz4xe3lpro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -56,20 +72,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d595/live/86795260-a3a3-11f0-924e-bba4adcf336a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Djokovic battles through injury to reach last eight]]></title>
-      <description><![CDATA[Novak Djokovic overcomes injury issues and sweltering heat as he beats Jaume Munar to continue his bid for a fifth Shanghai Masters title.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cn95wrw2w5ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cn95wrw2w5ro</guid>
-      <pubDate>Tue, 07 Oct 2025 14:40:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c02/live/5b4c00c0-a389-11f0-a56f-0b1b78ebdf89.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Raducanu retires in Wuhan Open first round]]></title>
       <description><![CDATA[British number one Emma Raducanu looks devoid of energy and appears to struggle with the hot and humid conditions before retiring in China.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cn82mk4m39po?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cn82mk4m39po</guid>
       <pubDate>Tue, 07 Oct 2025 13:08:53 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185e/live/8240b260-a34e-11f0-9a02-114bd53bb5d7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Djokovic battles through injury to reach last eight]]></title>
+      <description><![CDATA[Novak Djokovic overcomes injury issues and sweltering heat as he beats Jaume Munar to continue his bid for a fifth Shanghai Masters title.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cn95wrw2w5ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cn95wrw2w5ro</guid>
+      <pubDate>Tue, 07 Oct 2025 14:40:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c02/live/5b4c00c0-a389-11f0-a56f-0b1b78ebdf89.jpg"/>
     </item>
     <item>
       <title><![CDATA[Norrie and 'terrible' Zverev lose in Shanghai third round]]></title>
@@ -88,6 +104,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c413/live/47fd7b70-a285-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Alcaraz takes on amateurs in Million Dollar One Point Slam]]></title>
+      <description><![CDATA[World number one Carlos Alcaraz will headline the new Million Dollar One Point Slam, which pits amateurs against professionals before January's Australian Open.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/clyd77np0l0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/clyd77np0l0o</guid>
+      <pubDate>Tue, 07 Oct 2025 10:39:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5ff/live/d87fecf0-a357-11f0-b851-f9c6d6c288f7.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Norrie records first win since US Open]]></title>
       <description><![CDATA[Great Britain's Cameron Norrie beats Frenchman Arthur Cazaux 6-3 0-6 7-6 (7-5) to reach the third round of the Shanghai Masters. ]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c784g6q9wnpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -104,14 +128,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cy0v7lev0zgo</guid>
       <pubDate>Sat, 04 Oct 2025 08:50:53 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf8/live/19e12180-a0fd-11f0-ac58-bd617cc6cf3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Alcaraz takes on amateurs in Million Dollar One Point Slam]]></title>
-      <description><![CDATA[World number one Carlos Alcaraz will headline the new Million Dollar One Point Slam, which pits amateurs against professionals before January's Australian Open.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/clyd77np0l0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/clyd77np0l0o</guid>
-      <pubDate>Tue, 07 Oct 2025 10:39:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5ff/live/d87fecf0-a357-11f0-b851-f9c6d6c288f7.jpg"/>
     </item>
     <item>
       <title><![CDATA['Quite a few weeks' - Anisimova beats Noskova to win China Open]]></title>
@@ -136,14 +152,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cvgv5jjn4v8o</guid>
       <pubDate>Fri, 03 Oct 2025 13:02:49 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a1c/live/38870d70-a053-11f0-b687-23a5afa8b42e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sinner retires but Djokovic through in Shanghai]]></title>
-      <description><![CDATA[Defending champion Jannik Sinner retires injured but Novak Djokovic battles through to reach the last 16 in the Shanghai Masters.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c4gj3vgvz14o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c4gj3vgvz14o</guid>
-      <pubDate>Sun, 05 Oct 2025 17:23:45 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30a0/live/6c64d4a0-a20c-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
       <title><![CDATA[UTS chief 'sure' Draper will play in December event]]></title>
@@ -200,14 +208,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cr7012742emo</guid>
       <pubDate>Mon, 29 Sep 2025 16:08:04 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1738/live/1785b690-9d32-11f0-82af-53ec555e619b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Raducanu fails to take match points in Pegula defeat]]></title>
-      <description><![CDATA[Emma Raducanu again fails to take three match points as she is beaten by Jessica Pegula in a hard-fought last-32 match at the China Open.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c89d5v23dpqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c89d5v23dpqo</guid>
-      <pubDate>Mon, 29 Sep 2025 11:30:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd02/live/c5ebf090-9d1a-11f0-aa0c-6923d2781ecc.jpg"/>
     </item>
     <item>
       <title><![CDATA[Boulter loses to Pegula as GB out of BJK Cup]]></title>
