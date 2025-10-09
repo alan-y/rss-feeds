@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 06:56:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 07:20:01 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -32,7 +32,7 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aed/live/3ebc1c60-a45b-11f0-bf2c-b564608f4fa4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sheff Wed a 'significant problem' - football regulator]]></title>
+      <title><![CDATA[Football regulator could force club owners to sell]]></title>
       <description><![CDATA[New independent football regulator chair David Kogan says Sheffield Wednesday's struggles are a "significant problem" and is seeking powers to investigate clubs in such situations.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5yjn43l7p9o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yjn43l7p9o</guid>
@@ -46,6 +46,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx25q1wr02xo</guid>
       <pubDate>Wed, 08 Oct 2025 21:21:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4684/live/c0c65910-a487-11f0-961e-13040d1e97f4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How Scotland can guarantee play-off place by Sunday]]></title>
+      <description><![CDATA[Steve Clarke is targeting six points from Scotland's next two games. Achieving that could have a significant impact in their bid to reach the World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2x1ql4l9yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2x1ql4l9yo</guid>
+      <pubDate>Thu, 09 Oct 2025 06:57:34 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3062/live/6ee55750-9ed2-11f0-92db-77261a15b9d2.png"/>
     </item>
     <item>
       <title><![CDATA['Questions will be asked' of Bompastor and Chelsea]]></title>
@@ -98,20 +106,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c76/live/b36e8a50-a48f-11f0-92db-77261a15b9d2.png"/>
     </item>
     <item>
-      <title><![CDATA[England v Wales - five classic matches]]></title>
-      <description><![CDATA[From pitch invasions to stoppage-time winners, BBC Sport looks back at the memorable encounters between England and Wales.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8rv06jx8ryo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8rv06jx8ryo</guid>
-      <pubDate>Thu, 09 Oct 2025 06:24:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c82a/live/7e4fed60-a394-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Scotland hoping for all thriller and no killer in Greece showdown']]></title>
-      <description><![CDATA[BBC Scotland's chief sportswriter Tom English sets the scene for Scotland's crucial World Cup qualifier with Greece.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyq0q169j2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyq0q169j2o</guid>
-      <pubDate>Wed, 08 Oct 2025 11:06:27 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6699/live/b27051a0-a436-11f0-92db-77261a15b9d2.jpg"/>
+      <title><![CDATA[Togo's Asamoah breaks neck in freak accident]]></title>
+      <description><![CDATA[Togo international Samuel Asamoah broke his neck in a freak collision with an advertising board which his club says could leave him paralysed. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3rv5ge49ejo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3rv5ge49ejo</guid>
+      <pubDate>Thu, 09 Oct 2025 06:57:50 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c39/live/3cd25080-a4d9-11f0-9b28-057938ac3554.jpg"/>
     </item>
     <item>
       <title><![CDATA[The day Wales beat England at Wembley]]></title>
@@ -154,6 +154,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4595/live/663cd0f0-a2d9-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
+      <title><![CDATA[England v Wales - five classic matches]]></title>
+      <description><![CDATA[From pitch invasions to stoppage-time winners, BBC Sport looks back at the memorable encounters between England and Wales.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8rv06jx8ryo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8rv06jx8ryo</guid>
+      <pubDate>Thu, 09 Oct 2025 06:24:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c82a/live/7e4fed60-a394-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What version of Greece will Scotland face at Hampden?]]></title>
+      <description><![CDATA[The same Greece side that beat Scotland 3-0 at Hampden lost to Denmark by the same margin - but which version will the Scots face on Thursday?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crl5y52n6rjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crl5y52n6rjo</guid>
+      <pubDate>Thu, 09 Oct 2025 07:04:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a81/live/95bf7270-a431-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How England's 'Golden Generation' describe the reasons why they failed]]></title>
       <description><![CDATA[Tactical shortcomings, misguided managers or stellar opponents - why do England's so-called 'Golden Generation' think they failed to deliver success?]]></description>
       <link>https://www.bbc.com/sport/football/articles/czew46d23d8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -170,6 +186,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb8/live/7798e950-a4d3-11f0-a482-231159436fb9.jpg"/>
     </item>
     <item>
+      <title><![CDATA[O'Neill would swap NI milestone for win in 'heartbeat']]></title>
+      <description><![CDATA[Northern Ireland boss Michael O'Neill says he would swap his upcoming personal landmark for World Cup qualifying points "in a heartbeat". ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crrjyxnn1zyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crrjyxnn1zyo</guid>
+      <pubDate>Wed, 08 Oct 2025 18:48:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c26/live/84bb1f30-a475-11f0-bd73-793e2a5f1fa2.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Chelsea's Palmer expected to be out until November]]></title>
       <description><![CDATA[Chelsea forward Cole Palmer is expected to be out of action until November following a club meeting about his persistent groin injury.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cpd9g57jvngo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -178,20 +202,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4bf/live/88dc9f40-a47e-11f0-892d-8503a9b17f9b.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Scotland hoping for all thriller and no killer in Greece showdown']]></title>
+      <description><![CDATA[BBC Scotland's chief sportswriter Tom English sets the scene for Scotland's crucial World Cup qualifier with Greece.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clyq0q169j2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyq0q169j2o</guid>
+      <pubDate>Wed, 08 Oct 2025 11:06:27 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6699/live/b27051a0-a436-11f0-92db-77261a15b9d2.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Can you name the teams from England 2-1 Wales at Euro 2016?]]></title>
       <description><![CDATA[With England taking on Wales in a friendly at Wembley this week, can you name all 27 players who featured when the two countries met at Euro 2016?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvgnyy1g3n5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgnyy1g3n5o</guid>
       <pubDate>Tue, 07 Oct 2025 09:21:36 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/030c/live/5041bde0-a475-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[O'Neill would swap NI milestone for win in 'heartbeat']]></title>
-      <description><![CDATA[Northern Ireland boss Michael O'Neill says he would swap his upcoming personal landmark for World Cup qualifying points "in a heartbeat". ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crrjyxnn1zyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crrjyxnn1zyo</guid>
-      <pubDate>Wed, 08 Oct 2025 18:48:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c26/live/84bb1f30-a475-11f0-bd73-793e2a5f1fa2.jpg"/>
     </item>
     <item>
       <title><![CDATA[We are not Wembley tourists - Wales boss Bellamy ]]></title>
@@ -218,20 +242,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aef/live/624578b0-a2d1-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Rabiot should respect employer, says Serie A boss]]></title>
-      <description><![CDATA[Serie A chief executive Luigi de Siervo says Adrien Rabiot should "respect his employer" after the AC Milan midfielder criticised plans for overseas league matches.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cr70y4lxdl5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr70y4lxdl5o</guid>
-      <pubDate>Wed, 08 Oct 2025 13:10:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9236/live/6d6241e0-a445-11f0-8a54-1ddc6d4d2c2f.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Being gay in men's football is a very toxic place']]></title>
       <description><![CDATA[Australian Josh Cavallo, who moved to England in July to join non-league Peterborough Sports, says football has got "mountains to do" to tackle homophobia.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvgn0411vlvo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgn0411vlvo</guid>
       <pubDate>Wed, 08 Oct 2025 08:00:17 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/282c/live/0d0af1e0-9cff-11f0-9297-a5fd92668561.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Rabiot should respect employer, says Serie A boss]]></title>
+      <description><![CDATA[Serie A chief executive Luigi de Siervo says Adrien Rabiot should "respect his employer" after the AC Milan midfielder criticised plans for overseas league matches.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cr70y4lxdl5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr70y4lxdl5o</guid>
+      <pubDate>Wed, 08 Oct 2025 13:10:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9236/live/6d6241e0-a445-11f0-8a54-1ddc6d4d2c2f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watford sack Pezzolano after 10 games and reappoint Gracia]]></title>
@@ -252,14 +276,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/841d/live/3cd26e70-a453-11f0-8a21-ff96e44d1cc2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[One match, over 5,000 gambling ads - is 'ban' really working?]]></title>
-      <description><![CDATA[Researchers say data showing the scale of gambling advertising in the Premier League proves self-regulation is failing.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce9ree15yd0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce9ree15yd0o</guid>
-      <pubDate>Wed, 08 Oct 2025 06:17:21 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9088/live/9cad0ba0-a40a-11f0-bafb-2320f13b9fd1.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Glasgow lose narrowly to Koge in Europa Cup first leg]]></title>
       <description><![CDATA[Glasgow City must come from behind if they are to progress to the last 16 of the inaugural Women's Europa Cup after a 2-1 defeat by Koge in Denmark.]]></description>
       <link>https://www.bbc.com/sport/football/articles/clyle1x0mpmo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -268,12 +284,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f7/live/f3183cf0-a47b-11f0-892d-8503a9b17f9b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ronaldo is Bloomberg's first billionaire footballer]]></title>
-      <description><![CDATA[Portugal striker Cristiano Ronaldo is worth $1.4bn (£1.04bn), according to financial information and media firm Bloomberg.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1edxd020dwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1edxd020dwo</guid>
-      <pubDate>Wed, 08 Oct 2025 10:42:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d5/live/3b1694d0-a42b-11f0-ba96-81d873a15aec.jpg"/>
+      <title><![CDATA[One match, over 5,000 gambling ads - is 'ban' really working?]]></title>
+      <description><![CDATA[Researchers say data showing the scale of gambling advertising in the Premier League proves self-regulation is failing.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce9ree15yd0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce9ree15yd0o</guid>
+      <pubDate>Wed, 08 Oct 2025 06:17:21 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9088/live/9cad0ba0-a40a-11f0-bafb-2320f13b9fd1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Egypt seal place at 2026 World Cup - who else has qualified?]]></title>
@@ -282,6 +298,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cglepde7yzlo</guid>
       <pubDate>Wed, 08 Oct 2025 19:08:48 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72df/live/6320ea80-a353-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ronaldo is Bloomberg's first billionaire footballer]]></title>
+      <description><![CDATA[Portugal striker Cristiano Ronaldo is worth $1.4bn (£1.04bn), according to financial information and media firm Bloomberg.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1edxd020dwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1edxd020dwo</guid>
+      <pubDate>Wed, 08 Oct 2025 10:42:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d5/live/3b1694d0-a42b-11f0-ba96-81d873a15aec.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ferguson and Parrott fitness boost for Republic of Ireland]]></title>
@@ -298,30 +322,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly101qxgp4o</guid>
       <pubDate>Wed, 08 Oct 2025 11:00:24 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6c6/live/e6c59080-a433-11f0-9999-ddb3d6b71bc7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Slovakia qualifier NI's biggest game in years']]></title>
-      <description><![CDATA[Northern Ireland's World Cup qualifier with Slovakia is their biggest game in years, says former international Stuart Dallas.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx25jqypzevo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx25jqypzevo</guid>
-      <pubDate>Wed, 08 Oct 2025 06:17:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc3/live/f6e87340-a214-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['The perfect signing' - Son's Messi-like impact in Los Angeles]]></title>
-      <description><![CDATA[After more than a decade at Tottenham Hotspur, BBC Sport looks at the impact "perfect signing" Son Heung-min is having at Los Angeles FC.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c708lx0y87xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c708lx0y87xo</guid>
-      <pubDate>Tue, 07 Oct 2025 12:06:37 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ca0/live/c2bd5af0-a2c2-11f0-8b38-691926760cd4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[England's Golden Generation were 'egotistical losers' - Gerrard]]></title>
-      <description><![CDATA[Former England captain Steven Gerrard says he sometimes "hated" being on international duty and blames a lack of success with the Three Lions on key players being "egotistical losers".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cq653600zdqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq653600zdqo</guid>
-      <pubDate>Tue, 07 Oct 2025 15:27:03 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/484c/live/ae1954d0-a38c-11f0-96cf-a52f331e209a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Lammens' confidence grew on Man Utd debut - Schmeichel]]></title>
