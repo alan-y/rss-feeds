@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 15:42:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 15:48:41 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Tesla investigated over self-driving cars driving on wrong side of road]]></title>
+      <description><![CDATA[The US government said approximately 2.9 million cars could be impacted by the investigation.]]></description>
+      <link>https://www.bbc.com/news/articles/cvg02rdxxz7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg02rdxxz7o</guid>
+      <pubDate>Thu, 09 Oct 2025 15:41:56 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba22/live/3faac210-a51f-11f0-9cda-fff576c5be6d.jpg"/>
+    </item>
     <item>
       <title><![CDATA[ID photos of 70,000 users may have been leaked, Discord says]]></title>
       <description><![CDATA[The platform says hackers targeted a firm that helped to verify the ages of its users.]]></description>
@@ -104,20 +112,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9949/live/85746ea0-9cd6-11f0-8245-f3f629744491.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Scientists grow mini human brains to power computers]]></title>
-      <description><![CDATA[BBC News goes inside the lab powering computers with 'mini brains' grown from human cells.]]></description>
-      <link>https://www.bbc.com/news/articles/cy7p1lzvxjro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy7p1lzvxjro</guid>
-      <pubDate>Sat, 04 Oct 2025 01:39:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d322/live/ec405a00-9f91-11f0-b9ae-cbef91e6ae73.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Apple pulls US immigration official tracking apps ]]></title>
-      <description><![CDATA[The creator of ICEBlock accuses the tech giant of "capitulating to an authoritarian regime" by removing his app.]]></description>
-      <link>https://www.bbc.com/news/articles/c708y1egzlko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c708y1egzlko</guid>
-      <pubDate>Fri, 03 Oct 2025 15:52:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5032/live/06d111e0-a053-11f0-b687-23a5afa8b42e.jpg"/>
+      <title><![CDATA[Japan faces Asahi beer shortage after cyber-attack]]></title>
+      <description><![CDATA[The drinks giant said this week that the attack had a major impact on its domestic operations.]]></description>
+      <link>https://www.bbc.com/news/articles/c0r0y14ly5ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r0y14ly5ro</guid>
+      <pubDate>Fri, 03 Oct 2025 10:26:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/697e/live/62a6c8a0-a00a-11f0-a884-c9c349ad39f4.jpg"/>
     </item>
     <item>
       <title><![CDATA[TikTok recommends porn to children, says report]]></title>
@@ -128,12 +128,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a1/live/55e4db20-9ebb-11f0-85b6-27ff7e482819.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Japan faces Asahi beer shortage after cyber-attack]]></title>
-      <description><![CDATA[The drinks giant said this week that the attack had a major impact on its domestic operations.]]></description>
-      <link>https://www.bbc.com/news/articles/c0r0y14ly5ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r0y14ly5ro</guid>
-      <pubDate>Fri, 03 Oct 2025 10:26:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/697e/live/62a6c8a0-a00a-11f0-a884-c9c349ad39f4.jpg"/>
+      <title><![CDATA[Apple pulls US immigration official tracking apps ]]></title>
+      <description><![CDATA[The creator of ICEBlock accuses the tech giant of "capitulating to an authoritarian regime" by removing his app.]]></description>
+      <link>https://www.bbc.com/news/articles/c708y1egzlko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c708y1egzlko</guid>
+      <pubDate>Fri, 03 Oct 2025 15:52:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5032/live/06d111e0-a053-11f0-b687-23a5afa8b42e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Scientists grow mini human brains to power computers]]></title>
+      <description><![CDATA[BBC News goes inside the lab powering computers with 'mini brains' grown from human cells.]]></description>
+      <link>https://www.bbc.com/news/articles/cy7p1lzvxjro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy7p1lzvxjro</guid>
+      <pubDate>Sat, 04 Oct 2025 01:39:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d322/live/ec405a00-9f91-11f0-b9ae-cbef91e6ae73.jpg"/>
     </item>
     <item>
       <title><![CDATA[Xbox Game Pass price increase angers players]]></title>
@@ -254,38 +262,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgjx0zve2no</guid>
       <pubDate>Thu, 25 Sep 2025 22:01:15 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8059/live/a4480160-9a57-11f0-894b-0159b5abffc9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Children's names, pictures and addresses stolen in nursery chain hack]]></title>
-      <description><![CDATA[Experts have condemned the hack as an "absolute new low" for cyber-crime.]]></description>
-      <link>https://www.bbc.com/news/articles/c62ldyvpwv9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c62ldyvpwv9o</guid>
-      <pubDate>Thu, 25 Sep 2025 17:00:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a8/live/472be100-9a29-11f0-97f5-bd38218a3641.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[China launches campaign to keep killjoys off the internet]]></title>
-      <description><![CDATA[Pessimistic social media posts may now be targets of a fresh crackdown by the Chinese government.]]></description>
-      <link>https://www.bbc.com/news/articles/c39r7p47wzgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c39r7p47wzgo</guid>
-      <pubDate>Thu, 25 Sep 2025 22:01:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3274/live/90509f20-9a96-11f0-88f7-0f8a7eda6f0c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Instagram teen accounts still show suicide content, study claims]]></title>
-      <description><![CDATA[Research suggests that 30 out of 47 Instagram safety tools for teens were "substantially ineffective or no longer exist".]]></description>
-      <link>https://www.bbc.com/news/articles/ce32w7we01eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce32w7we01eo</guid>
-      <pubDate>Thu, 25 Sep 2025 10:03:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/943a/live/8b4f1fd0-994f-11f0-9a00-eba1f5856efc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sonic the Hedgehog boss on how the series keeps up to speed]]></title>
-      <description><![CDATA[The video game icon has been taking shots at an old rival, but the real competition comes from newer games.]]></description>
-      <link>https://www.bbc.com/news/articles/cy8ry1vn097o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8ry1vn097o</guid>
-      <pubDate>Thu, 25 Sep 2025 11:07:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24f1/live/378389d0-99f5-11f0-928c-71dbb8619e94.png"/>
     </item>
     <item>
       <title><![CDATA[Food firms scramble to meet the high-protein craze]]></title>
