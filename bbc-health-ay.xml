@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 10:21:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 10:42:37 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[NHS waiting list rises for third month in row]]></title>
+      <description><![CDATA[Numbers waiting for treatment hit 7.41 million in England at the end of August.]]></description>
+      <link>https://www.bbc.com/news/articles/cqje5ljdnygo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cqje5ljdnygo</guid>
+      <pubDate>Thu, 09 Oct 2025 10:24:23 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f1/live/3869b8b0-a4f9-11f0-8e74-1f6664d312e9.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Children harmed by decision to redeploy health visitors, Covid inquiry hears]]></title>
       <description><![CDATA[Some children paid "the highest price" of death because of redeployments, says health visiting charity head.]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kwxjzeez3o</guid>
       <pubDate>Mon, 06 Oct 2025 12:34:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0150/live/57488580-a2bb-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Deaf people criticise hospital interpreter delays]]></title>
-      <description><![CDATA[A charity says it has had more than 100 complaints about a lack of interpreters at the hospital.]]></description>
-      <link>https://www.bbc.com/news/articles/cp3vz90lw43o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3vz90lw43o</guid>
-      <pubDate>Tue, 07 Oct 2025 04:56:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de7f/live/23a05cb0-9b01-11f0-8272-7f0194ae8142.jpg"/>
     </item>
     <item>
       <title><![CDATA[Former England captain Moody reveals MND diagnosis ]]></title>
@@ -232,6 +232,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63cd/live/66dcf740-98c2-11f0-94c0-d393b11c46d7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[My eating disorder made me good at lying, says Victoria Beckham]]></title>
+      <description><![CDATA[The former Spice Girl's new Netflix documentary has landed - under the shadow of a reported family feud.]]></description>
+      <link>https://www.bbc.com/news/articles/crrj4v9wre8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/crrj4v9wre8o</guid>
+      <pubDate>Thu, 09 Oct 2025 10:08:18 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c609/live/659e7610-a4f2-11f0-8e74-1f6664d312e9.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[EastEnders' Kellie Bright on the challenges of being parent of an autistic child]]></title>
       <description><![CDATA[The soap actor meets families fighting for their children’s education for BBC Panorama.]]></description>
       <link>https://www.bbc.com/news/articles/c0jqy8pn275o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -382,14 +390,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cq53v066x52o</guid>
       <pubDate>Fri, 25 Jul 2025 23:55:30 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cb/live/94d16260-696c-11f0-8b64-831f4a2e9ec8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Students feel 'let down' by mental health support - but should it really be up to universities?]]></title>
-      <description><![CDATA[The number of students reporting mental health concerns is rising. But to what extent should the onus be on universities?]]></description>
-      <link>https://www.bbc.com/news/articles/c93kzkle81wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c93kzkle81wo</guid>
-      <pubDate>Thu, 24 Jul 2025 04:24:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51f3/live/8bf57430-67c6-11f0-89ea-4d6f9851f623.png"/>
     </item>
     <item>
       <title><![CDATA[What is chickenpox and how can I get my child vaccinated?]]></title>
