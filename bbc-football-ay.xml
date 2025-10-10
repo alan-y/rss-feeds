@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 10 Oct 2025 17:47:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 18:28:38 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -62,14 +62,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly64plxj0no</guid>
       <pubDate>Fri, 10 Oct 2025 16:00:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a09/live/590b0280-a5db-11f0-8fc6-8d89d06fa925.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['No easy way back for Bellingham as Rogers vindicates Tuchel's strategy']]></title>
-      <description><![CDATA[There is no easy way back for Jude Bellingham as Morgan Rogers shows he is the symbol of Thomas Tuchel's new England identity, says Phil McNulty.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8xr0g5kgl5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8xr0g5kgl5o</guid>
-      <pubDate>Thu, 09 Oct 2025 22:51:09 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36fa/live/5546efb0-a559-11f0-85cb-0746a9bf917c.jpg"/>
     </item>
     <item>
       <title><![CDATA['My family no longer attend matches because of abuse by fans']]></title>
@@ -126,6 +118,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7v12n2yymvo</guid>
       <pubDate>Thu, 09 Oct 2025 23:23:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf3d/live/f70b7700-a5b6-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['No easy way back for Bellingham as Rogers vindicates Tuchel's strategy']]></title>
+      <description><![CDATA[There is no easy way back for Jude Bellingham as Morgan Rogers shows he is the symbol of Thomas Tuchel's new England identity, says Phil McNulty.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8xr0g5kgl5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8xr0g5kgl5o</guid>
+      <pubDate>Thu, 09 Oct 2025 22:51:09 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36fa/live/5546efb0-a559-11f0-85cb-0746a9bf917c.jpg"/>
     </item>
     <item>
       <title><![CDATA['We tried' - Rooney defends his England team]]></title>
@@ -216,14 +216,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdb/live/6a04a9d0-a507-11f0-9dbe-ddd82a978925.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How England U21 boss Carsley got his start in Derby]]></title>
-      <description><![CDATA[England Under-21 manager Lee Carsley reflects on how his career started on a doorstep in Derby before his return to the city.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c74928zpdjvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c74928zpdjvo</guid>
-      <pubDate>Thu, 09 Oct 2025 12:03:04 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb3b/live/f3fd39c0-a4ff-11f0-9156-136a18fa2a3c.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Algeria seal place at 2026 World Cup - who else has qualified?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team looks at who has qualified for next year's Fifa World Cup.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cglepde7yzlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -232,20 +224,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72df/live/6320ea80-a353-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How England U21 boss Carsley got his start in Derby]]></title>
+      <description><![CDATA[England Under-21 manager Lee Carsley reflects on how his career started on a doorstep in Derby before his return to the city.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c74928zpdjvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c74928zpdjvo</guid>
+      <pubDate>Thu, 09 Oct 2025 12:03:04 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb3b/live/f3fd39c0-a4ff-11f0-9156-136a18fa2a3c.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Dictated the game' - how England & Wales' players rated]]></title>
       <description><![CDATA[BBC Sport assesses how the England and Wales players performed at Wembley on Thursday, during the Three Lions' 3-0 victory.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c930rkpnnpeo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c930rkpnnpeo</guid>
       <pubDate>Thu, 09 Oct 2025 21:15:21 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f98/live/8e4049f0-a550-11f0-82cf-379d3b8fc74f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[We need open mind on when World Cups played - Fifa]]></title>
-      <description><![CDATA[President Gianni Infantino says Fifa is discussing how to make the World Cup "better for everyone" .]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cjr5ed1n1djo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjr5ed1n1djo</guid>
-      <pubDate>Thu, 09 Oct 2025 13:12:50 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ff9/live/538259c0-a500-11f0-9156-136a18fa2a3c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Spurs owners inject £100m into club]]></title>
@@ -262,6 +254,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgl1prznnlzo</guid>
       <pubDate>Thu, 09 Oct 2025 05:34:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf17/live/ad43bca0-a44d-11f0-92db-77261a15b9d2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[We need open mind on when World Cups played - Fifa]]></title>
+      <description><![CDATA[President Gianni Infantino says Fifa is discussing how to make the World Cup "better for everyone" .]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cjr5ed1n1djo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjr5ed1n1djo</guid>
+      <pubDate>Thu, 09 Oct 2025 13:12:50 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ff9/live/538259c0-a500-11f0-9156-136a18fa2a3c.jpg"/>
     </item>
     <item>
       <title><![CDATA[When is the FA Cup first-round draw?]]></title>
