@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 23:45:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 01:19:28 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[How 20 minutes of nature can boost your health]]></title>
+      <description><![CDATA[Spending just 20 minutes in nature can lower blood pressure, heart rate and stress levels. ]]></description>
+      <link>https://www.bbc.com/news/articles/cvg0yvdjgn5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg0yvdjgn5o</guid>
+      <pubDate>Thu, 09 Oct 2025 23:45:15 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfa1/live/aaf4fca0-a387-11f0-a56f-0b1b78ebdf89.jpg"/>
+    </item>
     <item>
       <title><![CDATA[NHS waiting list rises for third month in row]]></title>
       <description><![CDATA[Numbers waiting for treatment hit 7.41 million in England at the end of August.]]></description>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c931w38kdqwo</guid>
       <pubDate>Thu, 25 Sep 2025 23:12:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd6f/live/9636e270-9a17-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Huntington's disease successfully treated for first time]]></title>
-      <description><![CDATA[One of the most devastating diseases finally has a treatment that can slow its progression and transform lives, tearful doctors tell BBC.]]></description>
-      <link>https://www.bbc.com/news/articles/cevz13xkxpro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cevz13xkxpro</guid>
-      <pubDate>Wed, 24 Sep 2025 11:05:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63cd/live/66dcf740-98c2-11f0-94c0-d393b11c46d7.jpg"/>
     </item>
     <item>
       <title><![CDATA[My eating disorder made me good at lying, says Victoria Beckham]]></title>

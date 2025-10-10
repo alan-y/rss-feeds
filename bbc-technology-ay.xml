@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 23:45:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 01:19:26 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Huge buzz but a big gamble: Battlefield 6 takes aim at Call of Duty]]></title>
+      <description><![CDATA[The latest in the military shooter series is a pivotal release for publisher Electronic Arts.]]></description>
+      <link>https://www.bbc.com/news/articles/c8xrkxdkkrno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8xrkxdkkrno</guid>
+      <pubDate>Fri, 10 Oct 2025 01:10:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a49/live/f4d6e500-a50c-11f0-ba60-dd95d022a9f0.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Tech billionaires seem to be doom prepping. Should we all be worried?]]></title>
       <description><![CDATA[The debate is ramping up about what happens if - or when - computer intelligence overtakes humans
@@ -103,14 +111,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0rn7rwk24o</guid>
       <pubDate>Mon, 06 Oct 2025 09:04:05 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bbe/live/c4446f00-a1e4-11f0-ab23-d127b1d8dfad.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The true cost of cyber attacks - and the business weak spots that allow them to happen]]></title>
-      <description><![CDATA[Are this year's major attacks the "cumulative effect of a kind of inaction on cyber security" from the government and big business?]]></description>
-      <link>https://www.bbc.com/news/articles/c5ye8zj5l4jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ye8zj5l4jo</guid>
-      <pubDate>Mon, 06 Oct 2025 00:52:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73cf/live/2ff5b750-a293-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
       <title><![CDATA[Japan faces Asahi beer shortage after cyber-attack]]></title>
