@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 10 Oct 2025 11:45:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 12:38:36 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[OpenAI video app Sora hits 1 million downloads faster than ChatGPT]]></title>
+      <description><![CDATA[The popular AI tool generates ten second long realistic-looking videos from simple text prompts.]]></description>
+      <link>https://www.bbc.com/news/articles/crkjgrvg6z4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/crkjgrvg6z4o</guid>
+      <pubDate>Fri, 10 Oct 2025 12:30:07 GMT</pubDate>
+      <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d25b/live/a79c0710-a5cb-11f0-92db-77261a15b9d2.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Google may be forced to make changes to search engine in UK]]></title>
       <description><![CDATA[The regulator has given it "strategic market status", opening the door to what it calls "proportionate interventions."
@@ -256,14 +264,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c07vxv8v89lo</guid>
       <pubDate>Fri, 26 Sep 2025 20:27:32 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2273/live/808869a0-9abf-11f0-b832-7b9888705b9b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Facebook and Instagram to get £2.99 UK subscription fee to stop ads]]></title>
-      <description><![CDATA[Subscriptions for user opting not to see personalised ads on its platforms will start from £2.99 a month for UK users.]]></description>
-      <link>https://www.bbc.com/news/articles/c5y4xl5x8q7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y4xl5x8q7o</guid>
-      <pubDate>Fri, 26 Sep 2025 10:54:12 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737c/live/39fcff20-9ac2-11f0-8459-f985f888de2a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Food firms scramble to meet the high-protein craze]]></title>
