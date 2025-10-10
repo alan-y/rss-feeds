@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 10 Oct 2025 04:49:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 05:18:33 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[William's emotional moment in campaign to prevent suicide ]]></title>
+      <description><![CDATA[Prince William's foundation is giving £1m to set up a suicide prevention network.]]></description>
+      <link>https://www.bbc.com/news/articles/c2ej877g7w1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2ej877g7w1o</guid>
+      <pubDate>Fri, 10 Oct 2025 05:01:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5b7/live/9a0c6da0-a55e-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
     <item>
       <title><![CDATA[How 20 minutes of nature can boost your health]]></title>
       <description><![CDATA[Spending just 20 minutes in nature can lower blood pressure, heart rate and stress levels. ]]></description>
@@ -64,20 +72,20 @@
       <media:thumbnail width="240" height="180" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a7e/live/02e28580-a528-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[First-year resident doctors back strike action over jobs shortage]]></title>
-      <description><![CDATA[British Medical Association say 30,000 medics were chasing 10,000 jobs this year.]]></description>
-      <link>https://www.bbc.com/news/articles/cly147075p2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly147075p2o</guid>
-      <pubDate>Mon, 06 Oct 2025 18:51:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b567/live/b3b82fb0-a2dd-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Alarming number of people now vape, says WHO]]></title>
       <description><![CDATA[More than 100 million people, including at least 15 million children, use e-cigarettes, fuelling a new wave of nicotine addiction, say experts.]]></description>
       <link>https://www.bbc.com/news/articles/c1kwxjzeez3o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kwxjzeez3o</guid>
       <pubDate>Mon, 06 Oct 2025 12:34:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0150/live/57488580-a2bb-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[First-year resident doctors back strike action over jobs shortage]]></title>
+      <description><![CDATA[British Medical Association say 30,000 medics were chasing 10,000 jobs this year.]]></description>
+      <link>https://www.bbc.com/news/articles/cly147075p2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly147075p2o</guid>
+      <pubDate>Mon, 06 Oct 2025 18:51:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b567/live/b3b82fb0-a2dd-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
       <title><![CDATA[Former England captain Moody reveals MND diagnosis ]]></title>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cgmz4nd01g2o</guid>
       <pubDate>Mon, 29 Sep 2025 05:00:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ab/live/d375d060-9ae4-11f0-b834-df3e788fef97.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Samaritans facing volunteer exodus over proposed branch closures]]></title>
-      <description><![CDATA[Opponents fear plans to close more than100 branches could put the charity’s ability to answer calls in doubt.]]></description>
-      <link>https://www.bbc.com/news/articles/c931w38kdqwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c931w38kdqwo</guid>
-      <pubDate>Thu, 25 Sep 2025 23:12:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd6f/live/9636e270-9a17-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[My eating disorder made me good at lying, says Victoria Beckham]]></title>
@@ -696,6 +696,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a311/live/472652f0-84ac-11ef-83dd-fbf1b9732cf0.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Marginalised and menopausal' women given spotlight]]></title>
+      <description><![CDATA[Women from ethnic minority communities typically experience perimenopause symptoms earlier and for longer.]]></description>
+      <link>https://www.bbc.com/news/articles/c0ezv14r2pxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0ezv14r2pxo</guid>
+      <pubDate>Fri, 10 Oct 2025 05:16:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0414/live/b28826b0-a4f7-11f0-8e74-1f6664d312e9.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Pharmacies can issue UTI drugs without GP visit]]></title>
       <description><![CDATA[From October, most pharmacies in Wales can treat women under 64 who have urinary tract infections. ]]></description>
       <link>https://www.bbc.com/news/articles/c1mx2dllklko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -726,14 +734,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2z1k48rnno</guid>
       <pubDate>Sun, 28 Sep 2025 02:35:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/904c/live/c757c300-9c11-11f0-b521-1b161a35f126.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['My labour went on for 85 hours - now I know why']]></title>
-      <description><![CDATA[Lana Boocock said her symptoms were dismissed as irritable bowel syndrome or "part of being a woman".]]></description>
-      <link>https://www.bbc.com/news/articles/c9qnxrp84ejo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9qnxrp84ejo</guid>
-      <pubDate>Sat, 27 Sep 2025 06:19:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9264/live/d36d3540-948b-11f0-a3f2-ebe3b9e0c5e6.jpg"/>
     </item>
     <item>
       <title><![CDATA[School Council Network focusing on digital safety]]></title>
