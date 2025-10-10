@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 10 Oct 2025 15:53:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 16:22:18 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[Captain, player, manager, Mister, number one - Davids at Barnet]]></title>
-      <description><![CDATA[BBC Sport remembers Edgar Davids' 15 months as Barnet player-manager in League Two and the Conference.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2045vgx4qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2045vgx4qo</guid>
-      <pubDate>Fri, 10 Oct 2025 12:03:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cd4/live/a348ae60-8f15-11f0-9cf6-cbf3e73ce2b9.jpg"/>
-    </item>
     <item>
       <title><![CDATA[Was Tuchel right to criticise England fans?]]></title>
       <description><![CDATA[BBC Sport looks into Thomas Tuchel's criticism of England fans during their comfortable friendly win over Wales.]]></description>
@@ -30,6 +22,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20zqll007vo</guid>
       <pubDate>Fri, 10 Oct 2025 12:55:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c575/live/3ef6d5f0-a5d0-11f0-b98a-8b079c99c55e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Captain, player, manager, Mister, number one - Davids at Barnet]]></title>
+      <description><![CDATA[BBC Sport remembers Edgar Davids' 15 months as Barnet player-manager in League Two and the Conference.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2045vgx4qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2045vgx4qo</guid>
+      <pubDate>Fri, 10 Oct 2025 12:03:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cd4/live/a348ae60-8f15-11f0-9cf6-cbf3e73ce2b9.jpg"/>
     </item>
     <item>
       <title><![CDATA[Stop expecting perfection from us - top referee]]></title>
@@ -64,12 +64,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f30f/live/e3043150-a568-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Harsh lessons and 'hurt egos' for Bellamy's Wales]]></title>
-      <description><![CDATA[Craig Bellamy and Wales learn harsh lessons in their 3-0 defeat at England, in preparation for their big World Cup qualifier against Belgium.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c7v12n2yymvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7v12n2yymvo</guid>
-      <pubDate>Thu, 09 Oct 2025 23:23:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf3d/live/f70b7700-a5b6-11f0-928c-71dbb8619e94.jpg"/>
+      <title><![CDATA[Passmoor lands three-year deal as Leicester City boss]]></title>
+      <description><![CDATA[Leicester City announce former interim manager Rick Passmoor as their head coach on a permanent basis on a three-year deal.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly64plxj0no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly64plxj0no</guid>
+      <pubDate>Fri, 10 Oct 2025 16:00:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a09/live/590b0280-a5db-11f0-8fc6-8d89d06fa925.jpg"/>
     </item>
     <item>
       <title><![CDATA['No easy way back for Bellingham as Rogers vindicates Tuchel's strategy']]></title>
@@ -128,6 +128,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef1/live/2251bc60-a564-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Harsh lessons and 'hurt egos' for Bellamy's Wales]]></title>
+      <description><![CDATA[Craig Bellamy and Wales learn harsh lessons in their 3-0 defeat at England, in preparation for their big World Cup qualifier against Belgium.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c7v12n2yymvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7v12n2yymvo</guid>
+      <pubDate>Thu, 09 Oct 2025 23:23:47 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf3d/live/f70b7700-a5b6-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['We tried' - Rooney defends his England team]]></title>
       <description><![CDATA[England legend Wayne Rooney does not think current squads have a better attitude than his so-called golden generation.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c15kezxe9j3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -168,12 +176,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4d/live/f8d3a790-a52c-11f0-92db-77261a15b9d2.png"/>
     </item>
     <item>
-      <title><![CDATA['No energy' - Tuchel unhappy at 'silent' Wembley]]></title>
-      <description><![CDATA[England boss Thomas Tuchel sees his side score three times in 20 minutes in their 3-0 friendly win over Wales, but is left frustrated by the Wembley atmosphere.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0m4dr14ypwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0m4dr14ypwo</guid>
-      <pubDate>Thu, 09 Oct 2025 22:09:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4043/live/afe6a9c0-a558-11f0-85cb-0746a9bf917c.jpg"/>
+      <title><![CDATA[How Scotland can seal World Cup play-off by Sunday]]></title>
+      <description><![CDATA[How close are Scotland to a first World Cup since 1998 after they beat Greece 3-1 in qualifying?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2x1ql4l9yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2x1ql4l9yo</guid>
+      <pubDate>Thu, 09 Oct 2025 22:17:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d27/live/a9f8ecd0-a55d-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Who would you pick for Wales' qualifier v Belgium?]]></title>
@@ -184,12 +192,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1908/live/8412dfa0-0303-11f0-8c3d-b7dcc7510cb1.png"/>
     </item>
     <item>
-      <title><![CDATA[How Scotland can seal World Cup play-off by Sunday]]></title>
-      <description><![CDATA[How close are Scotland to a first World Cup since 1998 after they beat Greece 3-1 in qualifying?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2x1ql4l9yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2x1ql4l9yo</guid>
-      <pubDate>Thu, 09 Oct 2025 22:17:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d27/live/a9f8ecd0-a55d-11f0-92db-77261a15b9d2.jpg"/>
+      <title><![CDATA['No energy' - Tuchel unhappy at 'silent' Wembley]]></title>
+      <description><![CDATA[England boss Thomas Tuchel sees his side score three times in 20 minutes in their 3-0 friendly win over Wales, but is left frustrated by the Wembley atmosphere.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0m4dr14ypwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0m4dr14ypwo</guid>
+      <pubDate>Thu, 09 Oct 2025 22:09:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4043/live/afe6a9c0-a558-11f0-85cb-0746a9bf917c.jpg"/>
     </item>
     <item>
       <title><![CDATA[From Wolves struggles to Ballon d'Or contention]]></title>
@@ -216,14 +224,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72df/live/6320ea80-a353-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Dictated the game' - how England & Wales' players rated]]></title>
-      <description><![CDATA[BBC Sport assesses how the England and Wales players performed at Wembley on Thursday, during the Three Lions' 3-0 victory.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c930rkpnnpeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c930rkpnnpeo</guid>
-      <pubDate>Thu, 09 Oct 2025 21:15:21 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f98/live/8e4049f0-a550-11f0-82cf-379d3b8fc74f.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How England U21 boss Carsley got his start in Derby]]></title>
       <description><![CDATA[England Under-21 manager Lee Carsley reflects on how his career started on a doorstep in Derby before his return to the city.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c74928zpdjvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -232,12 +232,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb3b/live/f3fd39c0-a4ff-11f0-9156-136a18fa2a3c.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Rapper, philanthropist, muse... and Netherlands' record scorer]]></title>
-      <description><![CDATA[Rapper, philanthropist, muse - Memphis Depay is not your conventional footballer, but he is Netherlands' all-time top scorer.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgl1prznnlzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgl1prznnlzo</guid>
-      <pubDate>Thu, 09 Oct 2025 05:34:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf17/live/ad43bca0-a44d-11f0-92db-77261a15b9d2.jpg"/>
+      <title><![CDATA['Dictated the game' - how England & Wales' players rated]]></title>
+      <description><![CDATA[BBC Sport assesses how the England and Wales players performed at Wembley on Thursday, during the Three Lions' 3-0 victory.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c930rkpnnpeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c930rkpnnpeo</guid>
+      <pubDate>Thu, 09 Oct 2025 21:15:21 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f98/live/8e4049f0-a550-11f0-82cf-379d3b8fc74f.jpg"/>
     </item>
     <item>
       <title><![CDATA[We need open mind on when World Cups played - Fifa]]></title>
@@ -262,6 +262,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd631pgg16go</guid>
       <pubDate>Fri, 10 Oct 2025 14:22:17 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c266/live/96bba570-a5e1-11f0-92db-77261a15b9d2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rapper, philanthropist, muse... and Netherlands' record scorer]]></title>
+      <description><![CDATA[Rapper, philanthropist, muse - Memphis Depay is not your conventional footballer, but he is Netherlands' all-time top scorer.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgl1prznnlzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgl1prznnlzo</guid>
+      <pubDate>Thu, 09 Oct 2025 05:34:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf17/live/ad43bca0-a44d-11f0-92db-77261a15b9d2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Togo's Asamoah breaks neck in freak accident]]></title>
+      <description><![CDATA[Togo international Samuel Asamoah broke his neck in a freak collision with an advertising board which his club says could leave him paralysed. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3rv5ge49ejo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3rv5ge49ejo</guid>
+      <pubDate>Thu, 09 Oct 2025 06:57:50 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c39/live/3cd25080-a4d9-11f0-9b28-057938ac3554.jpg"/>
     </item>
     <item>
       <title><![CDATA[The day Wales beat England at Wembley]]></title>
@@ -526,14 +542,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c864zezzz76o</guid>
       <pubDate>Wed, 08 Oct 2025 20:33:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b928/live/55df0bb0-a482-11f0-892d-8503a9b17f9b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Is it time for Man Utd 'rock' Le Tissier to shine for England?]]></title>
-      <description><![CDATA[Sarina Wiegman names her England squad next week - has she been left with no choice but to start Maya Le Tissier?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c77dpy66nplo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c77dpy66nplo</guid>
-      <pubDate>Wed, 08 Oct 2025 23:07:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b079/live/60c5b060-a49b-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[From farming village to Liverpool icon - the Salah story]]></title>
