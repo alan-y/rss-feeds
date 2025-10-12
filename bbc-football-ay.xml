@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 12 Oct 2025 17:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 17:31:53 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Three players, 57 goals - who is the best striker?]]></title>
+      <description><![CDATA[BBC Sport looks at the goalscoring exploits of Harry Kane, Kylian Mbappe and Erling Haaland, who are all averaging more than a goal a game.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0knkl0034ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0knkl0034ko</guid>
+      <pubDate>Sun, 12 Oct 2025 17:13:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/3835a700-a783-11f0-92db-77261a15b9d2.png"/>
+    </item>
     <item>
       <title><![CDATA['Chaos reigns as Gerrard leaves Rangers scrambling']]></title>
       <description><![CDATA[Maybe the time has now come for Rangers to accept that when Steven Gerrard says 'it's not you, it's me' what he actually means is the complete opposite, writes Tom English.]]></description>
@@ -32,12 +40,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01bf/live/cd8ddf30-a773-11f0-93e3-054bcb63bc18.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Arsenal earn first win in five games against Brighton]]></title>
-      <description><![CDATA[Arsenal end their four-match-long losing streak as they beat Brighton 1-0 in the Women's Super League at Emirates Stadium.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cy4j49w1v1ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy4j49w1v1ko</guid>
-      <pubDate>Sun, 12 Oct 2025 16:35:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5d0/live/143f1f30-a787-11f0-92db-77261a15b9d2.jpg"/>
+      <title><![CDATA[Man Utd score four against Everton to maintain unbeaten start]]></title>
+      <description><![CDATA[Substitute Jess Park scored a late double to help Manchester United secure a 4-1 win over Everton, carrying on their unbeaten start.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c20v05dd08do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c20v05dd08do</guid>
+      <pubDate>Sun, 12 Oct 2025 17:22:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e2a/live/ba263670-a789-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wales sense 'special moment' before Belgium showdown]]></title>
@@ -56,6 +64,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12c5/live/18ed3470-a446-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Mpome 'up and about' after being knocked out at Arsenal]]></title>
+      <description><![CDATA[Brighton defender Maelys Mpome is "up and about" after being taken off the field on a stretcher, with her head in a brace and receiving oxygen during their WSL defeat at Arsenal.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5ygy1n7g31o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ygy1n7g31o</guid>
+      <pubDate>Sun, 12 Oct 2025 17:07:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/344d/live/82454de0-a78e-11f0-92b1-b138197e238f.png"/>
+    </item>
+    <item>
       <title><![CDATA['It is not his fault' - Nagelsmann on Wirtz form]]></title>
       <description><![CDATA[Germany manager Julian Nagelsmann defends Florian Wirtz's slow start to life with Liverpool - arguing he just needs to "get used" to the Premier League.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c9qnq8rvp2ro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -64,8 +80,16 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cace/live/54b61240-a786-11f0-9a78-e156f520d59c.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Arsenal lacked quality and composure - Fara Williams]]></title>
-      <description><![CDATA[BBC Sport pundits Fara Williams and Anita Asante analyse Arsenal's chances against Brighton as they earn a narrow win at the Emirates. ]]></description>
+      <title><![CDATA[Arsenal earn first win in five games against Brighton]]></title>
+      <description><![CDATA[Arsenal end their four-match-long losing streak as they beat Brighton 1-0 in the Women's Super League at Emirates Stadium.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cy4j49w1v1ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy4j49w1v1ko</guid>
+      <pubDate>Sun, 12 Oct 2025 16:35:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5d0/live/143f1f30-a787-11f0-92db-77261a15b9d2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Arsenal lacked quality and composure - Williams]]></title>
+      <description><![CDATA[BBC Sport pundits Fara Williams and Anita Asante analyse Arsenal's attacking quality during their 1-0 Women's Super League win over Brighton.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cz080041kpgo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cz080041kpgo</guid>
       <pubDate>Sun, 12 Oct 2025 17:06:25 GMT</pubDate>
@@ -80,6 +104,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a30/live/7c0321c0-a606-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Stunning Walsh strike extends Chelsea's unbeaten league run]]></title>
+      <description><![CDATA[Keira Walsh delivers an incredible strike to break Chelsea's deadlock against Tottenham to win 1-0 and maintain their unbeaten WSL run.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cly7ydr8n6ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cly7ydr8n6ro</guid>
+      <pubDate>Sun, 12 Oct 2025 17:15:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7353/live/6e9adb20-a775-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How McTominay became a 'brother of Naples']]></title>
       <description><![CDATA[Scotland midfielder Scott McTominay reflects on his brilliant first season at Napoli, where he wants to keep giving his "absolute best".
 ]]></description>
@@ -89,28 +121,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e18/live/fdf7abe0-a527-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Northern Ireland outclass Slovakia in Belfast]]></title>
-      <description><![CDATA[Watch the best of the action as Northern Ireland beat Slovakia 2-0 in their World Cup qualifier at Windsor Park in Belfast.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cdr61817n1go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cdr61817n1go</guid>
-      <pubDate>Fri, 10 Oct 2025 22:00:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3359/live/6a481df0-a624-11f0-b741-177e3e2c2fc7.png"/>
-    </item>
-    <item>
-      <title><![CDATA['My family no longer attend matches because of abuse by fans']]></title>
-      <description><![CDATA[Premier League referee Anthony Taylor says his family "no longer attend matches" after the abuse they faced from Roma fans after the 2023 Europa League final.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c8jm4yn8djxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c8jm4yn8djxo</guid>
-      <pubDate>Fri, 10 Oct 2025 05:02:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed76/live/70a797a0-a59f-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How have the big-name striker signings done so far in the Premier League?]]></title>
       <description><![CDATA[Strikers dominated the summer transfer window and we have taken a look at how nine of them have done since their moves.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2xzxgw1qgo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2xzxgw1qgo</guid>
       <pubDate>Sun, 12 Oct 2025 06:18:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f4/live/f1938710-a3de-11f0-92db-77261a15b9d2.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Park's explosive start at Man Utd as move pays off]]></title>
+      <description><![CDATA[When Jess Park switched Manchester City for Manchester United some considered it a sideways step - but she is already showing why it was a good decision. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy7p7zxx22zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy7p7zxx22zo</guid>
+      <pubDate>Sun, 12 Oct 2025 17:21:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/331c/live/34cf19e0-a777-11f0-91a2-f3f3bd434eb5.jpg"/>
     </item>
     <item>
       <title><![CDATA[How does Scotland's record-breaking manager Clarke stack up?]]></title>
@@ -127,14 +151,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj9z9pz2jn3o</guid>
       <pubDate>Sun, 12 Oct 2025 08:26:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07f7/live/5dd797b0-a739-11f0-a7b9-d3be96fb11cc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I thought it was a heart attack' - how collapse changed Kirby's life]]></title>
-      <description><![CDATA[Former Lioness Fran Kirby reflects on the health scare that sidelined her for 10 months and her journey back to the top of the game.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cq8elpy1l3po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq8elpy1l3po</guid>
-      <pubDate>Sun, 12 Oct 2025 05:45:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b91/live/082f8a00-a5f1-11f0-af09-bf7f0464c1dc.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why do footballers have private coaches?]]></title>
@@ -159,6 +175,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjw7ey4y5e4o</guid>
       <pubDate>Sun, 12 Oct 2025 08:09:42 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51d9/live/756b4410-a448-11f0-8a21-ff96e44d1cc2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['I thought it was a heart attack' - how collapse changed Kirby's life]]></title>
+      <description><![CDATA[Former Lioness Fran Kirby reflects on the health scare that sidelined her for 10 months and her journey back to the top of the game.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cq8elpy1l3po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq8elpy1l3po</guid>
+      <pubDate>Sun, 12 Oct 2025 05:45:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b91/live/082f8a00-a5f1-11f0-af09-bf7f0464c1dc.jpg"/>
     </item>
     <item>
       <title><![CDATA[Boss of England's group rivals Serbia quits straight after Albania loss]]></title>
@@ -193,20 +217,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ec6/live/0b2db3e0-a767-11f0-93e3-054bcb63bc18.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Clarke 'greedy' as Scotland boss set for new record]]></title>
-      <description><![CDATA[Steve Clarke admits he didn't expect to "last this long" as boss, but says he is "greedy for more" as Scotland target a first men's World Cup since 1998.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c20v09qz93no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20v09qz93no</guid>
-      <pubDate>Sat, 11 Oct 2025 14:40:34 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bbb/live/4d0f6eb0-a6af-11f0-b55a-e7725355d83f.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Injury-time Portugal defeat 'painful' - Hallgrimsson]]></title>
       <description><![CDATA[Republic of Ireland boss Heimir Hallgrimsson says that while his side produced a "great team performance" the manner of their late 1-0 defeat by Portugal was "painful".]]></description>
       <link>https://www.bbc.com/sport/football/articles/crrjrjypw2do?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crrjrjypw2do</guid>
       <pubDate>Sat, 11 Oct 2025 21:57:08 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e895/live/2f773e20-a6e9-11f0-86b7-d14d72e2f79b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Man Utd consider Palace's Wharton - Sunday's gossip]]></title>
+      <description><![CDATA[Manchester United target Crystal Palace's Adam Wharton as a solution to their midfield problem but the club will not consider Thomas Tuchel as a replacement for Ruben Amorim.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpw1wx4ywl4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpw1wx4ywl4o</guid>
+      <pubDate>Sat, 11 Oct 2025 20:21:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c76/live/375ac7b0-a6d0-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wilshere top choice to take Luton job]]></title>
@@ -225,6 +249,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f36a/live/2fabb210-a6dd-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Scotland v Belarus - how you can be part of it]]></title>
+      <description><![CDATA[Your guide on how to watch Sunday's match between Scotland and Belarus in World Cup qualifying Group C on the BBC.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cm2d2yp7r7go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2d2yp7r7go</guid>
+      <pubDate>Sat, 11 Oct 2025 17:31:10 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aee/live/bca7c630-a6a2-11f0-a409-e197032d359e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Newcastle name Forest's Wilson as sporting director]]></title>
       <description><![CDATA[Newcastle United appoint Nottingham Forest's chief football officer Ross Wilson as sporting director.
 
@@ -233,22 +265,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd6365pjl60o</guid>
       <pubDate>Sat, 11 Oct 2025 12:14:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a81/live/8fea7600-a699-11f0-a40c-1b117f97bd40.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd consider Palace's Wharton - Sunday's gossip]]></title>
-      <description><![CDATA[Manchester United target Crystal Palace's Adam Wharton as a solution to their midfield problem but the club will not consider Thomas Tuchel as a replacement for Ruben Amorim.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpw1wx4ywl4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpw1wx4ywl4o</guid>
-      <pubDate>Sat, 11 Oct 2025 20:21:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c76/live/375ac7b0-a6d0-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Scotland v Belarus - how you can be part of it]]></title>
-      <description><![CDATA[Your guide on how to watch Sunday's match between Scotland and Belarus in World Cup qualifying Group C on the BBC.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cm2d2yp7r7go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2d2yp7r7go</guid>
-      <pubDate>Sat, 11 Oct 2025 17:31:10 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aee/live/bca7c630-a6a2-11f0-a409-e197032d359e.jpg"/>
     </item>
     <item>
       <title><![CDATA[The stats that say Haaland will run away with Golden Boot]]></title>
@@ -267,20 +283,28 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/119e/live/2bad63b0-a6cf-11f0-af59-a3ff604fe7e1.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Terrific' Bradley will be big loss in Germany tie]]></title>
-      <description><![CDATA[Northern Ireland have a gap in defence to fill against Germany on Monday after Liverpool's Conor Bradley was booked against Slovakia, earning him a suspension.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd9y1132x79o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9y1132x79o</guid>
-      <pubDate>Sat, 11 Oct 2025 07:25:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7638/live/34570b90-a636-11f0-863f-1f567a5b9247.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Guess the Footballers - play the quiz]]></title>
       <description><![CDATA[We've brought back our Guess the Footballers quiz - and there are 10 players to get.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj4y7q2zxvyo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj4y7q2zxvyo</guid>
       <pubDate>Sat, 11 Oct 2025 06:13:33 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a2d/live/467e68b0-a44a-11f0-92db-77261a15b9d2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Northern Ireland outclass Slovakia in Belfast]]></title>
+      <description><![CDATA[Watch the best of the action as Northern Ireland beat Slovakia 2-0 in their World Cup qualifier at Windsor Park in Belfast.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cdr61817n1go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cdr61817n1go</guid>
+      <pubDate>Fri, 10 Oct 2025 22:00:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3359/live/6a481df0-a624-11f0-b741-177e3e2c2fc7.png"/>
+    </item>
+    <item>
+      <title><![CDATA['My family no longer attend matches because of abuse by fans']]></title>
+      <description><![CDATA[Premier League referee Anthony Taylor says his family "no longer attend matches" after the abuse they faced from Roma fans after the 2023 Europa League final.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c8jm4yn8djxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c8jm4yn8djxo</guid>
+      <pubDate>Fri, 10 Oct 2025 05:02:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed76/live/70a797a0-a59f-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Scotland strike late to beat Greece in frantic finish]]></title>
@@ -347,28 +371,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef4f/live/8fa36d40-a3ac-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sutton says calls for Postecoglou's sacking 'ridiculous']]></title>
-      <description><![CDATA[Mark Chapman is joined by Chris Sutton and Rory Smith on the Monday Night Club to discuss Ange Postecoglou's results at Nottingham Forest, as Sutton calls fans "entitled" amid sacking calls.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c8rv666ln0lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c8rv666ln0lo</guid>
-      <pubDate>Tue, 07 Oct 2025 09:59:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e285/live/07e1b3c0-a362-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[I can raise my voice about injustice - Bellerin]]></title>
-      <description><![CDATA[Former Arsenal defender Hector Bellerin talks to Elizabeth Conway about his attempts to live a more sustainable life after being named global champion at the BBC Green Sport Awards.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cx2jzj1vnwgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2jzj1vnwgo</guid>
-      <pubDate>Mon, 06 Oct 2025 19:32:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4595/live/663cd0f0-a2d9-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Can 'right good' St Johnstone go all the way?]]></title>
       <description><![CDATA[St Johnstone have a handsome lead after 10 games in the Scottish Championship - can they maintain it?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvgqgw91rr0o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgqgw91rr0o</guid>
       <pubDate>Sat, 11 Oct 2025 17:28:04 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9b3/live/547db9b0-a6c1-11f0-a5ba-c17536b4c2c1.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Terrific' Bradley will be big loss in Germany tie]]></title>
+      <description><![CDATA[Northern Ireland have a gap in defence to fill against Germany on Monday after Liverpool's Conor Bradley was booked against Slovakia, earning him a suspension.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd9y1132x79o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9y1132x79o</guid>
+      <pubDate>Sat, 11 Oct 2025 07:25:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7638/live/34570b90-a636-11f0-863f-1f567a5b9247.jpg"/>
     </item>
     <item>
       <title><![CDATA[National League to delay kick-offs in aid of 3UP promotion bid]]></title>
@@ -521,14 +537,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/c78n30k8l2po</guid>
       <pubDate>Mon, 06 Oct 2025 16:47:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0389/live/ea678f60-a2d3-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Mpome 'up and about' after being knocked out at Arsenal]]></title>
-      <description><![CDATA[Brighton defender Maelys Mpome is "up and about" after being taken off the field on a stretcher, with her head in a brace and receiving oxygen during their WSL defeat at Arsenal.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5ygy1n7g31o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ygy1n7g31o</guid>
-      <pubDate>Sun, 12 Oct 2025 17:07:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/344d/live/82454de0-a78e-11f0-92b1-b138197e238f.png"/>
     </item>
     <item>
       <title><![CDATA[From farming village to Liverpool icon - the Salah story]]></title>
