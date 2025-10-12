@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 12 Oct 2025 05:47:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 06:26:15 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -32,12 +32,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f36a/live/2fabb210-a6dd-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How have the big-name striker signings done so far in the Premier League?]]></title>
+      <description><![CDATA[Strikers dominated the summer transfer window and we have taken a look at how nine of them have done since their moves.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2xzxgw1qgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2xzxgw1qgo</guid>
+      <pubDate>Sun, 12 Oct 2025 06:18:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f4/live/f1938710-a3de-11f0-92db-77261a15b9d2.png"/>
+    </item>
+    <item>
       <title><![CDATA[Forest to consider Dyche if Postecoglou sacked]]></title>
       <description><![CDATA[Nottingham Forest could turn to former Everton and Burnley boss Sean Dyche if Ange Postecoglou leaves the club.]]></description>
       <link>https://www.bbc.com/sport/football/articles/czdjdj1340qo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czdjdj1340qo</guid>
       <pubDate>Sat, 11 Oct 2025 20:05:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f3d/live/38955f00-a6da-11f0-92db-77261a15b9d2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['I thought it was a heart attack' - how collapse changed Kirby's life]]></title>
+      <description><![CDATA[Former Lioness Fran Kirby reflects on the health scare that sidelined her for 10 months and her journey back to the top of the game.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cq8elpy1l3po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq8elpy1l3po</guid>
+      <pubDate>Sun, 12 Oct 2025 05:45:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b91/live/082f8a00-a5f1-11f0-af09-bf7f0464c1dc.jpg"/>
     </item>
     <item>
       <title><![CDATA[England on brink of World Cup place as Serbia lose]]></title>
@@ -64,24 +80,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e895/live/2f773e20-a6e9-11f0-86b7-d14d72e2f79b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Wilshere top choice to take Luton job]]></title>
-      <description><![CDATA[Former Arsenal midfielder Jack Wilshere is the leading candidate to take over at League One Luton Town following Matt Bloomfield's departure as boss.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c7010zxl44no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7010zxl44no</guid>
-      <pubDate>Sat, 11 Oct 2025 15:08:12 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d404/live/a169f040-a6a3-11f0-a409-e197032d359e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Newcastle name Forest's Wilson as sporting director]]></title>
-      <description><![CDATA[Newcastle United appoint Nottingham Forest's chief football officer Ross Wilson as sporting director.
-
-]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd6365pjl60o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd6365pjl60o</guid>
-      <pubDate>Sat, 11 Oct 2025 12:14:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a81/live/8fea7600-a699-11f0-a40c-1b117f97bd40.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Kirby reflects on first England call-up and 'Mini Messi' nickname]]></title>
       <description><![CDATA[Former England star Fran Kirby reflects on the moment she received her first England call-up while playing for Reading in WSL2, which led to her breakthrough and being nicknamed 'Mini Messi'.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c0kn6mlre48o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -90,12 +88,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a30/live/7c0321c0-a606-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Terrific' Bradley will be big loss in Germany tie]]></title>
-      <description><![CDATA[Northern Ireland have a gap in defence to fill against Germany on Monday after Liverpool's Conor Bradley was booked against Slovakia, earning him a suspension.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd9y1132x79o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9y1132x79o</guid>
-      <pubDate>Sat, 11 Oct 2025 07:25:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7638/live/34570b90-a636-11f0-863f-1f567a5b9247.jpg"/>
+      <title><![CDATA[Wilshere top choice to take Luton job]]></title>
+      <description><![CDATA[Former Arsenal midfielder Jack Wilshere is the leading candidate to take over at League One Luton Town following Matt Bloomfield's departure as boss.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c7010zxl44no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7010zxl44no</guid>
+      <pubDate>Sat, 11 Oct 2025 15:08:12 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d404/live/a169f040-a6a3-11f0-a409-e197032d359e.jpg"/>
     </item>
     <item>
       <title><![CDATA[How McTominay became a 'brother of Naples']]></title>
@@ -139,6 +137,24 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e3d/live/4e73e8f0-a5b8-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Newcastle name Forest's Wilson as sporting director]]></title>
+      <description><![CDATA[Newcastle United appoint Nottingham Forest's chief football officer Ross Wilson as sporting director.
+
+]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd6365pjl60o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd6365pjl60o</guid>
+      <pubDate>Sat, 11 Oct 2025 12:14:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a81/live/8fea7600-a699-11f0-a40c-1b117f97bd40.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Terrific' Bradley will be big loss in Germany tie]]></title>
+      <description><![CDATA[Northern Ireland have a gap in defence to fill against Germany on Monday after Liverpool's Conor Bradley was booked against Slovakia, earning him a suspension.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd9y1132x79o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9y1132x79o</guid>
+      <pubDate>Sat, 11 Oct 2025 07:25:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7638/live/34570b90-a636-11f0-863f-1f567a5b9247.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Man Utd consider Palace's Wharton - Sunday's gossip]]></title>
       <description><![CDATA[Manchester United target Crystal Palace's Adam Wharton as a solution to their midfield problem but the club will not consider Thomas Tuchel as a replacement for Ruben Amorim.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cpw1wx4ywl4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -163,6 +179,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a7e/live/fb818410-a5dd-11f0-8fc6-8d89d06fa925.jpg"/>
     </item>
     <item>
+      <title><![CDATA[National League to delay kick-offs in aid of 3UP promotion bid]]></title>
+      <description><![CDATA[All National League games will kick off three minutes late on 15 November, supporting the league's 3UP campaign which is seeking an extra promotion place to the EFL.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c749437nq5qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c749437nq5qo</guid>
+      <pubDate>Sat, 11 Oct 2025 12:38:22 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91c3/live/4880ce90-a69e-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Can 'right good' St Johnstone go all the way?]]></title>
       <description><![CDATA[St Johnstone have a handsome lead after 10 games in the Scottish Championship - can they maintain it?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvgqgw91rr0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -179,14 +203,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a2d/live/467e68b0-a44a-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[National League to delay kick-offs in aid of 3UP promotion bid]]></title>
-      <description><![CDATA[All National League games will kick off three minutes late on 15 November, supporting the league's 3UP campaign which is seeking an extra promotion place to the EFL.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c749437nq5qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c749437nq5qo</guid>
-      <pubDate>Sat, 11 Oct 2025 12:38:22 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91c3/live/4880ce90-a69e-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Moore aims to graduate from pitch to boardroom  ]]></title>
       <description><![CDATA[Kieffer Moore has done his homework and spells out his ambitions for Wales, Wrexham and life after scoring goals.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0q7ke5nn1lo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -201,14 +217,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2d2yp7r7go</guid>
       <pubDate>Sat, 11 Oct 2025 17:31:10 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aee/live/bca7c630-a6a2-11f0-a409-e197032d359e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Was Slovakia win NI's best performance under O'Neill?]]></title>
-      <description><![CDATA[Former Northern Ireland strikers David Healy and Gerry Armstrong believe Friday's World Cup qualifying win over Slovakia was NI's best performance under Michael O'Neill.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yj1n09d3no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yj1n09d3no</guid>
-      <pubDate>Fri, 10 Oct 2025 22:34:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3572/live/2e703900-a626-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Does Gilmour have to start in Scotland's midfield?]]></title>
@@ -233,6 +241,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20zqll007vo</guid>
       <pubDate>Fri, 10 Oct 2025 12:55:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c575/live/3ef6d5f0-a5d0-11f0-b98a-8b079c99c55e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Was Slovakia win NI's best performance under O'Neill?]]></title>
+      <description><![CDATA[Former Northern Ireland strikers David Healy and Gerry Armstrong believe Friday's World Cup qualifying win over Slovakia was NI's best performance under Michael O'Neill.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5yj1n09d3no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yj1n09d3no</guid>
+      <pubDate>Fri, 10 Oct 2025 22:34:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3572/live/2e703900-a626-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Captain, player, manager, Mister, number one - Davids at Barnet]]></title>
@@ -353,22 +369,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly64plxj0no</guid>
       <pubDate>Fri, 10 Oct 2025 16:00:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a09/live/590b0280-a5db-11f0-8fc6-8d89d06fa925.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What do people of Salford think about British flags and Gary Neville?]]></title>
-      <description><![CDATA[BBC Sport speaks to Salford residents about their views on Gary Neville's flag comments and modern British patriotism.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn760mpz2e5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn760mpz2e5o</guid>
-      <pubDate>Fri, 10 Oct 2025 05:39:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4d/live/f8d3a790-a52c-11f0-92db-77261a15b9d2.png"/>
-    </item>
-    <item>
-      <title><![CDATA[From Wolves struggles to Ballon d'Or contention]]></title>
-      <description><![CDATA[BBC Sport NI charts Vitinha's rise from an unsuccessful loan spell at Wolves to finishing third in the Ballon d'Or after helping PSG to win the Champions League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy9lnn19neo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy9lnn19neo</guid>
-      <pubDate>Fri, 10 Oct 2025 05:44:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d91/live/394a01f0-a098-11f0-a918-e111dd54869c.png"/>
     </item>
     <item>
       <title><![CDATA[When is the FA Cup first-round draw?]]></title>
