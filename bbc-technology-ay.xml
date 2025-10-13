@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 14:42:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 14:53:27 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[More than 130,000 Vodafone customers report outage]]></title>
+      <description><![CDATA[Vodafone claims to have more than 18 million customers in the UK, including nearly 700,000 home broadband customers.]]></description>
+      <link>https://www.bbc.com/news/articles/c5yldldx659o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yldldx659o</guid>
+      <pubDate>Mon, 13 Oct 2025 14:39:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/824e/live/d4a91730-a840-11f0-be75-03aefff797aa.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Windows 10 users urged to prepare for Microsoft pulling support]]></title>
       <description><![CDATA[Microsoft is ending support for Windows 10, which could make users vulnerable - here's how to get Windows 11.]]></description>
@@ -264,22 +272,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3w5n903447o</guid>
       <pubDate>Mon, 29 Sep 2025 05:00:28 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c59d/live/6c648fe0-9d11-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Gaming giant Electronic Arts bought in unprecedented $55bn deal ]]></title>
-      <description><![CDATA[EA is known for making best-selling games such as EA FC, The Sims and Mass Effect.]]></description>
-      <link>https://www.bbc.com/news/articles/cn4w3jzx807o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4w3jzx807o</guid>
-      <pubDate>Mon, 29 Sep 2025 14:06:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41bd/live/ab75e000-9d32-11f0-82af-53ec555e619b.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Demon Slayer star says anime film's success is mind-blowing]]></title>
-      <description><![CDATA[Zach Aguilar, who voices main character Tanjiro, says Infinity Castle is a "cultural phenomenon".]]></description>
-      <link>https://www.bbc.com/news/articles/cqje8v2dp7do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cqje8v2dp7do</guid>
-      <pubDate>Mon, 29 Sep 2025 12:28:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41cd/live/4ded26e0-9d1f-11f0-92db-77261a15b9d2.png"/>
     </item>
     <item>
       <title><![CDATA[Food firms scramble to meet the high-protein craze]]></title>
