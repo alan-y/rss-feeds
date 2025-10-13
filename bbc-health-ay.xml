@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 16:22:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 16:52:58 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Eat kiwi fruit to relieve constipation, says guidance]]></title>
+      <description><![CDATA[New guidance for doctors says focusing on fruit in our diets can help with a really common complaint.]]></description>
+      <link>https://www.bbc.com/news/articles/cd9kdkxy3veo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cd9kdkxy3veo</guid>
+      <pubDate>Mon, 13 Oct 2025 16:24:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d23e/live/d40d3da0-a846-11f0-8df8-17b411cc599c.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Watchdog vows Botox crackdown after BBC exposé]]></title>
       <description><![CDATA[BBC researchers caught pharmacists trying to sell Botox without assessing patients first.]]></description>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c2ej877g7w1o</guid>
       <pubDate>Fri, 10 Oct 2025 06:48:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/572e/live/8de9a860-a5a6-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Want to feel calmer? How 20 minutes outside will help]]></title>
-      <description><![CDATA[Spending just 20 minutes in nature can lower blood pressure, heart rate and stress levels. ]]></description>
-      <link>https://www.bbc.com/news/articles/cvg0yvdjgn5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg0yvdjgn5o</guid>
-      <pubDate>Thu, 09 Oct 2025 23:45:15 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfa1/live/aaf4fca0-a387-11f0-a56f-0b1b78ebdf89.jpg"/>
     </item>
     <item>
       <title><![CDATA[NHS waiting list rises for third month in row]]></title>
