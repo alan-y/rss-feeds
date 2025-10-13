@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 17:34:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 17:47:36 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -96,14 +96,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aeb/live/7ec260e0-a80b-11f0-881e-a7ddfaa732cf.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Stadium concrete wall demolished after Vigar death]]></title>
-      <description><![CDATA[BBC Sport understands a concrete wall at Wingate & Finchley FC's stadium has been demolished following the death of Chichester City striker Billy Vigar. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy8v4ed7r0yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8v4ed7r0yo</guid>
-      <pubDate>Mon, 13 Oct 2025 07:38:47 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4683/live/68c8a920-a801-11f0-95f1-bf5aa59f64b9.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Shaky Scotland hold on for nervy win over Belarus]]></title>
       <description><![CDATA[Watch the best of the action as goals from Che Adams and Scott McTominay earn Scotland a narrow World Cup qualifying win over Belarus.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cx24xxky1p2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -152,6 +144,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fdd/live/459d6100-a78b-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Stadium concrete wall demolished after Vigar death]]></title>
+      <description><![CDATA[BBC Sport understands a concrete wall at Wingate & Finchley FC's stadium has been demolished following the death of Chichester City striker Billy Vigar. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy8v4ed7r0yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8v4ed7r0yo</guid>
+      <pubDate>Mon, 13 Oct 2025 07:38:47 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4683/live/68c8a920-a801-11f0-95f1-bf5aa59f64b9.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Which teams have qualified for the World Cup and who is on the brink?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team looks at who has qualified for next year's Fifa World Cup.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cglepde7yzlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -168,20 +168,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dc3/live/0103cb70-a83e-11f0-8df8-17b411cc599c.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Neville & Beckham-owned Salford City vote to revert colours to orange]]></title>
-      <description><![CDATA[Salford City's supporters vote to change the club's primary home shirt colour back to orange.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2pepq18gpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2pepq18gpo</guid>
-      <pubDate>Mon, 13 Oct 2025 16:24:59 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32cd/live/f6d37a70-a850-11f0-a6a1-7df40e0558bb.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Barca will not renew Lewandowski deal - Monday's gossip]]></title>
       <description><![CDATA[Barcelona not planning to extend Robert Lewandowski contract, Newcastle United could allow William Osula to leave, plus more.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c7848yq34z6o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7848yq34z6o</guid>
       <pubDate>Mon, 13 Oct 2025 08:57:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ac2/live/f83d1b30-a811-11f0-b741-177e3e2c2fc7.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Neville & Beckham-owned Salford City vote to revert colours to orange]]></title>
+      <description><![CDATA[Salford City's supporters vote to change the club's primary home shirt colour back to orange.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2pepq18gpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2pepq18gpo</guid>
+      <pubDate>Mon, 13 Oct 2025 16:24:59 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32cd/live/f6d37a70-a850-11f0-a6a1-7df40e0558bb.jpg"/>
     </item>
     <item>
       <title><![CDATA['Delusion to dream of win over Denmark' - fan views on Scotland]]></title>
@@ -214,14 +214,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce809p9187eo</guid>
       <pubDate>Mon, 13 Oct 2025 09:31:21 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3fa/live/fc2ea240-a604-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why centurion O'Neill 'fits Northern Ireland perfectly']]></title>
-      <description><![CDATA[Against Germany at Windsor Park on Monday night, Michael O'Neill will become just the second manager to take charge of the Northern Ireland senior men's team on 100 occasions. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g7gvw37k7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g7gvw37k7o</guid>
-      <pubDate>Mon, 13 Oct 2025 06:11:46 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3153/live/5ed88b50-a799-11f0-8c9e-87f67f3eb58c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Three players, 57 goals - who is the best striker?]]></title>
