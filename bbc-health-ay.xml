@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 08:28:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 08:55:09 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Watchdog vows Botox crackdown after BBC exposé]]></title>
+      <description><![CDATA[BBC researchers caught pharmacists trying to sell Botox without assessing patients first.]]></description>
+      <link>https://www.bbc.com/news/articles/cddm1g470v3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cddm1g470v3o</guid>
+      <pubDate>Mon, 13 Oct 2025 05:01:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eb7/live/d6a363c0-a5d3-11f0-b98a-8b079c99c55e.jpg"/>
+    </item>
     <item>
       <title><![CDATA[William visibly moved as widow tells of husband's suicide]]></title>
       <description><![CDATA[Prince William's foundation is giving £1m to set up a suicide prevention network.]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgq6x94np6o</guid>
       <pubDate>Wed, 08 Oct 2025 07:01:32 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee72/live/14279840-a455-11f0-8a21-ff96e44d1cc2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['My eyesight might have been saved if I'd gone to the optician sooner']]></title>
-      <description><![CDATA[Gail Cairns started experiencing sight loss, headaches, and eye pain, but did not go to an optician when she first had symptoms.]]></description>
-      <link>https://www.bbc.com/news/articles/c87yzywrrdjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c87yzywrrdjo</guid>
-      <pubDate>Wed, 08 Oct 2025 23:10:14 GMT</pubDate>
-      <media:thumbnail width="240" height="180" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a7e/live/02e28580-a528-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Alarming number of people now vape, says WHO]]></title>
