@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 14 Oct 2025 08:25:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 08:53:20 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -184,14 +184,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9472/live/fc4682a0-a75a-11f0-a302-6bcd0f505684.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Salford City fans vote to revert colours to orange]]></title>
-      <description><![CDATA[Salford City's supporters vote to change the club's primary home shirt colour back to orange.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2pepq18gpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2pepq18gpo</guid>
-      <pubDate>Mon, 13 Oct 2025 16:24:59 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32cd/live/f6d37a70-a850-11f0-a6a1-7df40e0558bb.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Arsenal midfielder Odegaard out until mid-November]]></title>
       <description><![CDATA[Arsenal midfielder Martin Odegaard will not return to first-team action for the Gunners until after November's international break. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cr7mr47gzxyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -208,20 +200,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dc3/live/0103cb70-a83e-11f0-8df8-17b411cc599c.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Salford City fans vote to revert colours to orange]]></title>
+      <description><![CDATA[Salford City's supporters vote to change the club's primary home shirt colour back to orange.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2pepq18gpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2pepq18gpo</guid>
+      <pubDate>Mon, 13 Oct 2025 16:24:59 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32cd/live/f6d37a70-a850-11f0-a6a1-7df40e0558bb.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Football regulator plans new licensing regime]]></title>
       <description><![CDATA[All 116 clubs in England's top five divisions will have to prove they are financially healthy before being granted a licence allowing them to compete, under plans released by football's new watchdog.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c625rnl5yngo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c625rnl5yngo</guid>
       <pubDate>Mon, 13 Oct 2025 18:40:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2f4/live/73ae9570-a865-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Can Scotland rouse themselves for World Cup finale?]]></title>
-      <description><![CDATA[Scotland delivered a terrible performance but won and have found themselves closer to the World Cup. But, as Tom English asks, can they take the final step?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c20e44w544zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20e44w544zo</guid>
-      <pubDate>Sun, 12 Oct 2025 21:42:15 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52b/live/4a2647e0-a7b4-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
       <title><![CDATA[Pickford poised to sign new Everton deal ]]></title>
@@ -238,6 +230,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8v4ed7r0yo</guid>
       <pubDate>Mon, 13 Oct 2025 07:38:47 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4683/live/68c8a920-a801-11f0-95f1-bf5aa59f64b9.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Can Scotland rouse themselves for World Cup finale?]]></title>
+      <description><![CDATA[Scotland delivered a terrible performance but won and have found themselves closer to the World Cup. But, as Tom English asks, can they take the final step?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c20e44w544zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20e44w544zo</guid>
+      <pubDate>Sun, 12 Oct 2025 21:42:15 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52b/live/4a2647e0-a7b4-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watkins out of England squad to face Latvia ]]></title>
@@ -270,14 +270,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq8elg51jkpo</guid>
       <pubDate>Sat, 11 Oct 2025 21:03:46 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/400a/live/33d2ca60-a5c8-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Always give your max' - the drive behind Walsall's 'Uncle' Albert]]></title>
-      <description><![CDATA[Walsall's 37-year-old striker Albert Adomah lets former Saddlers midfielder and BBC Radio WM pundit Darren Wrack follow him around for the day.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce809p9187eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce809p9187eo</guid>
-      <pubDate>Mon, 13 Oct 2025 09:31:21 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3fa/live/fc2ea240-a604-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why has Haaland returned early from international duty?]]></title>
@@ -385,12 +377,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b10/live/dd961890-a555-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Chaos reigns as Gerrard leaves Rangers scrambling']]></title>
-      <description><![CDATA[Maybe the time has now come for Rangers to accept that when Steven Gerrard says 'it's not you, it's me' what he actually means is the complete opposite, writes Tom English.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckg2g4p9vrvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg2g4p9vrvo</guid>
-      <pubDate>Sun, 12 Oct 2025 11:51:14 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e3e/live/63418530-a761-11f0-af68-63d6dbe14439.jpg"/>
+      <title><![CDATA['Always give your max' - the drive behind Walsall's 'Uncle' Albert]]></title>
+      <description><![CDATA[Walsall's 37-year-old striker Albert Adomah lets former Saddlers midfielder and BBC Radio WM pundit Darren Wrack follow him around for the day.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce809p9187eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce809p9187eo</guid>
+      <pubDate>Mon, 13 Oct 2025 09:31:21 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3fa/live/fc2ea240-a604-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Former Newcastle striker Ranger leaves Kettering]]></title>
@@ -399,6 +391,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3d5q7wvd7o</guid>
       <pubDate>Mon, 13 Oct 2025 08:26:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d116/live/d96d6590-a80a-11f0-881e-a7ddfaa732cf.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Chaos reigns as Gerrard leaves Rangers scrambling']]></title>
+      <description><![CDATA[Maybe the time has now come for Rangers to accept that when Steven Gerrard says 'it's not you, it's me' what he actually means is the complete opposite, writes Tom English.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckg2g4p9vrvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg2g4p9vrvo</guid>
+      <pubDate>Sun, 12 Oct 2025 11:51:14 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e3e/live/63418530-a761-11f0-af68-63d6dbe14439.jpg"/>
     </item>
     <item>
       <title><![CDATA['Wildest I've seen him' - Clarke angered by Scotland on historic night]]></title>
@@ -431,14 +431,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7494p3ye3xo</guid>
       <pubDate>Sun, 12 Oct 2025 14:35:29 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01bf/live/cd8ddf30-a773-11f0-93e3-054bcb63bc18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Mpome 'up and about' after being knocked out at Arsenal]]></title>
-      <description><![CDATA[Brighton defender Maelys Mpome is "up and about" after being taken off the field on a stretcher, with her head in a brace and receiving oxygen during their WSL defeat at Arsenal.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5ygy1n7g31o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ygy1n7g31o</guid>
-      <pubDate>Sun, 12 Oct 2025 17:07:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/344d/live/82454de0-a78e-11f0-92b1-b138197e238f.png"/>
     </item>
     <item>
       <title><![CDATA['I thought it was a heart attack' - how collapse changed Kirby's life]]></title>
@@ -567,6 +559,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgkzy8px53eo</guid>
       <pubDate>Tue, 14 Oct 2025 06:43:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3328/live/eb995c20-a8c7-11f0-928c-71dbb8619e94.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Glasgow City chase Europa Cup place - watch on BBC]]></title>
+      <description><![CDATA[To reach the knockout phase of the Europa Cup SWPL leaders Glasgow City must overcome a 2-1 deficit at home to HB Koge on Wednesday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy0krvy42xno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy0krvy42xno</guid>
+      <pubDate>Tue, 14 Oct 2025 08:50:58 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dce/live/ea3c0360-a835-11f0-9f09-57500e5dbf06.jpg"/>
     </item>
     <item>
       <title><![CDATA[The footballer who cycles to work after being inspired by Wenger]]></title>
