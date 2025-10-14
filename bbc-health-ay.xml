@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 14 Oct 2025 14:42:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 15:21:25 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -232,6 +232,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c6/live/a2e18270-9a29-11f0-b7a7-6962c574e78f.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Prostate cancer symptoms and treatment: What to check for]]></title>
+      <description><![CDATA[One in eight men will be diagnosed with prostate cancer in their lifetime.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2plvp341jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2plvp341jo</guid>
+      <pubDate>Tue, 14 Oct 2025 08:42:25 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2357/live/e7e95930-a8d7-11f0-a522-95977dce8b09.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[A facelift at 28? Why young people are turning to plastic surgery]]></title>
       <description><![CDATA[Gone are the days when facelifts were for the ageing wealthy. Now younger people are going under the knife.]]></description>
       <link>https://www.bbc.com/news/articles/czxwvr57424o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -382,14 +390,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c8de89lg21jo</guid>
       <pubDate>Fri, 22 Aug 2025 20:34:35 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b680/live/1d5fff10-7f7f-11f0-83cc-c5da98c419b8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Lucy Letby's new expert supporters claim no babies were deliberately harmed. Who should we believe?]]></title>
-      <description><![CDATA[Barrister Mark McDonald claims to have the backing of a panel of world class experts who say there is no evidence any babies were deliberately harmed]]></description>
-      <link>https://www.bbc.com/news/articles/cj0y9673rjno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0y9673rjno</guid>
-      <pubDate>Tue, 19 Aug 2025 15:39:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b23/live/f38bf4e0-75ed-11f0-a975-cb151ca452f4.png"/>
     </item>
     <item>
       <title><![CDATA[What is chickenpox and how can I get my child vaccinated?]]></title>
