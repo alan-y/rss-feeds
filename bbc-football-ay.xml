@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 14 Oct 2025 16:54:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 17:16:36 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -96,14 +96,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59b6/live/9f2e5c50-a90d-11f0-b5e8-25b94b51d777.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Quiz: English managers to take charge of national teams]]></title>
-      <description><![CDATA[BBC Sport has put together a list of 10 English managers to take charge of international teams - can you name them?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp3xdqg0n2ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3xdqg0n2ro</guid>
-      <pubDate>Tue, 14 Oct 2025 05:55:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602c/live/4c451ea0-a8c4-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Highlights: De Bruyne stars as Belgium dent Wales' World Cup hopes]]></title>
       <description><![CDATA[Watch the best of the action as Wales lose 4-2 to Belgium in World Cup qualifying in Cardiff.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cz7p3g2njqlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -144,6 +136,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd2/live/b8dcb290-a7a1-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Quiz: English managers to take charge of national teams]]></title>
+      <description><![CDATA[BBC Sport has put together a list of 10 English managers to take charge of international teams - can you name them?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp3xdqg0n2ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3xdqg0n2ro</guid>
+      <pubDate>Tue, 14 Oct 2025 05:55:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602c/live/4c451ea0-a8c4-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Heart-in-mouth' Belgium loss leaves Wales facing play-off challenge]]></title>
       <description><![CDATA[Head coach Craig Bellamy is proud of Wales' efforts to try to find a vital win despite falling short in the 4-2 World Cup qualifying defeat by Belgium.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cr4305p402xo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -160,20 +160,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36a7/live/93431a20-a84a-11f0-8df8-17b411cc599c.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How can England qualify for 2026 World Cup?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything looks at when England could qualify for the World Cup finals in the United States, Canada and Mexico.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cq8elg51jkpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq8elg51jkpo</guid>
-      <pubDate>Tue, 14 Oct 2025 10:45:03 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/400a/live/33d2ca60-a5c8-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Quiz: Which nations have qualified for 2026 World Cup?]]></title>
       <description><![CDATA[For this week's big Tuesday quiz we want you to name every nation who has already qualified for the 2026 World Cup.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy8v4j0nn0ro?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8v4j0nn0ro</guid>
       <pubDate>Tue, 14 Oct 2025 09:00:45 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a997/live/348ea3b0-a862-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How can England qualify for 2026 World Cup?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything looks at when England could qualify for the World Cup finals in the United States, Canada and Mexico.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cq8elg51jkpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq8elg51jkpo</guid>
+      <pubDate>Tue, 14 Oct 2025 10:45:03 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/400a/live/33d2ca60-a5c8-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man Utd & Palace want Jobe Bellingham - Tuesday's gossip ]]></title>
