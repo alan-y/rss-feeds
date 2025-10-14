@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 14 Oct 2025 07:20:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 07:34:11 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -22,6 +22,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cwykxqerk12o</guid>
       <pubDate>Tue, 14 Oct 2025 05:01:05 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1f2/live/55ace660-a82b-11f0-9f09-57500e5dbf06.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['My leg helped rebuild my tongue after cancer' ]]></title>
+      <description><![CDATA[A woman from Cornwall says people should be aware after a dental check-up led to her diagnosis.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2r8ykwn89o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2r8ykwn89o</guid>
+      <pubDate>Tue, 14 Oct 2025 05:01:30 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4548/live/090650b0-a80f-11f0-881e-a7ddfaa732cf.jpg"/>
     </item>
     <item>
       <title><![CDATA[Eat kiwi fruit to relieve constipation, says guidance]]></title>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cqje5ljdnygo</guid>
       <pubDate>Thu, 09 Oct 2025 10:24:23 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f1/live/3869b8b0-a4f9-11f0-8e74-1f6664d312e9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Your nose gets colder when you're stressed. These thermal images show the change]]></title>
-      <description><![CDATA[Psychologists subjected a BBC reporter to a carefully designed thermal camera stress test.]]></description>
-      <link>https://www.bbc.com/news/articles/cj076ynnlpgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj076ynnlpgo</guid>
-      <pubDate>Sun, 12 Oct 2025 23:28:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee8/live/1e2ba400-a390-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Could I have saved my parents if I'd been taught CPR? ]]></title>
@@ -240,12 +240,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05fb/live/f899dc60-a5fc-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
-      <title><![CDATA[My late husband's organs transformed the lives of four people]]></title>
-      <description><![CDATA[Mark Hutchinson was only 52 when he died unexpectedly last year after suffering two strokes "out of the blue".]]></description>
-      <link>https://www.bbc.com/news/articles/c62ldw09y6go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c62ldw09y6go</guid>
-      <pubDate>Sun, 12 Oct 2025 08:33:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1e/live/0949be30-a752-11f0-b741-177e3e2c2fc7.jpg"/>
+      <title><![CDATA[Your nose gets colder when you're stressed. These thermal images show the change]]></title>
+      <description><![CDATA[Psychologists subjected a BBC reporter to a carefully designed thermal camera stress test.]]></description>
+      <link>https://www.bbc.com/news/articles/cj076ynnlpgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj076ynnlpgo</guid>
+      <pubDate>Sun, 12 Oct 2025 23:28:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee8/live/1e2ba400-a390-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[My eating disorder made me good at lying, says Victoria Beckham]]></title>
@@ -254,6 +254,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/crrj4v9wre8o</guid>
       <pubDate>Thu, 09 Oct 2025 10:08:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43cc/live/0f472f90-a4fd-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[My late husband's organs transformed the lives of four people]]></title>
+      <description><![CDATA[Mark Hutchinson was only 52 when he died unexpectedly last year after suffering two strokes "out of the blue".]]></description>
+      <link>https://www.bbc.com/news/articles/c62ldw09y6go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c62ldw09y6go</guid>
+      <pubDate>Sun, 12 Oct 2025 08:33:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1e/live/0949be30-a752-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
       <title><![CDATA['I missed a £100 council tax bill while in hospital – the debt ballooned to £6k']]></title>
@@ -382,14 +390,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0y9673rjno</guid>
       <pubDate>Tue, 19 Aug 2025 15:39:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b23/live/f38bf4e0-75ed-11f0-a975-cb151ca452f4.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Drinks that make you chill - do they really do what it says on the tin? ]]></title>
-      <description><![CDATA[The wellness drinks industry is booming – but the big benefits they promise might be too good to be true.]]></description>
-      <link>https://www.bbc.com/news/articles/c4gdw0y4q7wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gdw0y4q7wo</guid>
-      <pubDate>Sat, 09 Aug 2025 23:37:41 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6afd/live/3d0ded10-6e2a-11f0-89ea-4d6f9851f623.jpg"/>
     </item>
     <item>
       <title><![CDATA[What is chickenpox and how can I get my child vaccinated?]]></title>
