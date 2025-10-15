@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 09:20:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 09:39:58 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Boulter out of Japan Open in second round]]></title>
+      <description><![CDATA[British number three Katie Boulter wins only four games as she is knocked out of the Japan Open by Sorana Cirstea.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/crkldjkd1peo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/crkldjkd1peo</guid>
+      <pubDate>Wed, 15 Oct 2025 09:19:51 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca97/live/eaeabbd0-a9a7-11f0-97ec-91b89bd10dfa.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Raducanu has blood pressure taken in China defeat]]></title>
       <description><![CDATA[Britain's Emma Raducanu struggles physically in a three-set loss to world number 219 Zhu Lin in the Ningbo Open first round.]]></description>
@@ -56,20 +64,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59fa/live/162b5da0-a76d-11f0-93e3-054bcb63bc18.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Djokovic loses to qualifier as cousins set up Shanghai final]]></title>
-      <description><![CDATA[Novak Djokovic suffers a shock defeat by Monegasque qualifier Valentin Vacherot in the semi-finals of the Shanghai Masters.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cz696pywwnlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cz696pywwnlo</guid>
-      <pubDate>Sat, 11 Oct 2025 12:05:48 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5a8/live/54bd3f10-a692-11f0-a40c-1b117f97bd40.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Sabalenka beaten in epic Wuhan semi-final by Pegula]]></title>
       <description><![CDATA[World number one Aryna Sabalenka's 20-match winning streak at the Wuhan Open ends as Jessica Pegula sets up a final against Coco Gauff.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c0595lrej50o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c0595lrej50o</guid>
       <pubDate>Sat, 11 Oct 2025 14:51:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66d/live/b834f0d0-a6a4-11f0-a409-e197032d359e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Djokovic loses to qualifier as cousins set up Shanghai final]]></title>
+      <description><![CDATA[Novak Djokovic suffers a shock defeat by Monegasque qualifier Valentin Vacherot in the semi-finals of the Shanghai Masters.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cz696pywwnlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cz696pywwnlo</guid>
+      <pubDate>Sat, 11 Oct 2025 12:05:48 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5a8/live/54bd3f10-a692-11f0-a40c-1b117f97bd40.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sabalenka extends Wuhan win streak to 20 matches]]></title>
@@ -96,14 +104,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffdb/live/0c583c70-8a0a-11ef-81f8-1f28bcc5be15.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sabalenka wins first match since US Open triumph]]></title>
-      <description><![CDATA[Aryna Sabalenka overcomes a rusty start in Wuhan as she fights back to beat Rebecca Sramkova in her first appearance since winning the US Open.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cd9y37dzdw8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cd9y37dzdw8o</guid>
-      <pubDate>Wed, 08 Oct 2025 09:57:20 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f65/live/39747d90-a42b-11f0-ba96-81d873a15aec.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Just trying to stay alive' - Djokovic reaches semis]]></title>
       <description><![CDATA[Novak Djokovic says he is "just trying to stay alive" after reaching his 80th Masters semi-finals in gruelling conditions in China.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cdjz1ej4wyyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -118,6 +118,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c80gz1g9l4ro</guid>
       <pubDate>Thu, 09 Oct 2025 13:40:56 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b18d/live/7e711dc0-a504-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sabalenka wins first match since US Open triumph]]></title>
+      <description><![CDATA[Aryna Sabalenka overcomes a rusty start in Wuhan as she fights back to beat Rebecca Sramkova in her first appearance since winning the US Open.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cd9y37dzdw8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cd9y37dzdw8o</guid>
+      <pubDate>Wed, 08 Oct 2025 09:57:20 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f65/live/39747d90-a42b-11f0-ba96-81d873a15aec.jpg"/>
     </item>
     <item>
       <title><![CDATA['Do you want a player to die on court?' - tennis in the heat]]></title>
@@ -152,14 +160,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c02/live/5b4c00c0-a389-11f0-a56f-0b1b78ebdf89.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Norrie and 'terrible' Zverev lose in Shanghai third round]]></title>
-      <description><![CDATA[Britain's Cameron Norrie is left to rue missed opportunities as he is beaten by rising teenage star Learner Tien in the Shanghai Masters third round.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cy7pzyl60v4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cy7pzyl60v4o</guid>
-      <pubDate>Mon, 06 Oct 2025 16:13:35 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0f6/live/bbdb9250-a2cd-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Alcaraz takes on amateurs in Million Dollar One Point Slam]]></title>
       <description><![CDATA[World number one Carlos Alcaraz will headline the new Million Dollar One Point Slam, which pits amateurs against professionals before January's Australian Open.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/clyd77np0l0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -174,6 +174,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cx2rzp8er8eo</guid>
       <pubDate>Mon, 06 Oct 2025 07:42:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c413/live/47fd7b70-a285-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Norrie and 'terrible' Zverev lose in Shanghai third round]]></title>
+      <description><![CDATA[Britain's Cameron Norrie is left to rue missed opportunities as he is beaten by rising teenage star Learner Tien in the Shanghai Masters third round.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cy7pzyl60v4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cy7pzyl60v4o</guid>
+      <pubDate>Mon, 06 Oct 2025 16:13:35 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0f6/live/bbdb9250-a2cd-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Norrie records first win since US Open]]></title>
@@ -200,14 +208,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cy0v7lev0zgo</guid>
       <pubDate>Sat, 04 Oct 2025 08:50:53 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cf8/live/19e12180-a0fd-11f0-ac58-bd617cc6cf3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Djokovic 'suffered' during Shanghai win over Cilic]]></title>
-      <description><![CDATA[Novak Djokovic says he "suffered a lot" during a hard-fought victory over fellow veteran Marin Cilic in the second round of the Shanghai Masters.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/ckg672l1lg3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/ckg672l1lg3o</guid>
-      <pubDate>Fri, 03 Oct 2025 14:49:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a88/live/1a6ae3d0-a061-11f0-89d1-6da56a5b5901.jpg"/>
     </item>
     <item>
       <title><![CDATA[Boulter loses to Pegula as GB out of BJK Cup]]></title>
