@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 14 Oct 2025 23:47:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 01:20:59 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['It gave me my voice back': How group singing is helping new mums with postnatal depression]]></title>
+      <description><![CDATA[New research suggests singing can be clinically effective at treating the symptoms and cost effective for the NHS.]]></description>
+      <link>https://www.bbc.com/news/articles/c93127z99yxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c93127z99yxo</guid>
+      <pubDate>Tue, 14 Oct 2025 23:32:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e251/live/daef4b20-a45b-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Questions over mysterious death in mental health hospital]]></title>
       <description><![CDATA[An inquest into Maria Morris's death found it was accidental, but her family still have questions over what happened the night she died.]]></description>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2z5py6l12o</guid>
       <pubDate>Tue, 30 Sep 2025 09:52:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef8/live/3fde3150-9dd0-11f0-9f23-2534d63ace40.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Can England's rugby heroes inspire more girls to stay in sport?]]></title>
-      <description><![CDATA[Sports groups hope England Women's Rugby World Cup success can boost girls playing sport.]]></description>
-      <link>https://www.bbc.com/news/articles/cy50kd7x2peo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy50kd7x2peo</guid>
-      <pubDate>Mon, 29 Sep 2025 05:07:14 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c6/live/a2e18270-9a29-11f0-b7a7-6962c574e78f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Prostate cancer symptoms and treatment: What to check for]]></title>
