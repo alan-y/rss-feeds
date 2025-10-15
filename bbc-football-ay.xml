@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 10:43:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 11:16:27 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,6 +40,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b9f/live/9369dac0-a8f4-11f0-a33c-d7bc21b91844.jpg"/>
     </item>
     <item>
+      <title><![CDATA[The Australian with a masterplan to get Scotland back to World Cup]]></title>
+      <description><![CDATA[Scotland head coach Melissa Andreatta talks exclusively to BBC Scotland about management, motherhood and making the 2027 World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgk3kelj72o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgk3kelj72o</guid>
+      <pubDate>Wed, 15 Oct 2025 10:13:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94ec/live/0b455450-a848-11f0-92db-77261a15b9d2.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Armenia captain 'lost his head' - Republic of Ireland's Azaz on red card]]></title>
       <description><![CDATA[Republic of Ireland's Finn Azaz says Armenian captain Tigran Barseghyan "lost his head" when he was sent off for headbutting the Irish midfielder.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cly47v2wn14o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -56,14 +64,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6718/live/b21d8ce0-a5da-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Did Man City let De Bruyne leave too soon?]]></title>
-      <description><![CDATA[Kevin de Bruyne is in sparkling form for Napoli and Belgium this season - did he leave Man City too soon?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg73308qygo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg73308qygo</guid>
-      <pubDate>Tue, 14 Oct 2025 15:29:50 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eac/live/682142b0-a90b-11f0-b456-7d29a201c8c0.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Inter Milan want Palace's Guehi - Wednesday's gossip]]></title>
       <description><![CDATA[Crystal Palace defender Marc Guehi is now a target for Inter Milan, Bournemouth's Antoine Semenyo has a secret release clause, Chelsea want Portuguese teenager Cardoso Varela, plus more.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cd04zzee3y5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -72,12 +72,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0409/live/b30c2b60-a937-11f0-b741-177e3e2c2fc7.png"/>
     </item>
     <item>
-      <title><![CDATA[Which teams have qualified for the World Cup and who is on the brink?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team looks at who has qualified for next year's Fifa World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cglepde7yzlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cglepde7yzlo</guid>
-      <pubDate>Tue, 14 Oct 2025 21:36:57 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72df/live/6320ea80-a353-11f0-928c-71dbb8619e94.jpg"/>
+      <title><![CDATA[Did Man City let De Bruyne leave too soon?]]></title>
+      <description><![CDATA[Kevin de Bruyne is in sparkling form for Napoli and Belgium this season - did he leave Man City too soon?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvg73308qygo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg73308qygo</guid>
+      <pubDate>Tue, 14 Oct 2025 15:29:50 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eac/live/682142b0-a90b-11f0-b456-7d29a201c8c0.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Top European clubs discuss using six substitutes]]></title>
+      <description><![CDATA[Europe's top clubs, including some Premier League sides, have held discussions about using six substitutes per game to ease the workload on players.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj0e85lm36no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0e85lm36no</guid>
+      <pubDate>Wed, 15 Oct 2025 11:00:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d28/live/44ca00c0-a912-11f0-b5e8-25b94b51d777.jpg"/>
     </item>
     <item>
       <title><![CDATA['I love the country' - Potter open to Sweden job]]></title>
@@ -88,12 +96,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d19/live/c28828c0-a926-11f0-a87a-599d240e4891.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Muscat leads race to become new Rangers head coach]]></title>
-      <description><![CDATA[Kevin Muscat is the leading candidate to replace Russell Martin as Rangers head coach, although the Ibrox club are talking to other targets.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crl28r7kwlko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crl28r7kwlko</guid>
-      <pubDate>Tue, 14 Oct 2025 17:54:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e05/live/7a2e1fc0-a8dc-11f0-a522-95977dce8b09.jpg"/>
+      <title><![CDATA['This is what 20 years of collecting shirts looks like']]></title>
+      <description><![CDATA[Doug Bierton, co-founder of Classic Football Shirts, speaks to BBC Sport's Nesta McGregor about his favourite shirts.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cdx4r4y207vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cdx4r4y207vo</guid>
+      <pubDate>Wed, 15 Oct 2025 10:10:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58bf/live/4c8febc0-a99f-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Highlights: De Bruyne stars as Belgium dent Wales' World Cup hopes]]></title>
@@ -128,12 +136,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17f0/live/6c592610-a805-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Clarke 'really, really disappointed' by Scotland despite win]]></title>
-      <description><![CDATA[Scotland head coach Steve Clarke is pleased with victory but unhappy with his side's performance in their World Cup qualification win over Belarus.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c1lq55e7qr0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1lq55e7qr0o</guid>
-      <pubDate>Sun, 12 Oct 2025 19:30:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd2/live/b8dcb290-a7a1-11f0-92db-77261a15b9d2.jpg"/>
+      <title><![CDATA[Muscat leads race to become new Rangers head coach]]></title>
+      <description><![CDATA[Kevin Muscat is the leading candidate to replace Russell Martin as Rangers head coach, although the Ibrox club are talking to other targets.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crl28r7kwlko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crl28r7kwlko</guid>
+      <pubDate>Tue, 14 Oct 2025 17:54:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e05/live/7a2e1fc0-a8dc-11f0-a522-95977dce8b09.jpg"/>
     </item>
     <item>
       <title><![CDATA[Who makes your England World Cup starting XI?]]></title>
@@ -160,12 +168,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/369c/live/96b7ac70-a813-11f0-881e-a7ddfaa732cf.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ivory Coast and Senegal claim places at World Cup]]></title>
-      <description><![CDATA[Ivory Coast and Senegal become the final two African sides to secure automatic qualification for the 2026 World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5ypwvp04nko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ypwvp04nko</guid>
-      <pubDate>Tue, 14 Oct 2025 21:06:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b27/live/683e5f70-a93e-11f0-a207-37a46608d8d7.jpg"/>
+      <title><![CDATA[Which teams have qualified for the World Cup and who is on the brink?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team looks at who has qualified for next year's Fifa World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cglepde7yzlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cglepde7yzlo</guid>
+      <pubDate>Tue, 14 Oct 2025 21:36:57 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72df/live/6320ea80-a353-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wiegman wanted retired Bright in England squad]]></title>
@@ -174,6 +182,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3epjd73g13o</guid>
       <pubDate>Tue, 14 Oct 2025 10:05:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/641a/live/4ae11340-a8ef-11f0-a33c-d7bc21b91844.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ivory Coast and Senegal claim places at World Cup]]></title>
+      <description><![CDATA[Ivory Coast and Senegal become the final two African sides to secure automatic qualification for the 2026 World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5ypwvp04nko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ypwvp04nko</guid>
+      <pubDate>Tue, 14 Oct 2025 21:06:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b27/live/683e5f70-a93e-11f0-a207-37a46608d8d7.jpg"/>
     </item>
     <item>
       <title><![CDATA['In the form of his life' - how England players rated]]></title>
@@ -200,20 +216,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a46b/live/1ae926f0-a8e5-11f0-9f43-d30f6cff76c5.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What does squad-cost ratio and anchoring mean in football?]]></title>
-      <description><![CDATA[Our Ask Me Anything team explain what squad-cost ratio and anchoring mean.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgywq9dj7jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgywq9dj7jo</guid>
-      <pubDate>Wed, 15 Oct 2025 07:42:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3c6/live/6b53b890-a8f8-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Biggest thing since independence' - Cape Verde celebrates World Cup spot]]></title>
       <description><![CDATA[Cape Verdeans took to the streets to celebrate qualifying for the World Cup, with many hailing it the best day since gaining independence in 1975.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5yldj6nz46o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yldj6nz46o</guid>
       <pubDate>Tue, 14 Oct 2025 15:33:21 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7575/live/4ca23a80-a90b-11f0-b456-7d29a201c8c0.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What does squad-cost ratio and anchoring mean in football?]]></title>
+      <description><![CDATA[Our Ask Me Anything team explain what squad-cost ratio and anchoring mean.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgywq9dj7jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgywq9dj7jo</guid>
+      <pubDate>Wed, 15 Oct 2025 07:42:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3c6/live/6b53b890-a8f8-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Quiz: English managers to take charge of national teams]]></title>
@@ -232,20 +248,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca6/live/17813870-a914-11f0-b5e8-25b94b51d777.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Northern Ireland relish play-off task after Germany loss]]></title>
-      <description><![CDATA[Northern Ireland players are already relishing trying to secure a play-off World Cup berth despite their defeat against Germany.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cglg2lg2ynwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cglg2lg2ynwo</guid>
-      <pubDate>Tue, 14 Oct 2025 13:46:41 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66ee/live/3128ce10-a8ff-11f0-83e1-dd232318af99.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['He made players look like Sunday League footballers' - Sweden sack Tomasson]]></title>
       <description><![CDATA[Sweden sack manager Jon Dahl Tomasson following a poor start to their 2026 World Cup qualifying campaign.]]></description>
       <link>https://www.bbc.com/sport/football/articles/clyl5906qnzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyl5906qnzo</guid>
       <pubDate>Tue, 14 Oct 2025 14:12:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c17/live/143eca90-a907-11f0-99b2-a3801a157d90.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Northern Ireland relish play-off task after Germany loss]]></title>
+      <description><![CDATA[Northern Ireland players are already relishing trying to secure a play-off World Cup berth despite their defeat against Germany.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cglg2lg2ynwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cglg2lg2ynwo</guid>
+      <pubDate>Tue, 14 Oct 2025 13:46:41 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66ee/live/3128ce10-a8ff-11f0-83e1-dd232318af99.jpg"/>
     </item>
     <item>
       <title><![CDATA[Quiz: Which nations have qualified for 2026 World Cup?]]></title>
@@ -264,20 +280,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e28/live/deb24530-a8fe-11f0-ab74-91eb43b2b68c.jpg"/>
     </item>
     <item>
-      <title><![CDATA[World Cup-bound Cape Verdean Lopes relishing his week to remember]]></title>
-      <description><![CDATA[Shamrock Rovers defender Roberto Lopes is relishing the week of his life - helping Cape Verde qualify for the World Cup, aiming for League of Ireland success with Shamrock Rovers, and expecting his first child with his wife.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz91wd87p41o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz91wd87p41o</guid>
-      <pubDate>Tue, 14 Oct 2025 13:27:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a102/live/f8f2aa50-a8e7-11f0-9f43-d30f6cff76c5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Glasgow City chase Europa Cup place - watch on BBC]]></title>
-      <description><![CDATA[To reach the knockout phase of the Europa Cup SWPL leaders Glasgow City must overcome a 2-1 deficit at home to HB Koge on Wednesday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy0krvy42xno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy0krvy42xno</guid>
-      <pubDate>Tue, 14 Oct 2025 08:50:58 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dce/live/ea3c0360-a835-11f0-9f09-57500e5dbf06.jpg"/>
+      <title><![CDATA[Clarke 'really, really disappointed' by Scotland despite win]]></title>
+      <description><![CDATA[Scotland head coach Steve Clarke is pleased with victory but unhappy with his side's performance in their World Cup qualification win over Belarus.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c1lq55e7qr0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1lq55e7qr0o</guid>
+      <pubDate>Sun, 12 Oct 2025 19:30:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd2/live/b8dcb290-a7a1-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man Utd score four against Everton to maintain unbeaten start]]></title>
@@ -361,20 +369,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed76/live/70a797a0-a59f-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Scotland strike late to beat Greece in frantic finish]]></title>
-      <description><![CDATA[Watch the best of the action as Scotland score twice late on to beat Greece and boost their hopes of qualifying for next summer's World Cup finals.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c4gqnrp9zkgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c4gqnrp9zkgo</guid>
-      <pubDate>Thu, 09 Oct 2025 21:37:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b10/live/dd961890-a555-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[England's striking dilemma - how would you rank Tuchel's options?]]></title>
       <description><![CDATA[Marcus Rashford? Ollie Watkins? Ivan Toney? Who's the best England striker after Harry Kane?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0ex8xgjp4go?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0ex8xgjp4go</guid>
       <pubDate>Tue, 14 Oct 2025 05:16:02 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d235/live/af747e30-a851-11f0-a6a1-7df40e0558bb.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Glasgow City chase Europa Cup place - watch on BBC]]></title>
+      <description><![CDATA[To reach the knockout phase of the Europa Cup SWPL leaders Glasgow City must overcome a 2-1 deficit at home to HB Koge on Wednesday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy0krvy42xno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy0krvy42xno</guid>
+      <pubDate>Tue, 14 Oct 2025 08:50:58 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dce/live/ea3c0360-a835-11f0-9f09-57500e5dbf06.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[World Cup-bound Cape Verdean Lopes relishing his week to remember]]></title>
+      <description><![CDATA[Shamrock Rovers defender Roberto Lopes is relishing the week of his life - helping Cape Verde qualify for the World Cup, aiming for League of Ireland success with Shamrock Rovers, and expecting his first child with his wife.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz91wd87p41o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz91wd87p41o</guid>
+      <pubDate>Tue, 14 Oct 2025 13:27:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a102/live/f8f2aa50-a8e7-11f0-9f43-d30f6cff76c5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Will brave Wilshere choice pay off for Luton?]]></title>
@@ -407,22 +423,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ypjjw7ze3o</guid>
       <pubDate>Tue, 14 Oct 2025 15:34:20 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59b6/live/9f2e5c50-a90d-11f0-b5e8-25b94b51d777.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Savage's Forest Green to visit Wilshere's Luton in FA Cup]]></title>
-      <description><![CDATA[Robbie Savage's Forest Green Rovers will visit Jack Wilshere's Luton Town in the FA Cup first round.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckg1j94py5po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg1j94py5po</guid>
-      <pubDate>Mon, 13 Oct 2025 18:43:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e433/live/217f60b0-a863-11f0-978b-27d7703329f1.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[NI down but not out after 'sore' Germany defeat]]></title>
-      <description><![CDATA[Northern Ireland's young squad were down but not out, as Michael O'Neill describes the 1-0 World Cup qualifying defeat by Germany as "sore".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdjrwmpnex0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjrwmpnex0o</guid>
-      <pubDate>Mon, 13 Oct 2025 22:44:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ab6/live/e495fe30-a884-11f0-a23e-ad95148998b2.jpg"/>
     </item>
     <item>
       <title><![CDATA[How have the big-name striker signings done so far in the Premier League?]]></title>
@@ -535,14 +535,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c79lg9zxyryo</guid>
       <pubDate>Sat, 13 Sep 2025 06:32:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51bf/live/7ff8e140-8ff2-11f0-9cf6-cbf3e73ce2b9.png"/>
-    </item>
-    <item>
-      <title><![CDATA[The Australian with a masterplan to get Scotland back to World Cup]]></title>
-      <description><![CDATA[Scotland head coach Melissa Andreatta talks exclusively to BBC Scotland about management, motherhood and making the 2027 World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgk3kelj72o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgk3kelj72o</guid>
-      <pubDate>Wed, 15 Oct 2025 10:13:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94ec/live/0b455450-a848-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Raskin link & Rangers manager latest - gossip]]></title>
