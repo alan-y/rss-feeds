@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 23:30:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 23:46:35 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[China's arrested 30 Christians. Some fear it's the start of a bigger crackdown]]></title>
+      <description><![CDATA[Activists say the unprecedented round-up could be the beginning of a wider crackdown on China's underground churches.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2pez2vg8wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2pez2vg8wo</guid>
+      <pubDate>Wed, 15 Oct 2025 22:03:19 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebe4/live/ca5c5350-a9ad-11f0-97ec-91b89bd10dfa.jpg"/>
+    </item>
     <item>
       <title><![CDATA[China seizes 60,000 maps over 'mislabelled' Taiwan]]></title>
       <description><![CDATA[The maps also omitted "important islands", the source of competing claims between Beijing and its neighbours.]]></description>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gzrqd4pdjo</guid>
       <pubDate>Thu, 04 Sep 2025 23:19:09 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/920e/live/692e74d0-7e49-11f0-a3a4-a37487e8ff38.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[China's Xi steals the limelight in a defiant push against US-led world order]]></title>
-      <description><![CDATA[President Xi shows off his power and influence in an open challenge to US supremacy and the world order.]]></description>
-      <link>https://www.bbc.com/news/articles/cn0rllxld8go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0rllxld8go</guid>
-      <pubDate>Wed, 03 Sep 2025 13:20:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/689e/live/f0990300-891a-11f0-84c8-99de564f0440.jpg"/>
     </item>
   </channel>
 </rss>
