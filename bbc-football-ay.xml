@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 16 Oct 2025 17:18:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 17:35:07 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Muscat close to deal to become Rangers head coach]]></title>
+      <description><![CDATA[Rangers are close to agreeing a deal to secure Shanghai Port's Kevin Muscat as their new head coach, but personal terms and other issues have still to be finalised.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/czxkr4qwqpdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czxkr4qwqpdo</guid>
+      <pubDate>Thu, 16 Oct 2025 17:16:48 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9550/live/9a62e3e0-aab5-11f0-8051-295629adf78e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Dark days behind us' - Pickford signs new Everton deal]]></title>
+      <description><![CDATA[England goalkeeper Jordan Pickford signs a new contract at Everton that will keep him at the club until the summer of 2029. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cjek0wglwkjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjek0wglwkjo</guid>
+      <pubDate>Thu, 16 Oct 2025 17:23:21 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/662c/live/ce7610b0-aab2-11f0-8051-295629adf78e.jpg"/>
+    </item>
     <item>
       <title><![CDATA['I'm not in Dubai for money... I don't want my kids growing up in England']]></title>
       <description><![CDATA[About 75 fans watched Jonjo Shelvey's debut in the third tier of the United Arab Emirates - but he says he has not moved for money.]]></description>
@@ -80,28 +96,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22c1/live/62268830-a9e6-11f0-ba75-093eca1ac29b.png"/>
     </item>
     <item>
-      <title><![CDATA[Rohl drops out of Rangers head coach search]]></title>
-      <description><![CDATA[Former Sheffield Wednesday manager Danny Rohl drops out of the race to become Rangers' new head coach, with Under-19 coach Steven Smith taking charge for Saturday's game against Dundee United.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgyv4w5wk8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgyv4w5wk8o</guid>
-      <pubDate>Thu, 16 Oct 2025 07:04:59 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4980/live/53090810-aa03-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Real's Alexander-Arnold has chance of facing Liverpool]]></title>
       <description><![CDATA[Trent Alexander-Arnold's rehab is going according to plan and there is a chance the Real Madrid right-back will be fit to face his old club Liverpool in November's Champions League tie.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cg517d7d4z1o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg517d7d4z1o</guid>
       <pubDate>Thu, 16 Oct 2025 16:19:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eae/live/0e4d98d0-aa99-11f0-a2f5-510ec1c796a0.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why WSL clubs are signing up Japan's best talent]]></title>
-      <description><![CDATA[There are more Japanese players in the Women's Super League than ever before - what impact are they having?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c781dvnyjqxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c781dvnyjqxo</guid>
-      <pubDate>Thu, 16 Oct 2025 07:52:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4c2/live/39e4a9a0-a9bf-11f0-8da2-811fba9518ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Retiring Fishlock's best Wales goals]]></title>
@@ -144,6 +144,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a420/live/30315990-a79d-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why WSL clubs are signing up Japan's best talent]]></title>
+      <description><![CDATA[There are more Japanese players in the Women's Super League than ever before - what impact are they having?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c781dvnyjqxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c781dvnyjqxo</guid>
+      <pubDate>Thu, 16 Oct 2025 07:52:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4c2/live/39e4a9a0-a9bf-11f0-8da2-811fba9518ff.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[What is the manager VAR card being trialled by Fifa?]]></title>
       <description><![CDATA[Our Ask Me Anything Team look at how the Football Video Support system works.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwyk11nlzxyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -176,20 +184,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f8/live/9c6a49b0-aa12-11f0-b113-5bde4462a638.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Bristol City 'held takeover talks' with Alalshikh]]></title>
-      <description><![CDATA[Bristol City CEO Tom Rawcliffe confirms the club held talks with Saudi sports supremo Turki Alalshikh over investment.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1j8rdy1l4wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1j8rdy1l4wo</guid>
-      <pubDate>Thu, 16 Oct 2025 11:15:44 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f31/live/ce791b90-aa7e-11f0-9334-19f2cf191969.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Chelsea & Man City eye Anderson - Thursday's gossip]]></title>
       <description><![CDATA[Manchester City and Chelsea want Elliot Anderson, Tottenham will make a shock move for Harry Kane, Manchester United eye Mateo Retegui, plus more.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvgvl3z57llo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgvl3z57llo</guid>
       <pubDate>Wed, 15 Oct 2025 20:09:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6559/live/69d3b750-aa00-11f0-b2a1-6f537f66f9aa.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Bristol City 'held takeover talks' with Alalshikh]]></title>
+      <description><![CDATA[Bristol City CEO Tom Rawcliffe confirms the club held talks with Saudi sports supremo Turki Alalshikh over investment.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1j8rdy1l4wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1j8rdy1l4wo</guid>
+      <pubDate>Thu, 16 Oct 2025 11:15:44 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f31/live/ce791b90-aa7e-11f0-9334-19f2cf191969.jpg"/>
     </item>
     <item>
       <title><![CDATA[Akins returns to action following jail term]]></title>
@@ -232,20 +240,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcb0/live/3d869a80-a8f9-11f0-a33c-d7bc21b91844.jpg"/>
     </item>
     <item>
-      <title><![CDATA['With service, Hojlund is a 25-goals-a-year striker']]></title>
-      <description><![CDATA[Peter Schmeichel criticises the decision-making at Manchester United that has allowed Rasmus Hojlund to follow Scott McTominay to Napoli.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpwv5580ejko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwv5580ejko</guid>
-      <pubDate>Wed, 15 Oct 2025 11:42:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d750/live/56967000-a9c0-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How are World Cup favourites shaping up - and who will win?]]></title>
       <description><![CDATA[Now England have booked their place at the 2026 World Cup attention turns to how they might fare in North America next summer - and how some of their rivals are looking.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g3x3mmx40o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g3x3mmx40o</guid>
       <pubDate>Wed, 15 Oct 2025 17:32:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/328c/live/19c5ebd0-a865-11f0-978b-27d7703329f1.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['With service, Hojlund is a 25-goals-a-year striker']]></title>
+      <description><![CDATA[Peter Schmeichel criticises the decision-making at Manchester United that has allowed Rasmus Hojlund to follow Scott McTominay to Napoli.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpwv5580ejko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwv5580ejko</guid>
+      <pubDate>Wed, 15 Oct 2025 11:42:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d750/live/56967000-a9c0-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why haven't Premier League Boxing Day fixtures been announced?]]></title>
@@ -334,14 +342,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c986588n805o</guid>
       <pubDate>Tue, 14 Oct 2025 20:40:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b9f/live/9369dac0-a8f4-11f0-a33c-d7bc21b91844.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Paratici returns to Spurs after 30-month Fifa ban]]></title>
-      <description><![CDATA[Tottenham Hotspur announce that Fabio Paratici will return to his role of sporting director two and a half years after he was banned by Fifa.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czxndnl2qlro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czxndnl2qlro</guid>
-      <pubDate>Wed, 15 Oct 2025 10:31:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7b2/live/738f7a90-a9ab-11f0-97ec-91b89bd10dfa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man City come from behind to beat Liverpool]]></title>
@@ -433,6 +433,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3359/live/6a481df0-a624-11f0-b741-177e3e2c2fc7.png"/>
     </item>
     <item>
+      <title><![CDATA[Paratici returns to Spurs after 30-month Fifa ban]]></title>
+      <description><![CDATA[Tottenham Hotspur announce that Fabio Paratici will return to his role of sporting director two and a half years after he was banned by Fifa.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/czxndnl2qlro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czxndnl2qlro</guid>
+      <pubDate>Wed, 15 Oct 2025 10:31:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7b2/live/738f7a90-a9ab-11f0-97ec-91b89bd10dfa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Who makes your England World Cup starting XI?]]></title>
       <description><![CDATA[Who would you pick in your England XI for the 2026 World Cup?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0q7jd1kv5ko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -463,14 +471,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3xdqg0n2ro</guid>
       <pubDate>Tue, 14 Oct 2025 05:55:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602c/live/4c451ea0-a8c4-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Finn and Ziu back in Republic of Ireland squad]]></title>
-      <description><![CDATA[Jamie Finn and Jess Ziu are back in the Republic of Ireland squad for the Women's Nations League promotion/relegation play-off against Belgium.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crkld87p557o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crkld87p557o</guid>
-      <pubDate>Wed, 15 Oct 2025 14:55:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f337/live/9fb70ce0-a9d4-11f0-ba75-093eca1ac29b.png"/>
     </item>
     <item>
       <title><![CDATA['Another celebrity boss? No, I've earned my chance']]></title>
@@ -569,12 +569,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a922/live/b40c9480-9d3b-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Muscat close to agreeing Rangers head coach deal]]></title>
-      <description><![CDATA[Rangers are close to agreeing a deal to secure Shanghai Port's Kevin Muscat as their new head coach, but personal terms and other issues have still to be finalised.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czxkr4qwqpdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czxkr4qwqpdo</guid>
-      <pubDate>Thu, 16 Oct 2025 17:16:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"/>
+      <title><![CDATA[Rohl drops out of Rangers head coach search]]></title>
+      <description><![CDATA[Former Sheffield Wednesday manager Danny Rohl drops out of the race to become Rangers' new head coach, with Under-19 coach Steven Smith taking charge for Saturday's game against Dundee United.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgyv4w5wk8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgyv4w5wk8o</guid>
+      <pubDate>Thu, 16 Oct 2025 07:04:59 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4980/live/53090810-aa03-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[McInnes understands Ibrox talk, but focus is on Hearts]]></title>
