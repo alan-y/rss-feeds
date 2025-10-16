@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 16 Oct 2025 07:19:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 07:34:48 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Is Microsoft's first ever handheld Xbox console worth the wait?]]></title>
+      <description><![CDATA[The ROG Xbox Ally works with Game Pass out of the box, meaning gamers start off with hundreds of games.]]></description>
+      <link>https://www.bbc.com/news/articles/cqjwlnvx9jpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cqjwlnvx9jpo</guid>
+      <pubDate>Wed, 15 Oct 2025 23:11:22 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45d/live/4dfd0520-a9f3-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Scottish data centres powering AI already using enough water to fill 27 million bottles a year]]></title>
+      <description><![CDATA[The volume of tap water used by Scotland's data centres has quadrupled since 2021, figures show.]]></description>
+      <link>https://www.bbc.com/news/articles/c77zxx43x4vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c77zxx43x4vo</guid>
+      <pubDate>Thu, 16 Oct 2025 05:11:26 GMT</pubDate>
+      <media:thumbnail width="240" height="126" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/943e/live/23dd9350-a9d4-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Outsourcing firm Capita fined £14m after millions had data stolen]]></title>
       <description><![CDATA[The outsourcing giant accepted liability, after the data watchdog said they failed to protect client data.]]></description>
@@ -264,14 +280,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c2ejvld0ypyo</guid>
       <pubDate>Wed, 01 Oct 2025 08:49:07 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4768/live/cc21e390-9de5-11f0-a561-d7c24224dfc6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Chinese woman convicted after 'world's biggest' bitcoin seizure]]></title>
-      <description><![CDATA[UK police seized crypto worth over £5bn from Qian Zhimin, who was known as 'the goddess of wealth'.]]></description>
-      <link>https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0415kk3rzo</guid>
-      <pubDate>Tue, 30 Sep 2025 16:34:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e08/live/38630a80-9dbd-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why AI is being trained in rural India]]></title>
