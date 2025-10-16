@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 16 Oct 2025 20:49:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 21:16:24 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -160,20 +160,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4c2/live/39e4a9a0-a9bf-11f0-8da2-811fba9518ff.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What is the manager VAR card being trialled by Fifa?]]></title>
-      <description><![CDATA[Our Ask Me Anything Team look at how the Football Video Support system works.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwyk11nlzxyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyk11nlzxyo</guid>
-      <pubDate>Thu, 16 Oct 2025 11:32:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d92f/live/c20270f0-aa79-11f0-b2a1-6f537f66f9aa.png"/>
-    </item>
-    <item>
       <title><![CDATA[Weekly sports quiz: Which nation qualified for their first World Cup?]]></title>
       <description><![CDATA[How much attention have you paid to what's happened in the world of sport over the past seven days?]]></description>
       <link>https://www.bbc.com/sport/articles/cj0e410zzleo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/cj0e410zzleo</guid>
       <pubDate>Thu, 16 Oct 2025 07:09:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d2f/live/e3718dd0-a9b5-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What is the manager VAR card being trialled by Fifa?]]></title>
+      <description><![CDATA[Our Ask Me Anything Team look at how the Football Video Support system works.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwyk11nlzxyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyk11nlzxyo</guid>
+      <pubDate>Thu, 16 Oct 2025 11:32:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d92f/live/c20270f0-aa79-11f0-b2a1-6f537f66f9aa.png"/>
     </item>
     <item>
       <title><![CDATA[Real's Alexander-Arnold has chance of facing Liverpool]]></title>
@@ -264,14 +264,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/328c/live/19c5ebd0-a865-11f0-978b-27d7703329f1.jpg"/>
     </item>
     <item>
-      <title><![CDATA['With service, Hojlund is a 25-goals-a-year striker']]></title>
-      <description><![CDATA[Peter Schmeichel criticises the decision-making at Manchester United that has allowed Rasmus Hojlund to follow Scott McTominay to Napoli.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpwv5580ejko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwv5580ejko</guid>
-      <pubDate>Wed, 15 Oct 2025 11:42:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d750/live/56967000-a9c0-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why haven't Premier League Boxing Day fixtures been announced?]]></title>
       <description><![CDATA[Our Ask Me Anything team take a look at when the Premier League Boxing Day fixtures will get announced.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cr43ll56xrgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -286,6 +278,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8j3dkr86po</guid>
       <pubDate>Wed, 15 Oct 2025 13:36:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e8/live/b3487950-a5cf-11f0-b98a-8b079c99c55e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['With service, Hojlund is a 25-goals-a-year striker']]></title>
+      <description><![CDATA[Peter Schmeichel criticises the decision-making at Manchester United that has allowed Rasmus Hojlund to follow Scott McTominay to Napoli.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpwv5580ejko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwv5580ejko</guid>
+      <pubDate>Wed, 15 Oct 2025 11:42:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d750/live/56967000-a9c0-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Which teams have qualified for the World Cup and who is on the brink?]]></title>
@@ -326,14 +326,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy0vx10r71yo</guid>
       <pubDate>Wed, 15 Oct 2025 10:06:02 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6718/live/b21d8ce0-a5da-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Humour made me smile' - Tuchel enjoys fans' chants ]]></title>
-      <description><![CDATA[Thomas Tuchel says England fans' chants "made him smile" as they respond to his previous criticism in full voice in Riga. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c15p3qwye2eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c15p3qwye2eo</guid>
-      <pubDate>Tue, 14 Oct 2025 22:04:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40fc/live/1d9384d0-a945-11f0-a207-37a46608d8d7.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man City come from behind to beat Liverpool]]></title>
@@ -431,6 +423,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8eylgezgj0o</guid>
       <pubDate>Wed, 15 Oct 2025 15:05:10 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c14/live/5d95b010-a9d3-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Humour made me smile' - Tuchel enjoys fans' chants ]]></title>
+      <description><![CDATA[Thomas Tuchel says England fans' chants "made him smile" as they respond to his previous criticism in full voice in Riga. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c15p3qwye2eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c15p3qwye2eo</guid>
+      <pubDate>Tue, 14 Oct 2025 22:04:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40fc/live/1d9384d0-a945-11f0-a207-37a46608d8d7.jpg"/>
     </item>
     <item>
       <title><![CDATA[The players with points to prove as England reach World Cup]]></title>
