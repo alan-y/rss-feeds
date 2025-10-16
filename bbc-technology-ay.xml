@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 16 Oct 2025 07:34:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 07:47:39 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -30,6 +30,22 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c77zxx43x4vo</guid>
       <pubDate>Thu, 16 Oct 2025 05:11:26 GMT</pubDate>
       <media:thumbnail width="240" height="126" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/943e/live/23dd9350-a9d4-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Cabinet Office rejects Cummings' China breach claim]]></title>
+      <description><![CDATA[Boris Johnson's ex-Downing Street aide says Beijing obtained "vast amounts" of "secret" data.]]></description>
+      <link>https://www.bbc.com/news/articles/ce3xz607dpro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3xz607dpro</guid>
+      <pubDate>Thu, 16 Oct 2025 04:19:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3be/live/7ecbb2b0-aa5b-11f0-9d87-a79f167250e5.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Windows 10 users urged to prepare for Microsoft pulling support]]></title>
+      <description><![CDATA[Microsoft is ending support for Windows 10, which could make users vulnerable - here's how to get Windows 11.]]></description>
+      <link>https://www.bbc.com/news/articles/cy0vzegkqweo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0vzegkqweo</guid>
+      <pubDate>Sat, 11 Oct 2025 23:04:50 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3d/live/8c591970-a44a-11f0-8a21-ff96e44d1cc2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Outsourcing firm Capita fined £14m after millions had data stolen]]></title>
@@ -72,14 +88,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc4b/live/f3731590-a849-11f0-8df8-17b411cc599c.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Windows 10 users urged to prepare for Microsoft pulling support]]></title>
-      <description><![CDATA[Microsoft is ending support for Windows 10, which could make users vulnerable - here's how to get Windows 11.]]></description>
-      <link>https://www.bbc.com/news/articles/cy0vzegkqweo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0vzegkqweo</guid>
-      <pubDate>Sat, 11 Oct 2025 23:04:50 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3d/live/8c591970-a44a-11f0-8a21-ff96e44d1cc2.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Dutch government takes control of China-owned chip firm]]></title>
       <description><![CDATA[The move, which is aimed to protect supplies of technology, could raise tensions between the EU and China. ]]></description>
       <link>https://www.bbc.com/news/articles/ckgk21nng0vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -104,14 +112,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8158/live/45652770-a571-11f0-b928-f10695b5e201.jpg"/>
     </item>
     <item>
-      <title><![CDATA[OpenAI video app Sora hits 1 million downloads faster than ChatGPT]]></title>
-      <description><![CDATA[The popular AI tool generates ten second long realistic-looking videos from simple text prompts.]]></description>
-      <link>https://www.bbc.com/news/articles/crkjgrvg6z4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/crkjgrvg6z4o</guid>
-      <pubDate>Fri, 10 Oct 2025 12:30:07 GMT</pubDate>
-      <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d25b/live/a79c0710-a5cb-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Google may be forced to make changes to search engine in UK]]></title>
       <description><![CDATA[The regulator has given it "strategic market status", opening the door to what it calls "proportionate interventions."
 ]]></description>
@@ -119,6 +119,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c98d7p8l9pro</guid>
       <pubDate>Fri, 10 Oct 2025 10:47:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e84/live/e03ce540-a5bb-11f0-9c0f-2728b7b5fddd.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI video app Sora hits 1 million downloads faster than ChatGPT]]></title>
+      <description><![CDATA[The popular AI tool generates ten second long realistic-looking videos from simple text prompts.]]></description>
+      <link>https://www.bbc.com/news/articles/crkjgrvg6z4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/crkjgrvg6z4o</guid>
+      <pubDate>Fri, 10 Oct 2025 12:30:07 GMT</pubDate>
+      <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d25b/live/a79c0710-a5cb-11f0-92db-77261a15b9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Huge buzz but a big gamble: Battlefield 6 takes aim at Call of Duty]]></title>
@@ -264,22 +272,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c740r0m4mzjo</guid>
       <pubDate>Wed, 01 Oct 2025 14:26:29 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c43/live/45f4f830-9eca-11f0-8281-d137a399b095.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Snapchat to charge users for storing their old photos and videos]]></title>
-      <description><![CDATA[It has not said how much the storage plans will cost UK users, only that they were part of a "gradual global rollout".]]></description>
-      <link>https://www.bbc.com/news/articles/cz69238p5p8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cz69238p5p8o</guid>
-      <pubDate>Wed, 01 Oct 2025 10:13:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5274/live/133063e0-9eab-11f0-9d1f-e7d83132d3ab.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Half of UK adults now regularly use mobile payments]]></title>
-      <description><![CDATA[Regular mobile payments surged across different age groups last year, new banking data suggests.]]></description>
-      <link>https://www.bbc.com/news/articles/c2ejvld0ypyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2ejvld0ypyo</guid>
-      <pubDate>Wed, 01 Oct 2025 08:49:07 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4768/live/cc21e390-9de5-11f0-a561-d7c24224dfc6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why AI is being trained in rural India]]></title>
