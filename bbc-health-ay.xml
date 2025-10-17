@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 17 Oct 2025 21:47:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 22:19:15 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Exciting results from blood test for 50 cancers ]]></title>
+      <description><![CDATA[The Galleri test looks for fragments of DNA that have broken off a tumour and are circulating in the blood.]]></description>
+      <link>https://www.bbc.com/news/articles/c205g21n1zzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c205g21n1zzo</guid>
+      <pubDate>Fri, 17 Oct 2025 22:02:31 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f714/live/07276060-aba5-11f0-bba9-81f28efa2a1e.jpg"/>
+    </item>
     <item>
       <title><![CDATA['Game-changing' HIV protection jab approved in England and Wales]]></title>
       <description><![CDATA[The shot, given six times a year or every other month, is an alternative to taking daily pills to protect against ever catching the virus.]]></description>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cz9j0lj0w5zo</guid>
       <pubDate>Tue, 30 Sep 2025 11:32:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/997c/live/105146a0-89a0-11f0-9a26-53a7b49d8dfd.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Collagen: Do you drink it? Inject it? Rub it on your skin? And does it work?]]></title>
-      <description><![CDATA[Pills, powders and creams promise to top up natural supplies which decrease as we get older.]]></description>
-      <link>https://www.bbc.com/news/articles/cjr5zj12ye1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cjr5zj12ye1o</guid>
-      <pubDate>Sat, 27 Sep 2025 22:37:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0049/live/861c7ea0-9c4b-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA['I have a sweating problem': What Alan Carr's Traitors admission tells us about how social taboos changed]]></title>
@@ -760,14 +760,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ce9re98xj5lo</guid>
       <pubDate>Wed, 08 Oct 2025 05:30:57 GMT</pubDate>
       <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2525/live/fb50ff60-a386-11f0-928c-71dbb8619e94.png"/>
-    </item>
-    <item>
-      <title><![CDATA['It saved me' - how Everton in the Community is changing lives]]></title>
-      <description><![CDATA[Everton defender James Tarkowski speaks with lifelong fan Sam to discuss how the club are supporting members of the community with mental health challenges.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cp3qvw5z2vdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cp3qvw5z2vdo</guid>
-      <pubDate>Fri, 10 Oct 2025 05:56:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ecf/live/6da6f050-a527-11f0-928c-71dbb8619e94.jpg"/>
     </item>
   </channel>
 </rss>
