@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 17 Oct 2025 10:21:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 10:40:22 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -30,6 +30,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c93127z99yxo</guid>
       <pubDate>Tue, 14 Oct 2025 23:32:02 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e251/live/daef4b20-a45b-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Student paramedic helps deliver lecturer's baby]]></title>
+      <description><![CDATA[Elise Faragher is on Worcester hospital placement and lecturer Aaron Collins, and his wife, came in.]]></description>
+      <link>https://www.bbc.com/news/articles/c9d6l5y5q0go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d6l5y5q0go</guid>
+      <pubDate>Fri, 17 Oct 2025 10:21:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b5/live/ce721040-ab3a-11f0-9f0c-8d8035e68521.jpg"/>
     </item>
     <item>
       <title><![CDATA[Questions over mysterious death in mental health hospital]]></title>
@@ -64,14 +72,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83ff/live/92ffd8b0-a8d0-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Eat kiwi fruit to relieve constipation, says guidance]]></title>
-      <description><![CDATA[New guidance for doctors says focusing on fruit in our diets can help with a really common complaint.]]></description>
-      <link>https://www.bbc.com/news/articles/cd9kdkxy3veo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cd9kdkxy3veo</guid>
-      <pubDate>Mon, 13 Oct 2025 16:24:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d23e/live/d40d3da0-a846-11f0-8df8-17b411cc599c.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Watchdog vows Botox crackdown after BBC exposé]]></title>
       <description><![CDATA[BBC researchers caught pharmacists trying to sell Botox without assessing patients first.]]></description>
       <link>https://www.bbc.com/news/articles/cddm1g470v3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -80,12 +80,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eb7/live/d6a363c0-a5d3-11f0-b98a-8b079c99c55e.jpg"/>
     </item>
     <item>
-      <title><![CDATA['We are inventing captivity medicine': Hospital prepares for freed Israeli hostages]]></title>
-      <description><![CDATA[Several of the hostages will be brought from Gaza to the Rabin Medical Center in Petah Tikva.]]></description>
-      <link>https://www.bbc.com/news/articles/c4gvg8jx7gmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gvg8jx7gmo</guid>
-      <pubDate>Sat, 11 Oct 2025 18:34:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/167b/live/252b1e00-a6cb-11f0-bf22-9df87c17cee5.jpg"/>
+      <title><![CDATA[Eat kiwi fruit to relieve constipation, says guidance]]></title>
+      <description><![CDATA[New guidance for doctors says focusing on fruit in our diets can help with a really common complaint.]]></description>
+      <link>https://www.bbc.com/news/articles/cd9kdkxy3veo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cd9kdkxy3veo</guid>
+      <pubDate>Mon, 13 Oct 2025 16:24:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d23e/live/d40d3da0-a846-11f0-8df8-17b411cc599c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Could I have saved my parents if I'd been taught CPR? ]]></title>
@@ -102,6 +102,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kwxjzeez3o</guid>
       <pubDate>Mon, 06 Oct 2025 12:34:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0150/live/57488580-a2bb-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['We are inventing captivity medicine': Hospital prepares for freed Israeli hostages]]></title>
+      <description><![CDATA[Several of the hostages will be brought from Gaza to the Rabin Medical Center in Petah Tikva.]]></description>
+      <link>https://www.bbc.com/news/articles/c4gvg8jx7gmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gvg8jx7gmo</guid>
+      <pubDate>Sat, 11 Oct 2025 18:34:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/167b/live/252b1e00-a6cb-11f0-bf22-9df87c17cee5.jpg"/>
     </item>
     <item>
       <title><![CDATA[First-year resident doctors back strike action over jobs shortage]]></title>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cjr5zj12ye1o</guid>
       <pubDate>Sat, 27 Sep 2025 22:37:43 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0049/live/861c7ea0-9c4b-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Doctors' union warning over online booking safety risk]]></title>
-      <description><![CDATA[GPs are concerned they will be at the end of an "online triage tsunami" when the new system launches.]]></description>
-      <link>https://www.bbc.com/news/articles/cqje8dljz7eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cqje8dljz7eo</guid>
-      <pubDate>Mon, 29 Sep 2025 11:35:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abde/live/2bea5880-9dc2-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
       <title><![CDATA['I have a sweating problem': What Alan Carr's Traitors admission tells us about how social taboos changed]]></title>
