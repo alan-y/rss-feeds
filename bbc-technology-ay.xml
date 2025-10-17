@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 17 Oct 2025 11:46:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 12:37:37 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[OpenAI temporarily stops AI deepfakes of Martin Luther King Jr]]></title>
+      <description><![CDATA[The firm said "disrespectful" content had been generated about the civil rights campaigner.]]></description>
+      <link>https://www.bbc.com/news/articles/c5y0g79xevxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y0g79xevxo</guid>
+      <pubDate>Fri, 17 Oct 2025 12:17:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba5/live/372f54e0-ab44-11f0-86b3-2dd47a6542fa.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Spotify working on AI music tools with major record labels]]></title>
       <description><![CDATA[The streaming service says it will respect artists' rights in creating new "responsible" AI products.]]></description>
@@ -104,20 +112,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc4b/live/f3731590-a849-11f0-8df8-17b411cc599c.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Dutch government takes control of China-owned chip firm]]></title>
-      <description><![CDATA[The move, which is aimed to protect supplies of technology, could raise tensions between the EU and China. ]]></description>
-      <link>https://www.bbc.com/news/articles/ckgk21nng0vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgk21nng0vo</guid>
-      <pubDate>Tue, 14 Oct 2025 03:14:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dda7/live/b22b30a0-a7cb-11f0-b50c-8f62428b85e3.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['It's going to be really bad': Fears over AI bubble bursting grow in Silicon Valley]]></title>
       <description><![CDATA[Some are worried that the rapid rise in the value of AI tech companies may be a bubble waiting to burst.]]></description>
       <link>https://www.bbc.com/news/articles/cz69qy760weo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cz69qy760weo</guid>
       <pubDate>Fri, 10 Oct 2025 23:55:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf9b/live/ff11e480-a5e2-11f0-920e-cb66ee1d5eb0.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Dutch government takes control of China-owned chip firm]]></title>
+      <description><![CDATA[The move, which is aimed to protect supplies of technology, could raise tensions between the EU and China. ]]></description>
+      <link>https://www.bbc.com/news/articles/ckgk21nng0vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgk21nng0vo</guid>
+      <pubDate>Tue, 14 Oct 2025 03:14:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dda7/live/b22b30a0-a7cb-11f0-b50c-8f62428b85e3.jpg"/>
     </item>
     <item>
       <title><![CDATA[How hackers forced brewing giant Asahi back to pen and paper]]></title>
@@ -264,22 +272,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cy7p1lzvxjro</guid>
       <pubDate>Sat, 04 Oct 2025 01:39:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d322/live/ec405a00-9f91-11f0-b9ae-cbef91e6ae73.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Xbox Game Pass price increase angers players]]></title>
-      <description><![CDATA[Is the subscription service once called "the best deal in gaming" still great value for players?]]></description>
-      <link>https://www.bbc.com/news/articles/ckgepkwpkg4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgepkwpkg4o</guid>
-      <pubDate>Thu, 02 Oct 2025 11:51:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf7/live/82f67be0-9f7f-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Musk becomes world's first half-trillionaire]]></title>
-      <description><![CDATA[The rise has been driven by a sharp increase in the value of his electric car company Tesla.]]></description>
-      <link>https://www.bbc.com/news/articles/c89d3547npjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c89d3547npjo</guid>
-      <pubDate>Thu, 02 Oct 2025 01:45:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1507/live/787fe140-9f1d-11f0-9667-7bc33bda5819.jpg"/>
     </item>
     <item>
       <title><![CDATA[How good is the battery in a used electric vehicle?]]></title>
