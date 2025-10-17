@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 17 Oct 2025 01:22:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 02:44:05 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['Game-changing' HIV protection jab approved in England and Wales]]></title>
+      <description><![CDATA[The shot, given six times a year or every other month, is an alternative to taking daily pills to protect against ever catching the virus.]]></description>
+      <link>https://www.bbc.com/news/articles/c803egy217xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c803egy217xo</guid>
+      <pubDate>Fri, 17 Oct 2025 01:27:22 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b86c/live/cdc0d600-a837-11f0-9f09-57500e5dbf06.jpg"/>
+    </item>
     <item>
       <title><![CDATA['It gave me my voice back': How group singing is helping new mums with postnatal depression]]></title>
       <description><![CDATA[New research suggests singing can be clinically effective at treating the symptoms and cost effective for the NHS.]]></description>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cqje8dljz7eo</guid>
       <pubDate>Mon, 29 Sep 2025 11:35:28 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abde/live/2bea5880-9dc2-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['My baby's brain tumour symptoms were dismissed as colic']]></title>
-      <description><![CDATA[A mum whose 12-week-old baby underwent emergency surgery for a brain tumour calls for better awareness.]]></description>
-      <link>https://www.bbc.com/news/articles/cm2z5py6l12o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2z5py6l12o</guid>
-      <pubDate>Tue, 30 Sep 2025 09:52:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef8/live/3fde3150-9dd0-11f0-9f23-2534d63ace40.jpg"/>
     </item>
     <item>
       <title><![CDATA[Prostate cancer symptoms and treatment: What to check for]]></title>
