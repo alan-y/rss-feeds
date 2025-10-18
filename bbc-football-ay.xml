@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 18 Oct 2025 14:33:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 14:47:09 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -22,6 +22,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyqvv94p0go</guid>
       <pubDate>Sat, 18 Oct 2025 13:44:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ae/live/49edae50-ac2b-11f0-9f33-2137102fe9d6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Inside Postecoglou's 39 days to forget at Forest]]></title>
+      <description><![CDATA[Ange Postecoglou had only just moved into his new flat when he was sacked by Nottingham Forest, ending one of the shortest reigns in Premier League history.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz08z92r3g8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz08z92r3g8o</guid>
+      <pubDate>Sat, 18 Oct 2025 14:41:28 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6d5/live/631b8570-ac29-11f0-a20e-778f714a31ba.jpg"/>
     </item>
     <item>
       <title><![CDATA[Guehi will leave Palace next year - Glasner]]></title>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly2n8lplgno</guid>
       <pubDate>Sat, 18 Oct 2025 12:29:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c785/live/f1e00d70-ac02-11f0-9e2e-c1a3cc4b89bd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Super Sam' - the Englishman battling Messi for Golden Boot]]></title>
-      <description><![CDATA['Super' Sam Surridge has already scored the winner in the US Open Cup final, now he's battling Lionel Messi for the MLS Golden Boot.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2kpd4l59jno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2kpd4l59jno</guid>
-      <pubDate>Sat, 18 Oct 2025 06:39:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5dc/live/f6b558e0-a9b5-11f0-a923-ff705558ae00.jpg"/>
     </item>
     <item>
       <title><![CDATA[A long-range stunner and Rolfo's first for Man Utd - WCL goals of the week]]></title>
@@ -88,12 +88,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c9f/live/aaadf360-ab9c-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Palace plan Guehi January sale - Saturday's gossip]]></title>
-      <description><![CDATA[Liverpool receive a setback with their plans to sign Crystal Palace centre-back Marc Guehi on a free next summer, Manchester United eye January move for Palace midfielder Adam Wharton, while Spurs and Liverpool are keen on Bournemouth's Antoine Semenyo, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgkx0k72kno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgkx0k72kno</guid>
-      <pubDate>Fri, 17 Oct 2025 21:20:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8631/live/e688c910-ab9b-11f0-ba75-093eca1ac29b.png"/>
+      <title><![CDATA['Super Sam' - the Englishman battling Messi for Golden Boot]]></title>
+      <description><![CDATA['Super' Sam Surridge has already scored the winner in the US Open Cup final, now he's battling Lionel Messi for the MLS Golden Boot.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2kpd4l59jno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2kpd4l59jno</guid>
+      <pubDate>Sat, 18 Oct 2025 06:39:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5dc/live/f6b558e0-a9b5-11f0-a923-ff705558ae00.jpg"/>
     </item>
     <item>
       <title><![CDATA['Managing a lot of Premier League teams like a holiday compared to Celtic']]></title>
@@ -112,20 +112,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6b/live/81774260-ac16-11f0-a687-b9c529d97293.jpg"/>
     </item>
     <item>
-      <title><![CDATA[I can't bank on three years at Man Utd - Amorim]]></title>
-      <description><![CDATA[Manchester United head coach Ruben Amorim thinks it is important Sir Jim Ratcliffe went public with his long-term thoughts - but says nothing is certain in football.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz0xmjj0z57o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz0xmjj0z57o</guid>
-      <pubDate>Fri, 17 Oct 2025 13:30:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18d7/live/a8f8c1c0-ab7a-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Abuse will deter prospective Old Firm bosses - Lennon]]></title>
       <description><![CDATA[Former Celtic manager Neil Lennon says the abuse faced by managers of Celtic and Rangers could stop either team attracting coaches.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy0knwg5v7vo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy0knwg5v7vo</guid>
       <pubDate>Sat, 18 Oct 2025 13:40:20 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e4/live/a3581650-ac22-11f0-a20e-778f714a31ba.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[I can't bank on three years at Man Utd - Amorim]]></title>
+      <description><![CDATA[Manchester United head coach Ruben Amorim thinks it is important Sir Jim Ratcliffe went public with his long-term thoughts - but says nothing is certain in football.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz0xmjj0z57o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz0xmjj0z57o</guid>
+      <pubDate>Fri, 17 Oct 2025 13:30:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18d7/live/a8f8c1c0-ab7a-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Potter in talks to become Sweden boss]]></title>
@@ -152,6 +152,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19b5/live/03c53120-ab7a-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Good feet for a big man? Why Woltemade is no 'tall camel']]></title>
+      <description><![CDATA[Nick Woltemade has become used to proving people wrong, but what makes the Newcastle striker such a unique talent?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgmx7m42420o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgmx7m42420o</guid>
+      <pubDate>Fri, 17 Oct 2025 06:40:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5f7/live/23bc6080-a8f4-11f0-a33c-d7bc21b91844.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Hyped by Zlatan, hidden by Maldini - Italy's next great striker?]]></title>
       <description><![CDATA[Aged 17, Francesco Camarda has already broken several records - so is the AC Milan striker set be Italy's next great number nine?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8jr79vv19ko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -160,20 +168,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1163/live/60e37560-a92c-11f0-a87a-599d240e4891.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sutton's predictions v Aya and Addison from Jamie Johnson FC]]></title>
-      <description><![CDATA[BBC Sport football expert Chris Sutton takes on Aya and Addison from CBBC football drama Jamie Johnson FC with his predictions for this weekend's Premier League fixtures.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn82374p24go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn82374p24go</guid>
-      <pubDate>Thu, 16 Oct 2025 14:57:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c49/live/1ed06370-a9ba-11f0-ba75-093eca1ac29b.png"/>
-    </item>
-    <item>
       <title><![CDATA[Guardiola unsure when Rodri will return from injury]]></title>
       <description><![CDATA[Midfielder Rodri will miss Saturday's Premier League game against Everton because of injury and manager Pep Guardiola does not know when he will return.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ckg4z5dq5dvo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg4z5dq5dvo</guid>
       <pubDate>Fri, 17 Oct 2025 12:37:01 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c29/live/24e3ceb0-ab53-11f0-b03c-d3cc69fd9896.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Eyes on Ibrox, McInnes' Kilmarnock return & Well striker in focus]]></title>
+      <description><![CDATA[An intriguing contest at Ibrox, Derek McInnes' Kilmarnock return and a certain Premiership striker are our weekend picks.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cge5y5vxxdno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cge5y5vxxdno</guid>
+      <pubDate>Fri, 17 Oct 2025 13:28:29 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a70/live/cc952b50-a9b8-11f0-8da2-811fba9518ff.png"/>
     </item>
     <item>
       <title><![CDATA[Hundreds attend ex-Liverpool manager Beard's funeral]]></title>
@@ -200,28 +208,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f89f/live/b3f09af0-ab87-11f0-bcc1-4bb330842a95.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Good feet for a big man? Why Woltemade is no 'tall camel']]></title>
-      <description><![CDATA[Nick Woltemade has become used to proving people wrong, but what makes the Newcastle striker such a unique talent?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgmx7m42420o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgmx7m42420o</guid>
-      <pubDate>Fri, 17 Oct 2025 06:40:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5f7/live/23bc6080-a8f4-11f0-a33c-d7bc21b91844.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Five things to watch in EFL - managerial musings and basement battles]]></title>
       <description><![CDATA[From managers meeting former clubs to big basement battles, BBC Sport looks at five things in the EFL to keep an eye on this weekend.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cp8en0nyjjmo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8en0nyjjmo</guid>
       <pubDate>Fri, 17 Oct 2025 08:09:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274a/live/1607da80-a8f6-11f0-92db-77261a15b9d2.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Eyes on Ibrox, McInnes' Kilmarnock return & Well striker in focus]]></title>
-      <description><![CDATA[An intriguing contest at Ibrox, Derek McInnes' Kilmarnock return and a certain Premiership striker are our weekend picks.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cge5y5vxxdno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cge5y5vxxdno</guid>
-      <pubDate>Fri, 17 Oct 2025 13:28:29 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a70/live/cc952b50-a9b8-11f0-8da2-811fba9518ff.png"/>
     </item>
     <item>
       <title><![CDATA['Around 900 EFL players abused online last season']]></title>
@@ -240,6 +232,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccbe/live/7d4ed2d0-ab70-11f0-9045-ff945a3371d8.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Palace plan Guehi January sale - Saturday's gossip]]></title>
+      <description><![CDATA[Liverpool receive a setback with their plans to sign Crystal Palace centre-back Marc Guehi on a free next summer, Manchester United eye January move for Palace midfielder Adam Wharton, while Spurs and Liverpool are keen on Bournemouth's Antoine Semenyo, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgkx0k72kno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgkx0k72kno</guid>
+      <pubDate>Fri, 17 Oct 2025 21:20:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8631/live/e688c910-ab9b-11f0-ba75-093eca1ac29b.png"/>
+    </item>
+    <item>
+      <title><![CDATA['If it's Muscat, Celtic will be ready' - Rodgers]]></title>
+      <description><![CDATA[Celtic manager Brendan Rodgers is ready for the challenge Kevin Muscat would bring if the former Australia defender is appointed as the new Rangers boss.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c70j4ggzj5yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70j4ggzj5yo</guid>
+      <pubDate>Fri, 17 Oct 2025 15:05:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e27/live/89f57a00-ab68-11f0-ba75-093eca1ac29b.png"/>
+    </item>
+    <item>
       <title><![CDATA[Rooney doubts Rashford's 'inconsistent environment' claim]]></title>
       <description><![CDATA[Former Manchester United captain Wayne Rooney doesn't believe the environment was to blame for Marcus Rashford's inconsistent performances for the Red Devils.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cq83vy7k3d5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -254,14 +262,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c364p75p5x2o</guid>
       <pubDate>Fri, 17 Oct 2025 12:26:20 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d9f/live/095d4650-aaac-11f0-8051-295629adf78e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Muscat 'probably' what Rangers need - Smith]]></title>
-      <description><![CDATA[Kevin Muscat is "probably" the type of character Rangers need, says interim manager Steven Smith.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9v1nl2le7do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9v1nl2le7do</guid>
-      <pubDate>Fri, 17 Oct 2025 10:38:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbbc/live/782bfe40-ab39-11f0-9f0c-8d8035e68521.jpg"/>
     </item>
     <item>
       <title><![CDATA[Retiring Fishlock's best Wales goals]]></title>
@@ -360,12 +360,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d2f/live/e3718dd0-a9b5-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA['If it's Muscat, Celtic will be ready' - Rodgers]]></title>
-      <description><![CDATA[Celtic manager Brendan Rodgers is ready for the challenge Kevin Muscat would bring if the former Australia defender is appointed as the new Rangers boss.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c70j4ggzj5yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70j4ggzj5yo</guid>
-      <pubDate>Fri, 17 Oct 2025 15:05:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e27/live/89f57a00-ab68-11f0-ba75-093eca1ac29b.png"/>
+      <title><![CDATA[Sutton's predictions v Aya and Addison from Jamie Johnson FC]]></title>
+      <description><![CDATA[BBC Sport football expert Chris Sutton takes on Aya and Addison from CBBC football drama Jamie Johnson FC with his predictions for this weekend's Premier League fixtures.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn82374p24go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn82374p24go</guid>
+      <pubDate>Thu, 16 Oct 2025 14:57:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c49/live/1ed06370-a9ba-11f0-ba75-093eca1ac29b.png"/>
     </item>
     <item>
       <title><![CDATA[Why Man Utd's next four games could shape their season]]></title>
@@ -400,12 +400,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f137/live/3ed76e00-ab29-11f0-a94b-bd0a0d9557d9.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Dark days behind us' - Pickford signs new Everton deal]]></title>
-      <description><![CDATA[England goalkeeper Jordan Pickford signs a new contract at Everton that will keep him at the club until the summer of 2029. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cjek0wglwkjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjek0wglwkjo</guid>
-      <pubDate>Thu, 16 Oct 2025 17:23:21 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/662c/live/ce7610b0-aab2-11f0-8051-295629adf78e.jpg"/>
+      <title><![CDATA[Sheff Wed set to be served winding-up petition]]></title>
+      <description><![CDATA[Sheffield Wednesday could "imminently" be served with a winding-up petition over £1m they owe to HMRC, reports BBC Radio Sheffield.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g3x7ek4ggo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g3x7ek4ggo</guid>
+      <pubDate>Thu, 16 Oct 2025 12:01:03 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e7d/live/19773df0-aa86-11f0-932c-b3160d756a6c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Football, fashion & the rise of the replica shirt]]></title>
