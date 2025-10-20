@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 20 Oct 2025 07:20:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 07:37:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Bereaved families call for inquiry into government response to suicide websites]]></title>
+      <description><![CDATA[Campaigners say at least 133 people have died in the UK after being exposed to a toxic substance promoted by online forums.]]></description>
+      <link>https://www.bbc.com/news/articles/c62e9v762pqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c62e9v762pqo</guid>
+      <pubDate>Mon, 20 Oct 2025 01:06:54 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/661f/live/aa428600-ab5d-11f0-b0f1-8b73bbc9408d.jpg"/>
+    </item>
     <item>
       <title><![CDATA[OpenAI stops 'disrespectful' Martin Luther King Jr deepfakes]]></title>
       <description><![CDATA[The intervention has not stopped Sora users generating and sharing fake clips of other historical figures.]]></description>
@@ -264,14 +272,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c708y1egzlko</guid>
       <pubDate>Fri, 03 Oct 2025 15:52:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5032/live/06d111e0-a053-11f0-b687-23a5afa8b42e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Scientists grow mini human brains to power computers]]></title>
-      <description><![CDATA[BBC News goes inside the lab powering computers with 'mini brains' grown from human cells.]]></description>
-      <link>https://www.bbc.com/news/articles/cy7p1lzvxjro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy7p1lzvxjro</guid>
-      <pubDate>Sat, 04 Oct 2025 01:39:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d322/live/ec405a00-9f91-11f0-b9ae-cbef91e6ae73.jpg"/>
     </item>
     <item>
       <title><![CDATA[How good is the battery in a used electric vehicle?]]></title>
