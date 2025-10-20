@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 20 Oct 2025 22:46:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 23:17:25 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -56,6 +56,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/661f/live/aa428600-ab5d-11f0-b0f1-8b73bbc9408d.jpg"/>
     </item>
     <item>
+      <title><![CDATA[What's the best way to detect and destroy drones?]]></title>
+      <description><![CDATA[Tech firms are developing more affordable ways to detect and destroy drones.]]></description>
+      <link>https://www.bbc.com/news/articles/cy40yjz10ydo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy40yjz10ydo</guid>
+      <pubDate>Mon, 20 Oct 2025 23:04:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9202/live/98b8ef10-a8e1-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Salesforce CEO apologises for saying Trump should send troops to San Francisco]]></title>
       <description><![CDATA[Salesforce boss and Time Magazine owner Marc Benioff posted the apology on X following days of backlash]]></description>
       <link>https://www.bbc.com/news/articles/clykvypl9gxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cqjwlnvx9jpo</guid>
       <pubDate>Wed, 15 Oct 2025 23:11:22 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45d/live/4dfd0520-a9f3-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Scottish data centres powering AI already using enough water to fill 27 million bottles a year]]></title>
-      <description><![CDATA[The volume of tap water used by Scotland's data centres has quadrupled since 2021, figures show.]]></description>
-      <link>https://www.bbc.com/news/articles/c77zxx43x4vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c77zxx43x4vo</guid>
-      <pubDate>Thu, 16 Oct 2025 05:11:26 GMT</pubDate>
-      <media:thumbnail width="240" height="126" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/943e/live/23dd9350-a9d4-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Windows 10 users urged to prepare for Microsoft pulling support]]></title>
