@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 20 Oct 2025 11:46:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 12:41:03 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Life-changing eye implant helps blind patients read again]]></title>
+      <description><![CDATA[The results are astounding and a major advance, say surgeons involved in international research using the pioneering technology.]]></description>
+      <link>https://www.bbc.com/news/articles/c0qpz39jpj7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0qpz39jpj7o</guid>
+      <pubDate>Mon, 20 Oct 2025 12:00:12 GMT</pubDate>
+      <media:thumbnail width="240" height="180" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba0/live/45290060-ad96-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Inquiry announced into Leeds NHS maternity failings]]></title>
       <description><![CDATA[More than 70 families have described traumatic care at Leeds Teaching Hospitals maternity units. ]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgz8g8jg48o</guid>
       <pubDate>Mon, 20 Oct 2025 05:15:42 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d234/live/4664c6e0-acf5-11f0-b8cc-151f3d48cffd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['It gave me my voice back': How group singing is helping new mums with postnatal depression]]></title>
-      <description><![CDATA[New research suggests singing can be clinically effective at treating the symptoms and cost effective for the NHS.]]></description>
-      <link>https://www.bbc.com/news/articles/c93127z99yxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c93127z99yxo</guid>
-      <pubDate>Tue, 14 Oct 2025 23:32:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e251/live/daef4b20-a45b-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[NHS stripped ex-footballer of dignity, say family]]></title>
