@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 20 Oct 2025 17:35:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 17:48:06 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -88,14 +88,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ed/live/bb4a8030-ad31-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Resources will be found' to police Maccabi Tel Aviv game]]></title>
-      <description><![CDATA[UK Culture Secretary Lisa Nandy tells MPs local authorities in Birmingham should reverse the ban.]]></description>
-      <link>https://www.bbc.com/news/articles/cj971rwyzlgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj971rwyzlgo</guid>
-      <pubDate>Mon, 20 Oct 2025 17:09:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29d2/live/3f69a8d0-adcf-11f0-88e3-7f8fec28bd76.png"/>
-    </item>
-    <item>
       <title><![CDATA[Maguire heads Man Utd to victory against Liverpool]]></title>
       <description><![CDATA[Harry Maguire heads Manchester United to a 2-1 win against Liverpool - their first victory at Anfield since 2016.]]></description>
       <link>https://www.bbc.com/sport/football/videos/clyk2d0nzeko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -158,6 +150,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx24kn5jxgno</guid>
       <pubDate>Mon, 20 Oct 2025 06:33:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8e9/live/7b54c740-ad83-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Resources will be found' to police Maccabi Tel Aviv game]]></title>
+      <description><![CDATA[UK Culture Secretary Lisa Nandy tells MPs local authorities in Birmingham should reverse the ban.]]></description>
+      <link>https://www.bbc.com/news/articles/cj971rwyzlgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj971rwyzlgo</guid>
+      <pubDate>Mon, 20 Oct 2025 17:09:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29d2/live/3f69a8d0-adcf-11f0-88e3-7f8fec28bd76.png"/>
     </item>
     <item>
       <title><![CDATA[Liverpool defender Fisk replaces Reid in England squad]]></title>
