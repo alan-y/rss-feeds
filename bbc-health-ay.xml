@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 20 Oct 2025 07:37:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 07:47:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,6 +40,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc1/live/fd20ede0-ab5c-11f0-b0f1-8b73bbc9408d.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Uruguay legalises euthanasia after 10-hour debate]]></title>
+      <description><![CDATA[The Dignified Death bill was passed in the senate, with 20 out of 31 legislators voting in favour.]]></description>
+      <link>https://www.bbc.com/news/articles/c7v8336zmvro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c7v8336zmvro</guid>
+      <pubDate>Thu, 16 Oct 2025 09:47:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/161c/live/219cae50-aa74-11f0-9c75-5fce1bce10a4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Game-changing' HIV protection jab approved in England and Wales]]></title>
       <description><![CDATA[The shot, given six times a year or every other month, is an alternative to taking daily pills to protect against ever catching the virus.]]></description>
       <link>https://www.bbc.com/news/articles/c803egy217xo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d6l5y5q0go</guid>
       <pubDate>Fri, 17 Oct 2025 10:21:15 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b5/live/ce721040-ab3a-11f0-9f0c-8d8035e68521.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Calls to suspend GP who 'harassed' woman raped by his son]]></title>
-      <description><![CDATA[Rape Crisis Scotland argues Dr Andrew McFarlane has distressed his son's victim and may cause harm to other rape survivors.]]></description>
-      <link>https://www.bbc.com/news/articles/ce3xylkx2d1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3xylkx2d1o</guid>
-      <pubDate>Fri, 17 Oct 2025 05:01:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66fc/live/41ac4ff0-1422-11ef-b261-4fcd87fa4087.jpg"/>
     </item>
     <item>
       <title><![CDATA[NHS stripped ex-footballer of dignity, say family]]></title>
