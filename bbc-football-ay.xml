@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 21 Oct 2025 16:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 17:17:40 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Back to basics, winning back fans and Clough's dog - Dyche's Forest return]]></title>
+      <description><![CDATA[Nottingham Forest are not "far away" from reconnecting with their disillusioned fans after a poor start to the season, says new boss Sean Dyche.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5y407p2mxzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y407p2mxzo</guid>
+      <pubDate>Tue, 21 Oct 2025 17:06:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11ed/live/fc8b6390-ae9c-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Winning & togetherness - Rohl sets out Rangers mission]]></title>
       <description><![CDATA[Danny Rohl delivers a simple message as he is introduced as Rangers head coach, stating: "We want to win."]]></description>
@@ -30,14 +38,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2emr7per0mo</guid>
       <pubDate>Tue, 21 Oct 2025 14:57:40 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4e5/live/d61cb600-ae83-11f0-8386-9ffc5f39bb44.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Is Dyche the right man to repair Forest?]]></title>
-      <description><![CDATA[Sean Dyche answers an SOS call from Nottingham Forest as the club look to restore confidence - is he the right man for the job?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy8vy013jx3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8vy013jx3o</guid>
-      <pubDate>Tue, 21 Oct 2025 09:54:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8a/live/5c5a8e10-ae5f-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Villa warn fans against political messaging at Maccabi Tel Aviv game]]></title>
@@ -64,6 +64,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67f2/live/6bf3c7f0-adc0-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Is Dyche the right man to repair Forest?]]></title>
+      <description><![CDATA[Sean Dyche answers an SOS call from Nottingham Forest as the club look to restore confidence - is he the right man for the job?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy8vy013jx3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8vy013jx3o</guid>
+      <pubDate>Tue, 21 Oct 2025 09:54:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8a/live/5c5a8e10-ae5f-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['We are relegation candidates' - West Ham's big month]]></title>
       <description><![CDATA[Winless in six, fans boycotting and no new manager bounce. This is the start of a season-defining period for West Ham.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4gz7epeg69o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -78,14 +86,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjr0yd08wlyo</guid>
       <pubDate>Tue, 21 Oct 2025 09:37:45 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e97a/live/46683a40-ae5e-11f0-bf6e-0db822206ec2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Manager Kompany signs new Bayern Munich contract]]></title>
-      <description><![CDATA[Bayern Munich manager Vincent Kompany signs a two-year extension to his contract, keeping him with the German side until June 2029.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgkplek7y3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgkplek7y3o</guid>
-      <pubDate>Tue, 21 Oct 2025 10:53:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76b6/live/bf277a80-ae69-11f0-bf6e-0db822206ec2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Can you name every player with 25 Champions League goals?]]></title>
@@ -144,6 +144,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fd3/live/ee017630-ad1f-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Manager Kompany signs new Bayern Munich contract]]></title>
+      <description><![CDATA[Bayern Munich manager Vincent Kompany signs a two-year extension to his contract, keeping him with the German side until June 2029.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgkplek7y3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgkplek7y3o</guid>
+      <pubDate>Tue, 21 Oct 2025 10:53:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76b6/live/bf277a80-ae69-11f0-bf6e-0db822206ec2.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[The evolution of Rice - how midfielder became Arsenal's all-rounder]]></title>
       <description><![CDATA[Since the arrival of Martin Zubimendi at Arsenal, BBC Sport looks at how Declan Rice has completed his transformation to an all-round midfielder.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn091zqqzv0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -174,14 +182,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2dr37d99n3o</guid>
       <pubDate>Mon, 20 Oct 2025 21:58:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e3/live/ed168d00-adfb-11f0-b2a1-6f537f66f9aa.png"/>
-    </item>
-    <item>
-      <title><![CDATA['Rohl jumps from Wednesday frying pan into Rangers furnace']]></title>
-      <description><![CDATA[Danny Rohl has taken on one of the toughest managerial jobs in world football by succeeding Russell Martin at Rangers, writes Tom English.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwynpxndqn7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwynpxndqn7o</guid>
-      <pubDate>Mon, 20 Oct 2025 19:19:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84e1/live/4480b930-ade8-11f0-b5a7-fff05c19a3ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Maccabi Tel Aviv will not accept Villa tickets]]></title>
@@ -264,12 +264,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65d9/live/ff5e5f20-adeb-11f0-aa13-0b0479f6f42a.png"/>
     </item>
     <item>
-      <title><![CDATA[Barca boss Flick to change behaviour 'for grandchildren']]></title>
-      <description><![CDATA[Barcelona manager Hansi Flick says he does not want his grandchildren to see the behaviour which earned him a red card against Girona on Saturday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgzrkplyvmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgzrkplyvmo</guid>
-      <pubDate>Mon, 20 Oct 2025 16:39:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db5/live/9344fc60-add0-11f0-be67-e5f02edf63b3.jpg"/>
+      <title><![CDATA['Rohl jumps from Wednesday frying pan into Rangers furnace']]></title>
+      <description><![CDATA[Danny Rohl has taken on one of the toughest managerial jobs in world football by succeeding Russell Martin at Rangers, writes Tom English.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwynpxndqn7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwynpxndqn7o</guid>
+      <pubDate>Mon, 20 Oct 2025 19:19:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84e1/live/4480b930-ade8-11f0-b5a7-fff05c19a3ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[When is the 2027 Women's World Cup qualification draw?]]></title>
@@ -288,14 +288,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feed/live/11791cb0-adae-11f0-a1e9-05271081384a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Mourinho is a visionary - Howe]]></title>
-      <description><![CDATA[Newcastle manager Eddie Howe says Benfica boss Jose Mourinho is a "visionary" as they prepare to meet in the Champions League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c781wxeev6wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c781wxeev6wo</guid>
-      <pubDate>Mon, 20 Oct 2025 20:12:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87a9/live/bed138e0-add4-11f0-be67-e5f02edf63b3.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Centurion Davies targeting Bale's Wales cap record]]></title>
       <description><![CDATA[Ben Davies is aiming to surpass Gareth Bale's tally of 111 Wales caps and admits lack of game time under Thomas Frank at Spurs is "not ideal".]]></description>
       <link>https://www.bbc.com/sport/football/articles/c7v8djej8g4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -312,12 +304,28 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cce/live/37dc5620-ae57-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Barca boss Flick to change behaviour 'for grandchildren']]></title>
+      <description><![CDATA[Barcelona manager Hansi Flick says he does not want his grandchildren to see the behaviour which earned him a red card against Girona on Saturday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgzrkplyvmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgzrkplyvmo</guid>
+      <pubDate>Mon, 20 Oct 2025 16:39:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db5/live/9344fc60-add0-11f0-be67-e5f02edf63b3.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Humbled but inspired' - Potter named Sweden boss]]></title>
       <description><![CDATA[Former West Ham manager Graham Potter is named as the new head coach of Sweden. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c78zxmdgz72o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78zxmdgz72o</guid>
       <pubDate>Mon, 20 Oct 2025 07:39:15 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1b/live/8b70b6b0-ad89-11f0-93d0-d5294e42252c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Mourinho is a visionary - Howe]]></title>
+      <description><![CDATA[Newcastle manager Eddie Howe says Benfica boss Jose Mourinho is a "visionary" as they prepare to meet in the Champions League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c781wxeev6wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c781wxeev6wo</guid>
+      <pubDate>Mon, 20 Oct 2025 20:12:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87a9/live/bed138e0-add4-11f0-be67-e5f02edf63b3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Outstanding Simeone would succeed anywhere - Arteta]]></title>
@@ -368,14 +376,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e72/live/4476b9d0-adb6-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Everton defender Branthwaite to have operation]]></title>
-      <description><![CDATA[Everton defender Jarrad Branthwaite needs an operation on an injured hamstring and is set for an extended spell on the sidelines.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c620e3yz5k8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c620e3yz5k8o</guid>
-      <pubDate>Mon, 20 Oct 2025 14:29:30 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/542c/live/e9dfea50-adbf-11f0-8594-135ad08fdf35.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Discrimination row an unwanted distraction - Ward]]></title>
       <description><![CDATA[Republic of Ireland boss Carla Ward says that the quicker "outside noise" surrounding the Football Association Ireland [FAI] is eradicated the better.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2p4dvel0vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -390,14 +390,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c781wq7327po</guid>
       <pubDate>Mon, 20 Oct 2025 20:31:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acc3/live/8e5cf400-adf3-11f0-b36f-b1e901b92715.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Liverpool defender Fisk replaces Reid in England squad]]></title>
-      <description><![CDATA[Liverpool defender Grace Fisk is called into the England squad following the withdrawal of Arsenal's Katie Reid.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgmeml1glmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgmeml1glmo</guid>
-      <pubDate>Mon, 20 Oct 2025 11:24:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03b4/live/52a130f0-ada5-11f0-b0cb-ebfbdbe55f66.jpg"/>
     </item>
     <item>
       <title><![CDATA[Goal of the season contender? MOTD pundits on 'world-class' Buendia]]></title>
@@ -686,6 +678,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2drgnzg48jo</guid>
       <pubDate>Mon, 13 Oct 2025 14:24:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dc3/live/0103cb70-a83e-11f0-8df8-17b411cc599c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Liverpool defender Fisk replaces Reid in England squad]]></title>
+      <description><![CDATA[Liverpool defender Grace Fisk is called into the England squad following the withdrawal of Arsenal's Katie Reid.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgmeml1glmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgmeml1glmo</guid>
+      <pubDate>Mon, 20 Oct 2025 11:24:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03b4/live/52a130f0-ada5-11f0-b0cb-ebfbdbe55f66.jpg"/>
     </item>
     <item>
       <title><![CDATA[From farming village to Liverpool icon - the Salah story]]></title>
