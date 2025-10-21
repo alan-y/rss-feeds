@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 21 Oct 2025 08:26:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 08:54:40 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -80,20 +80,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0a5/live/a8094a10-a9f8-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Blackpool appoint ex-Bolton boss Evatt as manager]]></title>
+      <description><![CDATA[Blackpool appoint former Bolton Wanderers boss Ian Evatt as their manager on a two-and-a-half-year deal.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2p4pyy52lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2p4pyy52lo</guid>
+      <pubDate>Tue, 21 Oct 2025 08:31:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feed/live/11791cb0-adae-11f0-a1e9-05271081384a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
       <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c2dr37d99n3o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2dr37d99n3o</guid>
       <pubDate>Mon, 20 Oct 2025 21:58:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e3/live/ed168d00-adfb-11f0-b2a1-6f537f66f9aa.png"/>
-    </item>
-    <item>
-      <title><![CDATA['Bigger than football' - how Mjallby gatecrashed Sweden's elite]]></title>
-      <description><![CDATA[Mjallby AIF almost went bust nine years ago, but now they have won the Swedish Allsvenskan. BBC Sport analyses their rise.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crm4wjdr7xpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crm4wjdr7xpo</guid>
-      <pubDate>Mon, 20 Oct 2025 19:43:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d38e/live/fda167b0-adfd-11f0-9f27-2d87ba480465.jpg"/>
     </item>
     <item>
       <title><![CDATA[Brentford dominate West Ham to earn first away win of season]]></title>
@@ -144,12 +144,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dc0/live/ad721a50-ad3a-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Humbled but inspired' - Potter named Sweden boss]]></title>
-      <description><![CDATA[Former West Ham manager Graham Potter is named as the new head coach of Sweden. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c78zxmdgz72o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78zxmdgz72o</guid>
-      <pubDate>Mon, 20 Oct 2025 07:39:15 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1b/live/8b70b6b0-ad89-11f0-93d0-d5294e42252c.jpg"/>
+      <title><![CDATA['Bigger than football' - how Mjallby gatecrashed Sweden's elite]]></title>
+      <description><![CDATA[Mjallby AIF almost went bust nine years ago, but now they have won the Swedish Allsvenskan. BBC Sport analyses their rise.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crm4wjdr7xpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crm4wjdr7xpo</guid>
+      <pubDate>Mon, 20 Oct 2025 19:43:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d38e/live/fda167b0-adfd-11f0-9f27-2d87ba480465.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How did internet outage affect West Ham v Brentford?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team explains why the Amazon Web Services global outage affected Brentford's win over West Ham]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c986y875jy2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c986y875jy2o</guid>
+      <pubDate>Tue, 21 Oct 2025 08:34:35 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cce/live/37dc5620-ae57-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Mourinho is a visionary - Howe]]></title>
@@ -230,6 +238,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07mkx19y1xo</guid>
       <pubDate>Mon, 20 Oct 2025 17:28:42 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58d7/live/81f07f30-adc5-11f0-9704-87425431ad41.png"/>
+    </item>
+    <item>
+      <title><![CDATA['Humbled but inspired' - Potter named Sweden boss]]></title>
+      <description><![CDATA[Former West Ham manager Graham Potter is named as the new head coach of Sweden. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c78zxmdgz72o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78zxmdgz72o</guid>
+      <pubDate>Mon, 20 Oct 2025 07:39:15 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1b/live/8b70b6b0-ad89-11f0-93d0-d5294e42252c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Centurion Davies targeting Bale's Wales cap record]]></title>
@@ -358,22 +374,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c781wq7327po</guid>
       <pubDate>Mon, 20 Oct 2025 20:31:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acc3/live/8e5cf400-adf3-11f0-b36f-b1e901b92715.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Non-league match abandoned after fans and players brawl]]></title>
-      <description><![CDATA[The game between Avro and Kidsgrove Athletic was abandoned in the 84th minute, says the Oldham club.]]></description>
-      <link>https://www.bbc.com/news/articles/cly9xmx1zzjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly9xmx1zzjo</guid>
-      <pubDate>Sun, 19 Oct 2025 13:06:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae88/live/4f529e10-ace8-11f0-be60-b16518bf830f.png"/>
-    </item>
-    <item>
-      <title><![CDATA['I wanted to show everyone' - Villa's comeback star Buendia]]></title>
-      <description><![CDATA[Emiliano Buendia is rediscovering his form from three years ago - and scored the winner for Aston Villa against Tottenham.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g79ln6ll8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g79ln6ll8o</guid>
-      <pubDate>Sun, 19 Oct 2025 18:13:27 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b41/live/bbaa11e0-ad1c-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA['You dream of the World Cup' - new  Sweden boss Potter]]></title>
