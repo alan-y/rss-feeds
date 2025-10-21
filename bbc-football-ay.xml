@@ -10,18 +10,18 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 21 Oct 2025 09:50:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 10:21:10 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
-      <title><![CDATA[Nottingham Forest appoint Dyche as new manager]]></title>
-      <description><![CDATA[Nottingham Forest appoint former Burnley and Everton manager Sean Dyche as their new head coach - becoming the club's third different boss this season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyl40wzzp3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyl40wzzp3o</guid>
-      <pubDate>Tue, 21 Oct 2025 07:45:25 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/707e/live/90f228d0-ad7a-11f0-ab18-a9a7b1100616.jpg"/>
+      <title><![CDATA[Is Dyche the right man to repair Forest?]]></title>
+      <description><![CDATA[Sean Dyche answers an SOS call from Nottingham Forest as the club look to restore confidence - is he the right man for the job?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy8vy013jx3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8vy013jx3o</guid>
+      <pubDate>Tue, 21 Oct 2025 09:54:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8a/live/5c5a8e10-ae5f-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[What are the key questions facing Liverpool boss Slot?]]></title>
@@ -104,6 +104,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3c8/live/9eb1ea40-adf8-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Best player on the pitch by a country mile' - Warnock on Cunha]]></title>
+      <description><![CDATA[Stephen Warnock praises Manchester United's performance in their 2-1 victory at Anfield on Sunday, remarking that forward Matheus Cunha possessed the "aura of Eric Cantona".]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cgql92wgjd3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgql92wgjd3o</guid>
+      <pubDate>Tue, 21 Oct 2025 10:11:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e3e/live/4f65a730-ae64-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Andrews delighted by 'excellent' Brentford's 'chemistry']]></title>
       <description><![CDATA[Brentford boss Keith Andrews is delighted with the "excellent" performance his side put in as they comfortably beat West Ham 2-0 and is pleased with the "chemistry" the Bees are building.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cly947ge21jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -134,14 +142,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c9q1jlq2wwwo</guid>
       <pubDate>Mon, 20 Oct 2025 05:36:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ddd/live/859a4100-ad3b-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How 'dominant' Maguire helped Man Utd beat Liverpool]]></title>
-      <description><![CDATA[Match of the Day pundit Shay Given analyses Harry Maguire's dominance in Manchester United's 2-1 win over Liverpool in the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cgql01q14dyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgql01q14dyo</guid>
-      <pubDate>Sun, 19 Oct 2025 23:00:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dc0/live/ad721a50-ad3a-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Blackpool appoint ex-Bolton boss Evatt as manager]]></title>
@@ -376,6 +376,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acc3/live/8e5cf400-adf3-11f0-b36f-b1e901b92715.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How 'dominant' Maguire helped Man Utd beat Liverpool]]></title>
+      <description><![CDATA[Match of the Day pundit Shay Given analyses Harry Maguire's dominance in Manchester United's 2-1 win over Liverpool in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cgql01q14dyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgql01q14dyo</guid>
+      <pubDate>Sun, 19 Oct 2025 23:00:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dc0/live/ad721a50-ad3a-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['You dream of the World Cup' - new  Sweden boss Potter]]></title>
       <description><![CDATA[Graham Potter says having the chance to help Sweden reach the World Cup is "incredibly exciting" after being announced as their head coach on an initial short-term basis.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cddr9g3rqmlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -454,14 +462,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cz0xrnjz92eo</guid>
       <pubDate>Sat, 18 Oct 2025 22:06:49 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af9d/live/2f230690-ac6e-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Tottenham 'aggressive and intense' but not enough - Frank]]></title>
-      <description><![CDATA[Tottenham Hotspur manager Thomas Frank says his side came out "aggressive and intense" but it was not enough to counter Aston Villa's finishing during a 2-1 defeat.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/crre0l78q0wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/crre0l78q0wo</guid>
-      <pubDate>Sun, 19 Oct 2025 16:33:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a13/live/d2550950-ad07-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA['Managing a lot of Premier League teams like a holiday compared to Celtic']]></title>
