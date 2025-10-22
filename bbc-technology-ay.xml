@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 22 Oct 2025 07:48:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 08:27:37 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[JLR hack is costliest cyber attack in UK history, say analysts]]></title>
+      <description><![CDATA[The cyber attack on Jaguar Land Rover is estimated to cost £2.1bn, the Cyber Monitoring Centre says.]]></description>
+      <link>https://www.bbc.com/news/articles/cy9pdld4y81o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9pdld4y81o</guid>
+      <pubDate>Wed, 22 Oct 2025 06:25:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6600/live/273a3bc0-aeca-11f0-bc68-5523b100fc80.jpg"/>
+    </item>
     <item>
       <title><![CDATA[ChatGPT-maker OpenAI releases browser in attempt to rival Google]]></title>
       <description><![CDATA[ChatGPT Atlas was unveiled as the company seeks new ways to corral users to its online offerings.]]></description>
@@ -30,6 +38,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jdgp6n45po</guid>
       <pubDate>Tue, 21 Oct 2025 19:14:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a62/live/309d3c60-ae90-11f0-b0ec-2949909959e5.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Three wrongly accused over child abuse images after BT gets 'wires crossed']]></title>
+      <description><![CDATA[A tribunal heard the mistake led to "distressing and far-reaching" consequences for the three innocent people.]]></description>
+      <link>https://www.bbc.com/news/articles/ckgknm8xrgpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgknm8xrgpo</guid>
+      <pubDate>Tue, 21 Oct 2025 15:25:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdbc/live/e835b020-ae98-11f0-b305-65f4f8d88da9.jpg"/>
     </item>
     <item>
       <title><![CDATA[Amazon outage 'resolved' as Snapchat and banks among sites impacted]]></title>
@@ -88,20 +104,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5579/live/f454e930-abae-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Is Microsoft's first ever handheld Xbox console worth the wait?]]></title>
+      <description><![CDATA[The ROG Xbox Ally works with Game Pass out of the box, meaning gamers start off with hundreds of games.]]></description>
+      <link>https://www.bbc.com/news/articles/cqjwlnvx9jpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cqjwlnvx9jpo</guid>
+      <pubDate>Wed, 15 Oct 2025 23:11:22 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45d/live/4dfd0520-a9f3-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[OpenAI stops 'disrespectful' Martin Luther King Jr deepfakes]]></title>
       <description><![CDATA[The intervention has not stopped Sora users generating and sharing fake clips of other historical figures.]]></description>
       <link>https://www.bbc.com/news/articles/c5y0g79xevxo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y0g79xevxo</guid>
       <pubDate>Fri, 17 Oct 2025 12:17:01 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba5/live/372f54e0-ab44-11f0-86b3-2dd47a6542fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Spotify working on AI music tools with major record labels]]></title>
-      <description><![CDATA[The streaming service says it will respect artists' rights in creating new "responsible" AI products.]]></description>
-      <link>https://www.bbc.com/news/articles/cn7emv83edjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn7emv83edjo</guid>
-      <pubDate>Thu, 16 Oct 2025 16:48:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8923/live/a24dad80-aaa9-11f0-8051-295629adf78e.jpg"/>
     </item>
     <item>
       <title><![CDATA[China's biggest shopping event starts five weeks early to revive spending]]></title>
@@ -112,12 +128,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/422a/live/8e7dd700-ab15-11f0-ae97-7709fd0f3934.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Is Microsoft's first ever handheld Xbox console worth the wait?]]></title>
-      <description><![CDATA[The ROG Xbox Ally works with Game Pass out of the box, meaning gamers start off with hundreds of games.]]></description>
-      <link>https://www.bbc.com/news/articles/cqjwlnvx9jpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cqjwlnvx9jpo</guid>
-      <pubDate>Wed, 15 Oct 2025 23:11:22 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45d/live/4dfd0520-a9f3-11f0-b2a1-6f537f66f9aa.jpg"/>
+      <title><![CDATA[Spotify working on AI music tools with major record labels]]></title>
+      <description><![CDATA[The streaming service says it will respect artists' rights in creating new "responsible" AI products.]]></description>
+      <link>https://www.bbc.com/news/articles/cn7emv83edjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn7emv83edjo</guid>
+      <pubDate>Thu, 16 Oct 2025 16:48:01 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8923/live/a24dad80-aaa9-11f0-8051-295629adf78e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Windows 10 users urged to prepare for Microsoft pulling support]]></title>
@@ -256,30 +272,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cpvlgzk0xvpo</guid>
       <pubDate>Tue, 07 Oct 2025 21:11:42 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f3f/live/028105e0-a3ba-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[MrBeast: AI means it's 'scary times' for YouTube creators]]></title>
-      <description><![CDATA[He says he's worried about what will happen to millions of creators when AI videos are as good as normal ones.]]></description>
-      <link>https://www.bbc.com/news/articles/cm2zmm0ry67o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2zmm0ry67o</guid>
-      <pubDate>Tue, 07 Oct 2025 11:15:05 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d2e/live/52bcf7c0-a35c-11f0-9ba1-d9aaa400322a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Snapchat users share fury at upcoming fees for storing old photos and videos]]></title>
-      <description><![CDATA[Snap said only a small number of users would be affected by the changes, but many online disagree.]]></description>
-      <link>https://www.bbc.com/news/articles/c4g5ypl6nkzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g5ypl6nkzo</guid>
-      <pubDate>Mon, 06 Oct 2025 23:40:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d504/live/11b47050-a06e-11f0-8687-4726d7177866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Chinese EV giant BYD sees UK sales soar by 880%]]></title>
-      <description><![CDATA[The Shenzhen-based electric car maker says the UK is now its biggest market outside China.]]></description>
-      <link>https://www.bbc.com/news/articles/c3w5jl2jgqwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3w5jl2jgqwo</guid>
-      <pubDate>Tue, 07 Oct 2025 05:28:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e73/live/5c336a40-a32b-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
       <title><![CDATA[How good is the battery in a used electric vehicle?]]></title>
