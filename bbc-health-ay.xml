@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 12:39:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 13:22:30 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Doctors announce five-day strike in November]]></title>
+      <description><![CDATA[The 13th walkout in England in long-running dispute announced by British Medical Association.]]></description>
+      <link>https://www.bbc.com/news/articles/clyk5zr7p71o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/clyk5zr7p71o</guid>
+      <pubDate>Thu, 23 Oct 2025 13:18:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5777/live/4b798ae0-b00f-11f0-8317-a7963fdcfd4f.jpg"/>
+    </item>
     <item>
       <title><![CDATA[CQC chief resigns over maternity failings]]></title>
       <description><![CDATA[Families had been calling for Sir Julian's resignation over poor maternity care at Leeds Teaching Hospitals NHS Trust.]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d65nqgd5zo</guid>
       <pubDate>Wed, 22 Oct 2025 06:26:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ee5/live/2c2457d0-af27-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Staff skipped checks and said a vulnerable young woman was safe. Days later, she was dead]]></title>
-      <description><![CDATA[A coroner says some of the care Cerys Lupton-Jones was given at a mental health unit was a "shambles".]]></description>
-      <link>https://www.bbc.com/news/articles/cz91e1e23wzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cz91e1e23wzo</guid>
-      <pubDate>Wed, 22 Oct 2025 13:16:50 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32c4/live/7b6b5340-ae85-11f0-9f03-7d57b11fd2eb.jpg"/>
     </item>
     <item>
       <title><![CDATA[Life-changing eye implant helps blind patients read again]]></title>
