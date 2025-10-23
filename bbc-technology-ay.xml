@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 11:47:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 12:39:40 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Amazon apologises to customers impacted by huge AWS outage]]></title>
+      <description><![CDATA[A "faulty automation" was at the core of the issues that caused knock-on effects for more than one thousand sites on Monday, an expert told the BBC.]]></description>
+      <link>https://www.bbc.com/news/articles/cvgvnp77dy9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgvnp77dy9o</guid>
+      <pubDate>Thu, 23 Oct 2025 12:08:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a36/live/2846df60-afff-11f0-af36-791af27228b8.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Amazon unveils prototype AI smart glasses for its delivery drivers]]></title>
       <description><![CDATA[The tech giant also announced a new robotic arm and an AI tool to improve efficiency at its warehouses.]]></description>
@@ -264,30 +272,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg02rdxxz7o</guid>
       <pubDate>Thu, 09 Oct 2025 15:41:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c837/live/81b11470-a52e-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[ID photos of 70,000 users may have been leaked, Discord says]]></title>
-      <description><![CDATA[The platform says hackers targeted a firm that helped to verify the ages of its users.]]></description>
-      <link>https://www.bbc.com/news/articles/c8jmzd972leo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8jmzd972leo</guid>
-      <pubDate>Thu, 09 Oct 2025 14:27:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ad5/live/f6fad0b0-a4af-11f0-bd4e-7755f432b75a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[ChatGPT image snares suspect in deadly Pacific Palisades fire]]></title>
-      <description><![CDATA[Investigators say evidence collected from the 29-year-old's devices showed an AI image of a burning city.]]></description>
-      <link>https://www.bbc.com/news/articles/c8exz5yg14ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8exz5yg14ko</guid>
-      <pubDate>Thu, 09 Oct 2025 02:57:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d6e/live/0e430540-a469-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[China tightens export rules for crucial rare earths]]></title>
-      <description><![CDATA[Beijing's monopoly over rare earths is a key bargaining chip in its trade negotiations with the US.]]></description>
-      <link>https://www.bbc.com/news/articles/ckgzl0nwvd7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgzl0nwvd7o</guid>
-      <pubDate>Thu, 09 Oct 2025 11:08:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70a/live/123611c0-a4b3-11f0-92b0-ffd5b41fc4eb.jpg"/>
     </item>
     <item>
       <title><![CDATA[How good is the battery in a used electric vehicle?]]></title>
