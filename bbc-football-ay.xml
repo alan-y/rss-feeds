@@ -10,27 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 25 Oct 2025 16:21:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 16:42:01 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[Can Bellingham make El Clasico statement with English sub-plot?]]></title>
-      <description><![CDATA[As Jude Bellingham prepares to face England team-mate Marcus Rashford in El Clasico, BBC Sport looks at why it could be a defining match for the Real Madrid midfielder.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd9kl7np3dvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9kl7np3dvo</guid>
-      <pubDate>Sat, 25 Oct 2025 08:45:45 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/267e/live/274f0350-b02a-11f0-a375-75de819286d1.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sutton's predictions v The Charlatans guitarist Mark Collins]]></title>
-      <description><![CDATA[BBC Sport football expert Chris Sutton takes on The Charlatans guitarist Mark Collins with his predictions for this weekend's Premier League fixtures.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cjek3new138o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjek3new138o</guid>
-      <pubDate>Thu, 23 Oct 2025 16:29:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d44c/live/85c59650-adb5-11f0-b2a1-6f537f66f9aa.png"/>
-    </item>
     <item>
       <title><![CDATA[Woltemade will keep getting better - Shearer]]></title>
       <description><![CDATA[Alan Shearer looks at the impact Newcastle United striker Nick Woltemade has made on Tyneside since joining for £69m from Bundesliga side Stuttgart.]]></description>
@@ -78,6 +62,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/clyknv60wnvo</guid>
       <pubDate>Fri, 24 Oct 2025 22:48:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ba/live/8c5de510-b127-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Can Bellingham make El Clasico statement with English sub-plot?]]></title>
+      <description><![CDATA[As Jude Bellingham prepares to face England team-mate Marcus Rashford in El Clasico, BBC Sport looks at why it could be a defining match for the Real Madrid midfielder.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd9kl7np3dvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9kl7np3dvo</guid>
+      <pubDate>Sat, 25 Oct 2025 08:45:45 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/267e/live/274f0350-b02a-11f0-a375-75de819286d1.jpg"/>
     </item>
     <item>
       <title><![CDATA['They're in trouble' - West Ham make worst start in 52 years]]></title>
@@ -150,6 +142,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/videos/crl2k21e222o</guid>
       <pubDate>Tue, 21 Oct 2025 05:25:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7ee/live/e5e29ed0-addc-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sutton's predictions v The Charlatans guitarist Mark Collins]]></title>
+      <description><![CDATA[BBC Sport football expert Chris Sutton takes on The Charlatans guitarist Mark Collins with his predictions for this weekend's Premier League fixtures.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cjek3new138o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjek3new138o</guid>
+      <pubDate>Thu, 23 Oct 2025 16:29:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d44c/live/85c59650-adb5-11f0-b2a1-6f537f66f9aa.png"/>
     </item>
     <item>
       <title><![CDATA[Chelsea's James on love of fashion & friendship with Hamilton]]></title>
@@ -256,14 +256,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e74/live/07be84c0-b0de-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA['A lot of things in their favour' - why Hearts could win title]]></title>
-      <description><![CDATA[Hearts could move eight points clear of Celtic in the Scottish Premiership on Sunday - but how likely is a title win?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c20e3nn29d9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20e3nn29d9o</guid>
-      <pubDate>Fri, 24 Oct 2025 07:24:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd10/live/ddc957f0-ad34-11f0-aa13-0b0479f6f42a.png"/>
-    </item>
-    <item>
       <title><![CDATA[Rashford wants to stay at Barcelona when loan ends]]></title>
       <description><![CDATA[Marcus Rashford hopes he can stay at Barcelona when his loan agreement from Manchester United ends in the summer.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c30vq2pppqno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -272,28 +264,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ab/live/1c2562f0-b0a5-11f0-9ab4-6b547b84eb35.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sheffield Wednesday given 12-point deduction after entering administration]]></title>
-      <description><![CDATA[Sheffield Wednesday have been placed in administration and hit with an automatic 12-point deduction by the EFL. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1lqmmml533o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1lqmmml533o</guid>
-      <pubDate>Fri, 24 Oct 2025 10:47:33 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b52/live/4f9b7350-b0cc-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why are last season's relegated trio struggling in the Championship?]]></title>
       <description><![CDATA[Leicester City, Ipswich Town and Southampton have just nine wins between them after 11 rounds of the 2025-26 Championship season.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cpv14ply23no?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv14ply23no</guid>
       <pubDate>Fri, 24 Oct 2025 16:42:43 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f736/live/61c962a0-affd-11f0-af36-791af27228b8.png"/>
-    </item>
-    <item>
-      <title><![CDATA[EFL players left 'numb' by increase in online abuse]]></title>
-      <description><![CDATA[EFL director of equality, diversity and inclusion David McArdle says social media platforms must play their part in helping to tackle online abuse.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn7exdkv1v8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn7exdkv1v8o</guid>
-      <pubDate>Fri, 24 Oct 2025 12:20:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d001/live/fa78cb50-b0cd-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Celtic 'not quite a Ferrari but a Range Rover Sport']]></title>
