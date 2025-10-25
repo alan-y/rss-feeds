@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 25 Oct 2025 19:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 19:28:10 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[An 'unbelievable' start - how Sunderland are defying expectations]]></title>
+      <description><![CDATA[Second in the Premier League and two points behind leaders Arsenal - how have the Black Cats done it? ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2pxy797ndo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2pxy797ndo</guid>
+      <pubDate>Sat, 25 Oct 2025 19:22:21 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2715/live/49348ce0-b1d0-11f0-a93e-bf11edc87b23.jpg"/>
+    </item>
     <item>
       <title><![CDATA['We fight to the end', says Newcastle 'talisman' Guimaraes]]></title>
       <description><![CDATA[Newcastle United were rapidly running out of time against Fulham but captain Bruno Guimaraes stepped up when his side needed him most.]]></description>
@@ -70,14 +78,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c93dy1xjv94o</guid>
       <pubDate>Sat, 25 Oct 2025 17:40:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0391/live/cfa264e0-b1c7-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Chelsea performance 'not good enough' - Maresca]]></title>
-      <description><![CDATA[Chelsea manager Enzo Maresca was unimpressed with his side's overall performance against Sunderland after they fell to a 2-1 defeat after leading through an early Alejandro garnacho goal.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cwyn6d9j4jdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwyn6d9j4jdo</guid>
-      <pubDate>Sat, 25 Oct 2025 17:11:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21b6/live/5807f160-b1c3-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Vote for your BBC Women's Footballer of the Year]]></title>
@@ -200,14 +200,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e55/live/1c45aba0-b0e6-11f0-bbd2-6f2269efad7e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[NI 'still in tie' despite first-leg loss - Oxtoby]]></title>
-      <description><![CDATA[Northern Ireland manager Tanya Oxtoby says her side are "still in the tie" despite being defeated 2-0 in the home leg of their Nations League promotion/relegation playoff against Iceland.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yl23zpy0go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yl23zpy0go</guid>
-      <pubDate>Fri, 24 Oct 2025 22:52:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e746/live/1846a4e0-b123-11f0-8821-b33aff40ca89.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Woltemade will keep getting better - Shearer]]></title>
       <description><![CDATA[Alan Shearer looks at the impact Newcastle United striker Nick Woltemade has made on Tyneside since joining for £69m from Bundesliga side Stuttgart.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cm2w4lxr3k7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -256,20 +248,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19af/live/678abae0-b115-11f0-b2a1-6f537f66f9aa.png"/>
     </item>
     <item>
+      <title><![CDATA[NI 'still in tie' despite first-leg loss - Oxtoby]]></title>
+      <description><![CDATA[Northern Ireland manager Tanya Oxtoby says her side are "still in the tie" despite being defeated 2-0 in the home leg of their Nations League promotion/relegation playoff against Iceland.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5yl23zpy0go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yl23zpy0go</guid>
+      <pubDate>Fri, 24 Oct 2025 22:52:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e746/live/1846a4e0-b123-11f0-8821-b33aff40ca89.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Carter-Vickers could be out until March - what does it mean for Celtic?]]></title>
       <description><![CDATA[Celtic defender Cameron Carter-Vickers could be out until March with an Achilles injury, manager Brendan Rodgers reveals.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cge5n4evj88o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cge5n4evj88o</guid>
       <pubDate>Fri, 24 Oct 2025 13:26:35 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e74/live/07be84c0-b0de-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Rashford wants to stay at Barcelona when loan ends]]></title>
-      <description><![CDATA[Marcus Rashford hopes he can stay at Barcelona when his loan agreement from Manchester United ends in the summer.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c30vq2pppqno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c30vq2pppqno</guid>
-      <pubDate>Fri, 24 Oct 2025 07:13:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ab/live/1c2562f0-b0a5-11f0-9ab4-6b547b84eb35.jpg"/>
     </item>
     <item>
       <title><![CDATA[Farke praises 'aggressive, brave performance' from Leeds]]></title>
@@ -310,14 +302,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy40vx8vk8jo</guid>
       <pubDate>Fri, 24 Oct 2025 13:54:12 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaeb/live/b2631980-b0df-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Brilliant Grull goal earns Bremen back-to-back home victories]]></title>
-      <description><![CDATA[Marco Grull's "moment of magic" secures Werder Bremen a 1-0 victory against Union Berlin in the Bundesliga. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c201np7q2zqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c201np7q2zqo</guid>
-      <pubDate>Fri, 24 Oct 2025 22:32:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1f1/live/6a219490-b124-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Can Arsenal's defence lead them to title glory?]]></title>
