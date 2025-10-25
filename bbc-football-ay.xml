@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 25 Oct 2025 07:46:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 08:22:52 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -248,14 +248,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f736/live/61c962a0-affd-11f0-af36-791af27228b8.png"/>
     </item>
     <item>
-      <title><![CDATA[What does it mean when a club enters administration?]]></title>
-      <description><![CDATA[Our Ask Me Anything team look at what it means when a club enters administration.]]></description>
-      <link>https://www.bbc.com/sport/articles/c891gjlxpv1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c891gjlxpv1o</guid>
-      <pubDate>Fri, 24 Oct 2025 14:09:47 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6908/live/b725ef30-b0d3-11f0-aa13-0b0479f6f42a.png"/>
-    </item>
-    <item>
       <title><![CDATA[Fishlock 'at top' of list of Welsh sport's greats ]]></title>
       <description><![CDATA[Wales will bid farewell to Jess Fishlock this weekend with captain Angharad James believing the midfielder sits "at the top" of the list of the nation's sporting greats.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3rj808ey8yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -264,20 +256,28 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef3f/live/48f19020-b0c2-11f0-b0fc-6571ce384f7a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Guiu changes his ways after Maresca rebuke]]></title>
-      <description><![CDATA[Chelsea manager Enzo Maresca says Liam Delap is fit again, but Marc Guiu could start against Sunderland just a fortnight after being told his training was not up to scratch.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c620g1021y1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c620g1021y1o</guid>
-      <pubDate>Fri, 24 Oct 2025 11:53:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65e4/live/248c8250-b0b6-11f0-aba1-bffe4144781c.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Sheffield Wednesday given 12-point deduction after entering administration]]></title>
       <description><![CDATA[Sheffield Wednesday have been placed in administration and hit with an automatic 12-point deduction by the EFL. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c1lqmmml533o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1lqmmml533o</guid>
       <pubDate>Fri, 24 Oct 2025 10:47:33 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b52/live/4f9b7350-b0cc-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Can you name the line-ups from Chelsea 5-1 Sunderland in 2017?]]></title>
+      <description><![CDATA[Chelsea and Sunderland meet on Saturday, but can you name the line-ups from Chelsea's 5-1 win in 2017?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1d042lywxno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1d042lywxno</guid>
+      <pubDate>Sat, 25 Oct 2025 07:57:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8df6/live/8a7af080-b0b4-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Guiu changes his ways after Maresca rebuke]]></title>
+      <description><![CDATA[Chelsea manager Enzo Maresca says Liam Delap is fit again, but Marc Guiu could start against Sunderland just a fortnight after being told his training was not up to scratch.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c620g1021y1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c620g1021y1o</guid>
+      <pubDate>Fri, 24 Oct 2025 11:53:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65e4/live/248c8250-b0b6-11f0-aba1-bffe4144781c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Five things to look out for in EFL: Clocks, parachutes and cold play]]></title>
@@ -312,12 +312,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ab/live/1c2562f0-b0a5-11f0-9ab4-6b547b84eb35.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How much do you know about England's rivalry with Brazil?]]></title>
-      <description><![CDATA[With England facing Brazil in Manchester on Saturday, we wanted to challenge you with this Lionesses quiz.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c20pdmzg4zxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20pdmzg4zxo</guid>
-      <pubDate>Fri, 24 Oct 2025 12:43:45 GMT</pubDate>
-      <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0350/live/bdd6dea0-ae69-11f0-b2a1-6f537f66f9aa.jpg"/>
+      <title><![CDATA[What does it mean when a club enters administration?]]></title>
+      <description><![CDATA[Our Ask Me Anything team look at what it means when a club enters administration.]]></description>
+      <link>https://www.bbc.com/sport/articles/c891gjlxpv1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c891gjlxpv1o</guid>
+      <pubDate>Fri, 24 Oct 2025 14:09:47 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6908/live/b725ef30-b0d3-11f0-aa13-0b0479f6f42a.png"/>
     </item>
     <item>
       <title><![CDATA[Wolves boss Pereira fined £15,000 for kicking ball in frustration]]></title>
@@ -400,14 +400,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5298/live/b0e9bd90-b0ab-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Wafcon expansion offers 'great exposure' - Chawinga]]></title>
-      <description><![CDATA[The expansion of the Women's Africa Cup of Nations is a "great boost" to teams that have never qualified for the finals, says Malawi captain Tabitha Chawinga.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5ypg92qyz8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ypg92qyz8o</guid>
-      <pubDate>Fri, 24 Oct 2025 12:18:50 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9052/live/777c3af0-6a7a-11f0-85c3-f353314ad7f2.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Celtic motor but still long road ahead for Rodgers]]></title>
       <description><![CDATA[Brendan Rodgers got the response he was looking for after criticising his Celtic players after their defeat at Dundee.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwyp0vljv0go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -430,6 +422,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78z7nx1219o</guid>
       <pubDate>Thu, 23 Oct 2025 20:35:01 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1149/live/94c15ad0-b04f-11f0-b28d-7def5e0b07dd.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How much do you know about England's rivalry with Brazil?]]></title>
+      <description><![CDATA[With England facing Brazil in Manchester on Saturday, we wanted to challenge you with this Lionesses quiz.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c20pdmzg4zxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20pdmzg4zxo</guid>
+      <pubDate>Fri, 24 Oct 2025 12:43:45 GMT</pubDate>
+      <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0350/live/bdd6dea0-ae69-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Slot reveals Isak fitness worry]]></title>
