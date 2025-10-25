@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 25 Oct 2025 14:18:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 14:34:07 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Parents urged to vaccinate children over half-term as flu cases rise]]></title>
+      <description><![CDATA[Flu season has come early and cases are rising among children, NHS England says.]]></description>
+      <link>https://www.bbc.com/news/articles/cpwv7yw4dz9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cpwv7yw4dz9o</guid>
+      <pubDate>Sat, 25 Oct 2025 13:06:17 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/261c/live/27ab75b0-b19f-11f0-b33e-69e560da4e1d.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Reports of OCD among under-25s triple in 10 years]]></title>
       <description><![CDATA[More 16-24 year olds in England say they have symptoms of obsessive compulsive disorder - BBC analysis finds.]]></description>
@@ -64,14 +72,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64a3/live/2c625910-b015-11f0-8317-a7963fdcfd4f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[CQC chief resigns over maternity failings]]></title>
-      <description><![CDATA[Families had been calling for Sir Julian's resignation over poor maternity care at Leeds Teaching Hospitals NHS Trust.]]></description>
-      <link>https://www.bbc.com/news/articles/c4gp2wgzpp1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gp2wgzpp1o</guid>
-      <pubDate>Thu, 23 Oct 2025 10:46:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cc/live/f08e9f60-b001-11f0-af36-791af27228b8.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Menopause screening to be included in NHS health checks from next year]]></title>
       <description><![CDATA[Despite the change - which will happen in 2026 - campaigners warn some women will lose out because the number who attend is too low.]]></description>
       <link>https://www.bbc.com/news/articles/cq50z185d78o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -86,6 +86,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0qpz39jpj7o</guid>
       <pubDate>Mon, 20 Oct 2025 12:00:12 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dba/live/22ca8970-adb5-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[CQC chief resigns over maternity failings]]></title>
+      <description><![CDATA[Families had been calling for Sir Julian's resignation over poor maternity care at Leeds Teaching Hospitals NHS Trust.]]></description>
+      <link>https://www.bbc.com/news/articles/c4gp2wgzpp1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gp2wgzpp1o</guid>
+      <pubDate>Thu, 23 Oct 2025 10:46:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cc/live/f08e9f60-b001-11f0-af36-791af27228b8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Call for allergy pens in schools after boy's death]]></title>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0rpdjd39po</guid>
       <pubDate>Fri, 03 Oct 2025 02:08:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04a1/live/6b953710-a034-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Why won't anyone give my son access to healthcare?']]></title>
-      <description><![CDATA[When Harry turned 18, he no longer had access to various healthcare services, his mum says. ]]></description>
-      <link>https://www.bbc.com/news/articles/c3dr4v3vz3lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3dr4v3vz3lo</guid>
-      <pubDate>Tue, 07 Oct 2025 05:11:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8053/live/69655560-a04d-11f0-b76f-25c45ed3060d.jpg"/>
     </item>
     <item>
       <title><![CDATA['I have a sweating problem': What Alan Carr's Traitors admission tells us about how social taboos changed]]></title>
