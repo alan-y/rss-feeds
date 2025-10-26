@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 26 Oct 2025 17:16:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 17:32:09 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -38,14 +38,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crmxz2lpxr8o</guid>
       <pubDate>Sun, 26 Oct 2025 06:52:45 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2369/live/75191990-b237-11f0-a2d0-054bb8f06cf0.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Brighter future, but a dark winter still looms for Sheffield Wednesday]]></title>
-      <description><![CDATA[The 2-1 home defeat by Oxford United showcases Sheffield Wednesday's future potential and current weakness.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cnve160ljjlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cnve160ljjlo</guid>
-      <pubDate>Sun, 26 Oct 2025 12:24:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4e0/live/3d81a470-b1ec-11f0-ab14-7d309f585f17.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arsenal 'suffer every week' to win matches - Arteta]]></title>
@@ -80,12 +72,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f270/live/b840ddf0-b1f8-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Brentford hold on to secure deserved win over Liverpool]]></title>
-      <description><![CDATA[Brentford heap further misery on Premier League champions Liverpool with a fully deserved 3-2 victory at Gtech Community Stadium.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cj0e97e521qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cj0e97e521qo</guid>
-      <pubDate>Sat, 25 Oct 2025 21:49:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f6/live/0c613220-b1ec-11f0-ba75-093eca1ac29b.jpg"/>
+      <title><![CDATA[Villa feeling good at 'fortress' Villa Park - Emery]]></title>
+      <description><![CDATA[Aston Villa manager Unai Emery says his team are finding the levels they had last season after following up an away victory at Tottenham with a 1-0 win at home over Manchester City.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cm27l8k2g2yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cm27l8k2g2yo</guid>
+      <pubDate>Sun, 26 Oct 2025 17:19:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58fb/live/159a0180-b28e-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Brighter future, but a dark winter still looms for Sheffield Wednesday]]></title>
+      <description><![CDATA[The 2-1 home defeat by Oxford United showcases Sheffield Wednesday's future potential and current weakness.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cnve160ljjlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cnve160ljjlo</guid>
+      <pubDate>Sun, 26 Oct 2025 12:24:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4e0/live/3d81a470-b1ec-11f0-ab14-7d309f585f17.jpg"/>
     </item>
     <item>
       <title><![CDATA[914 miles, 185 fans - doing English football's longest away day]]></title>
@@ -216,6 +216,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52e0/live/8eb23a70-b1d9-11f0-8b79-afe48ce10a82.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Brentford hold on to secure deserved win over Liverpool]]></title>
+      <description><![CDATA[Brentford heap further misery on Premier League champions Liverpool with a fully deserved 3-2 victory at Gtech Community Stadium.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cj0e97e521qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cj0e97e521qo</guid>
+      <pubDate>Sat, 25 Oct 2025 21:49:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f6/live/0c613220-b1ec-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Man Utd put four past Brighton for third successive win]]></title>
       <description><![CDATA[Bryan Mbeumo scores twice as Manchester United win 4-2 against Brighton and claim a third successive Premier League win for the first time since February 2024.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cz91yjjqnk0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -248,14 +256,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cec7/live/04388e40-b1ce-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA['We've still got 29 games left' - Rodgers on Celtic's eight-point deficit]]></title>
-      <description><![CDATA[Manager Brendan Rodgers refuses to panic about Celtic's Scottish Premiership title chances despite slipping eight points behind Hearts. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cgkz31g5zdvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgkz31g5zdvo</guid>
-      <pubDate>Sun, 26 Oct 2025 16:04:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad88/live/6aae7ce0-b285-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Sutton's predictions v The Charlatans guitarist Mark Collins]]></title>
       <description><![CDATA[BBC Sport football expert Chris Sutton takes on The Charlatans guitarist Mark Collins with his predictions for this weekend's Premier League fixtures.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cjek3new138o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -270,6 +270,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy4pendn08vo</guid>
       <pubDate>Sat, 25 Oct 2025 07:10:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0a/live/48180520-b127-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['We've still got 29 games left' - Rodgers on Celtic's eight-point deficit]]></title>
+      <description><![CDATA[Manager Brendan Rodgers refuses to panic about Celtic's Scottish Premiership title chances despite slipping eight points behind Hearts. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cgkz31g5zdvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgkz31g5zdvo</guid>
+      <pubDate>Sun, 26 Oct 2025 16:04:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad88/live/6aae7ce0-b285-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[How 'confident' Sunderland dominated without the ball]]></title>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5yd657n39yo</guid>
       <pubDate>Sat, 25 Oct 2025 19:10:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e4b/live/0ccdf520-b1d5-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[My finish was like Shearer - Guimaraes]]></title>
-      <description><![CDATA[Newcastle captain Bruno Guimaraes says his winning goal against Fulham was reminsicent of Magpies legend Alan Shearer scoring in front of the Gallowgate End.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c797ex234veo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c797ex234veo</guid>
-      <pubDate>Sat, 25 Oct 2025 17:51:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc54/live/f3d068b0-b1c9-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chelsea's James on love of fashion & friendship with Hamilton]]></title>
