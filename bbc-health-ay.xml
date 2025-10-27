@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 14:51:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 15:22:33 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Mpox cases in Europe prompt vaccine reminder]]></title>
+      <description><![CDATA[UK health officials are encouraging gay, bisexual and other men who have sex with men to be vaccinated.]]></description>
+      <link>https://www.bbc.com/news/articles/cp856rvv41eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp856rvv41eo</guid>
+      <pubDate>Mon, 27 Oct 2025 15:06:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f941/live/df2ce440-b342-11f0-9ae5-dfa34b074568.jpg"/>
+    </item>
     <item>
       <title><![CDATA[NHS needs £3bn to cover strikes, redundancies and drug costs, say health leaders]]></title>
       <description><![CDATA[Health leaders say progress on reducing waiting lists will be affected if there is no help in making up the financial shortfall. ]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/clyk5zr7p71o</guid>
       <pubDate>Thu, 23 Oct 2025 13:26:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5777/live/4b798ae0-b00f-11f0-8317-a7963fdcfd4f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Local health hubs at risk as community services under strain ]]></title>
-      <description><![CDATA[Care Quality Commission warns GP, mental health and social care services lacking staff and capacity.]]></description>
-      <link>https://www.bbc.com/news/articles/cwyp0ngvr3vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyp0ngvr3vo</guid>
-      <pubDate>Fri, 24 Oct 2025 08:21:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f71/live/13f94630-b304-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Menopause screening to be included in NHS health checks from next year]]></title>
