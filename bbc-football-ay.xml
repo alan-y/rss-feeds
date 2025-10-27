@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 10:51:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 11:18:55 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,20 +48,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0de/live/9c337300-b2a9-11f0-95b1-8966a3bd3943.jpg"/>
     </item>
     <item>
-      <title><![CDATA[When Gazzamania came to Kettering]]></title>
-      <description><![CDATA[Paul Gascoigne was one of the best English players of the last 30 years but his managerial career lasted only 39 days. BBC Sport looks back. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgq4je3vzw5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgq4je3vzw5o</guid>
-      <pubDate>Mon, 27 Oct 2025 09:09:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f9/live/995338d0-a919-11f0-85e5-b7e4f930730c.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Women's Footballer of the Year contender Russo]]></title>
       <description><![CDATA[BBC Sport profiles Arsenal and England forward Alessia Russo, one of five nominees for the BBC Women's Footballer of the Year 2025 award.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cev1jrmwn04o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cev1jrmwn04o</guid>
       <pubDate>Tue, 21 Oct 2025 05:24:43 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2a0/live/4dcc6e00-adbe-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[When Gazzamania came to Kettering]]></title>
+      <description><![CDATA[Paul Gascoigne was one of the best English players of the last 30 years but his managerial career lasted only 39 days. BBC Sport looks back. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgq4je3vzw5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgq4je3vzw5o</guid>
+      <pubDate>Mon, 27 Oct 2025 09:09:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f9/live/995338d0-a919-11f0-85e5-b7e4f930730c.jpg"/>
     </item>
     <item>
       <title><![CDATA[How is Baller League doing in bid to 'bring back football'?]]></title>
@@ -94,14 +94,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c803pvy4x53o</guid>
       <pubDate>Sun, 26 Oct 2025 23:15:51 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50b8/live/7c89db50-b2a6-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Spurs open to Solanke sale - Monday's gossip]]></title>
-      <description><![CDATA[Dominic Solanke could be on his way out of Tottenham, Bournemouth rejected two offers for Antoine Semenyo last summer, while Tottenham are tracking Samu Aghehowa, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c93dkp1dxg3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93dkp1dxg3o</guid>
-      <pubDate>Sun, 26 Oct 2025 22:29:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5ae/live/4fea2240-b2be-11f0-b2a1-6f537f66f9aa.png"/>
     </item>
     <item>
       <title><![CDATA[Eze goal enough for Arsenal to extend Premier League lead]]></title>
@@ -184,8 +176,16 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2af2/live/3dfe3a80-b2c8-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Spurs open to Solanke sale - Monday's gossip]]></title>
+      <description><![CDATA[Dominic Solanke could be on his way out of Tottenham, Bournemouth rejected two offers for Antoine Semenyo last summer, while Tottenham are tracking Samu Aghehowa, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c93dkp1dxg3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93dkp1dxg3o</guid>
+      <pubDate>Sun, 26 Oct 2025 22:29:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5ae/live/4fea2240-b2be-11f0-b2a1-6f537f66f9aa.png"/>
+    </item>
+    <item>
       <title><![CDATA[A Welsh rivalry but is Wrexham v Cardiff a derby?]]></title>
-      <description><![CDATA[BBC Wales Sport looks at what gives a this grudge fixture edge despite playing at opposite ends of the country.]]></description>
+      <description><![CDATA[BBC Sport Wales looks at what gives an edge to this grudge fixture between clubs at opposite ends of the country.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c1wlddj98n3o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1wlddj98n3o</guid>
       <pubDate>Mon, 27 Oct 2025 09:20:36 GMT</pubDate>
@@ -222,14 +222,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9wv1rwe8z4o</guid>
       <pubDate>Sun, 26 Oct 2025 19:59:31 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0ae/live/f4bc1540-b29a-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Should Rodgers be getting more out of what he has at Celtic?]]></title>
-      <description><![CDATA[Celtic were depleted in their 3-1 loss to Scottish Premiership leaders Hearts but questions remain about the quality of their performances.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5y97jl7v40o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y97jl7v40o</guid>
-      <pubDate>Sun, 26 Oct 2025 18:12:05 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d39/live/664fec70-b27f-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is 'accomplished finisher' Kroupi Bournemouth's latest hidden gem?]]></title>
@@ -296,12 +288,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7ee/live/e5e29ed0-addc-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Was Aberdeen's brief revival flash in the pan?]]></title>
-      <description><![CDATA[After conceding eight times in two games, BBC Sport Scotland looks at whether Aberdeen are back in the mire.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgk39e0049o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgk39e0049o</guid>
-      <pubDate>Sun, 26 Oct 2025 19:22:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a2d/live/e50660b0-b29f-11f0-ba75-093eca1ac29b.jpg"/>
+      <title><![CDATA[Should Rodgers be getting more out of what he has at Celtic?]]></title>
+      <description><![CDATA[Celtic were depleted in their 3-1 loss to Scottish Premiership leaders Hearts but questions remain about the quality of their performances.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5y97jl7v40o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y97jl7v40o</guid>
+      <pubDate>Sun, 26 Oct 2025 18:12:05 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d39/live/664fec70-b27f-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cureton, 50, scores in 10th tier to 'complete football']]></title>
@@ -310,6 +302,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yd9prgvnmo</guid>
       <pubDate>Sun, 26 Oct 2025 18:37:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93de/live/e6743040-b299-11f0-8d8b-0d4dded1af00.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Was Aberdeen's brief revival flash in the pan?]]></title>
+      <description><![CDATA[After conceding eight times in two games, BBC Sport Scotland looks at whether Aberdeen are back in the mire.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgk39e0049o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgk39e0049o</guid>
+      <pubDate>Sun, 26 Oct 2025 19:22:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a2d/live/e50660b0-b29f-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Brighter future, but a dark winter still looms for Sheffield Wednesday]]></title>
@@ -352,14 +352,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f8/live/785fef60-801f-11f0-ab3e-bd52082cd0ae.png"/>
     </item>
     <item>
-      <title><![CDATA[Awful & outplayed - Slot must look closer to home to end Liverpool slump]]></title>
-      <description><![CDATA[Liverpool head coach Arne Slot must look closer to home to solve the Premier League champions' dramatic slump, says chief football writer Phil McNulty.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy7wk9p2x0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy7wk9p2x0o</guid>
-      <pubDate>Sat, 25 Oct 2025 23:19:25 GMT</pubDate>
-      <media:thumbnail width="240" height="132" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1532/live/dab28560-b1f2-11f0-ba75-093eca1ac29b.png"/>
-    </item>
-    <item>
       <title><![CDATA[Arsenal 'suffer every week' to win matches - Arteta]]></title>
       <description><![CDATA[Arsenal boss Mikel Arteta praises Eberechi Eze's "unbelievable technique"after he scored the only goal of a tight game against Crystal Palace to extend their lead at the top of the Premier League table.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cy8vg0gegx6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -398,6 +390,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c2lpkwn7xlgo</guid>
       <pubDate>Sat, 25 Oct 2025 23:04:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b090/live/55bd6450-b1f3-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Awful & outplayed - Slot must look closer to home to end Liverpool slump]]></title>
+      <description><![CDATA[Liverpool head coach Arne Slot must look closer to home to solve the Premier League champions' dramatic slump, says chief football writer Phil McNulty.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy7wk9p2x0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy7wk9p2x0o</guid>
+      <pubDate>Sat, 25 Oct 2025 23:19:25 GMT</pubDate>
+      <media:thumbnail width="240" height="132" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1532/live/dab28560-b1f2-11f0-ba75-093eca1ac29b.png"/>
     </item>
     <item>
       <title><![CDATA[Wales face up to challenge of life after Fishlock ]]></title>
@@ -552,6 +552,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab32/live/2024ee20-9b9c-11f0-bdeb-9de9348d5d1d.jpg"/>
     </item>
     <item>
+      <title><![CDATA[What does it mean when a club enters administration?]]></title>
+      <description><![CDATA[Our Ask Me Anything team look at what it means when a club enters administration.]]></description>
+      <link>https://www.bbc.com/sport/articles/c891gjlxpv1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c891gjlxpv1o</guid>
+      <pubDate>Fri, 24 Oct 2025 14:09:47 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6908/live/b725ef30-b0d3-11f0-aa13-0b0479f6f42a.png"/>
+    </item>
+    <item>
       <title><![CDATA[What is the Premier League multi-ball system?]]></title>
       <description><![CDATA[Our Ask Me Anything team look at the rules of the Premier League multi-ball system and what happened in Liverpool's defeat against Manchester United.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c70jel6znklo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -590,22 +598,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyk11nlzxyo</guid>
       <pubDate>Thu, 16 Oct 2025 11:32:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d92f/live/c20270f0-aa79-11f0-b2a1-6f537f66f9aa.png"/>
-    </item>
-    <item>
-      <title><![CDATA[What does squad-cost ratio and anchoring mean in football?]]></title>
-      <description><![CDATA[Our Ask Me Anything team explain what squad-cost ratio and anchoring mean.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgywq9dj7jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgywq9dj7jo</guid>
-      <pubDate>Wed, 15 Oct 2025 07:42:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3c6/live/6b53b890-a8f8-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[England are going to the 2026 World Cup - who else has qualified?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team looks at who has qualified for next year's Fifa World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cglepde7yzlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cglepde7yzlo</guid>
-      <pubDate>Tue, 14 Oct 2025 21:36:57 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72df/live/6320ea80-a353-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rangers 'didn't screw up' head coach appointment]]></title>
