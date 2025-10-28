@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 10:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 10:51:11 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -104,14 +104,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc1c/live/86e968b0-ae6c-11f0-8bcf-ff1d16935815.jpg"/>
     </item>
     <item>
-      <title><![CDATA[England-Australia will feel like revenge game - Toone]]></title>
-      <description><![CDATA[England midfielder Ella Toone says it will "feel like a revenge game" for Australia when the sides meet in their friendly match at Pride Park on Tuesday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3rj919qjeeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3rj919qjeeo</guid>
-      <pubDate>Mon, 27 Oct 2025 13:31:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15bd/live/17a7b520-b339-11f0-ba75-093eca1ac29b.png"/>
-    </item>
-    <item>
       <title><![CDATA[Super Bowl winner offers to train Kane]]></title>
       <description><![CDATA[Former Kansas City Chiefs punter and Super Bowl champion Dustin Colquitt says England dootball captain Harry Kane would be "fantastic" in the NFL if he decides to switch to the sport in the future and offers to coach him.]]></description>
       <link>https://www.bbc.com/sport/videos/cz6ng78xe9do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -144,6 +136,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad88/live/6aae7ce0-b285-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[England-Australia will feel like revenge game - Toone]]></title>
+      <description><![CDATA[England midfielder Ella Toone says it will "feel like a revenge game" for Australia when the sides meet in their friendly match at Pride Park on Tuesday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3rj919qjeeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3rj919qjeeo</guid>
+      <pubDate>Mon, 27 Oct 2025 13:31:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15bd/live/17a7b520-b339-11f0-ba75-093eca1ac29b.png"/>
+    </item>
+    <item>
       <title><![CDATA[Celtic replace 'divisive' Rodgers with former boss O'Neill]]></title>
       <description><![CDATA[Brendan Rodgers resigns as Celtic manager - amid accusations by Dermot Desmond of "divisive, misleading, and self-serving" behaviour - with former boss Martin O'Neill taking over.]]></description>
       <link>https://www.bbc.com/sport/football/articles/czxkezdp9z5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -166,22 +166,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn09qyv027qo</guid>
       <pubDate>Mon, 27 Oct 2025 13:03:42 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b00/live/86d92d80-b379-11f0-a625-3b97004255b9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hundreds of Turkish officials found with betting accounts]]></title>
-      <description><![CDATA[Turkey's football federation will launch disciplinary proceedings after hundreds of professional match officials are found to have betting accounts.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5ylg9e65n0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ylg9e65n0o</guid>
-      <pubDate>Mon, 27 Oct 2025 17:26:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b49d/live/d0026f90-b3d2-11f0-bbf8-b5f2b25acebe.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[We can beat teams in higher leagues than us - Colwill]]></title>
-      <description><![CDATA[Cardiff City's Rubin Colwill is confident that his side can beat Wrexham in the EFL Cup on Tuesday night,]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd67gp8y1yeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd67gp8y1yeo</guid>
-      <pubDate>Tue, 28 Oct 2025 06:40:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e154/live/47c00ed0-b350-11f0-ad84-99ce12c6004d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Vote for your BBC Women's Footballer of the Year]]></title>
@@ -240,12 +224,36 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7ee/live/e5e29ed0-addc-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Hundreds of Turkish officials found with betting accounts]]></title>
+      <description><![CDATA[Turkey's football federation will launch disciplinary proceedings after hundreds of professional match officials are found to have betting accounts.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5ylg9e65n0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ylg9e65n0o</guid>
+      <pubDate>Mon, 27 Oct 2025 17:26:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b49d/live/d0026f90-b3d2-11f0-bbf8-b5f2b25acebe.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Wales star Ramsey increased reward for missing dog to £15,000]]></title>
+      <description><![CDATA[Wales star increases reward for information about his dog Halo, who has gone missing in Mexico.]]></description>
+      <link>https://www.bbc.com/news/articles/c93xdy29nx5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c93xdy29nx5o</guid>
+      <pubDate>Tue, 28 Oct 2025 10:19:54 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4915/live/0e812830-b3ea-11f0-9fd1-ab405da544ae.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Vinicius Jr 'didn't want to offend' in Clasico clash]]></title>
       <description><![CDATA[Real Madrid's Vinicius Jr says he "didn't want to offend anyone" when he and some of his team-mates clashed with Barcelona players after winning Sunday's El Clasico.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5ylg7gjxy4o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ylg7gjxy4o</guid>
       <pubDate>Mon, 27 Oct 2025 20:34:45 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/785a/live/c13c6b40-b360-11f0-a5ed-d926a0229916.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[We can beat teams in higher leagues than us - Colwill]]></title>
+      <description><![CDATA[Cardiff City's Rubin Colwill is confident that his side can beat Wrexham in the EFL Cup on Tuesday night,]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd67gp8y1yeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd67gp8y1yeo</guid>
+      <pubDate>Tue, 28 Oct 2025 06:40:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e154/live/47c00ed0-b350-11f0-ad84-99ce12c6004d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rooney says struggling Liverpool lack leadership]]></title>
@@ -256,14 +264,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0de/live/9c337300-b2a9-11f0-95b1-8966a3bd3943.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Cash signs new Aston Villa deal until 2029]]></title>
-      <description><![CDATA[Aston Villa defender Matty Cash signs a new three-and-a-half-year deal with the club. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1lqjz3v98lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1lqjz3v98lo</guid>
-      <pubDate>Mon, 27 Oct 2025 12:40:36 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8df5/live/96c96720-b381-11f0-9949-a7e22bd97226.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How is Baller League doing in bid to 'bring back football'?]]></title>
       <description><![CDATA[Baller League returns for its second UK season - but is it succeeding in "bringing back football"?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cz0x79v0l30o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -272,20 +272,28 @@
       <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/848b/live/c644b0e0-a83c-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
-      <title><![CDATA[When Gazzamania came to Kettering]]></title>
-      <description><![CDATA[Paul Gascoigne was one of the best English players of the last 30 years but his managerial career lasted only 39 days. BBC Sport looks back. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgq4je3vzw5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgq4je3vzw5o</guid>
-      <pubDate>Mon, 27 Oct 2025 09:09:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f9/live/995338d0-a919-11f0-85e5-b7e4f930730c.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Haaland or bust? Man City need to 'step up' as striker's goal run ends]]></title>
       <description><![CDATA[The sight of Erling Haaland gingerly hobbling away after seeing a late equaliser ruled out at Villa Park on Sunday summed up his and Manchester City's disappointing afternoon.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c9d6glxv5vjo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9d6glxv5vjo</guid>
       <pubDate>Sun, 26 Oct 2025 17:45:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e88/live/46613900-b2ca-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Cash signs new Aston Villa deal until 2029]]></title>
+      <description><![CDATA[Aston Villa defender Matty Cash signs a new three-and-a-half-year deal with the club. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1lqjz3v98lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1lqjz3v98lo</guid>
+      <pubDate>Mon, 27 Oct 2025 12:40:36 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8df5/live/96c96720-b381-11f0-9949-a7e22bd97226.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[When Gazzamania came to Kettering]]></title>
+      <description><![CDATA[Paul Gascoigne was one of the best English players of the last 30 years but his managerial career lasted only 39 days. BBC Sport looks back. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgq4je3vzw5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgq4je3vzw5o</guid>
+      <pubDate>Mon, 27 Oct 2025 09:09:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f9/live/995338d0-a919-11f0-85e5-b7e4f930730c.jpg"/>
     </item>
     <item>
       <title><![CDATA['People are afraid' - why 'juggernaut' Arsenal are team to beat]]></title>
@@ -304,36 +312,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/359a/live/99fe4ae0-b2a6-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Can Hearts make impossible possible by winning Premiership?]]></title>
-      <description><![CDATA[After beating Celtic to go eight points clear, is it now time to seriously consider that Hearts could win the title, wonders Tom English?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj41edylw8ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj41edylw8ko</guid>
-      <pubDate>Sun, 26 Oct 2025 17:34:39 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6276/live/0353a0b0-b277-11f0-aa06-0d69e6791907.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Fan anger, rock bottom - what next for Pereira and Wolves?]]></title>
-      <description><![CDATA[Fans revolt and turn on Vitor Pereira as winless Wolves struggle in the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cnvemy2gp23o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cnvemy2gp23o</guid>
-      <pubDate>Sun, 26 Oct 2025 18:36:10 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a560/live/244a3780-b28a-11f0-8aca-bd97d0c61a73.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[A Welsh rivalry but is Wrexham v Cardiff a derby?]]></title>
       <description><![CDATA[BBC Sport Wales looks at what gives an edge to this grudge fixture between clubs at opposite ends of the country.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c1wlddj98n3o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1wlddj98n3o</guid>
       <pubDate>Mon, 27 Oct 2025 09:20:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f621/live/05ea25e0-b00d-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What did we learn from Rohl's Rangers Ibrox debut?]]></title>
-      <description><![CDATA[BBC Scotland's Kheredine Idessane reviews Danny Rohl's first home match as Rangers head coach, which produced a maiden three points at Ibrox this term.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdjrxgk8v4eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjrxgk8v4eo</guid>
-      <pubDate>Sun, 26 Oct 2025 20:11:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41f0/live/4b8301f0-b29a-11f0-ba75-093eca1ac29b.png"/>
     </item>
     <item>
       <title><![CDATA[Bellingham scores El Clasico winner]]></title>
@@ -376,6 +360,30 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2af2/live/3dfe3a80-b2c8-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Can Hearts make impossible possible by winning Premiership?]]></title>
+      <description><![CDATA[After beating Celtic to go eight points clear, is it now time to seriously consider that Hearts could win the title, wonders Tom English?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj41edylw8ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj41edylw8ko</guid>
+      <pubDate>Sun, 26 Oct 2025 17:34:39 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6276/live/0353a0b0-b277-11f0-aa06-0d69e6791907.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What did we learn from Rohl's Rangers Ibrox debut?]]></title>
+      <description><![CDATA[BBC Scotland's Kheredine Idessane reviews Danny Rohl's first home match as Rangers head coach, which produced a maiden three points at Ibrox this term.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdjrxgk8v4eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjrxgk8v4eo</guid>
+      <pubDate>Sun, 26 Oct 2025 20:11:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41f0/live/4b8301f0-b29a-11f0-ba75-093eca1ac29b.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Fan anger, rock bottom - what next for Pereira and Wolves?]]></title>
+      <description><![CDATA[Fans revolt and turn on Vitor Pereira as winless Wolves struggle in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cnvemy2gp23o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cnvemy2gp23o</guid>
+      <pubDate>Sun, 26 Oct 2025 18:36:10 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a560/live/244a3780-b28a-11f0-8aca-bd97d0c61a73.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['The Thomas Frank effect' - but is there more to come from Spurs?]]></title>
       <description><![CDATA[MOTD pundit Danny Murphy explains why Tottenham's attack will evolve under Thomas Frank, and how he has already fixed their defensive issues.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c803pvy4x53o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -392,14 +400,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0ae/live/f4bc1540-b29a-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[914 miles, 185 fans - doing English football's longest away day]]></title>
-      <description><![CDATA[BBC Sport travels with Truro fans to Gateshead, for the longest ever away journey in English football history.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwypjndzp1xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwypjndzp1xo</guid>
-      <pubDate>Sun, 26 Oct 2025 07:20:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ca/live/30e9b180-b0bb-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Cureton, 50, scores in 10th tier to 'complete football']]></title>
       <description><![CDATA[Cureton gets his first goal for Kings Park Rangers, meaning he has now scored in all of the top 10 tiers of the English football pyramid. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5yd9prgvnmo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -414,14 +414,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8037kl0e93o</guid>
       <pubDate>Mon, 27 Oct 2025 08:31:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b22e/live/0a2effe0-b02b-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Joy for Millwall and struggling Saints - Aaron McLean's EFL takeaways]]></title>
-      <description><![CDATA[Final Score EFL pundit Aaron McLean gives five takeaways which we learned during Saturday's action across the Championship, League One and League Two.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c93dyw25ngyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93dyw25ngyo</guid>
-      <pubDate>Sun, 26 Oct 2025 12:38:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f8/live/785fef60-801f-11f0-ab3e-bd52082cd0ae.png"/>
     </item>
     <item>
       <title><![CDATA[Arsenal 'suffer every week' to win matches - Arteta]]></title>
