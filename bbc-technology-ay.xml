@@ -10,17 +10,25 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 23:45:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 01:21:55 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
+      <title><![CDATA[Turing AI Institute boss denies accusations of 'toxic internal culture']]></title>
+      <description><![CDATA[Whistleblowers also accused the charity's leadership of misusing public funds and failing to deliver on its mission.]]></description>
+      <link>https://www.bbc.com/news/articles/c9q1xdnydwjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9q1xdnydwjo</guid>
+      <pubDate>Tue, 28 Oct 2025 00:04:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46b8/live/5a010de0-b366-11f0-b2a1-6f537f66f9aa.png"/>
+    </item>
+    <item>
       <title><![CDATA[ChatGPT shares data on how many users exhibit psychosis or suicidal thoughts]]></title>
       <description><![CDATA[The figure could mean potentially hundreds of thousands of users show signs of mental health distress weekly. ]]></description>
       <link>https://www.bbc.com/news/articles/c5yd90g0q43o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yd90g0q43o</guid>
-      <pubDate>Mon, 27 Oct 2025 23:35:48 GMT</pubDate>
+      <pubDate>Mon, 27 Oct 2025 23:53:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d38/live/778c7c50-b370-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
@@ -70,6 +78,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgmp1prnv0o</guid>
       <pubDate>Thu, 23 Oct 2025 23:01:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9079/live/8d14ef00-b035-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[No digital ID checks until you change jobs, says No 10]]></title>
+      <description><![CDATA[The government plans to introduce the scheme for workers by the end of parliament in 2028.]]></description>
+      <link>https://www.bbc.com/news/articles/cy0kynek55wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0kynek55wo</guid>
+      <pubDate>Thu, 23 Oct 2025 17:00:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55df/live/55d35e10-b016-11f0-a745-2b66ccd61f1c.png"/>
     </item>
     <item>
       <title><![CDATA[Trump pardons Binance founder Changpeng Zhao]]></title>
@@ -422,14 +438,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yeyn4gl80o</guid>
       <pubDate>Mon, 21 Jul 2025 23:20:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48ab/live/18706a30-527f-11f0-ad6a-617a010885d7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How will age verification for porn work and what about privacy?]]></title>
-      <description><![CDATA[Anyone in the UK wanting to access online porn will soon have to undergo more rigorous age checks.]]></description>
-      <link>https://www.bbc.com/news/articles/ceq7ye3q2zwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ceq7ye3q2zwo</guid>
-      <pubDate>Wed, 16 Jul 2025 08:04:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b732/live/178d0420-5e69-11f0-a633-790fe0633fd6.jpg"/>
     </item>
   </channel>
 </rss>
