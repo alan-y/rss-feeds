@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 17:38:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 17:50:07 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[OpenAI completes shift to becoming for-profit]]></title>
+      <description><![CDATA[The deal will see long term investor Microsoft retain a 27% stake in the ChatGPT-maker.]]></description>
+      <link>https://www.bbc.com/news/articles/cvgv38py7ewo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgv38py7ewo</guid>
+      <pubDate>Tue, 28 Oct 2025 17:38:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8617/live/cef57eb0-b41a-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Turing AI Institute boss denies accusations of 'toxic internal culture']]></title>
       <description><![CDATA[Whistleblowers also accused the charity's leadership of misusing public funds and failing to deliver on its mission.]]></description>
@@ -262,30 +270,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c70jw436n0yo</guid>
       <pubDate>Wed, 15 Oct 2025 03:51:04 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f66/live/85395ba0-a972-11f0-81f4-2fecc5290ee1.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Cyber attack contingency plans should be put on paper, firms told]]></title>
-      <description><![CDATA[Prepare to switch to offline systems in the event of a cyber-attack, firms are being advised.]]></description>
-      <link>https://www.bbc.com/news/articles/ced61xv967lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ced61xv967lo</guid>
-      <pubDate>Tue, 14 Oct 2025 10:30:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f8/live/f52c7d90-a8c6-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Vodafone says outage affecting thousands of customers resolved]]></title>
-      <description><![CDATA[Vodafone said its Monday outage, which knocked broadband and mobile data users offline for several hours, was caused by a "non-malicious software issue".]]></description>
-      <link>https://www.bbc.com/news/articles/c5yldldx659o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yldldx659o</guid>
-      <pubDate>Tue, 14 Oct 2025 09:09:51 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc4b/live/f3731590-a849-11f0-8df8-17b411cc599c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['It's going to be really bad': Fears over AI bubble bursting grow in Silicon Valley]]></title>
-      <description><![CDATA[Some are worried that the rapid rise in the value of AI tech companies may be a bubble waiting to burst.]]></description>
-      <link>https://www.bbc.com/news/articles/cz69qy760weo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cz69qy760weo</guid>
-      <pubDate>Fri, 10 Oct 2025 23:55:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf9b/live/ff11e480-a5e2-11f0-920e-cb66ee1d5eb0.jpg"/>
     </item>
     <item>
       <title><![CDATA[Can the plastic recycling industry be saved?]]></title>
