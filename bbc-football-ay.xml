@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 17:50:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 18:30:00 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -96,14 +96,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c700/live/b82f9b20-b401-11f0-a6f4-9daf525f5af5.jpg"/>
     </item>
     <item>
-      <title><![CDATA[A relief Osula did not leave Newcastle - Howe]]></title>
-      <description><![CDATA[Newcastle forward Will Osula, who almost left last month, now looks like the "complete package", says manager Eddie Howe.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cjd0yld89kpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjd0yld89kpo</guid>
-      <pubDate>Tue, 28 Oct 2025 10:52:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da05/live/b4b8a630-b3e8-11f0-9fd1-ab405da544ae.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[BBC Women's Footballer of the Year contender Patri Guijarro]]></title>
       <description><![CDATA[Meet Barcelona and Spain midfielder Patri Guijarro, who has been nominated for BBC Women's Footballer of the Year 2025.]]></description>
       <link>https://www.bbc.com/sport/videos/c5yprnlpep1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -142,6 +134,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/videos/cx2pk48wpgxo</guid>
       <pubDate>Mon, 27 Oct 2025 13:48:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d33c/live/aed72080-b338-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[A relief Osula did not leave Newcastle - Howe]]></title>
+      <description><![CDATA[Newcastle forward Will Osula, who almost left last month, now looks like the "complete package", says manager Eddie Howe.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cjd0yld89kpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjd0yld89kpo</guid>
+      <pubDate>Tue, 28 Oct 2025 10:52:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da05/live/b4b8a630-b3e8-11f0-9fd1-ab405da544ae.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rangers have 'big belief' after Rohl's first win]]></title>
