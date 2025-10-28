@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 07:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 07:34:15 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Trump is signing rare earths deals ahead of talks with China's Xi- will they help?]]></title>
+      <description><![CDATA[The agreements are a clear bid to reduce dependence on China, ahead of a key meeting with Xi Jinping.]]></description>
+      <link>https://www.bbc.com/news/articles/cj6ny24j0r3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj6ny24j0r3o</guid>
+      <pubDate>Tue, 28 Oct 2025 07:06:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2367/live/ff4dfbd0-b3c7-11f0-bcfd-f33aa44e9a1a.jpg"/>
+    </item>
     <item>
       <title><![CDATA[US and China agree framework of trade deal ahead of Trump-Xi meeting]]></title>
       <description><![CDATA[US trade secretary says the two will sign a deal on TikTok, while hinting at agreement on rare earths and tariffs.]]></description>
@@ -48,14 +56,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5512/live/4f8ac910-b19e-11f0-b33e-69e560da4e1d.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Three things we learned from China's big political meeting this week]]></title>
-      <description><![CDATA[China is emphasising technological self sufficiency and domestic spending while keeping a laser focus on corruption.]]></description>
-      <link>https://www.bbc.com/news/articles/c9wv8q5evvqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wv8q5evvqo</guid>
-      <pubDate>Fri, 24 Oct 2025 07:22:43 GMT</pubDate>
-      <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a31/live/a415fdd0-b0b1-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Trump will meet Xi in South Korea, says White House]]></title>
       <description><![CDATA[It will be the first face-to-face meeting for both leaders since Trump's return to office.]]></description>
       <link>https://www.bbc.com/news/articles/cjw9vy19qvgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -70,6 +70,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c14pxj7vx11o</guid>
       <pubDate>Thu, 23 Oct 2025 12:37:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa8/live/549ca940-b00a-11f0-8f34-995d899817c0.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Three things we learned from China's big political meeting this week]]></title>
+      <description><![CDATA[China is emphasising technological self sufficiency and domestic spending while keeping a laser focus on corruption.]]></description>
+      <link>https://www.bbc.com/news/articles/c9wv8q5evvqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wv8q5evvqo</guid>
+      <pubDate>Fri, 24 Oct 2025 07:22:43 GMT</pubDate>
+      <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a31/live/a415fdd0-b0b1-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[China will soon have a new Five Year Plan. Here's how they have changed the world so far]]></title>
