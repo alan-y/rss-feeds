@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 07:46:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 08:25:58 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -24,20 +24,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10c7/live/895eca10-b441-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Beever-Jones 'asking questions' - should she start for England?]]></title>
-      <description><![CDATA[Sarina Wiegman has had some tough decisions to make over England's strikers - and Aggie Beever-Jones has made it even harder after the 3-0 friendly win against Australia.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crmx472nepwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crmx472nepwo</guid>
-      <pubDate>Tue, 28 Oct 2025 23:12:42 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ce5/live/946433a0-b455-11f0-b7a5-89f5fd559681.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[What does future hold after Celtic turn to the past?]]></title>
       <description><![CDATA[BBC Scotland's Scott Mullen examines the Celtic Park landscape after Brendan Rodgers' exit.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cly4jdw7w7qo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly4jdw7w7qo</guid>
       <pubDate>Wed, 29 Oct 2025 07:20:49 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a1/live/16555560-b406-11f0-a6f4-9daf525f5af5.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Beever-Jones 'asking questions' - should she start for England?]]></title>
+      <description><![CDATA[Sarina Wiegman has had some tough decisions to make over England's strikers - and Aggie Beever-Jones has made it even harder after the 3-0 friendly win against Australia.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crmx472nepwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crmx472nepwo</guid>
+      <pubDate>Tue, 28 Oct 2025 23:12:42 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ce5/live/946433a0-b455-11f0-b7a5-89f5fd559681.jpg"/>
     </item>
     <item>
       <title><![CDATA[Nations League B return 'huge positive' for Wales ]]></title>
@@ -80,14 +80,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c55/live/c2ce4740-b44f-11f0-84dc-85b6c0774194.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Paqueta wants to leave West Ham - Wednesday's gossip]]></title>
-      <description><![CDATA[Lucas Paqueta wants to leave West Ham, Tottenham are keen on Scott McTominay, Napoli will make another attempt to sign Kobbie Mainoo, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c397dv3mv41o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c397dv3mv41o</guid>
-      <pubDate>Tue, 28 Oct 2025 22:32:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/412f/live/6ce73010-b44c-11f0-ba75-093eca1ac29b.png"/>
-    </item>
-    <item>
       <title><![CDATA[Best finisher? Toughest opponent? - Shearer answers your questions]]></title>
       <description><![CDATA[Alan Shearer answers questions from the BBC Sport audience (and Dion Dublin) on Football Focus at Newcastle's St James' Park.]]></description>
       <link>https://www.bbc.com/sport/videos/c993my1gjlvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -126,6 +118,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cze6r1yd31po</guid>
       <pubDate>Tue, 28 Oct 2025 17:10:22 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a759/live/cd05c730-b41b-11f0-8af8-23f34058d4bc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Paqueta wants to leave West Ham - Wednesday's gossip]]></title>
+      <description><![CDATA[Lucas Paqueta wants to leave West Ham, Tottenham are keen on Scott McTominay, Napoli will make another attempt to sign Kobbie Mainoo, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c397dv3mv41o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c397dv3mv41o</guid>
+      <pubDate>Tue, 28 Oct 2025 22:32:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/412f/live/6ce73010-b44c-11f0-ba75-093eca1ac29b.png"/>
     </item>
     <item>
       <title><![CDATA[Man dies after wheelchair collides with car driven by Inter keeper]]></title>
@@ -224,14 +224,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9638/live/0ad081d0-b422-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Iceland postponement 'a challenging day' - Oxtoby]]></title>
-      <description><![CDATA[Northern Ireland manager Tanya Oxtoby says it has been a "challenging day" after the second leg of their Nations League play-off in Iceland was moved to Wednesday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqjwyv1v51no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqjwyv1v51no</guid>
-      <pubDate>Tue, 28 Oct 2025 20:33:08 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c700/live/b82f9b20-b401-11f0-a6f4-9daf525f5af5.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[O'Neill's back, Hibs v Rangers & flying Kyziridis ]]></title>
       <description><![CDATA[A tumultous 48 hours in Scottish football rolls on to Wednesday night as 10 of the Premiership's sides face off on what promises to be a blockbuster evening. Here is what to expect.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2pk40j2w8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -246,6 +238,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crl2z872zz6o</guid>
       <pubDate>Tue, 28 Oct 2025 09:26:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc1c/live/86e968b0-ae6c-11f0-8bcf-ff1d16935815.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Iceland postponement 'a challenging day' - Oxtoby]]></title>
+      <description><![CDATA[Northern Ireland manager Tanya Oxtoby says it has been a "challenging day" after the second leg of their Nations League play-off in Iceland was moved to Wednesday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqjwyv1v51no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqjwyv1v51no</guid>
+      <pubDate>Tue, 28 Oct 2025 20:33:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c700/live/b82f9b20-b401-11f0-a6f4-9daf525f5af5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Reading appoint Richardson as new manager]]></title>
@@ -278,14 +278,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y937493n2o</guid>
       <pubDate>Tue, 28 Oct 2025 20:13:49 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6122/live/f01fc420-b437-11f0-9e39-77de2599e695.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[A relief Osula did not leave Newcastle - Howe]]></title>
-      <description><![CDATA[Newcastle forward Will Osula, who almost left last month, now looks like the "complete package", says manager Eddie Howe.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cjd0yld89kpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjd0yld89kpo</guid>
-      <pubDate>Tue, 28 Oct 2025 10:52:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da05/live/b4b8a630-b3e8-11f0-9fd1-ab405da544ae.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch Rodgers' last interview as Celtic manager]]></title>
@@ -336,6 +328,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/476ddda0-b3f4-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[A relief Osula did not leave Newcastle - Howe]]></title>
+      <description><![CDATA[Newcastle forward Will Osula, who almost left last month, now looks like the "complete package", says manager Eddie Howe.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cjd0yld89kpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjd0yld89kpo</guid>
+      <pubDate>Tue, 28 Oct 2025 10:52:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da05/live/b4b8a630-b3e8-11f0-9fd1-ab405da544ae.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How irretrievable breakdown led to savage separation for Rodgers & Celtic]]></title>
       <description><![CDATA[The relationship between Brendan Rodgers and Dermot Desmond at Celtic has splintered in unseemly and embarrassing fashion, writes Tom English.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c9934dljmj9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -366,14 +366,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cge5q4pz3jno</guid>
       <pubDate>Tue, 28 Oct 2025 07:00:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c93d/live/576276f0-b3a2-11f0-b2a1-6f537f66f9aa.png"/>
-    </item>
-    <item>
-      <title><![CDATA[When Swansea toppled Man City - but Mancini's team beat the rest]]></title>
-      <description><![CDATA[Recalling the day Swansea City humbled title-chasing Manchester City as the teams prepare to meet on Wednesday in the EFL Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd7rv8x7y8qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd7rv8x7y8qo</guid>
-      <pubDate>Tue, 28 Oct 2025 11:08:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7458/live/6bf0f080-b02b-11f0-a375-75de819286d1.jpg"/>
     </item>
     <item>
       <title><![CDATA['Pragmatic' Spurs approach can change when players return - analysis]]></title>
