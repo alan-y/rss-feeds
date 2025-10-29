@@ -10,18 +10,26 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 08:55:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 09:21:23 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Amazon confirms 14,000 job losses in corporate division]]></title>
+      <description><![CDATA[The company says the opportunities provided by AI means it  needs to be "organised more leanly."]]></description>
+      <link>https://www.bbc.com/news/articles/c1m3zm9jnl1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1m3zm9jnl1o</guid>
+      <pubDate>Tue, 28 Oct 2025 12:37:16 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/130f/live/2698a920-b3ef-11f0-be05-3928a0e0f928.jpg"/>
+    </item>
     <item>
       <title><![CDATA[OpenAI completes shift to becoming for-profit]]></title>
       <description><![CDATA[The deal will see long term investor Microsoft retain a 27% stake in the ChatGPT-maker.]]></description>
       <link>https://www.bbc.com/news/articles/cvgv38py7ewo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgv38py7ewo</guid>
       <pubDate>Tue, 28 Oct 2025 19:36:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8617/live/cef57eb0-b41a-11f0-b2a1-6f537f66f9aa.jpg"/>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1a4/live/da4c3190-b4a7-11f0-9d53-a12c5a1c60f2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Turing AI Institute boss denies accusations of 'toxic internal culture']]></title>
@@ -262,14 +270,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cpd2qv58yl5o</guid>
       <pubDate>Wed, 15 Oct 2025 11:22:42 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55e3/live/ab2ee790-a949-11f0-9ed6-59ec7d3b0c12.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin worth $14bn seized in US-UK crackdown on alleged scammers]]></title>
-      <description><![CDATA[The UK has also frozen assets linked to the alleged scammers, including a £100m London office building.]]></description>
-      <link>https://www.bbc.com/news/articles/c70jw436n0yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c70jw436n0yo</guid>
-      <pubDate>Wed, 15 Oct 2025 03:51:04 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f66/live/85395ba0-a972-11f0-81f4-2fecc5290ee1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Can the plastic recycling industry be saved?]]></title>
