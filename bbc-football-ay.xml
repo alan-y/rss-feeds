@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 18:32:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 18:57:21 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -89,14 +89,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a1f/live/e13f4ec0-b4dd-11f0-b31a-d15d08f211be.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Paqueta wants to leave West Ham - Wednesday's gossip]]></title>
-      <description><![CDATA[Lucas Paqueta wants to leave West Ham, Tottenham are keen on Scott McTominay, Napoli will make another attempt to sign Kobbie Mainoo, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c397dv3mv41o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c397dv3mv41o</guid>
-      <pubDate>Tue, 28 Oct 2025 22:32:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/412f/live/6ce73010-b44c-11f0-ba75-093eca1ac29b.png"/>
-    </item>
-    <item>
       <title><![CDATA[Wiegman 'not very positive' about Agyemang injury]]></title>
       <description><![CDATA[England manager Sarina Wiegman says she is "not very positive" about Michelle Agyemang's injury after the forward was carried off on a stretcher during their friendly win against Australia.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cvgkvz3g808o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -137,6 +129,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a1/live/16555560-b406-11f0-a6f4-9daf525f5af5.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Paqueta wants to leave West Ham - Wednesday's gossip]]></title>
+      <description><![CDATA[Lucas Paqueta wants to leave West Ham, Tottenham are keen on Scott McTominay, Napoli will make another attempt to sign Kobbie Mainoo, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c397dv3mv41o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c397dv3mv41o</guid>
+      <pubDate>Tue, 28 Oct 2025 22:32:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/412f/live/6ce73010-b44c-11f0-ba75-093eca1ac29b.png"/>
+    </item>
+    <item>
       <title><![CDATA[Why are teams making substitutions in the first minute of matches?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team explains why clubs in the National League Cup are making substitutions in the first minute of games]]></description>
       <link>https://www.bbc.com/sport/football/articles/c1k0z2mvw1do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -167,14 +167,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y9335le28o</guid>
       <pubDate>Wed, 29 Oct 2025 06:29:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7270/live/e2479210-b450-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Rodgers v Desmond: Analysing the Celtic fallout]]></title>
-      <description><![CDATA[BBC Sport Scotland's chief sportswriter Tom English breaks down the public statements of Dermot Desmond and Brendan Rodgers to try to get to the bottom of the claims and counter-claims at Celtic.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cze6r1yd31po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cze6r1yd31po</guid>
-      <pubDate>Tue, 28 Oct 2025 17:10:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a759/live/cd05c730-b41b-11f0-8af8-23f34058d4bc.jpg"/>
     </item>
     <item>
       <title><![CDATA[De Bruyne has surgery after penalty thigh injury]]></title>
@@ -241,6 +233,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7ee/live/e5e29ed0-addc-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Rodgers v Desmond: Analysing the Celtic fallout]]></title>
+      <description><![CDATA[BBC Sport Scotland's chief sportswriter Tom English breaks down the public statements of Dermot Desmond and Brendan Rodgers to try to get to the bottom of the claims and counter-claims at Celtic.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cze6r1yd31po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cze6r1yd31po</guid>
+      <pubDate>Tue, 28 Oct 2025 17:10:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a759/live/cd05c730-b41b-11f0-8af8-23f34058d4bc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Footballer's skull fractured in spectator attack]]></title>
+      <description><![CDATA[Ormskirk West End player Richard Agbasoga was seriously hurt in after Saturday's attack. ]]></description>
+      <link>https://www.bbc.com/news/articles/cvgm3v3pggvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgm3v3pggvo</guid>
+      <pubDate>Wed, 29 Oct 2025 18:02:07 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95b2/live/9ad7d510-b4e2-11f0-9b0a-c9e5d8b8c3a9.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Awful moment' as Agyemang is carried off injured]]></title>
       <description><![CDATA[England striker Michelle Agyemang is carried off on a stretcher after an off-the-ball injury in the Lionesses' 3-0 win against Australia.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2nqqe5zdzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -297,14 +305,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db73/live/a99aeb50-b424-11f0-b2a1-6f537f66f9aa.png"/>
     </item>
     <item>
-      <title><![CDATA[Four-goal Rotherham floor Man City in EFL Trophy]]></title>
-      <description><![CDATA[Rotherham United scored four goals against Manchester City Under-21 on a night when Premier League clubs suffered in the EFL Trophy.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cyv8j2g5dp2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv8j2g5dp2o</guid>
-      <pubDate>Tue, 28 Oct 2025 22:39:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5068/live/c5cd13e0-b445-11f0-a22b-d7545a1d4b2b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Playing England 'will feel like revenge game' for Australia]]></title>
       <description><![CDATA[Ella Toone says Tuesday's friendly against Australia "will feel like a revenge game for them" after England beat the Matildas in the 2023 World Cup semi-final in Sydney.]]></description>
       <link>https://www.bbc.com/sport/videos/cx2pk48wpgxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -353,6 +353,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8343/live/69d7c240-b401-11f0-8c1c-ab1fe11583d1.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Four-goal Rotherham floor Man City in EFL Trophy]]></title>
+      <description><![CDATA[Rotherham United scored four goals against Manchester City Under-21 on a night when Premier League clubs suffered in the EFL Trophy.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cyv8j2g5dp2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv8j2g5dp2o</guid>
+      <pubDate>Tue, 28 Oct 2025 22:39:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5068/live/c5cd13e0-b445-11f0-a22b-d7545a1d4b2b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[When is the Carabao Cup quarter-final draw?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team looks at when the quarter-final draw for the 2025-26 EFL Cup campaign is taking place]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy0y89zp9k6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -375,14 +383,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ydg19q4d3o</guid>
       <pubDate>Wed, 29 Oct 2025 09:30:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a8e/live/5c9c4a50-b4a7-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Reading appoint Richardson as new manager]]></title>
-      <description><![CDATA[Reading appoint Leam Richardson as their new manager following the departure of former boss Noel Hunt last weekend. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgk49gnxv2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgk49gnxv2o</guid>
-      <pubDate>Tue, 28 Oct 2025 16:53:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de9e/live/37d1e810-b3f8-11f0-8a73-9546208e839e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Villa took advantage of unexpected Man City team selection - Murphy]]></title>
