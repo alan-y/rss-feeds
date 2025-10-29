@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 12:39:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 13:22:09 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Character.ai to ban teens from talking to its AI chatbots]]></title>
+      <description><![CDATA[The AI chatbot app, which has millions of users, said it was responding to parents and regulators.]]></description>
+      <link>https://www.bbc.com/news/articles/cq837y3v9y1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq837y3v9y1o</guid>
+      <pubDate>Wed, 29 Oct 2025 13:01:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f52e/live/2fbde760-b40b-11f0-9609-7d49184f8e16.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Amazon confirms 14,000 job losses in corporate division]]></title>
       <description><![CDATA[The company says the opportunities provided by AI means it  needs to be "organised more leanly."]]></description>
@@ -262,14 +270,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0vzegkqweo</guid>
       <pubDate>Sat, 11 Oct 2025 23:04:50 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3d/live/8c591970-a44a-11f0-8a21-ff96e44d1cc2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[ChatGPT will soon allow erotica for verified adults, says OpenAI boss ]]></title>
-      <description><![CDATA[CEO Sam Altman says upcoming versions of the popular chatbot would enable it to behave in a more human-like way  - "but only if you want it".]]></description>
-      <link>https://www.bbc.com/news/articles/cpd2qv58yl5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cpd2qv58yl5o</guid>
-      <pubDate>Wed, 15 Oct 2025 11:22:42 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55e3/live/ab2ee790-a949-11f0-9ed6-59ec7d3b0c12.jpg"/>
     </item>
     <item>
       <title><![CDATA[Can the plastic recycling industry be saved?]]></title>
