@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 21:19:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 21:32:49 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -169,6 +169,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c2b/live/1ed9a5a0-b457-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Footballer's skull fractured in spectator attack]]></title>
+      <description><![CDATA[Ormskirk West End player Richard Agbasoga was seriously hurt in after Saturday's attack. ]]></description>
+      <link>https://www.bbc.com/news/articles/cvgm3v3pggvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgm3v3pggvo</guid>
+      <pubDate>Wed, 29 Oct 2025 18:02:07 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95b2/live/9ad7d510-b4e2-11f0-9b0a-c9e5d8b8c3a9.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Vote for your BBC Women's Footballer of the Year]]></title>
       <description><![CDATA[Voting for the BBC Women's Footballer of the Year 2025 award is now open.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn7el7zx2xzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -241,14 +249,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7270/live/e2479210-b450-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Footballer's skull fractured in spectator attack]]></title>
-      <description><![CDATA[Ormskirk West End player Richard Agbasoga was seriously hurt in after Saturday's attack. ]]></description>
-      <link>https://www.bbc.com/news/articles/cvgm3v3pggvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgm3v3pggvo</guid>
-      <pubDate>Wed, 29 Oct 2025 18:02:07 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95b2/live/9ad7d510-b4e2-11f0-9b0a-c9e5d8b8c3a9.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Awful moment' as Agyemang is carried off injured]]></title>
       <description><![CDATA[England striker Michelle Agyemang is carried off on a stretcher after an off-the-ball injury in the Lionesses' 3-0 win against Australia.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2nqqe5zdzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -273,14 +273,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2db7/live/299a0bf0-b4e4-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[McCabe had 'goosebumps' after late Larkin winner]]></title>
-      <description><![CDATA[Katie McCabe says she had "goosebumps" from Abbie Larkin's 90th-minute winner in Belgium as the Republic of Ireland earned promotion to League A.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1d0xx6w7pvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1d0xx6w7pvo</guid>
-      <pubDate>Wed, 29 Oct 2025 07:23:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7de4/live/e01b2710-b44e-11f0-84dc-85b6c0774194.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Late Larkin winner 'one of the best feelings']]></title>
       <description><![CDATA[Republic of Ireland's Abbie Larkin says scoring the winning goal in their Nations League play-off tie with Belgium was "one of the best feelings" in a 5-4 aggregate win.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2pxx41x4go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -289,12 +281,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c55/live/c2ce4740-b44f-11f0-84dc-85b6c0774194.jpg"/>
     </item>
     <item>
+      <title><![CDATA[McCabe had 'goosebumps' after late Larkin winner]]></title>
+      <description><![CDATA[Katie McCabe says she had "goosebumps" from Abbie Larkin's 90th-minute winner in Belgium as the Republic of Ireland earned promotion to League A.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1d0xx6w7pvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1d0xx6w7pvo</guid>
+      <pubDate>Wed, 29 Oct 2025 07:23:01 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7de4/live/e01b2710-b44e-11f0-84dc-85b6c0774194.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Season of the set-piece - how open-play goals are falling out of fashion]]></title>
       <description><![CDATA[Set-piece goals have been the story of the Premier League this season. BBC Sport examines their increasing importance.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c781zwgx419o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c781zwgx419o</guid>
       <pubDate>Tue, 28 Oct 2025 15:21:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae9b/live/673da050-b40a-11f0-82d7-192373518099.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Trafford will be England keeper 'sooner or later']]></title>
+      <description><![CDATA[Manchester City goalkeeper James Trafford will become England's number one "sooner or later", says boss Pep Guardiola.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly13z02v2lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly13z02v2lo</guid>
+      <pubDate>Tue, 28 Oct 2025 13:49:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8343/live/69d7c240-b401-11f0-8c1c-ab1fe11583d1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Playing England 'will feel like revenge game' for Australia]]></title>
@@ -337,14 +345,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d99/live/ff85c270-b2bb-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Trafford will be England keeper 'sooner or later']]></title>
-      <description><![CDATA[Manchester City goalkeeper James Trafford will become England's number one "sooner or later", says boss Pep Guardiola.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly13z02v2lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly13z02v2lo</guid>
-      <pubDate>Tue, 28 Oct 2025 13:49:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8343/live/69d7c240-b401-11f0-8c1c-ab1fe11583d1.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Four-goal Rotherham floor Man City in EFL Trophy]]></title>
       <description><![CDATA[Rotherham United scored four goals against Manchester City Under-21 on a night when Premier League clubs suffered in the EFL Trophy.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cyv8j2g5dp2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -383,6 +383,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2pk40j2w8o</guid>
       <pubDate>Wed, 29 Oct 2025 07:13:43 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db73/live/a99aeb50-b424-11f0-b2a1-6f537f66f9aa.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Ifab discusses countdown on throw-ins & goal-kicks]]></title>
+      <description><![CDATA[The Ifab - football's lawmakers - has discussed placing a countdown on throw-ins and goal-kicks to stop timewasting.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5y937493n2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y937493n2o</guid>
+      <pubDate>Tue, 28 Oct 2025 20:13:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6122/live/f01fc420-b437-11f0-9e39-77de2599e695.jpg"/>
     </item>
     <item>
       <title><![CDATA[Villa took advantage of unexpected Man City team selection - Murphy]]></title>
