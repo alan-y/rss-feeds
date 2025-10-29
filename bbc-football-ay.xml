@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 09:21:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 09:40:19 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -144,14 +144,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c55/live/c2ce4740-b44f-11f0-84dc-85b6c0774194.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Four-goal Rotherham floor Man City in EFL Trophy]]></title>
-      <description><![CDATA[Rotherham United scored four goals against Manchester City Under-21 on a night when Premier League clubs suffered in the EFL Trophy.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cyv8j2g5dp2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv8j2g5dp2o</guid>
-      <pubDate>Tue, 28 Oct 2025 22:39:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5068/live/c5cd13e0-b445-11f0-a22b-d7545a1d4b2b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Delap returns as Chelsea aim to solve striker issues]]></title>
       <description><![CDATA[Liam Delap returns from injury against Wolves in the EFL Cup on Wednesday to a  Chelsea attack struggling to find consistency.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cglgn9p3615o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -216,6 +208,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7ee/live/e5e29ed0-addc-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Four-goal Rotherham floor Man City in EFL Trophy]]></title>
+      <description><![CDATA[Rotherham United scored four goals against Manchester City Under-21 on a night when Premier League clubs suffered in the EFL Trophy.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cyv8j2g5dp2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv8j2g5dp2o</guid>
+      <pubDate>Tue, 28 Oct 2025 22:39:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5068/live/c5cd13e0-b445-11f0-a22b-d7545a1d4b2b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Season of the set-piece - how open-play goals are falling out of fashion]]></title>
       <description><![CDATA[Set-piece goals have been the story of the Premier League this season. BBC Sport examines their increasing importance.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c781zwgx419o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -224,20 +224,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae9b/live/673da050-b40a-11f0-82d7-192373518099.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Trafford will be England keeper 'sooner or later']]></title>
-      <description><![CDATA[Manchester City goalkeeper James Trafford will become England's number one "sooner or later", says boss Pep Guardiola.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly13z02v2lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly13z02v2lo</guid>
-      <pubDate>Tue, 28 Oct 2025 13:49:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8343/live/69d7c240-b401-11f0-8c1c-ab1fe11583d1.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[O'Neill's back, Hibs v Rangers & flying Kyziridis ]]></title>
       <description><![CDATA[A tumultous 48 hours in Scottish football rolls on to Wednesday night as 10 of the Premiership's sides face off on what promises to be a blockbuster evening. Here is what to expect.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2pk40j2w8o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2pk40j2w8o</guid>
       <pubDate>Wed, 29 Oct 2025 07:13:43 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db73/live/a99aeb50-b424-11f0-b2a1-6f537f66f9aa.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Trafford will be England keeper 'sooner or later']]></title>
+      <description><![CDATA[Manchester City goalkeeper James Trafford will become England's number one "sooner or later", says boss Pep Guardiola.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly13z02v2lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly13z02v2lo</guid>
+      <pubDate>Tue, 28 Oct 2025 13:49:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8343/live/69d7c240-b401-11f0-8c1c-ab1fe11583d1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Former Bristol City forward Brown dies aged 42]]></title>
@@ -262,14 +262,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwvy22gp5yo</guid>
       <pubDate>Tue, 28 Oct 2025 10:31:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9638/live/0ad081d0-b422-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Reading appoint Richardson as new manager]]></title>
-      <description><![CDATA[Reading appoint Leam Richardson as their new manager following the departure of former boss Noel Hunt last weekend. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgk49gnxv2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgk49gnxv2o</guid>
-      <pubDate>Tue, 28 Oct 2025 16:53:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de9e/live/37d1e810-b3f8-11f0-8a73-9546208e839e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch Rodgers' last interview as Celtic manager]]></title>
@@ -320,6 +312,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/476ddda0-b3f4-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Reading appoint Richardson as new manager]]></title>
+      <description><![CDATA[Reading appoint Leam Richardson as their new manager following the departure of former boss Noel Hunt last weekend. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgk49gnxv2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgk49gnxv2o</guid>
+      <pubDate>Tue, 28 Oct 2025 16:53:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de9e/live/37d1e810-b3f8-11f0-8a73-9546208e839e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Rangers have 'big belief' after Rohl's first win]]></title>
       <description><![CDATA[Rangers head coach Danny Rohl says his squad now have "big belief" after the first win of his tenure against Kilmarnock.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwy71gx27deo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -350,14 +350,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3x50q7513o</guid>
       <pubDate>Tue, 28 Oct 2025 14:52:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f48/live/4d7c6a30-b409-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sunderland fans in 'dreamworld' led by 'nice guy' Le Bris]]></title>
-      <description><![CDATA[Sunderland are defying expectations this season, but who is the manager behind their impressive Premier League start?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy7envzn722o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy7envzn722o</guid>
-      <pubDate>Tue, 28 Oct 2025 08:27:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19aa/live/0bb931d0-b32a-11f0-9c26-756530926d22.jpg"/>
     </item>
     <item>
       <title><![CDATA['Pragmatic' Spurs approach can change when players return - analysis]]></title>
