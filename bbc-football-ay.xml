@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 10:42:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 11:16:52 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,20 +48,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c634/live/dc4fc520-b528-11f0-ae5b-51151e53ed18.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Holders Newcastle host Fulham in EFL quarters;  Cardiff face Chelsea]]></title>
-      <description><![CDATA[Newcastle draw Fulham in the Carabao Cup quarter-finals, while League One side Cardiff City host Chelsea.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy8vj865dqxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8vj865dqxo</guid>
-      <pubDate>Wed, 29 Oct 2025 22:43:10 GMT</pubDate>
-      <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28c9/live/70b34140-b512-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Something special' - Dowman makes history for Arsenal]]></title>
-      <description><![CDATA[Another day, another record for 15-year-old Max Dowman. But Arsenal's teenage prodigy is taking everything in his stride, according to his manager Mikel Arteta.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy8v5xexgnyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8v5xexgnyo</guid>
-      <pubDate>Thu, 30 Oct 2025 00:07:38 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d1d/live/d504fc20-b520-11f0-aa13-0b0479f6f42a.jpg"/>
+      <title><![CDATA[Palace face four games in eight days]]></title>
+      <description><![CDATA[Crystal Palace are set to play Manchester City, Arsenal, KuPS and Leeds in an eight-day spell in December after reaching the Carabao Cup quarter-finals.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly19qp89vvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly19qp89vvo</guid>
+      <pubDate>Thu, 30 Oct 2025 11:07:44 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a40f/live/e8ff1a10-b57c-11f0-846c-c5e20f0b86ee.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Thiaw became Newcastle's 'mentality monster']]></title>
@@ -70,6 +62,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c17pw2edygpo</guid>
       <pubDate>Thu, 30 Oct 2025 06:40:49 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e4f/live/bc6bf300-b406-11f0-a6f4-9daf525f5af5.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Eze & Mbeumo to continue fine form - FPL team of week]]></title>
+      <description><![CDATA[There's a triple-up on Arsenal again as their imperious defence travels to promoted Burnley, while Bryan Mbeumo should continue to thrive at Nottingham Forest in the FPL team of the week.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd9kj083n0no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9kj083n0no</guid>
+      <pubDate>Thu, 30 Oct 2025 09:29:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1585/live/8021f4d0-b4d8-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Roma want Zirkzee in January - Thursday's gossip]]></title>
@@ -144,20 +144,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64fa/live/7b3d12f0-b349-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Holders Newcastle host Fulham in EFL quarters;  Cardiff face Chelsea]]></title>
+      <description><![CDATA[Newcastle draw Fulham in the Carabao Cup quarter-finals, while League One side Cardiff City host Chelsea.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy8vj865dqxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8vj865dqxo</guid>
+      <pubDate>Wed, 29 Oct 2025 22:43:10 GMT</pubDate>
+      <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28c9/live/70b34140-b512-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Something special' - Dowman makes history for Arsenal]]></title>
+      <description><![CDATA[Another day, another record for 15-year-old Max Dowman. But Arsenal's teenage prodigy is taking everything in his stride, according to his manager Mikel Arteta.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy8v5xexgnyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8v5xexgnyo</guid>
+      <pubDate>Thu, 30 Oct 2025 00:07:38 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d1d/live/d504fc20-b520-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Very stupid' red cards are 'embarrassing' - Maresca]]></title>
       <description><![CDATA[Chelsea manager Enzo Maresca fumes after his side get their sixth red card in nine matches despite a 4-3 win away at Wolves in the EFL Cup. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy9p87y4px5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy9p87y4px5o</guid>
       <pubDate>Wed, 29 Oct 2025 23:52:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f55/live/45582910-b51d-11f0-8a63-4fd0694dd952.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Eze & Mbeumo to continue fine form - FPL team of week]]></title>
-      <description><![CDATA[There's a triple-up on Arsenal again as their imperious defence travels to promoted Burnley, while Bryan Mbeumo should continue to thrive at Nottingham Forest in the FPL team of the week.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd9kj083n0no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9kj083n0no</guid>
-      <pubDate>Thu, 30 Oct 2025 09:29:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1585/live/8021f4d0-b4d8-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA['Tactically disciplined' Rangers 'ready' for Celtic]]></title>
@@ -176,12 +184,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e941/live/e15cf0a0-b524-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Real seek 'substantial damages' over Super League ruling]]></title>
-      <description><![CDATA[Real Madrid will seek "substantial damages" from Uefa after European football's governing body lost a court appeal over the failed European Super League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly4j5qx5qjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly4j5qx5qjo</guid>
-      <pubDate>Wed, 29 Oct 2025 14:34:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58f1/live/d3ce2da0-b4cf-11f0-ae37-2fc53b10a225.jpg"/>
+      <title><![CDATA[McDonnell forges ahead as a 'throwback' in football]]></title>
+      <description><![CDATA[BBC Sport looks at why Jamie McDonnell's old-school style has made the Nottingham Forest loanee an instant hit at Mansfield Town.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0l76rn2xrpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0l76rn2xrpo</guid>
+      <pubDate>Thu, 30 Oct 2025 10:21:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e52/live/dd06caa0-b4dc-11f0-b31a-d15d08f211be.jpg"/>
     </item>
     <item>
       <title><![CDATA[Women's Footballer of the Year contender Guijarro]]></title>
@@ -248,6 +256,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc6/live/63aa3f20-b4b4-11f0-b245-913f6e55314b.png"/>
     </item>
     <item>
+      <title><![CDATA[Real seek 'substantial damages' over Super League ruling]]></title>
+      <description><![CDATA[Real Madrid will seek "substantial damages" from Uefa after European football's governing body lost a court appeal over the failed European Super League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly4j5qx5qjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly4j5qx5qjo</guid>
+      <pubDate>Wed, 29 Oct 2025 14:34:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58f1/live/d3ce2da0-b4cf-11f0-ae37-2fc53b10a225.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Proud' Oxtoby says NI can improve after play-off loss]]></title>
       <description><![CDATA[Northern Ireland manager Tanya Oxtoby says there are "areas we can really improve" but she is "proud" of her players in the Nations League play-off defeat by Iceland.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c14pg4yynxgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -262,14 +278,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yp48lelkjo</guid>
       <pubDate>Wed, 29 Oct 2025 23:14:13 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88f8/live/1ddf4a90-b51c-11f0-8a63-4fd0694dd952.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Footballer's skull fractured in spectator attack]]></title>
-      <description><![CDATA[Ormskirk West End player Richard Agbasoga was seriously hurt in after Saturday's attack. ]]></description>
-      <link>https://www.bbc.com/news/articles/cvgm3v3pggvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgm3v3pggvo</guid>
-      <pubDate>Wed, 29 Oct 2025 18:02:07 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95b2/live/9ad7d510-b4e2-11f0-9b0a-c9e5d8b8c3a9.jpg"/>
     </item>
     <item>
       <title><![CDATA[History maker Cureton on playing football at 50 ]]></title>
@@ -312,6 +320,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10c7/live/895eca10-b441-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Footballer's skull fractured in spectator attack]]></title>
+      <description><![CDATA[Ormskirk West End player Richard Agbasoga was seriously hurt in after Saturday's attack. ]]></description>
+      <link>https://www.bbc.com/news/articles/cvgm3v3pggvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgm3v3pggvo</guid>
+      <pubDate>Wed, 29 Oct 2025 18:02:07 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95b2/live/9ad7d510-b4e2-11f0-9b0a-c9e5d8b8c3a9.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How Arsenal are looking to improve their atmosphere]]></title>
       <description><![CDATA[Arsenal are enjoying an excellent start to the season but concerns remain about the atmosphere at Emirates Stadium. So what are they doing about it?
 ]]></description>
@@ -335,22 +351,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly9472r5dpo</guid>
       <pubDate>Wed, 29 Oct 2025 15:59:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a1f/live/e13f4ec0-b4dd-11f0-b31a-d15d08f211be.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Peterborough name ex-Swans boss Williams as manager]]></title>
-      <description><![CDATA[Peterborough United appoint former Swansea City boss Luke Williams as their new manager on a two-and-a-half-year contract.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1k080x70pdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1k080x70pdo</guid>
-      <pubDate>Wed, 29 Oct 2025 18:03:44 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/581b/live/4943ccb0-b4d1-11f0-b31a-d15d08f211be.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[De Bruyne has surgery after penalty thigh injury]]></title>
-      <description><![CDATA[Napoli midfielder Kevin de Bruyne is set for a lengthy spell on the sidelines after undergoing surgery on the thigh injury he sustained while scoring a penalty against Inter Milan.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn09qyv027qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn09qyv027qo</guid>
-      <pubDate>Wed, 29 Oct 2025 14:57:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b00/live/86d92d80-b379-11f0-a625-3b97004255b9.jpg"/>
     </item>
     <item>
       <title><![CDATA[Quality and consistency of delivery key for Arsenal - Walcott]]></title>
