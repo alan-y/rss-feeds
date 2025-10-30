@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 14:20:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 14:42:00 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Health officials worried as flu season comes early]]></title>
+      <description><![CDATA[UK Health Security Agency urges people to get vaccinated with cases on the rise.]]></description>
+      <link>https://www.bbc.com/news/articles/c20pe6llg2zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c20pe6llg2zo</guid>
+      <pubDate>Thu, 30 Oct 2025 14:35:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6053/live/05e36680-b59c-11f0-99a1-9f4dd3d6a1a3.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Illegal teeth-whitening industry exposed by BBC ]]></title>
       <description><![CDATA[A BBC investigation finds kits on sale containing more than 500 times the legal limit of bleach. ]]></description>
@@ -64,14 +72,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f62f/live/846a1940-13cb-11f0-bf82-cb6aee90e3a2.jpg"/>
     </item>
     <item>
-      <title><![CDATA['My wife died in childbirth but wasn't told she'd been given labour drug overdose']]></title>
-      <description><![CDATA[Jacqui Hunter died less than 24 hours after being told that her daughter had died in the womb.]]></description>
-      <link>https://www.bbc.com/news/articles/cx24gk2x51xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx24gk2x51xo</guid>
-      <pubDate>Tue, 28 Oct 2025 06:08:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b46/live/72918f00-b321-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['New birth advice change is our girl's lasting legacy']]></title>
       <description><![CDATA[A mum says she was not warned of the potentially life-threatening risks of a uterine rupture.]]></description>
       <link>https://www.bbc.com/news/articles/ckgyre4l9r1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -86,6 +86,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0g27j01p5o</guid>
       <pubDate>Thu, 30 Oct 2025 06:05:43 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97bd/live/324e74e0-b4dd-11f0-b31a-d15d08f211be.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['My wife died in childbirth but wasn't told she'd been given labour drug overdose']]></title>
+      <description><![CDATA[Jacqui Hunter died less than 24 hours after being told that her daughter had died in the womb.]]></description>
+      <link>https://www.bbc.com/news/articles/cx24gk2x51xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx24gk2x51xo</guid>
+      <pubDate>Tue, 28 Oct 2025 06:08:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b46/live/72918f00-b321-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Reports of OCD among under-25s triple in 10 years]]></title>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cddm1lrjy7lo</guid>
       <pubDate>Tue, 14 Oct 2025 05:23:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d90/live/eca169d0-a5f4-11f0-af09-bf7f0464c1dc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Alarming number of people now vape, says WHO]]></title>
-      <description><![CDATA[More than 100 million people, including at least 15 million children, use e-cigarettes, fuelling a new wave of nicotine addiction, say experts.]]></description>
-      <link>https://www.bbc.com/news/articles/c1kwxjzeez3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kwxjzeez3o</guid>
-      <pubDate>Mon, 06 Oct 2025 12:34:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0150/live/57488580-a2bb-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[What is Mpox and why are cases rising in Europe?]]></title>
