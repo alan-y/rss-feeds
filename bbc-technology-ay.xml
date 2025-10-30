@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 09:20:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 09:38:49 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[First UK phones to get satellite connectivity in signal blackspots announced]]></title>
+      <description><![CDATA[Virgin Media O2 has partnered with Elon Musk firm Starlink to offer the service.]]></description>
+      <link>https://www.bbc.com/news/articles/c993m88jer9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c993m88jer9o</guid>
+      <pubDate>Thu, 30 Oct 2025 07:31:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d5/live/f99c1070-b56e-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Websites disabled in Microsoft global outage come back online]]></title>
       <description><![CDATA[Microsoft 365 and its Azure cloud computing platform were hit with DNS issues, similar to the recent AWS outage.]]></description>
@@ -262,14 +270,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cx24d4xjzj3o</guid>
       <pubDate>Fri, 17 Oct 2025 03:20:26 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/422a/live/8e7dd700-ab15-11f0-ae97-7709fd0f3934.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Spotify working on AI music tools with major record labels]]></title>
-      <description><![CDATA[The streaming service says it will respect artists' rights in creating new "responsible" AI products.]]></description>
-      <link>https://www.bbc.com/news/articles/cn7emv83edjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn7emv83edjo</guid>
-      <pubDate>Thu, 16 Oct 2025 16:48:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8923/live/a24dad80-aaa9-11f0-8051-295629adf78e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Can the plastic recycling industry be saved?]]></title>
