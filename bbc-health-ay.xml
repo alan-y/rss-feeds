@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 10:22:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 10:42:51 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,6 +40,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a9f/live/3a98a5f0-b4b8-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Widower backs new pancreatic cancer breath trial]]></title>
+      <description><![CDATA[The test detects compounds in the breath which are detectable in cancer patients, say scientists.]]></description>
+      <link>https://www.bbc.com/news/articles/cp85z27z3l5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp85z27z3l5o</guid>
+      <pubDate>Wed, 29 Oct 2025 06:24:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c372/live/2110c700-b401-11f0-a3e9-61b7e2322fd4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Skip short strolls – a longer daily walk is better for your heart, says study ]]></title>
       <description><![CDATA[Walking for at least 15 minutes without stopping is ideal, according to new research.]]></description>
       <link>https://www.bbc.com/news/articles/cn0gw6p8dllo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -64,12 +72,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b46/live/72918f00-b321-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What is Mpox and why are cases rising in Europe?]]></title>
-      <description><![CDATA[UK health officials are encouraging gay, bisexual and other men who have sex with men to be vaccinated.]]></description>
-      <link>https://www.bbc.com/news/articles/cp856rvv41eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp856rvv41eo</guid>
-      <pubDate>Mon, 27 Oct 2025 16:38:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f941/live/df2ce440-b342-11f0-9ae5-dfa34b074568.jpg"/>
+      <title><![CDATA[Cancer survivors say their concerns were dismissed]]></title>
+      <description><![CDATA[Two women who had breast cancer say their concerns were dismissed by doctors at first.]]></description>
+      <link>https://www.bbc.com/news/articles/cn0g27j01p5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0g27j01p5o</guid>
+      <pubDate>Thu, 30 Oct 2025 06:05:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97bd/live/324e74e0-b4dd-11f0-b31a-d15d08f211be.jpg"/>
     </item>
     <item>
       <title><![CDATA[Reports of OCD among under-25s triple in 10 years]]></title>
@@ -224,12 +232,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/167b/live/252b1e00-a6cb-11f0-bf22-9df87c17cee5.jpg"/>
     </item>
     <item>
-      <title><![CDATA[First-year resident doctors back strike action over jobs shortage]]></title>
-      <description><![CDATA[British Medical Association say 30,000 medics were chasing 10,000 jobs this year.]]></description>
-      <link>https://www.bbc.com/news/articles/cly147075p2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly147075p2o</guid>
-      <pubDate>Mon, 06 Oct 2025 18:51:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b567/live/b3b82fb0-a2dd-11f0-b741-177e3e2c2fc7.jpg"/>
+      <title><![CDATA[What is Mpox and why are cases rising in Europe?]]></title>
+      <description><![CDATA[UK health officials are encouraging gay, bisexual and other men who have sex with men to be vaccinated.]]></description>
+      <link>https://www.bbc.com/news/articles/cp856rvv41eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp856rvv41eo</guid>
+      <pubDate>Mon, 27 Oct 2025 16:38:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f941/live/df2ce440-b342-11f0-9ae5-dfa34b074568.jpg"/>
     </item>
     <item>
       <title><![CDATA[Magnesium: Can this 'miracle mineral' really help us sleep?]]></title>
@@ -382,14 +390,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg964v18l6o</guid>
       <pubDate>Sun, 14 Sep 2025 05:06:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/334c/live/195bb090-8fb4-11f0-9cf6-cbf3e73ce2b9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why the world is watching RFK's fight with US health agency]]></title>
-      <description><![CDATA[The US health secretary's plans could have a huge impact on health policy not just in the US, but across the globe.]]></description>
-      <link>https://www.bbc.com/news/articles/c62ngkpxk9lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c62ngkpxk9lo</guid>
-      <pubDate>Sat, 06 Sep 2025 00:24:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5db9/live/054073e0-8a67-11f0-b758-393fbf15c843.jpg"/>
     </item>
     <item>
       <title><![CDATA[What is chickenpox and how can I get my child vaccinated?]]></title>
