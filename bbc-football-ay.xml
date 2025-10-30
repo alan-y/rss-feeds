@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 15:43:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 16:23:59 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Do Liverpool fans think Slot is under pressure?]]></title>
+      <description><![CDATA[After six defeats in their past seven games, BBC Sport spoke to Liverpool fans to find out what's going on this season and how they feel towards manager Arne Slot.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c98nepg5wwdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98nepg5wwdo</guid>
+      <pubDate>Thu, 30 Oct 2025 16:11:05 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b2/live/a2ba48f0-b594-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
     <item>
       <title><![CDATA[How Kane's NFL dream could become a reality]]></title>
       <description><![CDATA[Former Kansas City Chiefs punter Dustin Colquitt tells BBC Sport why he thinks England football captain Harry Kane can fulfil his dream of becoming an NFL kicker.]]></description>
@@ -32,12 +40,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dab/live/076fea00-b588-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Slot 'making excuses' - but should he have rested key players?]]></title>
-      <description><![CDATA[Arne Slot got very little wrong as he guided Liverpool to the Premier League title in his first season in charge - but it is a very different story in the second.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2l7n0ppkzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2l7n0ppkzo</guid>
-      <pubDate>Thu, 30 Oct 2025 00:14:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f082/live/13601b70-b51d-11f0-8a63-4fd0694dd952.jpg"/>
+      <title><![CDATA[McKenna claims 'no conversations' about Celtic job]]></title>
+      <description><![CDATA[Kieran McKenna describes Celtic as "a really big football club" but says he has had "no conversations" with the Scottish champions about their managerial vacancy and stressed he is "in the middle" of a "long-term project" with Ipswich Town.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gwzqzy185o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gwzqzy185o</guid>
+      <pubDate>Thu, 30 Oct 2025 16:03:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/932c/live/fdc801e0-b5a5-11f0-8833-43b4d09dd0bc.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Haaland prompted a debate on drinking raw milk]]></title>
@@ -144,6 +152,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a439/live/5f5ef560-b3fa-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Slot 'making excuses' - but should he have rested key players?]]></title>
+      <description><![CDATA[Arne Slot got very little wrong as he guided Liverpool to the Premier League title in his first season in charge - but it is a very different story in the second.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2l7n0ppkzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2l7n0ppkzo</guid>
+      <pubDate>Thu, 30 Oct 2025 00:14:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f082/live/13601b70-b51d-11f0-8a63-4fd0694dd952.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Last chance to vote for your BBC Women's Footballer of the Year]]></title>
       <description><![CDATA[Vote now for the BBC Women's Footballer of the Year 2025, with the winner announced on 25 November.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn7el7zx2xzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -190,14 +206,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mx4rkw0pko</guid>
       <pubDate>Thu, 30 Oct 2025 13:07:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a067/live/a29618c0-b58c-11f0-84a5-1545866a5354.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Tactically disciplined' Rangers 'ready' for Celtic]]></title>
-      <description><![CDATA[After back-to-back wins Danny Rohl says his "tactically disciplined" side are "ready" to face Celtic in Sunday's League Cup semi-final. But how has he inspired a turnaround?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cjr05dzzv15o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjr05dzzv15o</guid>
-      <pubDate>Thu, 30 Oct 2025 00:32:28 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ad9/live/7bdd0310-b523-11f0-8acd-859e46bca792.jpg"/>
     </item>
     <item>
       <title><![CDATA[Women's Footballer of the Year contender Guijarro]]></title>
@@ -256,6 +264,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58d7/live/81f07f30-adc5-11f0-9704-87425431ad41.png"/>
     </item>
     <item>
+      <title><![CDATA['Tactically disciplined' Rangers 'ready' for Celtic]]></title>
+      <description><![CDATA[After back-to-back wins Danny Rohl says his "tactically disciplined" side are "ready" to face Celtic in Sunday's League Cup semi-final. But how has he inspired a turnaround?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cjr05dzzv15o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjr05dzzv15o</guid>
+      <pubDate>Thu, 30 Oct 2025 00:32:28 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ad9/live/7bdd0310-b523-11f0-8acd-859e46bca792.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who is in the Premier League's Hall of Fame?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team lists who has been included in the Premier League's Hall of Fame and how voting works.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/czxkw0dp9g9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czxkw0dp9g9o</guid>
+      <pubDate>Thu, 30 Oct 2025 16:16:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7fc/live/58d62a70-b57f-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Who are the leading candidates for the Celtic job?]]></title>
       <description><![CDATA[Since Brendan Rodgers resigned as Celtic manager on Monday, several candidates have emerged as the Northern Irishman's long-term successor.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c07mp2nry1zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -278,6 +302,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0l76rn2xrpo</guid>
       <pubDate>Thu, 30 Oct 2025 10:21:50 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e52/live/dd06caa0-b4dc-11f0-b31a-d15d08f211be.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Pressure is on Wilshire in FA Cup tie - Savage]]></title>
+      <description><![CDATA[Forest Green Rovers manager Robbie Savage said the pressure is on Luton Town and new boss Jack Wilshere when they meet in the FA Cup on Friday night. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz91jk3wqndo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz91jk3wqndo</guid>
+      <pubDate>Thu, 30 Oct 2025 15:41:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42e7/live/0e25c830-b59f-11f0-99a1-9f4dd3d6a1a3.png"/>
     </item>
     <item>
       <title><![CDATA[Pain of cup exit fuels Wrexham for Coventry test]]></title>
