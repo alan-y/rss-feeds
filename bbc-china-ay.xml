@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 11:45:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 12:39:04 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Trump hails 'amazing' meeting with China's Xi but no formal trade deal agreed ]]></title>
+      <description><![CDATA[The US president and his Chinese counterpart met face-to-face for the first time in six years.]]></description>
+      <link>https://www.bbc.com/news/articles/crl25xl1gjpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/crl25xl1gjpo</guid>
+      <pubDate>Thu, 30 Oct 2025 10:24:05 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2fd/live/2abe21b0-b575-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Xi and Trump find temporary truce as China plays longer game]]></title>
+      <description><![CDATA[Talks have helped to steady a rocky relationship between the world's top two economies - but the rivalry persists.]]></description>
+      <link>https://www.bbc.com/news/articles/c8eyx718pz2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8eyx718pz2o</guid>
+      <pubDate>Thu, 30 Oct 2025 11:54:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a07b/live/7ba67200-b58c-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Trade, tariffs and TikTok: Why it matters that Trump and Xi are talking again]]></title>
       <description><![CDATA[The two leaders met face-to-face for the first time in six years on Thursday.]]></description>
@@ -38,22 +54,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rj9pe0e1wo</guid>
       <pubDate>Mon, 27 Oct 2025 06:15:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f9a/live/10bd66d0-b2dd-11f0-808e-ffa6f7368537.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Trump hopes China will help push Russia towards Ukraine peace talks]]></title>
-      <description><![CDATA[Struggling to broker a peace deal in Ukraine, Trump hopes Xi Jinping could influence Vladimir Putin.]]></description>
-      <link>https://www.bbc.com/news/articles/cn51yk9vgrko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn51yk9vgrko</guid>
-      <pubDate>Sat, 25 Oct 2025 13:07:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5512/live/4f8ac910-b19e-11f0-b33e-69e560da4e1d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Trump will meet Xi in South Korea, says White House]]></title>
-      <description><![CDATA[It will be the first face-to-face meeting for both leaders since Trump's return to office.]]></description>
-      <link>https://www.bbc.com/news/articles/cjw9vy19qvgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cjw9vy19qvgo</guid>
-      <pubDate>Fri, 24 Oct 2025 05:00:38 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d10/live/10486ad0-b0a1-11f0-9ab4-6b547b84eb35.jpg"/>
     </item>
     <item>
       <title><![CDATA[China controls the rare earths the world buys - can Trump's new deals change that?]]></title>
@@ -86,14 +86,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cjr045x425vo</guid>
       <pubDate>Sun, 19 Oct 2025 22:46:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/876e/live/4f684680-ab07-11f0-baa3-6de9de658722.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[China has found Trump's pain point - rare earths]]></title>
-      <description><![CDATA[China holds a near-monopoly in the processing of the elements crucial for making everything from smartphones to fighter jets.]]></description>
-      <link>https://www.bbc.com/news/articles/ckg1jr18z4ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg1jr18z4ko</guid>
-      <pubDate>Fri, 17 Oct 2025 01:31:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0639/live/6c510820-ab18-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
   </channel>
 </rss>
