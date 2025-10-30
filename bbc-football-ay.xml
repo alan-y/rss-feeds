@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 16:23:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 16:54:04 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -41,7 +41,7 @@
     </item>
     <item>
       <title><![CDATA[McKenna claims 'no conversations' about Celtic job]]></title>
-      <description><![CDATA[Kieran McKenna describes Celtic as "a really big football club" but says he has had "no conversations" with the Scottish champions about their managerial vacancy and stressed he is "in the middle" of a "long-term project" with Ipswich Town.]]></description>
+      <description><![CDATA[Kieran McKenna describes Celtic as "a really big football club" but says he has had "no conversations" with the Scottish champions about their managerial vacancy.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4gwzqzy185o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gwzqzy185o</guid>
       <pubDate>Thu, 30 Oct 2025 16:03:56 GMT</pubDate>
@@ -72,6 +72,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c634/live/dc4fc520-b528-11f0-ae5b-51151e53ed18.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Man Utd won't rush Martinez return after injury]]></title>
+      <description><![CDATA[Manchester United defender Lisandro Martinez returns to training following knee surgery, but the club will not rush him back into the fold.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gwzzdr24do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gwzzdr24do</guid>
+      <pubDate>Thu, 30 Oct 2025 16:22:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd40/live/0cc87690-b5a9-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Palace face four games in eight days]]></title>
       <description><![CDATA[Crystal Palace are set to play Manchester City, Arsenal, KuPS and Leeds in an eight-day spell in December after reaching the Carabao Cup quarter-finals.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cly19qp89vvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9kj083n0no</guid>
       <pubDate>Thu, 30 Oct 2025 09:29:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1585/live/8021f4d0-b4d8-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Roma want Zirkzee in January - Thursday's gossip]]></title>
-      <description><![CDATA[Roma interested in Joshua Zirkzee, Crystal Palace considering Nathan Ake move and Saudi Pro League still wants Mohamed Salah.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c364jdr28k3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c364jdr28k3o</guid>
-      <pubDate>Wed, 29 Oct 2025 23:27:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8af0/live/19d7b6f0-b51a-11f0-ba75-093eca1ac29b.png"/>
     </item>
     <item>
       <title><![CDATA[Scholes stopped commentary work to care for son]]></title>
@@ -176,6 +176,14 @@
       <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f91/live/597f3bd0-b3f7-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Roma want Zirkzee in January - Thursday's gossip]]></title>
+      <description><![CDATA[Roma interested in Joshua Zirkzee, Crystal Palace considering Nathan Ake move and Saudi Pro League still wants Mohamed Salah.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c364jdr28k3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c364jdr28k3o</guid>
+      <pubDate>Wed, 29 Oct 2025 23:27:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8af0/live/19d7b6f0-b51a-11f0-ba75-093eca1ac29b.png"/>
+    </item>
+    <item>
       <title><![CDATA[Holders Newcastle host Fulham in EFL quarters;  Cardiff face Chelsea]]></title>
       <description><![CDATA[Newcastle draw Fulham in the Carabao Cup quarter-finals, while League One side Cardiff City host Chelsea.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy8vj865dqxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -190,14 +198,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8v5xexgnyo</guid>
       <pubDate>Thu, 30 Oct 2025 00:07:38 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d1d/live/d504fc20-b520-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ex-Premier League chief joins Bristol City board]]></title>
-      <description><![CDATA[Bristol City appoint former Premier League chief executive Richard Scudamore to the Championship club's board of directors. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqx3z2xn09lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqx3z2xn09lo</guid>
-      <pubDate>Thu, 30 Oct 2025 14:40:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c44/live/d0068f80-b599-11f0-99a1-9f4dd3d6a1a3.jpg"/>
     </item>
     <item>
       <title><![CDATA[WSL2 players eligible for PFA membership]]></title>
@@ -264,6 +264,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58d7/live/81f07f30-adc5-11f0-9704-87425431ad41.png"/>
     </item>
     <item>
+      <title><![CDATA[Ex-Premier League chief joins Bristol City board]]></title>
+      <description><![CDATA[Bristol City appoint former Premier League chief executive Richard Scudamore to the Championship club's board of directors. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqx3z2xn09lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqx3z2xn09lo</guid>
+      <pubDate>Thu, 30 Oct 2025 14:40:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c44/live/d0068f80-b599-11f0-99a1-9f4dd3d6a1a3.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Tactically disciplined' Rangers 'ready' for Celtic]]></title>
       <description><![CDATA[After back-to-back wins Danny Rohl says his "tactically disciplined" side are "ready" to face Celtic in Sunday's League Cup semi-final. But how has he inspired a turnaround?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cjr05dzzv15o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -312,20 +320,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42e7/live/0e25c830-b59f-11f0-99a1-9f4dd3d6a1a3.png"/>
     </item>
     <item>
-      <title><![CDATA[Pain of cup exit fuels Wrexham for Coventry test]]></title>
-      <description><![CDATA[Phil Parkinson hopes Wrexham can use the pain of their EFL Cup exit to Cardiff City as fuel for their mouthwatering contest with Championship leaders Coventry City on Friday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp85j65kdd8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp85j65kdd8o</guid>
-      <pubDate>Thu, 30 Oct 2025 14:07:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e6/live/09c259f0-b592-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Can resolute Hearts capitalise on window of opportunity?]]></title>
       <description><![CDATA[Hearts showed resilience to claim a point at St Mirren, but can they now build their lead over the next 10 days? ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c397rkwwe3jo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c397rkwwe3jo</guid>
       <pubDate>Thu, 30 Oct 2025 00:14:01 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e941/live/e15cf0a0-b524-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Pain of cup exit fuels Wrexham for Coventry test]]></title>
+      <description><![CDATA[Phil Parkinson hopes Wrexham can use the pain of their EFL Cup exit to Cardiff City as fuel for their mouthwatering contest with Championship leaders Coventry City on Friday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp85j65kdd8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp85j65kdd8o</guid>
+      <pubDate>Thu, 30 Oct 2025 14:07:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e6/live/09c259f0-b592-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Real seek 'substantial damages' over Super League ruling]]></title>
@@ -398,15 +406,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgm3v3pggvo</guid>
       <pubDate>Wed, 29 Oct 2025 18:02:07 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95b2/live/9ad7d510-b4e2-11f0-9b0a-c9e5d8b8c3a9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How Arsenal are looking to improve their atmosphere]]></title>
-      <description><![CDATA[Arsenal are enjoying an excellent start to the season but concerns remain about the atmosphere at Emirates Stadium. So what are they doing about it?
-]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpv10x9wekwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv10x9wekwo</guid>
-      <pubDate>Wed, 29 Oct 2025 10:49:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00bb/live/44d74770-b4a8-11f0-9d53-a12c5a1c60f2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Beever-Jones 'asking questions' - should she start for England?]]></title>
