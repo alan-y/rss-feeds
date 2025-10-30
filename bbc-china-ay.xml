@@ -10,18 +10,18 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 05:49:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 06:28:31 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
-      <title><![CDATA[China controls the rare earths the world buys - can Trump's new deals change that?]]></title>
-      <description><![CDATA[The agreements are a clear bid to reduce dependence on China, ahead of a key meeting with Xi Jinping.]]></description>
-      <link>https://www.bbc.com/news/articles/cj6ny24j0r3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj6ny24j0r3o</guid>
-      <pubDate>Tue, 28 Oct 2025 07:06:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df1e/live/b91328e0-b3f7-11f0-ba75-093eca1ac29b.jpg"/>
+      <title><![CDATA[Tit-for-tat tariffs, a shaky truce and turmoil: How we got to the Trump-Xi meeting]]></title>
+      <description><![CDATA[US President Donald Trump and Chinese leader Xi Jinping met on Thursday to discuss a trade deal.  ]]></description>
+      <link>https://www.bbc.com/news/articles/c986j98qmj1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c986j98qmj1o</guid>
+      <pubDate>Thu, 30 Oct 2025 04:57:05 GMT</pubDate>
+      <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8617/live/2a65dc40-b538-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[US and China agree framework of trade deal ahead of Trump-Xi meeting]]></title>
@@ -40,14 +40,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f9a/live/10bd66d0-b2dd-11f0-808e-ffa6f7368537.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Trump's week in Asia: BBC correspondents on the wins and potential losses]]></title>
-      <description><![CDATA[Here's what you should know as the US president arrives for a whirlwind week of diplomacy.  ]]></description>
-      <link>https://www.bbc.com/news/articles/c9d6jnn37l2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d6jnn37l2o</guid>
-      <pubDate>Sun, 26 Oct 2025 08:23:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/221a/live/aaf6f740-b213-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Trump hopes China will help push Russia towards Ukraine peace talks]]></title>
       <description><![CDATA[Struggling to broker a peace deal in Ukraine, Trump hopes Xi Jinping could influence Vladimir Putin.]]></description>
       <link>https://www.bbc.com/news/articles/cn51yk9vgrko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -62,6 +54,22 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cjw9vy19qvgo</guid>
       <pubDate>Fri, 24 Oct 2025 05:00:38 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d10/live/10486ad0-b0a1-11f0-9ab4-6b547b84eb35.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[China controls the rare earths the world buys - can Trump's new deals change that?]]></title>
+      <description><![CDATA[The agreements are a clear bid to reduce dependence on China, ahead of a key meeting with Xi Jinping.]]></description>
+      <link>https://www.bbc.com/news/articles/cj6ny24j0r3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj6ny24j0r3o</guid>
+      <pubDate>Tue, 28 Oct 2025 07:06:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df1e/live/b91328e0-b3f7-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Trump's week in Asia: BBC correspondents on the wins and potential losses]]></title>
+      <description><![CDATA[Here's what you should know as the US president arrives for a whirlwind week of diplomacy.  ]]></description>
+      <link>https://www.bbc.com/news/articles/c9d6jnn37l2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d6jnn37l2o</guid>
+      <pubDate>Sun, 26 Oct 2025 08:23:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/221a/live/aaf6f740-b213-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Three things we learned from China's big political meeting this week]]></title>
@@ -86,22 +94,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg1jr18z4ko</guid>
       <pubDate>Fri, 17 Oct 2025 01:31:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0639/live/6c510820-ab18-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I was lucky to get out': Everest hikers battle hypothermia as blizzard rescue continues]]></title>
-      <description><![CDATA[At least one hiker has died and hundreds are still stranded near the mountain's eastern face.]]></description>
-      <link>https://www.bbc.com/news/articles/cj4ykkgxqwko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj4ykkgxqwko</guid>
-      <pubDate>Mon, 06 Oct 2025 10:23:28 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a18/live/cf8a9bc0-a2a0-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[A new China tech visa has caught India's attention - now locals aren't happy]]></title>
-      <description><![CDATA[China's aim to attract global talent comes as the US is making it harder to bring in foreign workers. ]]></description>
-      <link>https://www.bbc.com/news/articles/cvg4eeerzrwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg4eeerzrwo</guid>
-      <pubDate>Wed, 01 Oct 2025 22:24:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c41/live/3613a190-9e94-11f0-9f70-63cdd409bfce.jpg"/>
     </item>
   </channel>
 </rss>
