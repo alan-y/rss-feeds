@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 31 Oct 2025 09:50:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 10:22:20 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -144,6 +144,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb2/live/40d8dcb0-341f-11f0-8947-7d6241f9fce9.jpg"/>
     </item>
     <item>
+      <title><![CDATA[All your FPL stats and Premier League team news in one place]]></title>
+      <description><![CDATA[Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.]]></description>
+      <link>https://www.bbc.com/sport/articles/cjw97xe064qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cjw97xe064qo</guid>
+      <pubDate>Fri, 31 Oct 2025 08:21:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How Kane's NFL dream could become a reality]]></title>
       <description><![CDATA[Former Kansas City Chiefs punter Dustin Colquitt tells BBC Sport why he thinks England football captain Harry Kane can fulfil his dream of becoming an NFL kicker.]]></description>
       <link>https://www.bbc.com/sport/articles/c9q1x2w8x34o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -176,14 +184,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dab/live/076fea00-b588-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How Haaland prompted a debate on drinking raw milk]]></title>
-      <description><![CDATA[BBC Sport explores Erling Haaland's lust for raw milk and the wider implications surrounding the dairy product.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyg2e2w9yxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyg2e2w9yxo</guid>
-      <pubDate>Thu, 30 Oct 2025 13:57:12 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e25/live/45d9b7c0-b4b2-11f0-b245-913f6e55314b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Banishing anxiety & restoring confidence - O'Neill's Celtic return]]></title>
       <description><![CDATA[Martin O'Neill says he overcame pre-match nerves on his Celtic return as his side beat Falkirk in the Scottish Premiership.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c874yggex2po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -200,12 +200,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd40/live/0cc87690-b5a9-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Newcastle host Fulham & Cardiff face Chelsea in EFL Cup quarters]]></title>
-      <description><![CDATA[Newcastle draw Fulham in the Carabao Cup quarter-finals, while League One side Cardiff City host Chelsea.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy8vj865dqxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8vj865dqxo</guid>
-      <pubDate>Wed, 29 Oct 2025 22:43:10 GMT</pubDate>
-      <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28c9/live/70b34140-b512-11f0-ba75-093eca1ac29b.jpg"/>
+      <title><![CDATA[How Haaland prompted a debate on drinking raw milk]]></title>
+      <description><![CDATA[BBC Sport explores Erling Haaland's lust for raw milk and the wider implications surrounding the dairy product.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clyg2e2w9yxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyg2e2w9yxo</guid>
+      <pubDate>Thu, 30 Oct 2025 13:57:12 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e25/live/45d9b7c0-b4b2-11f0-b245-913f6e55314b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Slot 'making excuses' - but should he have rested key players?]]></title>
@@ -224,6 +224,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e4f/live/bc6bf300-b406-11f0-a6f4-9daf525f5af5.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Newcastle host Fulham & Cardiff face Chelsea in EFL Cup quarters]]></title>
+      <description><![CDATA[Newcastle draw Fulham in the Carabao Cup quarter-finals, while League One side Cardiff City host Chelsea.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy8vj865dqxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8vj865dqxo</guid>
+      <pubDate>Wed, 29 Oct 2025 22:43:10 GMT</pubDate>
+      <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28c9/live/70b34140-b512-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Palace face four games in eight days]]></title>
       <description><![CDATA[Crystal Palace are set to play Manchester City, Arsenal, KuPS and Leeds in an eight-day spell in December after reaching the Carabao Cup quarter-finals.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cly19qp89vvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -238,14 +246,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjr05dzzv15o</guid>
       <pubDate>Thu, 30 Oct 2025 00:32:28 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ad9/live/7bdd0310-b523-11f0-8acd-859e46bca792.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Scholes stopped commentary work to care for son]]></title>
-      <description><![CDATA[Former Manchester United midfielder Paul Scholes says he stopped doing commentary work to fit his schedule around the routine of his autistic son.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5ylkrkle22o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ylkrkle22o</guid>
-      <pubDate>Thu, 30 Oct 2025 10:05:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e243/live/3877bb50-b574-11f0-83b9-05f02855fa7e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Eze & Mbeumo to continue fine form - FPL team of week]]></title>
