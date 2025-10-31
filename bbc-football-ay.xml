@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 31 Oct 2025 19:14:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 19:29:34 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -90,20 +90,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fbf/live/55f367f0-b5a2-11f0-ba75-093eca1ac29b.png"/>
     </item>
     <item>
-      <title><![CDATA[Sutton's predictions v Football Manager, the game]]></title>
-      <description><![CDATA[BBC Sport football expert Chris Sutton takes on the computer game Football Manager 26 with his predictions for this weekend's Premier League fixtures.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8741n3g3veo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8741n3g3veo</guid>
-      <pubDate>Thu, 30 Oct 2025 20:01:59 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7155/live/fcc9f0a0-b596-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Intriguing stories & big names in action: FA Cup first-round preview]]></title>
-      <description><![CDATA[Former winners facing off, local derbies, giant-killings and upsets, here are five things to look out for in this weekend's FA Cup first round.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c867415zjq3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c867415zjq3o</guid>
-      <pubDate>Fri, 31 Oct 2025 08:47:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8645/live/957a68a0-b594-11f0-a6fc-b50bf0239b95.jpg"/>
+      <title><![CDATA['It's irresponsible' - Glasner upset by Palace's congested schedule]]></title>
+      <description><![CDATA[Crystal Palace manager Oliver Glasner has called on the Premier League, UEFA and FIFA to act after finding out about his side's congested fixture schedule which sees them set to play two matches in three games or potentially three matches in five days. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c1k00n8v7jyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1k00n8v7jyo</guid>
+      <pubDate>Fri, 31 Oct 2025 19:24:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd30/live/15887b90-b68f-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA['The FA Cup is at it again!' - First-round shocks]]></title>
@@ -138,12 +130,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdd6/live/71b81780-b659-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Clickbait kills everything' - Amorim and Dyche go head to head]]></title>
-      <description><![CDATA[Manchester United head coach Ruben Amorim and Nottingham Forest boss Sean Dyche both respond to the Englishman's comments from earlier this year that he would win more games as Red Devils manager using a 4-4-2 formation.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cx2d0d52ewqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2d0d52ewqo</guid>
-      <pubDate>Thu, 30 Oct 2025 18:31:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/381a/live/8d1809c0-b5bb-11f0-b2a1-6f537f66f9aa.jpg"/>
+      <title><![CDATA[Intriguing stories & big names in action: FA Cup first-round preview]]></title>
+      <description><![CDATA[Former winners facing off, local derbies, giant-killings and upsets, here are five things to look out for in this weekend's FA Cup first round.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c867415zjq3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c867415zjq3o</guid>
+      <pubDate>Fri, 31 Oct 2025 08:47:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8645/live/957a68a0-b594-11f0-a6fc-b50bf0239b95.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sutton's predictions v Football Manager, the game]]></title>
+      <description><![CDATA[BBC Sport football expert Chris Sutton takes on the computer game Football Manager 26 with his predictions for this weekend's Premier League fixtures.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8741n3g3veo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8741n3g3veo</guid>
+      <pubDate>Thu, 30 Oct 2025 20:01:59 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7155/live/fcc9f0a0-b596-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Agyemang will be back 'without a doubt' after ACL injury]]></title>
@@ -200,22 +200,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gwzqzy185o</guid>
       <pubDate>Thu, 30 Oct 2025 18:24:06 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/831f/live/63475130-b5bd-11f0-aa13-0b0479f6f42a.png"/>
-    </item>
-    <item>
-      <title><![CDATA[West Ham's Paqueta warned over FA rule breaches]]></title>
-      <description><![CDATA[West Ham's Lucas Paqueta is reprimanded and warned about his future conduct for his failure to comply with a FA investigation into spot-fixing allegations.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0exz0l5rpjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0exz0l5rpjo</guid>
-      <pubDate>Fri, 31 Oct 2025 12:15:41 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6977/live/af2b4270-b642-11f0-b537-0b1fa31d0c29.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Premier League trio eye Etta Eyong - Friday's gossip]]></title>
-      <description><![CDATA[Premier League trio want Karl Etta Eyong, AC Milan are interested in Joshua Zirkzee loan, Manchester United are not pursuing Kevin Filling, while Chelsea lead race for Kenan Yildiz, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgwrr3g815o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgwrr3g815o</guid>
-      <pubDate>Thu, 30 Oct 2025 23:04:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cac/live/88d1b840-b5e1-11f0-b2a1-6f537f66f9aa.png"/>
     </item>
     <item>
       <title><![CDATA[How to follow the FA Cup on the BBC this weekend]]></title>
@@ -276,6 +260,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4517/live/1e596ad0-b654-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Clickbait kills everything' - Amorim and Dyche go head to head]]></title>
+      <description><![CDATA[Manchester United head coach Ruben Amorim and Nottingham Forest boss Sean Dyche both respond to the Englishman's comments from earlier this year that he would win more games as Red Devils manager using a 4-4-2 formation.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cx2d0d52ewqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2d0d52ewqo</guid>
+      <pubDate>Thu, 30 Oct 2025 18:31:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/381a/live/8d1809c0-b5bb-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['It felt like the right decision' - Slot stands by team selection]]></title>
       <description><![CDATA[Liverpool manager Arne Slot says he has "no regrets" after making 10 changes to his team for their Carabao Cup fixture against Crystal Palace, a match they went on to lose 3-0 at Anfield. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/c993g15p1mgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -308,12 +300,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9fc/live/89769860-b4b0-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Best finisher? Toughest opponent? - Shearer answers your questions]]></title>
-      <description><![CDATA[Alan Shearer answers questions from the BBC Sport audience (and Dion Dublin) on Football Focus at Newcastle's St James' Park.]]></description>
-      <link>https://www.bbc.com/sport/videos/c993my1gjlvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/videos/c993my1gjlvo</guid>
-      <pubDate>Tue, 28 Oct 2025 12:35:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a439/live/5f5ef560-b3fa-11f0-aa13-0b0479f6f42a.jpg"/>
+      <title><![CDATA[Premier League trio eye Etta Eyong - Friday's gossip]]></title>
+      <description><![CDATA[Premier League trio want Karl Etta Eyong, AC Milan are interested in Joshua Zirkzee loan, Manchester United are not pursuing Kevin Filling, while Chelsea lead race for Kenan Yildiz, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgwrr3g815o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgwrr3g815o</guid>
+      <pubDate>Thu, 30 Oct 2025 23:04:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cac/live/88d1b840-b5e1-11f0-b2a1-6f537f66f9aa.png"/>
+    </item>
+    <item>
+      <title><![CDATA[West Ham's Paqueta warned over FA rule breaches]]></title>
+      <description><![CDATA[West Ham's Lucas Paqueta is reprimanded and warned about his future conduct for his failure to comply with a FA investigation into spot-fixing allegations.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0exz0l5rpjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0exz0l5rpjo</guid>
+      <pubDate>Fri, 31 Oct 2025 12:15:41 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6977/live/af2b4270-b642-11f0-b537-0b1fa31d0c29.jpg"/>
     </item>
     <item>
       <title><![CDATA[Vinicius Jr no longer feels 'untouchable' - so what's going on?]]></title>
@@ -397,20 +397,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ad9/live/7bdd0310-b523-11f0-8acd-859e46bca792.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Who is in the Premier League's Hall of Fame?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team lists who has been included in the Premier League's Hall of Fame and how voting works.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czxkw0dp9g9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czxkw0dp9g9o</guid>
-      <pubDate>Thu, 30 Oct 2025 16:16:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7fc/live/58d62a70-b57f-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Beever-Jones 'asking questions' - should she start for England?]]></title>
-      <description><![CDATA[Sarina Wiegman has had some tough decisions to make over England's strikers - and Aggie Beever-Jones has made it even harder after the 3-0 friendly win against Australia.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crmx472nepwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crmx472nepwo</guid>
-      <pubDate>Tue, 28 Oct 2025 23:12:42 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ce5/live/946433a0-b455-11f0-b7a5-89f5fd559681.jpg"/>
+      <title><![CDATA[Best finisher? Toughest opponent? - Shearer answers your questions]]></title>
+      <description><![CDATA[Alan Shearer answers questions from the BBC Sport audience (and Dion Dublin) on Football Focus at Newcastle's St James' Park.]]></description>
+      <link>https://www.bbc.com/sport/videos/c993my1gjlvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/videos/c993my1gjlvo</guid>
+      <pubDate>Tue, 28 Oct 2025 12:35:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a439/live/5f5ef560-b3fa-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Super Bowl winner offers to train Kane]]></title>
@@ -451,14 +443,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cj0emrp5gv1o</guid>
       <pubDate>Sun, 26 Oct 2025 18:34:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2203/live/2c1e5b20-b29a-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Quality and consistency of delivery key for Arsenal - Walcott]]></title>
-      <description><![CDATA[Match of the Day pundit Theo Walcott says Arsenal's quality and consistency with their set-pieces has enabled them to be so dominant.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c0expg3r2x3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0expg3r2x3o</guid>
-      <pubDate>Mon, 27 Oct 2025 00:01:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9bf/live/33516fe0-b2c2-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rodgers v Desmond: Analysing the Celtic fallout]]></title>
