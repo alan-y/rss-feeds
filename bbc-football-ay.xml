@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 01 Nov 2025 13:04:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 13:34:59 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -80,14 +80,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d914/live/22a55560-b4e0-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Reasons to be cheerful at last? Amorim's year at Man Utd]]></title>
-      <description><![CDATA[As Ruben Amorim reaches his first anniversary as Manchester United boss, there are finally reasons to be cheerful for the club.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2d0392kz3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2d0392kz3o</guid>
-      <pubDate>Fri, 31 Oct 2025 22:30:19 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a6/live/31514a10-b6a7-11f0-b44e-a30693439c68.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Luton beat Forest Green in rollercoaster seven-goal tie]]></title>
       <description><![CDATA[Luton Town reach the FA Cup second round with an injury-time winner after Forest Green Rovers stage a remarkable comeback from three goals down in a thrilling first-round encounter.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cgql17k8lnxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -128,6 +120,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/208b/live/54182090-b658-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Reasons to be cheerful at last? Amorim's year at Man Utd]]></title>
+      <description><![CDATA[As Ruben Amorim reaches his first anniversary as Manchester United boss, there are finally reasons to be cheerful for the club.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2d0392kz3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2d0392kz3o</guid>
+      <pubDate>Fri, 31 Oct 2025 22:30:19 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a6/live/31514a10-b6a7-11f0-b44e-a30693439c68.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Being dropped for Hampton 'felt unjust' - Earps]]></title>
       <description><![CDATA[Former England goalkeeper Mary Earps claims she told Lionesses boss Sarina Wiegman she was rewarding "bad behaviour" when she recalled Hannah Hampton to the squad despite previously dropping her.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c62ee9e5gyyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -152,20 +152,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f2a/live/f4218c00-b655-11f0-969b-0be52cca84d5.jpg"/>
     </item>
     <item>
-      <title><![CDATA[One Boxing Day game down to Uefa - Premier League]]></title>
-      <description><![CDATA[The "expansion of European club competitions" has led to there being just one top-flight game on 26 December, says the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c93xxpe605go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93xxpe605go</guid>
-      <pubDate>Fri, 31 Oct 2025 18:01:37 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d7/live/3e550fc0-b67b-11f0-b027-61021c9d4006.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Sutton's predictions v Football Manager, the game]]></title>
       <description><![CDATA[BBC Sport football expert Chris Sutton takes on the computer game Football Manager 26 with his predictions for this weekend's Premier League fixtures.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8741n3g3veo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8741n3g3veo</guid>
       <pubDate>Thu, 30 Oct 2025 20:01:59 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7155/live/fcc9f0a0-b596-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[One Boxing Day game down to Uefa - Premier League]]></title>
+      <description><![CDATA[The "expansion of European club competitions" has led to there being just one top-flight game on 26 December, says the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c93xxpe605go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93xxpe605go</guid>
+      <pubDate>Fri, 31 Oct 2025 18:01:37 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d7/live/3e550fc0-b67b-11f0-b027-61021c9d4006.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fans, Fosun & future - what next for struggling Wolves?]]></title>
@@ -208,16 +208,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c620lyx5p17o</guid>
       <pubDate>Fri, 31 Oct 2025 19:20:21 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66c7/live/06d8d0e0-b68a-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Three parties give proof of funds to buy Sheff Wed]]></title>
-      <description><![CDATA[Three parties give the administrators of Sheffield Wednesday proof of £50m funds to take over the Championship club.
-
-]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c751q2drz1qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c751q2drz1qo</guid>
-      <pubDate>Fri, 31 Oct 2025 12:40:15 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6923/live/d90137e0-b650-11f0-ba64-f52e2f7918c2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Intriguing stories & big names in action: FA Cup first-round preview]]></title>
