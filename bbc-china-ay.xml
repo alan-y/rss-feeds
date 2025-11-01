@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 01 Nov 2025 05:47:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 06:26:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[China to loosen chip export ban to Europe after Netherlands row]]></title>
+      <description><![CDATA[EU-China chip disputes alarmed carmakers amid concerns it could halt global car productions]]></description>
+      <link>https://www.bbc.com/news/articles/cly44qwgnx0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly44qwgnx0o</guid>
+      <pubDate>Sat, 01 Nov 2025 05:31:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/be7b5b50-b6d5-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Trump hails 'amazing' meeting with China's Xi but no formal trade deal agreed ]]></title>
       <description><![CDATA[The US president and his Chinese counterpart met face-to-face for the first time in six years.]]></description>
@@ -22,14 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/crl25xl1gjpo</guid>
       <pubDate>Thu, 30 Oct 2025 16:06:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d31/live/da437390-b59a-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Xi and Trump find temporary truce as China plays longer game]]></title>
-      <description><![CDATA[Talks have helped to steady a rocky relationship between the world's top two economies - but the rivalry persists.]]></description>
-      <link>https://www.bbc.com/news/articles/c8eyx718pz2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8eyx718pz2o</guid>
-      <pubDate>Thu, 30 Oct 2025 11:54:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ff4/live/d184f880-b5a1-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Trade, tariffs and TikTok: Why it matters that Trump and Xi are talking again]]></title>
@@ -56,6 +56,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f9a/live/10bd66d0-b2dd-11f0-808e-ffa6f7368537.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Xi and Trump find temporary truce as China plays longer game]]></title>
+      <description><![CDATA[Talks have helped to steady a rocky relationship between the world's top two economies - but the rivalry persists.]]></description>
+      <link>https://www.bbc.com/news/articles/c8eyx718pz2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8eyx718pz2o</guid>
+      <pubDate>Thu, 30 Oct 2025 11:54:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ff4/live/d184f880-b5a1-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[China controls the rare earths the world buys - can Trump's new deals change that?]]></title>
       <description><![CDATA[The agreements are a clear bid to reduce dependence on China, ahead of a key meeting with Xi Jinping.]]></description>
       <link>https://www.bbc.com/news/articles/cj6ny24j0r3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -78,14 +86,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wv8q5evvqo</guid>
       <pubDate>Fri, 24 Oct 2025 07:22:43 GMT</pubDate>
       <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a31/live/a415fdd0-b0b1-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[China will soon have a new Five Year Plan. Here's how they have changed the world so far]]></title>
-      <description><![CDATA[Beijing's leaders are deciding on a blueprint that sets China's economic goals for the next decade.]]></description>
-      <link>https://www.bbc.com/news/articles/cjr045x425vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cjr045x425vo</guid>
-      <pubDate>Sun, 19 Oct 2025 22:46:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/876e/live/4f684680-ab07-11f0-baa3-6de9de658722.jpg"/>
     </item>
   </channel>
 </rss>
