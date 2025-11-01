@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 01 Nov 2025 16:48:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 17:14:13 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -22,30 +22,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq6zz5rlmpvo</guid>
       <pubDate>Sat, 01 Nov 2025 16:25:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d09/live/a8d786c0-b702-11f0-b7e8-2f8280b0e689.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Head coach Vieira leaves bottom club Genoa]]></title>
-      <description><![CDATA[Patrick Vieira leaves his role as Genoa head coach by mutual consent after they fail to win in nine Serie A games this season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd7rr2j58gwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd7rr2j58gwo</guid>
-      <pubDate>Sat, 01 Nov 2025 10:44:54 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f776/live/03102b80-b70b-11f0-9b61-4945b5734f3e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[It's the buzz - Salford new boy Borini on playing on as a veteran]]></title>
-      <description><![CDATA[Fabio Borini made a combined 131 appearances across five years for Liverpool and Sunderland - now he is getting his football fix at Salford City.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cm2eeneqvl7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2eeneqvl7o</guid>
-      <pubDate>Sat, 01 Nov 2025 07:01:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7ee/live/cf55b400-b673-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Former Aberdeen and Arsenal defender Young dies aged 73]]></title>
-      <description><![CDATA[The defender played for Aberdeen, Arsenal and Tottenham Hotspur but is best remembered for a cynical foul which changed the laws of the game.]]></description>
-      <link>https://www.bbc.com/news/articles/c9d666e12l5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d666e12l5o</guid>
-      <pubDate>Sat, 01 Nov 2025 11:37:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfc/live/29eee8b0-b713-11f0-81a4-f76cd66ce716.jpg"/>
     </item>
     <item>
       <title><![CDATA[Luton beat Forest Green in rollercoaster seven-goal tie]]></title>
@@ -96,12 +72,36 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a0a/live/eba1ff70-b640-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Head coach Vieira leaves bottom club Genoa]]></title>
+      <description><![CDATA[Patrick Vieira leaves his role as Genoa head coach by mutual consent after they fail to win in nine Serie A games this season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd7rr2j58gwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd7rr2j58gwo</guid>
+      <pubDate>Sat, 01 Nov 2025 10:44:54 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f776/live/03102b80-b70b-11f0-9b61-4945b5734f3e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Former Aberdeen and Arsenal defender Young dies aged 73]]></title>
+      <description><![CDATA[The defender played for Aberdeen, Arsenal and Tottenham Hotspur but is best remembered for a cynical foul which changed the laws of the game.]]></description>
+      <link>https://www.bbc.com/news/articles/c9d666e12l5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d666e12l5o</guid>
+      <pubDate>Sat, 01 Nov 2025 11:37:58 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdfc/live/29eee8b0-b713-11f0-81a4-f76cd66ce716.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['From black and white football to full colour' - Emery's three years at Villa]]></title>
       <description><![CDATA[As Unai Emery marks three years at Aston Villa, Guillem Balague looks at his journey to Villa Park and his bid to "awaken the giant".]]></description>
       <link>https://www.bbc.com/sport/football/articles/c9d6xd6g182o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9d6xd6g182o</guid>
       <pubDate>Sat, 01 Nov 2025 07:38:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2c6/live/7a1d1830-b663-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[It's the buzz - Salford new boy Borini on playing on as a veteran]]></title>
+      <description><![CDATA[Fabio Borini made a combined 131 appearances across five years for Liverpool and Sunderland - now he is getting his football fix at Salford City.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cm2eeneqvl7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2eeneqvl7o</guid>
+      <pubDate>Sat, 01 Nov 2025 07:01:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7ee/live/cf55b400-b673-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[How new MLS franchise San Diego are creating history]]></title>
@@ -120,28 +120,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d914/live/22a55560-b4e0-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Inter Milan join Guehi race - Friday's gossip]]></title>
-      <description><![CDATA[Inter Milan join race for Marc Guehi, Everton monitoring Nicolas Jackson, and Manchester United face competition for Ayyoub Bouaddi, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c620n2kdex5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c620n2kdex5o</guid>
-      <pubDate>Fri, 31 Oct 2025 23:10:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a955/live/7baf8a50-b6ab-11f0-ba75-093eca1ac29b.png"/>
-    </item>
-    <item>
       <title><![CDATA[Being dropped for Hampton 'felt unjust' - Earps]]></title>
       <description><![CDATA[Former England goalkeeper Mary Earps claims she told Lionesses boss Sarina Wiegman she was rewarding "bad behaviour" when she recalled Hannah Hampton to the squad despite previously dropping her.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c62ee9e5gyyo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62ee9e5gyyo</guid>
       <pubDate>Fri, 31 Oct 2025 21:54:45 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b170/live/51f17390-b6a6-11f0-b44e-a30693439c68.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[149 Turkish officials suspended in betting probe]]></title>
-      <description><![CDATA[The Turkish Football Federation (TFF) suspends 149 referees and assistant referees for allegedly betting on matches.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp8yy2d6l3go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8yy2d6l3go</guid>
-      <pubDate>Sat, 01 Nov 2025 07:27:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85de/live/e2b7c2c0-b6f2-11f0-8e7c-6544f452cba3.jpg"/>
     </item>
     <item>
       <title><![CDATA[O'Neill not imagining repeat of 'Demolition Derby']]></title>
@@ -152,12 +136,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f2a/live/f4218c00-b655-11f0-969b-0be52cca84d5.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Intriguing stories & big names in action: FA Cup first-round preview]]></title>
-      <description><![CDATA[Former winners facing off, local derbies, giant-killings and upsets, here are five things to look out for in this weekend's FA Cup first round.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c867415zjq3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c867415zjq3o</guid>
-      <pubDate>Fri, 31 Oct 2025 08:47:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8645/live/957a68a0-b594-11f0-a6fc-b50bf0239b95.jpg"/>
+      <title><![CDATA[149 Turkish officials suspended in betting probe]]></title>
+      <description><![CDATA[The Turkish Football Federation (TFF) suspends 149 referees and assistant referees for allegedly betting on matches.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp8yy2d6l3go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8yy2d6l3go</guid>
+      <pubDate>Sat, 01 Nov 2025 07:27:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85de/live/e2b7c2c0-b6f2-11f0-8e7c-6544f452cba3.jpg"/>
     </item>
     <item>
       <title><![CDATA[How to follow the FA Cup on the BBC this weekend]]></title>
@@ -184,14 +168,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c364k9ergywo</guid>
       <pubDate>Fri, 31 Oct 2025 10:40:29 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f898/live/c83700b0-b642-11f0-b537-0b1fa31d0c29.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sears' Jammers hunting FA Cup shock at Port Vale]]></title>
-      <description><![CDATA[Maldon & Tiptree's Freddie Sears admits the underdog tag does not sit comfortably with him heading into Sunday's FA Cup tie at Port Vale.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgk3lq32q3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgk3lq32q3o</guid>
-      <pubDate>Fri, 31 Oct 2025 05:37:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db22/live/42d63ce0-b590-11f0-a6f2-d9ff9d44453f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Guirassy fires Dortmund to victory against Augsburg]]></title>
@@ -237,12 +213,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdd6/live/71b81780-b659-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Sutton's predictions v Football Manager, the game]]></title>
+      <description><![CDATA[BBC Sport football expert Chris Sutton takes on the computer game Football Manager 26 with his predictions for this weekend's Premier League fixtures.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8741n3g3veo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8741n3g3veo</guid>
+      <pubDate>Thu, 30 Oct 2025 20:01:59 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7155/live/fcc9f0a0-b596-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[One Boxing Day game down to Uefa - Premier League]]></title>
       <description><![CDATA[The "expansion of European club competitions" has led to there being just one top-flight game on 26 December, says the Premier League.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c93xxpe605go?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93xxpe605go</guid>
       <pubDate>Fri, 31 Oct 2025 18:01:37 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d7/live/3e550fc0-b67b-11f0-b027-61021c9d4006.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sears' Jammers hunting FA Cup shock at Port Vale]]></title>
+      <description><![CDATA[Maldon & Tiptree's Freddie Sears admits the underdog tag does not sit comfortably with him heading into Sunday's FA Cup tie at Port Vale.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgk3lq32q3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgk3lq32q3o</guid>
+      <pubDate>Fri, 31 Oct 2025 05:37:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db22/live/42d63ce0-b590-11f0-a6f2-d9ff9d44453f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fans, Fosun & future - what next for struggling Wolves?]]></title>
@@ -255,28 +247,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f98e/live/965c8d90-b68c-11f0-b027-61021c9d4006.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sutton's predictions v Football Manager, the game]]></title>
-      <description><![CDATA[BBC Sport football expert Chris Sutton takes on the computer game Football Manager 26 with his predictions for this weekend's Premier League fixtures.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8741n3g3veo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8741n3g3veo</guid>
-      <pubDate>Thu, 30 Oct 2025 20:01:59 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7155/live/fcc9f0a0-b596-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Palace fixture pile-up 'irresponsible' - Glasner]]></title>
       <description><![CDATA[Manager Oliver Glasner says it would be "irresponsible" for Crystal Palace to play two games in three days following a fixture pile-up after reaching the EFL Cup quarter-finals.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c20530x9pvzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20530x9pvzo</guid>
       <pubDate>Fri, 31 Oct 2025 16:52:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f5c/live/cedc90c0-b691-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ex-England keeper Earps announces 'happy' same-sex relationship]]></title>
-      <description><![CDATA[Earps has been supported and encouraged by her former Lionesses teammates to open up about her sexuality.]]></description>
-      <link>https://www.bbc.com/news/articles/c620lyx5p17o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c620lyx5p17o</guid>
-      <pubDate>Fri, 31 Oct 2025 19:20:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66c7/live/06d8d0e0-b68a-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Same dream, different styles as St Mirren & Motherwell bid for final]]></title>
