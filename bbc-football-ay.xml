@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 01 Nov 2025 14:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 14:32:51 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -56,14 +56,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2c6/live/7a1d1830-b663-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How new MLS franchise San Diego are creating history]]></title>
-      <description><![CDATA[San Diego FC may be a new MLS franchise, but they are making history built on the principles of the Right to Dream project.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqx3zvdywn9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqx3zvdywn9o</guid>
-      <pubDate>Sat, 01 Nov 2025 08:13:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acee/live/7f52a780-b644-11f0-b537-0b1fa31d0c29.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Luton beat Forest Green in rollercoaster seven-goal tie]]></title>
       <description><![CDATA[Luton Town reach the FA Cup second round with an injury-time winner after Forest Green Rovers stage a remarkable comeback from three goals down in a thrilling first-round encounter.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cgql17k8lnxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -102,6 +94,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0l7k32lwrzo</guid>
       <pubDate>Fri, 31 Oct 2025 13:36:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/208b/live/54182090-b658-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How new MLS franchise San Diego are creating history]]></title>
+      <description><![CDATA[San Diego FC may be a new MLS franchise, but they are making history built on the principles of the Right to Dream project.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqx3zvdywn9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqx3zvdywn9o</guid>
+      <pubDate>Sat, 01 Nov 2025 08:13:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acee/live/7f52a780-b644-11f0-b537-0b1fa31d0c29.jpg"/>
     </item>
     <item>
       <title><![CDATA[Inter Milan join Guehi race - Friday's gossip]]></title>
@@ -170,30 +170,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f98e/live/965c8d90-b68c-11f0-b027-61021c9d4006.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Palace fixture pile-up 'irresponsible' - Glasner]]></title>
-      <description><![CDATA[Manager Oliver Glasner says it would be "irresponsible" for Crystal Palace to play two games in three days following a fixture pile-up after reaching the EFL Cup quarter-finals.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c20530x9pvzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20530x9pvzo</guid>
-      <pubDate>Fri, 31 Oct 2025 16:52:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f5c/live/cedc90c0-b691-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ex-England keeper Earps announces 'happy' same-sex relationship]]></title>
-      <description><![CDATA[Earps has been supported and encouraged by her former Lionesses teammates to open up about her sexuality.]]></description>
-      <link>https://www.bbc.com/news/articles/c620lyx5p17o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c620lyx5p17o</guid>
-      <pubDate>Fri, 31 Oct 2025 19:20:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66c7/live/06d8d0e0-b68a-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sutton's predictions v Football Manager, the game]]></title>
-      <description><![CDATA[BBC Sport football expert Chris Sutton takes on the computer game Football Manager 26 with his predictions for this weekend's Premier League fixtures.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8741n3g3veo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8741n3g3veo</guid>
-      <pubDate>Thu, 30 Oct 2025 20:01:59 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7155/live/fcc9f0a0-b596-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Intriguing stories & big names in action: FA Cup first-round preview]]></title>
       <description><![CDATA[Former winners facing off, local derbies, giant-killings and upsets, here are five things to look out for in this weekend's FA Cup first round.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c867415zjq3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -244,6 +220,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f825/live/37aaba60-b650-11f0-ba64-f52e2f7918c2.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Father and son sharing Hemel FA Cup adventure]]></title>
+      <description><![CDATA[Manager Lee Allinson is hoping Hemel Hempstead can pull off an FA Cup shock at Wigan and is leaning on father Ian, who works alongside him, for advice.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp3dy53n4wdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3dy53n4wdo</guid>
+      <pubDate>Fri, 31 Oct 2025 07:30:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f80c/live/479c0660-b4a0-11f0-885f-31ec668fe78e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Guirassy fires Dortmund to victory against Augsburg]]></title>
       <description><![CDATA[A solitary Serhou Guirassy goal is enough to give Borussia Dortmund victory against Augsburg in the Bundesliga.
 
@@ -287,12 +271,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdd6/live/71b81780-b659-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Father and son sharing Hemel FA Cup adventure]]></title>
-      <description><![CDATA[Manager Lee Allinson is hoping Hemel Hempstead can pull off an FA Cup shock at Wigan and is leaning on father Ian, who works alongside him, for advice.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp3dy53n4wdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3dy53n4wdo</guid>
-      <pubDate>Fri, 31 Oct 2025 07:30:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f80c/live/479c0660-b4a0-11f0-885f-31ec668fe78e.jpg"/>
+      <title><![CDATA[Sutton's predictions v Football Manager, the game]]></title>
+      <description><![CDATA[BBC Sport football expert Chris Sutton takes on the computer game Football Manager 26 with his predictions for this weekend's Premier League fixtures.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8741n3g3veo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8741n3g3veo</guid>
+      <pubDate>Thu, 30 Oct 2025 20:01:59 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7155/live/fcc9f0a0-b596-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Palace fixture pile-up 'irresponsible' - Glasner]]></title>
+      <description><![CDATA[Manager Oliver Glasner says it would be "irresponsible" for Crystal Palace to play two games in three days following a fixture pile-up after reaching the EFL Cup quarter-finals.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c20530x9pvzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20530x9pvzo</guid>
+      <pubDate>Fri, 31 Oct 2025 16:52:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f5c/live/cedc90c0-b691-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ex-England keeper Earps announces 'happy' same-sex relationship]]></title>
+      <description><![CDATA[Earps has been supported and encouraged by her former Lionesses teammates to open up about her sexuality.]]></description>
+      <link>https://www.bbc.com/news/articles/c620lyx5p17o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c620lyx5p17o</guid>
+      <pubDate>Fri, 31 Oct 2025 19:20:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66c7/live/06d8d0e0-b68a-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Same dream, different styles as St Mirren & Motherwell bid for final]]></title>
@@ -327,14 +327,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8a5/live/e02f00e0-b585-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Agyemang will be back 'without a doubt' after ACL injury]]></title>
-      <description><![CDATA[Michelle Agyemang has the strength to reach her potential despite rupturing her anterior cruciate ligament (ACL), say her managers at Arsenal and Brighton.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crmxxwpvvz2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crmxxwpvvz2o</guid>
-      <pubDate>Fri, 31 Oct 2025 17:20:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a2c/live/99a5e6d0-b679-11f0-b027-61021c9d4006.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Has England's Euros triumph given women's club football a boost?]]></title>
       <description><![CDATA[One of the constant refrains throughout England's triumphant run at Euro 2025 – and indeed most women's football matches in recent years – has been how important the success of the Lionesses has been for the growth of the game. But what has been the impact?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgjd406e7n9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -343,12 +335,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd33/live/530eb9a0-adc2-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[All your FPL stats and Premier League team news in one place]]></title>
-      <description><![CDATA[Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.]]></description>
-      <link>https://www.bbc.com/sport/articles/cjw97xe064qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cjw97xe064qo</guid>
-      <pubDate>Fri, 31 Oct 2025 08:21:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg"/>
+      <title><![CDATA[Agyemang will be back 'without a doubt' after ACL injury]]></title>
+      <description><![CDATA[Michelle Agyemang has the strength to reach her potential despite rupturing her anterior cruciate ligament (ACL), say her managers at Arsenal and Brighton.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crmxxwpvvz2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crmxxwpvvz2o</guid>
+      <pubDate>Fri, 31 Oct 2025 17:20:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a2c/live/99a5e6d0-b679-11f0-b027-61021c9d4006.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rodgers changed Celtic landscape - McGregor]]></title>
@@ -365,14 +357,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c14ppz2rgr0o</guid>
       <pubDate>Fri, 31 Oct 2025 17:01:58 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03ed/live/9cebf4a0-b67a-11f0-b027-61021c9d4006.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Triple up on Crystal Palace? The FPL talking point]]></title>
-      <description><![CDATA[Expert FPL Heisenberg and the guys from the FPL Podcast by BBC Sport debate this week's FPL talking point.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g3243n10ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g3243n10ko</guid>
-      <pubDate>Fri, 31 Oct 2025 07:52:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c60/live/2ecb86d0-b629-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
       <title><![CDATA[West Ham's Paqueta warned over FA rule breaches]]></title>
