@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 02 Nov 2025 21:29:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 21:45:49 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['He lives for the goals' - robot Haaland returns from malfunction]]></title>
+      <description><![CDATA[Erling Haaland pulled out the robot dance in the win over Bournemouth and his levels were compared to Lionel Messi and Cristiano Ronaldo by boss Pep Guardiola.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy5vgqgw18o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy5vgqgw18o</guid>
+      <pubDate>Sun, 02 Nov 2025 21:40:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d4b/live/b1e394d0-b828-11f0-a161-8537cdb39a4e.jpg"/>
+    </item>
     <item>
       <title><![CDATA['I don't even know when it is' - but will O'Neill be Celtic manager for final?]]></title>
       <description><![CDATA[After guiding Celtic past Rangers, Martin O'Neill concedes he'd "secretly love" to lead the team in next month's final.]]></description>
@@ -70,14 +78,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c3dn0k037dvo</guid>
       <pubDate>Sun, 02 Nov 2025 20:36:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef98/live/4c170350-b826-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['An epic fightback' - Blundell makes Man Utd return after giving birth]]></title>
-      <description><![CDATA[Manchester United's Hannah Blundell makes her return to football after more than a year away to give birth to her daughter.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdx4e90pq1eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdx4e90pq1eo</guid>
-      <pubDate>Sun, 02 Nov 2025 17:09:19 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4abd/live/4bb0bbb0-b80b-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Southampton sack Still after five months in charge]]></title>
@@ -598,6 +598,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj97v1ll77po</guid>
       <pubDate>Sun, 26 Oct 2025 20:28:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/359a/live/99fe4ae0-b2a6-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['An epic fightback' - Blundell makes Man Utd return after giving birth]]></title>
+      <description><![CDATA[Manchester United's Hannah Blundell makes her return to football after more than a year away to give birth to her daughter.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdx4e90pq1eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdx4e90pq1eo</guid>
+      <pubDate>Sun, 02 Nov 2025 17:09:19 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4abd/live/4bb0bbb0-b80b-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[From farming village to Liverpool icon - the Salah story]]></title>
