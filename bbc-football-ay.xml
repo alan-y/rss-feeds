@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 18:27:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 18:51:21 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA['I worry about unity' - Southgate on St George's flag]]></title>
-      <description><![CDATA[Former England manager Gareth Southgate says there is "more that unites us than separates us" amid a debate about flying the St George's flag. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly951008eeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly951008eeo</guid>
-      <pubDate>Mon, 03 Nov 2025 10:20:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d94/live/6c4263d0-b89a-11f0-b84d-4fb96522f06d.jpg"/>
-    </item>
     <item>
       <title><![CDATA[Agent arrested after player 'threatened with gun']]></title>
       <description><![CDATA[A football agent is arrested after allegedly threatening a Premier League footballer with a gun.]]></description>
@@ -52,24 +44,8 @@
       <description><![CDATA[Police horses, dogs and drones will be on patrol on Thursday as protesters plan demonstrations.]]></description>
       <link>https://www.bbc.com/news/articles/cdeg6jw6p8jo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cdeg6jw6p8jo</guid>
-      <pubDate>Mon, 03 Nov 2025 17:22:58 GMT</pubDate>
+      <pubDate>Mon, 03 Nov 2025 18:30:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a700/live/20f9d6e0-b8d3-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ex-manager O'Neil in talks over Wolves return]]></title>
-      <description><![CDATA[Former Wolves boss Gary O'Neil is in talks over a return to the club as manager following the sacking of Vitor Pereira. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgmxne2pj37o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgmxne2pj37o</guid>
-      <pubDate>Mon, 03 Nov 2025 12:09:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb19/live/b5452530-b8be-11f0-8849-5bba853dbca3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Van de Ven and Spence meant 'no disrespect' - Frank]]></title>
-      <description><![CDATA[Tottenham boss Thomas Frank says Micky van de Ven and Djed Spence have apologised to him after the pair snubbed the manager when leaving the pitch following defeat by Chelsea.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2p3dyplz1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2p3dyplz1o</guid>
-      <pubDate>Mon, 03 Nov 2025 15:47:26 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3f8/live/25dea190-b8c9-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Will Alexander-Arnold show what Liverpool are missing on return?]]></title>
@@ -80,20 +56,36 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b00b/live/491caa60-b6fa-11f0-b7e8-2f8280b0e689.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Ex-manager O'Neil in talks over Wolves return]]></title>
+      <description><![CDATA[Former Wolves boss Gary O'Neil is in talks over a return to the club as manager following the sacking of Vitor Pereira. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgmxne2pj37o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgmxne2pj37o</guid>
+      <pubDate>Mon, 03 Nov 2025 12:09:05 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb19/live/b5452530-b8be-11f0-8849-5bba853dbca3.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['I worry about unity' - Southgate on St George's flag]]></title>
+      <description><![CDATA[Former England manager Gareth Southgate says there is "more that unites us than separates us" amid a debate about flying the St George's flag. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly951008eeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly951008eeo</guid>
+      <pubDate>Mon, 03 Nov 2025 10:20:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d94/live/6c4263d0-b89a-11f0-b84d-4fb96522f06d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Van de Ven and Spence meant 'no disrespect' - Frank]]></title>
+      <description><![CDATA[Tottenham boss Thomas Frank says Micky van de Ven and Djed Spence have apologised to him after the pair snubbed the manager when leaving the pitch following defeat by Chelsea.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2p3dyplz1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2p3dyplz1o</guid>
+      <pubDate>Mon, 03 Nov 2025 15:47:26 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3f8/live/25dea190-b8c9-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Clarke plays down Scotland keeper crisis & targets Denmark 'cup final']]></title>
       <description><![CDATA[Manager Steve Clarke dismisses talk of a Scotland goalkeeping crisis and eyes a "cup final" against Denmark in the World Cup qualifiers.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c04gvxrw3x6o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c04gvxrw3x6o</guid>
       <pubDate>Mon, 03 Nov 2025 15:24:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7cd/live/b8e23d90-b8c8-11f0-ba75-093eca1ac29b.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Scunthorpe player and Forest fan among train attack victims]]></title>
-      <description><![CDATA[Scunthorpe United footballer Jonathan Gjoshe, 22 and Nottingham Forest fan Stephen Crean were stabbed. ]]></description>
-      <link>https://www.bbc.com/news/articles/cpv1dprv2w2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cpv1dprv2w2o</guid>
-      <pubDate>Mon, 03 Nov 2025 15:50:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/add7/live/056df4e0-b8bc-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[He gets a warm welcome from me - Slot on Trent]]></title>
@@ -144,20 +136,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80e/live/2080b240-b8b2-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Scunthorpe player and Forest fan among train attack victims]]></title>
+      <description><![CDATA[Scunthorpe United footballer Jonathan Gjoshe, 22 and Nottingham Forest fan Stephen Crean were stabbed. ]]></description>
+      <link>https://www.bbc.com/news/articles/cpv1dprv2w2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cpv1dprv2w2o</guid>
+      <pubDate>Mon, 03 Nov 2025 15:50:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/add7/live/056df4e0-b8bc-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Why VAR won't be getting involved in corners ]]></title>
       <description><![CDATA[Nottingham Forest boss Sean Dyche is frustrated after Casemiro's goal from a corner is allowed to stand, but VAR will not be changing to include them in its remit.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cz7pn8j23xvo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz7pn8j23xvo</guid>
       <pubDate>Mon, 03 Nov 2025 13:10:46 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d39/live/1e90ce50-b8a0-11f0-8ea1-0d97f1bb4ddf.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The tactics behind Sunderland's impressive start]]></title>
-      <description><![CDATA[BBC Sport analyses the tactics behind Sunderland's impressive start on their Premier League return.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c33pmzxl8yko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c33pmzxl8yko</guid>
-      <pubDate>Mon, 03 Nov 2025 07:05:22 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/407d/live/79772c20-b890-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Van Dijk rejects Rooney's 'lazy criticism']]></title>
@@ -192,20 +184,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0748/live/d4002220-b848-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Kane considers Barcelona switch - Monday's gossip]]></title>
-      <description><![CDATA[Bayern Munich striker Harry Kane considering move to Barcelona, Manchester United and Tottenham monitoring Everton's Jarrad Branthwaite and Liverpool watch Fulham winger Kevin. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c620vg663l7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c620vg663l7o</guid>
-      <pubDate>Sun, 02 Nov 2025 23:41:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2391/live/be587ca0-b82b-11f0-ba75-093eca1ac29b.png"/>
-    </item>
-    <item>
       <title><![CDATA[Will Football Manager help women's football grow?]]></title>
       <description><![CDATA[The launch of the latest edition of the Football Manager series will enhance visibility of the women's game, and could help unearth some unheralded female talents too.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cm2ld8090rlo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2ld8090rlo</guid>
       <pubDate>Mon, 03 Nov 2025 07:26:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b66/live/a4d24f40-b65f-11f0-969b-0be52cca84d5.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Kane considers Barcelona switch - Monday's gossip]]></title>
+      <description><![CDATA[Bayern Munich striker Harry Kane considering move to Barcelona, Manchester United and Tottenham monitoring Everton's Jarrad Branthwaite and Liverpool watch Fulham winger Kevin. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c620vg663l7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c620vg663l7o</guid>
+      <pubDate>Sun, 02 Nov 2025 23:41:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2391/live/be587ca0-b82b-11f0-ba75-093eca1ac29b.png"/>
     </item>
     <item>
       <title><![CDATA['I don't even know when it is' - but will O'Neill be Celtic manager for final?]]></title>
@@ -246,14 +238,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyk39dyd35o</guid>
       <pubDate>Mon, 03 Nov 2025 10:26:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f51/live/53bffd00-b89e-11f0-8ea1-0d97f1bb4ddf.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why is Oxlade-Chamberlain training with Arsenal?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything explains why Alex Oxlade-Chamberlain is training with Arsenal.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce9d15nr5rmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce9d15nr5rmo</guid>
-      <pubDate>Mon, 03 Nov 2025 15:50:49 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/cddb0440-b8cb-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Haaland scores twice to send Man City second]]></title>
@@ -304,12 +288,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4abd/live/4bb0bbb0-b80b-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[When is the FA Cup second round draw?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team looks at the FA Cup's second round draw, ball numbers and prize money on offer.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9d6xzzvx3yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9d6xzzvx3yo</guid>
-      <pubDate>Fri, 31 Oct 2025 12:23:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4517/live/1e596ad0-b654-11f0-aa13-0b0479f6f42a.jpg"/>
+      <title><![CDATA[Why is Oxlade-Chamberlain training with Arsenal?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything explains why Alex Oxlade-Chamberlain is training with Arsenal.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce9d15nr5rmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce9d15nr5rmo</guid>
+      <pubDate>Mon, 03 Nov 2025 15:50:49 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/cddb0440-b8cb-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Points, pubs and Pereira - why a perfect match at Wolves turned sour]]></title>
@@ -352,6 +336,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db8/live/ed3e4530-b7ff-11f0-b0a4-7b642c7e1e8a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[The former England masterminds looking to build a 'superpower']]></title>
+      <description><![CDATA[When something works successfully, it makes sense to try it again. That's what Kay Cossington and Anja van Ginhoven are doing.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clyk7evwgewo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyk7evwgewo</guid>
+      <pubDate>Sun, 02 Nov 2025 06:26:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ceb/live/c96a2e10-b414-11f0-8984-f9077abd0669.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['It didn't look good' - should players ever publicly snub their manager?]]></title>
       <description><![CDATA[After Micky van de Ven and Djed Spence appeared to ignore Thomas Frank following Tottenham's loss to Chelsea, BBC Sport pundits discuss whether it is ever OK to snub the manager?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8r03jm60jgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -374,14 +366,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czxkp8nzjxqo</guid>
       <pubDate>Sun, 02 Nov 2025 22:44:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f23/live/b098d540-b83c-11f0-aa13-0b0479f6f42a.png"/>
-    </item>
-    <item>
-      <title><![CDATA[The former England masterminds looking to build a 'superpower']]></title>
-      <description><![CDATA[When something works successfully, it makes sense to try it again. That's what Kay Cossington and Anja van Ginhoven are doing.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyk7evwgewo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyk7evwgewo</guid>
-      <pubDate>Sun, 02 Nov 2025 06:26:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ceb/live/c96a2e10-b414-11f0-8984-f9077abd0669.jpg"/>
     </item>
     <item>
       <title><![CDATA[Semaca committed to Wealdstone takeover despite delay]]></title>
