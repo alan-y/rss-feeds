@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 15:51:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 16:22:14 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,12 +48,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7cd/live/b8e23d90-b8c8-11f0-ba75-093eca1ac29b.png"/>
     </item>
     <item>
-      <title><![CDATA[Scunthorpe player injured in Huntingdon train stabbing]]></title>
-      <description><![CDATA[Jonathan Gjoshe "sustained non-life-threatening injuries as a result of the attack", the club says.]]></description>
-      <link>https://www.bbc.com/news/articles/cev18p1gwp2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cev18p1gwp2o</guid>
-      <pubDate>Mon, 03 Nov 2025 14:41:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b2c/live/53062740-b8bc-11f0-b2a1-6f537f66f9aa.jpg"/>
+      <title><![CDATA[Scunthorpe player and Forest fan among train attack victims]]></title>
+      <description><![CDATA[Scunthorpe United footballer Jonathan Gjoshe, 22 and Nottingham Forest fan Stephen Crean were stabbed. ]]></description>
+      <link>https://www.bbc.com/news/articles/cpv1dprv2w2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cpv1dprv2w2o</guid>
+      <pubDate>Mon, 03 Nov 2025 15:50:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/add7/live/056df4e0-b8bc-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Van de Ven and Spence meant 'no disrespect' - Frank]]></title>
@@ -224,20 +224,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f51/live/53bffd00-b89e-11f0-8ea1-0d97f1bb4ddf.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why is Oxlade-Chamberlain training with Arsenal?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything explains why Alex Oxlade-Chamberlain is training with Arsenal.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce9d15nr5rmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce9d15nr5rmo</guid>
+      <pubDate>Mon, 03 Nov 2025 15:50:49 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99b2/live/cddb0440-b8cb-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['An epic fightback' - Blundell makes Man Utd return after giving birth]]></title>
       <description><![CDATA[Manchester United's Hannah Blundell makes her return to football after more than a year away to give birth to her daughter.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdx4e90pq1eo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdx4e90pq1eo</guid>
       <pubDate>Sun, 02 Nov 2025 17:09:19 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4abd/live/4bb0bbb0-b80b-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[When is the FA Cup second round draw?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team looks at the FA Cup's second round draw, ball numbers and prize money on offer.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9d6xzzvx3yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9d6xzzvx3yo</guid>
-      <pubDate>Fri, 31 Oct 2025 12:23:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4517/live/1e596ad0-b654-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Points, pubs and Pereira - why a perfect match at Wolves turned sour]]></title>
@@ -296,6 +296,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87fc/live/c96ba0a0-b825-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[When is the FA Cup second round draw?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team looks at the FA Cup's second round draw, ball numbers and prize money on offer.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9d6xzzvx3yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9d6xzzvx3yo</guid>
+      <pubDate>Fri, 31 Oct 2025 12:23:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4517/live/1e596ad0-b654-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Rangers probe SFA for answers - but were they hard done by?]]></title>
       <description><![CDATA[Rangers head coach Danny Rohl refuses to use controversial refereeing decisions as an excuse for his side's Premier Sports Cup semi-final defeat by Celtic, preferring to focus on their "outstanding" reaction.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c1wl90lxxexo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -320,20 +328,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba34/live/eccf8fc0-b7fd-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA['It didn't look good' - should players ever publicly snub their manager?]]></title>
-      <description><![CDATA[After Micky van de Ven and Djed Spence appeared to ignore Thomas Frank following Tottenham's loss to Chelsea, BBC Sport pundits discuss whether it is ever OK to snub the manager?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8r03jm60jgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8r03jm60jgo</guid>
-      <pubDate>Sun, 02 Nov 2025 17:55:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e1d/live/5b9d6c80-b80b-11f0-ae6f-c3ffa93e96b1.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[What questions face Clarke as he names Scotland squad?]]></title>
       <description><![CDATA[What are the key decisions Steve Clarke has to make as the head coach names his Scotland squad to face Greece and Denmark?]]></description>
       <link>https://www.bbc.com/sport/football/articles/czxkp8nzjxqo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czxkp8nzjxqo</guid>
       <pubDate>Sun, 02 Nov 2025 22:44:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f23/live/b098d540-b83c-11f0-aa13-0b0479f6f42a.png"/>
+    </item>
+    <item>
+      <title><![CDATA['It didn't look good' - should players ever publicly snub their manager?]]></title>
+      <description><![CDATA[After Micky van de Ven and Djed Spence appeared to ignore Thomas Frank following Tottenham's loss to Chelsea, BBC Sport pundits discuss whether it is ever OK to snub the manager?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8r03jm60jgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8r03jm60jgo</guid>
+      <pubDate>Sun, 02 Nov 2025 17:55:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e1d/live/5b9d6c80-b80b-11f0-ae6f-c3ffa93e96b1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Who are England playing in U17 World Cup and when?]]></title>
@@ -344,20 +352,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf7e/live/f61eee60-b670-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Semaca committed to Wealdstone takeover despite delay]]></title>
-      <description><![CDATA[Wealdstone say Nick Semaca is fully committed to obtaining a majority stake in the National League club despite a delay.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly4d3g21kwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly4d3g21kwo</guid>
-      <pubDate>Mon, 03 Nov 2025 09:40:19 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/397d/live/86813ae0-a351-11f0-9a02-114bd53bb5d7.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[The former England masterminds looking to build a 'superpower']]></title>
       <description><![CDATA[When something works successfully, it makes sense to try it again. That's what Kay Cossington and Anja van Ginhoven are doing.]]></description>
       <link>https://www.bbc.com/sport/football/articles/clyk7evwgewo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyk7evwgewo</guid>
       <pubDate>Sun, 02 Nov 2025 06:26:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ceb/live/c96a2e10-b414-11f0-8984-f9077abd0669.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Semaca committed to Wealdstone takeover despite delay]]></title>
+      <description><![CDATA[Wealdstone say Nick Semaca is fully committed to obtaining a majority stake in the National League club despite a delay.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly4d3g21kwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly4d3g21kwo</guid>
+      <pubDate>Mon, 03 Nov 2025 09:40:19 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/397d/live/86813ae0-a351-11f0-9a02-114bd53bb5d7.jpg"/>
     </item>
     <item>
       <title><![CDATA[Salah shines as Slot & Liverpool get fans' backing]]></title>
@@ -398,14 +406,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2lljrgl8po</guid>
       <pubDate>Sat, 01 Nov 2025 22:34:58 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f11e/live/1d597ef0-b770-11f0-a2e7-35497efbccf7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Dyche wants VAR to rule on corners after 'farcical' decisions]]></title>
-      <description><![CDATA[Nottingham Forest manager Sean Dyche calls for VAR to overrule wrongly awarded corners after a second decision goes against his side.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy5qq1evepno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy5qq1evepno</guid>
-      <pubDate>Sat, 01 Nov 2025 19:04:09 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfd7/live/fccf2760-b770-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Bournemouth goal should have been ruled out - Guardiola]]></title>
