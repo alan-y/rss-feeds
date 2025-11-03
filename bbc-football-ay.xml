@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 06:57:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 07:21:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -56,12 +56,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/270b/live/53bf33c0-b81c-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[The tactics behind Sunderland's impressive start]]></title>
+      <description><![CDATA[BBC Sport analyses the tactics behind Sunderland's impressive start on their Premier League return.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c33pmzxl8yko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c33pmzxl8yko</guid>
+      <pubDate>Mon, 03 Nov 2025 07:05:22 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f960/live/01f54b50-b82c-11f0-adc1-c570fdbf27cd.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Forest owner offers to help fans after train attack]]></title>
       <description><![CDATA[Nottingham Forest owner Evangelos Marinakis says he will fund the medical care of any of the club's fans caught up in a mass stabbing incident on a train on Saturday.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cqx3q08dqz4o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqx3q08dqz4o</guid>
       <pubDate>Sun, 02 Nov 2025 18:08:12 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8763/live/8f8db190-b814-11f0-8801-8b419f17177b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Kane considers Barcelona switch - Monday's gossip]]></title>
+      <description><![CDATA[Bayern Munich striker Harry Kane considering move to Barcelona, Manchester United and Tottenham monitoring Everton's Jarrad Branthwaite and Liverpool watch Fulham winger Kevin. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c620vg663l7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c620vg663l7o</guid>
+      <pubDate>Sun, 02 Nov 2025 23:41:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2391/live/be587ca0-b82b-11f0-ba75-093eca1ac29b.png"/>
     </item>
     <item>
       <title><![CDATA[Tuchel must consider calling up Welbeck - Rooney]]></title>
@@ -94,22 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c3dn0k037dvo</guid>
       <pubDate>Sun, 02 Nov 2025 20:36:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef98/live/4c170350-b826-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Kane considers Barcelona switch - Monday's gossip]]></title>
-      <description><![CDATA[Bayern Munich striker Harry Kane considering move to Barcelona, Manchester United and Tottenham monitoring Everton's Jarrad Branthwaite and Liverpool watch Fulham winger Kevin. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c620vg663l7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c620vg663l7o</guid>
-      <pubDate>Sun, 02 Nov 2025 23:41:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2391/live/be587ca0-b82b-11f0-ba75-093eca1ac29b.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Rangers probe SFA for answers - but were they hard done by?]]></title>
-      <description><![CDATA[Rangers head coach Danny Rohl refuses to use controversial refereeing decisions as an excuse for his side's Premier Sports Cup semi-final defeat by Celtic, preferring to focus on their "outstanding" reaction.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1wl90lxxexo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1wl90lxxexo</guid>
-      <pubDate>Sun, 02 Nov 2025 21:02:00 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f8/live/b5017ad0-b821-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Russo & Blackstenius shine as Arsenal thrash Leicester]]></title>
@@ -158,6 +158,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdx4e90pq1eo</guid>
       <pubDate>Sun, 02 Nov 2025 17:09:19 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4abd/live/4bb0bbb0-b80b-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rangers probe SFA for answers - but were they hard done by?]]></title>
+      <description><![CDATA[Rangers head coach Danny Rohl refuses to use controversial refereeing decisions as an excuse for his side's Premier Sports Cup semi-final defeat by Celtic, preferring to focus on their "outstanding" reaction.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1wl90lxxexo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1wl90lxxexo</guid>
+      <pubDate>Sun, 02 Nov 2025 21:02:00 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f8/live/b5017ad0-b821-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Points, pubs and Pereira - why a perfect match at Wolves turned sour]]></title>
@@ -440,6 +448,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad68/live/0412db50-b804-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA['From black and white football to full colour' - Emery's three years at Villa]]></title>
+      <description><![CDATA[As Unai Emery marks three years at Aston Villa, Guillem Balague looks at his journey to Villa Park and his bid to "awaken the giant".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9d6xd6g182o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9d6xd6g182o</guid>
+      <pubDate>Sat, 01 Nov 2025 07:38:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2c6/live/7a1d1830-b663-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Has England's Euros triumph given women's club football a boost?]]></title>
       <description><![CDATA[One of the constant refrains throughout England's triumphant run at Euro 2025 – and indeed most women's football matches in recent years – has been how important the success of the Lionesses has been for the growth of the game. But what has been the impact?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgjd406e7n9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -470,14 +486,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c781zwgx419o</guid>
       <pubDate>Tue, 28 Oct 2025 15:21:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae9b/live/673da050-b40a-11f0-82d7-192373518099.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Stole a penguin, jailed in Singapore, now Aberdeen sporting director]]></title>
-      <description><![CDATA[Lutz Pfannenstiel has stolen a penguin, spent 101 days in jail accused of match-fixing, modelled for Armani - and is Aberdeen's new sporting director.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd67gl21919o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd67gl21919o</guid>
-      <pubDate>Mon, 27 Oct 2025 17:10:35 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da0e/live/86fe6560-b350-11f0-b11a-19d20bbc6217.jpg"/>
     </item>
     <item>
       <title><![CDATA[Transfers - September to December 2025]]></title>
