@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 09:25:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 09:51:01 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Van Dijk rejects Rooney's 'lazy criticism']]></title>
+      <description><![CDATA[Liverpool captain Virgil van Dijk says Wayne Rooney blaming a lack of leadership for the Anfield side's recent poor form is "lazy criticism".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy4pxy78g0jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy4pxy78g0jo</guid>
+      <pubDate>Mon, 03 Nov 2025 06:11:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5196/live/adace270-b848-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
     <item>
       <title><![CDATA['He lives for the goals' - robot Haaland returns from malfunction]]></title>
       <description><![CDATA[Erling Haaland pulled out the robot dance in the win over Bournemouth and his levels were compared to Lionel Messi and Cristiano Ronaldo by boss Pep Guardiola.]]></description>
@@ -32,14 +40,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b00b/live/491caa60-b6fa-11f0-b7e8-2f8280b0e689.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Van Dijk rejects Rooney's 'lazy criticism']]></title>
-      <description><![CDATA[Liverpool captain Virgil van Dijk says Wayne Rooney blaming a lack of leadership for the Anfield side's recent poor form is "lazy criticism".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy4pxy78g0jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy4pxy78g0jo</guid>
-      <pubDate>Mon, 03 Nov 2025 06:11:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5196/live/adace270-b848-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Haaland scores twice to send Man City second]]></title>
       <description><![CDATA[Watch highlights as Erling Haaland scores twice for Manchester City in a 3-1 win against Bournemouth which lifts Pep Guardiola's side up to second in the Premier League.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cd9kzldp00ko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -48,7 +48,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e494/live/10a65030-b81e-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Will a computer game help women's football grow?]]></title>
+      <title><![CDATA[Will FM26 help women's football grow?]]></title>
       <description><![CDATA[The launch of the latest edition of the Football Manager series will enhance visibility of the women's game, and could help unearth some unheralded female talents too.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cm2ld8090rlo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2ld8090rlo</guid>
@@ -168,14 +168,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4abd/live/4bb0bbb0-b80b-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Edwards and O'Neil among Wolves contenders]]></title>
-      <description><![CDATA[Rob Edwards and Gary O'Neil are two of the early names in the frame to replace Vitor Pereira at Wolves.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqx3q9423w7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqx3q9423w7o</guid>
-      <pubDate>Sun, 02 Nov 2025 16:51:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/021b/live/aefd6070-b80a-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Rangers probe SFA for answers - but were they hard done by?]]></title>
       <description><![CDATA[Rangers head coach Danny Rohl refuses to use controversial refereeing decisions as an excuse for his side's Premier Sports Cup semi-final defeat by Celtic, preferring to focus on their "outstanding" reaction.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c1wl90lxxexo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -200,6 +192,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db8/live/ed3e4530-b7ff-11f0-b0a4-7b642c7e1e8a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Edwards and O'Neil among Wolves contenders]]></title>
+      <description><![CDATA[Rob Edwards and Gary O'Neil are two of the early names in the frame to replace Vitor Pereira at Wolves.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqx3q9423w7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqx3q9423w7o</guid>
+      <pubDate>Sun, 02 Nov 2025 16:51:05 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/021b/live/aefd6070-b80a-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Southampton sack Still after five months in charge]]></title>
       <description><![CDATA[Southampton sack manager Will Still after just five months in charge and with the club 21st in the Championship.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0kpdx5nvm6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -214,14 +214,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8r03jm60jgo</guid>
       <pubDate>Sun, 02 Nov 2025 17:55:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e1d/live/5b9d6c80-b80b-11f0-ae6f-c3ffa93e96b1.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Liverpool feelings won't change, says Alexander-Arnold]]></title>
-      <description><![CDATA[Trent Alexander-Arnold says his feelings for Liverpool will not be affected by the reception he receives on Tuesday's Anfield return with current side Real Madrid in the Champions League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyg1rplzy0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyg1rplzy0o</guid>
-      <pubDate>Sun, 02 Nov 2025 15:54:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba34/live/eccf8fc0-b7fd-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[When is the FA Cup second round draw?]]></title>
@@ -326,6 +318,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czdrjdl9l3yo</guid>
       <pubDate>Mon, 03 Nov 2025 07:41:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf7e/live/f61eee60-b670-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Liverpool feelings won't change, says Alexander-Arnold]]></title>
+      <description><![CDATA[Trent Alexander-Arnold says his feelings for Liverpool will not be affected by the reception he receives on Tuesday's Anfield return with current side Real Madrid in the Champions League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clyg1rplzy0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyg1rplzy0o</guid>
+      <pubDate>Sun, 02 Nov 2025 15:54:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba34/live/eccf8fc0-b7fd-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[The former England masterminds looking to build a 'superpower']]></title>
