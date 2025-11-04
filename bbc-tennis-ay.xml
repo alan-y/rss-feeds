@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 07:46:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 08:26:42 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -411,6 +411,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16ad/live/315507e0-8123-11f0-ab3e-bd52082cd0ae.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Who has won tennis' 'Battle of the Sexes'?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team details the history of 'Battle of the Sexes' matches in tennis]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c147zlnxejyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c147zlnxejyo</guid>
+      <pubDate>Tue, 04 Nov 2025 08:08:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e61c/live/ec3154a0-b955-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[What is US Open prize money?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team looks at how much prize money is on offer at the US Open.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cgjyjjxzvydo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -433,14 +441,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cvg7zqyewyqo</guid>
       <pubDate>Thu, 26 Jun 2025 10:08:30 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b694/live/dcecd860-4c41-11f0-86d5-3b52b53af158.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Why female tennis players returned to Queen's after half a century]]></title>
-      <description><![CDATA[For the first time in 52 years, women will be playing tennis at Queen's - here's why.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c1e6l90p2vxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c1e6l90p2vxo</guid>
-      <pubDate>Fri, 06 Jun 2025 10:49:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7ea/live/76c794a0-4230-11f0-835b-310c7b938e84.png"/>
     </item>
   </channel>
 </rss>
