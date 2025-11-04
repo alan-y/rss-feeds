@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 19:17:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 19:29:23 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -88,14 +88,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07a/live/0566ba20-b986-11f0-bc67-5ff597b9ab99.png"/>
     </item>
     <item>
-      <title><![CDATA[Will Alexander-Arnold show what Liverpool are missing on return?]]></title>
-      <description><![CDATA[Trent Alexander-Arnold returns to Liverpool for the first time since moving to Real Madrid on Tuesday, when he will discover if absence has made Anfield hearts grow fonder.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ceq00y1l8p5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ceq00y1l8p5o</guid>
-      <pubDate>Tue, 04 Nov 2025 06:31:15 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b00b/live/491caa60-b6fa-11f0-b7e8-2f8280b0e689.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Joey Barton's posts scared me, Lucy Ward tells jury]]></title>
       <description><![CDATA[The ex-footballer is accused of making offensive posts about pundits Lucy Ward and Eni Aluko.]]></description>
       <link>https://www.bbc.com/news/articles/c0exrgl217jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -168,20 +160,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c763/live/b851f230-b8cd-11f0-a189-a5144dbce456.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Will Alexander-Arnold show what Liverpool are missing on return?]]></title>
+      <description><![CDATA[Trent Alexander-Arnold returns to Liverpool for the first time since moving to Real Madrid on Tuesday, when he will discover if absence has made Anfield hearts grow fonder.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ceq00y1l8p5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ceq00y1l8p5o</guid>
+      <pubDate>Tue, 04 Nov 2025 06:31:15 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b00b/live/491caa60-b6fa-11f0-b7e8-2f8280b0e689.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Players in tears as coach dies during match]]></title>
       <description><![CDATA[Mladen Zizovic, manager of Serbian top-flight side FK Radnicki 1923, dies after collapsing during a match.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2yl0y85ylo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2yl0y85ylo</guid>
       <pubDate>Tue, 04 Nov 2025 13:21:10 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8d5/live/bc82a250-b977-11f0-ba33-09d35dfa6f46.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wales 'all in' for 2027 World Cup - Wilkinson ]]></title>
-      <description><![CDATA[Rhian Wilkinson says Wales must believe they can challenge for a place at the 2027 Women's World Cup even if qualification for the next European Championship is a more realistic target.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9wvxpx9rdro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9wvxpx9rdro</guid>
-      <pubDate>Tue, 04 Nov 2025 15:28:29 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a59f/live/e9ee43d0-b994-11f0-a296-2db798c7811c.jpg"/>
     </item>
     <item>
       <title><![CDATA[What is a ghostwriter after Earps' book backlash?]]></title>
@@ -198,6 +190,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyne3dnld2o</guid>
       <pubDate>Tue, 04 Nov 2025 07:36:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e93e/live/6ad761c0-ae8c-11f0-b0ec-2949909959e5.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Wales 'all in' for 2027 World Cup - Wilkinson ]]></title>
+      <description><![CDATA[Rhian Wilkinson says Wales must believe they can challenge for a place at the 2027 Women's World Cup even if qualification for the next European Championship is a more realistic target.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9wvxpx9rdro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9wvxpx9rdro</guid>
+      <pubDate>Tue, 04 Nov 2025 15:28:29 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a59f/live/e9ee43d0-b994-11f0-a296-2db798c7811c.jpg"/>
     </item>
     <item>
       <title><![CDATA[The £22m squad out to shock Chelsea - how Qarabag are defying odds]]></title>
@@ -312,20 +312,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a700/live/20f9d6e0-b8d3-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Mainoo closer to Man Utd exit - Tuesday's gossip]]></title>
-      <description><![CDATA[Manchester United midfielder Kobbie Mainoo is closer to leaving Old Trafford, Barcelona will complete a deal for Marcus Rashford if he agrees to their wage offer, Newcastle eye Atalanta midfielder Ederson, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clylx72pz2wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clylx72pz2wo</guid>
-      <pubDate>Mon, 03 Nov 2025 21:38:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b792/live/26d41260-b8fb-11f0-aa13-0b0479f6f42a.png"/>
-    </item>
-    <item>
       <title><![CDATA[What can you read into the Premier League table after 10 games?]]></title>
       <description><![CDATA[With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c07m5yk9dgzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07m5yk9dgzo</guid>
       <pubDate>Mon, 03 Nov 2025 22:41:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79fd/live/99b69100-b8dc-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Mainoo closer to Man Utd exit - Tuesday's gossip]]></title>
+      <description><![CDATA[Manchester United midfielder Kobbie Mainoo is closer to leaving Old Trafford, Barcelona will complete a deal for Marcus Rashford if he agrees to their wage offer, Newcastle eye Atalanta midfielder Ederson, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clylx72pz2wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clylx72pz2wo</guid>
+      <pubDate>Mon, 03 Nov 2025 21:38:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b792/live/26d41260-b8fb-11f0-aa13-0b0479f6f42a.png"/>
     </item>
     <item>
       <title><![CDATA[Injured players a 'big loss' for NI - O'Neill]]></title>
@@ -350,14 +350,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0exdyj0y2vo</guid>
       <pubDate>Mon, 03 Nov 2025 17:25:21 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/634f/live/d1d91dd0-b8d4-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[England may play two games away from Wembley at Euro 2028]]></title>
-      <description><![CDATA[Euro 2028 co-hosts England face playing one group match and a possible last-16 game away from Wembley.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ceq01828224o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ceq01828224o</guid>
-      <pubDate>Mon, 03 Nov 2025 19:22:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bed9/live/acc69650-b8e6-11f0-83f6-c9f4d8a3698a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Agent arrested after player 'threatened with gun']]></title>
