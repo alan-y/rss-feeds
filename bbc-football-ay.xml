@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 15:52:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 16:24:22 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[England drawn with Spain in Women's World Cup qualifying]]></title>
-      <description><![CDATA[England are drawn with Spain in their qualifying group for the 2027 Women's World Cup as Scotland, Wales, Northern Ireland and Republic of Ireland all learn their opponents.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgky8vwyk5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgky8vwyk5o</guid>
-      <pubDate>Tue, 04 Nov 2025 13:19:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2942/live/d3e1d3f0-b975-11f0-a949-2fea9e2120e8.jpg"/>
-    </item>
     <item>
       <title><![CDATA[Alexander-Arnold mural defaced before Anfield return]]></title>
       <description><![CDATA[A mural of Trent Alexander-Arnold has been vandalised as the Real Madrid right-back prepares to face former club Liverpool on Tuesday.]]></description>
@@ -30,6 +22,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ylv513lgjo</guid>
       <pubDate>Tue, 04 Nov 2025 15:42:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc54/live/55ff64d0-b992-11f0-b457-4fe6c8d00802.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[England drawn with Spain in Women's World Cup qualifying]]></title>
+      <description><![CDATA[England are drawn with Spain in their qualifying group for the 2027 Women's World Cup as Scotland, Wales, Northern Ireland and Republic of Ireland all learn their opponents.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgky8vwyk5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgky8vwyk5o</guid>
+      <pubDate>Tue, 04 Nov 2025 13:19:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2942/live/d3e1d3f0-b975-11f0-a949-2fea9e2120e8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arise, Sir David - Beckham receives knighthood]]></title>
@@ -88,12 +88,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54e4/live/21528690-b8c5-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Players in tears as coach dies during match]]></title>
-      <description><![CDATA[Mladen Zizovic, manager of Serbian top-flight side FK Radnicki 1923, dies after collapsing during a match.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2yl0y85ylo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2yl0y85ylo</guid>
-      <pubDate>Tue, 04 Nov 2025 13:21:10 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8d5/live/bc82a250-b977-11f0-ba33-09d35dfa6f46.jpg"/>
+      <title><![CDATA[The £22m squad out to shock Chelsea - how Qarabag are defying odds]]></title>
+      <description><![CDATA[Azerbaijani team Qarabag host Chelsea on Wednesday bidding to win back-to-back home European matches for the first time. BBC Sport looks at their rise.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgkdlwwxkxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgkdlwwxkxo</guid>
+      <pubDate>Tue, 04 Nov 2025 15:58:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4859/live/e2a77d00-b98d-11f0-af69-4365f82c1c41.jpg"/>
     </item>
     <item>
       <title><![CDATA[Will Alexander-Arnold show what Liverpool are missing on return?]]></title>
@@ -152,6 +152,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/659f/live/9e2fe980-b8ef-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Players in tears as coach dies during match]]></title>
+      <description><![CDATA[Mladen Zizovic, manager of Serbian top-flight side FK Radnicki 1923, dies after collapsing during a match.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2yl0y85ylo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2yl0y85ylo</guid>
+      <pubDate>Tue, 04 Nov 2025 13:21:10 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8d5/live/bc82a250-b977-11f0-ba33-09d35dfa6f46.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What is a ghostwriter after Earps' book backlash?]]></title>
+      <description><![CDATA[Our Ask Me Anything team look at what it means when a book is ghostwritten.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0mxkwkm1x9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mxkwkm1x9o</guid>
+      <pubDate>Tue, 04 Nov 2025 15:23:14 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca48/live/e13395f0-b972-11f0-aa13-0b0479f6f42a.png"/>
+    </item>
+    <item>
       <title><![CDATA[Injured players a 'big loss' for NI - O'Neill]]></title>
       <description><![CDATA[Northern Ireland manager Michael O'Neill will be without key midfield duo Shea Charles and Ali McCann for this month's 2026 World Cup qualifiers against Slovakia and Luxembourg.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwypgjl7gkro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -192,20 +208,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/282e/live/84705fe0-b8d4-11f0-ba75-093eca1ac29b.png"/>
     </item>
     <item>
-      <title><![CDATA[£160m and counting - Everton's search for their dream striker continues]]></title>
-      <description><![CDATA[Everton's 10-year search for their dream striker continues. BBC Sport looks at their ongoing woes in front of goal.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crmxz2lpxr8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crmxz2lpxr8o</guid>
-      <pubDate>Mon, 03 Nov 2025 22:41:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97dd/live/a8d144a0-b904-11f0-ad1e-ddf89b597710.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Kilmarnock in freefall - but can Kettlewell turn it around?]]></title>
       <description><![CDATA[BBC Scotland analyses Kilmarnock's worrying form. With a tough run on the way, can manager Stuart Kettlewell turn things around?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cly1gzd27jro?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly1gzd27jro</guid>
       <pubDate>Tue, 04 Nov 2025 13:06:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2a4/live/ad38b6a0-b976-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[£160m and counting - Everton's search for their dream striker continues]]></title>
+      <description><![CDATA[Everton's 10-year search for their dream striker continues. BBC Sport looks at their ongoing woes in front of goal.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crmxz2lpxr8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crmxz2lpxr8o</guid>
+      <pubDate>Mon, 03 Nov 2025 22:41:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97dd/live/a8d144a0-b904-11f0-ad1e-ddf89b597710.jpg"/>
     </item>
     <item>
       <title><![CDATA[What can you read into the Premier League table after 10 games?]]></title>
@@ -238,22 +254,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv1dev9y1eo</guid>
       <pubDate>Mon, 03 Nov 2025 21:06:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c6/live/68345630-b909-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Mainoo closer to Man Utd exit - Tuesday's gossip]]></title>
-      <description><![CDATA[Manchester United midfielder Kobbie Mainoo is closer to leaving Old Trafford, Barcelona will complete a deal for Marcus Rashford if he agrees to their wage offer, Newcastle eye Atalanta midfielder Ederson, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clylx72pz2wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clylx72pz2wo</guid>
-      <pubDate>Mon, 03 Nov 2025 21:38:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b792/live/26d41260-b8fb-11f0-aa13-0b0479f6f42a.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Rangers 'remain unsatisfied' after SFA referee talks]]></title>
-      <description><![CDATA[Rangers say they have "concerns about the consistency of refereeing in Scottish football" and "remain unsatisfied" with an explanation on the decision to not send off Celtic's Auston Trusty in Sunday's League Cup semi-final.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8x1dz7kny2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8x1dz7kny2o</guid>
-      <pubDate>Mon, 03 Nov 2025 21:36:08 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7608/live/0a8cfc10-b8f7-11f0-bdde-755c869dcf51.jpg"/>
     </item>
     <item>
       <title><![CDATA['He gets a warm welcome from me' - Slot on Alexander-Arnold]]></title>
@@ -294,6 +294,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c24l62n4my3o</guid>
       <pubDate>Mon, 03 Nov 2025 15:10:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6860/live/c0cb84c0-b8b5-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Mainoo closer to Man Utd exit - Tuesday's gossip]]></title>
+      <description><![CDATA[Manchester United midfielder Kobbie Mainoo is closer to leaving Old Trafford, Barcelona will complete a deal for Marcus Rashford if he agrees to their wage offer, Newcastle eye Atalanta midfielder Ederson, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clylx72pz2wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clylx72pz2wo</guid>
+      <pubDate>Mon, 03 Nov 2025 21:38:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b792/live/26d41260-b8fb-11f0-aa13-0b0479f6f42a.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Rangers 'remain unsatisfied' after SFA referee talks]]></title>
+      <description><![CDATA[Rangers say they have "concerns about the consistency of refereeing in Scottish football" and "remain unsatisfied" with an explanation on the decision to not send off Celtic's Auston Trusty in Sunday's League Cup semi-final.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8x1dz7kny2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8x1dz7kny2o</guid>
+      <pubDate>Mon, 03 Nov 2025 21:36:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7608/live/0a8cfc10-b8f7-11f0-bdde-755c869dcf51.jpg"/>
     </item>
     <item>
       <title><![CDATA[England may play two games away from Wembley at Euro 2028]]></title>
@@ -424,28 +440,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f51/live/53bffd00-b89e-11f0-8ea1-0d97f1bb4ddf.jpg"/>
     </item>
     <item>
-      <title><![CDATA['He lives for the goals' - robot Haaland returns from malfunction]]></title>
-      <description><![CDATA[Erling Haaland pulled out the robot dance in the win over Bournemouth and his levels were compared to Lionel Messi and Cristiano Ronaldo by boss Pep Guardiola.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy5vgqgw18o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy5vgqgw18o</guid>
-      <pubDate>Sun, 02 Nov 2025 21:40:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0748/live/d4002220-b848-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Van Dijk rejects Rooney's 'lazy criticism']]></title>
       <description><![CDATA[Liverpool captain Virgil van Dijk says Wayne Rooney blaming a lack of leadership for the Anfield side's recent poor form is "lazy criticism".]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy4pxy78g0jo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy4pxy78g0jo</guid>
       <pubDate>Mon, 03 Nov 2025 06:11:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5196/live/adace270-b848-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why VAR won't be getting involved in corners ]]></title>
-      <description><![CDATA[Nottingham Forest boss Sean Dyche is frustrated after Casemiro's goal from a corner is allowed to stand, but VAR will not be changing to include them in its remit.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz7pn8j23xvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz7pn8j23xvo</guid>
-      <pubDate>Mon, 03 Nov 2025 13:10:46 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d39/live/1e90ce50-b8a0-11f0-8ea1-0d97f1bb4ddf.jpg"/>
     </item>
     <item>
       <title><![CDATA[Spurs pair 'meant no disrespect' with Frank snub]]></title>
