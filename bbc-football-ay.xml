@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 12:41:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 13:33:42 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[England drawn with Spain in Women's World Cup qualifying]]></title>
+      <description><![CDATA[England are drawn with Spain in their qualifying group for the 2027 Women's World Cup as Scotland, Wales, Northern Ireland and Republic of Ireland all learn their opponents.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgky8vwyk5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgky8vwyk5o</guid>
+      <pubDate>Tue, 04 Nov 2025 13:19:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2942/live/d3e1d3f0-b975-11f0-a949-2fea9e2120e8.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Who do fans think is the key player in each Premier League team?]]></title>
       <description><![CDATA[From the "soul of the team" to an "absolute warrior", here are the Premier League's 20 key players, as chosen by our fan writers.]]></description>
@@ -45,15 +53,7 @@
       <link>https://www.bbc.com/sport/football/articles/c17pzezw7l9o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c17pzezw7l9o</guid>
       <pubDate>Tue, 04 Nov 2025 11:35:34 GMT</pubDate>
-      <media:thumbnail width="240" height="177" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bb4/live/f770f850-b97a-11f0-b2a1-6f537f66f9aa.png"/>
-    </item>
-    <item>
-      <title><![CDATA['Signing of season' - how Xhaka has led Sunderland to top four]]></title>
-      <description><![CDATA[Sunderland captain Granit Xhaka was called the signing of the season - and then came his biggest contribution so far with his strike against Everton.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c93dw01j595o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93dw01j595o</guid>
-      <pubDate>Mon, 03 Nov 2025 23:33:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9666/live/e8abe8f0-b909-11f0-8389-cbecaae2311b.jpg"/>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8cc/live/973fd980-b97d-11f0-ba33-09d35dfa6f46.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Kompany turned Bayern into a formidable force]]></title>
@@ -64,12 +64,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54e4/live/21528690-b8c5-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What can you read into the Premier League table after 10 games?]]></title>
-      <description><![CDATA[With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c07m5yk9dgzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07m5yk9dgzo</guid>
-      <pubDate>Mon, 03 Nov 2025 22:41:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79fd/live/99b69100-b8dc-11f0-aa13-0b0479f6f42a.jpg"/>
+      <title><![CDATA[Players in tears as coach dies during match]]></title>
+      <description><![CDATA[Mladen Zizovic, manager of Serbian top-flight side FK Radnicki 1923, dies after collapsing during a match.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2yl0y85ylo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2yl0y85ylo</guid>
+      <pubDate>Tue, 04 Nov 2025 13:21:10 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8d5/live/bc82a250-b977-11f0-ba33-09d35dfa6f46.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Signing of season' - how Xhaka has led Sunderland to top four]]></title>
+      <description><![CDATA[Sunderland captain Granit Xhaka was called the signing of the season - and then came his biggest contribution so far with his strike against Everton.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c93dw01j595o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93dw01j595o</guid>
+      <pubDate>Mon, 03 Nov 2025 23:33:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9666/live/e8abe8f0-b909-11f0-8389-cbecaae2311b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Identity, belonging, defiantly local - inside Athletic Club's success]]></title>
@@ -86,14 +94,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ceq00y1l8p5o</guid>
       <pubDate>Tue, 04 Nov 2025 06:31:15 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b00b/live/491caa60-b6fa-11f0-b7e8-2f8280b0e689.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
-      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgr417wqnddo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgr417wqnddo</guid>
-      <pubDate>Mon, 03 Nov 2025 23:12:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/282e/live/84705fe0-b8d4-11f0-ba75-093eca1ac29b.png"/>
     </item>
     <item>
       <title><![CDATA[Former England captain Beckham knighted by King]]></title>
@@ -144,6 +144,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9267/live/69385580-b905-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[What can you read into the Premier League table after 10 games?]]></title>
+      <description><![CDATA[With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c07m5yk9dgzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07m5yk9dgzo</guid>
+      <pubDate>Mon, 03 Nov 2025 22:41:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79fd/live/99b69100-b8dc-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
+      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgr417wqnddo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgr417wqnddo</guid>
+      <pubDate>Mon, 03 Nov 2025 23:12:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/282e/live/84705fe0-b8d4-11f0-ba75-093eca1ac29b.png"/>
+    </item>
+    <item>
       <title><![CDATA[£160m and counting - Everton's search for their dream striker continues]]></title>
       <description><![CDATA[Everton's 10-year search for their dream striker continues. BBC Sport looks at their ongoing woes in front of goal.]]></description>
       <link>https://www.bbc.com/sport/football/articles/crmxz2lpxr8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -184,20 +200,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a700/live/20f9d6e0-b8d3-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Gyokeres injury a 'concern' for Arsenal  - Arteta]]></title>
-      <description><![CDATA[Arsenal manager Mikel Arteta says he is "concerned" by the muscle injury Viktor Gyokeres sustained during the 2-0 win at Burnley. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5ylqnde48do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ylqnde48do</guid>
-      <pubDate>Mon, 03 Nov 2025 20:29:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7390/live/3dffdc20-b8f2-11f0-bdde-755c869dcf51.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Rangers 'remain unsatisfied' after SFA referee talks]]></title>
       <description><![CDATA[Rangers say they have "concerns about the consistency of refereeing in Scottish football" and "remain unsatisfied" with an explanation on the decision to not send off Celtic's Auston Trusty in Sunday's League Cup semi-final.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8x1dz7kny2o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8x1dz7kny2o</guid>
       <pubDate>Mon, 03 Nov 2025 21:36:08 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7608/live/0a8cfc10-b8f7-11f0-bdde-755c869dcf51.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Gyokeres injury a 'concern' for Arsenal  - Arteta]]></title>
+      <description><![CDATA[Arsenal manager Mikel Arteta says he is "concerned" by the muscle injury Viktor Gyokeres sustained during the 2-0 win at Burnley. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5ylqnde48do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ylqnde48do</guid>
+      <pubDate>Mon, 03 Nov 2025 20:29:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7390/live/3dffdc20-b8f2-11f0-bdde-755c869dcf51.jpg"/>
     </item>
     <item>
       <title><![CDATA[England may play two games away from Wembley at Euro 2028]]></title>
@@ -230,22 +246,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8x1dd6qppo</guid>
       <pubDate>Mon, 03 Nov 2025 17:50:29 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c8/live/efe4af30-b8d2-11f0-a7ec-e75111ff7579.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Where are England's U17 World Cup winners now?]]></title>
-      <description><![CDATA[Ever wondered what happened to England's World Cup-winning side from the Under-17 World Cup in 2017? BBC Sport's Ask Me Anything team explains...]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy5vx4x24jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy5vx4x24jo</guid>
-      <pubDate>Tue, 04 Nov 2025 10:33:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a162/live/a6d88e10-b8a5-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Arteta wants Premier League game moved as EFL warns congestion 'unavoidable']]></title>
-      <description><![CDATA[Mikel Arteta calls for Arsenal's Premier League match on 21 December to move after their Carabao Cup quarter-final fixture against Crystal Palace is scheduled two days later.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c625n90nje7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c625n90nje7o</guid>
-      <pubDate>Mon, 03 Nov 2025 21:03:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0728/live/1aa03d20-b8f6-11f0-bdde-755c869dcf51.jpg"/>
     </item>
     <item>
       <title><![CDATA[Digie own goal sees Leyton Orient beat Tamworth]]></title>
@@ -286,6 +286,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c70j9n90n5yo</guid>
       <pubDate>Mon, 03 Nov 2025 10:26:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b33/live/ff60fa80-b89c-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Where are England's U17 World Cup winners now?]]></title>
+      <description><![CDATA[Ever wondered what happened to England's World Cup-winning side from the Under-17 World Cup in 2017? BBC Sport's Ask Me Anything team explains...]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy5vx4x24jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy5vx4x24jo</guid>
+      <pubDate>Tue, 04 Nov 2025 10:33:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a162/live/a6d88e10-b8a5-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Arteta wants Premier League game moved as EFL warns congestion 'unavoidable']]></title>
+      <description><![CDATA[Mikel Arteta calls for Arsenal's Premier League match on 21 December to move after their Carabao Cup quarter-final fixture against Crystal Palace is scheduled two days later.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c625n90nje7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c625n90nje7o</guid>
+      <pubDate>Mon, 03 Nov 2025 21:03:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0728/live/1aa03d20-b8f6-11f0-bdde-755c869dcf51.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why is Oxlade-Chamberlain training with Arsenal?]]></title>
@@ -414,22 +430,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdx4e90pq1eo</guid>
       <pubDate>Sun, 02 Nov 2025 17:09:19 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4abd/live/4bb0bbb0-b80b-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Who are England playing in U17 World Cup and when?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team explains how the 2025 Under-17s World Cup, who is playing in it and who is involved.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czdrjdl9l3yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czdrjdl9l3yo</guid>
-      <pubDate>Mon, 03 Nov 2025 07:41:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf7e/live/f61eee60-b670-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Enderby taken to hospital with suspected neck injury]]></title>
-      <description><![CDATA[Liverpool forward Mia Enderby is taken to hospital with a suspected neck injury sustained in her side's defeat at Tottenham.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c14pvnzvnnyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c14pvnzvnnyo</guid>
-      <pubDate>Sun, 02 Nov 2025 15:43:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db8/live/ed3e4530-b7ff-11f0-b0a4-7b642c7e1e8a.jpg"/>
     </item>
     <item>
       <title><![CDATA['Praying I get a good reception' - Pickford's Stadium of Light return]]></title>
@@ -640,6 +640,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db6f/live/b89f3320-ad2d-11f0-aa13-0b0479f6f42a.png"/>
     </item>
     <item>
+      <title><![CDATA[Watch live Bundesliga games on Friday nights on the BBC]]></title>
+      <description><![CDATA[BBC Sport announce broadcasting rights for Bundesliga matches for the 2025-26 and 2026-27 seasons. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g7nwk88dko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g7nwk88dko</guid>
+      <pubDate>Tue, 28 Oct 2025 16:38:22 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9cc/live/f79a7270-7da7-11f0-a34f-318be3fb0481.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Real seek 'substantial damages' over Super League ruling]]></title>
       <description><![CDATA[Real Madrid will seek "substantial damages" from Uefa after European football's governing body lost a court appeal over the failed European Super League.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cly4j5qx5qjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -678,14 +686,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn09qyv027qo</guid>
       <pubDate>Wed, 29 Oct 2025 14:57:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b00/live/86d92d80-b379-11f0-a625-3b97004255b9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Juventus sack manager Tudor after seven months ]]></title>
-      <description><![CDATA[Juventus sack head coach Igor Tudor with the side eighth in Serie A after weekend defeat by Lazio.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpq1nypl884o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpq1nypl884o</guid>
-      <pubDate>Mon, 27 Oct 2025 12:19:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15ab/live/37bfb950-b32c-11f0-9c26-756530926d22.jpg"/>
     </item>
     <item>
       <title><![CDATA[From farming village to Liverpool icon - the Salah story]]></title>
