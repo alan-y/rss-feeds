@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 05 Nov 2025 17:37:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 17:47:48 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -88,7 +88,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfcb/live/1af74c90-ba50-11f0-aac3-4f1fdbb3aa71.jpg"/>
     </item>
     <item>
-      <title><![CDATA['So much of the modern game is data-driven - I had a database in my head']]></title>
+      <title><![CDATA['If a player was recommended, I always watched them twice away from home']]></title>
       <description><![CDATA[In his BBC Sport column, Tony Pulis looks at the increase in data in recruitment, sports science and medicine in football and examines whether it helps managers or not.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c781v7zz0w2o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c781v7zz0w2o</guid>
@@ -208,6 +208,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f042/live/b03f37e0-b9ce-11f0-ba75-093eca1ac29b.png"/>
     </item>
     <item>
+      <title><![CDATA[Hearts report £400,000 loss despite income boost]]></title>
+      <description><![CDATA[Hearts made a £400,000 net operating loss for the year to June, despite increased turnover, European football and player trading gains.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c33p83vll0yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c33p83vll0yo</guid>
+      <pubDate>Wed, 05 Nov 2025 17:25:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37b5/live/805dbcb0-ba67-11f0-ba8c-5f7067df6bdc.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[No Gyokeres, no problem - makeshift Merino provides Arsenal 'solution']]></title>
       <description><![CDATA[The sight of Mikel Merino wheeling away in celebration after scoring while playing as a striker is something that Arsenal fans have got used to seeing over the past nine months.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2ylyppze9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -238,14 +246,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c17pzezw7l9o</guid>
       <pubDate>Tue, 04 Nov 2025 11:35:34 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8cc/live/973fd980-b97d-11f0-ba33-09d35dfa6f46.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Fundraiser for player injured in train stabbing]]></title>
-      <description><![CDATA[Jonathan Gjoshe "sustained non-life-threatening injuries as a result of the attack", the club says.]]></description>
-      <link>https://www.bbc.com/news/articles/cdrze3406ezo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdrze3406ezo</guid>
-      <pubDate>Tue, 04 Nov 2025 20:40:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b2c/live/53062740-b8bc-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA['It's got to sting' - Alexander-Arnold's hostile Anfield reception]]></title>
@@ -294,6 +294,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgky8vwyk5o</guid>
       <pubDate>Tue, 04 Nov 2025 13:19:50 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2942/live/d3e1d3f0-b975-11f0-a949-2fea9e2120e8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Fundraiser for player injured in train stabbing]]></title>
+      <description><![CDATA[Jonathan Gjoshe "sustained non-life-threatening injuries as a result of the attack", the club says.]]></description>
+      <link>https://www.bbc.com/news/articles/cdrze3406ezo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdrze3406ezo</guid>
+      <pubDate>Tue, 04 Nov 2025 20:40:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b2c/live/53062740-b8bc-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Amorim's not going to do miracles - Ronaldo]]></title>
