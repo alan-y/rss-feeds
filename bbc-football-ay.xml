@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 05 Nov 2025 07:34:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 07:47:42 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -22,6 +22,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gp398wypgo</guid>
       <pubDate>Wed, 05 Nov 2025 00:20:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4072/live/08ed1690-b9da-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['More data than ever, but does it help managers?']]></title>
+      <description><![CDATA[In his BBC Sport column, Tony Pulis looks at the increase in data in recruitment, sports science and medicine in football and examines whether it helps managers or not.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c781v7zz0w2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c781v7zz0w2o</guid>
+      <pubDate>Wed, 05 Nov 2025 06:18:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Micky van de Messi? How Spurs defender scored 'ridiculous' solo goal]]></title>
@@ -56,14 +64,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a6/live/be46e5f0-b9d7-11f0-b8ea-cbf21b439997.jpg"/>
     </item>
     <item>
-      <title><![CDATA['More data than ever, but does it help managers?']]></title>
-      <description><![CDATA[In his BBC Sport column, Tony Pulis looks at the increase in data in recruitment, sports science and medicine in football and examines whether it helps managers or not.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c781v7zz0w2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c781v7zz0w2o</guid>
-      <pubDate>Wed, 05 Nov 2025 06:18:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Real Madrid to sell Vinicius - Wednesday's gossip]]></title>
       <description><![CDATA[Real Madrid are set to sell Vinicius Jr next summer, Arsenal and Tottenham are interested in Rodrygo, and Manchester United are willing let Jadon Sancho leave for free.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0l7xnny6gko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -94,14 +94,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yl4kdwgdno</guid>
       <pubDate>Tue, 04 Nov 2025 21:21:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db76/live/24670e20-b9b8-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Free-kick, penalty... or drop ball? VAR intervenes on Real Madrid handball]]></title>
-      <description><![CDATA[Handball or not? Liverpool and Arsenal were both on the end of VAR decisions for penalties in the Champions League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwykrk1xrvno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwykrk1xrvno</guid>
-      <pubDate>Tue, 04 Nov 2025 22:52:39 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b12/live/000711f0-b9c3-11f0-a52f-6391b51fedd0.jpg"/>
     </item>
     <item>
       <title><![CDATA['Like Lionel Messi' - Frank stunned by Van de Ven goal]]></title>
@@ -142,6 +134,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgmxnevj7dwo</guid>
       <pubDate>Tue, 04 Nov 2025 07:36:30 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dbf/live/2be05350-b8d2-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Free-kick, penalty... or drop ball? VAR intervenes on Real Madrid handball]]></title>
+      <description><![CDATA[Handball or not? Liverpool and Arsenal were both on the end of VAR decisions for penalties in the Champions League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwykrk1xrvno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwykrk1xrvno</guid>
+      <pubDate>Tue, 04 Nov 2025 22:52:39 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b12/live/000711f0-b9c3-11f0-a52f-6391b51fedd0.jpg"/>
     </item>
     <item>
       <title><![CDATA[Alexander-Arnold mural defaced before Anfield return]]></title>
@@ -294,14 +294,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly1gzd27jro</guid>
       <pubDate>Tue, 04 Nov 2025 13:06:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2a4/live/ad38b6a0-b976-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Haaland says he is 'far off' Messi and Ronaldo]]></title>
-      <description><![CDATA[Erling Haaland has played down comparison between himself and modern footballing greats Lionel Messi and Cristiano Ronaldo by saying "no-one" will get close to their goalscoring records.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdrzeg2ygmlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdrzeg2ygmlo</guid>
-      <pubDate>Tue, 04 Nov 2025 14:40:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07a/live/0566ba20-b986-11f0-bc67-5ff597b9ab99.png"/>
     </item>
     <item>
       <title><![CDATA['He gets a warm welcome from me' - Slot on Alexander-Arnold]]></title>
