@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 17:20:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 17:40:54 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,14 +48,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a86/live/20f06830-bb1c-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ferguson included in Republic of Ireland squad]]></title>
-      <description><![CDATA[Striker Evan Ferguson is included in the Republic of Ireland squad despite struggling with an ankle problem.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly9v4gr10mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly9v4gr10mo</guid>
-      <pubDate>Thu, 06 Nov 2025 11:22:39 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87e1/live/4e5b9980-bb02-11f0-80a0-8fc2ef516106.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Pochettino on 'missing' Premier League and USA's cultural reset]]></title>
       <description><![CDATA[Former Tottenham manager Mauricio Pochettino says he is "missing" the Premier League and would like to return in the future.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx27k6m1y0mo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -70,6 +62,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq507jl6gy4o</guid>
       <pubDate>Thu, 06 Nov 2025 13:44:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0be/live/e4d54110-bb0f-11f0-bede-791747fdab4b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ajax to sack former Liverpool coach Heitinga]]></title>
+      <description><![CDATA[Ajax have sacked manager John Heitinga after 15 matches and less than six months after he joined the club from Liverpool.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn7e1k2pp31o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn7e1k2pp31o</guid>
+      <pubDate>Thu, 06 Nov 2025 17:20:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/722c/live/8802c580-bb31-11f0-a9c7-018c8fe15fae.jpg"/>
     </item>
     <item>
       <title><![CDATA[Kpakio's rapid rise with Cardiff and Wales]]></title>
@@ -144,20 +144,20 @@
       <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c15/live/f7684a70-baa6-11f0-aa13-0b0479f6f42a.png"/>
     </item>
     <item>
+      <title><![CDATA[Ferguson included in Republic of Ireland squad]]></title>
+      <description><![CDATA[Striker Evan Ferguson is included in the Republic of Ireland squad despite struggling with an ankle problem.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly9v4gr10mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly9v4gr10mo</guid>
+      <pubDate>Thu, 06 Nov 2025 11:22:39 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87e1/live/4e5b9980-bb02-11f0-80a0-8fc2ef516106.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Eighty-five changes in 16 games - is Chelsea system working after draw?]]></title>
       <description><![CDATA[The Blues narrowly avoided a historically embarrassing defeat in a 2-2 draw at Qarabag where manager Enzo Maresca's rotation was questioned. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cm2718x6872o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2718x6872o</guid>
       <pubDate>Wed, 05 Nov 2025 23:15:31 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2261/live/0e83cf40-ba98-11f0-9d67-23c594262978.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Caught in a trap' - Newcastle now need to end away-day blues]]></title>
-      <description><![CDATA[Newcastle United recorded a fifth consecutive home win against Athletic Club but Eddie Howe knows his side need to solve their away-day woes.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly2g4yedjzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly2g4yedjzo</guid>
-      <pubDate>Thu, 06 Nov 2025 00:01:30 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b74f/live/cd69d280-baa5-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Captain Joao Pedro over Haaland - FPL team of the week]]></title>
@@ -280,6 +280,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e11/live/ca4c0a90-bb0f-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Caught in a trap' - Newcastle now need to end away-day blues]]></title>
+      <description><![CDATA[Newcastle United recorded a fifth consecutive home win against Athletic Club but Eddie Howe knows his side need to solve their away-day woes.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly2g4yedjzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly2g4yedjzo</guid>
+      <pubDate>Thu, 06 Nov 2025 00:01:30 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b74f/live/cd69d280-baa5-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Why do footballers tape up their wrists?]]></title>
       <description><![CDATA[Our Ask Me Anything team explains why footballers use tape to wrap their wrists.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx27d44v2dno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -302,14 +310,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdx4jxnpnlro</guid>
       <pubDate>Thu, 06 Nov 2025 04:46:29 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b6c/live/6f4a1b40-ba6b-11f0-ba75-093eca1ac29b.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Real Madrid out of Guehi race - Thursday's gossip]]></title>
-      <description><![CDATA[Real Madrid leave Liverpool and Bayern Munich to fight it out over Marc Guehi, Tottenham eye Bundesliga defender, and Barcelona hit Rashford snag.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1d0kvx5y2zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1d0kvx5y2zo</guid>
-      <pubDate>Wed, 05 Nov 2025 21:32:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83ff/live/78985690-ba8d-11f0-ba75-093eca1ac29b.png"/>
     </item>
     <item>
       <title><![CDATA[Gallagher on target as Atletico Madrid ease to win over Union SG]]></title>
@@ -350,6 +350,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2yl4kn7x9o</guid>
       <pubDate>Wed, 05 Nov 2025 21:55:43 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0068/live/30ad3940-b9c5-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Real Madrid out of Guehi race - Thursday's gossip]]></title>
+      <description><![CDATA[Real Madrid leave Liverpool and Bayern Munich to fight it out over Marc Guehi, Tottenham eye Bundesliga defender, and Barcelona hit Rashford snag.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1d0kvx5y2zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1d0kvx5y2zo</guid>
+      <pubDate>Wed, 05 Nov 2025 21:32:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83ff/live/78985690-ba8d-11f0-ba75-093eca1ac29b.png"/>
     </item>
     <item>
       <title><![CDATA[Marinakis on trial in Athens over inciting gang violence]]></title>
