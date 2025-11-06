@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 19:53:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 20:21:58 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -25,11 +25,19 @@
     </item>
     <item>
       <title><![CDATA[Hundreds of protesters at Maccabi-Villa game]]></title>
-      <description><![CDATA[Thousands gather as the controversial Maccabi Tel Aviv match against Aston Villa goes ahead.]]></description>
+      <description><![CDATA[Thousands gather as the Maccabi Tel Aviv-Aston Villa match starts after a small number of arrests.]]></description>
       <link>https://www.bbc.com/news/articles/cjeknklzn39o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cjeknklzn39o</guid>
-      <pubDate>Thu, 06 Nov 2025 19:34:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/978f/live/a194eca0-bb43-11f0-9494-47f20ee206c1.jpg"/>
+      <pubDate>Thu, 06 Nov 2025 20:08:59 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05be/live/03265dc0-bb4c-11f0-a601-e323b3b84836.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sutton's predictions v Bath & England rugby star Ollie Lawrence]]></title>
+      <description><![CDATA[BBC Sport football expert Chris Sutton takes on Bath and England rugby star Ollie Lawrence with his predictions for this weekend's Premier League fixtures.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c24lgz2zdl1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c24lgz2zdl1o</guid>
+      <pubDate>Thu, 06 Nov 2025 20:10:42 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd52/live/cbc89b80-ba2a-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man Utd made mistakes - Amorim on Ronaldo criticism]]></title>
@@ -54,22 +62,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly2gjnlk4ko</guid>
       <pubDate>Thu, 06 Nov 2025 19:25:51 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca3/live/dcaf70a0-bb23-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['England is the Super League of Europe' - how Premier League is dominating elite]]></title>
-      <description><![CDATA[English clubs appear to be bossing things in Europe as, for the second time in this season's Champions League, five sides from the Premier League won in a single round of fixtures.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ceq0z4pnp1yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ceq0z4pnp1yo</guid>
-      <pubDate>Thu, 06 Nov 2025 01:49:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64a9/live/83004110-ba74-11f0-8d4d-f92e4ea22994.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Earps reaction 'shows pressure on women to be perfect angels']]></title>
-      <description><![CDATA[In her latest column, Anita Asante looks at how we react to role models not conforming in women's football and the fallout from Mary Earps' book. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c201dvkrryeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c201dvkrryeo</guid>
-      <pubDate>Wed, 05 Nov 2025 21:49:58 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a86/live/20f06830-bb1c-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Burn scores brilliant header to give Newcastle lead]]></title>
@@ -120,6 +112,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcd3/live/8565d090-ba8e-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
+      <title><![CDATA['England is the Super League of Europe' - how Premier League is dominating elite]]></title>
+      <description><![CDATA[English clubs appear to be bossing things in Europe as, for the second time in this season's Champions League, five sides from the Premier League won in a single round of fixtures.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ceq0z4pnp1yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ceq0z4pnp1yo</guid>
+      <pubDate>Thu, 06 Nov 2025 01:49:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64a9/live/83004110-ba74-11f0-8d4d-f92e4ea22994.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Earps reaction 'shows pressure on women to be perfect angels']]></title>
+      <description><![CDATA[In her latest column, Anita Asante looks at how we react to role models not conforming in women's football and the fallout from Mary Earps' book. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c201dvkrryeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c201dvkrryeo</guid>
+      <pubDate>Wed, 05 Nov 2025 21:49:58 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a86/live/20f06830-bb1c-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Minister broke rules over football watchdog appointment]]></title>
       <description><![CDATA[A report finds she should have declared David Kogan's donations to her Labour campaign earlier than she did.]]></description>
       <link>https://www.bbc.com/news/articles/cpwv0nr72pyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -144,28 +152,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2de9/live/7e7bd680-bad9-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ajax to sack former Liverpool coach Heitinga]]></title>
-      <description><![CDATA[Ajax have sacked manager John Heitinga after 15 matches and less than six months after he joined the club from Liverpool.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn7e1k2pp31o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn7e1k2pp31o</guid>
-      <pubDate>Thu, 06 Nov 2025 17:20:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/722c/live/8802c580-bb31-11f0-a9c7-018c8fe15fae.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Captain Joao Pedro over Haaland - FPL team of the week]]></title>
       <description><![CDATA[With Chelsea facing managerless Wolves at home this week, it's a chance for FPL managers to captain someone other than Erling Haaland.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c625w0nl5x0o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c625w0nl5x0o</guid>
       <pubDate>Thu, 06 Nov 2025 07:52:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e1/live/ae54aa20-b9c7-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Kpakio's rapid rise with Cardiff and Wales]]></title>
-      <description><![CDATA[Cardiff City and Wales right-back Ronan Kpakio discusses his rapid rise and breakthrough season for club and country.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c986qjmz66do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c986qjmz66do</guid>
-      <pubDate>Thu, 06 Nov 2025 12:58:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/924a/live/44e4a910-baf7-11f0-bdb8-f91e842da2c7.jpg"/>
     </item>
     <item>
       <title><![CDATA[Guardiola praises Foden after Man City win]]></title>
@@ -248,6 +240,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/748f/live/4fc8e460-ba6e-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Ajax to sack former Liverpool coach Heitinga]]></title>
+      <description><![CDATA[Ajax have sacked manager John Heitinga after 15 matches and less than six months after he joined the club from Liverpool.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn7e1k2pp31o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn7e1k2pp31o</guid>
+      <pubDate>Thu, 06 Nov 2025 17:20:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/722c/live/8802c580-bb31-11f0-a9c7-018c8fe15fae.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Kpakio's rapid rise with Cardiff and Wales]]></title>
+      <description><![CDATA[Cardiff City and Wales right-back Ronan Kpakio discusses his rapid rise and breakthrough season for club and country.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c986qjmz66do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c986qjmz66do</guid>
+      <pubDate>Thu, 06 Nov 2025 12:58:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/924a/live/44e4a910-baf7-11f0-bdb8-f91e842da2c7.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Channel Islands rule change thwarts Wales bid for Celtic's Osmand]]></title>
       <description><![CDATA[Footballers born in the Channel Islands are now only available to play for England despite representing other nations at youth level.]]></description>
       <link>https://www.bbc.com/sport/football/articles/czjp1kj34zjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -264,28 +272,12 @@
       <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c15/live/f7684a70-baa6-11f0-aa13-0b0479f6f42a.png"/>
     </item>
     <item>
-      <title><![CDATA[Eighty-five changes in 16 games - is Chelsea system working after draw?]]></title>
-      <description><![CDATA[The Blues narrowly avoided a historically embarrassing defeat in a 2-2 draw at Qarabag where manager Enzo Maresca's rotation was questioned. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cm2718x6872o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2718x6872o</guid>
-      <pubDate>Wed, 05 Nov 2025 23:15:31 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2261/live/0e83cf40-ba98-11f0-9d67-23c594262978.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Barton says he is victim of 'political prosecution']]></title>
       <description><![CDATA[The ex-footballer is accused of making offensive posts on X about a presenter and two commentators.]]></description>
       <link>https://www.bbc.com/news/articles/czxn40ep4x2o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/czxn40ep4x2o</guid>
       <pubDate>Thu, 06 Nov 2025 15:46:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1822/live/80814700-bb27-11f0-b296-27a0423599e8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ferguson included in Republic of Ireland squad]]></title>
-      <description><![CDATA[Striker Evan Ferguson is included in the Republic of Ireland squad despite struggling with an ankle problem.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly9v4gr10mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly9v4gr10mo</guid>
-      <pubDate>Thu, 06 Nov 2025 11:22:39 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87e1/live/4e5b9980-bb02-11f0-80a0-8fc2ef516106.jpg"/>
     </item>
     <item>
       <title><![CDATA[Being Premier League's only black manager 'a privilege' - Nuno]]></title>
@@ -352,6 +344,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f1b/live/c06cfac0-bb0a-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Eighty-five changes in 16 games - is Chelsea system working after draw?]]></title>
+      <description><![CDATA[The Blues narrowly avoided a historically embarrassing defeat in a 2-2 draw at Qarabag where manager Enzo Maresca's rotation was questioned. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cm2718x6872o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2718x6872o</guid>
+      <pubDate>Wed, 05 Nov 2025 23:15:31 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2261/live/0e83cf40-ba98-11f0-9d67-23c594262978.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ferguson included in Republic of Ireland squad]]></title>
+      <description><![CDATA[Striker Evan Ferguson is included in the Republic of Ireland squad despite struggling with an ankle problem.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly9v4gr10mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly9v4gr10mo</guid>
+      <pubDate>Thu, 06 Nov 2025 11:22:39 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87e1/live/4e5b9980-bb02-11f0-80a0-8fc2ef516106.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Caught in a trap' - Newcastle now need to end away-day blues]]></title>
       <description><![CDATA[Newcastle United recorded a fifth consecutive home win against Athletic Club but Eddie Howe knows his side need to solve their away-day woes.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cly2g4yedjzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -400,14 +408,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3414/live/f5d4cb40-ba7c-11f0-98a7-ed301ba6f979.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Chelsea say players racially abused in academy game]]></title>
-      <description><![CDATA[Chelsea say their academy players were racially abused during a 5-0 win against Qarabag in Baku in the Uefa Youth League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c625wkpx585o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c625wkpx585o</guid>
-      <pubDate>Wed, 05 Nov 2025 16:25:52 GMT</pubDate>
-      <media:thumbnail width="240" height="149" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8de/live/9c3b8380-ba63-11f0-ba75-093eca1ac29b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['If a player was recommended, I always watched them twice away from home']]></title>
       <description><![CDATA[In his BBC Sport column, Tony Pulis looks at the increase in data in recruitment, sports science and medicine in football and examines whether it helps managers or not.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c781v7zz0w2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -430,14 +430,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp94e0d531go</guid>
       <pubDate>Wed, 05 Nov 2025 11:59:16 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c163/live/fa52ab10-827d-11f0-83cc-c5da98c419b8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Which English top-flight side has the most consecutive clean sheets?]]></title>
-      <description><![CDATA[Our Ask Me Anything team take a look at which club holds the most clean sheets in a row.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqx3y7lprn5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqx3y7lprn5o</guid>
-      <pubDate>Wed, 05 Nov 2025 12:42:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7c1/live/5a3fb310-ba41-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Who do fans think is the key player in each Premier League team?]]></title>
