@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 16:25:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 16:56:49 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -88,14 +88,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e3c/live/c31880d0-bb0c-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Everyone knows his quality' - does Foden deserve England recall?]]></title>
-      <description><![CDATA[Phil Foden will have a close eye on Friday's England squad announcement following his fine form for Manchester City this season, including a double against Borussia Dortmund in the Champions League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce864jlj181o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce864jlj181o</guid>
-      <pubDate>Wed, 05 Nov 2025 23:59:42 GMT</pubDate>
-      <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c15/live/f7684a70-baa6-11f0-aa13-0b0479f6f42a.png"/>
-    </item>
-    <item>
       <title><![CDATA[Burn scores brilliant header to give Newcastle lead]]></title>
       <description><![CDATA[Dan Burn scores a brilliant curling header from a set piece to give Newcastle United an early lead against Athletic Club.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c3epwje01yxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -152,6 +144,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ccc/live/dede1c50-b9b6-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Everyone knows his quality' - does Foden deserve England recall?]]></title>
+      <description><![CDATA[Phil Foden will have a close eye on Friday's England squad announcement following his fine form for Manchester City this season, including a double against Borussia Dortmund in the Champions League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce864jlj181o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce864jlj181o</guid>
+      <pubDate>Wed, 05 Nov 2025 23:59:42 GMT</pubDate>
+      <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c15/live/f7684a70-baa6-11f0-aa13-0b0479f6f42a.png"/>
+    </item>
+    <item>
       <title><![CDATA[Eighty-five changes in 16 games - is Chelsea system working after draw?]]></title>
       <description><![CDATA[The Blues narrowly avoided a historically embarrassing defeat in a 2-2 draw at Qarabag where manager Enzo Maresca's rotation was questioned. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cm2718x6872o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -200,15 +200,15 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e9/live/c02d64b0-ba91-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Absolutely magnificent' - Watch all the angles of Van de Ven's solo wonder goal]]></title>
-      <description><![CDATA[Watch all the angles of Micky Van de Ven's solo wonder goal for Tottenham in their 4-0 win against Copenhagen in the Champions League.]]></description>
+      <title><![CDATA['Magnificent' - watch all the angles of Van de Ven's solo wonder goal]]></title>
+      <description><![CDATA[Watch all the angles of Micky van de Ven's solo wonder goal for Tottenham in their 4-0 win against Copenhagen in the Champions League.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c0kp14vmz72o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0kp14vmz72o</guid>
       <pubDate>Wed, 05 Nov 2025 21:56:42 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa3/live/7ea0d730-ba77-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Yamal stars as Barcelona draw in thriller with Brugge]]></title>
+      <title><![CDATA[Yamal stars as Barca draw six-goal thriller at Club Brugge]]></title>
       <description><![CDATA[Lamine Yamal scores a brilliant goal to help Barcelona come back from behind three time to finish level with Club Brugge.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cn97zy1grzeo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn97zy1grzeo</guid>
