@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 07:21:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 07:34:43 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -30,14 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce864jlj181o</guid>
       <pubDate>Wed, 05 Nov 2025 23:59:42 GMT</pubDate>
       <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c15/live/f7684a70-baa6-11f0-aa13-0b0479f6f42a.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Eighty-five changes in 16 games - is Chelsea system working after draw?]]></title>
-      <description><![CDATA[The Blues narrowly avoided a historically embarrassing defeat in a 2-2 draw at Qarabag where manager Enzo Maresca's rotation was questioned. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cm2718x6872o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2718x6872o</guid>
-      <pubDate>Wed, 05 Nov 2025 23:15:31 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2261/live/0e83cf40-ba98-11f0-9d67-23c594262978.jpg"/>
     </item>
     <item>
       <title><![CDATA[Pochettino on 'missing' Premier League and USA's cultural reset]]></title>
@@ -64,12 +56,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5890/live/761f9d20-ba87-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Caught in a trap' - Newcastle now need to end away-day blues]]></title>
-      <description><![CDATA[Newcastle United recorded a fifth consecutive home win against Athletic Club but Eddie Howe knows his side need to solve their away-day woes.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly2g4yedjzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly2g4yedjzo</guid>
-      <pubDate>Thu, 06 Nov 2025 00:01:30 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b74f/live/cd69d280-baa5-11f0-ba75-093eca1ac29b.jpg"/>
+      <title><![CDATA[Eighty-five changes in 16 games - is Chelsea system working after draw?]]></title>
+      <description><![CDATA[The Blues narrowly avoided a historically embarrassing defeat in a 2-2 draw at Qarabag where manager Enzo Maresca's rotation was questioned. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cm2718x6872o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2718x6872o</guid>
+      <pubDate>Wed, 05 Nov 2025 23:15:31 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2261/live/0e83cf40-ba98-11f0-9d67-23c594262978.jpg"/>
     </item>
     <item>
       <title><![CDATA[Garnacho rescues point for Chelsea against Qarabag]]></title>
@@ -110,6 +102,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5ypx42zqjeo</guid>
       <pubDate>Thu, 06 Nov 2025 07:02:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ccc/live/dede1c50-b9b6-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Caught in a trap' - Newcastle now need to end away-day blues]]></title>
+      <description><![CDATA[Newcastle United recorded a fifth consecutive home win against Athletic Club but Eddie Howe knows his side need to solve their away-day woes.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly2g4yedjzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly2g4yedjzo</guid>
+      <pubDate>Thu, 06 Nov 2025 00:01:30 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b74f/live/cd69d280-baa5-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cardiff youngsters a 'dream' for Wales boss Bellamy]]></title>
@@ -288,20 +288,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71cd/live/eaf487a0-ba41-11f0-a0d5-273175887cd7.jpg"/>
     </item>
     <item>
-      <title><![CDATA[No away fans, protests and 700 police - Aston Villa v Maccabi Tel Aviv explained]]></title>
-      <description><![CDATA[There will be a huge police presence when Aston Villa face Maccabi Tel-Aviv, but what's the issue and what might happen?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn0gkjwle8po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0gkjwle8po</guid>
-      <pubDate>Wed, 05 Nov 2025 13:57:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfcb/live/1af74c90-ba50-11f0-aac3-4f1fdbb3aa71.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['If a player was recommended, I always watched them twice away from home']]></title>
       <description><![CDATA[In his BBC Sport column, Tony Pulis looks at the increase in data in recruitment, sports science and medicine in football and examines whether it helps managers or not.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c781v7zz0w2o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c781v7zz0w2o</guid>
       <pubDate>Wed, 05 Nov 2025 06:18:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[No away fans, protests and 700 police - Aston Villa v Maccabi Tel Aviv explained]]></title>
+      <description><![CDATA[There will be a huge police presence when Aston Villa face Maccabi Tel-Aviv, but what's the issue and what might happen?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn0gkjwle8po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0gkjwle8po</guid>
+      <pubDate>Wed, 05 Nov 2025 13:57:58 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfcb/live/1af74c90-ba50-11f0-aac3-4f1fdbb3aa71.jpg"/>
     </item>
     <item>
       <title><![CDATA[Isak in but no Gyokeres in Potter's Sweden squad]]></title>
@@ -318,14 +318,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c751x26q7vro</guid>
       <pubDate>Wed, 05 Nov 2025 15:13:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/725e/live/38a06710-ba58-11f0-9659-b9128ac45f56.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Palace charged by FA after Marinakis gun banner]]></title>
-      <description><![CDATA[The Football Association charges Crystal Palace with misconduct after fans unfurl a banner depicting Nottingham Forest owner Evangelos Marinakis holding a gun to midfielder Morgan Gibbs-White's head.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crklr582dvzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crklr582dvzo</guid>
-      <pubDate>Wed, 05 Nov 2025 10:56:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/becb/live/fa58d6f0-ba33-11f0-9bc3-15f9891aeafa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Davies back to lead Wales for crucial qualifiers]]></title>
