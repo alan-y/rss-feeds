@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 08:26:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 08:54:41 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -24,12 +24,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad28/live/b4ad7d60-b9a0-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How caffeine can help you manage headaches and three other tips]]></title>
+      <title><![CDATA[Doing these four things could help you manage your headaches better]]></title>
       <description><![CDATA[If you're getting a pattern of milder, recurring headaches here are four things you can do to help manage it.]]></description>
       <link>https://www.bbc.com/news/articles/cgr44j201rzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cgr44j201rzo</guid>
       <pubDate>Thu, 06 Nov 2025 02:45:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c33/live/26185cc0-b8a9-11f0-9418-d155a3381a50.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[BMA rejects fresh offer to end doctor strikes]]></title>
+      <description><![CDATA[An offer was made to avert the resident doctors' strike but the union said it did not go far enough.]]></description>
+      <link>https://www.bbc.com/news/articles/cdrze1rzejlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdrze1rzejlo</guid>
+      <pubDate>Wed, 05 Nov 2025 19:21:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35cb/live/e773c8b0-ba6a-11f0-ba8c-5f7067df6bdc.jpg"/>
     </item>
     <item>
       <title><![CDATA[Maternity inquiry must include care culture - dad]]></title>
@@ -62,16 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gp4dey32vo</guid>
       <pubDate>Wed, 05 Nov 2025 00:30:30 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7312/live/9ddac8c0-b9ac-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Britain sliding 'into economic crisis' over £85bn sickness bill, ex-John Lewis boss warns]]></title>
-      <description><![CDATA[The number of people who are out of work for health reasons has grown by 800,000 since 2019.
-
-]]></description>
-      <link>https://www.bbc.com/news/articles/c7v80n7mz2jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c7v80n7mz2jo</guid>
-      <pubDate>Wed, 05 Nov 2025 13:04:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b4b/live/f27943d0-ba32-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Vapers overtake smokers for first time in Britain]]></title>
