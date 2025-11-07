@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 07 Nov 2025 20:46:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 21:16:06 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[DNA pioneer James Watson dies at 97]]></title>
+      <description><![CDATA[The Nobel Prize winner felt ostracised by the scientific community over his comments on race and intelligence.]]></description>
+      <link>https://www.bbc.com/news/articles/cn8xdypnz32o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8xdypnz32o</guid>
+      <pubDate>Fri, 07 Nov 2025 21:13:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2812/live/1e530680-bc18-11f0-900d-c9ccbfdeef29.jpg"/>
+    </item>
     <item>
       <title><![CDATA[UK facing long, tough flu season, NHS chiefs warn]]></title>
       <description><![CDATA[Vulnerable urged to come forward for flu jab quickly as virus has come early this year.]]></description>
@@ -30,14 +38,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c797vq95zzyo</guid>
       <pubDate>Fri, 07 Nov 2025 05:59:31 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/581b/live/314fb6e0-bb9e-11f0-80a7-f96c78006249.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[German nurse gets life in jail after murdering 10 to reduce workload]]></title>
-      <description><![CDATA[The palliative care nurse was convicted of the murder of 10 patients, and the attempted murder of 27 others.]]></description>
-      <link>https://www.bbc.com/news/articles/cz0xgrv7543o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cz0xgrv7543o</guid>
-      <pubDate>Thu, 06 Nov 2025 02:37:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/497c/live/c830c2c0-baae-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Doctor licked beer off colleague, tribunal hears]]></title>
@@ -72,6 +72,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cx274xp00zxo</guid>
       <pubDate>Fri, 07 Nov 2025 12:50:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03b1/live/adfb8a10-bbea-11f0-8669-5560f5c90fbe.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[German nurse gets life in jail after murdering 10 to reduce workload]]></title>
+      <description><![CDATA[The palliative care nurse was convicted of the murder of 10 patients, and the attempted murder of 27 others.]]></description>
+      <link>https://www.bbc.com/news/articles/cz0xgrv7543o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cz0xgrv7543o</guid>
+      <pubDate>Thu, 06 Nov 2025 02:37:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/497c/live/c830c2c0-baae-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[How caffeine can help you manage headaches and other tips]]></title>
@@ -224,14 +232,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgk0y18mrvo</guid>
       <pubDate>Wed, 22 Oct 2025 23:43:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dc0/live/9f5e02e0-af23-11f0-b9f9-e5c1839c872f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Children paid 'huge price' in Covid pandemic, Johnson tells inquiry]]></title>
-      <description><![CDATA[The former PM says lockdown rules "probably did go too far" and says children could have been exempted.]]></description>
-      <link>https://www.bbc.com/news/articles/ce3x0yxvdzlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3x0yxvdzlo</guid>
-      <pubDate>Tue, 21 Oct 2025 13:22:44 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd1c/live/c68aff00-ae9a-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
       <title><![CDATA[ADHD services shutting door to new NHS patients as demand soars, BBC finds]]></title>
