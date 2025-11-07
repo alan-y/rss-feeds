@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 23:46:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 01:24:40 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Elon Musk's $1tn pay deal approved by Tesla shareholders]]></title>
+      <description><![CDATA[The richest man in the world will get hundreds of millions of new shares if he hits his targets.]]></description>
+      <link>https://www.bbc.com/news/articles/cwyk6kvyxvzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyk6kvyxvzo</guid>
+      <pubDate>Fri, 07 Nov 2025 00:50:25 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b647/live/a323c930-bb73-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Grand Theft Auto studio accused of 'union busting' after sacking workers]]></title>
       <description><![CDATA[A union representing people in the gaming sector said 31 people were fired at Rockstar's UK studios.]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2lppx2jm7o</guid>
       <pubDate>Wed, 05 Nov 2025 16:55:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bf4/live/b3ed9170-baa0-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Tesla says Musk should be paid $1tn - will shareholders agree?]]></title>
-      <description><![CDATA[The car-maker is lobbying fiercely for the pay package, which is being voted on ahead of its AGM on Thursday.]]></description>
-      <link>https://www.bbc.com/news/articles/cn4j0yg1drgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4j0yg1drgo</guid>
-      <pubDate>Wed, 05 Nov 2025 00:46:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7459/live/7173bc30-ba22-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
       <title><![CDATA[AI 'godmother' Fei-Fei Li says she is 'proud to be different']]></title>
@@ -272,6 +272,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/244d/live/65b40610-b0c8-11f0-b0fc-6571ce384f7a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Fire-blocking chemicals promise safer buildings]]></title>
+      <description><![CDATA[New treatments promise to make buildings fire-resistant without using older, toxic chemicals. ]]></description>
+      <link>https://www.bbc.com/news/articles/ckgkee0pw4ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgkee0pw4ko</guid>
+      <pubDate>Fri, 07 Nov 2025 00:13:36 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63cc/live/da3d2ae0-b01c-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['This is the big one' - tech firms bet on electrifying rail]]></title>
       <description><![CDATA[Railway operators have new options for electric trains including getting rid of locomotives altogether.]]></description>
       <link>https://www.bbc.com/news/articles/czdjg92y00no?at_medium=RSS&amp;at_campaign=rss</link>
@@ -414,14 +422,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3nw5vnzgpo</guid>
       <pubDate>Mon, 28 Jul 2025 23:04:41 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56fa/live/a9bf34c0-55b4-11f0-adae-51d36c615fe4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Artificial food colours are out, so what's next?]]></title>
-      <description><![CDATA[Big food firms are phasing out artificial colours, so tech firms are rushing to fill the gap.]]></description>
-      <link>https://www.bbc.com/news/articles/c4g83dpeendo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g83dpeendo</guid>
-      <pubDate>Thu, 24 Jul 2025 23:01:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0155/live/0f9c05d0-6932-11f0-af20-030418be2ca5.jpg"/>
     </item>
   </channel>
 </rss>
