@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 07 Nov 2025 13:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 13:42:24 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -30,6 +30,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cdrz2rdlykdo</guid>
       <pubDate>Fri, 07 Nov 2025 12:15:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10f/live/40cbac10-bbc0-11f0-9279-29df2198f231.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rightmove shares plummet over AI investment plans]]></title>
+      <description><![CDATA[Shares in the property website sink after it cuts profit forecasts to step up investment in AI.]]></description>
+      <link>https://www.bbc.com/news/articles/cly97lj0nddo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly97lj0nddo</guid>
+      <pubDate>Fri, 07 Nov 2025 13:01:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afcd/live/a69c2140-bbda-11f0-8252-53776b9338e4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Grand Theft Auto 6 delayed again until November 2026]]></title>
@@ -262,22 +270,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c9q1xdnydwjo</guid>
       <pubDate>Tue, 28 Oct 2025 00:04:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46b8/live/5a010de0-b366-11f0-b2a1-6f537f66f9aa.png"/>
-    </item>
-    <item>
-      <title><![CDATA[ChatGPT shares data on how many users exhibit psychosis or suicidal thoughts]]></title>
-      <description><![CDATA[The figure could mean potentially hundreds of thousands of users show signs of mental health distress weekly. ]]></description>
-      <link>https://www.bbc.com/news/articles/c5yd90g0q43o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yd90g0q43o</guid>
-      <pubDate>Mon, 27 Oct 2025 23:53:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d38/live/778c7c50-b370-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[ChatGPT's new browser has potential, if you're willing to pay]]></title>
-      <description><![CDATA[OpenAI hopes to upend the browser market currently dominated by Google Chrome, but it depends on paid users.]]></description>
-      <link>https://www.bbc.com/news/articles/c20pdy1exxvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c20pdy1exxvo</guid>
-      <pubDate>Sat, 25 Oct 2025 23:24:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a33c/live/c9e36ee0-b0b5-11f0-aba1-bffe4144781c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fire-blocking chemicals promise safer buildings]]></title>
