@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 07 Nov 2025 07:48:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 08:26:03 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[China launches new aircraft carrier in naval race with the US]]></title>
+      <description><![CDATA[The Fujian uses electromagnetic catapults that allow planes to strike from a greater distance.]]></description>
+      <link>https://www.bbc.com/news/articles/c62e0yx39g5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c62e0yx39g5o</guid>
+      <pubDate>Fri, 07 Nov 2025 08:00:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dff0/live/4164ab00-bbb0-11f0-b2a1-6f537f66f9aa.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Starbucks to sell majority stake in China business]]></title>
       <description><![CDATA[The coffee giant entered China more than a quarter of a century ago but has faced tough competition in recent years.]]></description>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/crl25xl1gjpo</guid>
       <pubDate>Thu, 30 Oct 2025 16:06:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d31/live/da437390-b59a-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[US and China agree framework of trade deal ahead of Trump-Xi meeting]]></title>
-      <description><![CDATA[US trade secretary says the two will sign a deal on TikTok, while hinting at agreement on rare earths and tariffs.]]></description>
-      <link>https://www.bbc.com/news/articles/c1lqj5lz4geo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1lqj5lz4geo</guid>
-      <pubDate>Mon, 27 Oct 2025 02:01:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/398a/live/426210d0-b27b-11f0-aa06-0d69e6791907.jpg"/>
     </item>
     <item>
       <title><![CDATA[Trade, tariffs and TikTok: Why it matters that Trump and Xi are talking again]]></title>
