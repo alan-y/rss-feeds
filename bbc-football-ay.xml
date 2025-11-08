@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 08 Nov 2025 21:47:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 22:17:26 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -24,8 +24,8 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a984/live/362d0b30-bccb-11f0-9615-073c9c63253d.jpg"/>
     </item>
     <item>
-      <title><![CDATA[West Ham 'take small step' with win after fans protest]]></title>
-      <description><![CDATA[Saturday starts with 10,000 West Ham fans protesting with a coffin and hearse - but ends with the Hammers boosting their chances of avoiding relegation from the Premier League.]]></description>
+      <title><![CDATA[West Ham 'take small step' with win after fan protest]]></title>
+      <description><![CDATA[Saturday starts with 10,000 West Ham fans protesting with a coffin and hearse - but ends with the Hammers boosting their chances of avoiding relegation.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvgkezg4d3mo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgkezg4d3mo</guid>
       <pubDate>Sat, 08 Nov 2025 18:28:36 GMT</pubDate>
@@ -40,20 +40,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ad6/live/f7fda1a0-a044-11f0-af31-9d0b79382753.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Edwards to hold Wolves talks as deal agreed with Middlesbrough]]></title>
-      <description><![CDATA[Middlesbrough agree a deal with Wolves for boss Rob Edwards and grant him permission to speak to the Premier League club.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1d09zwl153o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1d09zwl153o</guid>
-      <pubDate>Sat, 08 Nov 2025 13:22:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92bd/live/02786e60-bca8-11f0-9886-b3acf9644cc5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Slegers calls for VAR after Arsenal goals ruled out in draw with Chelsea]]></title>
-      <description><![CDATA[Arsenal manager Renee Slegers calls for the introduction of VAR in the WSL after a 1-1 draw with Chelsea.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8r044gen43o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8r044gen43o</guid>
-      <pubDate>Sat, 08 Nov 2025 17:16:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b8/live/90e87780-bcb2-11f0-8d79-97f33dcb026b.jpg"/>
+      <title><![CDATA[Spurs eye move for Everton winger Ndiaye - Sunday's gossip]]></title>
+      <description><![CDATA[Tottenham target Everton winger Iliman Ndiaye, Chelsea set to rival Spurs for Juventus striker Jonathan David, and Liverpool linked with £88m move for Inter's Alessandro Bastoni.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0kprrdvr6ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kprrdvr6ko</guid>
+      <pubDate>Sat, 08 Nov 2025 21:57:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ee1/live/8e97d650-bcea-11f0-8456-eff94716b162.png"/>
     </item>
     <item>
       <title><![CDATA[Arsenal disappointed with draw but credit to Sunderland - Arteta]]></title>
@@ -62,6 +54,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1m3kydj441o</guid>
       <pubDate>Sat, 08 Nov 2025 20:45:40 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f036/live/eeb777b0-bce1-11f0-8456-eff94716b162.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Edwards to hold Wolves talks as deal agreed with Middlesbrough]]></title>
+      <description><![CDATA[Middlesbrough agree a deal with Wolves for boss Rob Edwards and grant him permission to speak to the Premier League club.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1d09zwl153o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1d09zwl153o</guid>
+      <pubDate>Sat, 08 Nov 2025 13:22:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92bd/live/02786e60-bca8-11f0-9886-b3acf9644cc5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sunderland have belief until the final whistle - Le Bris ]]></title>
@@ -104,6 +104,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a84/live/d007fca0-bccc-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Slegers calls for VAR after Arsenal goals ruled out in draw with Chelsea]]></title>
+      <description><![CDATA[Arsenal manager Renee Slegers calls for the introduction of VAR in the WSL after a 1-1 draw with Chelsea.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8r044gen43o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8r044gen43o</guid>
+      <pubDate>Sat, 08 Nov 2025 17:16:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b8/live/90e87780-bcb2-11f0-8d79-97f33dcb026b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Hayes on her feminist dad, anxiety and feeling like a grandparent to players]]></title>
+      <description><![CDATA[Emma Hayes sits down with Kelly Somers to talk about her childhood, working as a national team boss and balancing football with family.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5yl4q6jze6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yl4q6jze6o</guid>
+      <pubDate>Sat, 08 Nov 2025 06:00:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52f2/live/f2d96970-bbd8-11f0-8669-5560f5c90fbe.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Man Utd 'flat' but Skinner will not 'overemphasise' defeat]]></title>
       <description><![CDATA[Manchester United head coach Marc Skinner laments a "flat" WSL defeat by Aston Villa, but will not 'overemphasise' the performance to his players.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c62ejjdn041o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -118,14 +134,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/crmx184nwpgo</guid>
       <pubDate>Sat, 08 Nov 2025 15:00:12 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc5a/live/8d1238a0-bca6-11f0-9886-b3acf9644cc5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hayes on her feminist dad, anxiety and feeling like a grandparent to players]]></title>
-      <description><![CDATA[Emma Hayes sits down with Kelly Somers to talk about her childhood, working as a national team boss and balancing football with family.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yl4q6jze6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yl4q6jze6o</guid>
-      <pubDate>Sat, 08 Nov 2025 06:00:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52f2/live/f2d96970-bbd8-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
       <title><![CDATA[Edwards leaving and Cleverley under pressure - EFL takeaways]]></title>
@@ -176,30 +184,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7820/live/c62fa660-bc81-11f0-a831-27b88c7b37d2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Maresca defends rotation after Rooney criticism]]></title>
-      <description><![CDATA[Chelsea manager Enzo Maresca defends his rotation policy after criticism from former England captain Wayne Rooney.
-
-]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgv0xq852no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgv0xq852no</guid>
-      <pubDate>Fri, 07 Nov 2025 13:18:52 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42f5/live/a203edc0-bbd5-11f0-bd4a-49c00e3ca628.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Bellamy backs Johnson to make mark under Frank]]></title>
       <description><![CDATA[Craig Bellamy points to Brennan Johnson's attributes, but also dismisses the notion of the Spurs forward being the natural successor to Gareth Bale.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj3z7vlk1yxo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj3z7vlk1yxo</guid>
       <pubDate>Sat, 08 Nov 2025 17:42:42 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/5a2b8310-bc97-11f0-b664-a7f703134079.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[From non-league to England call-up - who is 'Guernsey Grealish' Scott?]]></title>
-      <description><![CDATA[From the eighth tier of English football to the England squad - who is new Three Lions call-up Alex Scott?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cyv89v09qplo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv89v09qplo</guid>
-      <pubDate>Fri, 07 Nov 2025 14:20:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaa6/live/3b3c4780-bbe0-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
     <item>
       <title><![CDATA['Immense' Bellingham and Foden recalled by England]]></title>
@@ -216,6 +206,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cew4752d7vwo</guid>
       <pubDate>Fri, 07 Nov 2025 19:05:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e160/live/d2bf4290-bc0a-11f0-8456-eff94716b162.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[From non-league to England call-up - who is 'Guernsey Grealish' Scott?]]></title>
+      <description><![CDATA[From the eighth tier of English football to the England squad - who is new Three Lions call-up Alex Scott?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cyv89v09qplo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv89v09qplo</guid>
+      <pubDate>Fri, 07 Nov 2025 14:20:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaa6/live/3b3c4780-bbe0-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Brighton v Palace - 'a rivalry as big as any other']]></title>
@@ -248,22 +246,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn4j8dgk8ego</guid>
       <pubDate>Fri, 07 Nov 2025 06:59:01 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df60/live/ce2bf980-bb33-11f0-a9c7-018c8fe15fae.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ainsworth 'fixed & ready to go' after heart surgery ]]></title>
-      <description><![CDATA[Gillingham boss Gareth Ainsworth says that he is now "fixed and ready to go" after heart surgery.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ced6e1zxvpeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ced6e1zxvpeo</guid>
-      <pubDate>Fri, 07 Nov 2025 13:36:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfe9/live/161f3780-bbd8-11f0-8456-eff94716b162.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Referees among suspects sought in match-fixing probe]]></title>
-      <description><![CDATA[Turkish prosecutors issue detention orders for 21 people - including 17 referees and two club presidents - as part of a major investigation into betting and match fixing.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cze6072p53no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cze6072p53no</guid>
-      <pubDate>Fri, 07 Nov 2025 15:04:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58a/live/6a269bc0-bbe7-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
       <title><![CDATA['Arsenal attack like 'Invincibles' and defend like class of 97-98']]></title>
@@ -370,12 +352,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a162/live/a6d88e10-b8a5-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Rangers keen on defender - Saturday's gossip]]></title>
-      <description><![CDATA[Rangers show interest in Genk defender Mujaid Sadick and could make a move for the 25-year-old in January.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gwx002248o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gwx002248o</guid>
-      <pubDate>Sat, 08 Nov 2025 10:05:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b50/live/843dcef0-bc89-11f0-8456-eff94716b162.png"/>
+      <title><![CDATA[Can Hearts ramp up pressure? Eyes on Congreve & Askou]]></title>
+      <description><![CDATA[Another look at what's in store over the weekend in the Scottish Premiership.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwykry72g7vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwykry72g7vo</guid>
+      <pubDate>Fri, 07 Nov 2025 14:28:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cd9/live/cb3b15b0-bbe4-11f0-8456-eff94716b162.png"/>
     </item>
     <item>
       <title><![CDATA['I tapped him' - Trusty responds to Butland concerns]]></title>
@@ -386,12 +368,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48d6/live/855b3d30-bbd6-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Can Hearts ramp up pressure? Eyes on Congreve & Askou]]></title>
-      <description><![CDATA[Another look at what's in store over the weekend in the Scottish Premiership.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwykry72g7vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwykry72g7vo</guid>
-      <pubDate>Fri, 07 Nov 2025 14:28:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cd9/live/cb3b15b0-bbe4-11f0-8456-eff94716b162.png"/>
+      <title><![CDATA[Rangers keen on defender - Saturday's gossip]]></title>
+      <description><![CDATA[Rangers show interest in Genk defender Mujaid Sadick and could make a move for the 25-year-old in January.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gwx002248o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gwx002248o</guid>
+      <pubDate>Sat, 08 Nov 2025 10:05:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b50/live/843dcef0-bc89-11f0-8456-eff94716b162.png"/>
     </item>
     <item>
       <title><![CDATA[Watch: Thistle snatch late draw at Airdrieonians]]></title>
@@ -440,14 +422,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8yy2d6l3go</guid>
       <pubDate>Sat, 01 Nov 2025 07:27:15 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85de/live/e2b7c2c0-b6f2-11f0-8e7c-6544f452cba3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[PSG's Doue out 'for a few weeks' with thigh injury]]></title>
-      <description><![CDATA[Forward Desire Doue has injured his right thigh and will be "unavailable for a few weeks", Paris St-Germain confirm. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yp48lelkjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yp48lelkjo</guid>
-      <pubDate>Wed, 29 Oct 2025 23:14:13 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88f8/live/1ddf4a90-b51c-11f0-8a63-4fd0694dd952.jpg"/>
     </item>
     <item>
       <title><![CDATA[Baffling? Distracting? The fallout from Earps' book]]></title>
