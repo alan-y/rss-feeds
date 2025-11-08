@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 08 Nov 2025 19:28:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 19:45:40 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -104,14 +104,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2600/live/0f842180-bcb7-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Aluko says 'justice served' after Barton convicted]]></title>
-      <description><![CDATA[Pundit Eni Aluko responds after Joey Barton is found guilty of sending grossly offensive posts on X.]]></description>
-      <link>https://www.bbc.com/news/articles/crmx184nwpgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/crmx184nwpgo</guid>
-      <pubDate>Sat, 08 Nov 2025 15:00:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc5a/live/8d1238a0-bca6-11f0-9886-b3acf9644cc5.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Man Utd 'flat' but Skinner will not 'overemphasise' defeat]]></title>
       <description><![CDATA[Manchester United head coach Marc Skinner laments a "flat" WSL defeat by Aston Villa, but will not 'overemphasise' the performance to his players.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c62ejjdn041o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -126,6 +118,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yl4q6jze6o</guid>
       <pubDate>Sat, 08 Nov 2025 06:00:01 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52f2/live/f2d96970-bbd8-11f0-8669-5560f5c90fbe.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Aluko says 'justice served' after Barton convicted]]></title>
+      <description><![CDATA[Pundit Eni Aluko responds after Joey Barton is found guilty of sending grossly offensive posts on X.]]></description>
+      <link>https://www.bbc.com/news/articles/crmx184nwpgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/crmx184nwpgo</guid>
+      <pubDate>Sat, 08 Nov 2025 15:00:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc5a/live/8d1238a0-bca6-11f0-9886-b3acf9644cc5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sutton's predictions v Bath & England rugby star Ollie Lawrence]]></title>
@@ -160,14 +160,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daba/live/d6447f40-bbea-11f0-99a0-df849c61d4af.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Bellamy backs Johnson to make mark under Frank]]></title>
-      <description><![CDATA[Craig Bellamy points to Brennan Johnson's attributes, but also dismisses the notion of the Spurs forward being the natural successor to Gareth Bale.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj3z7vlk1yxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj3z7vlk1yxo</guid>
-      <pubDate>Sat, 08 Nov 2025 17:42:42 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/5a2b8310-bc97-11f0-b664-a7f703134079.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Arsenal attack like 'Invincibles' and defend like class of 97-98']]></title>
       <description><![CDATA[They have won nothing yet, but this Arsenal side reminds me of the ones I won three league titles with, writes Martin Keown.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8x1y77r42ko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -194,6 +186,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbc6/live/dd707460-bc9c-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Bellamy backs Johnson to make mark under Frank]]></title>
+      <description><![CDATA[Craig Bellamy points to Brennan Johnson's attributes, but also dismisses the notion of the Spurs forward being the natural successor to Gareth Bale.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj3z7vlk1yxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj3z7vlk1yxo</guid>
+      <pubDate>Sat, 08 Nov 2025 17:42:42 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/5a2b8310-bc97-11f0-b664-a7f703134079.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[From non-league to England call-up - who is 'Guernsey Grealish' Scott?]]></title>
       <description><![CDATA[From the eighth tier of English football to the England squad - who is new Three Lions call-up Alex Scott?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cyv89v09qplo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -218,20 +218,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e160/live/d2bf4290-bc0a-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Osmajic gets nine-game ban for racially abusing Hannibal]]></title>
-      <description><![CDATA[Preston forward Milutin Osmajic is given a nine-game ban after being charged with racially abusing Burnley midfielder Hannibal Mejbri.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly43kr04lgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly43kr04lgo</guid>
-      <pubDate>Fri, 07 Nov 2025 16:59:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5719/live/82e350b0-bb18-11f0-bd8f-95105d31e9c2.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Brighton v Palace - 'a rivalry as big as any other']]></title>
       <description><![CDATA[Ahead of this weekend's clash, Seagulls and Eagles fans discuss the antagonism between the clubs.]]></description>
       <link>https://www.bbc.com/news/articles/c4gw8v2g211o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gw8v2g211o</guid>
       <pubDate>Sat, 08 Nov 2025 09:06:49 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/086b/live/ae29c7b0-b373-11f0-b297-49ab63fce67a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Osmajic gets nine-game ban for racially abusing Hannibal]]></title>
+      <description><![CDATA[Preston forward Milutin Osmajic is given a nine-game ban after being charged with racially abusing Burnley midfielder Hannibal Mejbri.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly43kr04lgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly43kr04lgo</guid>
+      <pubDate>Fri, 07 Nov 2025 16:59:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5719/live/82e350b0-bb18-11f0-bd8f-95105d31e9c2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Italian clubs eye Man Utd's Mainoo - Saturday's gossip]]></title>
@@ -272,14 +272,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cze6072p53no</guid>
       <pubDate>Fri, 07 Nov 2025 15:04:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58a/live/6a269bc0-bbe7-11f0-8456-eff94716b162.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[BBC to show Boreham Wood and Sutton FA Cup ties]]></title>
-      <description><![CDATA[The BBC will broadcast ties between Boreham Wood and Newport County and Sutton United v Shrewsbury Town in the FA Cup second round.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c15pdgp11p4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c15pdgp11p4o</guid>
-      <pubDate>Fri, 07 Nov 2025 12:51:11 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f78/live/a6289bc0-bbd6-11f0-bd4a-49c00e3ca628.jpg"/>
     </item>
     <item>
       <title><![CDATA[New Rangers dawn as far away as ever in European Groundhog Day]]></title>
