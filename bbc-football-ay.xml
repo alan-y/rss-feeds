@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 09 Nov 2025 13:47:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 14:16:02 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -64,22 +64,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a984/live/362d0b30-bccb-11f0-9615-073c9c63253d.jpg"/>
     </item>
     <item>
-      <title><![CDATA[West Ham 'take small step' with win after fan protest]]></title>
-      <description><![CDATA[Saturday starts with 10,000 West Ham fans protesting with a coffin and hearse - but ends with the Hammers boosting their chances of avoiding relegation.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgkezg4d3mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgkezg4d3mo</guid>
-      <pubDate>Sat, 08 Nov 2025 18:28:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eac/live/2d6c1490-bcd1-11f0-8695-df4abdcb7aae.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Nandy apologises for breaking rules on football regulator appointment]]></title>
-      <description><![CDATA[Report finds that new football regulator chair David Kogan had made two separate donations of £1,450 to the culture secretary.]]></description>
-      <link>https://www.bbc.com/news/articles/cqjwp0rq7d7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cqjwp0rq7d7o</guid>
-      <pubDate>Sun, 09 Nov 2025 12:09:27 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fcc/live/b9acbc50-bd64-11f0-8669-5560f5c90fbe.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Sunderland battle for draw as Arsenal's winning streak ends]]></title>
       <description><![CDATA[Brian Brobbey scores a dramatic injury-time equaliser for Sunderland against Arsenal, who concede their first goals since September to end a run of 10 consecutive wins in all competitions.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c5yl9wzellxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -120,6 +104,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b9/live/b8120410-bce0-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
     <item>
+      <title><![CDATA[West Ham 'take small step' with win after fan protest]]></title>
+      <description><![CDATA[Saturday starts with 10,000 West Ham fans protesting with a coffin and hearse - but ends with the Hammers boosting their chances of avoiding relegation.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgkezg4d3mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgkezg4d3mo</guid>
+      <pubDate>Sat, 08 Nov 2025 18:28:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eac/live/2d6c1490-bcd1-11f0-8695-df4abdcb7aae.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Norwich sack Manning after seventh home loss]]></title>
       <description><![CDATA[Norwich City sack head coach Liam Manning after just 17 games in charge following a seventh successive home Championship defeat.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0knyd1ll1po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -128,28 +120,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ad6/live/f7fda1a0-a044-11f0-af31-9d0b79382753.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Nandy apologises for breaking rules on football regulator appointment]]></title>
+      <description><![CDATA[Report finds that new football regulator chair David Kogan had made two separate donations of £1,450 to the culture secretary.]]></description>
+      <link>https://www.bbc.com/news/articles/cqjwp0rq7d7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cqjwp0rq7d7o</guid>
+      <pubDate>Sun, 09 Nov 2025 12:09:27 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fcc/live/b9acbc50-bd64-11f0-8669-5560f5c90fbe.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Spurs eye move for Everton winger Ndiaye - Sunday's gossip]]></title>
       <description><![CDATA[Tottenham target Everton winger Iliman Ndiaye, Chelsea set to rival Spurs for Juventus striker Jonathan David, and Liverpool linked with £88m move for Inter's Alessandro Bastoni.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0kprrdvr6ko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kprrdvr6ko</guid>
       <pubDate>Sat, 08 Nov 2025 21:57:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ee1/live/8e97d650-bcea-11f0-8456-eff94716b162.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Edwards to hold Wolves talks as deal agreed with Middlesbrough]]></title>
-      <description><![CDATA[Middlesbrough agree a deal with Wolves for boss Rob Edwards and grant him permission to speak to the Premier League club.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1d09zwl153o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1d09zwl153o</guid>
-      <pubDate>Sat, 08 Nov 2025 13:22:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92bd/live/02786e60-bca8-11f0-9886-b3acf9644cc5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Slegers calls for VAR after Arsenal goals ruled out in draw with Chelsea]]></title>
-      <description><![CDATA[Arsenal manager Renee Slegers calls for the introduction of VAR in the WSL after a 1-1 draw with Chelsea.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8r044gen43o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8r044gen43o</guid>
-      <pubDate>Sat, 08 Nov 2025 17:16:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b8/live/90e87780-bcb2-11f0-8d79-97f33dcb026b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Brilliant Ballard epitomises everything Sunderland do well - Shearer]]></title>
@@ -192,6 +176,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab65/live/ff427640-bcdf-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Edwards to hold Wolves talks as deal agreed with Middlesbrough]]></title>
+      <description><![CDATA[Middlesbrough agree a deal with Wolves for boss Rob Edwards and grant him permission to speak to the Premier League club.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1d09zwl153o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1d09zwl153o</guid>
+      <pubDate>Sat, 08 Nov 2025 13:22:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92bd/live/02786e60-bca8-11f0-9886-b3acf9644cc5.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Slegers calls for VAR after Arsenal goals ruled out in draw with Chelsea]]></title>
+      <description><![CDATA[Arsenal manager Renee Slegers calls for the introduction of VAR in the WSL after a 1-1 draw with Chelsea.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8r044gen43o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8r044gen43o</guid>
+      <pubDate>Sat, 08 Nov 2025 17:16:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b8/live/90e87780-bcb2-11f0-8d79-97f33dcb026b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Man Utd 'flat' but Skinner will not 'overemphasise' defeat]]></title>
       <description><![CDATA[Manchester United head coach Marc Skinner laments a "flat" WSL defeat by Aston Villa, but will not 'overemphasise' the performance to his players.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c62ejjdn041o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -224,20 +224,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/2d4a1790-801e-11f0-ab3e-bd52082cd0ae.png"/>
     </item>
     <item>
-      <title><![CDATA[FAI approves motion to call on Uefa to ban Israel]]></title>
-      <description><![CDATA[The FAI has approved a motion to call on Uefa to ban Israel from European club and international competitions.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9v1l2dd80po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9v1l2dd80po</guid>
-      <pubDate>Sat, 08 Nov 2025 20:10:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f398/live/ca4aac40-bcd6-11f0-ae46-bd64331f0fd4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Sutton's predictions v Bath & England rugby star Ollie Lawrence]]></title>
       <description><![CDATA[BBC Sport football expert Chris Sutton takes on Bath and England rugby star Ollie Lawrence with his predictions for this weekend's Premier League fixtures.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c24lgz2zdl1o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c24lgz2zdl1o</guid>
       <pubDate>Thu, 06 Nov 2025 20:10:42 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd52/live/cbc89b80-ba2a-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[FAI approves motion to call on Uefa to ban Israel]]></title>
+      <description><![CDATA[The FAI has approved a motion to call on Uefa to ban Israel from European club and international competitions.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9v1l2dd80po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9v1l2dd80po</guid>
+      <pubDate>Sat, 08 Nov 2025 20:10:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f398/live/ca4aac40-bcd6-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why are West Ham fans protesting at matches?]]></title>
@@ -254,22 +254,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c803meyrl80o</guid>
       <pubDate>Fri, 07 Nov 2025 13:52:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a584/live/d3dd6820-bbdb-11f0-8669-5560f5c90fbe.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Brighton v Palace - 'a rivalry as big as any other']]></title>
-      <description><![CDATA[Ahead of this weekend's clash, Seagulls and Eagles fans discuss the antagonism between the clubs.]]></description>
-      <link>https://www.bbc.com/news/articles/c4gw8v2g211o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gw8v2g211o</guid>
-      <pubDate>Sat, 08 Nov 2025 09:06:49 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/086b/live/ae29c7b0-b373-11f0-b297-49ab63fce67a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Fletcher replaces Mainoo and keeps Man Utd academy record intact]]></title>
-      <description><![CDATA[Manchester United midfielder Jack Fletcher replaces the injured Kobbie Mainoo for Saturday's Premier League game at Tottenham which keeps the club's 88-year record of having an academy product in every matchday squad intact.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd9kvkw21qgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9kvkw21qgo</guid>
-      <pubDate>Sat, 08 Nov 2025 09:18:16 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7820/live/c62fa660-bc81-11f0-a831-27b88c7b37d2.jpg"/>
     </item>
     <item>
       <title><![CDATA['Arsenal attack like 'Invincibles' and defend like class of 97-98']]></title>
