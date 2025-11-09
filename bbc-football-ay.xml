@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 08 Nov 2025 23:45:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 01:27:31 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -57,11 +57,19 @@
     </item>
     <item>
       <title><![CDATA[Advertising boards & chaos - how Sunderland stopped Arsenal machine]]></title>
-      <description><![CDATA[Moving advertising boards and causing chaos - how brilliant Sunderland stopped the Arsenal machine.]]></description>
+      <description><![CDATA[Sunderland halt Arsenal's winning run to give hope to the Premier League chasing pack, with the way they stifled the leaders catching the eye.]]></description>
       <link>https://www.bbc.com/sport/football/articles/clykxq76122o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clykxq76122o</guid>
       <pubDate>Sat, 08 Nov 2025 22:50:23 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcf9/live/027b1f20-bcf8-11f0-ae46-bd64331f0fd4.png"/>
+    </item>
+    <item>
+      <title><![CDATA['Work hard' - is Maresca's message bringing back peak Garnacho?]]></title>
+      <description><![CDATA[Alejandro Garnacho was exiled at Manchester United under Ruben Amorim but two goals and two assists in four games highlight his improving form at Chelsea.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj0ev6em6mro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0ev6em6mro</guid>
+      <pubDate>Sat, 08 Nov 2025 23:56:11 GMT</pubDate>
+      <media:thumbnail width="240" height="132" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1409/live/8cf92d90-bd02-11f0-ae46-bd64331f0fd4.png"/>
     </item>
     <item>
       <title><![CDATA[Drab to dramatic - but questions for Spurs & Man Utd after 'strange' draw]]></title>
@@ -104,6 +112,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92bd/live/02786e60-bca8-11f0-9886-b3acf9644cc5.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Brilliant Ballard epitomises everything Sunderland do well - Shearer]]></title>
+      <description><![CDATA[Match of the Day's Alan Shearer praises the performance of Sunderland defender Dan Ballard in the Black Cats' 2-2 draw against Premier League leaders Arsenal at the Stadium of Light.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cy5q16y6w2go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy5q16y6w2go</guid>
+      <pubDate>Sun, 09 Nov 2025 00:00:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b250/live/f7fe2800-bcfa-11f0-8669-5560f5c90fbe.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Arsenal disappointed with draw but credit to Sunderland - Arteta]]></title>
       <description><![CDATA[Arsenal manager Mikel Arteta says he is disappointed not to win but gives credit to Sunderland, as they end the Premier League leader's 10-game winning run.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c1m3kydj441o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -112,36 +128,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f036/live/eeb777b0-bce1-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Struggling Sesko 'must do better' for Man Utd - Shearer]]></title>
+      <description><![CDATA[Match of the Day's Alan Shearer breaks down the performance of Manchester United striker Benjamin Sesko who failed to capitalise on two very good opportunities in their 2-2 draw with Tottenham in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c9d64z5e0x4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c9d64z5e0x4o</guid>
+      <pubDate>Sat, 08 Nov 2025 23:59:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccb6/live/7bacad60-bcfc-11f0-ae46-bd64331f0fd4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Garnacho's 'best game' in a Chelsea shirt - Shearer]]></title>
+      <description><![CDATA[Match of the Day pundit Alan Shearer explains how Alejandro Garnacho played his "best game" in a Chelsea shirt in their 3-0 win over Wolverhampton Wanderers at Stamford Bridge in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c5yp8njx2peo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5yp8njx2peo</guid>
+      <pubDate>Sun, 09 Nov 2025 00:26:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f5/live/d5c80d80-bd01-11f0-ae46-bd64331f0fd4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Sunderland have belief until the final whistle - Le Bris ]]></title>
       <description><![CDATA[Sunderland boss Regis Le Bris says his side have faith and belief that "anything is possible" until the final whistle after their 2-2 draw against Arsenal. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/cwypde4dgm9o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwypde4dgm9o</guid>
       <pubDate>Sat, 08 Nov 2025 20:41:45 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab65/live/ff427640-bcdf-11f0-8456-eff94716b162.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Chelsea heading in the right direction - Maresca]]></title>
-      <description><![CDATA[Chelsea head coach Enzo Maresca says the club are heading in the right direction but "can do many things better", after his side beat Wolves 3-0.]]></description>
-      <link>https://www.bbc.com/sport/videos/cvg40egwg7do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/videos/cvg40egwg7do</guid>
-      <pubDate>Sat, 08 Nov 2025 22:59:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8267/live/406ea300-bcf4-11f0-8456-eff94716b162.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wolves have spirit to stay up - interim boss Collins]]></title>
-      <description><![CDATA[Interim boss Jamie Collins says that Wolves have the spirit to stay up despite their 3-0 defeat to Chelsea.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cp97vl98z8lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cp97vl98z8lo</guid>
-      <pubDate>Sat, 08 Nov 2025 22:50:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02c7/live/8c2025f0-bcf2-11f0-8669-5560f5c90fbe.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Back-to-back wins a 'small step' for West Ham - Nuno]]></title>
-      <description><![CDATA[Nuno Espirito Santo praises his West Ham side for managing consecutive wins, as they beat Burnley 3-2 at London Stadium, but he does not believe they have turned a corner yet.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cpd2532ny02o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cpd2532ny02o</guid>
-      <pubDate>Sat, 08 Nov 2025 19:16:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3492/live/c76a28f0-bcd3-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
       <title><![CDATA[Slegers calls for VAR after Arsenal goals ruled out in draw with Chelsea]]></title>
@@ -216,28 +224,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a584/live/d3dd6820-bbdb-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Brighton v Palace - 'a rivalry as big as any other']]></title>
+      <description><![CDATA[Ahead of this weekend's clash, Seagulls and Eagles fans discuss the antagonism between the clubs.]]></description>
+      <link>https://www.bbc.com/news/articles/c4gw8v2g211o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gw8v2g211o</guid>
+      <pubDate>Sat, 08 Nov 2025 09:06:49 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/086b/live/ae29c7b0-b373-11f0-b297-49ab63fce67a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Fletcher replaces Mainoo and keeps Man Utd academy record intact]]></title>
       <description><![CDATA[Manchester United midfielder Jack Fletcher replaces the injured Kobbie Mainoo for Saturday's Premier League game at Tottenham which keeps the club's 88-year record of having an academy product in every matchday squad intact.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cd9kvkw21qgo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9kvkw21qgo</guid>
       <pubDate>Sat, 08 Nov 2025 09:18:16 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7820/live/c62fa660-bc81-11f0-a831-27b88c7b37d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Bellamy backs Johnson to make mark under Frank]]></title>
-      <description><![CDATA[Craig Bellamy points to Brennan Johnson's attributes, but also dismisses the notion of the Spurs forward being the natural successor to Gareth Bale.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj3z7vlk1yxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj3z7vlk1yxo</guid>
-      <pubDate>Sat, 08 Nov 2025 17:42:42 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/5a2b8310-bc97-11f0-b664-a7f703134079.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Celtic ban Green Brigade after police & steward assault]]></title>
-      <description><![CDATA[Police Scotland issue an appeal for witnesses to come forward after a steward and two officers were assaulted at Celtic Park.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cew4752d7vwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cew4752d7vwo</guid>
-      <pubDate>Fri, 07 Nov 2025 19:05:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e160/live/d2bf4290-bc0a-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
       <title><![CDATA['Immense' Bellingham and Foden recalled by England]]></title>
@@ -256,12 +256,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaa6/live/3b3c4780-bbe0-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Brighton v Palace - 'a rivalry as big as any other']]></title>
-      <description><![CDATA[Ahead of this weekend's clash, Seagulls and Eagles fans discuss the antagonism between the clubs.]]></description>
-      <link>https://www.bbc.com/news/articles/c4gw8v2g211o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gw8v2g211o</guid>
-      <pubDate>Sat, 08 Nov 2025 09:06:49 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/086b/live/ae29c7b0-b373-11f0-b297-49ab63fce67a.jpg"/>
+      <title><![CDATA[Celtic ban Green Brigade after police & steward assault]]></title>
+      <description><![CDATA[Police Scotland issue an appeal for witnesses to come forward after a steward and two officers were assaulted at Celtic Park.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cew4752d7vwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cew4752d7vwo</guid>
+      <pubDate>Fri, 07 Nov 2025 19:05:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e160/live/d2bf4290-bc0a-11f0-8456-eff94716b162.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Bellamy backs Johnson to make mark under Frank]]></title>
+      <description><![CDATA[Craig Bellamy points to Brennan Johnson's attributes, but also dismisses the notion of the Spurs forward being the natural successor to Gareth Bale.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj3z7vlk1yxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj3z7vlk1yxo</guid>
+      <pubDate>Sat, 08 Nov 2025 17:42:42 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/5a2b8310-bc97-11f0-b664-a7f703134079.jpg"/>
     </item>
     <item>
       <title><![CDATA[Osmajic gets nine-game ban for racially abusing Hannibal]]></title>
@@ -286,14 +294,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn4j8dgk8ego</guid>
       <pubDate>Fri, 07 Nov 2025 06:59:01 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df60/live/ce2bf980-bb33-11f0-a9c7-018c8fe15fae.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ainsworth 'fixed & ready to go' after heart surgery ]]></title>
-      <description><![CDATA[Gillingham boss Gareth Ainsworth says that he is now "fixed and ready to go" after heart surgery.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ced6e1zxvpeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ced6e1zxvpeo</guid>
-      <pubDate>Fri, 07 Nov 2025 13:36:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfe9/live/161f3780-bbd8-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
       <title><![CDATA['Arsenal attack like 'Invincibles' and defend like class of 97-98']]></title>
