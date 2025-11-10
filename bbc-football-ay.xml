@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 10 Nov 2025 13:22:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 13:47:33 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -136,14 +136,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf83/live/47f44850-bd8f-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Man City make ominous statement in brutal lesson for Liverpool']]></title>
-      <description><![CDATA[Manchester City deliver an ominous statement of intent by outclassing Liverpool in Pep Guardiola's 1,000th match as a manager, says Phil McNulty.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy52el0vp1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy52el0vp1o</guid>
-      <pubDate>Sun, 09 Nov 2025 21:01:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdcb/live/ad0dc560-bdb0-11f0-ae46-bd64331f0fd4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[The 'mentality shift' that has helped Man City to top of WSL]]></title>
       <description><![CDATA[Khadija Shaw says Manchester City have had a "mentality shift" this season, after moving top of the Women's Super League.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c1j825dw77zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -160,6 +152,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg43ev413zeo</guid>
       <pubDate>Mon, 10 Nov 2025 10:11:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d37/live/e5c79770-be1c-11f0-ae46-bd64331f0fd4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Man City make ominous statement in brutal lesson for Liverpool']]></title>
+      <description><![CDATA[Manchester City deliver an ominous statement of intent by outclassing Liverpool in Pep Guardiola's 1,000th match as a manager, says Phil McNulty.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy52el0vp1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy52el0vp1o</guid>
+      <pubDate>Sun, 09 Nov 2025 21:01:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdcb/live/ad0dc560-bdb0-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Are Celtic & Rangers starting to click in pursuit of Hearts?]]></title>
