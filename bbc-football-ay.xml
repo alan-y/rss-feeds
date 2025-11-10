@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 10 Nov 2025 07:20:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 07:35:28 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -96,14 +96,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a21c/live/8fc1b9a0-bd95-11f0-b429-db99eb1e9512.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Sensational' Thiago scores again - can he earn Brazil call-up?]]></title>
-      <description><![CDATA[Brentford striker Igor Thiago's prolific form is already filling the void left by previous Bees strikers, is it enough to earn him a Brazil call up?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cyv82qrl0m3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv82qrl0m3o</guid>
-      <pubDate>Sun, 09 Nov 2025 19:04:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59f2/live/96ed86c0-bd8e-11f0-b429-db99eb1e9512.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Thiago double helps Brentford beat 10-man Newcastle]]></title>
       <description><![CDATA[Two goals from Igor Thiago helps Brentford come from behind to earn a 3-1 win over Newcastle United at the GTech Community Stadium in the Premier League.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cjekpvql3wko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -134,6 +126,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy402l95zj3o</guid>
       <pubDate>Sun, 09 Nov 2025 20:00:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/077e/live/48b366b0-bd9c-11f0-8456-eff94716b162.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Sensational' Thiago scores again - can he earn Brazil call-up?]]></title>
+      <description><![CDATA[Brentford striker Igor Thiago's prolific form is already filling the void left by previous Bees strikers, is it enough to earn him a Brazil call up?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cyv82qrl0m3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv82qrl0m3o</guid>
+      <pubDate>Sun, 09 Nov 2025 19:04:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59f2/live/96ed86c0-bd8e-11f0-b429-db99eb1e9512.jpg"/>
     </item>
     <item>
       <title><![CDATA['Up to players to decide our limit' - London City dream big]]></title>
@@ -222,14 +222,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0knyd1ll1po</guid>
       <pubDate>Sat, 08 Nov 2025 19:50:48 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ad6/live/f7fda1a0-a044-11f0-af31-9d0b79382753.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Slegers calls for VAR after Arsenal goals ruled out in draw with Chelsea]]></title>
-      <description><![CDATA[Arsenal manager Renee Slegers calls for the introduction of VAR in the WSL after a 1-1 draw with Chelsea.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8r044gen43o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8r044gen43o</guid>
-      <pubDate>Sat, 08 Nov 2025 17:16:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b8/live/90e87780-bcb2-11f0-8d79-97f33dcb026b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Edwards leaving and Cleverley under pressure - EFL takeaways]]></title>
@@ -382,6 +374,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c30vv4q0l5go</guid>
       <pubDate>Sat, 01 Nov 2025 23:56:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/972e/live/4262eda0-b77d-11f0-ba75-093eca1ac29b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Slegers calls for VAR after Arsenal goals ruled out in draw with Chelsea]]></title>
+      <description><![CDATA[Arsenal manager Renee Slegers calls for the introduction of VAR in the WSL after a 1-1 draw with Chelsea.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8r044gen43o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8r044gen43o</guid>
+      <pubDate>Sat, 08 Nov 2025 17:16:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b8/live/90e87780-bcb2-11f0-8d79-97f33dcb026b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man Utd 'flat' but Skinner will not 'overemphasise' defeat]]></title>
