@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 05:39:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 05:50:36 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Nearly all NHS trusts failing to hit cancer target]]></title>
+      <description><![CDATA[Experts say patients are being harmed by cancer diagnosis and treatment delays.]]></description>
+      <link>https://www.bbc.com/news/articles/cgjdpqvpj3lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cgjdpqvpj3lo</guid>
+      <pubDate>Tue, 11 Nov 2025 04:47:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac26/live/2828fe20-be58-11f0-8669-5560f5c90fbe.png"/>
+    </item>
     <item>
       <title><![CDATA[Hospital failings continued after Alice Figueiredo death, leaked documents show]]></title>
       <description><![CDATA[Four months after a young woman died in a mental health unit, another patient tried to harm herself in similar circumstances, leaked documents show.]]></description>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0qpz39jpj7o</guid>
       <pubDate>Mon, 20 Oct 2025 12:00:12 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dba/live/22ca8970-adb5-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[CQC chief resigns over maternity failings]]></title>
-      <description><![CDATA[Families had been calling for Sir Julian's resignation over poor maternity care at Leeds Teaching Hospitals NHS Trust.]]></description>
-      <link>https://www.bbc.com/news/articles/c4gp2wgzpp1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gp2wgzpp1o</guid>
-      <pubDate>Thu, 23 Oct 2025 10:46:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cc/live/f08e9f60-b001-11f0-af36-791af27228b8.jpg"/>
     </item>
     <item>
       <title><![CDATA[ADHD services shutting door to new NHS patients as demand soars, BBC finds]]></title>
