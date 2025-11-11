@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 13:20:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 13:44:57 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -24,6 +24,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac26/live/2828fe20-be58-11f0-8669-5560f5c90fbe.png"/>
     </item>
     <item>
+      <title><![CDATA[Hospital trust fined £500k over death of patient]]></title>
+      <description><![CDATA[Alice Figueiredo, 22, took her own life at Goodmayes Hospital, east London, in July 2015.]]></description>
+      <link>https://www.bbc.com/news/articles/cdegjd9186wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdegjd9186wo</guid>
+      <pubDate>Tue, 11 Nov 2025 13:10:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b8/live/4c18b3b0-bbd9-11f0-8456-eff94716b162.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Pharmacist suspended after BBC Botox sting]]></title>
       <description><![CDATA[Cornelius Agoye was filmed supplying Botox to an undercover BBC researcher in a breach of the rules.]]></description>
       <link>https://www.bbc.com/news/articles/cz6n2vwdq8go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -32,12 +40,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92cf/live/a13ed8c0-be35-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Hospital failings continued after Alice Figueiredo death, leaked documents show]]></title>
-      <description><![CDATA[Four months after a young woman died in a mental health unit, another patient tried to harm herself in similar circumstances, leaked documents show.]]></description>
-      <link>https://www.bbc.com/news/articles/c5ypq0y7997o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ypq0y7997o</guid>
-      <pubDate>Mon, 10 Nov 2025 00:39:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b8/live/4c18b3b0-bbd9-11f0-8456-eff94716b162.jpg"/>
+      <title><![CDATA[William recalls Kate cancer talk with children]]></title>
+      <description><![CDATA[He said they chose to "communicate a lot more" with their children about challenges being faced.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2n1wj7g8vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2n1wj7g8vo</guid>
+      <pubDate>Mon, 10 Nov 2025 18:30:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d78/live/9ba2f770-be5d-11f0-939f-634dba83d3c9.jpg"/>
     </item>
     <item>
       <title><![CDATA[Nursing watchdog 'should've acted faster on Letby']]></title>
@@ -66,14 +74,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eaa/live/f5df1a40-bbd6-11f0-bd4a-49c00e3ca628.jpg"/>
     </item>
     <item>
-      <title><![CDATA[New flu virus mutation could see 'worst season in a decade']]></title>
-      <description><![CDATA[Leading flu experts say they will not be surprised if this year's is the worst flu season for a decade.]]></description>
-      <link>https://www.bbc.com/news/articles/c2dr8gzdz1wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2dr8gzdz1wo</guid>
-      <pubDate>Sun, 09 Nov 2025 12:56:05 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4a5/live/2d103130-bc8a-11f0-8d15-f555245abf51.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Three easy ways to help you beat the winter blues]]></title>
       <description><![CDATA[It's easy to feel gloomy in winter, but here are three ways to help you manage the darker days and even embrace them.]]></description>
       <link>https://www.bbc.com/news/articles/c051mdgd1ddo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -90,12 +90,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/08e09710-bbd5-11f0-bd4a-49c00e3ca628.png"/>
     </item>
     <item>
-      <title><![CDATA[UK facing long, tough flu season, NHS chiefs warn]]></title>
-      <description><![CDATA[Vulnerable urged to come forward for flu jab quickly as virus has come early this year.]]></description>
-      <link>https://www.bbc.com/news/articles/c8r01ykl0xgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8r01ykl0xgo</guid>
-      <pubDate>Thu, 06 Nov 2025 11:08:55 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e238/live/277194e0-bafe-11f0-9758-995af3ef9daa.jpg"/>
+      <title><![CDATA[New flu virus mutation could see 'worst season in a decade']]></title>
+      <description><![CDATA[Leading flu experts say they will not be surprised if this year's is the worst flu season for a decade.]]></description>
+      <link>https://www.bbc.com/news/articles/c2dr8gzdz1wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2dr8gzdz1wo</guid>
+      <pubDate>Sun, 09 Nov 2025 12:56:05 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4a5/live/2d103130-bc8a-11f0-8d15-f555245abf51.jpg"/>
     </item>
     <item>
       <title><![CDATA[Botox was like going for coffee - but I had no idea if it was genuine]]></title>
