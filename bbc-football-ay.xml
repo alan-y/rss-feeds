@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 09:48:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 10:21:34 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -64,6 +64,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75dd/live/fa7b0d30-be1e-11f0-96ab-8118be20a827.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Do you know these players from the Women's Champions League?]]></title>
+      <description><![CDATA[Think you know your women's footballers? See if you recognise the 10 we have selected.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpd2ywj8x64o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpd2ywj8x64o</guid>
+      <pubDate>Tue, 11 Nov 2025 10:12:42 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6428/live/ea79c9a0-bcc3-11f0-ae46-bd64331f0fd4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How content creator became scout in Serie A]]></title>
       <description><![CDATA[How former content creator Felix Johnston became a first-team scout for Serie A club Como 1907.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cg43wyqdxv5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2em29d8228o</guid>
       <pubDate>Mon, 10 Nov 2025 17:04:58 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65a4/live/6b7fa370-be55-11f0-8456-eff94716b162.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd play down severity of Sesko injury]]></title>
-      <description><![CDATA[Manchester United striker Benjamin Sesko will miss Slovenia's World Cup qualifiers but club officials do not think he has suffered a major injury.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c709vpqk2wzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c709vpqk2wzo</guid>
-      <pubDate>Mon, 10 Nov 2025 17:05:55 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c19b/live/6fee6f40-be55-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
       <title><![CDATA[Lewis earns first NI call-up in more than a year]]></title>
@@ -150,6 +150,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c4gz5q7kz2vo</guid>
       <pubDate>Sun, 09 Nov 2025 23:57:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1359/live/5ca8c420-bdc0-11f0-ae46-bd64331f0fd4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Man Utd play down severity of Sesko injury]]></title>
+      <description><![CDATA[Manchester United striker Benjamin Sesko will miss Slovenia's World Cup qualifiers but club officials do not think he has suffered a major injury.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c709vpqk2wzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c709vpqk2wzo</guid>
+      <pubDate>Mon, 10 Nov 2025 17:05:55 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c19b/live/6fee6f40-be55-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
       <title><![CDATA[Australia pick Man Utd teen yet to play in first team]]></title>
