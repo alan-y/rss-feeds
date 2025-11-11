@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 17:48:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 18:27:08 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -136,14 +136,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1de/live/0d82ea30-beef-11f0-9046-df04e23a3044.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Do you know these players from the Women's Champions League?]]></title>
-      <description><![CDATA[Think you know your women's footballers? See if you recognise the 10 we have selected.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpd2ywj8x64o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpd2ywj8x64o</guid>
-      <pubDate>Tue, 11 Nov 2025 10:12:42 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6428/live/ea79c9a0-bcc3-11f0-ae46-bd64331f0fd4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['It's a dream come true' - Scott on first England call-up]]></title>
       <description><![CDATA[Bournemouth midfielder Alex Scott says he is "over the moon" to receive his first senior England call-up for the World Cup qualifiers against Serbia and Albania.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c77zy6pelv8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -182,6 +174,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cdjrppp21rdo</guid>
       <pubDate>Mon, 10 Nov 2025 10:58:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98b6/live/cca87b70-be20-11f0-8456-eff94716b162.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Do you know these players from the Women's Champions League?]]></title>
+      <description><![CDATA[Think you know your women's footballers? See if you recognise the 10 we have selected.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpd2ywj8x64o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpd2ywj8x64o</guid>
+      <pubDate>Tue, 11 Nov 2025 10:12:42 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6428/live/ea79c9a0-bcc3-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Real keen on Liverpool's Szoboszlai - Tuesday's gossip]]></title>
@@ -232,20 +232,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7912/live/208035d0-be80-11f0-a909-015ca360c829.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Lewis earns first NI call-up in more than a year]]></title>
-      <description><![CDATA[Preston North End left-back Jamal Lewis is called into the Northern Ireland squad for the first time in over a year.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2dwez29xvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2dwez29xvo</guid>
-      <pubDate>Tue, 11 Nov 2025 08:35:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/692a/live/3c2f6330-bed7-11f0-be2d-cdcc797438e5.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[1,000 games in, Guardiola has new energy for new era]]></title>
       <description><![CDATA[Sunday began with a celebration of Pep Guardiola and ended in the same manner, with the Manchester City boss showing he has new energy in a new era for the club.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cp97p00y0n7o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp97p00y0n7o</guid>
       <pubDate>Mon, 10 Nov 2025 15:42:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75dd/live/fa7b0d30-be1e-11f0-96ab-8118be20a827.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Lewis earns first NI call-up in more than a year]]></title>
+      <description><![CDATA[Preston North End left-back Jamal Lewis is called into the Northern Ireland squad for the first time in over a year.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2dwez29xvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2dwez29xvo</guid>
+      <pubDate>Tue, 11 Nov 2025 08:35:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/692a/live/3c2f6330-bed7-11f0-be2d-cdcc797438e5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Liverpool ask PGMOL about disallowed Van Dijk goal]]></title>
@@ -288,20 +288,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af1e/live/70ec3990-be3c-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Hoardings, showers & pink dressing rooms - the 'creative' ways clubs get an edge]]></title>
-      <description><![CDATA[After Sunderland moved advertising hoardings to stifle Arsenal's long throws, BBC Sport looks at some other creative ways teams have tried to gain an advantage.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cge5pgde5jeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cge5pgde5jeo</guid>
-      <pubDate>Mon, 10 Nov 2025 07:44:02 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69a5/live/1d5a68d0-bd90-11f0-8669-5560f5c90fbe.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Who is Wilfried Nancy?]]></title>
       <description><![CDATA[Our Ask Me Anything team take a look who MLS manager Wilfried Nancy is.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdrz4gly6ljo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdrz4gly6ljo</guid>
       <pubDate>Tue, 11 Nov 2025 15:11:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b77/live/54747310-bef8-11f0-8456-eff94716b162.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Hoardings, showers & pink dressing rooms - the 'creative' ways clubs get an edge]]></title>
+      <description><![CDATA[After Sunderland moved advertising hoardings to stifle Arsenal's long throws, BBC Sport looks at some other creative ways teams have tried to gain an advantage.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cge5pgde5jeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cge5pgde5jeo</guid>
+      <pubDate>Mon, 10 Nov 2025 07:44:02 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69a5/live/1d5a68d0-bd90-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch 'icicle kick' light up blizzard-hit Canadian final]]></title>
@@ -522,20 +522,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/809f/live/34a72f20-bee7-11f0-86f6-8f14a1be2b7d.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Adams returns to Plymouth as director of football]]></title>
+      <description><![CDATA[Plymouth appoint former manager Derek Adams as their new director of football. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cjw9g6pl39wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjw9g6pl39wo</guid>
+      <pubDate>Tue, 11 Nov 2025 15:34:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/889c/live/22301b60-bf12-11f0-b5a4-fb5de6982057.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Bellamy 'perfect ' for Celtic, but is timing wrong?]]></title>
       <description><![CDATA[Joe Ledley believes fellow Welshman Craig Bellamy is "a perfect fit" to be Celtic manager and would be "very interested" in doing so.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn4jpk7p2klo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn4jpk7p2klo</guid>
       <pubDate>Mon, 10 Nov 2025 15:21:28 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ca7/live/05ab6ea0-be44-11f0-8456-eff94716b162.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Nancy on Celtic manager shortlist - gossip]]></title>
-      <description><![CDATA[MLS boss among Celtic's list of targets, while interim manager may be around a bit longer... ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdegp8jr2ngo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdegp8jr2ngo</guid>
-      <pubDate>Tue, 11 Nov 2025 07:18:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2990/live/33ad2110-bece-11f0-8669-5560f5c90fbe.png"/>
     </item>
     <item>
       <title><![CDATA[Ajax to sack former Liverpool coach Heitinga]]></title>
