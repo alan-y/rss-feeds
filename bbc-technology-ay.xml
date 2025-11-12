@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 12 Nov 2025 14:43:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 15:21:50 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Danish man given suspended sentence for sharing nude film scenes on Reddit]]></title>
+      <description><![CDATA[Police said the man shared 347 clips of naked actors on the social media site, which were viewed 4.2 million times.]]></description>
+      <link>https://www.bbc.com/news/articles/c201yq43k66o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c201yq43k66o</guid>
+      <pubDate>Wed, 12 Nov 2025 15:13:47 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a2/live/16782010-bfc1-11f0-8db2-d92fbd46f955.jpg"/>
+    </item>
     <item>
       <title><![CDATA[UK seeking to curb AI child sex abuse imagery with tougher testing]]></title>
       <description><![CDATA[A new law will allow authorised testers to assess AI models for their ability to generate abuse material ]]></description>
@@ -105,20 +113,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10f/live/40cbac10-bbc0-11f0-9279-29df2198f231.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What does Elon Musk do with all his money?]]></title>
-      <description><![CDATA[While he has a penchant for cars and jets, the world's richest person reportedly lives a relatively modest life.]]></description>
-      <link>https://www.bbc.com/news/articles/c1wl5wj39zjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1wl5wj39zjo</guid>
-      <pubDate>Fri, 07 Nov 2025 17:29:23 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd06/live/ff558060-bbdf-11f0-ae46-bd64331f0fd4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Rightmove shares plummet over AI investment plans]]></title>
-      <description><![CDATA[Shares in the property website sink after it cuts profit forecasts to step up investment in AI.]]></description>
-      <link>https://www.bbc.com/news/articles/cly97lj0nddo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly97lj0nddo</guid>
-      <pubDate>Fri, 07 Nov 2025 13:01:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afcd/live/a69c2140-bbda-11f0-8252-53776b9338e4.jpg"/>
+      <title><![CDATA[Texas sues Roblox for 'putting paedophiles and profits' over safety]]></title>
+      <description><![CDATA[Roblox said it is "disappointed" that it is being sued based on "misrepresentations and sensationalised claims".]]></description>
+      <link>https://www.bbc.com/news/articles/cy0kd4kk0kqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0kd4kk0kqo</guid>
+      <pubDate>Fri, 07 Nov 2025 03:26:31 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c99f/live/79e5d9c0-bb80-11f0-bec0-3f4381162e59.jpg"/>
     </item>
     <item>
       <title><![CDATA[Grand Theft Auto 6 delayed again until November 2026]]></title>
@@ -129,12 +129,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ddf/live/9349ecd0-bb62-11f0-824f-39b3b0e3b0ee.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Texas sues Roblox for 'putting paedophiles and profits' over safety]]></title>
-      <description><![CDATA[Roblox said it is "disappointed" that it is being sued based on "misrepresentations and sensationalised claims".]]></description>
-      <link>https://www.bbc.com/news/articles/cy0kd4kk0kqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0kd4kk0kqo</guid>
-      <pubDate>Fri, 07 Nov 2025 03:26:31 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c99f/live/79e5d9c0-bb80-11f0-bec0-3f4381162e59.jpg"/>
+      <title><![CDATA[Rightmove shares plummet over AI investment plans]]></title>
+      <description><![CDATA[Shares in the property website sink after it cuts profit forecasts to step up investment in AI.]]></description>
+      <link>https://www.bbc.com/news/articles/cly97lj0nddo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly97lj0nddo</guid>
+      <pubDate>Fri, 07 Nov 2025 13:01:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afcd/live/a69c2140-bbda-11f0-8252-53776b9338e4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What does Elon Musk do with all his money?]]></title>
+      <description><![CDATA[While he has a penchant for cars and jets, the world's richest person reportedly lives a relatively modest life.]]></description>
+      <link>https://www.bbc.com/news/articles/c1wl5wj39zjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1wl5wj39zjo</guid>
+      <pubDate>Fri, 07 Nov 2025 17:29:23 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd06/live/ff558060-bbdf-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Grand Theft Auto studio accused of 'union busting' after sacking workers]]></title>
@@ -263,38 +271,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/clyz8de5p57o</guid>
       <pubDate>Sun, 02 Nov 2025 01:52:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caec/live/a8490f60-b673-11f0-ba75-093eca1ac29b.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Websites disabled in Microsoft global outage come back online]]></title>
-      <description><![CDATA[Microsoft 365 and its Azure cloud computing platform were hit with DNS issues, similar to the recent AWS outage.]]></description>
-      <link>https://www.bbc.com/news/articles/c3rj45n4x5eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rj45n4x5eo</guid>
-      <pubDate>Wed, 29 Oct 2025 22:44:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc2/live/753a2160-b4f0-11f0-ab86-b5f654e70621.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[First UK phones to get satellite connectivity in signal blackspots announced]]></title>
-      <description><![CDATA[Virgin Media O2 has partnered with Elon Musk firm Starlink to offer the service.]]></description>
-      <link>https://www.bbc.com/news/articles/c993m88jer9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c993m88jer9o</guid>
-      <pubDate>Thu, 30 Oct 2025 07:31:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d9/live/f0fe5510-b57b-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Pornhub says UK visitors down 77% since age checks came in]]></title>
-      <description><![CDATA[The site tells BBC News it believes people are viewing riskier sites - but they may just be using VPNs.  ]]></description>
-      <link>https://www.bbc.com/news/articles/cgkz3m3re1zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cgkz3m3re1zo</guid>
-      <pubDate>Fri, 31 Oct 2025 00:43:42 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7fd/live/baf4c680-b62e-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Security concerns over system at heart of digital ID]]></title>
-      <description><![CDATA[The government is facing questions over whether One Login can be trusted to keep people's personal data secure.]]></description>
-      <link>https://www.bbc.com/news/articles/c5y930x81wpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y930x81wpo</guid>
-      <pubDate>Fri, 31 Oct 2025 15:32:30 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b1/live/823d4b00-b4e9-11f0-ab86-b5f654e70621.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fire-blocking chemicals promise safer buildings]]></title>
