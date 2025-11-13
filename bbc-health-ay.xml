@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 13 Nov 2025 15:48:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 16:23:18 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -240,6 +240,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09c2/live/61a9caa0-ae66-11f0-bf6e-0db822206ec2.jpg"/>
     </item>
     <item>
+      <title><![CDATA[NHS tracker - are hospital waiting times improving near you?]]></title>
+      <description><![CDATA[Use our interactive tracker to see if treatment waits are getting better at your local hospital.]]></description>
+      <link>https://www.bbc.com/news/articles/cq53qx2vg6jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq53qx2vg6jo</guid>
+      <pubDate>Thu, 13 Nov 2025 11:14:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e64/live/1cccf440-5013-11f0-8c47-237c2e4015f5.png"/>
+    </item>
+    <item>
       <title><![CDATA[Ever feel the need to switch off? Your vagus nerve might hold the key]]></title>
       <description><![CDATA[You might not have heard of it, but can training your vagus nerve give you a moment or two of peace?]]></description>
       <link>https://www.bbc.com/news/articles/cy0k9yz5wexo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -390,14 +398,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c147218x7rgo</guid>
       <pubDate>Sat, 04 Oct 2025 23:05:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eec1/live/55b7b6a0-a35b-11f0-9915-9bcc1e7b7b03.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Scientists win Nobel Prize for discovering why immune system does not destroy the body]]></title>
-      <description><![CDATA[The prize-winning discovery explains how the immune system attacks hostile infections, but not the body's own cells.]]></description>
-      <link>https://www.bbc.com/news/articles/c2knwvpd7vno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2knwvpd7vno</guid>
-      <pubDate>Mon, 06 Oct 2025 10:28:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d22/live/4ce477f0-a29a-11f0-b5fb-09dc1426da0e.jpg"/>
     </item>
     <item>
       <title><![CDATA[What is chickenpox and how can I get my child vaccinated?]]></title>

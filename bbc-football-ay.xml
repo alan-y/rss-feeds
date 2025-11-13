@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 13 Nov 2025 15:48:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 16:23:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -32,7 +32,7 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bbc/live/251d7300-c0a1-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
-      <title><![CDATA[The Ratcliffe revolution - inside Man Utd's mass exodus and rebuild]]></title>
+      <title><![CDATA[The Ratcliffe revolution - inside Man Utd's exodus and rebuild]]></title>
       <description><![CDATA[BBC Sport tells the story of how Sir Jim Ratcliffe ripped apart and rebuilt Manchester United's leadership team.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdjrkznlk9yo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjrkznlk9yo</guid>
@@ -72,20 +72,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12c4/live/79a18260-bfe1-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What has led to Liverpool's seven-game winless WSL run?]]></title>
-      <description><![CDATA[With just one point from their first seven Women's Super League matches this season Liverpool are not where they want to be, but the January transfer window could be key to their campaign.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crmxpp8v28wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crmxpp8v28wo</guid>
-      <pubDate>Thu, 13 Nov 2025 09:33:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da16/live/8cd9e340-be56-11f0-ab47-3d96a1f67926.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The great number nine decline - where have England's strikers gone?]]></title>
-      <description><![CDATA[BBC Sport takes an in-depth look at why England lack centre-forward options behind Harry Kane - a far cry from when the likes of Les Ferdinand only won 17 caps.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2018n9dx5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2018n9dx5o</guid>
-      <pubDate>Thu, 13 Nov 2025 06:13:20 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65d1/live/84f5a710-bf17-11f0-ae46-bd64331f0fd4.jpg"/>
+      <title><![CDATA['Historically for men' - WSL wants stadium changes]]></title>
+      <description><![CDATA[The company which runs English professional women's football calls for more female-friendly stadiums.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1wl197jw9qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1wl197jw9qo</guid>
+      <pubDate>Thu, 13 Nov 2025 15:48:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260c/live/783f7af0-c09d-11f0-b2d5-133186eb0524.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man Utd face legal action over sex abuse claims]]></title>
@@ -144,6 +136,22 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b48/live/cb307600-bf13-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
+      <title><![CDATA[The great number nine decline - where have England's strikers gone?]]></title>
+      <description><![CDATA[BBC Sport takes an in-depth look at why England lack centre-forward options behind Harry Kane - a far cry from when the likes of Les Ferdinand only won 17 caps.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2018n9dx5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2018n9dx5o</guid>
+      <pubDate>Thu, 13 Nov 2025 06:13:20 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65d1/live/84f5a710-bf17-11f0-ae46-bd64331f0fd4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What has led to Liverpool's seven-game winless WSL run?]]></title>
+      <description><![CDATA[With just one point from their first seven Women's Super League matches this season Liverpool are not where they want to be, but the January transfer window could be key to their campaign.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crmxpp8v28wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crmxpp8v28wo</guid>
+      <pubDate>Thu, 13 Nov 2025 09:33:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da16/live/8cd9e340-be56-11f0-ab47-3d96a1f67926.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Kane a top target for Barcelona - Thursday's gossip]]></title>
       <description><![CDATA[England and Bayern Munich striker Harry Kane is a leading target for Barcelona, Crystal Palace midfielder Adam Wharton tops Chelsea transfer list, Juventus halt contract talks with Kenan Yildiz, plus more.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwyk0yk5vg4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -176,22 +184,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgmvl3502go</guid>
       <pubDate>Thu, 13 Nov 2025 00:02:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2d9/live/b59a1970-c005-11f0-ae46-bd64331f0fd4.png"/>
-    </item>
-    <item>
-      <title><![CDATA[NI the 'strongest we've been' - Peacock-Farrell]]></title>
-      <description><![CDATA[Northern Ireland goalkeeper Bailey Peacock-Farrell feels Michael O'Neill's squad is "the strongest we've been" as they prepare for Friday's crunch World Cup qualifier away to Slovakia.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2y32z09w3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2y32z09w3o</guid>
-      <pubDate>Thu, 13 Nov 2025 06:24:47 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dd4/live/4a2ff990-bfd6-11f0-8bee-9be167c22f3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Cardiff to host opening match of Euro 2028]]></title>
-      <description><![CDATA[Cardiff will host the opening game of Euro 2028, with the semi-finals and final set to take place at London's Wembley Stadium.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c781g9ey80go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c781g9ey80go</guid>
-      <pubDate>Wed, 12 Nov 2025 20:28:28 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4737/live/3a770320-bffb-11f0-ac46-0f7e456566cc.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rolfo & Malard score as Man Utd beat PSG]]></title>
@@ -234,6 +226,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8769/live/941375a0-c008-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Cardiff to host opening match of Euro 2028]]></title>
+      <description><![CDATA[Cardiff will host the opening game of Euro 2028, with the semi-finals and final set to take place at London's Wembley Stadium.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c781g9ey80go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c781g9ey80go</guid>
+      <pubDate>Wed, 12 Nov 2025 20:28:28 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4737/live/3a770320-bffb-11f0-ac46-0f7e456566cc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[NI the 'strongest we've been' - Peacock-Farrell]]></title>
+      <description><![CDATA[Northern Ireland goalkeeper Bailey Peacock-Farrell feels Michael O'Neill's squad is "the strongest we've been" as they prepare for Friday's crunch World Cup qualifier away to Slovakia.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2y32z09w3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2y32z09w3o</guid>
+      <pubDate>Thu, 13 Nov 2025 06:24:47 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dd4/live/4a2ff990-bfd6-11f0-8bee-9be167c22f3b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Former defender Edwards' return to Wolves - a gamble all round?]]></title>
       <description><![CDATA[Wolves finally have their man. But how big a gamble have the Premier League side made in appointing Rob Edwards?
 ]]></description>
@@ -261,20 +269,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5dd/live/a713af00-bfbb-11f0-8669-5560f5c90fbe.png"/>
     </item>
     <item>
-      <title><![CDATA[Damage at Exeter City stadium after fire]]></title>
-      <description><![CDATA[Dozens of firefighters attended the incident amid fears it would spread to the stadium's stands.]]></description>
-      <link>https://www.bbc.com/news/articles/cql9x04x2y4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cql9x04x2y4o</guid>
-      <pubDate>Thu, 13 Nov 2025 13:43:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87dd/live/e701e170-c067-11f0-bdb0-99c97c554d8b.png"/>
-    </item>
-    <item>
       <title><![CDATA[How to follow Scotland's crucial qualifiers on BBC]]></title>
       <description><![CDATA[Scotland's matches away to Greece and at home to Denmark could determine if the nation reaches a World Cup for the first time since 1998, and you watch them exclusively on the BBC.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cly95l1y9neo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly95l1y9neo</guid>
       <pubDate>Thu, 13 Nov 2025 09:12:37 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57e3/live/c0a86690-c06f-11f0-bdb0-99c97c554d8b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Damage at Exeter City stadium after fire]]></title>
+      <description><![CDATA[Dozens of firefighters attended the incident amid fears it would spread to the stadium's stands.]]></description>
+      <link>https://www.bbc.com/news/articles/cql9x04x2y4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cql9x04x2y4o</guid>
+      <pubDate>Thu, 13 Nov 2025 15:57:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87dd/live/e701e170-c067-11f0-bdb0-99c97c554d8b.png"/>
     </item>
     <item>
       <title><![CDATA[England's place is booked - what's still at stake in final World Cup qualifiers?]]></title>
@@ -325,14 +333,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfe1/live/ca5f4ed0-bfcd-11f0-b880-bdabe65471f0.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Friendly competition' - could Rogers keep Bellingham out of England team?]]></title>
-      <description><![CDATA[Lifelong friends Jude Bellingham and Morgan Rogers are set to compete for England's number 10 shirt at the World Cup - who will prevail?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c30vy02v7d8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c30vy02v7d8o</guid>
-      <pubDate>Wed, 12 Nov 2025 19:01:55 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d83/live/811e59e0-bfd3-11f0-8bee-9be167c22f3b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How does Clarke rouse Scotland for tenure-defining games?]]></title>
       <description><![CDATA[The next four days could define Steve Clarke's Scotland reign, so how can he inspire his team for a seismic World Cup qualifying double-header?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c7v8yrnje80o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -379,14 +379,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj6ngld5069o</guid>
       <pubDate>Wed, 12 Nov 2025 16:23:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e53f/live/66cdbb60-bfda-11f0-8669-5560f5c90fbe.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How to stop the revolving door - what next for Southampton?]]></title>
-      <description><![CDATA[Following the sacking of Will Still, who could be next in the dugout at St Mary's and what sort of situation are they stepping into?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz0xjdn5zz0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz0xjdn5zz0o</guid>
-      <pubDate>Wed, 12 Nov 2025 12:55:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bf/live/acbe17d0-bfaa-11f0-8456-eff94716b162.png"/>
     </item>
     <item>
       <title><![CDATA[How can Northern Ireland qualify for the 2026 World Cup?]]></title>
@@ -541,14 +533,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdrz41872glo</guid>
       <pubDate>Wed, 12 Nov 2025 13:18:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb1a/live/e8c5bc50-bfc9-11f0-b880-bdabe65471f0.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Defender Greenwood extends Man City stay to 2027]]></title>
-      <description><![CDATA[England defender Alex Greenwood signs a new deal extending her stay at Manchester City to 2027.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clygxjrlwyno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clygxjrlwyno</guid>
-      <pubDate>Wed, 12 Nov 2025 12:00:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2c4/live/43270440-bfbd-11f0-8db2-d92fbd46f955.jpg"/>
     </item>
     <item>
       <title><![CDATA[From farming village to Liverpool icon - the Salah story]]></title>
