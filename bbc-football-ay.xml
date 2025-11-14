@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 14 Nov 2025 06:56:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 07:19:14 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,6 +40,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c95/live/630ddd10-c0b2-11f0-9844-911bad054580.jpg"/>
     </item>
     <item>
+      <title><![CDATA[NI focus on the 'here and now' in World Cup effort]]></title>
+      <description><![CDATA[Northern Ireland manager Michael O'Neill says he has not thought about the possibility of reaching a World Cup play-off via their Nations League ranking rather than through the qualifying group.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce865ne8590o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce865ne8590o</guid>
+      <pubDate>Fri, 14 Nov 2025 06:38:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/667a/live/f8f920f0-c0b7-11f0-8a6c-bdcd4bb2f081.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Can 'calm' and 'intelligent' O'Reilly keep England left-back spot?]]></title>
       <description><![CDATA[After making his England debut against Serbia, will Manchester City's 20-year-old defender Nico O'Reilly make the left-back position his own?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c93d4xvqwngo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cglepde7yzlo</guid>
       <pubDate>Thu, 13 Nov 2025 22:14:40 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72df/live/6320ea80-a353-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd consider Adeyemi move - Friday's gossip]]></title>
-      <description><![CDATA[Manchester United eye a January deal for Karim Adeyemi, Chelsea prepare a  blockbuster bid for Julian Alvarez, Liverpool and Tottenham pursue Antoine Semenyo, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c867nvq77x7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c867nvq77x7o</guid>
-      <pubDate>Thu, 13 Nov 2025 22:40:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c01/live/7f745080-c0dd-11f0-8456-eff94716b162.png"/>
     </item>
     <item>
       <title><![CDATA[Is anything being done about poor player behaviour?]]></title>
@@ -104,20 +104,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a29/live/44452fa0-bf27-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[The Ratcliffe revolution - inside Man Utd's exodus and rebuild]]></title>
-      <description><![CDATA[BBC Sport tells the story of how Sir Jim Ratcliffe ripped apart and rebuilt Manchester United's leadership team.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdjrkznlk9yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjrkznlk9yo</guid>
-      <pubDate>Thu, 13 Nov 2025 10:11:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aee/live/9f5dee70-bf1f-11f0-ae89-e993d0cb9b26.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What are the 'mind-altering' shoes England players are wearing? ]]></title>
-      <description><![CDATA[England are always looking at ways they can gain an advantage for their players as prepare to try to win the World Cup and now they have turned to fluorescent red 'mind-altering' shoes as tool to help them do that. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gp6pmenl0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gp6pmenl0o</guid>
-      <pubDate>Thu, 13 Nov 2025 13:41:27 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bbc/live/251d7300-c0a1-11f0-8669-5560f5c90fbe.jpg"/>
+      <title><![CDATA[Man Utd consider Adeyemi move - Friday's gossip]]></title>
+      <description><![CDATA[Manchester United eye a January deal for Karim Adeyemi, Chelsea prepare a  blockbuster bid for Julian Alvarez, Liverpool and Tottenham pursue Antoine Semenyo, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c867nvq77x7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c867nvq77x7o</guid>
+      <pubDate>Thu, 13 Nov 2025 22:40:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c01/live/7f745080-c0dd-11f0-8456-eff94716b162.png"/>
     </item>
     <item>
       <title><![CDATA[What's up with Wales and Spurs 'mystery' Johnson?]]></title>
@@ -192,6 +184,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58a/live/6a269bc0-bbe7-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
+      <title><![CDATA[The Ratcliffe revolution - inside Man Utd's exodus and rebuild]]></title>
+      <description><![CDATA[BBC Sport tells the story of how Sir Jim Ratcliffe ripped apart and rebuilt Manchester United's leadership team.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdjrkznlk9yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjrkznlk9yo</guid>
+      <pubDate>Thu, 13 Nov 2025 10:11:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aee/live/9f5dee70-bf1f-11f0-ae89-e993d0cb9b26.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What are the 'mind-altering' shoes England players are wearing? ]]></title>
+      <description><![CDATA[England are always looking at ways they can gain an advantage for their players as prepare to try to win the World Cup and now they have turned to fluorescent red 'mind-altering' shoes as tool to help them do that. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gp6pmenl0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gp6pmenl0o</guid>
+      <pubDate>Thu, 13 Nov 2025 13:41:27 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bbc/live/251d7300-c0a1-11f0-8669-5560f5c90fbe.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Real's Endrick closes in on Lyon loan]]></title>
       <description><![CDATA[Real Madrid are in advanced talks with Lyon over sending 19-year-old forward Endrick on loan to the Ligue 1 side in January.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvgkxkxnz2jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -206,14 +214,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1wl197jw9qo</guid>
       <pubDate>Thu, 13 Nov 2025 15:48:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260c/live/783f7af0-c09d-11f0-b2d5-133186eb0524.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Meet the man who played in two games, in two countries... in one day]]></title>
-      <description><![CDATA[BBC Sport tells the story of Soren Lerby, who once played for Denmark and Bayern Munich on the same day - in different countries.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgk92vmpjxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgk92vmpjxo</guid>
-      <pubDate>Thu, 13 Nov 2025 06:18:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12c4/live/79a18260-bfe1-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
       <title><![CDATA[Former Tottenham owner Lewis receives pardon from Trump]]></title>
@@ -272,12 +272,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fb9/live/3fa1fb50-c0b1-11f0-8a6c-bdcd4bb2f081.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Oscar thanks fans for 'messages and prayers']]></title>
-      <description><![CDATA[Former Chelsea and Brazil midfielder Oscar thanks fans for their "messages and prayers" after being hospitalised with a heart issue. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cq501x1llqyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq501x1llqyo</guid>
-      <pubDate>Thu, 13 Nov 2025 09:41:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee09/live/0a229400-bfa6-11f0-9311-a751aa0ffda1.jpg"/>
+      <title><![CDATA[Meet the man who played in two games, in two countries... in one day]]></title>
+      <description><![CDATA[BBC Sport tells the story of Soren Lerby, who once played for Denmark and Bayern Munich on the same day - in different countries.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgk92vmpjxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgk92vmpjxo</guid>
+      <pubDate>Thu, 13 Nov 2025 06:18:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12c4/live/79a18260-bfe1-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
       <title><![CDATA[Earps return 'talk of Manchester' but Middleton-Patel steals show]]></title>
@@ -288,12 +288,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2d9/live/b59a1970-c005-11f0-ae46-bd64331f0fd4.png"/>
     </item>
     <item>
-      <title><![CDATA[NI the 'strongest we've been' - Peacock-Farrell]]></title>
-      <description><![CDATA[Northern Ireland goalkeeper Bailey Peacock-Farrell feels Michael O'Neill's squad is "the strongest we've been" as they prepare for Friday's crunch World Cup qualifier away to Slovakia.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2y32z09w3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2y32z09w3o</guid>
-      <pubDate>Thu, 13 Nov 2025 06:24:47 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dd4/live/4a2ff990-bfd6-11f0-8bee-9be167c22f3b.jpg"/>
+      <title><![CDATA[Oscar thanks fans for 'messages and prayers']]></title>
+      <description><![CDATA[Former Chelsea and Brazil midfielder Oscar thanks fans for their "messages and prayers" after being hospitalised with a heart issue. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cq501x1llqyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq501x1llqyo</guid>
+      <pubDate>Thu, 13 Nov 2025 09:41:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee09/live/0a229400-bfa6-11f0-9311-a751aa0ffda1.jpg"/>
     </item>
     <item>
       <title><![CDATA[What has led to Liverpool's seven-game winless WSL run?]]></title>
@@ -328,15 +328,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cql9x04x2y4o</guid>
       <pubDate>Thu, 13 Nov 2025 18:30:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87dd/live/e701e170-c067-11f0-bdb0-99c97c554d8b.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Former defender Edwards' return to Wolves - a gamble all round?]]></title>
-      <description><![CDATA[Wolves finally have their man. But how big a gamble have the Premier League side made in appointing Rob Edwards?
-]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c79745l95x2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c79745l95x2o</guid>
-      <pubDate>Wed, 12 Nov 2025 14:00:42 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71c9/live/13bfe340-bfd4-11f0-8bee-9be167c22f3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[How can Northern Ireland qualify for the 2026 World Cup?]]></title>
@@ -451,6 +442,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx27d44v2dno</guid>
       <pubDate>Thu, 06 Nov 2025 15:16:43 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f703/live/8933d3d0-bb23-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Maeda wants to leave Celtic in January - gossip]]></title>
+      <description><![CDATA[Celtic forward linked with January exit as speculation mounts about the club's next manager.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0exjdz00vgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0exjdz00vgo</guid>
+      <pubDate>Fri, 14 Nov 2025 07:18:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b7c/live/b274e990-c092-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
       <title><![CDATA[How to follow Scotland's crucial qualifiers on BBC]]></title>
