@@ -10,13 +10,13 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 15 Nov 2025 22:46:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 23:16:46 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
-      <title><![CDATA[Alcaraz sets up Sinner showdown at ATP Finals]]></title>
+      <title><![CDATA[Alcaraz expects raucous Sinner support in ATP Finals showpiece]]></title>
       <description><![CDATA[Defending champion Jannik Sinner will face great rival Carlos Alcaraz in Sunday's singles showpiece match at the ATP Finals in Turin, with Alcaraz having won four of their five matches this year.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cd9k4v33d15o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cd9k4v33d15o</guid>
@@ -56,20 +56,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8475/live/17571840-c0db-11f0-9cdd-cd78459d79fa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sinner frustrates Zverev to reach ATP Finals last four]]></title>
-      <description><![CDATA[Jannik Sinner drives Alexander Zverev to distraction with a composed performance to reach the knockout stages of the ATP Finals.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/czdrm1nzplyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/czdrm1nzplyo</guid>
-      <pubDate>Wed, 12 Nov 2025 22:02:05 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb0a/live/6c06f390-c010-11f0-8669-5560f5c90fbe.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Superman' Djokovic had 'slap from reality in last couple of years']]></title>
       <description><![CDATA[Novak Djokovic still believes he can win a 25th Grand Slam title - despite being given a "slap from reality in the last couple of years".]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c74jy1z43wyo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c74jy1z43wyo</guid>
       <pubDate>Tue, 11 Nov 2025 21:13:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/675f/live/8eb0f4b0-bf3c-11f0-9786-35d98f9cc3e7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sinner frustrates Zverev to reach ATP Finals last four]]></title>
+      <description><![CDATA[Jannik Sinner drives Alexander Zverev to distraction with a composed performance to reach the knockout stages of the ATP Finals.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/czdrm1nzplyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/czdrm1nzplyo</guid>
+      <pubDate>Wed, 12 Nov 2025 22:02:05 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb0a/live/6c06f390-c010-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
       <title><![CDATA[Alcaraz battles back to beat Fritz in thriller at ATP Finals]]></title>
@@ -120,14 +120,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10c/live/4a108660-bef4-11f0-ae46-bd64331f0fd4.png"/>
     </item>
     <item>
-      <title><![CDATA[Sinner dominates on serve to beat Auger-Aliassime at ATP Finals]]></title>
-      <description><![CDATA[Jannik Sinner begins his ATP Finals title defence by sweeping aside a physically hampered Felix Auger-Aliassime in front of a home crowd.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c5y0rvwl2w6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c5y0rvwl2w6o</guid>
-      <pubDate>Mon, 10 Nov 2025 21:56:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dde3/live/db98cd70-be79-11f0-8456-eff94716b162.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Cutest comeback ever' - Jabeur announces pregnancy]]></title>
       <description><![CDATA[Former world number two Ons Jabeur announces that she is pregnant with her first child.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cn8xp8zjxz1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -142,6 +134,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cwy12dz0328o</guid>
       <pubDate>Mon, 10 Nov 2025 15:18:42 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a31c/live/cf5b0df0-be44-11f0-ae46-bd64331f0fd4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sinner dominates on serve to beat Auger-Aliassime at ATP Finals]]></title>
+      <description><![CDATA[Jannik Sinner begins his ATP Finals title defence by sweeping aside a physically hampered Felix Auger-Aliassime in front of a home crowd.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c5y0rvwl2w6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c5y0rvwl2w6o</guid>
+      <pubDate>Mon, 10 Nov 2025 21:56:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dde3/live/db98cd70-be79-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
       <title><![CDATA['Motivated' Alcaraz begins ATP Finals bid with win over De Minaur]]></title>
