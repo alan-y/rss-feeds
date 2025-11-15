@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 15 Nov 2025 20:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 20:34:05 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -32,12 +32,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/280a/live/ecaf8130-c25c-11f0-80d4-cd6e0a140eb7.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Will Scotland's luck hold for biggest test of World Cup dream?]]></title>
-      <description><![CDATA[Scotland are ideally positioned to qualify for the World Cup finals, but Steve Clarke's side now face the hardest part of their journey, writes Tom English.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c62e478j884o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62e478j884o</guid>
-      <pubDate>Sat, 15 Nov 2025 08:06:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c859/live/98aa50a0-c16d-11f0-a388-eda4b11262c1.jpg"/>
+      <title><![CDATA[Match abandoned after alleged referee sexist abuse]]></title>
+      <description><![CDATA[AFC Rushden & Diamonds says it is "deeply concerned" by the comment made to the female referee.]]></description>
+      <link>https://www.bbc.com/news/articles/c709ll70d8go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c709ll70d8go</guid>
+      <pubDate>Sat, 15 Nov 2025 20:25:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b454/live/5df5f580-c25e-11f0-80d4-cd6e0a140eb7.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why has Sweden's World Cup bid gone wrong and can Potter save them?]]></title>
@@ -112,6 +112,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd49/live/b2d423e0-c17f-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Anderson Man Utd's priority target - Sunday's gossip]]></title>
+      <description><![CDATA[Elliot Anderson is a winter target for Manchester United and England striker Ivan Toney will reportedly not leave Saudi Arabia in January.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cjw95zd86d6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjw95zd86d6o</guid>
+      <pubDate>Sat, 15 Nov 2025 20:20:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1d0/live/67621c10-c25f-11f0-8669-5560f5c90fbe.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Newport boss Hughes announces sacking in post-match interview]]></title>
       <description><![CDATA[David Hughes leaves his role as Newport County manager after six months in charge.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cnvrl5ep1dgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -142,14 +150,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y0vz2eze7o</guid>
       <pubDate>Fri, 14 Nov 2025 16:49:50 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f3/live/8aea5d20-c168-11f0-a255-0f6bee817455.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Liverpool want Olise to replace Salah - Saturday's gossip]]></title>
-      <description><![CDATA[Bayern Munich winger Michael Olise interests Liverpool, Arsenal and Manchester United eye Borussia Dortmund forward Karim Adeyemi, Newcastle are chasing AZ Alkmaar midfielder Kees Smit, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyzk7p416zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyzk7p416zo</guid>
-      <pubDate>Fri, 14 Nov 2025 23:33:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2da/live/4028c560-c19f-11f0-8456-eff94716b162.png"/>
     </item>
     <item>
       <title><![CDATA[Referee needed to 'be stronger' - O'Neill]]></title>
@@ -368,12 +368,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f703/live/8933d3d0-bb23-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Bitter taste for Greeks can still sour Scotland's hopes]]></title>
-      <description><![CDATA[BBC Scotland's Liam McLeod looks at Scotland's wounded opponents in Athens.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czr1z25jp2jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czr1z25jp2jo</guid>
-      <pubDate>Sat, 15 Nov 2025 14:22:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45c/live/316e4600-c22e-11f0-a786-17e554da8bc7.jpg"/>
+      <title><![CDATA[Watch as Scotland stunned early on by Greece]]></title>
+      <description><![CDATA[Watch as Scotland are pulled apart after just six minutes in their penultimate World Cup qualifier against Greece.]]></description>
+      <link>https://www.bbc.com/sport/videos/c77z0p11vvxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/videos/c77z0p11vvxo</guid>
+      <pubDate>Sat, 15 Nov 2025 20:23:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79a5/live/b321ef80-c260-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
       <title><![CDATA[Celtic granted permission to speak to Nancy - gossip]]></title>
@@ -390,6 +390,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdegj67p1z2o</guid>
       <pubDate>Fri, 14 Nov 2025 16:40:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcd7/live/9c665080-bfa7-11f0-9311-a751aa0ffda1.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rangers call for Collum talks after ref chief backs Trusty decision]]></title>
+      <description><![CDATA[Rangers want further talks with Willie Collum after the Scottish FA's head of referees backed his match officials over the decision not to show a red card to Celtic's Auston Trusty in the Ibrox side's Premier Sports Cup semi-final defeat.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1e35ze732go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1e35ze732go</guid>
+      <pubDate>Fri, 14 Nov 2025 22:03:01 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a84/live/da88bdc0-c17e-11f0-be56-f12785bd2327.jpg"/>
     </item>
     <item>
       <title><![CDATA[How to follow Scotland's crucial qualifiers on BBC]]></title>
