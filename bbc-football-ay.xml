@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 15 Nov 2025 13:45:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 14:16:34 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -144,14 +144,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1710/live/23866750-c1a9-11f0-b8f5-55096c3c8e84.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Five things to look out for in EFL: Imps eye top spot as Millers motor]]></title>
-      <description><![CDATA[BBC Sport highlights five things you might want to look out for in this weekend's EFL action]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gkdv27lj9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gkdv27lj9o</guid>
-      <pubDate>Fri, 14 Nov 2025 09:34:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/984e/live/01b12330-c13c-11f0-8717-7b6a6b2fefad.png"/>
-    </item>
-    <item>
       <title><![CDATA[Banned Bellamy's fire still burns in Liechtenstein]]></title>
       <description><![CDATA[Banned Wales boss Craig Bellamy will have to watch Saturday's World Cup qualifier in Liechtenstein from the stands, having been suspended as a player when they were last in Vaduz.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2pz793rzno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -160,20 +152,28 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a08/live/2d252ee0-c163-11f0-9c9a-1124134b6598.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Liverpool want Olise to replace Salah - Saturday's gossip]]></title>
-      <description><![CDATA[Bayern Munich winger Michael Olise interests Liverpool, Arsenal and Manchester United eye Borussia Dortmund forward Karim Adeyemi, Newcastle are chasing AZ Alkmaar midfielder Kees Smit, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyzk7p416zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyzk7p416zo</guid>
-      <pubDate>Fri, 14 Nov 2025 23:33:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2da/live/4028c560-c19f-11f0-8456-eff94716b162.png"/>
-    </item>
-    <item>
       <title><![CDATA[Why Saturday's National League games are starting three minutes late]]></title>
       <description><![CDATA[National League clubs are ramping up the pressure on the EFL to increase the number of promotion places into League Two.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgqljx0dkj3o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgqljx0dkj3o</guid>
       <pubDate>Fri, 14 Nov 2025 10:21:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f132/live/dd66f5c0-c142-11f0-86a5-23e8532eb2d7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Five things to look out for in EFL: Imps eye top spot as Millers motor]]></title>
+      <description><![CDATA[BBC Sport highlights five things you might want to look out for in this weekend's EFL action]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gkdv27lj9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gkdv27lj9o</guid>
+      <pubDate>Fri, 14 Nov 2025 09:34:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/984e/live/01b12330-c13c-11f0-8717-7b6a6b2fefad.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Liverpool want Olise to replace Salah - Saturday's gossip]]></title>
+      <description><![CDATA[Bayern Munich winger Michael Olise interests Liverpool, Arsenal and Manchester United eye Borussia Dortmund forward Karim Adeyemi, Newcastle are chasing AZ Alkmaar midfielder Kees Smit, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clyzk7p416zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyzk7p416zo</guid>
+      <pubDate>Fri, 14 Nov 2025 23:33:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2da/live/4028c560-c19f-11f0-8456-eff94716b162.png"/>
     </item>
     <item>
       <title><![CDATA['Proper footballers and me' - Fifa award nomination shocks Brentford's Cheatley]]></title>
@@ -264,14 +264,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfaf/live/7ce495c0-c15d-11f0-9c9a-1124134b6598.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Warne driven by feelings of 'impostor syndrome']]></title>
-      <description><![CDATA[MK Dons boss Paul Warne is approaching 450 games in management but admits he still suffers from 'impostor syndrome'.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c20p23dpe4zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20p23dpe4zo</guid>
-      <pubDate>Fri, 14 Nov 2025 06:26:24 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e04a/live/95348ba0-c13d-11f0-ae46-bd64331f0fd4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['I was stupid to bet, but gambling ads are everywhere']]></title>
       <description><![CDATA[Lewis Macari admits he was "stupid" to bet on football at the start of his career, but felt gambling on the sport was unavoidable when constantly exposed to it.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c24ljn1yn73o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -280,28 +272,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e987/live/83688c50-c165-11f0-9c9a-1124134b6598.jpg"/>
     </item>
     <item>
-      <title><![CDATA['I got his shirt' - Carragher on Malta & Lewandowski]]></title>
-      <description><![CDATA[Not many League One defenders have played against one of the world's best strikers, but James Carragher - son of ex-England international Jamie - has the shirt to prove it.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1m32vxvj1lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1m32vxvj1lo</guid>
-      <pubDate>Fri, 14 Nov 2025 07:43:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9abe/live/78232840-be4b-11f0-bf8d-d144875d3ae7.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Drenthe on course for 'successful recovery' from stroke]]></title>
       <description><![CDATA[Royston Drenthe's manager remains confident the former Real Madrid and Everton winger will make "a successful recovery" after his stroke.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdeg0n8npeeo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdeg0n8npeeo</guid>
       <pubDate>Fri, 14 Nov 2025 12:01:25 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/215d/live/4ef56b60-c14b-11f0-86a5-23e8532eb2d7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why EFL matches get postponed for international call-ups]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team explains why some League One and League two matches get postponed due to international call-ups.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0jdl5406jpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0jdl5406jpo</guid>
-      <pubDate>Fri, 14 Nov 2025 15:18:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66f/live/8af37200-c0b1-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is anything being done about poor player behaviour?]]></title>
