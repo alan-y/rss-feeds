@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 01:25:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 03:06:29 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Japan tourism and retail stocks slide after row with China over Taiwan]]></title>
+      <description><![CDATA[Tokyo and Beijing are in a dispute over the Japanese prime minister's remarks about Taiwan. ]]></description>
+      <link>https://www.bbc.com/news/articles/c5y9n25r0qyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y9n25r0qyo</guid>
+      <pubDate>Mon, 17 Nov 2025 02:49:25 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba8/live/0c72bdb0-c358-11f0-be76-9f1ac698089f.jpg"/>
+    </item>
     <item>
       <title><![CDATA[China urges citizens not to visit Japan over Taiwan row]]></title>
       <description><![CDATA[Japanese PM Sanae Takaichi had suggested Tokyo could take military action if Beijing attacked Taiwan.]]></description>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c98n2kye01eo</guid>
       <pubDate>Wed, 12 Nov 2025 02:55:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a14f/live/94553270-bf6c-11f0-b1e6-65994896fedd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[China exempts chips used by carmakers from export curbs]]></title>
-      <description><![CDATA[The block on exports of the company's chips had raised fears that European car production would be hit.]]></description>
-      <link>https://www.bbc.com/news/articles/c0rp2514g4qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0rp2514g4qo</guid>
-      <pubDate>Mon, 10 Nov 2025 07:02:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/be7b5b50-b6d5-11f0-b2a1-6f537f66f9aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Battle over Chinese chip maker rocks global car industry]]></title>
