@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 16:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 16:55:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -56,12 +56,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0c7/live/448bc260-c244-11f0-8669-5560f5c90fbe.png"/>
     </item>
     <item>
-      <title><![CDATA['Behaviour is key' - Tuchel to review Bellingham reaction]]></title>
-      <description><![CDATA[England boss Thomas Tuchel said "behaviour is key" and he "will review" Jude Bellingham's reaction to being taken off in their win in Albania.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpq1g5n3qgwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpq1g5n3qgwo</guid>
-      <pubDate>Sun, 16 Nov 2025 20:50:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1371/live/169e7dd0-c324-11f0-90d8-7310c5949e6b.jpg"/>
+      <title><![CDATA[Barcelona to play at Nou Camp after more than two years away]]></title>
+      <description><![CDATA[Barcelona will return to their iconic Nou Camp stadium after more than two years away when they face Athletic Club in La Liga this weekend. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c201vqqr062o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c201vqqr062o</guid>
+      <pubDate>Mon, 17 Nov 2025 16:43:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a38a/live/edaaf2b0-c3d1-11f0-bdbe-6f7df1044786.jpg"/>
     </item>
     <item>
       <title><![CDATA[How will World Cup play-offs be determined?]]></title>
@@ -70,6 +70,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx278m4gm4xo</guid>
       <pubDate>Mon, 17 Nov 2025 11:38:03 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66f/live/dc8117b0-c3b5-11f0-ae46-bd64331f0fd4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Behaviour is key' - Tuchel to review Bellingham reaction]]></title>
+      <description><![CDATA[England boss Thomas Tuchel said "behaviour is key" and he "will review" Jude Bellingham's reaction to being taken off in their win in Albania.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpq1g5n3qgwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpq1g5n3qgwo</guid>
+      <pubDate>Sun, 16 Nov 2025 20:50:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1371/live/169e7dd0-c324-11f0-90d8-7310c5949e6b.jpg"/>
     </item>
     <item>
       <title><![CDATA[England to host Spain at Wembley for World Cup qualifier]]></title>
@@ -86,14 +94,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly4lrnq508o</guid>
       <pubDate>Mon, 17 Nov 2025 14:51:11 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e61/live/9ad6ee10-c3b1-11f0-8b5b-6b842c57bf0d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How Haaland fired Norway to the World Cup]]></title>
-      <description><![CDATA[Generational goalgetter Erling Haaland will get a crack at his first major tournament next summer, after leading Norway to the World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpv18vznj78o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv18vznj78o</guid>
-      <pubDate>Sun, 16 Nov 2025 21:52:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6802/live/ee423ad0-c33b-11f0-af6f-bf14f7e9837d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why Luxembourg game matters for Northern Ireland]]></title>
@@ -160,6 +160,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c353/live/2da45af0-c319-11f0-8036-1f33f0e1199f.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How Haaland fired Norway to the World Cup]]></title>
+      <description><![CDATA[Generational goalgetter Erling Haaland will get a crack at his first major tournament next summer, after leading Norway to the World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpv18vznj78o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv18vznj78o</guid>
+      <pubDate>Sun, 16 Nov 2025 21:52:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6802/live/ee423ad0-c33b-11f0-af6f-bf14f7e9837d.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Italy fighting to avoid another 'apocalyptic' World Cup failure]]></title>
       <description><![CDATA[Four-time winners Italy are one of the most successful nations in World Cup history - but are in danger of missing the finals for the third successive time.]]></description>
       <link>https://www.bbc.com/sport/football/articles/clyzeydppzdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -184,20 +192,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c444/live/4e2b7260-c3c1-11f0-851c-69884d3a52d4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Liverpool pursue Semenyo - Monday's gossip]]></title>
-      <description><![CDATA[Antoine Semenyo pursued by Liverpool, Christian Pulisic holding off his AC Milan contract renewal, and Manchester United keen on Carlos Baleba.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cyv8re87908o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv8re87908o</guid>
-      <pubDate>Sun, 16 Nov 2025 22:20:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1728/live/78d9e990-c337-11f0-8669-5560f5c90fbe.png"/>
-    </item>
-    <item>
       <title><![CDATA[Scots 'can't let go' of World Cup chance - McGinn]]></title>
       <description><![CDATA[Scotland "can't let go" of the opportunity they have to reach a first men's World Cup since 1998, says midfielder John McGinn.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5ypnr822n1o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ypnr822n1o</guid>
       <pubDate>Sun, 16 Nov 2025 11:53:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6ab/live/f8d00760-c323-11f0-ae46-bd64331f0fd4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Liverpool pursue Semenyo - Monday's gossip]]></title>
+      <description><![CDATA[Antoine Semenyo pursued by Liverpool, Christian Pulisic holding off his AC Milan contract renewal, and Manchester United keen on Carlos Baleba.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cyv8re87908o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv8re87908o</guid>
+      <pubDate>Sun, 16 Nov 2025 22:20:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1728/live/78d9e990-c337-11f0-8669-5560f5c90fbe.png"/>
     </item>
     <item>
       <title><![CDATA[How hard is it for Channel Island players to become professionals?]]></title>
@@ -244,20 +252,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/548a/live/77d8d240-c300-11f0-bdc1-a928b34ade94.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Spurs show progress in draw against Arsenal]]></title>
-      <description><![CDATA[Level on points with Arsenal, five wins from nine and the most clean sheets in the Women's Super League this season - Tottenham are in a good place.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crklyzdyd73o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crklyzdyd73o</guid>
-      <pubDate>Sun, 16 Nov 2025 18:13:33 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a1/live/bfe5ea00-c319-11f0-8036-1f33f0e1199f.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Portugal and Norway reach World Cup - who else can join them?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team looks at who has qualified for next year's Fifa World Cup.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cglepde7yzlo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cglepde7yzlo</guid>
       <pubDate>Sun, 16 Nov 2025 22:31:16 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72df/live/6320ea80-a353-11f0-928c-71dbb8619e94.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Spurs show progress in draw against Arsenal]]></title>
+      <description><![CDATA[Level on points with Arsenal, five wins from nine and the most clean sheets in the Women's Super League this season - Tottenham are in a good place.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crklyzdyd73o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crklyzdyd73o</guid>
+      <pubDate>Sun, 16 Nov 2025 18:13:33 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a1/live/bfe5ea00-c319-11f0-8036-1f33f0e1199f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Who is in 'form of his life'? - how England players rated]]></title>
@@ -426,14 +434,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cqx3d5enx0xo</guid>
       <pubDate>Fri, 07 Nov 2025 16:44:55 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8448/live/bf80c0c0-bbe0-11f0-8252-53776b9338e4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Referees among suspects sought in match-fixing probe]]></title>
-      <description><![CDATA[Turkish prosecutors issue detention orders for 21 people - including 17 referees and two club presidents - as part of a major investigation into betting and match fixing.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cze6072p53no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cze6072p53no</guid>
-      <pubDate>Fri, 07 Nov 2025 15:04:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58a/live/6a269bc0-bbe7-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
       <title><![CDATA[The great number nine decline - where have England's strikers gone?]]></title>
