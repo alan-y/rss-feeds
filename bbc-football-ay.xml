@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 17:39:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 17:49:57 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA['Scotland must shake shackles of past to grasp World Cup dream']]></title>
-      <description><![CDATA[Scotland must seize on Denmark's vulnerability to earn the win on Tuesday - live on the BBC - that will take them to their first World Cup since 1998.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g3nlgzd5vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g3nlgzd5vo</guid>
-      <pubDate>Tue, 18 Nov 2025 09:38:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb09/live/41b27960-c462-11f0-8669-5560f5c90fbe.png"/>
-    </item>
     <item>
       <title><![CDATA[Wiegman defiant as she responds to Earps criticism]]></title>
       <description><![CDATA[Sarina Wiegman does not think she "would have done things differently" despite criticism from goalkeeper Mary Earps in her autobiography.]]></description>
@@ -38,6 +30,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy17l66p0jo</guid>
       <pubDate>Tue, 18 Nov 2025 04:34:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bd/live/f181df90-c3b6-11f0-8b5b-6b842c57bf0d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Scotland must shake shackles of past to grasp World Cup dream']]></title>
+      <description><![CDATA[Scotland must seize on Denmark's vulnerability to earn the win on Tuesday - live on the BBC - that will take them to their first World Cup since 1998.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g3nlgzd5vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g3nlgzd5vo</guid>
+      <pubDate>Tue, 18 Nov 2025 09:38:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb09/live/41b27960-c462-11f0-8669-5560f5c90fbe.png"/>
     </item>
     <item>
       <title><![CDATA[Fears Arsenal's Gabriel could be out until January]]></title>
@@ -96,14 +96,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d3c/live/dffcd7b0-c407-11f0-a605-3352bbc4438f.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Quite cute' and 'in sync' - the father-son duo in non-league dugout]]></title>
-      <description><![CDATA[Father-son duo Craig and Scott Laird on the unique experience of co-managing together in the dugout at non-league side Street FC.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgjd99jwj4no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgjd99jwj4no</guid>
-      <pubDate>Tue, 18 Nov 2025 10:39:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6074/live/a0a11a30-c46c-11f0-a55b-1113c6c4401b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['I make decisions to win' - Wiegman reacts to Earps comments]]></title>
       <description><![CDATA[England manager Sarina Wiegman says she is only focused on creating an honest, open environment within her squad, insisting she makes decisions "to win".]]></description>
       <link>https://www.bbc.com/sport/football/videos/c1lq0eymznlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -142,6 +134,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2dr6rdpl8wo</guid>
       <pubDate>Sun, 16 Nov 2025 22:47:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48e3/live/e11e9fa0-c33c-11f0-8669-5560f5c90fbe.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Quite cute' and 'in sync' - the father-son duo in non-league dugout]]></title>
+      <description><![CDATA[Father-son duo Craig and Scott Laird on the unique experience of co-managing together in the dugout at non-league side Street FC.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgjd99jwj4no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgjd99jwj4no</guid>
+      <pubDate>Tue, 18 Nov 2025 10:39:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6074/live/a0a11a30-c46c-11f0-a55b-1113c6c4401b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Triple injury scare for Arsenal defenders - how serious are they?]]></title>
