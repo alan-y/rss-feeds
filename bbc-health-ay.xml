@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 09:49:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 10:22:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -232,6 +232,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac25/live/44acd540-b038-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How do cold weather health alerts work?]]></title>
+      <description><![CDATA[The weather alert service warns the public when high or low temperatures could damage their health.]]></description>
+      <link>https://www.bbc.com/news/articles/cd97dkx9g38o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cd97dkx9g38o</guid>
+      <pubDate>Tue, 18 Nov 2025 09:33:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcf/live/43e68de0-c456-11f0-8669-5560f5c90fbe.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[NHS tracker - are hospital waiting times improving near you?]]></title>
       <description><![CDATA[Use our interactive tracker to see if treatment waits are getting better at your local hospital.]]></description>
       <link>https://www.bbc.com/news/articles/cq53qx2vg6jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -382,14 +390,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jqy8pn275o</guid>
       <pubDate>Mon, 06 Oct 2025 00:35:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f006/live/37372320-a07a-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What exactly is freshers' flu - and why do so many get it?]]></title>
-      <description><![CDATA[It's not an actual flu, and it's rarely serious, but when thousands of students arrive on campus they bring a cocktail of viruses.]]></description>
-      <link>https://www.bbc.com/news/articles/c147218x7rgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c147218x7rgo</guid>
-      <pubDate>Sat, 04 Oct 2025 23:05:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eec1/live/55b7b6a0-a35b-11f0-9915-9bcc1e7b7b03.png"/>
     </item>
     <item>
       <title><![CDATA[What is chickenpox and how can I get my child vaccinated?]]></title>
