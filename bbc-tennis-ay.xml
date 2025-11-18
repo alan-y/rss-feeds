@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 10:22:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 10:51:51 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['Heartbroken' Alcaraz pulls out of Davis Cup Finals]]></title>
+      <description><![CDATA[World number one Carlos Alcaraz says he is "heartbroken" after withdrawing from Spain's Davis Cup Finals team because of a hamstring injury. ]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/ce8z53330g6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/ce8z53330g6o</guid>
+      <pubDate>Tue, 18 Nov 2025 10:40:34 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b2c/live/924cb640-c464-11f0-b5b0-8dd6a6ea4ae9.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Why Raducanu v Osaka whets the appetite for 2026]]></title>
       <description><![CDATA[Grand Slam winners Emma Raducanu and Naomi Osaka are expected to face each other at the United Cup in Perth in their first event of the 2026 season.]]></description>
@@ -144,20 +152,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da55/live/a4e34b70-bf00-11f0-90b3-b57c162d3edc.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Draper and Pegula to play Queen's in 2026]]></title>
-      <description><![CDATA[British number one Jack Draper and world number six Jessica Pegula will play at Queen's next year.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/crre87vw9exo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/crre87vw9exo</guid>
-      <pubDate>Tue, 11 Nov 2025 11:58:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10c/live/4a108660-bef4-11f0-ae46-bd64331f0fd4.png"/>
-    </item>
-    <item>
       <title><![CDATA[Is WTA Finals bringing change to Saudi Arabia?]]></title>
       <description><![CDATA[The season-ending WTA Finals has been held for the second time in Saudi Arabia - a controversial move which continues to be scrutinised.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c0rp2e5dvevo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c0rp2e5dvevo</guid>
       <pubDate>Tue, 11 Nov 2025 13:12:29 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63b5/live/3ccaa450-be80-11f0-a909-015ca360c829.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Draper and Pegula to play Queen's in 2026]]></title>
+      <description><![CDATA[British number one Jack Draper and world number six Jessica Pegula will play at Queen's next year.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/crre87vw9exo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/crre87vw9exo</guid>
+      <pubDate>Tue, 11 Nov 2025 11:58:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10c/live/4a108660-bef4-11f0-ae46-bd64331f0fd4.png"/>
     </item>
     <item>
       <title><![CDATA[Why Rybakina refused photo with WTA chief Archer]]></title>
@@ -198,14 +206,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c33pl2j56vgo</guid>
       <pubDate>Sat, 08 Nov 2025 18:26:56 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa33/live/47a07ee0-bcd2-11f0-8ec0-5b7b6128b853.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Djokovic out of ATP Finals after winning 101st title]]></title>
-      <description><![CDATA[Novak Djokovic secures the 101st title of his career with victory at the Hellenic Championships - then has to withdraw from the ATP Finals because of injury.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cp3xll6er5ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cp3xll6er5ro</guid>
-      <pubDate>Sat, 08 Nov 2025 19:30:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bc8/live/045b2230-bcd6-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Boulter loses to Pegula as GB out of BJK Cup]]></title>
@@ -272,6 +272,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83af/live/841c4400-b9a6-11f0-91b3-9fadee0808a6.png"/>
     </item>
     <item>
+      <title><![CDATA['I'm always looking ahead' - Mboko eyes bright future]]></title>
+      <description><![CDATA[At the start of 2025, Victoria Mboko was ranked outside of the world's top 300. Now the teenager has cracked the top 20 after winning another WTA title.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c5yl9wljk42o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c5yl9wljk42o</guid>
+      <pubDate>Tue, 04 Nov 2025 09:14:16 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/478e/live/d3dbbab0-b8cb-11f0-a189-a5144dbce456.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How new WTA leader can draw on Dolly Parton & NBA experience]]></title>
       <description><![CDATA[New WTA chair Valerie Camillo is tasked with driving growth for women's tennis - and can draw on her experience working with country music superstar Dolly Parton.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cy7eydvy16do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -310,14 +318,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/49186075</guid>
       <pubDate>Fri, 23 Aug 2019 11:02:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17AEF/production/_108470079_gibson_yellow_promo_getty.png"/>
-    </item>
-    <item>
-      <title><![CDATA[From drugs bans to Wimbledon champions - how did we get here?]]></title>
-      <description><![CDATA[Iga Swiatek and Jannik Sinner have won the Wimbledon singles titles having served drugs bans within the past year. Dan Roan explores what it means for tennis.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c93kxgy33w1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c93kxgy33w1o</guid>
-      <pubDate>Mon, 14 Jul 2025 14:05:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac25/live/a160af20-609f-11f0-a40e-a1af2950b220.png"/>
     </item>
     <item>
       <title><![CDATA['A dream come true' - Alcaraz on winning US Open & reaching world No 1]]></title>
