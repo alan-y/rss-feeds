@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 05:50:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 06:28:54 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -22,6 +22,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cew4v8vgkyyo</guid>
       <pubDate>Tue, 18 Nov 2025 23:35:48 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5467/live/42847db0-c4d6-11f0-b288-51552c83ad58.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Was McTominay overhead kick Scotland's third best goal of night?]]></title>
+      <description><![CDATA[Scotland scored three stunning goals in their era-defining win over Denmark - but which was the best?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckg15p9rlnxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg15p9rlnxo</guid>
+      <pubDate>Wed, 19 Nov 2025 02:31:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1348/live/36ce1a30-c4ef-11f0-b288-51552c83ad58.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Curacao become smallest nation to qualify for World Cup ]]></title>
+      <description><![CDATA[Curacao have become the smallest nation to qualify for the World Cup after drawing with Steve McClaren's Jamaica.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c14p3dmdld1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c14p3dmdld1o</guid>
+      <pubDate>Wed, 19 Nov 2025 06:22:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4715/live/142bf240-c508-11f0-a03a-0996944c04d0.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wiegman defiant as she responds to Earps criticism]]></title>
@@ -56,14 +72,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12fb/live/65764e70-c4cc-11f0-b288-51552c83ad58.png"/>
     </item>
     <item>
-      <title><![CDATA[What's going wrong for Chelsea in the WSL?]]></title>
-      <description><![CDATA[Back-to-back draws and three points behind leaders Manchester City, BBC Sport explores what's going wrong for Chelsea this season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqx3n7193ddo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqx3n7193ddo</guid>
-      <pubDate>Tue, 18 Nov 2025 16:43:29 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a14f/live/6995c070-c3c9-11f0-8669-5560f5c90fbe.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Norwich name ex-Rangers boss Clement as head coach]]></title>
       <description><![CDATA[Norwich City appoint former Rangers manager Philippe Clement as head coach on a contract that runs until 2029.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ce3xpd40072o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -88,28 +96,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bf4/live/7f8f2700-c4b8-11f0-9c9c-e7c124d0f066.jpg"/>
     </item>
     <item>
+      <title><![CDATA[What's going wrong for Chelsea in the WSL?]]></title>
+      <description><![CDATA[Back-to-back draws and three points behind leaders Manchester City, BBC Sport explores what's going wrong for Chelsea this season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqx3n7193ddo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqx3n7193ddo</guid>
+      <pubDate>Tue, 18 Nov 2025 16:43:29 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a14f/live/6995c070-c3c9-11f0-8669-5560f5c90fbe.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[What is Scotland's World Cup record?]]></title>
       <description><![CDATA[Our Ask Me Anything team look at how Scotland have fared in previous World Cup competitions.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvg7287n0yzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg7287n0yzo</guid>
       <pubDate>Tue, 18 Nov 2025 22:08:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf0e/live/f09aae70-c467-11f0-a2f9-638897c00bc9.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Penguin in past as Pfannenstiel focuses on Pittodrie plans ]]></title>
-      <description><![CDATA[New Aberdeen sporting director, Lutz Pfannenstiel outlines his vision, insisting his arrival is "good news" for manager Jimmy Thelin.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c78121pg98qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78121pg98qo</guid>
-      <pubDate>Tue, 18 Nov 2025 16:54:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/202f/live/b9f70760-c499-11f0-a493-df5fd74495dc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Which Premier League teams will lose most players to Afcon?]]></title>
-      <description><![CDATA[BBC Sport has a look at which Premier League clubs will be most - and least - affected by the Africa Cup of Nations.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3w9vv22xx0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3w9vv22xx0o</guid>
-      <pubDate>Tue, 18 Nov 2025 07:06:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5014/live/3c38b1c0-c458-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
       <title><![CDATA[Scotland edge out Denmark in six-goal epic to reach World Cup]]></title>
@@ -152,6 +152,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ac/live/85e85650-c4bb-11f0-b288-51552c83ad58.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Quite cute' and 'in sync' - the father-son duo in non-league dugout]]></title>
+      <description><![CDATA[Father-son duo Craig and Scott Laird on the unique experience of co-managing together in the dugout at non-league side Street FC.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgjd99jwj4no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgjd99jwj4no</guid>
+      <pubDate>Tue, 18 Nov 2025 10:39:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6074/live/a0a11a30-c46c-11f0-a55b-1113c6c4401b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Which Premier League teams will lose most players to Afcon?]]></title>
+      <description><![CDATA[BBC Sport has a look at which Premier League clubs will be most - and least - affected by the Africa Cup of Nations.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3w9vv22xx0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3w9vv22xx0o</guid>
+      <pubDate>Tue, 18 Nov 2025 07:06:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5014/live/3c38b1c0-c458-11f0-8669-5560f5c90fbe.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Hemp returns to England squad but James misses out]]></title>
       <description><![CDATA[Forward Lauren Hemp returns to the England squad for the first time since Euro 2025 after recovering from injury, but Lauren James misses out.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c2drwwjpzleo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -184,28 +200,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d56/live/aeb6a880-c505-11f0-8cf1-fdd4be8468bd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[NI's latest debutant Kelly 'itching' for more caps]]></title>
-      <description><![CDATA[Patrick Kelly says he is "delighted" to have made his Northern Ireland debut against Luxembourg, but is "itching" for more caps. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clygj135r4po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clygj135r4po</guid>
-      <pubDate>Tue, 18 Nov 2025 18:20:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/571f/live/25a3cf00-c49c-11f0-9b68-57906bffd3ed.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Quite cute' and 'in sync' - the father-son duo in non-league dugout]]></title>
-      <description><![CDATA[Father-son duo Craig and Scott Laird on the unique experience of co-managing together in the dugout at non-league side Street FC.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgjd99jwj4no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgjd99jwj4no</guid>
-      <pubDate>Tue, 18 Nov 2025 10:39:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6074/live/a0a11a30-c46c-11f0-a55b-1113c6c4401b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[The tiny Caribbean island on verge of World Cup history]]></title>
       <description><![CDATA[Players from the tiny Caribbean island of Curacao are 90 minutes away from qualifying for the World Cup for the first time, guided by Dick Advocaat.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdeg0w3wr72o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdeg0w3wr72o</guid>
       <pubDate>Mon, 17 Nov 2025 17:31:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0c7/live/448bc260-c244-11f0-8669-5560f5c90fbe.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Man Utd striker Sesko out for about a month with knee injury]]></title>
+      <description><![CDATA[Manchester United striker Benjamin Sesko set to miss about a month with the knee injury he sustained at Tottenham Hotspur just before the international break.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce3x9yk67lqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3x9yk67lqo</guid>
+      <pubDate>Mon, 17 Nov 2025 23:23:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7b2/live/92005350-c409-11f0-82db-61cdf49c9ec6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[NI's latest debutant Kelly 'itching' for more caps]]></title>
+      <description><![CDATA[Patrick Kelly says he is "delighted" to have made his Northern Ireland debut against Luxembourg, but is "itching" for more caps. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clygj135r4po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clygj135r4po</guid>
+      <pubDate>Tue, 18 Nov 2025 18:20:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/571f/live/25a3cf00-c49c-11f0-9b68-57906bffd3ed.jpg"/>
     </item>
     <item>
       <title><![CDATA[Was Gattuso right - is World Cup qualifying unfair on Europe?]]></title>
@@ -248,28 +264,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d3c/live/dffcd7b0-c407-11f0-a605-3352bbc4438f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Man Utd striker Sesko out for about a month with knee injury]]></title>
-      <description><![CDATA[Manchester United striker Benjamin Sesko set to miss about a month with the knee injury he sustained at Tottenham Hotspur just before the international break.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce3x9yk67lqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3x9yk67lqo</guid>
-      <pubDate>Mon, 17 Nov 2025 23:23:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7b2/live/92005350-c409-11f0-82db-61cdf49c9ec6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Exeter City working to get ground ready after fire]]></title>
       <description><![CDATA[Exeter City are working to ensure Saturday's League One game with Burton Albion can be played following a fire at their St James Park ground.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c364gj4gk9lo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c364gj4gk9lo</guid>
       <pubDate>Tue, 18 Nov 2025 11:27:10 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1326/live/a3904e20-c13b-11f0-8717-7b6a6b2fefad.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['First time I cried in years,' says Irish hero Parrott]]></title>
-      <description><![CDATA[Republic of Ireland striker Troy Parrott tells BBC Sport's Sami Mokbel about his stellar goalscoring week and "tears of joy".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8x10lrp8kgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8x10lrp8kgo</guid>
-      <pubDate>Mon, 17 Nov 2025 20:14:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cb4/live/f8359c10-c3e7-11f0-a277-5df1a7bf8a43.jpg"/>
     </item>
     <item>
       <title><![CDATA[Tuchel to contact every overlooked England player]]></title>
@@ -294,14 +294,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c993evxk24jo</guid>
       <pubDate>Tue, 18 Nov 2025 00:03:52 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f38/live/d7dc2ed0-c404-11f0-ae46-bd64331f0fd4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Northern Ireland enter play-offs 'with a lot of optimism']]></title>
-      <description><![CDATA[Michael O'Neill says Northern Ireland enter March's World Cup play-offs with "a lot of optimism" after their 1-0 win over Luxembourg.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn970x1n28ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn970x1n28ro</guid>
-      <pubDate>Mon, 17 Nov 2025 23:27:49 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7f5/live/69775d00-c40b-11f0-ab00-cbf5a41dced6.jpg"/>
     </item>
     <item>
       <title><![CDATA[The key questions facing Tuchel before World Cup]]></title>
