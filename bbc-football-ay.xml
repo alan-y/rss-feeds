@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 12:39:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 13:20:41 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,14 +48,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdc7/live/cd1115d0-c506-11f0-9b68-57906bffd3ed.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Brighton eye Real Madrid's Garcia - Wednesday's gossip]]></title>
-      <description><![CDATA[Brighton eye Real Madrid striker Gonzalo Garcia, Manchester United face competition for Kevin Filling, Liverpool lead race for Antoine Semenyo and AC Milan want Niclas Fullkrug, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crexgxv1j4zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crexgxv1j4zo</guid>
-      <pubDate>Tue, 18 Nov 2025 22:37:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12fb/live/65764e70-c4cc-11f0-b288-51552c83ad58.png"/>
-    </item>
-    <item>
       <title><![CDATA[Curacao become smallest nation to qualify for World Cup ]]></title>
       <description><![CDATA[Curacao have become the smallest nation to qualify for the World Cup after drawing with Steve McClaren's Jamaica.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c14p3dmdld1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -70,6 +62,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn40kpvjnqdo</guid>
       <pubDate>Tue, 18 Nov 2025 23:05:34 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a38f/live/0800f770-c4d3-11f0-b288-51552c83ad58.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Australia cap Hughes called up by Wales ]]></title>
+      <description><![CDATA[Wales call up Melbourne City midfielder Laura Hughes, who has been capped by Australia, for their international camp in Spain.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdjrjwd4499o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjrjwd4499o</guid>
+      <pubDate>Wed, 19 Nov 2025 13:00:28 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/284b/live/587faee0-c54a-11f0-9b0f-4905117b97e9.jpg"/>
     </item>
     <item>
       <title><![CDATA[Boro set to appoint Hellberg as head coach]]></title>
@@ -120,6 +120,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e53f/live/66cdbb60-bfda-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Brighton eye Real Madrid's Garcia - Wednesday's gossip]]></title>
+      <description><![CDATA[Brighton eye Real Madrid striker Gonzalo Garcia, Manchester United face competition for Kevin Filling, Liverpool lead race for Antoine Semenyo and AC Milan want Niclas Fullkrug, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crexgxv1j4zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crexgxv1j4zo</guid>
+      <pubDate>Tue, 18 Nov 2025 22:37:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12fb/live/65764e70-c4cc-11f0-b288-51552c83ad58.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Exeter v Burton postponed after stadium fire]]></title>
+      <description><![CDATA[Exeter City's League One game with Burton Albion on Saturday is postponed after a fire at their St James Park ground.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz6n6x05624o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz6n6x05624o</guid>
+      <pubDate>Wed, 19 Nov 2025 12:46:12 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1326/live/a3904e20-c13b-11f0-8717-7b6a6b2fefad.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[The Champions League goalkeeper studying to be a doctor]]></title>
       <description><![CDATA[Goalkeeper Carina Schluter is splitting her time between sitting in lecture theatres and playing in the Women's Champions League with St Polten.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cly9md1ev4yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -152,6 +168,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b463/live/27f0f8b0-c4af-11f0-9b68-57906bffd3ed.jpg"/>
     </item>
     <item>
+      <title><![CDATA['I'm the USA coach!' - Pochettino upset by reporter's question ]]></title>
+      <description><![CDATA[Watch as USA head coach Mauricio Pochettino reacts angrily to a reporter's question following his side's 5-1 friendly win against Uruguay.  ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cgmxm70jew0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgmxm70jew0o</guid>
+      <pubDate>Wed, 19 Nov 2025 13:01:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492c/live/b5161ac0-c547-11f0-b288-51552c83ad58.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[McLean nets from halfway in stoppage time to seal Scotland's World Cup spot]]></title>
       <description><![CDATA[Kenny McLean scores from the halfway line, deep into stoppage time, to seal Scotland's first men's World Cup appearance since 1998 as they beat Denmark 4-2.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cwy70kklnkko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -166,14 +190,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cp3dg0j42qno</guid>
       <pubDate>Wed, 19 Nov 2025 06:55:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9acc/live/b11a07d0-c4a0-11f0-b288-51552c83ad58.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I make decisions to win' - Wiegman reacts to Earps comments]]></title>
-      <description><![CDATA[England manager Sarina Wiegman says she is only focused on creating an honest, open environment within her squad, insisting she makes decisions "to win".]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c1lq0eymznlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1lq0eymznlo</guid>
-      <pubDate>Tue, 18 Nov 2025 12:36:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79ed/live/cd7b5980-c47b-11f0-9b68-57906bffd3ed.jpg"/>
     </item>
     <item>
       <title><![CDATA[Which Premier League teams will lose most players to Afcon?]]></title>
@@ -296,14 +312,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d56/live/aeb6a880-c505-11f0-8cf1-fdd4be8468bd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Is Donley ready to fill Northern Ireland's 'problem position'?]]></title>
-      <description><![CDATA[After scoring his first senior international goal against Luxembourg on Monday, is Jamie Donley the right man to lead the line in Northern Ireland's World Cup play-off?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cm2em7z2eq2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2em7z2eq2o</guid>
-      <pubDate>Tue, 18 Nov 2025 07:23:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d3c/live/dffcd7b0-c407-11f0-a605-3352bbc4438f.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[The key questions facing Tuchel before World Cup]]></title>
       <description><![CDATA[England head coach Thomas Tuchel now faces key decisions in the countdown to the World Cup, says chief football writer Phil McNulty.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5ypn840gego?at_medium=RSS&amp;at_campaign=rss</link>
@@ -414,14 +422,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg43wyqdxv5o</guid>
       <pubDate>Mon, 10 Nov 2025 23:32:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7912/live/208035d0-be80-11f0-a909-015ca360c829.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[England to host Spain at Wembley for World Cup qualifier]]></title>
-      <description><![CDATA[Euro 2025 winners England will host world champions Spain at Wembley in April for a 2027 Women's World Cup qualifier.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c93dze770dxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93dze770dxo</guid>
-      <pubDate>Mon, 17 Nov 2025 12:46:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c1/live/3bfd2940-c3b1-11f0-8148-a79a18ceba80.jpg"/>
     </item>
     <item>
       <title><![CDATA[The great number nine decline - where have England's strikers gone?]]></title>

@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 12:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 13:20:52 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Ultra-processed food is global health threat, experts warn]]></title>
+      <description><![CDATA[It is increasing our risk of a range of chronic diseases, including obesity and depression, a major review says.]]></description>
+      <link>https://www.bbc.com/news/articles/cy4pjjzd784o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4pjjzd784o</guid>
+      <pubDate>Wed, 19 Nov 2025 12:53:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35c6/live/d0e8f2d0-c548-11f0-88be-3bc2aea1a256.jpg"/>
+    </item>
     <item>
       <title><![CDATA['Traumatic wait' for women facing breast cancer diagnoses]]></title>
       <description><![CDATA[Dr Jilly O'Hagan says she is "hugely concerned" after three patients in her surgery received a late cancer diagnosis.]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgyqdpwn55o</guid>
       <pubDate>Tue, 18 Nov 2025 07:02:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b22/live/a315b200-c3cf-11f0-bdbe-6f7df1044786.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Life-changing surgery means boy gets first sleepover]]></title>
-      <description><![CDATA[William from Bath, has had his jaw rebuilt using his own ribs allowing him to breathe independently.]]></description>
-      <link>https://www.bbc.com/news/articles/c2em9lex91zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2em9lex91zo</guid>
-      <pubDate>Tue, 18 Nov 2025 06:16:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5eb/live/fc06ada0-c3ad-11f0-9282-295abedd69b8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Doctor strike inflicting pain and misery on patients, says health secretary]]></title>
