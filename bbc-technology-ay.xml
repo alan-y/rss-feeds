@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 21:45:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 22:18:25 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Nvidia beats earnings forecasts amid Wall Street's AI jitters]]></title>
+      <description><![CDATA[The chip maker says revenue for the three months to October jumped 62% to $57bn.]]></description>
+      <link>https://www.bbc.com/news/articles/cly4y2enywro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly4y2enywro</guid>
+      <pubDate>Wed, 19 Nov 2025 22:17:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c13/live/be60e690-c55c-11f0-a1c2-758f53fd6195.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Instagram owner Meta tells Australian teens accounts will close]]></title>
       <description><![CDATA[Under-sixteens will be banned from major social media plaforms from 10 December.]]></description>
@@ -263,14 +271,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0rp2514g4qo</guid>
       <pubDate>Mon, 10 Nov 2025 07:02:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/be7b5b50-b6d5-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Elon Musk's $1tn pay deal approved by Tesla shareholders]]></title>
-      <description><![CDATA[The richest man in the world will get hundreds of millions of new shares if he hits his targets.]]></description>
-      <link>https://www.bbc.com/news/articles/cwyk6kvyxvzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyk6kvyxvzo</guid>
-      <pubDate>Fri, 07 Nov 2025 10:03:09 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b647/live/a323c930-bb73-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[On the front line of Europe's standoff with Russia's sanction-busting shadow fleet]]></title>

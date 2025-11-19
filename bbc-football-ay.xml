@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 21:45:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 22:18:29 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,12 +48,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9340/live/c5689e00-c562-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Wales will 'take anybody' in World Cup play-off draw]]></title>
-      <description><![CDATA[A closer look at Wales' possible World Cup play-off semi-final opponents as former striker Rob Earnshaw says a tie with Republic of Ireland would be "incredible".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yp1yjkpgzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yp1yjkpgzo</guid>
-      <pubDate>Wed, 19 Nov 2025 13:11:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82de/live/fcba40e0-c547-11f0-88be-3bc2aea1a256.jpg"/>
+      <title><![CDATA[Liverpool only January option for Guehi - Thursday's gossip]]></title>
+      <description><![CDATA[Crystal Palace view Liverpool as the only viable suitor for Marc Guehi, Manchester United and Inter Milan battle over Karim Adeyemi, and Ivan Toney is ready to take a huge pay cut to secure a Premier League return.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5y9yjr4ldzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y9yjr4ldzo</guid>
+      <pubDate>Wed, 19 Nov 2025 22:03:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/709f/live/89dfcf30-c57f-11f0-9fb5-5f3a3703a365.png"/>
     </item>
     <item>
       <title><![CDATA[Non-league club bans 'micro' shin pads after 'unbearable' injury to forward]]></title>
@@ -72,14 +72,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f93/live/8822e530-bfa6-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
-      <title><![CDATA[McClaren quits as Jamaica manager]]></title>
-      <description><![CDATA[Eighteen years after being sacked as England manager, Steve McClaren resigns as Jamaica boss following their failure to qualify automatically for the World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c04gwqvlvqqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c04gwqvlvqqo</guid>
-      <pubDate>Wed, 19 Nov 2025 06:42:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdc7/live/cd1115d0-c506-11f0-9b68-57906bffd3ed.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Scotland edge out Denmark in six-goal epic to reach World Cup]]></title>
       <description><![CDATA[Watch the best of the action as Scotland beat Denmark 4-2 to reach the men's World Cup finals for the first time since 1998.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cn40kpvjnqdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -88,20 +80,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a38f/live/0800f770-c4d3-11f0-b288-51552c83ad58.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Wales will 'take anybody' in World Cup play-off draw]]></title>
+      <description><![CDATA[A closer look at Wales' possible World Cup play-off semi-final opponents as former striker Rob Earnshaw says a tie with Republic of Ireland would be "incredible".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5yp1yjkpgzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yp1yjkpgzo</guid>
+      <pubDate>Wed, 19 Nov 2025 13:11:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82de/live/fcba40e0-c547-11f0-88be-3bc2aea1a256.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[McClaren quits as Jamaica manager]]></title>
+      <description><![CDATA[Eighteen years after being sacked as England manager, Steve McClaren resigns as Jamaica boss following their failure to qualify automatically for the World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c04gwqvlvqqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c04gwqvlvqqo</guid>
+      <pubDate>Wed, 19 Nov 2025 06:42:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdc7/live/cd1115d0-c506-11f0-9b68-57906bffd3ed.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Suspended sentence for Norway's Schjelderup after sharing illegal video]]></title>
       <description><![CDATA[Norway international Andreas Schjelderup has been given a two-week suspended prison sentence after a Danish court found him guilty of sharing sexual material of two boys under the age of 18.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cp8y8epekwdo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8y8epekwdo</guid>
       <pubDate>Wed, 19 Nov 2025 15:07:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e81/live/2144a9a0-c557-11f0-a1c2-758f53fd6195.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hakimi and Chebbak named African players of the year]]></title>
-      <description><![CDATA[Achraf Hakimi and Ghizlane Chebbak deliver a double success for Morocco as they are named 2025 African men's and women's footballer of the year respectively.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn405zv4ygdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn405zv4ygdo</guid>
-      <pubDate>Wed, 19 Nov 2025 20:16:13 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e76/live/30d7f860-c56e-11f0-b9b5-d9ab78bbe49c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Australia cap Hughes called up by Wales ]]></title>
@@ -134,14 +134,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3kd3xdgego</guid>
       <pubDate>Wed, 19 Nov 2025 12:16:08 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4487/live/0595a180-c53b-11f0-bf7b-db7c049674ab.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Haiti reach World Cup despite coach having never been to the country]]></title>
-      <description><![CDATA[Haiti coach Sebastien Migne guides the country to their second World Cup, despite having never been able to visit the country.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy70v7grl4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy70v7grl4o</guid>
-      <pubDate>Wed, 19 Nov 2025 07:34:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f975/live/ae494d70-c515-11f0-98cb-cb613957a3bd.jpg"/>
     </item>
     <item>
       <title><![CDATA['It's not about getting credit' - Solskjaer reflects on time at Man Utd]]></title>
@@ -184,6 +176,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d49/live/9be9ec40-c162-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Hakimi and Chebbak named African players of the year]]></title>
+      <description><![CDATA[Achraf Hakimi and Ghizlane Chebbak deliver a double success for Morocco as they are named 2025 African men's and women's footballer of the year respectively.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn405zv4ygdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn405zv4ygdo</guid>
+      <pubDate>Wed, 19 Nov 2025 20:16:13 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e76/live/30d7f860-c56e-11f0-b9b5-d9ab78bbe49c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Haiti reach World Cup despite coach having never been to the country]]></title>
+      <description><![CDATA[Haiti coach Sebastien Migne guides the country to their second World Cup, despite having never been able to visit the country.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy70v7grl4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy70v7grl4o</guid>
+      <pubDate>Wed, 19 Nov 2025 07:34:58 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f975/live/ae494d70-c515-11f0-98cb-cb613957a3bd.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Is Clarke now Scotland's greatest manager?]]></title>
       <description><![CDATA[Steve Clarke cements his place in Scottish football folklore by leading his nation to three major tournaments.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj97mpyn0d7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -208,20 +216,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b52/live/19d52c80-c54d-11f0-b288-51552c83ad58.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Arsenal to end sponsorship deal with Visit Rwanda]]></title>
-      <description><![CDATA[Arsenal announce the club will end their eight-year sponsorship deal with Visit Rwanda at the conclusion of the 2025-26 season. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3epgezjw8xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3epgezjw8xo</guid>
-      <pubDate>Wed, 19 Nov 2025 11:43:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b12d/live/ce6760c0-c537-11f0-b4db-7fe51d77cd43.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Captain Salah and leave out Haaland? FPL team of the week]]></title>
       <description><![CDATA[With a tough away game at Newcastle for FPL top scorer Erling Haaland, gameweek 12 presents a chance to give the captain's armband to someone else - and that man is Mohamed Salah.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cjw9jq4vy8lo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjw9jq4vy8lo</guid>
       <pubDate>Wed, 19 Nov 2025 08:11:30 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8ca/live/191e6c10-c44f-11f0-ae46-bd64331f0fd4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Arsenal to end sponsorship deal with Visit Rwanda]]></title>
+      <description><![CDATA[Arsenal announce the club will end their eight-year sponsorship deal with Visit Rwanda at the conclusion of the 2025-26 season. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3epgezjw8xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3epgezjw8xo</guid>
+      <pubDate>Wed, 19 Nov 2025 11:43:05 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b12d/live/ce6760c0-c537-11f0-b4db-7fe51d77cd43.jpg"/>
     </item>
     <item>
       <title><![CDATA[The non-league striker proving a match for Haaland]]></title>
@@ -246,14 +254,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj6ngld5069o</guid>
       <pubDate>Tue, 18 Nov 2025 22:16:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e53f/live/66cdbb60-bfda-11f0-8669-5560f5c90fbe.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Brighton eye Real Madrid's Garcia - Wednesday's gossip]]></title>
-      <description><![CDATA[Brighton eye Real Madrid striker Gonzalo Garcia, Manchester United face competition for Kevin Filling, Liverpool lead race for Antoine Semenyo and AC Milan want Niclas Fullkrug, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crexgxv1j4zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crexgxv1j4zo</guid>
-      <pubDate>Tue, 18 Nov 2025 22:37:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12fb/live/65764e70-c4cc-11f0-b288-51552c83ad58.png"/>
     </item>
     <item>
       <title><![CDATA[How has world changed since Scotland were last at men's finals?]]></title>
@@ -326,14 +326,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3w9vv22xx0o</guid>
       <pubDate>Tue, 18 Nov 2025 07:06:42 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5014/live/3c38b1c0-c458-11f0-8669-5560f5c90fbe.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Scotland cash in almost 30 years of glorious failure as dreams come true']]></title>
-      <description><![CDATA[A generation of Scotland fans witness the greatest game of their lives on an astonishing night at Hampden. Nick McPheat was among them.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cew4v8vgkyyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cew4v8vgkyyo</guid>
-      <pubDate>Tue, 18 Nov 2025 23:35:48 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5467/live/42847db0-c4d6-11f0-b288-51552c83ad58.jpg"/>
     </item>
     <item>
       <title><![CDATA[The key questions facing Tuchel before World Cup]]></title>
