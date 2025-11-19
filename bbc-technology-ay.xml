@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 17:45:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 18:28:37 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Instagram owner Meta tells Australian teens accounts will close]]></title>
+      <description><![CDATA[Under-sixteens will be banned from major social media plaforms from 10 December.]]></description>
+      <link>https://www.bbc.com/news/articles/cz919xyx7weo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cz919xyx7weo</guid>
+      <pubDate>Wed, 19 Nov 2025 17:31:45 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df66/live/e58d6e40-c567-11f0-ac47-e3b40c46275e.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Judge rules Meta doesn't have monopoly after Instagram, WhatsApp acquisitions]]></title>
       <description><![CDATA[The decision allows Instagram's parent company to avoid the prospect of the company breaking up]]></description>
@@ -48,14 +56,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9699/live/445dddc0-c477-11f0-928c-0b4fbc4b5b2a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Tech giant seeking $1.7bn from Mike Lynch's estate after yacht death]]></title>
-      <description><![CDATA[Hewlett-Packard is seeking payment from the estate of Mike Lynch, who died when his yacht sank last year.]]></description>
-      <link>https://www.bbc.com/news/articles/cz7p4gynxlzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cz7p4gynxlzo</guid>
-      <pubDate>Tue, 18 Nov 2025 22:40:41 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d8/live/1f0ce150-c4c3-11f0-9c9c-e7c124d0f066.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Man who cryogenically froze late wife sparks debate by dating new partner]]></title>
       <description><![CDATA[Gui Junmin froze his dead spouse as a sign of his devotion - but it's now emerged he is dating again.]]></description>
       <link>https://www.bbc.com/news/articles/c78z2m43ykjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -70,6 +70,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy7vrd8k4eo</guid>
       <pubDate>Tue, 18 Nov 2025 12:16:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3315/live/e6697310-c47a-11f0-9b68-57906bffd3ed.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Tech giant seeking $1.7bn from Mike Lynch's estate after yacht death]]></title>
+      <description><![CDATA[Hewlett-Packard is seeking payment from the estate of Mike Lynch, who died when his yacht sank last year.]]></description>
+      <link>https://www.bbc.com/news/articles/cz7p4gynxlzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cz7p4gynxlzo</guid>
+      <pubDate>Tue, 18 Nov 2025 22:40:41 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d8/live/1f0ce150-c4c3-11f0-9c9c-e7c124d0f066.jpg"/>
     </item>
     <item>
       <title><![CDATA[Don't blindly trust what AI tells you, says Google's Sundar Pichai]]></title>
@@ -263,14 +271,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyk6kvyxvzo</guid>
       <pubDate>Fri, 07 Nov 2025 10:03:09 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b647/live/a323c930-bb73-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why human-shaped robots loom large in Musk's Tesla plans]]></title>
-      <description><![CDATA[The tech billionaire believes Optimus could play a big role in the lives of people around the world.]]></description>
-      <link>https://www.bbc.com/news/articles/cdrz2rdlykdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdrz2rdlykdo</guid>
-      <pubDate>Fri, 07 Nov 2025 12:15:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10f/live/40cbac10-bbc0-11f0-9279-29df2198f231.jpg"/>
     </item>
     <item>
       <title><![CDATA[On the front line of Europe's standoff with Russia's sanction-busting shadow fleet]]></title>
