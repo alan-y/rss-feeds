@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 18:28:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 18:55:13 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -144,14 +144,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/563d/live/6245abe0-c564-11f0-ac47-e3b40c46275e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What has gone wrong at Plymouth Argyle?]]></title>
-      <description><![CDATA[BBC Sport looks at why Plymouth Argyle have fallen to the bottom of League One after 15 games this season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cm276m0g8nmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm276m0g8nmo</guid>
-      <pubDate>Thu, 20 Nov 2025 07:26:00 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54b/live/732ca7c0-c54f-11f0-931b-0140a9c2c0ce.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[BBC signs 'saviour of grassroots football' Bracknall]]></title>
       <description><![CDATA[Match of the Day presenter Gabby Logan gets a surprise visit from Sunday pub league manager Steve Bracknall.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c1k0kgn8pjjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -190,6 +182,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwy70kklnkko</guid>
       <pubDate>Tue, 18 Nov 2025 22:21:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3ec/live/d8332b90-c4cc-11f0-b288-51552c83ad58.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What has gone wrong at Plymouth Argyle?]]></title>
+      <description><![CDATA[BBC Sport looks at why Plymouth Argyle have fallen to the bottom of League One after 15 games this season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cm276m0g8nmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm276m0g8nmo</guid>
+      <pubDate>Thu, 20 Nov 2025 07:26:00 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54b/live/732ca7c0-c54f-11f0-931b-0140a9c2c0ce.jpg"/>
     </item>
     <item>
       <title><![CDATA[What is Wales' record against Bosnia and Herzegovina?]]></title>
@@ -272,20 +272,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c37/live/54732780-c56f-11f0-b9b5-d9ab78bbe49c.png"/>
     </item>
     <item>
-      <title><![CDATA[Boro set to appoint Hellberg as head coach]]></title>
-      <description><![CDATA[Middlesbrough are set to appoint Hammarby head coach Kim Hellberg as the successor to Rob Edwards.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce3kd3xdgego?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3kd3xdgego</guid>
-      <pubDate>Wed, 19 Nov 2025 12:16:08 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4487/live/0595a180-c53b-11f0-bf7b-db7c049674ab.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Who has qualified for World Cup and when is draw?]]></title>
       <description><![CDATA[Our Ask Me Anything team explore when the World Cup draw is, how the seeding works and who has qualified so far.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj6ngld5069o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj6ngld5069o</guid>
       <pubDate>Tue, 18 Nov 2025 22:16:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e53f/live/66cdbb60-bfda-11f0-8669-5560f5c90fbe.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Boro set to appoint Hellberg as head coach]]></title>
+      <description><![CDATA[Middlesbrough are set to appoint Hammarby head coach Kim Hellberg as the successor to Rob Edwards.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce3kd3xdgego?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3kd3xdgego</guid>
+      <pubDate>Wed, 19 Nov 2025 12:16:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4487/live/0595a180-c53b-11f0-bf7b-db7c049674ab.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why are Man Utd not playing on a Saturday for two months?]]></title>
@@ -326,14 +326,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjw9jq4vy8lo</guid>
       <pubDate>Wed, 19 Nov 2025 08:11:30 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8ca/live/191e6c10-c44f-11f0-ae46-bd64331f0fd4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hakimi and Chebbak named African players of the year]]></title>
-      <description><![CDATA[Achraf Hakimi and Ghizlane Chebbak deliver a double success for Morocco as they are named 2025 African men's and women's footballer of the year respectively.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn405zv4ygdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn405zv4ygdo</guid>
-      <pubDate>Wed, 19 Nov 2025 20:16:13 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e76/live/30d7f860-c56e-11f0-b9b5-d9ab78bbe49c.jpg"/>
     </item>
     <item>
       <title><![CDATA['Scotland cash in almost 30 years of glorious failure as dreams come true']]></title>
