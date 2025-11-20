@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 15:40:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 15:52:20 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -160,6 +160,14 @@
       <media:thumbnail width="240" height="116" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c5/live/8084c720-c182-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
+      <title><![CDATA[The contradiction at the heart of the trillion-dollar AI race]]></title>
+      <description><![CDATA[The confusing question lingering over the AI hype is whether it could be a bubble at risk of bursting]]></description>
+      <link>https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgvynlxqdyo</guid>
+      <pubDate>Wed, 19 Nov 2025 13:52:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/825c/live/bbaa0e60-c474-11f0-9b68-57906bffd3ed.png"/>
+    </item>
+    <item>
       <title><![CDATA[On the front line of Europe's standoff with Russia's sanction-busting shadow fleet]]></title>
       <description><![CDATA[With Europe imposing sanctions on Moscow, there has been a growing network of vessels sailing without a valid flag from Russia through European waters. ]]></description>
       <link>https://www.bbc.com/news/articles/cz91dk0l50no?at_medium=RSS&amp;at_campaign=rss</link>
@@ -198,110 +206,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/czdjg92y00no</guid>
       <pubDate>Fri, 31 Oct 2025 00:14:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f10/live/a376bf30-b4a4-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Can the plastic recycling industry be saved?]]></title>
-      <description><![CDATA[Plastic recycling plants in Europe are being shut as they struggle to find a business model]]></description>
-      <link>https://www.bbc.com/news/articles/c5yv8e0prg9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yv8e0prg9o</guid>
-      <pubDate>Thu, 23 Oct 2025 23:03:07 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aac0/live/27765150-9eda-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How good is the battery in a used electric vehicle?]]></title>
-      <description><![CDATA[Companies are offering tech they say can accurately test the health of batteries in used EVs.]]></description>
-      <link>https://www.bbc.com/news/articles/c2dn5gxxgz1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2dn5gxxgz1o</guid>
-      <pubDate>Thu, 16 Oct 2025 23:06:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bdd/live/1d3f5980-ab36-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why AI is being trained in rural India]]></title>
-      <description><![CDATA[Smaller Indian towns are becoming centres for training and correcting artificial intelligence models. ]]></description>
-      <link>https://www.bbc.com/news/articles/cqjevxvxw9xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cqjevxvxw9xo</guid>
-      <pubDate>Thu, 16 Oct 2025 11:22:10 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d01/live/f5406ab0-9923-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Food firms scramble to meet the high-protein craze]]></title>
-      <description><![CDATA[The dairy industry rallies and start-ups emerge thanks to the fashion for high-protein foods. ]]></description>
-      <link>https://www.bbc.com/news/articles/c20zk35ypxno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c20zk35ypxno</guid>
-      <pubDate>Mon, 06 Oct 2025 23:01:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b4/live/c83d06e0-a288-11f0-92db-77261a15b9d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The people turning to AI for dating and relationship advice]]></title>
-      <description><![CDATA[More people are turning to AI for help with their relationships, but is that a good idea?]]></description>
-      <link>https://www.bbc.com/news/articles/c0kn4e377e2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0kn4e377e2o</guid>
-      <pubDate>Thu, 02 Oct 2025 23:01:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f8e/live/906ca900-8a37-11f0-a26a-51aa2f3dec3f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The bacteria turning waste plastic into painkillers]]></title>
-      <description><![CDATA[How did E. coli become such an essential tool for scientists and will anything replace it?]]></description>
-      <link>https://www.bbc.com/news/articles/c4gvm1kjxxvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gvm1kjxxvo</guid>
-      <pubDate>Thu, 25 Sep 2025 23:02:06 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5330/live/ac20dee0-8c90-11f0-9cf6-cbf3e73ce2b9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What's the big deal about AI data centres?]]></title>
-      <description><![CDATA[Huge investment is going into data centres for AI, but why are they so expensive?]]></description>
-      <link>https://www.bbc.com/news/articles/ckg2ldpl9leo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg2ldpl9leo</guid>
-      <pubDate>Mon, 22 Sep 2025 23:10:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3527/live/76c28bf0-930b-11f0-a647-dff301f4a439.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[We have hybrid cars, now hybrid planes are coming]]></title>
-      <description><![CDATA[With batteries still too heavy, start-up plane makers are exploring hybrid options for new aircraft.]]></description>
-      <link>https://www.bbc.com/news/articles/cx27vlp3zzgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx27vlp3zzgo</guid>
-      <pubDate>Thu, 18 Sep 2025 23:01:17 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c1/live/f825df80-8d7f-11f0-b391-6936825093bd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[AI challenges the dominance of Google search]]></title>
-      <description><![CDATA[The popularity of ChatGPT has raised questions about the future of traditional Google searches.]]></description>
-      <link>https://www.bbc.com/news/articles/c1dx9qy1eeno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1dx9qy1eeno</guid>
-      <pubDate>Mon, 15 Sep 2025 23:03:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9217/live/d4032390-881d-11f0-b391-6936825093bd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Publishers fear AI summaries are hitting online traffic]]></title>
-      <description><![CDATA[Google's AI overviews are diverting traffic away from online newspapers and other publications. ]]></description>
-      <link>https://www.bbc.com/news/articles/c0mlvryx0exo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0mlvryx0exo</guid>
-      <pubDate>Mon, 08 Sep 2025 23:07:35 GMT</pubDate>
-      <media:thumbnail width="240" height="180" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c59d/live/851401b0-8736-11f0-9cf6-cbf3e73ce2b9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The green steel firms looking to revive US steelmaking]]></title>
-      <description><![CDATA[Start-up firms have pilot plants for making steel with low carbon emissions, but can they scale up?]]></description>
-      <link>https://www.bbc.com/news/articles/czer07x9zp2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/czer07x9zp2o</guid>
-      <pubDate>Thu, 04 Sep 2025 23:01:17 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1627/live/bc5613c0-7dd1-11f0-a34f-318be3fb0481.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Computer science graduates struggle to secure their first jobs]]></title>
-      <description><![CDATA[Companies are using AI to do basic coding tasks instead of hiring junior staff.]]></description>
-      <link>https://www.bbc.com/news/articles/cm21dvg8l1go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cm21dvg8l1go</guid>
-      <pubDate>Thu, 21 Aug 2025 23:50:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a1d/live/65f24b40-7767-11f0-8071-1788c7e8ae0e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How to destroy harmful 'forever chemicals']]></title>
-      <description><![CDATA[PFAS were once prized for their durability, but now firms are developing ways to destroy them.]]></description>
-      <link>https://www.bbc.com/news/articles/clydd630pxzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/clydd630pxzo</guid>
-      <pubDate>Mon, 18 Aug 2025 23:22:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc4e/live/67f0c250-76c2-11f0-a975-cb151ca452f4.jpg"/>
     </item>
   </channel>
 </rss>
