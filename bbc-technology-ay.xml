@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 11:31:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 11:45:44 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Why an AI 'godfather' is quitting Meta after 12 years]]></title>
+      <description><![CDATA[One of the pioneers in the current AI boom has had disagreements with fellow engineers over the future of AI.]]></description>
+      <link>https://www.bbc.com/news/articles/cdx4x47w8p1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdx4x47w8p1o</guid>
+      <pubDate>Thu, 20 Nov 2025 11:35:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b570/live/61bfd7a0-c5f4-11f0-8275-6b544dcaa724.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Nvidia shares rise after strong results ease 'Al bubble' concerns]]></title>
       <description><![CDATA[The chip maker says revenue for the three months to October jumped 62% to $57bn.]]></description>
@@ -254,23 +262,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2w0pvg4wko</guid>
       <pubDate>Mon, 10 Nov 2025 06:01:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb3/live/9611fb20-bbde-11f0-ae46-bd64331f0fd4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Cryptoqueen who fled China for London mansion jailed over £5bn Bitcoin stash]]></title>
-      <description><![CDATA[Qian Zhimin bought cryptocurrency using funds stolen from thousands of Chinese pensioners, say police.
-]]></description>
-      <link>https://www.bbc.com/news/articles/cvg4w1g9ezko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg4w1g9ezko</guid>
-      <pubDate>Tue, 11 Nov 2025 15:44:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a24/live/4391c250-bf20-11f0-8456-eff94716b162.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Battle over Chinese chip maker rocks global car industry]]></title>
-      <description><![CDATA[In an extraordinary move, the Dutch government invoked a Cold War-era emergency law in relation to Nexperia.]]></description>
-      <link>https://www.bbc.com/news/articles/cr43kyn9d6po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cr43kyn9d6po</guid>
-      <pubDate>Tue, 11 Nov 2025 00:01:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/625a/live/54e64110-baad-11f0-ab57-bf666aa87feb.png"/>
     </item>
     <item>
       <title><![CDATA[On the front line of Europe's standoff with Russia's sanction-busting shadow fleet]]></title>
