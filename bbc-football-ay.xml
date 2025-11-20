@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 17:46:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 18:28:18 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,6 +40,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5b1/live/f8bede30-c635-11f0-8c98-11fe43704bb5.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Plans for Birmingham City's 62,000-seater stadium revealed]]></title>
+      <description><![CDATA[Club chairman Tom Wagner reveals the design for his club's new 62,000-capacity stadium in Bordesley Green.]]></description>
+      <link>https://www.bbc.com/news/articles/cly9y030r37o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly9y030r37o</guid>
+      <pubDate>Thu, 20 Nov 2025 17:43:04 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe4/live/01e26d90-c638-11f0-9ad1-dbbd54dbf5de.png"/>
+    </item>
+    <item>
       <title><![CDATA[How does Arsenal defence compare to Premier League's best?]]></title>
       <description><![CDATA[Where do Arsenal's back four rank in terms of the best ever in the Premier League?]]></description>
       <link>https://www.bbc.com/sport/football/articles/ced6ezpzpj9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9wvw7eyvepo</guid>
       <pubDate>Thu, 20 Nov 2025 11:43:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9402/live/33e74b10-c5f9-11f0-8e3f-494114defdeb.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Happiest I've been in football - ex-Premier League boss Brown on life in non-league]]></title>
-      <description><![CDATA[Veteran manager Phil Brown hopes his current job with Peterborough Sports could pave the way for a return to the English Football League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2059jqgj66o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2059jqgj66o</guid>
-      <pubDate>Thu, 20 Nov 2025 05:56:48 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/851d/live/9b84b3b0-c5f5-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[NI manager Oxtoby in talks over Newcastle job]]></title>
@@ -112,12 +112,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d71d/live/55e93540-c539-11f0-88be-3bc2aea1a256.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Liverpool only January option for Guehi - Thursday's gossip]]></title>
-      <description><![CDATA[Crystal Palace view Liverpool as the only viable suitor for Marc Guehi, Manchester United and Inter Milan battle over Karim Adeyemi, and Ivan Toney is ready to take a huge pay cut to secure a Premier League return.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5y9yjr4ldzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y9yjr4ldzo</guid>
-      <pubDate>Wed, 19 Nov 2025 22:03:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/709f/live/89dfcf30-c57f-11f0-9fb5-5f3a3703a365.png"/>
+      <title><![CDATA[Happiest I've been in football - ex-Premier League boss Brown on life in non-league]]></title>
+      <description><![CDATA[Veteran manager Phil Brown hopes his current job with Peterborough Sports could pave the way for a return to the English Football League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2059jqgj66o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2059jqgj66o</guid>
+      <pubDate>Thu, 20 Nov 2025 05:56:48 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/851d/live/9b84b3b0-c5f5-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Webb denies WSL official lost role over complaint]]></title>
+      <description><![CDATA[Referees' chief Howard Webb denies a former staff member lost her position as an international football referee because she complained a coach "manhandled" her.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgr4rpqeqn7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgr4rpqeqn7o</guid>
+      <pubDate>Thu, 20 Nov 2025 18:07:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613d/live/abeddb20-c62f-11f0-9ad1-dbbd54dbf5de.jpg"/>
     </item>
     <item>
       <title><![CDATA[Need, need, got: EFL launches Panini sticker album]]></title>
@@ -208,12 +216,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4586/live/b3e48010-c62d-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
-      <title><![CDATA[The big questions now Scotland are going to the World Cup]]></title>
-      <description><![CDATA[Where are we going? What's the score with visas & ESTAs? Who will sing our World Cup song?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgkg50xwk1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgkg50xwk1o</guid>
-      <pubDate>Wed, 19 Nov 2025 19:10:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d83e/live/3939e240-c56c-11f0-8c06-f5d460985095.png"/>
+      <title><![CDATA[Liverpool only January option for Guehi - Thursday's gossip]]></title>
+      <description><![CDATA[Crystal Palace view Liverpool as the only viable suitor for Marc Guehi, Manchester United and Inter Milan battle over Karim Adeyemi, and Ivan Toney is ready to take a huge pay cut to secure a Premier League return.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5y9yjr4ldzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y9yjr4ldzo</guid>
+      <pubDate>Wed, 19 Nov 2025 22:03:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/709f/live/89dfcf30-c57f-11f0-9fb5-5f3a3703a365.png"/>
     </item>
     <item>
       <title><![CDATA[Football not part of government ticket crackdown]]></title>
@@ -222,6 +230,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8030l14ryko</guid>
       <pubDate>Wed, 19 Nov 2025 17:11:01 GMT</pubDate>
       <media:thumbnail width="240" height="161" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3054/live/9539a140-c60a-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[The big questions now Scotland are going to the World Cup]]></title>
+      <description><![CDATA[Where are we going? What's the score with visas & ESTAs? Who will sing our World Cup song?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgkg50xwk1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgkg50xwk1o</guid>
+      <pubDate>Wed, 19 Nov 2025 19:10:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d83e/live/3939e240-c56c-11f0-8c06-f5d460985095.png"/>
     </item>
     <item>
       <title><![CDATA[Flying? Floundering? Failing? How would your club's report card read?]]></title>
@@ -238,14 +254,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3vnvw9p54ko</guid>
       <pubDate>Wed, 19 Nov 2025 22:25:43 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d4b/live/55fb6040-c592-11f0-9e84-fdb789616838.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Referee coach denies 'man-handling' WSL official]]></title>
-      <description><![CDATA[A referee coach has denied "manhandling" Women's Super League referee Lisa Benn after she told an employment tribunal that he "forcefully pushed" her during a match.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cm2l2y1ye5no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2l2y1ye5no</guid>
-      <pubDate>Wed, 19 Nov 2025 22:17:30 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd0/live/73e90960-c590-11f0-9e84-fdb789616838.jpg"/>
     </item>
     <item>
       <title><![CDATA[Suspended sentence for Norway's Schjelderup after sharing illegal video]]></title>
@@ -272,14 +280,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4487/live/0595a180-c53b-11f0-bf7b-db7c049674ab.jpg"/>
     </item>
     <item>
-      <title><![CDATA[McClaren quits as Jamaica manager]]></title>
-      <description><![CDATA[Eighteen years after being sacked as England manager, Steve McClaren resigns as Jamaica boss following their failure to qualify automatically for the World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c04gwqvlvqqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c04gwqvlvqqo</guid>
-      <pubDate>Wed, 19 Nov 2025 06:42:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdc7/live/cd1115d0-c506-11f0-9b68-57906bffd3ed.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Who has qualified for World Cup and when is draw?]]></title>
       <description><![CDATA[Our Ask Me Anything team explore when the World Cup draw is, how the seeding works and who has qualified so far.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj6ngld5069o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -288,12 +288,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e53f/live/66cdbb60-bfda-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Hakimi and Chebbak named African players of the year]]></title>
-      <description><![CDATA[Achraf Hakimi and Ghizlane Chebbak deliver a double success for Morocco as they are named 2025 African men's and women's footballer of the year respectively.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn405zv4ygdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn405zv4ygdo</guid>
-      <pubDate>Wed, 19 Nov 2025 20:16:13 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e76/live/30d7f860-c56e-11f0-b9b5-d9ab78bbe49c.jpg"/>
+      <title><![CDATA[Why are Man Utd not playing on a Saturday for two months?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything explains why Manchester United are not playing on a Saturday for two months]]></description>
+      <link>https://www.bbc.com/sport/football/articles/czdrd5rnvydo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czdrd5rnvydo</guid>
+      <pubDate>Wed, 19 Nov 2025 17:59:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9340/live/c5689e00-c562-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[McClaren quits as Jamaica manager]]></title>
+      <description><![CDATA[Eighteen years after being sacked as England manager, Steve McClaren resigns as Jamaica boss following their failure to qualify automatically for the World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c04gwqvlvqqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c04gwqvlvqqo</guid>
+      <pubDate>Wed, 19 Nov 2025 06:42:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdc7/live/cd1115d0-c506-11f0-9b68-57906bffd3ed.jpg"/>
     </item>
     <item>
       <title><![CDATA[Haiti reach World Cup despite coach having never been to the country]]></title>
@@ -302,14 +310,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy70v7grl4o</guid>
       <pubDate>Wed, 19 Nov 2025 07:34:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f975/live/ae494d70-c515-11f0-98cb-cb613957a3bd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why are Man Utd not playing on a Saturday for two months?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything explains why Manchester United are not playing on a Saturday for two months]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czdrd5rnvydo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czdrd5rnvydo</guid>
-      <pubDate>Wed, 19 Nov 2025 17:59:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9340/live/c5689e00-c562-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Does Solskjaer deserve more respect for his time managing Man Utd?]]></title>
@@ -328,12 +328,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8ca/live/191e6c10-c44f-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[The non-league striker proving a match for Haaland]]></title>
-      <description><![CDATA[A Merthyr Town striker is proving more than a match for Erling Haaland with his impressive goal-scoring form.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0qpjqj8e2qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0qpjqj8e2qo</guid>
-      <pubDate>Wed, 19 Nov 2025 16:45:10 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/126f/live/53a29fb0-c480-11f0-81c9-694acfdc27bb.jpg"/>
+      <title><![CDATA[Hakimi and Chebbak named African players of the year]]></title>
+      <description><![CDATA[Achraf Hakimi and Ghizlane Chebbak deliver a double success for Morocco as they are named 2025 African men's and women's footballer of the year respectively.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn405zv4ygdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn405zv4ygdo</guid>
+      <pubDate>Wed, 19 Nov 2025 20:16:13 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e76/live/30d7f860-c56e-11f0-b9b5-d9ab78bbe49c.jpg"/>
     </item>
     <item>
       <title><![CDATA['Scotland cash in almost 30 years of glorious failure as dreams come true']]></title>
