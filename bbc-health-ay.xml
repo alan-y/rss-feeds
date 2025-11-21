@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 17:46:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 18:25:15 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -41,6 +41,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5f9/live/a3666560-c514-11f0-b288-51552c83ad58.png"/>
     </item>
     <item>
+      <title><![CDATA[Non-smoker diagnosed with lung cancer at 37 demands 'urgent action']]></title>
+      <description><![CDATA[Jules Fielder is using Instagram to raise awareness of lung cancer in young women. ]]></description>
+      <link>https://www.bbc.com/news/articles/clydlj9d50ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/clydlj9d50ro</guid>
+      <pubDate>Fri, 21 Nov 2025 17:04:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e057/live/2f0d3da0-c6e6-11f0-8897-7bf2564e5296.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Trans people could be barred from services based on appearance]]></title>
       <description><![CDATA[The new code of practice on access to single-sex services cannot gain legal force until it gets sign-off from ministers.]]></description>
       <link>https://www.bbc.com/news/articles/cy0y07959djo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -65,14 +73,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d24/live/47ebe110-c528-11f0-9b68-57906bffd3ed.png"/>
     </item>
     <item>
-      <title><![CDATA[AI vs superbugs: UK invests millions to tackle drug-resistant infections]]></title>
-      <description><![CDATA[The UK turns to artificial intelligence (AI) to reverse the rising numbers of infections that shrug off antibiotics.]]></description>
-      <link>https://www.bbc.com/news/articles/cp97ggrnn35o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp97ggrnn35o</guid>
-      <pubDate>Tue, 18 Nov 2025 06:10:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ae/live/a9d77b10-c3ba-11f0-8b5b-6b842c57bf0d.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Doctor strike inflicting pain and misery on patients, says health secretary]]></title>
       <description><![CDATA[Health Secretary Wes Streeting says the five-day strike by resident doctors is "completely irresponsible".]]></description>
       <link>https://www.bbc.com/news/articles/cm2lg8pgjymo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -95,6 +95,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3dn3ryl3p7o</guid>
       <pubDate>Thu, 13 Nov 2025 10:23:12 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6bc/live/998d8590-c079-11f0-b95f-c7c5e73ea311.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[AI vs superbugs: UK invests millions to tackle drug-resistant infections]]></title>
+      <description><![CDATA[The UK turns to artificial intelligence (AI) to reverse the rising numbers of infections that shrug off antibiotics.]]></description>
+      <link>https://www.bbc.com/news/articles/cp97ggrnn35o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp97ggrnn35o</guid>
+      <pubDate>Tue, 18 Nov 2025 06:10:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ae/live/a9d77b10-c3ba-11f0-8b5b-6b842c57bf0d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hospitals knew a heart device led to more patients' deaths - but they kept using it]]></title>
@@ -223,14 +231,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0gw6p8dllo</guid>
       <pubDate>Mon, 27 Oct 2025 22:49:22 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f988/live/54969b00-b3c9-11f0-bcfd-f33aa44e9a1a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['New birth advice change is our girl's lasting legacy']]></title>
-      <description><![CDATA[A mum says she was not warned of the potentially life-threatening risks of a uterine rupture.]]></description>
-      <link>https://www.bbc.com/news/articles/ckgyre4l9r1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgyre4l9r1o</guid>
-      <pubDate>Thu, 30 Oct 2025 06:15:52 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd37/live/130ddeb0-b35a-11f0-ad84-99ce12c6004d.jpg"/>
     </item>
     <item>
       <title><![CDATA[UK did 'too little, too late', leading to thousands more Covid deaths - inquiry]]></title>
