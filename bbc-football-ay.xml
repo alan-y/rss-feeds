@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 21:31:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 21:45:40 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -144,6 +144,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6478/live/5b739560-c709-11f0-8651-e14c538db09b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Hearts' big test and cup final rehearsal - Scottish Premiership preview]]></title>
+      <description><![CDATA[Your Scottish Premiership preview, with Hearts v Aberdeen as the game of weekend, David Watson under the spotlight and managers under pressure.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpq1qzv22zpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpq1qzv22zpo</guid>
+      <pubDate>Fri, 21 Nov 2025 10:39:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f92b/live/a67cf870-c6ba-11f0-9fb5-5f3a3703a365.png"/>
+    </item>
+    <item>
       <title><![CDATA[Grief, love & the Gunners - inside the iconic Arsenal supporters' club]]></title>
       <description><![CDATA[BBC Sport goes behind the scenes of the independent Arsenal supporters' club to find a story of grief, love and community in the heart of north London.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cpwvw5xwjwyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -190,14 +198,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ckgkgdygmr9o</guid>
       <pubDate>Thu, 20 Nov 2025 20:43:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77f6/live/3604f2f0-c651-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hearts' big test and cup final rehearsal - Scottish Premiership preview]]></title>
-      <description><![CDATA[Your Scottish Premiership preview, with Hearts v Aberdeen as the game of weekend, David Watson under the spotlight and managers under pressure.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpq1qzv22zpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpq1qzv22zpo</guid>
-      <pubDate>Fri, 21 Nov 2025 10:39:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f92b/live/a67cf870-c6ba-11f0-9fb5-5f3a3703a365.png"/>
     </item>
     <item>
       <title><![CDATA[Man Utd progress in Champions League - what do Arsenal and Chelsea need?]]></title>
@@ -248,20 +248,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91c0/live/77cf5d40-c6ee-11f0-b222-8b5ed945ab17.jpg"/>
     </item>
     <item>
-      <title><![CDATA[All your FPL stats and Premier League team news in one place]]></title>
-      <description><![CDATA[Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.]]></description>
-      <link>https://www.bbc.com/sport/articles/czdrdm3y5v5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/czdrdm3y5v5o</guid>
-      <pubDate>Fri, 21 Nov 2025 12:22:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Some people 'not ready for black superstar' like Bellingham - Wright]]></title>
       <description><![CDATA[Former England striker Ian Wright does not think some people are "ready for a black superstar" following the media treatment of Jude Bellingham.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ckgkg1d49v7o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgkg1d49v7o</guid>
       <pubDate>Thu, 20 Nov 2025 14:41:12 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b24/live/9aa721f0-c616-11f0-9fb5-5f3a3703a365.png"/>
+    </item>
+    <item>
+      <title><![CDATA[All your FPL stats and Premier League team news in one place]]></title>
+      <description><![CDATA[Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.]]></description>
+      <link>https://www.bbc.com/sport/articles/czdrdm3y5v5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/czdrdm3y5v5o</guid>
+      <pubDate>Fri, 21 Nov 2025 12:22:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg"/>
     </item>
     <item>
       <title><![CDATA[How does Arsenal defence compare to Premier League's best?]]></title>
@@ -304,6 +304,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe4/live/01e26d90-c638-11f0-9ad1-dbbd54dbf5de.png"/>
     </item>
     <item>
+      <title><![CDATA[Panel split over disallowed Liverpool goal at Man City]]></title>
+      <description><![CDATA[The Premier League's KMI Panel votes 3-2 both that Liverpool's goal should have stood on-field, but didn't reach the VAR threshold.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9wvw7eyvepo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9wvw7eyvepo</guid>
+      <pubDate>Thu, 20 Nov 2025 11:43:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9402/live/33e74b10-c5f9-11f0-8e3f-494114defdeb.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Make Haaland captain all season? The FPL talking point]]></title>
       <description><![CDATA[Manchester City striker Erling Haaland is in sensational form. So do you captain him every week in your fantasy football team? Our FPL experts give their views.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5y010dey21o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20p0k8yxd8o</guid>
       <pubDate>Thu, 20 Nov 2025 10:12:49 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f042/live/535884f0-c60d-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Panel split over disallowed Liverpool goal at Man City]]></title>
-      <description><![CDATA[The Premier League's KMI Panel votes 3-2 both that Liverpool's goal should have stood on-field, but didn't reach the VAR threshold.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9wvw7eyvepo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9wvw7eyvepo</guid>
-      <pubDate>Thu, 20 Nov 2025 11:43:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9402/live/33e74b10-c5f9-11f0-8e3f-494114defdeb.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why will 2026-27 Premier League season start later than usual?]]></title>
@@ -358,6 +358,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg42gzk3g2o</guid>
       <pubDate>Thu, 20 Nov 2025 09:07:37 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ad0/live/abf4c450-c600-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Happiest I've been in football - ex-Premier League boss Brown on life in non-league]]></title>
+      <description><![CDATA[Veteran manager Phil Brown hopes his current job with Peterborough Sports could pave the way for a return to the English Football League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2059jqgj66o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2059jqgj66o</guid>
+      <pubDate>Thu, 20 Nov 2025 05:56:48 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/851d/live/9b84b3b0-c5f5-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Are you not being entertained? The decline of the open-play goal]]></title>
