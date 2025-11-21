@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 13:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 13:41:16 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -233,12 +233,44 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd37/live/130ddeb0-b35a-11f0-ad84-99ce12c6004d.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Boris Johnson left Inquiry in a hurry - he'll be pleased not to come back]]></title>
-      <description><![CDATA[School closures seemed the only option but lockdowns probably went "too far" , former PM tells Covid Inquiry.]]></description>
-      <link>https://www.bbc.com/news/articles/cj6nennz0nyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj6nennz0nyo</guid>
-      <pubDate>Tue, 21 Oct 2025 16:49:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3acb/live/15386a90-ae9e-11f0-aa13-0b0479f6f42a.jpg"/>
+      <title><![CDATA[UK did 'too little, too late', leading to thousands more Covid deaths - inquiry]]></title>
+      <description><![CDATA[Report on government decision-making says delays cost 23,000 lives in the first wave in England.]]></description>
+      <link>https://www.bbc.com/news/articles/c8030xvvlv0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8030xvvlv0o</guid>
+      <pubDate>Thu, 20 Nov 2025 20:42:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7635/live/5b47a410-c5f0-11f0-9f1e-75cdd6519717.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Toxic' No 10 culture harmed Covid response, inquiry finds]]></title>
+      <description><![CDATA[Boris Johnson, Dominic Cummings and Matt Hanock are all criticised for contributing to poor Covid decision-making.]]></description>
+      <link>https://www.bbc.com/news/articles/c986821m604o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c986821m604o</guid>
+      <pubDate>Thu, 20 Nov 2025 22:32:49 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee93/live/3f2f6ab0-c654-11f0-af6f-e50c9b63d103.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What is the UK Covid inquiry and how does it work?]]></title>
+      <description><![CDATA[The inquiry into the government's handling of the pandemic has heard from politicians, civil servants, experts and bereaved families.]]></description>
+      <link>https://www.bbc.com/news/articles/cdr3kx6xmp5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdr3kx6xmp5o</guid>
+      <pubDate>Thu, 20 Nov 2025 11:14:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bda/live/d088bf20-5723-11f0-82f9-ffcaa67a8d94.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Gove apologises after Covid report alleges 'toxic' culture]]></title>
+      <description><![CDATA[The ex-senior minister apologises for mistakes in the pandemic, but defends some of the previous government's actions.]]></description>
+      <link>https://www.bbc.com/news/articles/c9qeglxwwx7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9qeglxwwx7o</guid>
+      <pubDate>Fri, 21 Nov 2025 12:58:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8095/live/87d20080-c6c1-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Delayed action before 2020 Christmas lockdown 'inexcusable']]></title>
+      <description><![CDATA[Baroness Hallet says ministers failed to take "decisive action" against an "entirely foreseeable" variant.]]></description>
+      <link>https://www.bbc.com/news/articles/cn090n0gq02o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn090n0gq02o</guid>
+      <pubDate>Fri, 21 Nov 2025 06:09:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0ad/live/2279ec10-c659-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA['Since having Covid my life has completely changed']]></title>
@@ -247,6 +279,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c62l6gxvpn2o</guid>
       <pubDate>Thu, 02 Oct 2025 05:05:22 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad89/live/786550d0-9ecf-11f0-b595-cdcf9ff44bfb.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Boris Johnson left Inquiry in a hurry - he'll be pleased not to come back]]></title>
+      <description><![CDATA[School closures seemed the only option but lockdowns probably went "too far" , former PM tells Covid Inquiry.]]></description>
+      <link>https://www.bbc.com/news/articles/cj6nennz0nyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj6nennz0nyo</guid>
+      <pubDate>Tue, 21 Oct 2025 16:49:01 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3acb/live/15386a90-ae9e-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[One day of planning went into Covid school closures, inquiry hears]]></title>
@@ -335,54 +375,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c70z1ppyv5eo</guid>
       <pubDate>Mon, 07 Oct 2024 14:11:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a311/live/472652f0-84ac-11ef-83dd-fbf1b9732cf0.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Covid ambulance crews faced 'crucial PPE delays']]></title>
-      <description><![CDATA[Crews say they faced crucial delays trying to save dying patients because of the time it took to put on equipment.]]></description>
-      <link>https://www.bbc.com/news/articles/cvgw0vrrqnno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgw0vrrqnno</guid>
-      <pubDate>Tue, 01 Oct 2024 14:39:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e5f/live/f842c5c0-7fd2-11ef-822c-a50726bfda2e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Covid was like a daily terror attack, doctor tells inquiry]]></title>
-      <description><![CDATA[Covid inquiry hears harrowing testimony from ex-adviser in emergency preparedness at NHS England.]]></description>
-      <link>https://www.bbc.com/news/articles/cz9py388z17o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cz9py388z17o</guid>
-      <pubDate>Thu, 26 Sep 2024 14:06:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/085b/live/3425de80-7c11-11ef-b02d-c5f3b724a1ea.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Covid inquiry rejects clinicians’ anonymity plea]]></title>
-      <description><![CDATA[The UK Health Security Agency argued naming the junior officials could put them at risk of abuse.]]></description>
-      <link>https://www.bbc.com/news/articles/c07n8zp9zp0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c07n8zp9zp0o</guid>
-      <pubDate>Thu, 26 Sep 2024 00:11:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7768/live/77e5ef70-7bcb-11ef-b02d-c5f3b724a1ea.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Warning tax rises could force care homes to close]]></title>
-      <description><![CDATA[Social care providers say the sector is in "unprecedented danger" without more funding.]]></description>
-      <link>https://www.bbc.com/news/articles/c5yr7n5ly8ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yr7n5ly8ko</guid>
-      <pubDate>Thu, 31 Oct 2024 13:50:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14b6/live/cf7ecbe0-9786-11ef-b1d2-8fca24077ba5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[High-grade masks evidence weak, Covid inquiry told]]></title>
-      <description><![CDATA[UKHSA's Prof Susan Hopkins said respirator masks may have worked no better than thin surgical masks.]]></description>
-      <link>https://www.bbc.com/news/articles/cly2jr0dppro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly2jr0dppro</guid>
-      <pubDate>Thu, 19 Sep 2024 11:39:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2560/live/5f7e9f40-7680-11ef-8c1a-df523ba43a9a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Nurses bore the brunt of Covid, ex-chief nurse says]]></title>
-      <description><![CDATA[Dame Ruth May tells the Covid inquiry nurses struggled with low staffing levels and difficulties accessing protective equipment.]]></description>
-      <link>https://www.bbc.com/news/articles/c8djm4n64m2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8djm4n64m2o</guid>
-      <pubDate>Tue, 17 Sep 2024 15:58:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8044/live/acc246b0-7588-11ef-b02d-c5f3b724a1ea.jpg"/>
     </item>
     <item>
       <title><![CDATA[How do cold weather health alerts work?]]></title>
