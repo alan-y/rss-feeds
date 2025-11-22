@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 22 Nov 2025 11:45:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 12:33:18 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,6 +40,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6447/live/e40de520-c712-11f0-9197-a502c623b7e9.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Oxtoby leaves NI to take over at Newcastle]]></title>
+      <description><![CDATA[Tanya Oxtoby leaves her role as Northern Ireland manager to become head coach at WSL 2 side Newcastle United.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c89198ng4qeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c89198ng4qeo</guid>
+      <pubDate>Sat, 22 Nov 2025 11:17:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06a1/live/cf77aa20-c5f9-11f0-9c13-f920cfeeae8d.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Have we seen the last of Wales and ex-Arsenal star Ramsey?]]></title>
       <description><![CDATA[Wales captain Aaron Ramsey has no club and has not played for his country for 14 months, so where and what next for the ex-Arsenal midfielder?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj6n606dw56o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -56,14 +64,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4118/live/9fcf77b0-c6f0-11f0-b317-7ff7a1b5951d.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Scotland fans caused 'small earthquake' in World Cup qualifier win]]></title>
-      <description><![CDATA[Seismic activity was recorded as the Tartan Army celebrated Scotland reaching their first World Cup since 1998.]]></description>
-      <link>https://www.bbc.com/news/articles/ckgd2nywde4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgd2nywde4o</guid>
-      <pubDate>Sat, 22 Nov 2025 08:19:19 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ed/live/e66dea30-c78b-11f0-bca8-3f3db1bd72a1.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[One win in six - what is going wrong at stumbling Liverpool?]]></title>
       <description><![CDATA[Champions Liverpool are eighth in the Premier League after 11 matches - but what are the tactical reasons behind their poor form?]]></description>
       <link>https://www.bbc.com/sport/articles/c4gwg4d3ly5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -78,14 +78,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gp7glkdr3o</guid>
       <pubDate>Thu, 20 Nov 2025 18:58:51 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1128/live/134ab010-c4b2-11f0-b288-51552c83ad58.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Champions League highlights to stay on BBC until 2031]]></title>
-      <description><![CDATA[The BBC retains the rights to broadcast highlights of the men's Champions League for a further four seasons until the end of the 2030-31 campaign. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz0x0zlpe19o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz0x0zlpe19o</guid>
-      <pubDate>Fri, 21 Nov 2025 17:01:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ee/live/012f54f0-c65e-11f0-b709-3340c608d444.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man Utd might offload Fernandes - Saturday's gossip]]></title>
@@ -105,11 +97,19 @@
     </item>
     <item>
       <title><![CDATA['Sad' day as Celtic abandon AGM amid 'sack the board' chants]]></title>
-      <description><![CDATA[Celtic's annual meeting is abandoned after shareholders jeered when director Ross Desmond accused some fans of being "bullies".]]></description>
+      <description><![CDATA[Celtic's annual meeting is abandoned after shareholders jeered when Ross Desmond accused some fans of being "bullies".]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g5lp33d0do?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g5lp33d0do</guid>
       <pubDate>Fri, 21 Nov 2025 12:29:50 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aa4/live/33b6ee60-c6cc-11f0-8382-cd002029fec6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Scotland fans caused 'small earthquake' in World Cup qualifier win]]></title>
+      <description><![CDATA[Seismic activity was recorded as the Tartan Army celebrated Scotland reaching their first World Cup since 1998.]]></description>
+      <link>https://www.bbc.com/news/articles/ckgd2nywde4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgd2nywde4o</guid>
+      <pubDate>Sat, 22 Nov 2025 08:19:19 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ed/live/e66dea30-c78b-11f0-bca8-3f3db1bd72a1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Palmer fractures toe by stubbing it on door]]></title>
@@ -118,30 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c709388r0ero</guid>
       <pubDate>Fri, 21 Nov 2025 10:14:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/294a/live/952a98f0-c6c1-11f0-82b1-6148fee2770d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Uefa apology after ordering Scotland fans to remove celebration videos]]></title>
-      <description><![CDATA[European football's governing body had claimed clips of fans cheering Scotland's World Cup qualification in front of TV screens breached copyright.]]></description>
-      <link>https://www.bbc.com/news/articles/c2084wyx1plo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2084wyx1plo</guid>
-      <pubDate>Fri, 21 Nov 2025 17:07:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/490f/live/6c726530-c6d7-11f0-8a66-8192c8aa9775.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Oxtoby leaves NI to take over at Newcastle]]></title>
-      <description><![CDATA[Tanya Oxtoby leaves her role as Northern Ireland manager to become head coach at WSL 2 side Newcastle United.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c89198ng4qeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c89198ng4qeo</guid>
-      <pubDate>Sat, 22 Nov 2025 11:17:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06a1/live/cf77aa20-c5f9-11f0-9c13-f920cfeeae8d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd want to delay trio's Afcon departure]]></title>
-      <description><![CDATA[Manchester United will attempt to delay the departures of Bryan Mbeumo, Amad Diallo and Noussair Mazraoui to the Africa Cup of Nations.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gpe0jge2go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gpe0jge2go</guid>
-      <pubDate>Fri, 21 Nov 2025 17:10:13 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffc3/live/b27bcea0-c6f9-11f0-a863-434ee92aa5e3.jpg"/>
     </item>
     <item>
       <title><![CDATA['Newcastle require Premier League reboot amid curious season']]></title>
@@ -200,20 +176,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d920/live/4c24b030-c6d2-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Make Haaland captain all season? The FPL talking point]]></title>
-      <description><![CDATA[Manchester City striker Erling Haaland is in sensational form. So do you captain him every week in your fantasy football team? Our FPL experts give their views.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5y010dey21o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y010dey21o</guid>
-      <pubDate>Thu, 20 Nov 2025 11:03:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d71d/live/55e93540-c539-11f0-88be-3bc2aea1a256.jpg"/>
+      <title><![CDATA[Champions League highlights to stay on BBC until 2031]]></title>
+      <description><![CDATA[The BBC retains the rights to broadcast highlights of the men's Champions League for a further four seasons until the end of the 2030-31 campaign. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz0x0zlpe19o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz0x0zlpe19o</guid>
+      <pubDate>Fri, 21 Nov 2025 17:01:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ee/live/012f54f0-c65e-11f0-b709-3340c608d444.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Hearts' big test and cup final rehearsal - Scottish Premiership preview]]></title>
-      <description><![CDATA[Your Scottish Premiership preview, with Hearts v Aberdeen as the game of weekend, David Watson under the spotlight and managers under pressure.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpq1qzv22zpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpq1qzv22zpo</guid>
-      <pubDate>Fri, 21 Nov 2025 10:39:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f92b/live/a67cf870-c6ba-11f0-9fb5-5f3a3703a365.png"/>
+      <title><![CDATA[Man Utd want to delay trio's Afcon departure]]></title>
+      <description><![CDATA[Manchester United will attempt to delay the departures of Bryan Mbeumo, Amad Diallo and Noussair Mazraoui to the Africa Cup of Nations.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gpe0jge2go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gpe0jge2go</guid>
+      <pubDate>Fri, 21 Nov 2025 17:10:13 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffc3/live/b27bcea0-c6f9-11f0-a863-434ee92aa5e3.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Uefa apology after ordering Scotland fans to remove celebration videos]]></title>
+      <description><![CDATA[European football's governing body had claimed clips of fans cheering Scotland's World Cup qualification in front of TV screens breached copyright.]]></description>
+      <link>https://www.bbc.com/news/articles/c2084wyx1plo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2084wyx1plo</guid>
+      <pubDate>Fri, 21 Nov 2025 17:07:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/490f/live/6c726530-c6d7-11f0-8a66-8192c8aa9775.jpg"/>
     </item>
     <item>
       <title><![CDATA[Crisis-hit Steel City rivals set for unique derby]]></title>
@@ -224,12 +208,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c28a/live/13c74b10-c61b-11f0-9fb5-5f3a3703a365.png"/>
     </item>
     <item>
-      <title><![CDATA[Pogba set to make first appearance since doping ban]]></title>
-      <description><![CDATA[Paul Pogba is set to make his long-awaited return from a doping ban for Monaco this weekend.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly3w2k0pnno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly3w2k0pnno</guid>
-      <pubDate>Fri, 21 Nov 2025 16:31:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6ce/live/d35b24d0-c6c8-11f0-86f1-fbec718c2a79.jpg"/>
+      <title><![CDATA[Hearts' big test and cup final rehearsal - Scottish Premiership preview]]></title>
+      <description><![CDATA[Your Scottish Premiership preview, with Hearts v Aberdeen as the game of weekend, David Watson under the spotlight and managers under pressure.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpq1qzv22zpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpq1qzv22zpo</guid>
+      <pubDate>Fri, 21 Nov 2025 10:39:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f92b/live/a67cf870-c6ba-11f0-9fb5-5f3a3703a365.png"/>
     </item>
     <item>
       <title><![CDATA[We miss the player and the person - Slot on Jota]]></title>
@@ -238,6 +222,38 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80xernrv8yo</guid>
       <pubDate>Fri, 21 Nov 2025 09:50:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec1b/live/3b6cb8c0-c6d5-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Some people 'not ready for black superstar' like Bellingham - Wright]]></title>
+      <description><![CDATA[Former England striker Ian Wright does not think some people are "ready for a black superstar" following the media treatment of Jude Bellingham.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgkg1d49v7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgkg1d49v7o</guid>
+      <pubDate>Thu, 20 Nov 2025 14:41:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b24/live/9aa721f0-c616-11f0-9fb5-5f3a3703a365.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Cardiff Met stun holders TNS in Welsh Cup]]></title>
+      <description><![CDATA[Cardiff Met score two late goals to knock holders The New Saints out of the JD Welsh Cup in the third round.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0r9w7xgj9zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0r9w7xgj9zo</guid>
+      <pubDate>Fri, 21 Nov 2025 22:00:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b6b/live/837db890-c724-11f0-9568-a1b5f5f5590d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Pogba set to make first appearance since doping ban]]></title>
+      <description><![CDATA[Paul Pogba is set to make his long-awaited return from a doping ban for Monaco this weekend.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly3w2k0pnno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly3w2k0pnno</guid>
+      <pubDate>Fri, 21 Nov 2025 16:31:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6ce/live/d35b24d0-c6c8-11f0-86f1-fbec718c2a79.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Make Haaland captain all season? The FPL talking point]]></title>
+      <description><![CDATA[Manchester City striker Erling Haaland is in sensational form. So do you captain him every week in your fantasy football team? Our FPL experts give their views.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5y010dey21o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y010dey21o</guid>
+      <pubDate>Thu, 20 Nov 2025 11:03:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d71d/live/55e93540-c539-11f0-88be-3bc2aea1a256.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arsenal defender Gabriel out for weeks - Arteta]]></title>
@@ -256,68 +272,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b77/live/40fc4d60-c652-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
-      <title><![CDATA[All your FPL stats and Premier League team news in one place]]></title>
-      <description><![CDATA[Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.]]></description>
-      <link>https://www.bbc.com/sport/articles/czdrdm3y5v5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/czdrdm3y5v5o</guid>
-      <pubDate>Fri, 21 Nov 2025 12:22:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Some people 'not ready for black superstar' like Bellingham - Wright]]></title>
-      <description><![CDATA[Former England striker Ian Wright does not think some people are "ready for a black superstar" following the media treatment of Jude Bellingham.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgkg1d49v7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgkg1d49v7o</guid>
-      <pubDate>Thu, 20 Nov 2025 14:41:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b24/live/9aa721f0-c616-11f0-9fb5-5f3a3703a365.png"/>
-    </item>
-    <item>
       <title><![CDATA[Morocco's AS FAR claim second African Women's Champions League title]]></title>
       <description><![CDATA[AS FAR beat debutants ASEC Mimosas 2-1 in the African Women's Champions League final to become continental champions for the second time.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn0k2gdz2j1o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0k2gdz2j1o</guid>
       <pubDate>Fri, 21 Nov 2025 19:10:36 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9564/live/3c11b0e0-c70d-11f0-bf54-19350076d666.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Diaz to miss Arsenal game after ban for Hakimi challenge]]></title>
-      <description><![CDATA[Bayern Munich will be without Luis Diaz when they face Arsenal next week after the attacker receives a three-match ban for his red card against Paris St-Germain.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwywj30gjldo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwywj30gjldo</guid>
-      <pubDate>Fri, 21 Nov 2025 18:53:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6478/live/5b739560-c709-11f0-8651-e14c538db09b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd progress in Champions League - what do Arsenal and Chelsea need?]]></title>
-      <description><![CDATA[BBC Sport assesses how Arsenal, Chelsea and Man Utd have fared so far in this season's Women's Champions League with two league phase rounds remaining.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgmxme0km8no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgmxme0km8no</guid>
-      <pubDate>Fri, 21 Nov 2025 00:00:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/cba15de0-c632-11f0-a892-01d657345866.png"/>
-    </item>
-    <item>
-      <title><![CDATA[How does Arsenal defence compare to Premier League's best?]]></title>
-      <description><![CDATA[Where do Arsenal's back four rank in terms of the best ever in the Premier League?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ced6ezpzpj9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ced6ezpzpj9o</guid>
-      <pubDate>Thu, 20 Nov 2025 10:50:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6dd/live/d788c660-bcab-11f0-9886-b3acf9644cc5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Home draw 'key for Wales' - reaction to World Cup play-offs]]></title>
-      <description><![CDATA[Wales' football pundits react to the World Cup play-off draw which sees Craig Bellamy's side take on Bosnia-Herzegovina in a home semi-final in March.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce868lrqjpvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce868lrqjpvo</guid>
-      <pubDate>Thu, 20 Nov 2025 19:31:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23d8/live/c62080a0-c644-11f0-9865-6d1a49d3261c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Captain Salah and leave out Haaland? FPL team of the week]]></title>
-      <description><![CDATA[With a tough away game at Newcastle for FPL top scorer Erling Haaland, gameweek 12 presents a chance to give the captain's armband to someone else - and that man is Mohamed Salah.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cjw9jq4vy8lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjw9jq4vy8lo</guid>
-      <pubDate>Wed, 19 Nov 2025 08:11:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8ca/live/191e6c10-c44f-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why will 2026-27 Premier League season start later than usual?]]></title>
@@ -328,12 +288,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f28/live/9a029c20-c6e8-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Plans for Birmingham City's 62,000-seater stadium revealed]]></title>
-      <description><![CDATA[Club chairman Tom Wagner reveals the design for his club's new 62,000-capacity stadium in Bordesley Green.]]></description>
-      <link>https://www.bbc.com/news/articles/cly9y030r37o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly9y030r37o</guid>
-      <pubDate>Thu, 20 Nov 2025 17:43:04 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe4/live/01e26d90-c638-11f0-9ad1-dbbd54dbf5de.png"/>
+      <title><![CDATA[Man Utd progress in Champions League - what do Arsenal and Chelsea need?]]></title>
+      <description><![CDATA[BBC Sport assesses how Arsenal, Chelsea and Man Utd have fared so far in this season's Women's Champions League with two league phase rounds remaining.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgmxme0km8no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgmxme0km8no</guid>
+      <pubDate>Fri, 21 Nov 2025 00:00:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/cba15de0-c632-11f0-a892-01d657345866.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Diaz to miss Arsenal game after ban for Hakimi challenge]]></title>
+      <description><![CDATA[Bayern Munich will be without Luis Diaz when they face Arsenal next week after the attacker receives a three-match ban for his red card against Paris St-Germain.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwywj30gjldo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwywj30gjldo</guid>
+      <pubDate>Fri, 21 Nov 2025 18:53:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6478/live/5b739560-c709-11f0-8651-e14c538db09b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[All your FPL stats and Premier League team news in one place]]></title>
+      <description><![CDATA[Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.]]></description>
+      <link>https://www.bbc.com/sport/articles/czdrdm3y5v5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/czdrdm3y5v5o</guid>
+      <pubDate>Fri, 21 Nov 2025 12:22:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg"/>
     </item>
     <item>
       <title><![CDATA[What has gone wrong at Plymouth Argyle?]]></title>
@@ -344,14 +320,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54b/live/732ca7c0-c54f-11f0-931b-0140a9c2c0ce.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Wales host Bosnia and Northern Ireland visit Italy in play-offs]]></title>
-      <description><![CDATA[Wales will host Bosnia-Herzegovina and Northern Ireland travel to Italy in the  World Cup play-off semi-finals.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cze6ejgx5eeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cze6ejgx5eeo</guid>
-      <pubDate>Thu, 20 Nov 2025 13:22:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd4/live/a5fbed60-c611-11f0-a892-01d657345866.png"/>
-    </item>
-    <item>
       <title><![CDATA[Need, need, got: EFL launches Panini sticker album]]></title>
       <description><![CDATA[The English Football League and Panini team up to launch a sticker collection featuring all 72 EFL clubs for the first time.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvg42gzk3g2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -360,20 +328,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ad0/live/abf4c450-c600-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Happiest I've been in football - ex-Premier League boss Brown on life in non-league]]></title>
-      <description><![CDATA[Veteran manager Phil Brown hopes his current job with Peterborough Sports could pave the way for a return to the English Football League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2059jqgj66o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2059jqgj66o</guid>
-      <pubDate>Thu, 20 Nov 2025 05:56:48 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/851d/live/9b84b3b0-c5f5-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Are you not being entertained? The decline of the open-play goal]]></title>
       <description><![CDATA[Open-play goals have been on the decline this season and BBC Sport takes a closer look at the trend.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cm272n4d3e2o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm272n4d3e2o</guid>
       <pubDate>Thu, 20 Nov 2025 08:49:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6038/live/a237b650-c549-11f0-88be-3bc2aea1a256.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How does Arsenal defence compare to Premier League's best?]]></title>
+      <description><![CDATA[Where do Arsenal's back four rank in terms of the best ever in the Premier League?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ced6ezpzpj9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ced6ezpzpj9o</guid>
+      <pubDate>Thu, 20 Nov 2025 10:50:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6dd/live/d788c660-bcab-11f0-9886-b3acf9644cc5.jpg"/>
     </item>
     <item>
       <title><![CDATA[The non-league striker proving a match for Haaland]]></title>
