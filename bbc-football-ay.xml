@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 22 Nov 2025 11:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 11:27:34 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -96,20 +96,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6605/live/5a041950-c729-11f0-9fb5-5f3a3703a365.png"/>
     </item>
     <item>
-      <title><![CDATA['Sad' day as Celtic abandon AGM amid 'sack the board' chants]]></title>
-      <description><![CDATA[Celtic's annual meeting is abandoned after shareholders jeered when director Ross Desmond accused some fans of being "bullies".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g5lp33d0do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g5lp33d0do</guid>
-      <pubDate>Fri, 21 Nov 2025 12:29:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aa4/live/33b6ee60-c6cc-11f0-8382-cd002029fec6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Five things to look out for in EFL: Steel City struggle & Norwich's new era]]></title>
       <description><![CDATA[Here are five things you should look out for across the English Football League this weekend.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgqlqy755w1o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgqlqy755w1o</guid>
       <pubDate>Fri, 21 Nov 2025 09:20:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e076/live/02cc4da0-c612-11f0-a892-01d657345866.png"/>
+    </item>
+    <item>
+      <title><![CDATA['Sad' day as Celtic abandon AGM amid 'sack the board' chants]]></title>
+      <description><![CDATA[Celtic's annual meeting is abandoned after shareholders jeered when director Ross Desmond accused some fans of being "bullies".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g5lp33d0do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g5lp33d0do</guid>
+      <pubDate>Fri, 21 Nov 2025 12:29:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aa4/live/33b6ee60-c6cc-11f0-8382-cd002029fec6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Palmer fractures toe by stubbing it on door]]></title>
@@ -150,14 +150,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y010dey21o</guid>
       <pubDate>Thu, 20 Nov 2025 11:03:22 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d71d/live/55e93540-c539-11f0-88be-3bc2aea1a256.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Crisis-hit Steel City rivals set for unique derby]]></title>
-      <description><![CDATA[BBC Sport takes a look at some of the sub-plots as administration-hit Sheffield Wednesday host struggling rivals Sheffield United.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9q18gn940lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9q18gn940lo</guid>
-      <pubDate>Fri, 21 Nov 2025 11:53:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c28a/live/13c74b10-c61b-11f0-9fb5-5f3a3703a365.png"/>
     </item>
     <item>
       <title><![CDATA[North London derby is one of most beautiful games - Saka]]></title>
@@ -214,6 +206,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpq1qzv22zpo</guid>
       <pubDate>Fri, 21 Nov 2025 10:39:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f92b/live/a67cf870-c6ba-11f0-9fb5-5f3a3703a365.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Crisis-hit Steel City rivals set for unique derby]]></title>
+      <description><![CDATA[BBC Sport takes a look at some of the sub-plots as administration-hit Sheffield Wednesday host struggling rivals Sheffield United.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9q18gn940lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9q18gn940lo</guid>
+      <pubDate>Fri, 21 Nov 2025 11:53:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c28a/live/13c74b10-c61b-11f0-9fb5-5f3a3703a365.png"/>
     </item>
     <item>
       <title><![CDATA[Pogba set to make first appearance since doping ban]]></title>
@@ -310,14 +310,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2eme0mzj2ko</guid>
       <pubDate>Thu, 20 Nov 2025 23:55:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6678/live/9515aed0-c668-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Clarke touted as 'Sir' after 'best night in Scottish football history']]></title>
-      <description><![CDATA[Scotland's win over Denmark is described as the "best night in Scottish football history" as SFA chief executive Ian Maxwell says talk of a new contract for head coach Steve Clarke is "a conversation for another day".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c20p0k8yxd8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20p0k8yxd8o</guid>
-      <pubDate>Thu, 20 Nov 2025 10:12:49 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f042/live/535884f0-c60d-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Captain Salah and leave out Haaland? FPL team of the week]]></title>
@@ -544,11 +536,11 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7912/live/208035d0-be80-11f0-a909-015ca360c829.jpg"/>
     </item>
     <item>
-      <title><![CDATA[NI manager Oxtoby in talks over Newcastle job]]></title>
-      <description><![CDATA[Northern Ireland manager Tanya Oxtoby is in advanced talks to become head coach at WSL 2 side Newcastle United.]]></description>
+      <title><![CDATA[Oxtoby leaves NI to take over at Newcastle]]></title>
+      <description><![CDATA[Tanya Oxtoby leaves her role as Northern Ireland manager to become head coach at WSL 2 side Newcastle United.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c89198ng4qeo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c89198ng4qeo</guid>
-      <pubDate>Thu, 20 Nov 2025 15:02:28 GMT</pubDate>
+      <pubDate>Sat, 22 Nov 2025 11:17:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06a1/live/cf77aa20-c5f9-11f0-9c13-f920cfeeae8d.jpg"/>
     </item>
     <item>
