@@ -10,27 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 22 Nov 2025 17:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 17:31:56 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[Why it was always Arsenal for 'part-time barista' Saka]]></title>
-      <description><![CDATA[England winger Bukayo Saka sits down with Kelly Somers to talk about his love for Arsenal and living in his "coffee era".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c364gz4ekylo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c364gz4ekylo</guid>
-      <pubDate>Sat, 22 Nov 2025 06:06:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e26d/live/e6b60870-c4a6-11f0-b288-51552c83ad58.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd might offload Fernandes - Saturday's gossip]]></title>
-      <description><![CDATA[Manchester United might offload Bruno Fernandes to aid a summer rebuild, Barcelona are keen on Harry Kane, Real Madrid look at Angelo Stiller, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwyv3gv4wg2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyv3gv4wg2o</guid>
-      <pubDate>Fri, 21 Nov 2025 22:41:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6605/live/5a041950-c729-11f0-9fb5-5f3a3703a365.png"/>
-    </item>
     <item>
       <title><![CDATA['They pop the atmosphere' - how Spurs silence home fans in away games]]></title>
       <description><![CDATA[Martin Keown and Ashley Williams analyse what has made Tottenham Hotspur so formidable away from home this season.
@@ -83,12 +67,28 @@ Martin Keown and Ashley Williams analyse what has made Tottenham Hotspur so form
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c09/live/bf630130-c7b5-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why it was always Arsenal for 'part-time barista' Saka]]></title>
+      <description><![CDATA[England winger Bukayo Saka sits down with Kelly Somers to talk about his love for Arsenal and living in his "coffee era".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c364gz4ekylo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c364gz4ekylo</guid>
+      <pubDate>Sat, 22 Nov 2025 06:06:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e26d/live/e6b60870-c4a6-11f0-b288-51552c83ad58.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Have we seen the last of Wales and ex-Arsenal star Ramsey?]]></title>
       <description><![CDATA[Wales captain Aaron Ramsey has no club and has not played for his country for 14 months, so where and what next for the ex-Arsenal midfielder?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj6n606dw56o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj6n606dw56o</guid>
       <pubDate>Sat, 22 Nov 2025 08:40:26 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dd4/live/737aecc0-c629-11f0-90df-d5791d4064ec.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Man Utd might offload Fernandes - Saturday's gossip]]></title>
+      <description><![CDATA[Manchester United might offload Bruno Fernandes to aid a summer rebuild, Barcelona are keen on Harry Kane, Real Madrid look at Angelo Stiller, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwyv3gv4wg2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyv3gv4wg2o</guid>
+      <pubDate>Fri, 21 Nov 2025 22:41:05 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6605/live/5a041950-c729-11f0-9fb5-5f3a3703a365.png"/>
     </item>
     <item>
       <title><![CDATA[Was Oxtoby's Northern Ireland tenure a success?]]></title>
@@ -131,6 +131,14 @@ Martin Keown and Ashley Williams analyse what has made Tottenham Hotspur so form
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ee/live/012f54f0-c65e-11f0-b709-3340c608d444.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Palmer fractures toe by stubbing it on door]]></title>
+      <description><![CDATA[Chelsea's Cole Palmer will be out for another week as he fractures his toe by stubbing it on a door at night.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c709388r0ero?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c709388r0ero</guid>
+      <pubDate>Fri, 21 Nov 2025 10:14:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/294a/live/952a98f0-c6c1-11f0-82b1-6148fee2770d.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[PL clubs close loophole allowing sale of assets to themselves]]></title>
       <description><![CDATA[Clubs will no longer be able to sell assets like hotels and women's teams to themselves from next season as the Premier League moves to a new system of Financial Fair Play.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgkeyj71m36o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -155,30 +163,6 @@ Martin Keown and Ashley Williams analyse what has made Tottenham Hotspur so form
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffc3/live/b27bcea0-c6f9-11f0-a863-434ee92aa5e3.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Palmer fractures toe by stubbing it on door]]></title>
-      <description><![CDATA[Chelsea's Cole Palmer will be out for another week as he fractures his toe by stubbing it on a door at night.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c709388r0ero?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c709388r0ero</guid>
-      <pubDate>Fri, 21 Nov 2025 10:14:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/294a/live/952a98f0-c6c1-11f0-82b1-6148fee2770d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Newcastle require Premier League reboot amid curious season']]></title>
-      <description><![CDATA[Newcastle United are going well in the Champions League and Carabao Cup but are two points above the relegation zone before in-form Manchester City visit Tyneside on Saturday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c33p3mdnxvlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c33p3mdnxvlo</guid>
-      <pubDate>Fri, 21 Nov 2025 11:48:39 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c41/live/36542430-c62c-11f0-90df-d5791d4064ec.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[We miss the player and the person - Slot on Jota]]></title>
-      <description><![CDATA[In the wake of Andy Robertson's emotional tribute to Diogo Jota, Liverpool boss Arne Slot says his side miss their former player on both a personal and professional level. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c80xernrv8yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80xernrv8yo</guid>
-      <pubDate>Fri, 21 Nov 2025 09:50:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec1b/live/3b6cb8c0-c6d5-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Crisis-hit Steel City rivals set for unique derby]]></title>
       <description><![CDATA[BBC Sport takes a look at some of the sub-plots as administration-hit Sheffield Wednesday host struggling rivals Sheffield United.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c9q18gn940lo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -193,22 +177,6 @@ Martin Keown and Ashley Williams analyse what has made Tottenham Hotspur so form
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c2084wyx1plo</guid>
       <pubDate>Fri, 21 Nov 2025 17:07:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/490f/live/6c726530-c6d7-11f0-8a66-8192c8aa9775.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Cardiff Met stun holders TNS in Welsh Cup]]></title>
-      <description><![CDATA[Cardiff Met score two late goals to knock holders The New Saints out of the JD Welsh Cup in the third round.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0r9w7xgj9zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0r9w7xgj9zo</guid>
-      <pubDate>Sat, 22 Nov 2025 16:50:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b6b/live/837db890-c724-11f0-9568-a1b5f5f5590d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Make Haaland captain all season? The FPL talking point]]></title>
-      <description><![CDATA[Manchester City striker Erling Haaland is in sensational form. So do you captain him every week in your fantasy football team? Our FPL experts give their views.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5y010dey21o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y010dey21o</guid>
-      <pubDate>Thu, 20 Nov 2025 11:03:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d71d/live/55e93540-c539-11f0-88be-3bc2aea1a256.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arsenal defender Gabriel out for weeks - Arteta]]></title>
