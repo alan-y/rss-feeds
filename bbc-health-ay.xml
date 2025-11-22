@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 22 Nov 2025 06:51:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 07:17:13 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[New puberty blockers trial to begin after UK ban]]></title>
+      <description><![CDATA[Those taking part in the study will be children under 16 who are going through puberty.]]></description>
+      <link>https://www.bbc.com/news/articles/c2k4jg0wkj4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2k4jg0wkj4o</guid>
+      <pubDate>Sat, 22 Nov 2025 00:05:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb7/live/f8ea21f0-c6fb-11f0-a863-434ee92aa5e3.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Lockdown could have been avoided - key findings from Covid inquiry]]></title>
       <description><![CDATA[The long-awaited report is published into how well or badly the government handled the Covid pandemic.]]></description>
@@ -223,14 +231,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2l8jldvjno</guid>
       <pubDate>Wed, 05 Nov 2025 16:56:09 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b9d/live/2dc97d40-b9a4-11f0-91b3-9fadee0808a6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Skip short strolls – a longer daily walk is better for your heart, says study ]]></title>
-      <description><![CDATA[Walking for at least 15 minutes without stopping is ideal, according to new research.]]></description>
-      <link>https://www.bbc.com/news/articles/cn0gw6p8dllo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0gw6p8dllo</guid>
-      <pubDate>Mon, 27 Oct 2025 22:49:22 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f988/live/54969b00-b3c9-11f0-bcfd-f33aa44e9a1a.jpg"/>
     </item>
     <item>
       <title><![CDATA[UK did 'too little, too late', leading to thousands more Covid deaths - inquiry]]></title>
