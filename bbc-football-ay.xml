@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 23 Nov 2025 11:28:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 11:45:47 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,14 +40,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efab/live/fbf6b510-c800-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
-      <title><![CDATA['We are used to it' - should Man City have been awarded a penalty?]]></title>
-      <description><![CDATA[Manchester City felt they were on the wrong end of some contentious decisions in their defeat by Newcastle - although Pep Guardiola said "everything is fine".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce8617ryprro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8617ryprro</guid>
-      <pubDate>Sat, 22 Nov 2025 21:26:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3a5/live/40f441b0-c800-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How Forest tactically exposed Liverpool]]></title>
       <description><![CDATA[BBC Sport looks at how Nottingham Forest exposed Liverpool's tactical flaws in their 3-0 win at Anfield.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cewjlwwx41zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -64,20 +56,28 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cc0/live/d0a77ff0-c85c-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Why it's time for women's FA Cup prize money to be same as men's']]></title>
+      <description><![CDATA[On women's FA Cup second-round weekend, Lewes FC director Ben Hall makes the case for equal prize money for women's and men's teams.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cnv2yqv5rzgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cnv2yqv5rzgo</guid>
+      <pubDate>Sun, 23 Nov 2025 07:38:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d148/live/586cd760-c640-11f0-9865-6d1a49d3261c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['We are used to it' - should Man City have been awarded a penalty?]]></title>
+      <description><![CDATA[Manchester City felt they were on the wrong end of some contentious decisions in their defeat by Newcastle - although Pep Guardiola said "everything is fine".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce8617ryprro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8617ryprro</guid>
+      <pubDate>Sat, 22 Nov 2025 21:26:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3a5/live/40f441b0-c800-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Welbeck and Wilson - might old guard make England World Cup squad?]]></title>
       <description><![CDATA[Callum Wilson and Danny Welbeck have drifted to the periphery of the international stage in recent years, but that might be about to change. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgmn73n97d8o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgmn73n97d8o</guid>
       <pubDate>Sat, 22 Nov 2025 21:01:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c4f/live/f46a6a80-c7dd-11f0-9fb5-5f3a3703a365.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Howe finally beats Guardiola - how Newcastle stopped Man City]]></title>
-      <description><![CDATA[After previously "trying everything", Newcastle manager Eddie Howe beats Pep Guardiola's Manchester City for the first time in the top flight at his 17th attempt.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cyvgpve22yjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyvgpve22yjo</guid>
-      <pubDate>Sat, 22 Nov 2025 22:42:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5171/live/6927db20-c7f5-11f0-975d-d5fa2587428e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why were Livingston denied 'clear, clear penalty' against Rangers?]]></title>
@@ -192,12 +192,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7168/live/a4a05dd0-c7fa-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Why it's time for women's FA Cup prize money to be same as men's']]></title>
-      <description><![CDATA[On women's FA Cup second-round weekend, Lewes FC director Ben Hall makes the case for equal prize money for women's and men's teams.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cnv2yqv5rzgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cnv2yqv5rzgo</guid>
-      <pubDate>Sun, 23 Nov 2025 07:38:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d148/live/586cd760-c640-11f0-9865-6d1a49d3261c.jpg"/>
+      <title><![CDATA[Howe finally beats Guardiola - how Newcastle stopped Man City]]></title>
+      <description><![CDATA[After previously "trying everything", Newcastle manager Eddie Howe beats Pep Guardiola's Manchester City for the first time in the top flight at his 17th attempt.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cyvgpve22yjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyvgpve22yjo</guid>
+      <pubDate>Sat, 22 Nov 2025 22:42:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5171/live/6927db20-c7f5-11f0-975d-d5fa2587428e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cunha misses Christmas lights switch-on after 'training accident']]></title>
@@ -214,14 +214,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpq4jg1w1w7o</guid>
       <pubDate>Sat, 22 Nov 2025 19:23:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccff/live/02af0610-c7dd-11f0-8536-b38891590191.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Crisis-hit Steel City rivals set for unique derby]]></title>
-      <description><![CDATA[BBC Sport takes a look at some of the sub-plots as administration-hit Sheffield Wednesday host struggling rivals Sheffield United.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9q18gn940lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9q18gn940lo</guid>
-      <pubDate>Fri, 21 Nov 2025 11:53:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c28a/live/13c74b10-c61b-11f0-9fb5-5f3a3703a365.png"/>
     </item>
     <item>
       <title><![CDATA[Why it was always Arsenal for 'part-time barista' Saka]]></title>
