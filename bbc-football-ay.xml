@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 20:22:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 20:47:33 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Everton's Gueye sent off for clash with team-mate Keane]]></title>
+      <description><![CDATA[Everton's Idrissa Gueye is sent off for clashing with team-mate Michael Keane during the Premier League match at Manchester United.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c33medd5np0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c33medd5np0o</guid>
+      <pubDate>Mon, 24 Nov 2025 20:38:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/debd/live/c8b8a9e0-c974-11f0-b0bf-e93d77fda88d.png"/>
+    </item>
     <item>
       <title><![CDATA[Celtic close to appointing Nancy as new manager]]></title>
       <description><![CDATA[Columbus Crew's Wilfried Nancy is close to being appointed Celtic manager, BBC Scotland has learned.]]></description>
@@ -86,14 +94,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd6xqd63dlxo</guid>
       <pubDate>Mon, 24 Nov 2025 12:00:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b4f/live/31361840-c92f-11f0-a6fa-73752061276d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Klopp's 'connector' - who is new Swansea boss Matos?]]></title>
-      <description><![CDATA[Inspired by Jose Mourinho, known as Jurgen Klopp's 'connector' at Liverpool, backed by Luka Modric, now Vitor Matos has the challenge of becoming his own man at Swansea City.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwyv99jnv7do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyv99jnv7do</guid>
-      <pubDate>Mon, 24 Nov 2025 19:43:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd16/live/189e4c80-c966-11f0-a954-5164ed24c3c2.jpg"/>
     </item>
     <item>
       <title><![CDATA[McAneny called up by Scotland women for first time]]></title>
@@ -184,12 +184,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb1c/live/8547eaf0-c8c9-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Arsenal 'dominated every part of the game' - Arteta]]></title>
-      <description><![CDATA[Arsenal manager Mikel Arteta praises Eberechi Eze's all-round play after a dominant performance from his side in the North London derby at The Emirates.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/ced6qx50j9no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ced6qx50j9no</guid>
-      <pubDate>Sun, 23 Nov 2025 19:38:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64b8/live/d5a2f560-c89e-11f0-9fb5-5f3a3703a365.jpg"/>
+      <title><![CDATA[Klopp's 'connector' - who is new Swansea boss Matos?]]></title>
+      <description><![CDATA[Inspired by Jose Mourinho, known as Jurgen Klopp's 'connector' at Liverpool, backed by Luka Modric, now Vitor Matos has the challenge of becoming his own man at Swansea City.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwyv99jnv7do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyv99jnv7do</guid>
+      <pubDate>Mon, 24 Nov 2025 19:43:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd16/live/189e4c80-c966-11f0-a954-5164ed24c3c2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Newcastle, PSG, Real Madrid... full kits and a London park]]></title>
@@ -224,20 +224,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/876b/live/4498a990-c969-11f0-a954-5164ed24c3c2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Are Hibs quietly building another good season?]]></title>
-      <description><![CDATA[BBC Scotland's Nick McPheat analyses the numbers behind Hibernian's promising Scottish Premiership form.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgjn433x890o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgjn433x890o</guid>
-      <pubDate>Mon, 24 Nov 2025 19:12:32 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcee/live/7e453820-c969-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Chelsea & Arsenal in for Murillo - Monday's gossip]]></title>
       <description><![CDATA[Chelsea and Arsenal in race for Murillo, Man Utd want to keep Murillo while trying to lure Antoine Semenyo, Ibrahima Konate holds off on new Liverpool contract and Federico Chiesa is primed for return to Italy. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0kdjzn0vr7o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kdjzn0vr7o</guid>
       <pubDate>Sun, 23 Nov 2025 23:28:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a274/live/1492af60-c8a2-11f0-9fb5-5f3a3703a365.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Are Hibs quietly building another good season?]]></title>
+      <description><![CDATA[BBC Scotland's Nick McPheat analyses the numbers behind Hibernian's promising Scottish Premiership form.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgjn433x890o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgjn433x890o</guid>
+      <pubDate>Mon, 24 Nov 2025 19:12:32 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcee/live/7e453820-c969-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why VAR offside images are not always what they seem]]></title>
@@ -312,12 +312,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d62/live/b97e9330-c8a3-11f0-8025-01becaf46f7d.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Real Madrid sorry for Jota and Andre Silva tribute error]]></title>
-      <description><![CDATA[Real Madrid apologise for a mistake in a video paying tribute to Diogo Jota and his brother Andre Silva.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgkvylyq7zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgkvylyq7zo</guid>
-      <pubDate>Sun, 23 Nov 2025 18:44:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a8/live/e4e4c460-c897-11f0-b3b1-a1146566cc79.jpg"/>
+      <title><![CDATA[Arsenal 'dominated every part of the game' - Arteta]]></title>
+      <description><![CDATA[Arsenal manager Mikel Arteta praises Eberechi Eze's all-round play after a dominant performance from his side in the North London derby at The Emirates.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/ced6qx50j9no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ced6qx50j9no</guid>
+      <pubDate>Sun, 23 Nov 2025 19:38:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64b8/live/d5a2f560-c89e-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Frank apologises to Spurs fans after 'extremely painful' defeat]]></title>
@@ -360,12 +360,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc18/live/c2e847b0-c702-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Watch Thistle beat Championship leaders Saints, plus League 1 & 2 action ]]></title>
-      <description><![CDATA[Watch the best of the action as Partick Thistle beat St Johnstone in the Scottish Championship battle of the top two, Inverness Caledonian Thistle march on at the top of League 1, while Stranraer stun League 2 leaders Spartans.]]></description>
-      <link>https://www.bbc.com/sport/videos/c773x0jlmmeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/videos/c773x0jlmmeo</guid>
-      <pubDate>Mon, 24 Nov 2025 08:01:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f67/live/161b6510-c90c-11f0-8c06-f5d460985095.png"/>
+      <title><![CDATA[Real Madrid sorry for Jota and Andre Silva tribute error]]></title>
+      <description><![CDATA[Real Madrid apologise for a mistake in a video paying tribute to Diogo Jota and his brother Andre Silva.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgkvylyq7zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgkvylyq7zo</guid>
+      <pubDate>Sun, 23 Nov 2025 18:44:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a8/live/e4e4c460-c897-11f0-b3b1-a1146566cc79.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sheff Utd can decide direction of season - Wilder]]></title>
@@ -390,14 +390,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g9l1gldxdo</guid>
       <pubDate>Mon, 24 Nov 2025 11:30:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88b5/live/9c7c8880-c927-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why were Livingston denied 'clear, clear penalty' against Rangers?]]></title>
-      <description><![CDATA[Livingston manager David Martindale questions why his side were denied "a clear, clear penalty" in their defeat by Rangers at Ibrox.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g4ln4p1nwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g4ln4p1nwo</guid>
-      <pubDate>Sat, 22 Nov 2025 20:31:28 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bb6/live/83ce86b0-c7df-11f0-8536-b38891590191.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Forest tactically exposed Liverpool]]></title>
