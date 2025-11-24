@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 09:25:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 09:50:54 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -56,6 +56,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79d7/live/b7340cf0-c5f0-11f0-9f1e-75cdd6519717.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Catherine calls for end to 'stigma' around addiction]]></title>
+      <description><![CDATA[The message from the Princess of Wales comes on Addiction Awareness Week.]]></description>
+      <link>https://www.bbc.com/news/articles/c8e9l1p42z8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8e9l1p42z8o</guid>
+      <pubDate>Mon, 24 Nov 2025 01:35:26 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d8d/live/7d357fd0-c8fb-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Biggest prostate cancer screening trial in decades begins in UK]]></title>
       <description><![CDATA[The study aims to find the best way to detect prostate cancer - the most common cancer in men in the UK. 
 ]]></description>
@@ -65,12 +73,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7430/live/1f791d40-c65b-11f0-b709-3340c608d444.jpg"/>
     </item>
     <item>
-      <title><![CDATA[The private notes and secret documents that tell the inside story of the UK's Covid response]]></title>
-      <description><![CDATA[The Covid inquiry is set to publish its second set of findings looking in detail at the huge political decisions that had to be made in 2020.]]></description>
-      <link>https://www.bbc.com/news/articles/c78zy20ydlmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c78zy20ydlmo</guid>
-      <pubDate>Thu, 20 Nov 2025 00:12:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5f9/live/a3666560-c514-11f0-b288-51552c83ad58.png"/>
+      <title><![CDATA[What are the symptoms of prostate cancer and what should you check for?]]></title>
+      <description><![CDATA[One in eight men will be diagnosed with prostate cancer in their lifetime.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2plvp341jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2plvp341jo</guid>
+      <pubDate>Mon, 24 Nov 2025 09:27:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4f7/live/8f655c10-b3c1-11f0-9834-bd5e89cd5975.png"/>
     </item>
     <item>
       <title><![CDATA[Trans people could be barred from services based on appearance]]></title>
@@ -225,12 +233,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c33/live/26185cc0-b8a9-11f0-9418-d155a3381a50.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Vapers overtake smokers for first time in Britain]]></title>
-      <description><![CDATA[Some 5.4 million adults use vapes daily or occasionally compared with 4.9 million using cigarettes, figures show.]]></description>
-      <link>https://www.bbc.com/news/articles/ceq0z9e2wwwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ceq0z9e2wwwo</guid>
-      <pubDate>Tue, 04 Nov 2025 13:15:17 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a4/live/513f7a50-b967-11f0-8ece-6904e2149bdb.jpg"/>
+      <title><![CDATA[Furlough and business loans on the agenda for Covid Inquiry]]></title>
+      <description><![CDATA[The inquiry will look at how support schemes were designed and what was done to minimise fraud and waste.]]></description>
+      <link>https://www.bbc.com/news/articles/cwyp4g95re4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyp4g95re4o</guid>
+      <pubDate>Mon, 24 Nov 2025 00:05:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54c0/live/199f3aa0-c8ca-11f0-b29c-6526afa5ace5.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[The private notes and secret documents that tell the inside story of the UK's Covid response]]></title>
+      <description><![CDATA[The Covid inquiry is set to publish its second set of findings looking in detail at the huge political decisions that had to be made in 2020.]]></description>
+      <link>https://www.bbc.com/news/articles/c78zy20ydlmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c78zy20ydlmo</guid>
+      <pubDate>Thu, 20 Nov 2025 00:12:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5f9/live/a3666560-c514-11f0-b288-51552c83ad58.png"/>
     </item>
     <item>
       <title><![CDATA[UK did 'too little, too late', leading to thousands more Covid deaths - inquiry]]></title>
@@ -361,22 +377,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06ac/live/4d27bb40-9216-11ef-89ae-5575c76d98e6.png"/>
     </item>
     <item>
-      <title><![CDATA[Covid inquiry told of trust do-not-resuscitate rule]]></title>
-      <description><![CDATA[Patients' families were “horrified but not surprised” when told the blanket policy had been in place.]]></description>
-      <link>https://www.bbc.com/news/articles/cd98vpxgp7ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cd98vpxgp7ko</guid>
-      <pubDate>Thu, 10 Oct 2024 16:54:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d67/live/090a1260-8716-11ef-a3e8-b9f29f911fa2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[We were not treated as parents, Covid inquiry told]]></title>
-      <description><![CDATA[Mum of premature twins says rigid restrictions on birthing wards during Covid were traumatic.  ]]></description>
-      <link>https://www.bbc.com/news/articles/c70z1ppyv5eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c70z1ppyv5eo</guid>
-      <pubDate>Mon, 07 Oct 2024 14:11:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a311/live/472652f0-84ac-11ef-83dd-fbf1b9732cf0.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How do cold weather health alerts work?]]></title>
       <description><![CDATA[The weather alert service warns the public when high or low temperatures could damage their health.]]></description>
       <link>https://www.bbc.com/news/articles/cd97dkx9g38o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -479,14 +479,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0rpq9y2gq0o</guid>
       <pubDate>Fri, 24 Oct 2025 05:16:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/392b/live/0e14e0d0-ae63-11f0-bf6e-0db822206ec2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Prostate cancer symptoms and treatment: What to check for]]></title>
-      <description><![CDATA[One in eight men will be diagnosed with prostate cancer in their lifetime.]]></description>
-      <link>https://www.bbc.com/news/articles/cx2plvp341jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2plvp341jo</guid>
-      <pubDate>Tue, 14 Oct 2025 08:42:25 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2357/live/e7e95930-a8d7-11f0-a522-95977dce8b09.jpg"/>
     </item>
     <item>
       <title><![CDATA[A facelift at 28? Why young people are turning to plastic surgery]]></title>
