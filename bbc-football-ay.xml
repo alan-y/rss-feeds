@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 10:52:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 11:17:15 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -24,12 +24,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a49/live/eea6bc00-c8ac-11f0-869f-c752d258ed96.jpg"/>
     </item>
     <item>
-      <title><![CDATA[A 'special day' for Eze - but can anyone challenge Arsenal for title?]]></title>
-      <description><![CDATA[After Eberechi Eze's hat-trick helps Arsenal to a 4-1 win against Tottenham, BBC Sport takes a closer look at the Gunners' title challenge.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c62vg71w37go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62vg71w37go</guid>
-      <pubDate>Sun, 23 Nov 2025 20:16:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c517/live/1b2313f0-c8a8-11f0-a892-01d657345866.jpg"/>
+      <title><![CDATA['Why things will never be same again for super-talented Eze']]></title>
+      <description><![CDATA[MOTD pundit Danny Murphy explains why Eberechi Eze will be walking on air for a few days after his hat-trick for Arsenal against Tottenham - and things will be different further ahead too.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqxqr2v3q7po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxqr2v3q7po</guid>
+      <pubDate>Sun, 23 Nov 2025 23:32:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aa7/live/c3e86390-c8b8-11f0-a892-01d657345866.png"/>
     </item>
     <item>
       <title><![CDATA[Newcastle, PSG, Real Madrid... full kits and a London park]]></title>
@@ -54,14 +54,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8659v4p4g4o</guid>
       <pubDate>Sun, 23 Nov 2025 22:47:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a70/live/c823bbf0-c8bb-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Why things will never be same again for super-talented Eze']]></title>
-      <description><![CDATA[MOTD pundit Danny Murphy explains why Eberechi Eze will be walking on air for a few days after his hat-trick for Arsenal against Tottenham - and things will be different further ahead too.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqxqr2v3q7po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxqr2v3q7po</guid>
-      <pubDate>Sun, 23 Nov 2025 23:32:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aa7/live/c3e86390-c8b8-11f0-a892-01d657345866.png"/>
     </item>
     <item>
       <title><![CDATA[Chelsea & Arsenal in for Murillo - Monday's gossip]]></title>
@@ -192,6 +184,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d107/live/851d2e10-c8a0-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
+      <title><![CDATA[A 'special day' for Eze - but can anyone challenge Arsenal for title?]]></title>
+      <description><![CDATA[After Eberechi Eze's hat-trick helps Arsenal to a 4-1 win against Tottenham, BBC Sport takes a closer look at the Gunners' title challenge.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c62vg71w37go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62vg71w37go</guid>
+      <pubDate>Sun, 23 Nov 2025 20:16:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c517/live/1b2313f0-c8a8-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Man Utd come first, Amorim tells Mainoo & Zirkzee]]></title>
       <description><![CDATA[Man Utd head coach Ruben Amorim says he will consider the club's needs first when deciding if Kobbie Mainoo and Joshua Zirkzee can leave in January.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c93wp9lw4l0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -216,20 +216,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db2/live/f4c77500-c895-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sheff Utd can decide direction of season - Wilder]]></title>
-      <description><![CDATA[Sheffield United boss Chris Wilder says it is up to his side what they do with their season after cruising to victory in the Steel City derby.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4ge5zj8y8wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4ge5zj8y8wo</guid>
-      <pubDate>Sun, 23 Nov 2025 17:29:40 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/722e/live/50344840-c883-11f0-bd12-71741f879d80.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Real Madrid sorry for Jota and Andre Silva tribute error]]></title>
       <description><![CDATA[Real Madrid apologise for a mistake in a video paying tribute to Diogo Jota and his brother Andre Silva.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ckgkvylyq7zo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgkvylyq7zo</guid>
       <pubDate>Sun, 23 Nov 2025 18:44:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a8/live/e4e4c460-c897-11f0-b3b1-a1146566cc79.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sheff Utd can decide direction of season - Wilder]]></title>
+      <description><![CDATA[Sheffield United boss Chris Wilder says it is up to his side what they do with their season after cruising to victory in the Steel City derby.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4ge5zj8y8wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4ge5zj8y8wo</guid>
+      <pubDate>Sun, 23 Nov 2025 17:29:40 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/722e/live/50344840-c883-11f0-bd12-71741f879d80.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Arsenal and Tottenham players rated]]></title>
