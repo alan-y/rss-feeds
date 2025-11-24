@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 17:39:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 17:50:46 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Nancy close to being appointed Celtic manager]]></title>
+      <description><![CDATA[Wilfried Nancy is close to being appointed Celtic manager, BBC Scotland has learned.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgmnvgw3mn7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgmnvgw3mn7o</guid>
+      <pubDate>Mon, 24 Nov 2025 17:30:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"/>
+    </item>
     <item>
       <title><![CDATA[Guardiola 'embarrassed and ashamed' of behaviour]]></title>
       <description><![CDATA[Pep Guardiola says he is sorry for confronting a cameraman following Manchester City's Premier League defeat at Newcastle on Saturday.]]></description>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clydjlne7n5o</guid>
       <pubDate>Mon, 24 Nov 2025 16:38:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8d8/live/735d7aa0-c953-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Swansea appoint ex-Liverpool coach Matos as manager]]></title>
-      <description><![CDATA[Swansea City appoint former Maritimo boss Vitor Matos as their new head coach two weeks after sacking Alan Sheehan.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clykvrp2nwpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clykvrp2nwpo</guid>
-      <pubDate>Mon, 24 Nov 2025 13:04:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7044/live/ba44ca20-c937-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Eze hits hat-trick as Arsenal thrash Tottenham ]]></title>
@@ -200,20 +200,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64b8/live/d5a2f560-c89e-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Swansea appoint ex-Liverpool coach Matos as manager]]></title>
+      <description><![CDATA[Swansea City appoint former Maritimo boss Vitor Matos as their new head coach two weeks after sacking Alan Sheehan.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clykvrp2nwpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clykvrp2nwpo</guid>
+      <pubDate>Mon, 24 Nov 2025 13:04:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7044/live/ba44ca20-c937-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Rogers 'only getting better' - will he win England battle?]]></title>
       <description><![CDATA[After his double against Leeds, can Morgan Rogers win the battle for England's number 10 role over Jude Bellingham, Phil Foden and Cole Palmer?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cpwk5118v9vo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwk5118v9vo</guid>
       <pubDate>Sun, 23 Nov 2025 19:26:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e71/live/2f8c8fc0-c8a7-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Watch Ronaldo score stunning overhead kick]]></title>
-      <description><![CDATA[Cristiano Ronaldo, 40, rolls back the years with a stunning overhead kick in Al-Nassr's 4-1 win over Al-Khaleej in the Saudi Pro League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8659v4p4g4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8659v4p4g4o</guid>
-      <pubDate>Sun, 23 Nov 2025 22:47:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a70/live/c823bbf0-c8bb-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why VAR offside images are not always what they seem]]></title>
@@ -240,6 +240,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c517/live/1b2313f0-c8a8-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Watch Ronaldo score stunning overhead kick]]></title>
+      <description><![CDATA[Cristiano Ronaldo, 40, rolls back the years with a stunning overhead kick in Al-Nassr's 4-1 win over Al-Khaleej in the Saudi Pro League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8659v4p4g4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8659v4p4g4o</guid>
+      <pubDate>Sun, 23 Nov 2025 22:47:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a70/live/c823bbf0-c8bb-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Dyslexia helped me as a professional footballer - Lescott]]></title>
       <description><![CDATA[Ex-England and Wolves player Joleon Lescott recalls his experiences as a charity launches a course.]]></description>
       <link>https://www.bbc.com/news/articles/cvg8lg6nex8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -248,20 +256,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8443/live/e25836c0-c93f-11f0-a414-099360380435.jpg"/>
     </item>
     <item>
-      <title><![CDATA[No panic from McInnes, but is Hearts' form a worry?]]></title>
-      <description><![CDATA[After Hearts lose in the Scottish Premiership for the first time this season, should the league leaders be concerned about their recent wobble?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgkvy2g9elo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgkvy2g9elo</guid>
-      <pubDate>Sun, 23 Nov 2025 20:34:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/549d/live/0ae4b950-c8ab-11f0-869f-c752d258ed96.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Leeds fans divided - but Farke defiant as pressure mounts]]></title>
       <description><![CDATA[If Daniel Farke is heading towards the exit door as Leeds manager, he is determined to go down swinging and on his own terms.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ckgkv2k0jyvo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgkv2k0jyvo</guid>
       <pubDate>Sun, 23 Nov 2025 19:41:32 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db2/live/f4c77500-c895-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[No panic from McInnes, but is Hearts' form a worry?]]></title>
+      <description><![CDATA[After Hearts lose in the Scottish Premiership for the first time this season, should the league leaders be concerned about their recent wobble?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgkvy2g9elo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgkvy2g9elo</guid>
+      <pubDate>Sun, 23 Nov 2025 20:34:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/549d/live/0ae4b950-c8ab-11f0-869f-c752d258ed96.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man Utd come first, Amorim tells Mainoo & Zirkzee]]></title>
@@ -286,14 +294,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgkvylyq7zo</guid>
       <pubDate>Sun, 23 Nov 2025 18:44:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a8/live/e4e4c460-c897-11f0-b3b1-a1146566cc79.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why is Crystal Palace v Man Utd at noon on Sunday?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team explains why Manchester United's trip to Selhurst Park has an unusual kick-off time]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g9l1gldxdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g9l1gldxdo</guid>
-      <pubDate>Mon, 24 Nov 2025 11:30:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88b5/live/9c7c8880-c927-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Frank apologises to Spurs fans after 'extremely painful' defeat]]></title>
@@ -366,6 +366,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cnv2yqv5rzgo</guid>
       <pubDate>Sun, 23 Nov 2025 07:38:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d148/live/586cd760-c640-11f0-9865-6d1a49d3261c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Why is Crystal Palace v Man Utd at noon on Sunday?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team explains why Manchester United's trip to Selhurst Park has an unusual kick-off time]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g9l1gldxdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g9l1gldxdo</guid>
+      <pubDate>Mon, 24 Nov 2025 11:30:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88b5/live/9c7c8880-c927-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[O'Neill calls for Celtic 'unification' - but is fan unrest affecting team?]]></title>
@@ -488,28 +496,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4813/live/6e8a9950-be30-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Nancy close to being appointed Celtic manager]]></title>
-      <description><![CDATA[Wilfred Nancy is close to being appointed Celtic manager, BBC Scotland has learned.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgmnvgw3mn7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgmnvgw3mn7o</guid>
-      <pubDate>Mon, 24 Nov 2025 17:30:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"/>
-    </item>
-    <item>
       <title><![CDATA['Nancy poised for December start with Celtic' - gossip]]></title>
       <description><![CDATA[Wilfried Nancy is reportedly closer to joining Celtic from Columbus Crew as manager, while Kilmarnock are said to be willing to listen to offers for Rangers target David Watson.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cq604d5nnz1o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq604d5nnz1o</guid>
       <pubDate>Mon, 24 Nov 2025 07:34:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac30/live/d09640a0-c906-11f0-9fb5-5f3a3703a365.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Hearts 'elephant' about to fall off tree? - fan reactions]]></title>
-      <description><![CDATA[Fan reactions after a weekend of Scottish Premiership reaction as leaders Heart of Midlothian are beaten as Celtic, Hibernian and Rangers win.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cr5z4ymmgjjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr5z4ymmgjjo</guid>
-      <pubDate>Mon, 24 Nov 2025 13:23:33 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/740f/live/1d7bce90-c938-11f0-8155-751e4c4b2e4e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Drenthe's manager confident of 'successful recovery' from stroke]]></title>
