@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 19:45:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 20:22:19 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,6 +48,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7142/live/000aed30-c953-11f0-97cf-5bf03e31d3e5.png"/>
     </item>
     <item>
+      <title><![CDATA[Barcelona respond to Boateng visit backlash]]></title>
+      <description><![CDATA[Barcelona say they are "fully committed to combating gender-based violence" after criticism for a visit to the club by Jerome Boateng.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cq8dxln83zjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq8dxln83zjo</guid>
+      <pubDate>Mon, 24 Nov 2025 20:03:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56d3/live/20fb5530-c934-11f0-8155-751e4c4b2e4e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['McBarnes has a ring to it' - do Scotland need Newcastle winger?]]></title>
       <description><![CDATA[BBC Scotland examines the possibility of Newcastle winger Harvey Barnes becoming part of the Scotland squad.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c898lzdw2xeo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -80,20 +88,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b4f/live/31361840-c92f-11f0-a6fa-73752061276d.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Premier League clubs urged to freeze ticket prices]]></title>
-      <description><![CDATA[More than 100 fan groups urge Premier League clubs to freeze home ticket prices for the next two seasons.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgjn7vd2xqno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgjn7vd2xqno</guid>
-      <pubDate>Mon, 24 Nov 2025 16:10:03 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7860/live/a65f5b50-c94c-11f0-abcf-97df5562f205.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Newcastle, PSG, Real Madrid... full kits and a London park]]></title>
-      <description><![CDATA[They are representing some of Europe's top clubs in full kits on a park in central London, where the real winners are friendship, identity and belonging.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9wv9vyww94o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9wv9vyww94o</guid>
-      <pubDate>Mon, 24 Nov 2025 07:20:54 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd08/live/42a41dd0-c48d-11f0-90ea-63f1b96da933.jpg"/>
+      <title><![CDATA[Klopp's 'connector' - who is new Swansea boss Matos?]]></title>
+      <description><![CDATA[Inspired by Jose Mourinho, known as Jurgen Klopp's 'connector' at Liverpool, backed by Luka Modric, now Vitor Matos has the challenge of becoming his own man at Swansea City.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwyv99jnv7do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyv99jnv7do</guid>
+      <pubDate>Mon, 24 Nov 2025 19:43:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd16/live/189e4c80-c966-11f0-a954-5164ed24c3c2.jpg"/>
     </item>
     <item>
       <title><![CDATA[McAneny called up by Scotland women for first time]]></title>
@@ -192,6 +192,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64b8/live/d5a2f560-c89e-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Newcastle, PSG, Real Madrid... full kits and a London park]]></title>
+      <description><![CDATA[They are representing some of Europe's top clubs in full kits on a park in central London, where the real winners are friendship, identity and belonging.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9wv9vyww94o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9wv9vyww94o</guid>
+      <pubDate>Mon, 24 Nov 2025 07:20:54 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd08/live/42a41dd0-c48d-11f0-90ea-63f1b96da933.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Premier League clubs urged to freeze ticket prices]]></title>
+      <description><![CDATA[More than 100 fan groups urge Premier League clubs to freeze home ticket prices for the next two seasons.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgjn7vd2xqno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgjn7vd2xqno</guid>
+      <pubDate>Mon, 24 Nov 2025 19:48:24 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7860/live/a65f5b50-c94c-11f0-abcf-97df5562f205.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Why things will never be same again for super-talented Eze']]></title>
       <description><![CDATA[MOTD pundit Danny Murphy explains why Eberechi Eze will be walking on air for a few days after his hat-trick for Arsenal against Tottenham - and things will be different further ahead too.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cqxqr2v3q7po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -206,14 +222,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g31r25xl5o</guid>
       <pubDate>Mon, 24 Nov 2025 13:04:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/876b/live/4498a990-c969-11f0-a954-5164ed24c3c2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Swansea appoint ex-Liverpool coach Matos as manager]]></title>
-      <description><![CDATA[Swansea City appoint former Maritimo boss Vitor Matos as their new head coach two weeks after sacking Alan Sheehan.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clykvrp2nwpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clykvrp2nwpo</guid>
-      <pubDate>Mon, 24 Nov 2025 13:04:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7044/live/ba44ca20-c937-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Are Hibs quietly building another good season?]]></title>
@@ -240,6 +248,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed58/live/067c8150-c968-11f0-a954-5164ed24c3c2.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Swansea appoint ex-Liverpool coach Matos as manager]]></title>
+      <description><![CDATA[Swansea City appoint former Maritimo boss Vitor Matos as their new head coach two weeks after sacking Alan Sheehan.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clykvrp2nwpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clykvrp2nwpo</guid>
+      <pubDate>Mon, 24 Nov 2025 13:04:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7044/live/ba44ca20-c937-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Rogers 'only getting better' - will he win England battle?]]></title>
       <description><![CDATA[After his double against Leeds, can Morgan Rogers win the battle for England's number 10 role over Jude Bellingham, Phil Foden and Cole Palmer?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cpwk5118v9vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -256,14 +272,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c517/live/1b2313f0-c8a8-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Watch Ronaldo score stunning overhead kick]]></title>
-      <description><![CDATA[Cristiano Ronaldo, 40, rolls back the years with a stunning overhead kick in Al-Nassr's 4-1 win over Al-Khaleej in the Saudi Pro League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8659v4p4g4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8659v4p4g4o</guid>
-      <pubDate>Sun, 23 Nov 2025 22:47:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a70/live/c823bbf0-c8bb-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Dyslexia helped me as a professional footballer - Lescott]]></title>
       <description><![CDATA[Ex-England and Wolves player Joleon Lescott recalls his experiences as a charity launches a course.]]></description>
       <link>https://www.bbc.com/news/articles/cvg8lg6nex8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -278,6 +286,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgkv2k0jyvo</guid>
       <pubDate>Sun, 23 Nov 2025 19:41:32 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db2/live/f4c77500-c895-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Watch Ronaldo score stunning overhead kick]]></title>
+      <description><![CDATA[Cristiano Ronaldo, 40, rolls back the years with a stunning overhead kick in Al-Nassr's 4-1 win over Al-Khaleej in the Saudi Pro League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8659v4p4g4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8659v4p4g4o</guid>
+      <pubDate>Sun, 23 Nov 2025 22:47:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a70/live/c823bbf0-c8bb-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[No panic from McInnes, but is Hearts' form a worry?]]></title>
@@ -374,14 +390,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g9l1gldxdo</guid>
       <pubDate>Mon, 24 Nov 2025 11:30:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88b5/live/9c7c8880-c927-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[O'Neill calls for Celtic 'unification' - but is fan unrest affecting team?]]></title>
-      <description><![CDATA[Interim manager Martin O'Neill says Celtic need "some sort of unification", after fans once again called for changes in the way the club is run during their win at St Mirren.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yjww095lko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yjww095lko</guid>
-      <pubDate>Sun, 23 Nov 2025 00:53:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efab/live/fbf6b510-c800-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why were Livingston denied 'clear, clear penalty' against Rangers?]]></title>
@@ -504,6 +512,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac30/live/d09640a0-c906-11f0-9fb5-5f3a3703a365.png"/>
     </item>
     <item>
+      <title><![CDATA[Watch live Bundesliga games on Friday nights on the BBC]]></title>
+      <description><![CDATA[BBC Sport announce broadcasting rights for Bundesliga matches for the 2025-26 and 2026-27 seasons. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g7nwk88dko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g7nwk88dko</guid>
+      <pubDate>Tue, 18 Nov 2025 17:08:44 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9cc/live/f79a7270-7da7-11f0-a34f-318be3fb0481.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Drenthe's manager confident of 'successful recovery' from stroke]]></title>
       <description><![CDATA[Royston Drenthe's manager remains confident the former Real Madrid and Everton winger will make "a successful recovery" after his stroke.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdeg0n8npeeo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -550,14 +566,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2edm5j923o</guid>
       <pubDate>Wed, 12 Nov 2025 12:56:40 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7b3/live/66207fb0-bfbf-11f0-8db2-d92fbd46f955.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Mainz lose court appeal over El Ghazi wrongful dismissal]]></title>
-      <description><![CDATA[German club Mainz have lost a court appeal for wrongful dismissal by Dutch winger Anwar El Ghazi over social media posts regarding the Israel-Gaza conflict.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp8e7nvyq10o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8e7nvyq10o</guid>
-      <pubDate>Wed, 12 Nov 2025 16:25:09 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed6e/live/30c5fc70-bfdb-11f0-bbea-2df62eb90585.jpg"/>
     </item>
     <item>
       <title><![CDATA[Was Oxtoby's Northern Ireland tenure a success?]]></title>
