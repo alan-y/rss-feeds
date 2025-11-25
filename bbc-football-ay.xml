@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 14:43:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 15:21:31 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -240,20 +240,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a49/live/eea6bc00-c8ac-11f0-869f-c752d258ed96.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Manager Imrie leaves Morton for Raith Rovers]]></title>
+      <description><![CDATA[Dougie Imrie is appointed Raith Rovers manager on a two-and-a-half year contract after leaving Greenock Morton.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy8j7p9n9xxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8j7p9n9xxo</guid>
+      <pubDate>Tue, 25 Nov 2025 14:38:59 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea24/live/772332f0-ca08-11f0-88a5-11238e952b75.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Barcelona respond to Boateng visit backlash]]></title>
       <description><![CDATA[Barcelona say they are "fully committed to combating gender-based violence" after criticism for a visit to the club by Jerome Boateng.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cq8dxln83zjo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq8dxln83zjo</guid>
       <pubDate>Mon, 24 Nov 2025 20:03:43 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56d3/live/20fb5530-c934-11f0-8155-751e4c4b2e4e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Newcastle, PSG, Real Madrid... full kits and a London park]]></title>
-      <description><![CDATA[They are representing some of Europe's top clubs in full kits on a park in central London, where the real winners are friendship, identity and belonging.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9wv9vyww94o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9wv9vyww94o</guid>
-      <pubDate>Mon, 24 Nov 2025 07:20:54 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd08/live/42a41dd0-c48d-11f0-90ea-63f1b96da933.jpg"/>
     </item>
     <item>
       <title><![CDATA[MPs want answers on Villa-Maccabi game intelligence]]></title>
@@ -288,12 +288,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c72/live/c3af9b80-c914-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
-      <title><![CDATA[McAneny called up by Scotland women for first time]]></title>
-      <description><![CDATA[Celtic midfielder Maria McAneny has been called up by Scotland women for the first time for the friendly matches with Ukraine and China.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clydjlne7n5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clydjlne7n5o</guid>
-      <pubDate>Mon, 24 Nov 2025 16:38:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8d8/live/735d7aa0-c953-11f0-a892-01d657345866.jpg"/>
+      <title><![CDATA[Newcastle, PSG, Real Madrid... full kits and a London park]]></title>
+      <description><![CDATA[They are representing some of Europe's top clubs in full kits on a park in central London, where the real winners are friendship, identity and belonging.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9wv9vyww94o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9wv9vyww94o</guid>
+      <pubDate>Mon, 24 Nov 2025 07:20:54 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd08/live/42a41dd0-c48d-11f0-90ea-63f1b96da933.jpg"/>
     </item>
     <item>
       <title><![CDATA[What is going on with offside, and can it be fixed?]]></title>
@@ -416,6 +416,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcee/live/7e453820-c969-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
+      <title><![CDATA[McAneny called up by Scotland women for first time]]></title>
+      <description><![CDATA[Celtic midfielder Maria McAneny has been called up by Scotland women for the first time for the friendly matches with Ukraine and China.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clydjlne7n5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clydjlne7n5o</guid>
+      <pubDate>Mon, 24 Nov 2025 16:38:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8d8/live/735d7aa0-c953-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Why is Crystal Palace v Man Utd at noon on Sunday?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team explains why Manchester United's trip to Selhurst Park has an unusual kick-off time]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g9l1gldxdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -430,14 +438,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crl989jyz6go</guid>
       <pubDate>Sun, 23 Nov 2025 20:09:39 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d62/live/b97e9330-c8a3-11f0-8025-01becaf46f7d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Real Madrid sorry for Jota and Andre Silva tribute error]]></title>
-      <description><![CDATA[Real Madrid apologise for a mistake in a video paying tribute to Diogo Jota and his brother Andre Silva.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgkvylyq7zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgkvylyq7zo</guid>
-      <pubDate>Sun, 23 Nov 2025 18:44:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a8/live/e4e4c460-c897-11f0-b3b1-a1146566cc79.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Forest tactically exposed Liverpool]]></title>
@@ -560,14 +560,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de9c/live/81daf580-c9cb-11f0-8c06-f5d460985095.png"/>
     </item>
     <item>
-      <title><![CDATA[Manager Imrie leaves Morton for Raith Rovers]]></title>
-      <description><![CDATA[Dougie Imrie is appointed Raith Rovers manager on a two-and-a-half year contract after leaving Greenock Morton.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy8j7p9n9xxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8j7p9n9xxo</guid>
-      <pubDate>Tue, 25 Nov 2025 14:38:59 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea24/live/772332f0-ca08-11f0-88a5-11238e952b75.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Watch live Bundesliga games on Friday nights on the BBC]]></title>
       <description><![CDATA[BBC Sport announce broadcasting rights for Bundesliga matches for the 2025-26 and 2026-27 seasons. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g7nwk88dko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -616,6 +608,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58a/live/6a269bc0-bbe7-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Women's sport governing bodies and leagues call for tax relief]]></title>
+      <description><![CDATA[Governing bodies and leagues call on the government to introduce tax relief for the live broadcast production of women's sports.]]></description>
+      <link>https://www.bbc.com/sport/articles/cg4nlnrqw97o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cg4nlnrqw97o</guid>
+      <pubDate>Tue, 25 Nov 2025 14:33:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c660/live/faf24b90-c9fc-11f0-b3d5-a53e36530b68.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Was Oxtoby's Northern Ireland tenure a success?]]></title>
       <description><![CDATA[After it was announced she would leave Northern Ireland to join Newcastle United, was Tanya Oxtoby's tenure as manager a success?]]></description>
       <link>https://www.bbc.com/sport/football/articles/czdr9g3y9q8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -630,22 +630,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c89198ng4qeo</guid>
       <pubDate>Sat, 22 Nov 2025 11:17:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06a1/live/cf77aa20-c5f9-11f0-9c13-f920cfeeae8d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Morocco's AS FAR claim second African Women's Champions League title]]></title>
-      <description><![CDATA[AS FAR beat debutants ASEC Mimosas 2-1 in the African Women's Champions League final to become continental champions for the second time.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn0k2gdz2j1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0k2gdz2j1o</guid>
-      <pubDate>Fri, 21 Nov 2025 19:10:36 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9564/live/3c11b0e0-c70d-11f0-bf54-19350076d666.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd progress in Champions League - what do Arsenal and Chelsea need?]]></title>
-      <description><![CDATA[BBC Sport assesses how Arsenal, Chelsea and Man Utd have fared so far in this season's Women's Champions League with two league phase rounds remaining.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgmxme0km8no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgmxme0km8no</guid>
-      <pubDate>Fri, 21 Nov 2025 00:00:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/cba15de0-c632-11f0-a892-01d657345866.png"/>
     </item>
     <item>
       <title><![CDATA[The great number nine decline - where have England's strikers gone?]]></title>
