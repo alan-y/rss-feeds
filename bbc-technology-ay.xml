@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 08:27:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 08:56:32 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Scammers hacked her phone and stole thousands - so how did they get her details?]]></title>
+      <description><![CDATA[Sue Shore told the BBC how scammers targeted her - and we found her information had been leaked online.]]></description>
+      <link>https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/czrk7gxk2l6o</guid>
+      <pubDate>Tue, 25 Nov 2025 04:58:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9acc/live/a3e62480-c979-11f0-8c06-f5d460985095.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Vinted blocks 'sickening' sexually explicit ads ]]></title>
       <description><![CDATA[The online marketplace removed adverts which included a video a user said depicted a pornographic scene.]]></description>
@@ -48,14 +56,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63b5/live/7adb6b90-c67c-11f0-82c9-67e583f6a4cd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Deepfake 'nudify' site fined £55,000 over lack of age checks]]></title>
-      <description><![CDATA[The regulator said it had also opened new investigations into 20 porn sites over suspected online safety breaches.]]></description>
-      <link>https://www.bbc.com/news/articles/c0qpq5q9712o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0qpq5q9712o</guid>
-      <pubDate>Thu, 20 Nov 2025 13:19:23 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18da/live/8d930300-c60a-11f0-bac6-252b1f2b7e52.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why an AI 'godfather' is quitting Meta after 12 years]]></title>
       <description><![CDATA[One of the pioneers in the current AI boom, he has had disagreements with fellow engineers over the future of the technology.]]></description>
       <link>https://www.bbc.com/news/articles/cdx4x47w8p1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -64,12 +64,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b570/live/61bfd7a0-c5f4-11f0-8275-6b544dcaa724.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Nvidia shares rise after strong results ease 'AI bubble' concerns]]></title>
-      <description><![CDATA[The chip maker says revenue for the three months to October jumped 62% to $57bn.]]></description>
-      <link>https://www.bbc.com/news/articles/cly4y2enywro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly4y2enywro</guid>
-      <pubDate>Thu, 20 Nov 2025 08:23:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e478/live/e29448b0-c5fa-11f0-a892-01d657345866.jpg"/>
+      <title><![CDATA[Deepfake 'nudify' site fined £55,000 over lack of age checks]]></title>
+      <description><![CDATA[The regulator said it had also opened new investigations into 20 porn sites over suspected online safety breaches.]]></description>
+      <link>https://www.bbc.com/news/articles/c0qpq5q9712o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0qpq5q9712o</guid>
+      <pubDate>Thu, 20 Nov 2025 13:19:23 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18da/live/8d930300-c60a-11f0-bac6-252b1f2b7e52.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ford boss: 'Now is not the time to tax electric vehicles']]></title>
@@ -110,6 +110,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/crklgrpdke8o</guid>
       <pubDate>Tue, 18 Nov 2025 20:58:19 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd7e/live/4a2f5e50-c4ad-11f0-b288-51552c83ad58.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Nvidia shares rise after strong results ease 'AI bubble' concerns]]></title>
+      <description><![CDATA[The chip maker says revenue for the three months to October jumped 62% to $57bn.]]></description>
+      <link>https://www.bbc.com/news/articles/cly4y2enywro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly4y2enywro</guid>
+      <pubDate>Thu, 20 Nov 2025 08:23:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e478/live/e29448b0-c5fa-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Roblox blocks children from chatting to adult strangers]]></title>
