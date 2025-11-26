@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 18:24:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 18:52:43 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -105,14 +105,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf4/live/6c5aca20-caeb-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Flying high but Lampard vows Coventry can get better ]]></title>
-      <description><![CDATA[Coventry City are 10 points clear in the Championship and scoring for fun, but Frank Lampard believes they "absolutely can get better".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czrk371mlzdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czrk371mlzdo</guid>
-      <pubDate>Wed, 26 Nov 2025 15:20:08 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d991/live/a61e81a0-cad4-11f0-8a1e-8f6cb8f8b753.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Hampton wins BBC Women's Footballer of the Year]]></title>
       <description><![CDATA[England and Chelsea goalkeeper Hannah Hampton is named as BBC Women's Footballer of the Year for 2025, and receives the trophy in a surprise presentation.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c3e0j47v0zeo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -161,6 +153,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c88/live/218a38b0-caea-11f0-b98a-b90b4f2123a5.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Flying high but Lampard vows Coventry can get better ]]></title>
+      <description><![CDATA[Coventry City are 10 points clear in the Championship and scoring for fun, but Frank Lampard believes they "absolutely can get better".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/czrk371mlzdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czrk371mlzdo</guid>
+      <pubDate>Wed, 26 Nov 2025 15:20:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d991/live/a61e81a0-cad4-11f0-8a1e-8f6cb8f8b753.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Why are handball calls causing confusion in Premiership?]]></title>
       <description><![CDATA[Recent handball incidents within Scottish football have cast fresh confusion over the law. BBC Scotland attempts to make sense of it all.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5yjdwvq4z2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -169,20 +169,20 @@
       <media:thumbnail width="240" height="137" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41be/live/8715b670-cad4-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Maybe it was too much' - Guardiola rues defeat after 10 changes]]></title>
-      <description><![CDATA[Pep Guardiola celebrated taking charge of Manchester City for the 100th time in the Champions League on Tuesday night, but it was Bayer Leverkusen and their fans that were left dancing at full-time.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgmv8k4zd0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgmv8k4zd0o</guid>
-      <pubDate>Tue, 25 Nov 2025 23:48:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1528/live/2467f8f0-ca55-11f0-b15a-a7018515530a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Fishlock can inspire 'decisions' for Wales players]]></title>
       <description><![CDATA[Rhian Wilkinson believes Jess Fishlock can continue to influence Wales' future even though the nation's greatest female footballer has retired from the international game.]]></description>
       <link>https://www.bbc.com/sport/football/articles/clydv7p1k92o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clydv7p1k92o</guid>
       <pubDate>Wed, 26 Nov 2025 14:52:40 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d49b/live/82b13060-cabf-11f0-8830-713b9084fff8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Maybe it was too much' - Guardiola rues defeat after 10 changes]]></title>
+      <description><![CDATA[Pep Guardiola celebrated taking charge of Manchester City for the 100th time in the Champions League on Tuesday night, but it was Bayer Leverkusen and their fans that were left dancing at full-time.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgmv8k4zd0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgmv8k4zd0o</guid>
+      <pubDate>Tue, 25 Nov 2025 23:48:29 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1528/live/2467f8f0-ca55-11f0-b15a-a7018515530a.jpg"/>
     </item>
     <item>
       <title><![CDATA['SFA admits Livi should have received penalty']]></title>
@@ -199,14 +199,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz68jv54zeyo</guid>
       <pubDate>Wed, 26 Nov 2025 00:13:01 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95c2/live/8c68cf90-ca57-11f0-aa9f-d7ec76cf09ce.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[When were Coventry last in the Premier League?]]></title>
-      <description><![CDATA[Our Ask Me Anything team take a look at when Coventry City were last in the Premier League and their chances of promotion.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2dzxp5z7e3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2dzxp5z7e3o</guid>
-      <pubDate>Wed, 26 Nov 2025 12:59:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2479/live/cefb1400-cac3-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fifa to keep top seeds apart in World Cup for first time]]></title>
@@ -305,6 +297,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b907/live/85df2fe0-caa0-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
+      <title><![CDATA[When were Coventry last in the Premier League?]]></title>
+      <description><![CDATA[Our Ask Me Anything team take a look at when Coventry City were last in the Premier League and their chances of promotion.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2dzxp5z7e3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2dzxp5z7e3o</guid>
+      <pubDate>Wed, 26 Nov 2025 12:59:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2479/live/cefb1400-cac3-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Ronaldo clear for World Cup opener despite red card]]></title>
       <description><![CDATA[Cristiano Ronaldo will be able to play for Portugal in their opening World Cup game despite his red card against the Republic of Ireland.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c30jp9q4jp6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -335,14 +335,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgke1057646o</guid>
       <pubDate>Tue, 25 Nov 2025 20:20:25 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6cb/live/f303e660-ca32-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
-      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cm2v822g3yvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2v822g3yvo</guid>
-      <pubDate>Mon, 24 Nov 2025 23:40:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0bf/live/504f78b0-c944-11f0-8c06-f5d460985095.png"/>
     </item>
     <item>
       <title><![CDATA[How Forest tactically exposed Liverpool]]></title>
