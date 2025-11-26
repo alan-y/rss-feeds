@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 18:52:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 19:15:23 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -96,15 +96,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea8f/live/d5bfb2b0-caef-11f0-b98a-b90b4f2123a5.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Paul Doyle pleads guilty to Liverpool parade charges]]></title>
-      <description><![CDATA[Paul Doyle broke down in tears as he admitted seriously injuring fans at Liverpool's victory parade.
-]]></description>
-      <link>https://www.bbc.com/news/articles/cde6kne1ykno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cde6kne1ykno</guid>
-      <pubDate>Wed, 26 Nov 2025 13:51:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf4/live/6c5aca20-caeb-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Hampton wins BBC Women's Footballer of the Year]]></title>
       <description><![CDATA[England and Chelsea goalkeeper Hannah Hampton is named as BBC Women's Footballer of the Year for 2025, and receives the trophy in a surprise presentation.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c3e0j47v0zeo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -151,6 +142,15 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn09x4xle3wo</guid>
       <pubDate>Wed, 26 Nov 2025 17:18:34 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c88/live/218a38b0-caea-11f0-b98a-b90b4f2123a5.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Paul Doyle pleads guilty to Liverpool parade charges]]></title>
+      <description><![CDATA[Paul Doyle broke down in tears as he admitted seriously injuring fans at Liverpool's victory parade.
+]]></description>
+      <link>https://www.bbc.com/news/articles/cde6kne1ykno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cde6kne1ykno</guid>
+      <pubDate>Wed, 26 Nov 2025 13:51:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf4/live/6c5aca20-caeb-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flying high but Lampard vows Coventry can get better ]]></title>
@@ -305,14 +305,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2479/live/cefb1400-cac3-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ronaldo clear for World Cup opener despite red card]]></title>
-      <description><![CDATA[Cristiano Ronaldo will be able to play for Portugal in their opening World Cup game despite his red card against the Republic of Ireland.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c30jp9q4jp6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c30jp9q4jp6o</guid>
-      <pubDate>Tue, 25 Nov 2025 16:37:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cc1/live/e97d7880-ca1a-11f0-8585-f5fd2986c402.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Pyramid a 'financial disaster' - Pompey owner Eisner]]></title>
       <description><![CDATA[Portsmouth owner Michael Eisner labels the EFL pyramid a "financial disaster" but says an independent football regular offers hope.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c80xlxyz4lgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -327,6 +319,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c39plrg7y00o</guid>
       <pubDate>Tue, 25 Nov 2025 09:16:42 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d87/live/eafac5a0-c899-11f0-9fb5-5f3a3703a365.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Ronaldo clear for World Cup opener despite red card]]></title>
+      <description><![CDATA[Cristiano Ronaldo will be able to play for Portugal in their opening World Cup game despite his red card against the Republic of Ireland.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c30jp9q4jp6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c30jp9q4jp6o</guid>
+      <pubDate>Tue, 25 Nov 2025 16:37:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cc1/live/e97d7880-ca1a-11f0-8585-f5fd2986c402.jpg"/>
     </item>
     <item>
       <title><![CDATA[Littlejohn faces extended violent conduct ban]]></title>
@@ -431,14 +431,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj6ngld5069o</guid>
       <pubDate>Tue, 25 Nov 2025 17:40:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e53f/live/66cdbb60-bfda-11f0-8669-5560f5c90fbe.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Tendon tear may rule Hearts' Ageu out for weeks - gossip]]></title>
-      <description><![CDATA[Injury blow for Hearts midfielder, talk of Ibrox expansion and Celtic annual meeting results published.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c997rk7l72go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c997rk7l72go</guid>
-      <pubDate>Wed, 26 Nov 2025 07:06:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f56e/live/3223b640-ca24-11f0-9fb5-5f3a3703a365.png"/>
     </item>
     <item>
       <title><![CDATA[Pogba set to make first appearance since doping ban]]></title>
