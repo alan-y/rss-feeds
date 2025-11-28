@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 28 Nov 2025 22:46:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 23:17:42 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,7 +48,23 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8080/live/06d08bf0-cc61-11f0-a709-e1cdbb15a6d6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Man City want Anderson over Wharton - Saturday's gossip]]></title>
+      <title><![CDATA[O'Neill ready for Celtic farewell on Sunday]]></title>
+      <description><![CDATA[Martin O'Neill expects Sunday's visit to Hibernian to the last game of his temporary return as Celtic manager.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/czrklyvlg6go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czrklyvlg6go</guid>
+      <pubDate>Fri, 28 Nov 2025 16:33:35 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ab/live/13daa680-cc72-11f0-93ea-199ffe9fe785.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Goalkeeper dilemma & defenders on trial in Lionesses friendlies]]></title>
+      <description><![CDATA[England will end another successful year with two friendly matches - but what changes might we see from manager Sarina Wiegman?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c30jn4p44gpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c30jn4p44gpo</guid>
+      <pubDate>Fri, 28 Nov 2025 13:00:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0428/live/495bbe30-cc4e-11f0-9b9e-af0d7f67ac58.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Man City prefer Anderson to Wharton - Saturday's gossip]]></title>
       <description><![CDATA[Manchester City want Nottingham Forest midfielder Elliot Anderson, Napoli contact Manchester United about Kobbie Mainoo, Sunderland and Newcastle battle for Lazio's Matteo Guendouzi, plus more.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn7kgz7dzxgo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn7kgz7dzxgo</guid>
@@ -62,22 +78,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2lv0jez5edo</guid>
       <pubDate>Fri, 28 Nov 2025 11:52:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abe8/live/f0dd4100-cc4f-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[O'Neill ready for Celtic farewell on Sunday]]></title>
-      <description><![CDATA[Martin O'Neill expects Sunday's visit to Hibernian to the last game of his temporary return as Celtic manager.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czrklyvlg6go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czrklyvlg6go</guid>
-      <pubDate>Fri, 28 Nov 2025 16:33:35 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ab/live/13daa680-cc72-11f0-93ea-199ffe9fe785.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Late drama in Scotland's DNA after Ukraine draw]]></title>
-      <description><![CDATA[Scotland head coach Melissa Andreatta says her team "never stop" after their last-gasp equalier against Ukraine.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yj7kpgnd6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yj7kpgnd6o</guid>
-      <pubDate>Fri, 28 Nov 2025 18:42:40 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69af/live/f9ba7e20-cc89-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sutton's predictions v rapper Kofi Stone]]></title>
@@ -128,6 +128,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5383/live/5e1d4c80-c915-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Late drama in Scotland's DNA after Ukraine draw]]></title>
+      <description><![CDATA[Scotland head coach Melissa Andreatta says her team "never stop" after their last-gasp equalier against Ukraine.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5yj7kpgnd6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yj7kpgnd6o</guid>
+      <pubDate>Fri, 28 Nov 2025 18:42:40 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69af/live/f9ba7e20-cc89-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Farke probably feels like he is up to his neck in muck']]></title>
       <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis looks at Daniel Farke's situation at Leeds and explains why the fans' reaction to their form tells the manager he is in trouble.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5yd79egxvdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -166,14 +174,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8z3rz6py8o</guid>
       <pubDate>Fri, 28 Nov 2025 14:56:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f4c/live/3f80b830-cba8-11f0-8c06-f5d460985095.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Goalkeeper dilemma & defenders on trial in Lionesses friendlies]]></title>
-      <description><![CDATA[England will end another successful year with two friendly matches - but what changes might we see from manager Sarina Wiegman?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c30jn4p44gpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c30jn4p44gpo</guid>
-      <pubDate>Fri, 28 Nov 2025 13:00:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0428/live/495bbe30-cc4e-11f0-9b9e-af0d7f67ac58.jpg"/>
     </item>
     <item>
       <title><![CDATA['Knife edge' - will Newcastle drop Pope for Ramsdale?]]></title>
