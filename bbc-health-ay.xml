@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 28 Nov 2025 15:47:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 16:24:12 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Prostate cancer screening should not be offered to most UK men, says experts]]></title>
+      <description><![CDATA[It recommends that only men with a confirmed genetic risk of prostate cancer should be screened for the disease.]]></description>
+      <link>https://www.bbc.com/news/articles/cm20169gz44o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cm20169gz44o</guid>
+      <pubDate>Fri, 28 Nov 2025 16:07:42 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5abd/live/e1316af0-cc69-11f0-a709-e1cdbb15a6d6.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Women 'traumatised' by breast cancer treatment at NHS trust]]></title>
       <description><![CDATA[More than 200 patients suffered harm, including unnecessary mastectomies, the BBC has been told.]]></description>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4x78mrxk3o</guid>
       <pubDate>Wed, 26 Nov 2025 22:30:42 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/361a/live/84648fa0-cb15-11f0-970b-9fa9a19bcb60.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[School shuts for deep clean after pupil sickness]]></title>
-      <description><![CDATA[Congleton High School wrote to staff and parents to inform them of the closure. ]]></description>
-      <link>https://www.bbc.com/news/articles/c39p0krjvego?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c39p0krjvego</guid>
-      <pubDate>Wed, 26 Nov 2025 12:29:41 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8372/live/27e1c6e0-cad8-11f0-995e-fb191683181c.png"/>
     </item>
     <item>
       <title><![CDATA[Sugar tax extended to milk-based drinks: What you need to know]]></title>
