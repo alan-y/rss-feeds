@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 28 Nov 2025 18:52:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 19:14:58 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -369,6 +369,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a4/live/e4a847d0-9d21-11ef-9260-19e6a950e830.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Prostate cancer screening: what you need to know]]></title>
+      <description><![CDATA[Everything you need to know about the decision on who should be screened for prostate cancer]]></description>
+      <link>https://www.bbc.com/news/articles/cvgrenp0942o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgrenp0942o</guid>
+      <pubDate>Fri, 28 Nov 2025 19:06:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7912/live/a7a36870-cc8b-11f0-bed8-75fc0eba925d.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How do cold weather health alerts work?]]></title>
       <description><![CDATA[The weather alert service warns the public when high or low temperatures could damage their health.]]></description>
       <link>https://www.bbc.com/news/articles/cd97dkx9g38o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -511,14 +519,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cn43439n4xxo</guid>
       <pubDate>Thu, 09 Oct 2025 05:18:07 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75f/live/c8448030-a465-11f0-8c79-29eeaf2ea52d.png"/>
-    </item>
-    <item>
-      <title><![CDATA[EastEnders' Kellie Bright on the challenges of being parent of an autistic child]]></title>
-      <description><![CDATA[The soap actor meets families fighting for their children’s education for BBC Panorama.]]></description>
-      <link>https://www.bbc.com/news/articles/c0jqy8pn275o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jqy8pn275o</guid>
-      <pubDate>Mon, 06 Oct 2025 00:35:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f006/live/37372320-a07a-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
       <title><![CDATA[What is chickenpox and how can I get my child vaccinated?]]></title>
