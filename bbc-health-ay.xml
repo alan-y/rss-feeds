@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 28 Nov 2025 10:49:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 11:17:13 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -241,14 +241,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79d7/live/b7340cf0-c5f0-11f0-9f1e-75cdd6519717.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Covid inquiry hears impact on firms and staff]]></title>
-      <description><![CDATA[Business owners describe breaking into tears as they were forced to lay off staff, while workers feared for their jobs]]></description>
-      <link>https://www.bbc.com/news/articles/cwyp4g95re4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyp4g95re4o</guid>
-      <pubDate>Mon, 24 Nov 2025 12:50:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e372/live/efafb100-c92f-11f0-a6fa-73752061276d.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[The private notes and secret documents that tell the inside story of the UK's Covid response]]></title>
       <description><![CDATA[The Covid inquiry is set to publish its second set of findings looking in detail at the huge political decisions that had to be made in 2020.]]></description>
       <link>https://www.bbc.com/news/articles/c78zy20ydlmo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -257,20 +249,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5f9/live/a3666560-c514-11f0-b288-51552c83ad58.png"/>
     </item>
     <item>
-      <title><![CDATA[UK did 'too little, too late', leading to thousands more Covid deaths - inquiry]]></title>
-      <description><![CDATA[Report on government decision-making says delays cost 23,000 lives in the first wave in England.]]></description>
-      <link>https://www.bbc.com/news/articles/c8030xvvlv0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8030xvvlv0o</guid>
-      <pubDate>Thu, 20 Nov 2025 20:42:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7635/live/5b47a410-c5f0-11f0-9f1e-75cdd6519717.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Toxic' No 10 culture harmed Covid response, inquiry finds]]></title>
       <description><![CDATA[Boris Johnson, Dominic Cummings and Matt Hanock are all criticised for contributing to poor Covid decision-making.]]></description>
       <link>https://www.bbc.com/news/articles/c986821m604o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c986821m604o</guid>
       <pubDate>Thu, 20 Nov 2025 22:32:49 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee93/live/3f2f6ab0-c654-11f0-af6f-e50c9b63d103.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Covid inquiry hears impact on firms and staff]]></title>
+      <description><![CDATA[Business owners describe breaking into tears as they were forced to lay off staff, while workers feared for their jobs]]></description>
+      <link>https://www.bbc.com/news/articles/cwyp4g95re4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyp4g95re4o</guid>
+      <pubDate>Mon, 24 Nov 2025 12:50:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e372/live/efafb100-c92f-11f0-a6fa-73752061276d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[UK did 'too little, too late', leading to thousands more Covid deaths - inquiry]]></title>
+      <description><![CDATA[Report on government decision-making says delays cost 23,000 lives in the first wave in England.]]></description>
+      <link>https://www.bbc.com/news/articles/c8030xvvlv0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8030xvvlv0o</guid>
+      <pubDate>Thu, 20 Nov 2025 20:42:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7635/live/5b47a410-c5f0-11f0-9f1e-75cdd6519717.jpg"/>
     </item>
     <item>
       <title><![CDATA[What is the UK Covid inquiry and how does it work?]]></title>
@@ -375,14 +375,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cd0gdzdv53yo</guid>
       <pubDate>Thu, 07 Nov 2024 17:34:34 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a4/live/e4a847d0-9d21-11ef-9260-19e6a950e830.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How close were hospitals to collapse in Covid?]]></title>
-      <description><![CDATA[The Covid inquiry restarts its live hearings this week, after senior staff in the NHS revealed just how close some hospitals were to collapse ]]></description>
-      <link>https://www.bbc.com/news/articles/c78dl0xv7y2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c78dl0xv7y2o</guid>
-      <pubDate>Mon, 28 Oct 2024 00:06:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06ac/live/4d27bb40-9216-11ef-89ae-5575c76d98e6.png"/>
     </item>
     <item>
       <title><![CDATA[How do cold weather health alerts work?]]></title>
