@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 29 Nov 2025 13:06:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 13:38:53 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,20 +40,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8742/live/a4a9aad0-cd17-11f0-bad5-8fa639d2d00f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Gueye red card appeal rejected with 'no reason' given]]></title>
-      <description><![CDATA[The Football Association rejected Everton's appeal against Idrissa Gueye's red card without providing an explanation, David Moyes says.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c058l7nm3p3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c058l7nm3p3o</guid>
-      <pubDate>Fri, 28 Nov 2025 15:59:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f17/live/db7af200-cc6b-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How Flamengo v Palmeiras became South America's biggest game]]></title>
       <description><![CDATA[Palmeiras versus Flamengo has become South America's biggest game, as the pair meet in Saturday's Copa Libertadores final.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cz0nre15vm9o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz0nre15vm9o</guid>
       <pubDate>Sat, 29 Nov 2025 09:06:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b35e/live/3ed1a160-cb85-11f0-aa46-abef3a6500e5.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Gueye red card appeal rejected with 'no reason' given]]></title>
+      <description><![CDATA[The Football Association rejected Everton's appeal against Idrissa Gueye's red card without providing an explanation, David Moyes says.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c058l7nm3p3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c058l7nm3p3o</guid>
+      <pubDate>Fri, 28 Nov 2025 15:59:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f17/live/db7af200-cc6b-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Goalkeeper dilemma & defenders on trial in Lionesses friendlies]]></title>
@@ -86,14 +86,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czrklyvlg6go</guid>
       <pubDate>Fri, 28 Nov 2025 16:33:35 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ab/live/13daa680-cc72-11f0-93ea-199ffe9fe785.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man City prefer Anderson to Wharton - Saturday's gossip]]></title>
-      <description><![CDATA[Manchester City want Nottingham Forest midfielder Elliot Anderson, Napoli contact Manchester United about Kobbie Mainoo, Sunderland and Newcastle battle for Lazio's Matteo Guendouzi, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn7kgz7dzxgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn7kgz7dzxgo</guid>
-      <pubDate>Fri, 28 Nov 2025 22:17:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70aa/live/275b7cf0-cca6-11f0-a892-01d657345866.png"/>
     </item>
     <item>
       <title><![CDATA[Borussia Monchengladbach frustrated as lucky Leipzig hang on for draw]]></title>
@@ -144,28 +136,28 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d78/live/3d3f8850-cb88-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Do you know these players in England's squad?]]></title>
+      <description><![CDATA[There are plenty of familiar faces in Sarina Wiegman's squad, but also one or two who could make their England debut.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cyvg3lq8pq6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyvg3lq8pq6o</guid>
+      <pubDate>Sat, 29 Nov 2025 13:32:48 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/315b/live/ef3e9750-cbae-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Man City prefer Anderson to Wharton - Saturday's gossip]]></title>
+      <description><![CDATA[Manchester City want Nottingham Forest midfielder Elliot Anderson, Napoli contact Manchester United about Kobbie Mainoo, Sunderland and Newcastle battle for Lazio's Matteo Guendouzi, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn7kgz7dzxgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn7kgz7dzxgo</guid>
+      <pubDate>Fri, 28 Nov 2025 22:17:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70aa/live/275b7cf0-cca6-11f0-a892-01d657345866.png"/>
+    </item>
+    <item>
       <title><![CDATA[Late drama in Scotland's DNA after Ukraine draw]]></title>
       <description><![CDATA[Scotland head coach Melissa Andreatta says her team "never stop" after their last-gasp equalier against Ukraine.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5yj7kpgnd6o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yj7kpgnd6o</guid>
       <pubDate>Fri, 28 Nov 2025 18:42:40 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69af/live/f9ba7e20-cc89-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[New Old Trafford included in 2035 World Cup bid]]></title>
-      <description><![CDATA[Manchester United's proposed new Old Trafford stadium is one of 22 venues named in the UK's bid to host the 2035 Women's World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2lv0jez5edo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2lv0jez5edo</guid>
-      <pubDate>Fri, 28 Nov 2025 11:52:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abe8/live/f0dd4100-cc4f-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Farke probably feels like he is up to his neck in muck']]></title>
-      <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis looks at Daniel Farke's situation at Leeds and explains why the fans' reaction to their form tells the manager he is in trouble.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yd79egxvdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yd79egxvdo</guid>
-      <pubDate>Fri, 28 Nov 2025 06:37:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ten-man Everton stun Man Utd after Gueye sees red]]></title>
@@ -208,6 +200,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07c6/live/bb69ae60-c974-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Farke probably feels like he is up to his neck in muck']]></title>
+      <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis looks at Daniel Farke's situation at Leeds and explains why the fans' reaction to their form tells the manager he is in trouble.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5yd79egxvdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yd79egxvdo</guid>
+      <pubDate>Fri, 28 Nov 2025 06:37:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[New Old Trafford included in 2035 World Cup bid]]></title>
+      <description><![CDATA[Manchester United's proposed new Old Trafford stadium is one of 22 venues named in the UK's bid to host the 2035 Women's World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2lv0jez5edo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2lv0jez5edo</guid>
+      <pubDate>Fri, 28 Nov 2025 11:52:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abe8/live/f0dd4100-cc4f-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Rangers defensive crisis & wobbly Hearts - Scottish Premiership preview]]></title>
       <description><![CDATA[BBC Scotland looks at the key talking points going into this weekend's Scottish Premiership card.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cp8z3rz6py8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -230,14 +238,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c8e9d602llno</guid>
       <pubDate>Fri, 28 Nov 2025 15:33:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fba/live/4925ac80-cc6e-11f0-8c51-edb570175476.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Stack up on Man City stars? The FPL talking point]]></title>
-      <description><![CDATA[FPL expert Pras Singhal and Statman Dave are both in agreement that Manchester City starters are a must for your team.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx25v19l5e7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx25v19l5e7o</guid>
-      <pubDate>Fri, 28 Nov 2025 08:22:27 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1e4/live/0b8b8f20-cbb5-11f0-b8df-5f3511d2d3ae.jpg"/>
     </item>
     <item>
       <title><![CDATA[Veron banned over refusal to form guard of honour]]></title>
@@ -272,20 +272,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb52/live/0f6d7de0-cbad-11f0-9b12-8751a987e19a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Stack up on Man City stars? The FPL talking point]]></title>
+      <description><![CDATA[FPL expert Pras Singhal and Statman Dave are both in agreement that Manchester City starters are a must for your team.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx25v19l5e7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx25v19l5e7o</guid>
+      <pubDate>Fri, 28 Nov 2025 08:22:27 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1e4/live/0b8b8f20-cbb5-11f0-b8df-5f3511d2d3ae.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Littlejohn abuse after Cain incident 'disgusting']]></title>
       <description><![CDATA[Republic of Ireland manager Carla Ward says abuse directed towards midfielder Ruesha Littlejohn has been "disgusting" and a "disgrace". ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0kd5xk2n6go?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kd5xk2n6go</guid>
       <pubDate>Fri, 28 Nov 2025 14:54:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c29/live/875cecf0-cc66-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The rise of Bayern's 'special' teen Karl who 'plays Messi style']]></title>
-      <description><![CDATA[In less than 12 months, Lennart Karl has progressed from youth football to the Champions League - and is in contention for a World Cup spot. BBC Sport charts the Bayern Munich teenager's rise.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg7m7qq68yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg7m7qq68yo</guid>
-      <pubDate>Thu, 27 Nov 2025 10:10:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c831/live/e43189e0-cb1c-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Boro's manager gamble & popular Millwall - EFL weekend preview]]></title>
@@ -310,14 +310,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/cdj8dxpl9m9o</guid>
       <pubDate>Fri, 28 Nov 2025 17:38:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0c8/live/56467c10-c94d-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['We depend on that DNA' - the next generation of Lionesses]]></title>
-      <description><![CDATA[The Lionesses have won back-to-back European titles but can the youngsters coming through replicate their success?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn5l4nw6495o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn5l4nw6495o</guid>
-      <pubDate>Thu, 27 Nov 2025 22:02:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc3/live/bbbb2130-cbce-11f0-8e93-71481b645865.jpg"/>
     </item>
     <item>
       <title><![CDATA[Eze hits hat-trick as Arsenal thrash Tottenham ]]></title>
@@ -360,6 +352,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb1c/live/8547eaf0-c8c9-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
+      <title><![CDATA['We depend on that DNA' - the next generation of Lionesses]]></title>
+      <description><![CDATA[The Lionesses have won back-to-back European titles but can the youngsters coming through replicate their success?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn5l4nw6495o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn5l4nw6495o</guid>
+      <pubDate>Thu, 27 Nov 2025 22:02:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc3/live/bbbb2130-cbce-11f0-8e93-71481b645865.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[The rise of Bayern's 'special' teen Karl who 'plays Messi style']]></title>
+      <description><![CDATA[In less than 12 months, Lennart Karl has progressed from youth football to the Champions League - and is in contention for a World Cup spot. BBC Sport charts the Bayern Munich teenager's rise.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvg7m7qq68yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg7m7qq68yo</guid>
+      <pubDate>Thu, 27 Nov 2025 10:10:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c831/live/e43189e0-cb1c-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Police 'indiscriminately assaulted' Newcastle fans]]></title>
       <description><![CDATA[Newcastle United are to launch a complaint following the "unacceptable treatment" of their supporters by French police after their side's defeat against Marseille.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ckgd18w2g3yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -384,14 +392,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/f93ec6b0-cb92-11f0-8b24-8191145688b1.jpg"/>
     </item>
     <item>
-      <title><![CDATA[BBC secures rights to show La Liga clips until 2027]]></title>
-      <description><![CDATA[BBC Sport has secures the rights to show La Liga highlights in the UK in a deal which runs until 2027.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c78v5j5e18no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78v5j5e18no</guid>
-      <pubDate>Thu, 27 Nov 2025 10:03:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4249/live/f8696660-cb73-11f0-8acb-1b2068777e6f.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[What's the real cost of cheap, fake football shirts?]]></title>
       <description><![CDATA[Fake football kits can be as much as £70 cheaper than the real deal, but experts have raised concerns they could be harmful.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g9zwwwxqzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -408,20 +408,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ec5/live/93bb1fd0-c9f5-11f0-bd31-8fd3ec515046.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Load up on Man City, Brentford and Villa - FPL team of the week]]></title>
-      <description><![CDATA[Gameweek 13 is a good time for FPL managers to play their Free Hit chip as they can target struggling sides such as Wolves, Burnley and Leeds.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy8j71n57zro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8j71n57zro</guid>
-      <pubDate>Thu, 27 Nov 2025 07:44:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8db/live/a83d8620-ca89-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[IFA looking for 'right leader' to replace Oxtoby]]></title>
-      <description><![CDATA[The Irish Football Association says it has "started preparations" to recruit a new Northern Ireland women's senior manager to replace Tanya Oxtoby. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cev8e01mw1xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cev8e01mw1xo</guid>
-      <pubDate>Fri, 28 Nov 2025 16:33:25 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3222/live/d630c3e0-cc77-11f0-93ea-199ffe9fe785.jpg"/>
+      <title><![CDATA[BBC secures rights to show La Liga clips until 2027]]></title>
+      <description><![CDATA[BBC Sport has secures the rights to show La Liga highlights in the UK in a deal which runs until 2027.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c78v5j5e18no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78v5j5e18no</guid>
+      <pubDate>Thu, 27 Nov 2025 10:03:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4249/live/f8696660-cb73-11f0-8acb-1b2068777e6f.jpg"/>
     </item>
     <item>
       <title><![CDATA[As Liverpool hit 'new low' - is Slot's job at risk?]]></title>
@@ -550,6 +542,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn09lp8jgyeo</guid>
       <pubDate>Wed, 19 Nov 2025 09:30:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f657/live/dc199770-c522-11f0-b288-51552c83ad58.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[BBC Sport presenter reveals prostate cancer diagnosis  ]]></title>
+      <description><![CDATA[Announcing the news on air during Off the Ball, Kenny Macintyre said he pushed for three-monthly tests due to his family history. ]]></description>
+      <link>https://www.bbc.com/news/articles/cly3eq5r0wko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly3eq5r0wko</guid>
+      <pubDate>Sat, 29 Nov 2025 13:21:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ac3/live/282f1170-cd26-11f0-8283-5d59e9f176b9.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rangers keen on Bundesliga left-back - gossip]]></title>
