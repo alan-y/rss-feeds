@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 13:55:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 14:21:26 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[WHO warning over shortage of obesity jabs ]]></title>
+      <description><![CDATA[Too few people who could benefit from so-called "skinny jabs" are able to access them, says WHO.]]></description>
+      <link>https://www.bbc.com/news/articles/cze8n0753zzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cze8n0753zzo</guid>
+      <pubDate>Mon, 01 Dec 2025 14:05:41 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a7/live/423696e0-cebd-11f0-b464-7718d124af65.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Prostate cancer screening should not be offered to most UK men, say experts]]></title>
       <description><![CDATA[It recommends that only men with a confirmed genetic risk of prostate cancer should be screened for the disease.]]></description>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4x78mrxk3o</guid>
       <pubDate>Wed, 26 Nov 2025 22:30:42 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/361a/live/84648fa0-cb15-11f0-970b-9fa9a19bcb60.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sugar tax extended to milk-based drinks: What you need to know]]></title>
-      <description><![CDATA[Milkshakes and lattes to be included in UK sugar tax scheme for the first time.]]></description>
-      <link>https://www.bbc.com/news/articles/c1w9jg89glro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1w9jg89glro</guid>
-      <pubDate>Tue, 25 Nov 2025 14:33:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaa9/live/edad1610-c9e6-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
       <title><![CDATA[Adolescence lasts into 30s - new study shows four pivotal ages for your brain]]></title>
@@ -377,6 +377,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7912/live/a7a36870-cc8b-11f0-bed8-75fc0eba925d.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Sugar tax extended to milk-based drinks: What you need to know]]></title>
+      <description><![CDATA[Milkshakes and lattes to be included in UK sugar tax scheme for the first time.]]></description>
+      <link>https://www.bbc.com/news/articles/c1w9jg89glro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1w9jg89glro</guid>
+      <pubDate>Tue, 25 Nov 2025 14:33:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaa9/live/edad1610-c9e6-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How do cold weather health alerts work?]]></title>
       <description><![CDATA[The weather alert service warns the public when high or low temperatures could damage their health.]]></description>
       <link>https://www.bbc.com/news/articles/cd97dkx9g38o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -511,14 +519,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c62ldw09y6go</guid>
       <pubDate>Sun, 12 Oct 2025 08:33:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c1e/live/0949be30-a752-11f0-b741-177e3e2c2fc7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I missed a £100 council tax bill while in hospital – the debt ballooned to £6k']]></title>
-      <description><![CDATA[The government says it is taking action to protect people from “aggressive collection practices”. ]]></description>
-      <link>https://www.bbc.com/news/articles/cn43439n4xxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn43439n4xxo</guid>
-      <pubDate>Thu, 09 Oct 2025 05:18:07 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75f/live/c8448030-a465-11f0-8c79-29eeaf2ea52d.png"/>
     </item>
     <item>
       <title><![CDATA[What is chickenpox and how can I get my child vaccinated?]]></title>
