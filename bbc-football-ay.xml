@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 19:28:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 19:48:00 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -96,14 +96,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85b3/live/f34f0650-ceaa-11f0-83ff-5d092210839a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Maccabi fan ban evidence 'changed to fit decision']]></title>
-      <description><![CDATA[West Midlands Police chiefs are providing evidence to MPs about the decision to ban Israeli fans. ]]></description>
-      <link>https://www.bbc.com/news/articles/c98ng15qmy9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c98ng15qmy9o</guid>
-      <pubDate>Mon, 01 Dec 2025 16:51:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6340/live/7af95b50-ceb5-11f0-abfc-d91e7636b79e.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Liverpool put end to losing run with win against West Ham]]></title>
       <description><![CDATA[Alexander Isak scores his first Premier League goal for Liverpool as Arne Slot's side end their losing run with a 2-0 win away at West Ham.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cwyxprj0gk8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -184,6 +176,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3990/live/87f8afa0-ce46-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Maccabi fan ban evidence 'changed to fit decision']]></title>
+      <description><![CDATA[West Midlands Police chiefs are providing evidence to MPs about the decision to ban Israeli fans. ]]></description>
+      <link>https://www.bbc.com/news/articles/c98ng15qmy9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c98ng15qmy9o</guid>
+      <pubDate>Mon, 01 Dec 2025 19:30:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6340/live/7af95b50-ceb5-11f0-abfc-d91e7636b79e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
       <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c23e4ez7gjlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -214,14 +214,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv8e7rd0g1o</guid>
       <pubDate>Sun, 30 Nov 2025 22:28:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd7/live/0cbfbf00-ce4a-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Match-winner Mount's quality 'never in doubt']]></title>
-      <description><![CDATA[Mason Mount scores Manchester United's winner at Crystal Palace and completes his first 90 minutes for the visitors in the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgkeme0641no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgkeme0641no</guid>
-      <pubDate>Sun, 30 Nov 2025 17:34:05 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aee/live/4da2ce10-ce0c-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Maresca praises 'outstanding' Chelsea response to Caicedo red card]]></title>
@@ -262,6 +254,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c20gkwnprpvo</guid>
       <pubDate>Sun, 30 Nov 2025 17:11:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc7/live/567cf860-ce0e-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Match-winner Mount's quality 'never in doubt']]></title>
+      <description><![CDATA[Mason Mount scores Manchester United's winner at Crystal Palace and completes his first 90 minutes for the visitors in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgkeme0641no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgkeme0641no</guid>
+      <pubDate>Sun, 30 Nov 2025 17:34:05 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aee/live/4da2ce10-ce0c-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[SFA seals multi-million Hampden naming rights deal]]></title>
@@ -415,14 +415,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn81yynnwpwo</guid>
       <pubDate>Sun, 30 Nov 2025 20:38:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2571/live/98cc2440-cc54-11f0-afd9-dfd0234147a3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why was Mateta allowed to retake penalty against Man Utd?]]></title>
-      <description><![CDATA[Why accidental 'double-touch' penalties will be allowed to be retaken in the 2025-26 Premier League season]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckg4k32pvjeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg4k32pvjeo</guid>
-      <pubDate>Sun, 30 Nov 2025 13:11:28 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dff5/live/33c94610-cdec-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
       <title><![CDATA[Speaking backwards and a manager at 13 - the Solskjaer story]]></title>
