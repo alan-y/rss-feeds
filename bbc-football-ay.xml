@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 16:27:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 16:57:13 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -38,6 +38,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpq47z93dnxo</guid>
       <pubDate>Mon, 01 Dec 2025 14:16:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6071/live/9aee1ae0-ceba-11f0-9fb5-5f3a3703a365.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Tottenham are nothing without our fans - Frank]]></title>
+      <description><![CDATA[Manager Thomas Frank says Tottenham Hotspur's players and supporters "need each other" and that the club is "nothing without the fans".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c157v44x22zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c157v44x22zo</guid>
+      <pubDate>Mon, 01 Dec 2025 16:52:10 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d837/live/0e469690-cecd-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA['Arsenal deserve to be clear - but who's best placed to challenge?']]></title>
@@ -84,7 +92,7 @@
       <description><![CDATA[West Midlands Police chiefs are providing evidence to MPs about the decision to ban Israeli fans. ]]></description>
       <link>https://www.bbc.com/news/articles/c98ng15qmy9o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c98ng15qmy9o</guid>
-      <pubDate>Mon, 01 Dec 2025 16:18:24 GMT</pubDate>
+      <pubDate>Mon, 01 Dec 2025 16:51:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6340/live/7af95b50-ceb5-11f0-abfc-d91e7636b79e.jpg"/>
     </item>
     <item>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2d0yen5r5o</guid>
       <pubDate>Sun, 30 Nov 2025 18:05:12 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d68e/live/a62bc3d0-ce10-11f0-81f7-3d83a990f855.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Inside return to form of Chelsea's 'fantastic' James]]></title>
-      <description><![CDATA[The 25-year-old played in midfield in a sensational performance against Arsenal just four days after a similarly impressive display at home to Barcelona. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cyv8e7rd0g1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv8e7rd0g1o</guid>
-      <pubDate>Sun, 30 Nov 2025 22:28:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd7/live/0cbfbf00-ce4a-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
       <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
@@ -192,6 +192,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3990/live/87f8afa0-ce46-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Inside return to form of Chelsea's 'fantastic' James]]></title>
+      <description><![CDATA[The 25-year-old played in midfield in a sensational performance against Arsenal just four days after a similarly impressive display at home to Barcelona. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cyv8e7rd0g1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv8e7rd0g1o</guid>
+      <pubDate>Sun, 30 Nov 2025 22:28:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd7/live/0cbfbf00-ce4a-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Match-winner Mount's quality 'never in doubt']]></title>
       <description><![CDATA[Mason Mount scores Manchester United's winner at Crystal Palace and completes his first 90 minutes for the visitors in the Premier League.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgkeme0641no?at_medium=RSS&amp;at_campaign=rss</link>
@@ -223,14 +231,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cde6l4egl5xo</guid>
       <pubDate>Mon, 01 Dec 2025 13:26:08 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/853e/live/eb89e400-ce30-11f0-a448-615057c21a90.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Is Aberdeen revival recipe for success or unsustainable?]]></title>
-      <description><![CDATA[A fourth 1-0 win in six league games has revived Aberdeen's fortunes - can Jimmy Thelin's shot-shy side keep up the momentum?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c709eld6ed5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c709eld6ed5o</guid>
-      <pubDate>Mon, 01 Dec 2025 08:27:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41bd/live/efd63f40-ce26-11f0-98ab-ab59a1e045d3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Maresca praises 'outstanding' Chelsea response to Caicedo red card]]></title>
@@ -273,6 +273,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc7/live/567cf860-ce0e-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Is Aberdeen revival recipe for success or unsustainable?]]></title>
+      <description><![CDATA[A fourth 1-0 win in six league games has revived Aberdeen's fortunes - can Jimmy Thelin's shot-shy side keep up the momentum?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c709eld6ed5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c709eld6ed5o</guid>
+      <pubDate>Mon, 01 Dec 2025 08:27:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41bd/live/efd63f40-ce26-11f0-98ab-ab59a1e045d3.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Liverpool plan Camavinga bid - Monday's gossip]]></title>
       <description><![CDATA[Premier League champions Liverpool to bid for Real Madrid midfielder Eduardo Camavinga, Everton snub offers for winger Iliman Ndiaye, while Manchester City consider move for Bournemouth forward Antoine Semenyo, plus more.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cd0kn425k2xo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -295,14 +303,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gp0pjz442o</guid>
       <pubDate>Sun, 30 Nov 2025 18:58:18 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0068/live/32feacd0-ce1d-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[O'Neill staying at Celtic for now… but should it be for even longer?]]></title>
-      <description><![CDATA[Martin O'Neill now thinks there is a "strong possibility" he will still be in charge of Celtic when Dundee visit on Wednesday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gp0z4xvwdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gp0z4xvwdo</guid>
-      <pubDate>Sun, 30 Nov 2025 17:41:44 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4385/live/13e3b900-cdf8-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Palace 'threw away' chance of better season with lack of signings - Glasner]]></title>
