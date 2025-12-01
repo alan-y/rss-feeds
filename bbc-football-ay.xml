@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 11:18:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 11:33:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -56,20 +56,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd7/live/0cbfbf00-ce4a-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
-      <title><![CDATA[SFA seals multi-million Hampden naming rights deal]]></title>
-      <description><![CDATA[The Scottish FA announces a "multi-million-pound, long-term partnership" for the naming rights of the national stadium.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn5l25gxq4go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn5l25gxq4go</guid>
-      <pubDate>Mon, 01 Dec 2025 11:02:37 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81bc/live/7327b010-cea2-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Spain's Bonmati suffers broken leg in training]]></title>
-      <description><![CDATA[Spain midfielder Aitana Bonmati is set for a lengthy spell on the sidelines after breaking her leg in training.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cde6l4egl5xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cde6l4egl5xo</guid>
-      <pubDate>Sun, 30 Nov 2025 21:19:48 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/853e/live/eb89e400-ce30-11f0-a448-615057c21a90.jpg"/>
+      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
+      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c23e4ez7gjlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c23e4ez7gjlo</guid>
+      <pubDate>Sun, 30 Nov 2025 21:37:58 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ebc/live/94863940-ce2d-11f0-a892-01d657345866.png"/>
     </item>
     <item>
       <title><![CDATA[Match-winner Mount's quality 'never in doubt']]></title>
@@ -80,12 +72,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aee/live/4da2ce10-ce0c-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
-      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c23e4ez7gjlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c23e4ez7gjlo</guid>
-      <pubDate>Sun, 30 Nov 2025 21:37:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ebc/live/94863940-ce2d-11f0-a892-01d657345866.png"/>
+      <title><![CDATA[SFA seals multi-million Hampden naming rights deal]]></title>
+      <description><![CDATA[The Scottish FA announces a "multi-million-pound, long-term partnership" with Barclays for the naming rights of the national stadium.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn5l25gxq4go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn5l25gxq4go</guid>
+      <pubDate>Mon, 01 Dec 2025 11:02:37 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81bc/live/7327b010-cea2-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Liverpool plan Camavinga bid - Monday's gossip]]></title>
@@ -94,6 +86,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd0kn425k2xo</guid>
       <pubDate>Sun, 30 Nov 2025 23:11:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa48/live/af577aa0-ce40-11f0-9fb5-5f3a3703a365.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Spain's Bonmati suffers broken leg in training]]></title>
+      <description><![CDATA[Spain midfielder Aitana Bonmati is set for a lengthy spell on the sidelines after breaking her leg in training.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cde6l4egl5xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cde6l4egl5xo</guid>
+      <pubDate>Sun, 30 Nov 2025 21:19:48 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/853e/live/eb89e400-ce30-11f0-a448-615057c21a90.jpg"/>
     </item>
     <item>
       <title><![CDATA[Liverpool put end to losing run with win against West Ham]]></title>
@@ -176,15 +176,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f75/live/4cbee9d0-ce24-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How Villa have relied on record number of long-range goals]]></title>
-      <description><![CDATA[Aston Villa have scored a higher percentage of their goals from outside the box than any side in Premier League history.
-]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwygdgkg1yno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwygdgkg1yno</guid>
-      <pubDate>Sun, 30 Nov 2025 18:18:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b75d/live/fe406300-ce0b-11f0-b581-8bb45e928046.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Is Aberdeen revival recipe for success or unsustainable?]]></title>
       <description><![CDATA[A fourth 1-0 win in six league games has revived Aberdeen's fortunes - can Jimmy Thelin's shot-shy side keep up the momentum?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c709eld6ed5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -215,6 +206,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gp0z4xvwdo</guid>
       <pubDate>Sun, 30 Nov 2025 17:41:44 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4385/live/13e3b900-cdf8-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Palace 'threw away' chance of better season with lack of signings - Glasner]]></title>
+      <description><![CDATA[Crystal Palace manager Oliver Glasner criticises the clubs failure to reinforce the squad over the summer in order to be competitive with the addition of European football.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3w7197dj3do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3w7197dj3do</guid>
+      <pubDate>Sun, 30 Nov 2025 16:48:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88db/live/817249e0-ce03-11f0-aeef-e71f60828f34.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arteta 'disappointed, but proud' to draw against 10-man Chelsea]]></title>
@@ -255,14 +254,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cjwy4nn29weo</guid>
       <pubDate>Sun, 30 Nov 2025 17:02:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/984e/live/9529d9d0-ce0d-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Palace 'threw away' chance of better season with lack of signings - Glasner]]></title>
-      <description><![CDATA[Crystal Palace manager Oliver Glasner criticises the clubs failure to reinforce the squad over the summer in order to be competitive with the addition of European football.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3w7197dj3do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3w7197dj3do</guid>
-      <pubDate>Sun, 30 Nov 2025 16:48:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88db/live/817249e0-ce03-11f0-aeef-e71f60828f34.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ajax criticise 'outrageous' fireworks after match abandoned]]></title>
@@ -567,6 +558,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyvg3lq8pq6o</guid>
       <pubDate>Sat, 29 Nov 2025 13:32:48 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/315b/live/ef3e9750-cbae-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Republic of Ireland beat Hungary in friendly]]></title>
+      <description><![CDATA[The Republic of Ireland end 2025 with a 3-2 win over Hungary in a behind closed doors friendly at the Marbella Football Center.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gvp1rky95o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gvp1rky95o</guid>
+      <pubDate>Sat, 29 Nov 2025 13:43:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f512/live/fbb5c390-cd26-11f0-8283-5d59e9f176b9.jpg"/>
     </item>
     <item>
       <title><![CDATA[The great number nine decline - where have England's strikers gone?]]></title>
