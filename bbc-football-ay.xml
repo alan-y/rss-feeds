@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 19:46:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 20:24:10 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Haaland joins Premier League 100 club - who else is in it?]]></title>
+      <description><![CDATA[Our Ask Me Anything team looks at who is in the Premier League's '100 club' of goalscorers.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cql94xeyv72o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cql94xeyv72o</guid>
+      <pubDate>Tue, 02 Dec 2025 20:20:37 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03fd/live/a1729410-ba31-11f0-aa13-0b0479f6f42a.png"/>
+    </item>
     <item>
       <title><![CDATA[Presenter Woods 'taken ill' during England coverage]]></title>
       <description><![CDATA[Presenter Laura Woods appears to faint while leading the coverage of England's friendly against Ghana on Tuesday.]]></description>
@@ -48,14 +56,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e470/live/5937f960-cf71-11f0-b355-05c29911d4af.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Paqueta still affected by spot-fixing probe - Nuno]]></title>
-      <description><![CDATA[West Ham's Lucas Paqueta is still affected by the investigation into spot-fixing charges brought against him, says Nuno Espirito Santo.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2089z0q1j7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2089z0q1j7o</guid>
-      <pubDate>Tue, 02 Dec 2025 15:35:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ae/live/2973a060-cf8c-11f0-8d79-4975c2144860.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Sutton's predictions v Tailenders host Felix White]]></title>
       <description><![CDATA[BBC Sport football expert Chris Sutton takes on Felix White - and AI - with his predictions for the midweek Premier League fixtures.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c7vm3eq7pm5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -70,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y9r863k4eo</guid>
       <pubDate>Tue, 02 Dec 2025 18:47:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b36c/live/e07c0a50-cfae-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wilkinson relief as Wales win to remove 'burden' ]]></title>
-      <description><![CDATA[Rhian Wilkinson is relieved to finish 2025 on a high as Wales end their 12-game winless streak with a 3-2 friendly victory over Switzerland.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdd5eqe7y30o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdd5eqe7y30o</guid>
-      <pubDate>Tue, 02 Dec 2025 14:40:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26cf/live/9f007850-cf8a-11f0-8d79-4975c2144860.jpg"/>
     </item>
     <item>
       <title><![CDATA['We protect our own' - Nuno defends Paqueta's behaviour]]></title>
@@ -128,20 +120,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e509/live/c4d84470-cfa0-11f0-976e-4fc7ee951a33.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Paqueta still affected by spot-fixing probe - Nuno]]></title>
+      <description><![CDATA[West Ham's Lucas Paqueta is still affected by the investigation into spot-fixing charges brought against him, says Nuno Espirito Santo.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2089z0q1j7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2089z0q1j7o</guid>
+      <pubDate>Tue, 02 Dec 2025 15:35:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ae/live/2973a060-cf8c-11f0-8d79-4975c2144860.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Wilkinson relief as Wales win to remove 'burden' ]]></title>
+      <description><![CDATA[Rhian Wilkinson is relieved to finish 2025 on a high as Wales end their 12-game winless streak with a 3-2 friendly victory over Switzerland.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdd5eqe7y30o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdd5eqe7y30o</guid>
+      <pubDate>Tue, 02 Dec 2025 14:40:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26cf/live/9f007850-cf8a-11f0-8d79-4975c2144860.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Premier League considers 2026 Summer Series]]></title>
       <description><![CDATA[Clubs have been ask for their views on a pre-season tournament next summer, with Hong Kong and Chinese city of Shenzhen potential hosts.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g98reg3l1o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g98reg3l1o</guid>
       <pubDate>Tue, 02 Dec 2025 12:05:32 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca0f/live/72e057b0-cf6f-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Nice condemn fans over 'unacceptable' player confrontation]]></title>
-      <description><![CDATA[Nice condemn a group of fans in the "strongest possible terms" after cplayers and staff were physically confronted on their return home following Sunday's 3-1 defeat at Lorient.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cq5qw9j66d8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq5qw9j66d8o</guid>
-      <pubDate>Tue, 02 Dec 2025 16:07:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a13/live/298273d0-cf94-11f0-b259-a9faa8642480.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arsenal to sign 16-year-old Ecuadorian twins]]></title>
@@ -166,6 +166,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gk9kv9jxyo</guid>
       <pubDate>Tue, 02 Dec 2025 16:28:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4b0/live/62e23330-cf9a-11f0-abcb-0189553bc54a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Nice condemn fans over 'unacceptable' player confrontation]]></title>
+      <description><![CDATA[Nice condemn a group of fans in the "strongest possible terms" after cplayers and staff were physically confronted on their return home following Sunday's 3-1 defeat at Lorient.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cq5qw9j66d8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq5qw9j66d8o</guid>
+      <pubDate>Tue, 02 Dec 2025 16:07:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a13/live/298273d0-cf94-11f0-b259-a9faa8642480.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ballon d'Or winner Bonmati out for five months with broken leg]]></title>
@@ -280,14 +288,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6340/live/7af95b50-ceb5-11f0-abfc-d91e7636b79e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Why Caicedo was sent off but Bentancur escaped]]></title>
-      <description><![CDATA[Chelsea boss Enzo Maresca is frustrated by Moises Caicedo's red card against Arsenal over what he perceives to be a lack of consistency.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czxpnxlnwd1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czxpnxlnwd1o</guid>
-      <pubDate>Mon, 01 Dec 2025 14:16:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a2e/live/ceebdd30-ceb2-11f0-bb85-3da272790848.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['January window is too late' - Glasner hits out at frugal Palace]]></title>
       <description><![CDATA[Crystal Palace manger Oliver Glasner believes the club should have spent more in the summer given their European commitments, arguing that January is too late to bolster his squad. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/c33m41x307do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -326,6 +326,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cj6951kp43do</guid>
       <pubDate>Sun, 30 Nov 2025 17:15:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21f9/live/c68bb000-ce0f-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Why Caicedo was sent off but Bentancur escaped]]></title>
+      <description><![CDATA[Chelsea boss Enzo Maresca is frustrated by Moises Caicedo's red card against Arsenal over what he perceives to be a lack of consistency.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/czxpnxlnwd1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czxpnxlnwd1o</guid>
+      <pubDate>Mon, 01 Dec 2025 14:16:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a2e/live/ceebdd30-ceb2-11f0-bb85-3da272790848.jpg"/>
     </item>
     <item>
       <title><![CDATA['Arsenal deserve to be clear - but who's best placed to challenge?']]></title>
