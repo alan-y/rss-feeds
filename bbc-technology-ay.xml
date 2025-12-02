@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 08:29:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 08:58:16 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Fashion house Valentino criticised over 'disturbing' AI handbag ads]]></title>
+      <description><![CDATA[Social media users have called the luxury Italian fashion brand's artificial intelligence-made adverts "cheap" and "lazy".]]></description>
+      <link>https://www.bbc.com/news/articles/cwyvjyvn83go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyvjyvn83go</guid>
+      <pubDate>Tue, 02 Dec 2025 08:26:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa1/live/2d023480-cebf-11f0-b464-7718d124af65.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Jorja Smith's record label hits out at 'AI clone' song]]></title>
       <description><![CDATA[The label claims Haven's dance hit I Run was made using AI trained on the award-winning singer's voice.]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cly52dd9lnmo</guid>
       <pubDate>Tue, 25 Nov 2025 11:51:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c52a/live/c4e21fa0-c9e6-11f0-993d-ed000479df42.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Cryptology firm cancels elections after losing encryption key ]]></title>
-      <description><![CDATA[The International Association for Cryptologic Research - created to study secure communication - said it was an "honest human mistake."]]></description>
-      <link>https://www.bbc.com/news/articles/c62vl05rz0ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c62vl05rz0ko</guid>
-      <pubDate>Tue, 25 Nov 2025 12:26:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7476/live/72c3b5f0-c9f3-11f0-bd31-8fd3ec515046.jpg"/>
     </item>
     <item>
       <title><![CDATA[Scammers hacked her phone and stole thousands - so how did they get her details?]]></title>

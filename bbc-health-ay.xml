@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 08:29:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 08:58:20 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -78,6 +78,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ced6dx0xewno</guid>
       <pubDate>Fri, 28 Nov 2025 05:55:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f1/live/9fd8b020-ca09-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Cancer patient welcomes newly-approved treatment]]></title>
+      <description><![CDATA[Sharon Price from Newcastle-under-Lyme says she was glad to avoid the need for surgery.]]></description>
+      <link>https://www.bbc.com/news/articles/c93n4qe9xeko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c93n4qe9xeko</guid>
+      <pubDate>Tue, 02 Dec 2025 06:27:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc20/live/5da91b20-ceed-11f0-9606-97a48f45f0d3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Adolescence lasts into 30s - new study shows four pivotal ages for your brain]]></title>
@@ -223,14 +231,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3dn3ryl3p7o</guid>
       <pubDate>Thu, 13 Nov 2025 10:23:12 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6bc/live/998d8590-c079-11f0-b95f-c7c5e73ea311.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[AI vs superbugs: UK invests millions to tackle drug-resistant infections]]></title>
-      <description><![CDATA[The UK turns to artificial intelligence (AI) to reverse the rising numbers of infections that shrug off antibiotics.]]></description>
-      <link>https://www.bbc.com/news/articles/cp97ggrnn35o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp97ggrnn35o</guid>
-      <pubDate>Tue, 18 Nov 2025 06:10:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ae/live/a9d77b10-c3ba-11f0-8b5b-6b842c57bf0d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Lockdown could have been avoided - key findings from Covid inquiry]]></title>
