@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 10:22:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 10:52:50 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['First of its kind' scanner to study blast trauma]]></title>
+      <description><![CDATA[It will be able to monitor changes in brain function just minutes after weapon use, scientists say.]]></description>
+      <link>https://www.bbc.com/news/articles/c23e0k41kxeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c23e0k41kxeo</guid>
+      <pubDate>Tue, 02 Dec 2025 10:01:33 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56b2/live/e9fa9ff0-cec9-11f0-8741-59a8e037abac.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Fashion house Valentino criticised over 'disturbing' AI handbag ads]]></title>
       <description><![CDATA[Social media users have called the luxury Italian fashion brand's artificial intelligence-made adverts "cheap" and "lazy".]]></description>
