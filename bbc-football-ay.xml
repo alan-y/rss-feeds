@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 17:27:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 17:50:18 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -104,14 +104,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0907/live/0847db10-cfc1-11f0-8c06-f5d460985095.png"/>
     </item>
     <item>
-      <title><![CDATA[What have we learned from Scotland in 2025?]]></title>
-      <description><![CDATA[As Scotland sign off 2025 with their second win of the year, BBC Scotland ponders what we have learned about the side in the last 12 months.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cr7l8d9r5k0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr7l8d9r5k0o</guid>
-      <pubDate>Wed, 03 Dec 2025 09:03:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d29/live/1487be40-cfc6-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Late Grealish goal gives Everton victory at Bournemouth]]></title>
       <description><![CDATA[Jack Grealish hits a late winner for Everton at the Vitality Stadium to sentence Bournemouth to a fourth defeat in five games.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c5y2677p46qo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -153,6 +145,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c62njlg44zeo</guid>
       <pubDate>Tue, 02 Dec 2025 23:19:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab10/live/6e776460-cfd4-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What have we learned from Scotland in 2025?]]></title>
+      <description><![CDATA[As Scotland sign off 2025 with their second win of the year, BBC Scotland ponders what we have learned about the side in the last 12 months.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cr7l8d9r5k0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr7l8d9r5k0o</guid>
+      <pubDate>Wed, 03 Dec 2025 09:03:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d29/live/1487be40-cfc6-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Haaland set Premier League's 100-goal record]]></title>
@@ -290,14 +290,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98ngp11lr0o</guid>
       <pubDate>Tue, 02 Dec 2025 11:01:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4da0/live/7456d270-cf6c-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Haaland joins Premier League 100 club - who else is in it?]]></title>
-      <description><![CDATA[Our Ask Me Anything team looks at who is in the Premier League's '100 club' of goalscorers.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cql94xeyv72o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cql94xeyv72o</guid>
-      <pubDate>Tue, 02 Dec 2025 20:20:37 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03fd/live/a1729410-ba31-11f0-aa13-0b0479f6f42a.png"/>
     </item>
     <item>
       <title><![CDATA[How 'sensational' James helped Chelsea stop Arsenal]]></title>
