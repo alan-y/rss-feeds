@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 07:24:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 07:48:48 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -56,12 +56,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0155/live/06d1e240-cfd4-11f0-b6f7-7bf5baf36646.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Eleven and hell - the cost of Newcastle's dropped points]]></title>
-      <description><![CDATA[Newcastle United have dropped more points from winning positions than any other side in the Premier League this season - the tally now stands at 11 after Tuesday's 2-2 draw with Tottenham.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgqzvw9440do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgqzvw9440do</guid>
-      <pubDate>Wed, 03 Dec 2025 00:36:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46b2/live/52d0b650-cfdc-11f0-bfdd-f98fec224d42.jpg"/>
+      <title><![CDATA[One start and 96 minutes - what has happened to Elliott?]]></title>
+      <description><![CDATA[Liverpool's Harvey Elliott has made just one Premier League start since moving on loan to Aston Villa in the summer - so what has gone wrong?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0q51l742lyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0q51l742lyo</guid>
+      <pubDate>Wed, 03 Dec 2025 07:24:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afcf/live/4efb6ad0-cf6d-11f0-9128-0706b18c372a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man City hold off incredible Fulham fightback as Haaland passes milestone]]></title>
@@ -78,6 +78,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c898g5qnwl1o</guid>
       <pubDate>Tue, 02 Dec 2025 23:03:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5be3/live/af7a8420-cfce-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Eleven and hell - the cost of Newcastle's dropped points]]></title>
+      <description><![CDATA[Newcastle United have dropped more points from winning positions than any other side in the Premier League this season - the tally now stands at 11 after Tuesday's 2-2 draw with Tottenham.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgqzvw9440do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgqzvw9440do</guid>
+      <pubDate>Wed, 03 Dec 2025 00:36:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46b2/live/52d0b650-cfdc-11f0-bfdd-f98fec224d42.jpg"/>
     </item>
     <item>
       <title><![CDATA[Late Grealish goal gives Everton victory at Bournemouth]]></title>
@@ -146,14 +154,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly5898lrzdo</guid>
       <pubDate>Tue, 02 Dec 2025 10:19:03 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a98e/live/4aa70c30-cf6a-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sutton's predictions v Tailenders host Felix White]]></title>
-      <description><![CDATA[BBC Sport football expert Chris Sutton takes on Felix White - and AI - with his predictions for the midweek Premier League fixtures.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c7vm3eq7pm5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7vm3eq7pm5o</guid>
-      <pubDate>Mon, 01 Dec 2025 19:51:08 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2b0/live/5fee6880-cef3-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[EFL Trophy round-up: Holders Posh out among shocks]]></title>
@@ -300,6 +300,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f009/live/ce81caa0-ce0b-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Sutton's predictions v Tailenders host Felix White]]></title>
+      <description><![CDATA[BBC Sport football expert Chris Sutton takes on Felix White - and AI - with his predictions for the midweek Premier League fixtures.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c7vm3eq7pm5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7vm3eq7pm5o</guid>
+      <pubDate>Mon, 01 Dec 2025 19:51:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2b0/live/5fee6880-cef3-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Arsenal to sign 16-year-old Ecuadorian twins]]></title>
       <description><![CDATA[Arsenal are set to sign Ecuadorian twins Edwin and Holger Quinter from the same academy that produced Moises Caicedo.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5yq45jq30qo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -330,14 +338,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gk9kv9jxyo</guid>
       <pubDate>Tue, 02 Dec 2025 16:28:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4b0/live/62e23330-cf9a-11f0-abcb-0189553bc54a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Bogle 'brave' for addiction admission - Crewe boss]]></title>
-      <description><![CDATA[Crewe Alexandra boss Lee Bell says striker Omar Bogle has shown "huge bravery" in publicly revealing his issues with addiction to painkillers.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp8zv5m0z2lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8zv5m0z2lo</guid>
-      <pubDate>Tue, 02 Dec 2025 15:48:55 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e72/live/eee818f0-cf8a-11f0-8d79-4975c2144860.jpg"/>
     </item>
     <item>
       <title><![CDATA[All your FPL stats and Premier League team news in one place]]></title>
