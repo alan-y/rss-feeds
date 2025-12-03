@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 10:22:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 10:53:58 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[India scraps order to pre-install state-run cyber safety app on smartphones]]></title>
+      <description><![CDATA[The order to make the registration mandatory had led to a major backlash from several cyber experts. ]]></description>
+      <link>https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/clydg2re4d1o</guid>
+      <pubDate>Wed, 03 Dec 2025 10:39:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e3/live/fa766250-d032-11f0-be7e-2de49272c144.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Bank of England warns of AI bubble risk]]></title>
       <description><![CDATA[The central bank says US stock price valuations are their most stretched since the dotcom bubble burst.]]></description>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyvjyvn83go</guid>
       <pubDate>Tue, 02 Dec 2025 08:26:01 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e99/live/99bd24a0-cf6d-11f0-9128-0706b18c372a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[India tells smartphone makers to put state-run cyber safety app on new devices]]></title>
-      <description><![CDATA[India wants all smartphone makers to pre-install new devices with a state-owned cyber security app.]]></description>
-      <link>https://www.bbc.com/news/articles/cedxyvx74p4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cedxyvx74p4o</guid>
-      <pubDate>Tue, 02 Dec 2025 10:01:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d2/live/51ed9140-cf37-11f0-a052-bdc1808acb03.jpg"/>
     </item>
     <item>
       <title><![CDATA['First of its kind' scanner to study blast trauma]]></title>
