@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 18:58:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 19:21:50 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Nancy takes Celtic job and vows 'exciting football']]></title>
+      <description><![CDATA[Celtic have confirmed the appointment of Wilfried Nancy as their new manager on a two-and-a-half year contract. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cjd0vx3327ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjd0vx3327ro</guid>
+      <pubDate>Wed, 03 Dec 2025 18:58:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"/>
+    </item>
     <item>
       <title><![CDATA[I avoid social media to protect myself - Amorim]]></title>
       <description><![CDATA[Not reading social media abuse is the "only way to survive in this world", says Manchester United manager Ruben Amorim.]]></description>
@@ -30,6 +38,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8jwgeymy0po</guid>
       <pubDate>Wed, 03 Dec 2025 16:43:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23b1/live/e2b7ee50-d063-11f0-ba98-99994829269e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Man City hold off incredible Fulham fightback as Haaland passes milestone]]></title>
+      <description><![CDATA[Erling Haaland becomes the quickest player to reach 100 goals in Premier League history as Manchester City ramp up pressure on leaders Arsenal by fending off Fulham's impressive fightback in a nine-goal thriller.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c5yjgvd8gemo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5yjgvd8gemo</guid>
+      <pubDate>Tue, 02 Dec 2025 22:34:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2e5/live/c82b5550-cfc7-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Injury-time Romero overhead kick rescues point for Spurs]]></title>
+      <description><![CDATA[Cristian Romero's superb 95th-minute overhead kick secures a dramatic point for Tottenham Hotspur against Newcastle United to ease the pressure on manager Thomas Frank.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c898g5qnwl1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c898g5qnwl1o</guid>
+      <pubDate>Tue, 02 Dec 2025 23:03:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5be3/live/af7a8420-cfce-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Success in 2025 - are the Lionesses ready for 2026? ]]></title>
@@ -62,30 +86,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9vje1vjx47o</guid>
       <pubDate>Wed, 03 Dec 2025 09:13:46 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c1/live/6fe04e30-cf5b-11f0-902b-b378fe598ba1.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Newcastle penalty 'absolute VAR mistake' - Frank]]></title>
-      <description><![CDATA[Thomas Frank says awarding Newcastle a penalty after a holding incident between Dan Burn and Rodrigo Bentancur was an "absolute mistake" by VAR.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckg9rk7el99o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg9rk7el99o</guid>
-      <pubDate>Wed, 03 Dec 2025 00:15:19 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b75a/live/2a3e31d0-cfd8-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man City hold off incredible Fulham fightback as Haaland passes milestone]]></title>
-      <description><![CDATA[Erling Haaland becomes the quickest player to reach 100 goals in Premier League history as Manchester City ramp up pressure on leaders Arsenal by fending off Fulham's impressive fightback in a nine-goal thriller.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c5yjgvd8gemo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5yjgvd8gemo</guid>
-      <pubDate>Tue, 02 Dec 2025 22:34:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2e5/live/c82b5550-cfc7-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Injury-time Romero overhead kick rescues point for Spurs]]></title>
-      <description><![CDATA[Cristian Romero's superb 95th-minute overhead kick secures a dramatic point for Tottenham Hotspur against Newcastle United to ease the pressure on manager Thomas Frank.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c898g5qnwl1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c898g5qnwl1o</guid>
-      <pubDate>Tue, 02 Dec 2025 23:03:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5be3/live/af7a8420-cfce-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Late Grealish goal gives Everton victory at Bournemouth]]></title>
@@ -139,6 +139,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0907/live/0847db10-cfc1-11f0-8c06-f5d460985095.png"/>
     </item>
     <item>
+      <title><![CDATA[Newcastle penalty 'absolute VAR mistake' - Frank]]></title>
+      <description><![CDATA[Thomas Frank says awarding Newcastle a penalty after a holding incident between Dan Burn and Rodrigo Bentancur was an "absolute mistake" by VAR.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckg9rk7el99o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg9rk7el99o</guid>
+      <pubDate>Wed, 03 Dec 2025 00:15:19 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b75a/live/2a3e31d0-cfd8-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Racism, rape and death threats: One weekend of social media abuse in football]]></title>
       <description><![CDATA[More than 2,000 extremely abusive social media posts were sent about managers and players in the Premier League and Women's Super League in a single weekend, a BBC investigation finds.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g98zkx518o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -171,20 +179,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b3/live/28405840-cfd3-11f0-8f5a-c92765fc418d.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What leagues have a winter break and when are they?]]></title>
-      <description><![CDATA[Our Ask Me Anything team explore which leagues will have a winter break in football.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8xdgqyyr0qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8xdgqyyr0qo</guid>
-      <pubDate>Wed, 03 Dec 2025 15:13:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8762/live/e0d35b60-d059-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Gary Lineker takes football podcast to Netflix]]></title>
       <description><![CDATA[The Rest is Football will stream on Netflix during next summer's World Cup as part of a new deal.]]></description>
       <link>https://www.bbc.com/news/articles/c14vxr0z3yxo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c14vxr0z3yxo</guid>
       <pubDate>Wed, 03 Dec 2025 08:17:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55c7/live/5d908000-d01f-11f0-a0e2-816fae62ea61.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What leagues have a winter break and when are they?]]></title>
+      <description><![CDATA[Our Ask Me Anything team explore which leagues will have a winter break in football.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8xdgqyyr0qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8xdgqyyr0qo</guid>
+      <pubDate>Wed, 03 Dec 2025 15:13:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8762/live/e0d35b60-d059-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chaos at the Cottage - can Man City fix defensive issues?]]></title>
@@ -209,14 +217,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgqzvw9440do</guid>
       <pubDate>Wed, 03 Dec 2025 00:36:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46b2/live/52d0b650-cfdc-11f0-bfdd-f98fec224d42.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[I won the Euros on my period - England's Mead]]></title>
-      <description><![CDATA[BBC Bitesize's new three-part series 'Girls in PE: Breaking Down the Barriers' takes a look at why so many teenage girls continue to drop out of PE at school.]]></description>
-      <link>https://www.bbc.co.uk/bitesize/articles/z673tcw?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/bitesize/articles/z673tcw</guid>
-      <pubDate>Fri, 28 Nov 2025 13:14:11 GMT</pubDate>
-      <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0mkd3mq.jpg"/>
     </item>
     <item>
       <title><![CDATA[Moyes hails 'excellent' Everton win]]></title>
@@ -268,6 +268,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5723/live/0629ce70-ce3f-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
+      <title><![CDATA[I won the Euros on my period - England's Mead]]></title>
+      <description><![CDATA[BBC Bitesize's new three-part series 'Girls in PE: Breaking Down the Barriers' takes a look at why so many teenage girls continue to drop out of PE at school.]]></description>
+      <link>https://www.bbc.co.uk/bitesize/articles/z673tcw?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/bitesize/articles/z673tcw</guid>
+      <pubDate>Fri, 28 Nov 2025 13:14:11 GMT</pubDate>
+      <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p0mkd3mq.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[When are Premier League players heading to Afcon?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team explains when players will meet up with their countries at the 2025 Africa Cup of Nations.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5yqpv3z810o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -292,14 +300,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/320f/live/24f44f70-cfb0-11f0-b476-4d01662cfb69.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ex-England player arrested on suspicion of attempted rape]]></title>
-      <description><![CDATA[A former England and Premier League footballer has been arrested at Stansted Airport on suspicion of attempted rape.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c98ngp11lr0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98ngp11lr0o</guid>
-      <pubDate>Tue, 02 Dec 2025 11:01:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4da0/live/7456d270-cf6c-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How 'sensational' James helped Chelsea stop Arsenal]]></title>
       <description><![CDATA[Match of the Day pundit Micah Richards analyses how Reece James produced a "sensational" midfield performance to help 10-man Chelsea hold Premier League leaders Arsenal to a 1-1 draw at Stamford Bridge.]]></description>
       <link>https://www.bbc.com/sport/football/videos/czxg7r1xl6wo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -314,6 +314,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c9vjmrr189jo</guid>
       <pubDate>Sun, 30 Nov 2025 16:49:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f009/live/ce81caa0-ce0b-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ex-England player arrested on suspicion of attempted rape]]></title>
+      <description><![CDATA[A former England and Premier League footballer has been arrested at Stansted Airport on suspicion of attempted rape.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c98ngp11lr0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98ngp11lr0o</guid>
+      <pubDate>Tue, 02 Dec 2025 11:01:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4da0/live/7456d270-cf6c-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[How to follow the Premier League on the BBC this week]]></title>
@@ -452,6 +460,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9340/live/c5689e00-c562-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Mad scientist' & 'next Luis Enrique' - who is Celtic boss Wilfried Nancy?]]></title>
+      <description><![CDATA[Kheredine Idessane speaks to an MLS expert about Columbus Crew head coach Wilfried Nancy, who has been linked with Celtic.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdegj67p1z2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdegj67p1z2o</guid>
+      <pubDate>Wed, 03 Dec 2025 19:11:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcd7/live/9c665080-bfa7-11f0-9311-a751aa0ffda1.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Tannadice tussle, Shankland and O'Neill in spotlight]]></title>
       <description><![CDATA[Previewing a difficult game for Rangers at Dundee United, Hearts' Lawrence Shankland SOS and Martin O'Neill's second Celtic farewell.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cz68dlxv7qwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -466,14 +482,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y9r610xzeo</guid>
       <pubDate>Wed, 03 Dec 2025 07:58:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cef/live/c138f5d0-d01d-11f0-9fb5-5f3a3703a365.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Celtic extend ban on Green Brigade after 'threats']]></title>
-      <description><![CDATA[Celtic have extended their ban on the Green Brigade due to "safety incidents" involving the fans' group, which they say include threats against the club's head of security.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgr9z23mmzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgr9z23mmzo</guid>
-      <pubDate>Tue, 02 Dec 2025 18:11:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf8b/live/84710f30-cfa9-11f0-932c-9d1f4bca4809.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch: Scotland beat China in five-goal friendly]]></title>
