@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 18:30:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 18:58:25 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -88,14 +88,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5be3/live/af7a8420-cfce-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Racism, rape and death threats: One weekend of social media abuse in football]]></title>
-      <description><![CDATA[More than 2,000 extremely abusive social media posts were sent about managers and players in the Premier League and Women's Super League in a single weekend, a BBC investigation finds.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g98zkx518o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g98zkx518o</guid>
-      <pubDate>Wed, 03 Dec 2025 06:22:31 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97fc/live/5b3b6380-cfbe-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Late Grealish goal gives Everton victory at Bournemouth]]></title>
       <description><![CDATA[Jack Grealish hits a late winner for Everton at the Vitality Stadium to sentence Bournemouth to a fourth defeat in five games.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c5y2677p46qo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -145,6 +137,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c75vdk221r1o</guid>
       <pubDate>Tue, 02 Dec 2025 22:49:48 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0907/live/0847db10-cfc1-11f0-8c06-f5d460985095.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Racism, rape and death threats: One weekend of social media abuse in football]]></title>
+      <description><![CDATA[More than 2,000 extremely abusive social media posts were sent about managers and players in the Premier League and Women's Super League in a single weekend, a BBC investigation finds.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g98zkx518o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g98zkx518o</guid>
+      <pubDate>Wed, 03 Dec 2025 06:22:31 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97fc/live/5b3b6380-cfbe-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Village People and Robbie Williams to perform at World Cup draw]]></title>
@@ -348,14 +348,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e470/live/5937f960-cf71-11f0-b355-05c29911d4af.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Shankland SOS, Rangers test & O'Neill farewell - midweek Scottish preview]]></title>
-      <description><![CDATA[Previewing a difficult game for Rangers at Dundee United, Hearts' Lawrence Shankland SOS and Martin O'Neill's second Celtic farewell.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz68dlxv7qwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz68dlxv7qwo</guid>
-      <pubDate>Tue, 02 Dec 2025 09:20:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bdd/live/237973b0-cf0a-11f0-9fb5-5f3a3703a365.png"/>
-    </item>
-    <item>
       <title><![CDATA[Sutton's predictions v Tailenders host Felix White]]></title>
       <description><![CDATA[BBC Sport football expert Chris Sutton takes on Felix White - and AI - with his predictions for the midweek Premier League fixtures.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c7vm3eq7pm5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -458,6 +450,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czdrd5rnvydo</guid>
       <pubDate>Wed, 19 Nov 2025 17:59:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9340/live/c5689e00-c562-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Tannadice tussle, Shankland and O'Neill in spotlight]]></title>
+      <description><![CDATA[Previewing a difficult game for Rangers at Dundee United, Hearts' Lawrence Shankland SOS and Martin O'Neill's second Celtic farewell.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz68dlxv7qwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz68dlxv7qwo</guid>
+      <pubDate>Tue, 02 Dec 2025 09:20:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bdd/live/237973b0-cf0a-11f0-9fb5-5f3a3703a365.png"/>
     </item>
     <item>
       <title><![CDATA['New boss Nancy could attend Celtic v Dundee' - gossip]]></title>
