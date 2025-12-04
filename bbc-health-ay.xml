@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 04 Dec 2025 14:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 15:22:47 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[Streeting orders review into mental health and ADHD diagnoses ]]></title>
-      <description><![CDATA[The health secretary says the aim is to tackle a rising demand for services and pressure on the NHS.]]></description>
-      <link>https://www.bbc.com/news/articles/ce8q26q2r75o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8q26q2r75o</guid>
-      <pubDate>Thu, 04 Dec 2025 10:50:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c4/live/2ca58ea0-d0b9-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
     <item>
       <title><![CDATA[Hospitals facing unprecedented flu season, say NHS bosses]]></title>
       <description><![CDATA[Record number of patients in hospital in England with flu for this time of year, figures show.]]></description>
@@ -30,6 +22,22 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c74xqn2zg1eo</guid>
       <pubDate>Thu, 04 Dec 2025 12:59:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a65/live/57380860-d0ea-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Risky infections in elderly overlooked, warns England's chief doctor]]></title>
+      <description><![CDATA[Diseases like pneumonia and flu must be taken much more seriously, England's chief medical officer Sir Chris Whitty says.]]></description>
+      <link>https://www.bbc.com/news/articles/c1kpvxewg93o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kpvxewg93o</guid>
+      <pubDate>Thu, 04 Dec 2025 15:10:43 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebc3/live/23896190-d120-11f0-ab97-9758f58eab4c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Streeting orders review into mental health and ADHD diagnoses ]]></title>
+      <description><![CDATA[The health secretary says the aim is to tackle a rising demand for services and pressure on the NHS.]]></description>
+      <link>https://www.bbc.com/news/articles/ce8q26q2r75o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8q26q2r75o</guid>
+      <pubDate>Thu, 04 Dec 2025 10:50:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c4/live/2ca58ea0-d0b9-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[MND took our son at 14 - anyone at any age can get it]]></title>
@@ -56,14 +64,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b5f7fbb0-d07e-11f0-a892-01d657345866.png"/>
     </item>
     <item>
-      <title><![CDATA[Supermarket loyalty discounts to be allowed on baby formula]]></title>
-      <description><![CDATA[The government claims that parents who cannot or chose not to breastfeed could save £500 a year.]]></description>
-      <link>https://www.bbc.com/news/articles/clyx321ded1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/clyx321ded1o</guid>
-      <pubDate>Wed, 03 Dec 2025 18:32:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1e/live/067fd4c0-d04f-11f0-93e9-173097fe0286.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Warning over cosmetic face fillers as scans reveal new details of risks]]></title>
       <description><![CDATA[Placed incorrectly, cosmetic dermal fillers can damage nearby ateries, leading to to skin loss and even blindness, experts warn.]]></description>
       <link>https://www.bbc.com/news/articles/c773n331055o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -78,6 +78,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2dw7l158po</guid>
       <pubDate>Mon, 01 Dec 2025 17:25:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/370d/live/3ffed6e0-cedf-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Supermarket loyalty discounts to be allowed on baby formula]]></title>
+      <description><![CDATA[The government claims that parents who cannot or chose not to breastfeed could save £500 a year.]]></description>
+      <link>https://www.bbc.com/news/articles/clyx321ded1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/clyx321ded1o</guid>
+      <pubDate>Wed, 03 Dec 2025 18:32:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1e/live/067fd4c0-d04f-11f0-93e9-173097fe0286.jpg"/>
     </item>
     <item>
       <title><![CDATA[US and UK agree zero tariffs deal on pharmaceuticals]]></title>
@@ -223,14 +231,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cy0y07959djo</guid>
       <pubDate>Fri, 21 Nov 2025 10:44:53 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a45/live/ff1d7710-c0da-11f0-9cdd-cd78459d79fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ultra-processed food is global health threat, experts warn]]></title>
-      <description><![CDATA[It is increasing our risk of a range of chronic diseases, including obesity and depression, a major review says.]]></description>
-      <link>https://www.bbc.com/news/articles/cy4pjjzd784o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4pjjzd784o</guid>
-      <pubDate>Wed, 19 Nov 2025 12:53:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0dc/live/7ab81ae0-c565-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Government racks up £100m bill responding to Covid inquiry]]></title>
