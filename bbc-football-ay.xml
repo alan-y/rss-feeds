@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 04 Dec 2025 12:42:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 13:35:49 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -66,12 +66,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/e2172330-d09f-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Palace may consider Mateta bids - Thursday's gossip]]></title>
-      <description><![CDATA[Crystal Palace could listen to Jean-Philippe Mateta offers, Napoli targeting Kobbie Mainoo, Brighton may move for Said el Mala.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgr9w8l343o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgr9w8l343o</guid>
-      <pubDate>Wed, 03 Dec 2025 23:14:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc81/live/e6ae77e0-d09a-11f0-a892-01d657345866.png"/>
+      <title><![CDATA['We're not machines' - Courtois on abuse of Vinicius Jr and Araujo]]></title>
+      <description><![CDATA[Real Madrid goalkeeper Thibaut Courtois urges supporters to show players more "respect" after team-mate Vinicius Jr is once again the target of abuse by fans.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0l9n2l1yk0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0l9n2l1yk0o</guid>
+      <pubDate>Thu, 04 Dec 2025 13:00:12 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6028/live/29775220-d106-11f0-a4c7-5dbeb8de769b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Iran to attend World Cup draw after boycott threat]]></title>
@@ -90,12 +90,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6478/live/37025bf0-d0a8-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Bergamo to host NI's World Cup play-off with Italy]]></title>
-      <description><![CDATA[Northern Ireland's World Cup play-off semi-final against Italy will take place at Stadio di Bergamo on 26 March.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8e962zez08o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8e962zez08o</guid>
-      <pubDate>Thu, 04 Dec 2025 12:30:32 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c286/live/855b6ee0-d10c-11f0-b053-07c33c2fe816.jpg"/>
+      <title><![CDATA[Palace may consider Mateta bids - Thursday's gossip]]></title>
+      <description><![CDATA[Crystal Palace could listen to Jean-Philippe Mateta offers, Napoli targeting Kobbie Mainoo, Brighton may move for Said el Mala.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgr9w8l343o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgr9w8l343o</guid>
+      <pubDate>Wed, 03 Dec 2025 23:14:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc81/live/e6ae77e0-d09a-11f0-a892-01d657345866.png"/>
     </item>
     <item>
       <title><![CDATA[Leeds stun Chelsea to end four-game losing streak]]></title>
@@ -144,6 +144,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvgjn07y145o</guid>
       <pubDate>Wed, 03 Dec 2025 22:31:15 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c3/live/d2828d30-d08e-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Bergamo to host NI's World Cup play-off with Italy]]></title>
+      <description><![CDATA[Northern Ireland's World Cup play-off semi-final against Italy will take place at Stadio di Bergamo on 26 March.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8e962zez08o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8e962zez08o</guid>
+      <pubDate>Thu, 04 Dec 2025 12:30:32 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c286/live/855b6ee0-d10c-11f0-b053-07c33c2fe816.jpg"/>
     </item>
     <item>
       <title><![CDATA[Did we get too excited, too soon about Hearts?]]></title>
@@ -322,14 +330,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dca/live/8f1ffa40-d03f-11f0-a224-bf3cbaf1e70d.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Paqueta warned but avoids extended ban for dissent]]></title>
-      <description><![CDATA[West Ham midfielder Lucas Paqueta is warned but avoids an additional ban from the FA for his reaction to being sent off against Liverpool.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly3nn263e5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly3nn263e5o</guid>
-      <pubDate>Wed, 03 Dec 2025 18:10:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d2/live/87ef7cf0-d06c-11f0-b6ef-e721b9e1ef03.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Glasner proud of clean sheet and win at Burnley]]></title>
       <description><![CDATA[Crystal Palace boss Oliver Glasner praises side for their "togetherness" as they beat struggling Burnley 1-0 at Turf Moor.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c8dyglv3jvmo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -491,6 +491,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efb6/live/4798a1c0-d07d-11f0-92b0-9b1b6ce7fb6f.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Ajax criticise 'outrageous' fireworks after match abandoned]]></title>
+      <description><![CDATA[Ajax criticise the "utterly outrageous" firework display which resulted in their Dutch league match against Groningen being abandoned.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c75v7962722o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c75v7962722o</guid>
+      <pubDate>Sun, 30 Nov 2025 22:55:07 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edda/live/c1492ec0-ce36-11f0-b0ac-d13c1508eb1d.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[What's going on with fan disorder at European games?]]></title>
       <description><![CDATA[Was the disorder of Young Boys fans at Aston Villa an isolated incident, or does it indicate something more prevalent?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c75vz7lgr76o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -521,14 +529,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdxwz1p5k5po</guid>
       <pubDate>Fri, 28 Nov 2025 00:02:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6321/live/141efd90-cbe5-11f0-b111-b3d035bec50c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[BBC secures rights to show La Liga clips until 2027]]></title>
-      <description><![CDATA[BBC Sport has secures the rights to show La Liga highlights in the UK in a deal which runs until 2027.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c78v5j5e18no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78v5j5e18no</guid>
-      <pubDate>Thu, 27 Nov 2025 10:03:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4249/live/f8696660-cb73-11f0-8acb-1b2068777e6f.jpg"/>
     </item>
     <item>
       <title><![CDATA['As if she won the Champions League' - Kendall's special night]]></title>
