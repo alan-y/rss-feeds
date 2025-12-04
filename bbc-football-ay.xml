@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 04 Dec 2025 06:30:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 06:57:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -200,14 +200,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d29/live/1487be40-cfc6-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Success in 2025 - are the Lionesses ready for 2026? ]]></title>
-      <description><![CDATA[England capped off a successful 2025 with resounding victories over China and Ghana at home - so what shape are they in for World Cup qualification?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly356q03n4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly356q03n4o</guid>
-      <pubDate>Wed, 03 Dec 2025 11:52:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28aa/live/826b6b00-d034-11f0-be7e-2de49272c144.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Slot sees 'positives' after Liverpool battle back for draw against Sunderland]]></title>
       <description><![CDATA[Arne Slot sees positives in Liverpools performance against a "very aggressive" Sunderland press, despite drawing 1-1.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cg4n109lkrdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -248,6 +240,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39da/live/7c3dc7d0-d09a-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Success in 2025 - are the Lionesses ready for 2026? ]]></title>
+      <description><![CDATA[England capped off a successful 2025 with resounding victories over China and Ghana at home - so what shape are they in for World Cup qualification?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly356q03n4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly356q03n4o</guid>
+      <pubDate>Wed, 03 Dec 2025 11:52:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28aa/live/826b6b00-d034-11f0-be7e-2de49272c144.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[What leagues have a winter break and when are they?]]></title>
       <description><![CDATA[Our Ask Me Anything team explore which leagues will have a winter break in football.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8xdgqyyr0qo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -286,14 +286,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62n6779874o</guid>
       <pubDate>Wed, 03 Dec 2025 14:15:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dca/live/8f1ffa40-d03f-11f0-a224-bf3cbaf1e70d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How big a miss is Caicedo for Chelsea?]]></title>
-      <description><![CDATA[Chelsea will be without the suspended Moises Caicedo for their next three league games. How will they cope without him?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9vje1vjx47o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9vje1vjx47o</guid>
-      <pubDate>Wed, 03 Dec 2025 09:13:46 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c1/live/6fe04e30-cf5b-11f0-902b-b378fe598ba1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Glasner proud of clean sheet and win at Burnley]]></title>
@@ -337,6 +329,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2e5/live/c82b5550-cfc7-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How big a miss is Caicedo for Chelsea?]]></title>
+      <description><![CDATA[Chelsea will be without the suspended Moises Caicedo for their next three league games. How will they cope without him?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9vje1vjx47o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9vje1vjx47o</guid>
+      <pubDate>Wed, 03 Dec 2025 09:13:46 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c1/live/6fe04e30-cf5b-11f0-902b-b378fe598ba1.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Gary Lineker takes football podcast to Netflix]]></title>
       <description><![CDATA[The Rest is Football will stream on Netflix during next summer's World Cup as part of a new deal.]]></description>
       <link>https://www.bbc.com/news/articles/c14vxr0z3yxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -359,14 +359,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kpzljpz6lo</guid>
       <pubDate>Tue, 02 Dec 2025 09:35:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbda/live/f43c6ea0-cbac-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[When are Premier League players heading to Afcon?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team explains when players will meet up with their countries at the 2025 Africa Cup of Nations.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yqpv3z810o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yqpv3z810o</guid>
-      <pubDate>Wed, 03 Dec 2025 16:29:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c158/live/708b1b00-d049-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sutton's predictions v Tailenders host Felix White]]></title>
@@ -433,6 +425,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab32/live/2024ee20-9b9c-11f0-bdeb-9de9348d5d1d.jpg"/>
     </item>
     <item>
+      <title><![CDATA[When are Premier League players heading to Afcon?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team explains when players will meet up with their countries at the 2025 Africa Cup of Nations.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5yqpv3z810o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yqpv3z810o</guid>
+      <pubDate>Wed, 03 Dec 2025 16:29:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c158/live/708b1b00-d049-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Who is one card away from suspension in the Premier League?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team looks at who is currently nearing a suspension in the Premier League.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx25x2r5r32o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -479,6 +479,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20gnze0zggo</guid>
       <pubDate>Thu, 04 Dec 2025 01:29:55 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6b5/live/4c03c340-d0ad-11f0-b487-79c943b69f96.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Celtic trio free to play cup final after Fifa rule change - gossip]]></title>
+      <description><![CDATA[A delayed deadline day for players to leave for the Africa Cup of Nations has implications for Celtic and Rangers, while Dundee United could lose a January transfer target to Olympiakos.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gvrq3ll9eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gvrq3ll9eo</guid>
+      <pubDate>Thu, 04 Dec 2025 06:53:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a291/live/e88a5dd0-d0dc-11f0-a892-01d657345866.png"/>
     </item>
     <item>
       <title><![CDATA[What's going on with fan disorder at European games?]]></title>
