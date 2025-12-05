@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 12:40:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 13:21:38 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -208,20 +208,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a482/live/5184b330-d12d-11f0-9d18-614b3678ebf8.jpg"/>
     </item>
     <item>
+      <title><![CDATA['The time was right' - Oxtoby swaps Northern Ireland for Newcastle]]></title>
+      <description><![CDATA[Stepping away from international football to manage a club in England's second tier was a decision Tanya Oxtoby "didn't take lightly".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqxqe92elrjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxqe92elrjo</guid>
+      <pubDate>Fri, 05 Dec 2025 08:52:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dee/live/27a2a830-d1c1-11f0-9af0-d7cf64408750.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[When is the FA Cup third round draw?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team looks at the details of the FA Cup third round draw]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgqee5y9wgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgqee5y9wgo</guid>
+      <pubDate>Fri, 05 Dec 2025 12:45:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4ad/live/6e1be0e0-d1d7-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Salah could still go to Saudi - Friday's gossip]]></title>
       <description><![CDATA[Mohamed Salah could still be heading to the Saudi Pro League, Galatasaray will offer him a huge contract, and Real Madrid will rival Manchester United for a Greek wonderkid.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ckgl4vy6pg1o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgl4vy6pg1o</guid>
       <pubDate>Thu, 04 Dec 2025 23:29:29 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2481/live/e00b8260-d168-11f0-9fb5-5f3a3703a365.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Quiz: Which nations have qualified for 2026 World Cup?]]></title>
-      <description><![CDATA[We want you to name every nation who has qualified for the 2026 World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy8v4j0nn0ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8v4j0nn0ro</guid>
-      <pubDate>Fri, 05 Dec 2025 07:48:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dfb/live/659084e0-a93b-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
       <title><![CDATA[Lingard to leave FC Seoul after two seasons]]></title>
@@ -280,6 +288,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c3/live/d2828d30-d08e-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Quiz: Which nations have qualified for 2026 World Cup?]]></title>
+      <description><![CDATA[We want you to name every nation who has qualified for the 2026 World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy8v4j0nn0ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8v4j0nn0ro</guid>
+      <pubDate>Fri, 05 Dec 2025 07:48:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dfb/live/659084e0-a93b-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Who has the most and least gruelling December fixture list?]]></title>
       <description><![CDATA[Which team has to play three matches, in three competitions, in six days later this month? And which Premier League team has the least exhausting December schedule? BBC Sport takes a look.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c33m10jgj4lo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -320,14 +336,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgj8j1gv0go</guid>
       <pubDate>Thu, 04 Dec 2025 11:00:25 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b28/live/f1e30610-cf61-11f0-902b-b378fe598ba1.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['The time was right' - Oxtoby swaps Northern Ireland for Newcastle]]></title>
-      <description><![CDATA[Stepping away from international football to manage a club in England's second tier was a decision Tanya Oxtoby "didn't take lightly".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqxqe92elrjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxqe92elrjo</guid>
-      <pubDate>Fri, 05 Dec 2025 08:52:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dee/live/27a2a830-d1c1-11f0-9af0-d7cf64408750.jpg"/>
     </item>
     <item>
       <title><![CDATA[Old Trafford draw 'another step' forward for West Ham - Nuno]]></title>
@@ -408,14 +416,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93w8plvv0zo</guid>
       <pubDate>Thu, 04 Dec 2025 06:04:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ec9/live/b2bc75d0-d028-11f0-8d66-e797ff22b6b0.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How to follow the FA Cup on the BBC this weekend]]></title>
-      <description><![CDATA[BBC Sport Ask Me Anything explains how to follow the FA Cup second round on TV and radio this weekend.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn4078xn1e0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn4078xn1e0o</guid>
-      <pubDate>Fri, 05 Dec 2025 08:11:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7001/live/fe73fb70-b407-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch trailer for Robbie Savage: Managing Macclesfield FC  ]]></title>
