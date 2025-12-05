@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 11:46:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 12:40:31 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Elon Musk's X fined €120m over 'deceptive' blue ticks]]></title>
+      <description><![CDATA[The European Commission says the social media site is opening its users up to scams and impersonations.]]></description>
+      <link>https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g9kejzvw0o</guid>
+      <pubDate>Fri, 05 Dec 2025 12:31:07 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d77b/live/7819d970-d1d3-11f0-9c0d-83f64f80aa08.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Porn site fined £1m over age checks has never responded to Ofcom]]></title>
       <description><![CDATA[The regulator tells the BBC it has been emailing AVS Group Ltd without reply since July.]]></description>
@@ -262,14 +270,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c78z2m43ykjo</guid>
       <pubDate>Tue, 18 Nov 2025 14:13:36 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc76/live/960ead20-c55d-11f0-88c6-23e769b55dc3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Google boss says trillion-dollar AI investment boom has 'elements of irrationality']]></title>
-      <description><![CDATA[In an exclusive BBC interview, Sundar Pichai hailed artificial intelligence as an "extraordinary moment" but said no company would be immune if bubble burst.]]></description>
-      <link>https://www.bbc.com/news/articles/cwy7vrd8k4eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy7vrd8k4eo</guid>
-      <pubDate>Tue, 18 Nov 2025 12:16:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3315/live/e6697310-c47a-11f0-9b68-57906bffd3ed.jpg"/>
     </item>
     <item>
       <title><![CDATA[Will boats be a breakthrough for 3D printing tech?]]></title>
