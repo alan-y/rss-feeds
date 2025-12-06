@@ -10,13 +10,13 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 06 Dec 2025 15:32:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 15:45:33 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
-      <title><![CDATA[Brighton owner Bloom denies £52m betting claims]]></title>
+      <title><![CDATA[Brighton owner Bloom denies betting claims]]></title>
       <description><![CDATA[Tony Bloom says he "categorically assure" fans that he has never placed bets on matches involving the team since becoming Brighton owner.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c98nj8q9qr4o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98nj8q9qr4o</guid>
@@ -30,6 +30,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/clyz1y18y3xo</guid>
       <pubDate>Sat, 06 Dec 2025 15:19:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da3b/live/f154b7a0-d2b5-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Emery praises Villa consistency after beating Arsenal]]></title>
+      <description><![CDATA[Aston Villa manager Unai Emery praises their consistency after a 2-1 win against Arsenal.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c14ve4e8m30o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c14ve4e8m30o</guid>
+      <pubDate>Sat, 06 Dec 2025 15:32:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f184/live/d1c1ea00-d2b7-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA['A good chance' - McFadden on Scotland's World Cup group]]></title>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/clydx373zkmo</guid>
       <pubDate>Fri, 05 Dec 2025 20:59:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98f6/live/2c606f00-d21c-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[When England thrashed Panama at 2018 World Cup in Russia]]></title>
-      <description><![CDATA[BBC Sport looks back at England's 6-1 win over Panama in 2018, after the two sides are drawn in the same group for the 2026 World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cly5z5rpg3vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cly5z5rpg3vo</guid>
-      <pubDate>Fri, 05 Dec 2025 19:25:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b85/live/f559f0a0-d20f-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Mainoo in demand for January loan - Saturday's gossip]]></title>
@@ -224,6 +224,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a1b/live/5e2f7600-d20a-11f0-936b-f537e2f59ee5.jpg"/>
     </item>
     <item>
+      <title><![CDATA[When England thrashed Panama at 2018 World Cup in Russia]]></title>
+      <description><![CDATA[BBC Sport looks back at England's 6-1 win over Panama in 2018, after the two sides are drawn in the same group for the 2026 World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cly5z5rpg3vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cly5z5rpg3vo</guid>
+      <pubDate>Fri, 05 Dec 2025 19:25:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b85/live/f559f0a0-d20f-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Borini scores as Salford shock Leyton Orient in FA Cup]]></title>
       <description><![CDATA[Former Liverpool and Italy forward Fabio Borini scores for Salford City as they beat Leyton Orient 4-0 to reach the third round of the FA Cup.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c3v1d7nzv13o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -254,14 +262,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c7vmr18q969o</guid>
       <pubDate>Fri, 05 Dec 2025 16:26:50 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3027/live/d3b93b50-d1f5-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Heat will reduce intensity of matches - Tuchel]]></title>
-      <description><![CDATA[England manager Thomas Tuchel speaks to BBC sports editor Dan Roan about how high temperatures could impact the World Cup next summer.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c8jw10dr8xro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c8jw10dr8xro</guid>
-      <pubDate>Fri, 05 Dec 2025 08:09:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1794/live/00d20ae0-d1b0-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
       <title><![CDATA[Who are the 2026 World Cup debutants?]]></title>
@@ -320,6 +320,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbfa/live/b37b90e0-d1b9-11f0-92d4-83a9ddc909ff.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Heat will reduce intensity of matches - Tuchel]]></title>
+      <description><![CDATA[England manager Thomas Tuchel speaks to BBC sports editor Dan Roan about how high temperatures could impact the World Cup next summer.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c8jw10dr8xro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c8jw10dr8xro</guid>
+      <pubDate>Fri, 05 Dec 2025 08:09:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1794/live/00d20ae0-d1b0-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Man Utd halted as Magassa gets first West Ham goal]]></title>
       <description><![CDATA[Watch Premier League highlights as Manchester United are held at home by West Ham, with Soungoutou Magassa scoring his first Hammers goal.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c208n73vxlgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -350,14 +358,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/clydxg17mlgo</guid>
       <pubDate>Thu, 04 Dec 2025 22:38:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fd7/live/3949d150-d160-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Old Trafford draw 'another step' forward for West Ham - Nuno]]></title>
-      <description><![CDATA[West Ham manager Nuno Espirito Santo is pleased with his team's work, after the Hammers came from a goal down to draw 1-1 away to Manchester United.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cy7v02kgp38o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy7v02kgp38o</guid>
-      <pubDate>Thu, 04 Dec 2025 22:38:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0abf/live/2ac76970-d161-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[England's AI World Cup masterplan - from perfecting penalties to powering players]]></title>
