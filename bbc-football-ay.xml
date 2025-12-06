@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 06 Dec 2025 07:17:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 07:31:30 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -72,6 +72,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba1a/live/77060ea0-d106-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
+      <title><![CDATA['We have a chance?' Muller out to spoil Miami's MLS Cup quest]]></title>
+      <description><![CDATA[Thomas Muller's Vancouver Whitecaps will face Lionel Messi's Inter Miami in the MLS Cup final - and the German is relishing another showpiece in his storied career.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c04vdgdg2e3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c04vdgdg2e3o</guid>
+      <pubDate>Sat, 06 Dec 2025 07:21:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a70/live/5ff03270-d202-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[President Trump wins inaugural Fifa Peace Prize]]></title>
       <description><![CDATA[US President Donald Trump receives the inaugural Fifa Peace Prize before the draw for the 2026 Fifa World Cup.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy5gw0wv5zqo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -80,12 +88,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dbe/live/8592ca50-d203-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Buzzing' Scots have 'point to prove' at World Cup]]></title>
-      <description><![CDATA[Current and former Scotland players react to the 2026 World Cup draw, with an air of cautious optimism.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cg7v5nlm7pvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg7v5nlm7pvo</guid>
-      <pubDate>Fri, 05 Dec 2025 21:16:03 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d93a/live/ec213c80-d216-11f0-bd15-e5c6de83b2f6.jpg"/>
+      <title><![CDATA['Bring it on' says Clarke as Scotland face Brazil, Morocco & Haiti]]></title>
+      <description><![CDATA[Scotland will open their World Cup finals next summer against Haiti after also being drawn against Brazil and Morocco.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgj1q46v3qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgj1q46v3qo</guid>
+      <pubDate>Fri, 05 Dec 2025 19:01:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/424b/live/ded98da0-d20e-11f0-936b-f537e2f59ee5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Kind draw with an edge? Wales' potential World Cup group]]></title>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg8665nzdvo</guid>
       <pubDate>Fri, 05 Dec 2025 20:49:11 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fe/live/cf43cf10-d211-11f0-bd15-e5c6de83b2f6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Bring it on' says Clarke as Scotland face Brazil, Morocco & Haiti]]></title>
-      <description><![CDATA[Scotland will open their World Cup finals next summer against Haiti after also being drawn against Brazil and Morocco.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgj1q46v3qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgj1q46v3qo</guid>
-      <pubDate>Fri, 05 Dec 2025 19:01:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/424b/live/ded98da0-d20e-11f0-936b-f537e2f59ee5.jpg"/>
     </item>
     <item>
       <title><![CDATA['Fearless' Northern Ireland learn potential World Cup rivals]]></title>
@@ -200,20 +200,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d165/live/458e30d0-d1f3-11f0-9821-efccbabdc894.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Buzzing' Scots have 'point to prove' at World Cup]]></title>
+      <description><![CDATA[Current and former Scotland players react to the 2026 World Cup draw, with an air of cautious optimism.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cg7v5nlm7pvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg7v5nlm7pvo</guid>
+      <pubDate>Fri, 05 Dec 2025 21:16:03 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d93a/live/ec213c80-d216-11f0-bd15-e5c6de83b2f6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Mejbri given four-game ban for spitting at fans]]></title>
       <description><![CDATA[Burnley midfielder Hannibal Mejbri is given a four-match ban and a £15,000 fine after spitting at Leeds United fans last month.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cq5q3jdn6w4o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq5q3jdn6w4o</guid>
       <pubDate>Fri, 05 Dec 2025 15:35:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04b0/live/449a6ce0-d1f1-11f0-9821-efccbabdc894.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Morecambe takeover figure accused of terrorism involvement]]></title>
-      <description><![CDATA[A key figure behind the Morecambe FC takeover deal is sanctioned by the UK government over accusations of involvement in terrorism.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c80xp73dkmyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80xp73dkmyo</guid>
-      <pubDate>Fri, 05 Dec 2025 17:06:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b832/live/7ab79a50-d1c9-11f0-b6cb-23b400b2e174.jpg"/>
     </item>
     <item>
       <title><![CDATA['A wonderful miracle' - how Messi & Beckham made Miami shine]]></title>
@@ -238,6 +238,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/c5y920ev9ldo</guid>
       <pubDate>Fri, 05 Dec 2025 11:22:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Morecambe takeover figure accused of terrorism involvement]]></title>
+      <description><![CDATA[A key figure behind the Morecambe FC takeover deal is sanctioned by the UK government over accusations of involvement in terrorism.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c80xp73dkmyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80xp73dkmyo</guid>
+      <pubDate>Fri, 05 Dec 2025 17:06:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b832/live/7ab79a50-d1c9-11f0-b6cb-23b400b2e174.jpg"/>
     </item>
     <item>
       <title><![CDATA[Amorim defends his use of midfielder Mainoo]]></title>
@@ -270,14 +278,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdxe5g1r1rvo</guid>
       <pubDate>Fri, 05 Dec 2025 10:38:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67f9/live/6d8010b0-d1c4-11f0-9af0-d7cf64408750.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Fenerbahce captain's home raided in Turkish betting scandal]]></title>
-      <description><![CDATA[Players, club directors, a commentator and a referee are among the latest to be arrested in Turkey's betting scandal.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0kd73vnp5mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kd73vnp5mo</guid>
-      <pubDate>Fri, 05 Dec 2025 12:20:44 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d1/live/b2d04170-d1d4-11f0-9c0d-83f64f80aa08.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man Utd halted as Magassa gets first West Ham goal]]></title>
@@ -344,6 +344,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7001/live/fe73fb70-b407-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Fenerbahce captain's home raided in Turkish betting scandal]]></title>
+      <description><![CDATA[Players, club directors, a commentator and a referee are among the latest to be arrested in Turkey's betting scandal.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0kd73vnp5mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kd73vnp5mo</guid>
+      <pubDate>Fri, 05 Dec 2025 12:20:44 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d1/live/b2d04170-d1d4-11f0-9c0d-83f64f80aa08.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Time to take a punt on Wirtz - FPL team of the week]]></title>
       <description><![CDATA[Phil Foden is the hottest midfield asset in the game at the moment, with four goals in two games, and it seems daft not to sign him if you have the money.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cqlk2qx5pw5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -374,14 +382,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yjgg0zljro</guid>
       <pubDate>Thu, 04 Dec 2025 15:09:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1f8/live/3f214e60-d06f-11f0-92b0-9b1b6ce7fb6f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Quiz: Which nations have qualified for 2026 World Cup?]]></title>
-      <description><![CDATA[We want you to name every nation who has qualified for the 2026 World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy8v4j0nn0ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8v4j0nn0ro</guid>
-      <pubDate>Fri, 05 Dec 2025 07:48:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dfb/live/659084e0-a93b-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
       <title><![CDATA[Newcastle have money to spend in January - Wilson]]></title>
@@ -432,6 +432,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b6/live/d044ec40-d11d-11f0-8c06-f5d460985095.png"/>
     </item>
     <item>
+      <title><![CDATA[Quiz: Which nations have qualified for 2026 World Cup?]]></title>
+      <description><![CDATA[We want you to name every nation who has qualified for the 2026 World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy8v4j0nn0ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8v4j0nn0ro</guid>
+      <pubDate>Fri, 05 Dec 2025 07:48:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dfb/live/659084e0-a93b-11f0-b741-177e3e2c2fc7.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[History and upsets - five things to watch for in FA Cup]]></title>
       <description><![CDATA[With history up for grabs and upsets on the cards, here are the five things to watch out for in the FA Cup second round.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c20k1v0kj81o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -448,20 +456,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ec/live/8e233350-d1b6-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
-      <title><![CDATA[When is the FA Cup third round draw?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team looks at the details of the FA Cup third round draw]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgqee5y9wgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgqee5y9wgo</guid>
-      <pubDate>Fri, 05 Dec 2025 12:45:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4ad/live/6e1be0e0-d1d7-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['The time was right' - Oxtoby swaps Northern Ireland for Newcastle]]></title>
       <description><![CDATA[Stepping away from international football to manage a club in England's second tier was a decision Tanya Oxtoby "didn't take lightly".]]></description>
       <link>https://www.bbc.com/sport/football/articles/cqxqe92elrjo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxqe92elrjo</guid>
       <pubDate>Fri, 05 Dec 2025 08:52:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dee/live/27a2a830-d1c1-11f0-9af0-d7cf64408750.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[When is the FA Cup third round draw?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team looks at the details of the FA Cup third round draw]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgqee5y9wgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgqee5y9wgo</guid>
+      <pubDate>Fri, 05 Dec 2025 12:45:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4ad/live/6e1be0e0-d1d7-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[How England use artificial intelligence to help with penalties]]></title>
