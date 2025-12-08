@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 08 Dec 2025 11:47:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 12:40:43 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Elon Musk's X bans European Commission from making ads after €120m fine]]></title>
+      <description><![CDATA[The EU regulator had fined the social media platform over its "deceptive" blue tick badges.]]></description>
+      <link>https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0589g0dqq7o</guid>
+      <pubDate>Mon, 08 Dec 2025 12:19:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebbe/live/e74a8590-d423-11f0-b53c-99fcb1366f6e.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Trump says $72bn Netflix-Warner Bros deal 'could be a problem']]></title>
       <description><![CDATA[The planned deal would cement Netflix in its position as the world's biggest subscription streaming service.]]></description>
@@ -104,20 +112,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa3/live/633b3990-cfa3-11f0-a7ae-216dd0212f3b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Fashion house Valentino criticised over 'disturbing' AI handbag ads]]></title>
-      <description><![CDATA[Social media users have called the luxury Italian fashion brand's artificial intelligence-made adverts "cheap" and "lazy".]]></description>
-      <link>https://www.bbc.com/news/articles/cwyvjyvn83go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyvjyvn83go</guid>
-      <pubDate>Tue, 02 Dec 2025 08:26:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e99/live/99bd24a0-cf6d-11f0-9128-0706b18c372a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['First of its kind' scanner to study blast trauma]]></title>
-      <description><![CDATA[It will be able to monitor changes in brain function just minutes after weapon use, scientists say.]]></description>
-      <link>https://www.bbc.com/news/articles/c23e0k41kxeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c23e0k41kxeo</guid>
-      <pubDate>Tue, 02 Dec 2025 10:01:33 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56b2/live/e9fa9ff0-cec9-11f0-8741-59a8e037abac.jpg"/>
+      <title><![CDATA[Virgin Media fined £24m for leaving vulnerable customers 'at risk of harm']]></title>
+      <description><![CDATA[Ofcom has fined Virgin Media after an investigation found it had left thousands of vulnerable telecare customers at risk. ]]></description>
+      <link>https://www.bbc.com/news/articles/ce8qv9319zlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8qv9319zlo</guid>
+      <pubDate>Mon, 01 Dec 2025 12:57:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d635/live/9fa5da90-ce8e-11f0-a3de-17b3978993a3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Jorja Smith's record label hits out at 'AI clone' song]]></title>
@@ -128,12 +128,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f985/live/2186feb0-ceab-11f0-83ff-5d092210839a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Virgin Media fined £24m for leaving vulnerable customers 'at risk of harm']]></title>
-      <description><![CDATA[Ofcom has fined Virgin Media after an investigation found it had left thousands of vulnerable telecare customers at risk. ]]></description>
-      <link>https://www.bbc.com/news/articles/ce8qv9319zlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8qv9319zlo</guid>
-      <pubDate>Mon, 01 Dec 2025 12:57:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d635/live/9fa5da90-ce8e-11f0-a3de-17b3978993a3.jpg"/>
+      <title><![CDATA['First of its kind' scanner to study blast trauma]]></title>
+      <description><![CDATA[It will be able to monitor changes in brain function just minutes after weapon use, scientists say.]]></description>
+      <link>https://www.bbc.com/news/articles/c23e0k41kxeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c23e0k41kxeo</guid>
+      <pubDate>Tue, 02 Dec 2025 10:01:33 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56b2/live/e9fa9ff0-cec9-11f0-8741-59a8e037abac.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Fashion house Valentino criticised over 'disturbing' AI handbag ads]]></title>
+      <description><![CDATA[Social media users have called the luxury Italian fashion brand's artificial intelligence-made adverts "cheap" and "lazy".]]></description>
+      <link>https://www.bbc.com/news/articles/cwyvjyvn83go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyvjyvn83go</guid>
+      <pubDate>Tue, 02 Dec 2025 08:26:01 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e99/live/99bd24a0-cf6d-11f0-9128-0706b18c372a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Barcelona distances itself from sponsor's cryptocurrency after backlash]]></title>
@@ -262,38 +270,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cly4y2enywro</guid>
       <pubDate>Thu, 20 Nov 2025 08:23:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e478/live/e29448b0-c5fa-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Roblox blocks children from chatting to adult strangers]]></title>
-      <description><![CDATA[One of the world's most popular gaming platforms has faced criticism for its child safety record.]]></description>
-      <link>https://www.bbc.com/news/articles/c2lp5pn9e1qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2lp5pn9e1qo</guid>
-      <pubDate>Wed, 19 Nov 2025 01:16:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fce7/live/0a202300-c488-11f0-81c9-694acfdc27bb.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Cloudflare apologises for outage which took down X and ChatGPT]]></title>
-      <description><![CDATA["We apologise to our customers and the Internet in general" the web infrastructure company said.]]></description>
-      <link>https://www.bbc.com/news/articles/c629pny4gl7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c629pny4gl7o</guid>
-      <pubDate>Tue, 18 Nov 2025 15:48:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9699/live/445dddc0-c477-11f0-928c-0b4fbc4b5b2a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Baby Shark: How a 90-second clip created a $400m business]]></title>
-      <description><![CDATA[Shares in the firm behind the highly-addictive children's song rose by more than 9% in their stock market debut.]]></description>
-      <link>https://www.bbc.com/news/articles/cn8xzgw623go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8xzgw623go</guid>
-      <pubDate>Tue, 18 Nov 2025 23:00:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54e6/live/dd0cdb40-c4d9-11f0-a82a-7dfcc8b18fe0.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man who cryogenically froze late wife sparks debate by dating new partner]]></title>
-      <description><![CDATA[Gui Junmin froze his dead spouse as a sign of his devotion - but it's now emerged he is dating again.]]></description>
-      <link>https://www.bbc.com/news/articles/c78z2m43ykjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c78z2m43ykjo</guid>
-      <pubDate>Tue, 18 Nov 2025 14:13:36 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc76/live/960ead20-c55d-11f0-88c6-23e769b55dc3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Will boats be a breakthrough for 3D printing tech?]]></title>
