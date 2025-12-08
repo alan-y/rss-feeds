@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 08 Dec 2025 18:55:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 19:17:04 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Non-league Macclesfield to host cup holders Palace]]></title>
+      <description><![CDATA[Sixth-tier club Macclesfield are drawn against holders Crystal Palace in the third round of the FA Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8xdr8l129go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8xdr8l129go</guid>
+      <pubDate>Mon, 08 Dec 2025 19:12:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ec2/live/f55ea300-d469-11f0-b331-5f24a4a7069f.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Salah left out by Liverpool for Inter Milan game ]]></title>
       <description><![CDATA[Mohamed Salah has been left out of the squad for Liverpool's Champions League match at Inter Milan.]]></description>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c04vqldn42go</guid>
       <pubDate>Mon, 08 Dec 2025 18:49:15 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/680c/live/6b99ab30-d43a-11f0-8642-e5058b210012.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Best boss & team in Palace history' - but will it be a special season?]]></title>
-      <description><![CDATA[Crystal Palace are enjoying their best ever season in the Premier League, but with questions behind the scenes, can they sustain the level to make it a special season?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpwkypx4gllo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwkypx4gllo</guid>
-      <pubDate>Sun, 07 Dec 2025 21:47:07 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72b0/live/85cad4e0-d3b1-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Williamson to play for first time since Euro final]]></title>
@@ -136,12 +136,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/030d/live/7cb210f0-d41d-11f0-a892-01d657345866.png"/>
     </item>
     <item>
-      <title><![CDATA[Nancy suffers nightmare debut as his Celtic challenge laid bare]]></title>
-      <description><![CDATA[BBC Scotland's Martin Dowden assesses Wilfried Nancy's first game in charge of Celtic as Hearts win at Parkhead.]]></description>
-      <link>https://www.bbc.com/sport/articles/crl9ze93293o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/crl9ze93293o</guid>
-      <pubDate>Sun, 07 Dec 2025 19:23:21 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bd4/live/58864460-d389-11f0-a903-6b84400fef5f.jpg"/>
+      <title><![CDATA['Best boss & team in Palace history' - but will it be a special season?]]></title>
+      <description><![CDATA[Crystal Palace are enjoying their best ever season in the Premier League, but with questions behind the scenes, can they sustain the level to make it a special season?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpwkypx4gllo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwkypx4gllo</guid>
+      <pubDate>Sun, 07 Dec 2025 21:47:07 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72b0/live/85cad4e0-d3b1-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[From heartbreak to Baller League and Angry Ginge's Yanited]]></title>
@@ -192,20 +192,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5342/live/2216f450-d42a-11f0-93c0-4fd4a05b7c18.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Nancy suffers nightmare debut as his Celtic challenge laid bare]]></title>
+      <description><![CDATA[BBC Scotland's Martin Dowden assesses Wilfried Nancy's first game in charge of Celtic as Hearts win at Parkhead.]]></description>
+      <link>https://www.bbc.com/sport/articles/crl9ze93293o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/crl9ze93293o</guid>
+      <pubDate>Sun, 07 Dec 2025 19:23:21 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bd4/live/58864460-d389-11f0-a903-6b84400fef5f.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Brackley target first appearance in FA Cup third round]]></title>
       <description><![CDATA[Brackley Town won promotion earlier this year and now hope to reach the FA Cup third round for the first time by beating League One's Burton Albion.]]></description>
       <link>https://www.bbc.com/sport/football/articles/czxp0n4y1qjo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czxp0n4y1qjo</guid>
       <pubDate>Sun, 07 Dec 2025 21:09:11 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fda/live/b9560b90-d1c2-11f0-9af0-d7cf64408750.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Chelsea unbeatable no more - is WSL now Man City's to lose?]]></title>
-      <description><![CDATA[After 585 days, and 34 Women's Super League games, Chelsea's unbeaten domestic league run is at an end - so is it now Manchester City's title to lose?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2gpl02ke4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2gpl02ke4o</guid>
-      <pubDate>Sun, 07 Dec 2025 17:59:04 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8ca/live/8f525400-d3a4-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[All you need to know about Afcon 2025]]></title>
@@ -224,12 +224,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[World Cup to have 13 different kick-off times]]></title>
-      <description><![CDATA[The 2026 World Cup will feature 13 different kick-off times, with almost half the group stage matches taking place after 00:00 BST.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy8j5geermdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8j5geermdo</guid>
-      <pubDate>Sun, 07 Dec 2025 19:06:11 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b17/live/98040530-d39a-11f0-97fe-5f396161ac78.jpg"/>
+      <title><![CDATA[Chelsea unbeatable no more - is WSL now Man City's to lose?]]></title>
+      <description><![CDATA[After 585 days, and 34 Women's Super League games, Chelsea's unbeaten domestic league run is at an end - so is it now Manchester City's title to lose?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2gpl02ke4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2gpl02ke4o</guid>
+      <pubDate>Sun, 07 Dec 2025 17:59:04 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8ca/live/8f525400-d3a4-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is there any way back for Salah and Liverpool?]]></title>
@@ -248,20 +248,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bad3/live/c0aabb80-d37e-11f0-a903-6b84400fef5f.jpg"/>
     </item>
     <item>
+      <title><![CDATA[World Cup to have 13 different kick-off times]]></title>
+      <description><![CDATA[The 2026 World Cup will feature 13 different kick-off times, with almost half the group stage matches taking place after 00:00 BST.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy8j5geermdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8j5geermdo</guid>
+      <pubDate>Sun, 07 Dec 2025 19:06:11 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b17/live/98040530-d39a-11f0-97fe-5f396161ac78.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Cardiff's Sala court case against Nantes to begin]]></title>
       <description><![CDATA[Cardiff City's court case against Nantes over the death of Emiliano Sala will finally get under way in France on Monday.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3r7417yx4qo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3r7417yx4qo</guid>
       <pubDate>Mon, 08 Dec 2025 04:39:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30d8/live/1715a150-d385-11f0-a903-6b84400fef5f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['It was handball, wasn't it?' - why Rutter goal against West Ham stood]]></title>
-      <description><![CDATA[Georginio Rutter's late equaliser in Brighton's 1-1 draw with West Ham on Sunday was allowed to stand despite handball claims. BBC Sport looks at the rules to explain why.]]></description>
-      <link>https://www.bbc.com/sport/articles/c93w9jxy0dwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c93w9jxy0dwo</guid>
-      <pubDate>Sun, 07 Dec 2025 17:53:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6348/live/163a0260-d409-11f0-a892-01d657345866.png"/>
     </item>
     <item>
       <title><![CDATA[What is an 'Olimpico' goal in football?]]></title>
@@ -438,6 +438,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3e7jvvx3gqo</guid>
       <pubDate>Fri, 05 Dec 2025 20:14:29 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab32/live/2024ee20-9b9c-11f0-bdeb-9de9348d5d1d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['It was handball, wasn't it?' - why Rutter goal against West Ham stood]]></title>
+      <description><![CDATA[Georginio Rutter's late equaliser in Brighton's 1-1 draw with West Ham on Sunday was allowed to stand despite handball claims. BBC Sport looks at the rules to explain why.]]></description>
+      <link>https://www.bbc.com/sport/articles/c93w9jxy0dwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c93w9jxy0dwo</guid>
+      <pubDate>Sun, 07 Dec 2025 17:53:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6348/live/163a0260-d409-11f0-a892-01d657345866.png"/>
     </item>
     <item>
       <title><![CDATA[Who is Arsenal teenager Salmon?]]></title>
