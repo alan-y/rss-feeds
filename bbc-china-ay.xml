@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 08 Dec 2025 07:31:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 07:48:59 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Japan protests after Chinese fighter jets lock radar on Japanese planes]]></title>
+      <description><![CDATA[Tokyo has vowed a 'calm and resolute' response as tensions with Beijing continue to escalate.]]></description>
+      <link>https://www.bbc.com/news/articles/c5yqe197ypno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yqe197ypno</guid>
+      <pubDate>Mon, 08 Dec 2025 07:03:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecfa/live/b2ab4a60-d3ef-11f0-a491-cd2872d4d993.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Hong Kong votes in election as city mourns deadly fire]]></title>
+      <description><![CDATA[The Legislative Council election is seen as a test of public sentiment following a deadly fire.]]></description>
+      <link>https://www.bbc.com/news/articles/c3r7plnwr0zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3r7plnwr0zo</guid>
+      <pubDate>Sun, 07 Dec 2025 17:45:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e876/live/2001c660-d1ad-11f0-83cd-5b415fb0080a.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Chinese and Japanese boats face off near disputed islands as feud worsens]]></title>
       <description><![CDATA[Each side claims to have fended off an incursion in the disputed waters near Taiwan.]]></description>
@@ -46,14 +62,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cp34yk7z6yxo</guid>
       <pubDate>Sun, 30 Nov 2025 12:13:41 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60af/live/f75c3d20-cdd9-11f0-84e3-8b388d01c57d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Three days of mourning begin after Hong Kong's deadliest fire in decades]]></title>
-      <description><![CDATA[ At least 128 people have died and hundreds remain unaccounted for following the fire which engulfed several tower blocks.]]></description>
-      <link>https://www.bbc.com/news/articles/c8dy9lne2plo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8dy9lne2plo</guid>
-      <pubDate>Sat, 29 Nov 2025 12:18:06 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1f8/live/cf42d590-cceb-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[What we know about the Hong Kong apartment fires]]></title>
