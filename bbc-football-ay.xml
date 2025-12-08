@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 08 Dec 2025 23:18:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 23:34:57 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -106,6 +106,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b7f/live/a30981d0-d48a-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Shade scores hat-trick as Burton beat non-league Brackley]]></title>
+      <description><![CDATA[Watch highlights as Burton Albion beat Brackley Town 3-1 to reach the FA Cup third round, thanks to a hat-trick from Tyrese Shade.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c78347p504zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c78347p504zo</guid>
+      <pubDate>Mon, 08 Dec 2025 23:25:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5764/live/4caf5720-d47f-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Amorim hails Mount after win at Wolves]]></title>
       <description><![CDATA[Manchester United manager Ruben Amorim praises the performance of Mason Mount after the midfielder scored in a 4-1 win at Wolves]]></description>
       <link>https://www.bbc.com/sport/football/videos/ckgmynnm344o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -128,14 +136,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c04vqnqdl99o</guid>
       <pubDate>Mon, 08 Dec 2025 15:45:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f941/live/e4e00e10-d44b-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Salah's put his team-mates in jeopardy' - Coady]]></title>
-      <description><![CDATA[Chris Sutton and Conor Coady break down Mohamed Salah's fallout with Liverpool on the Monday Night Club.]]></description>
-      <link>https://www.bbc.com/sport/videos/c4g4ze1j394o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/videos/c4g4ze1j394o</guid>
-      <pubDate>Mon, 08 Dec 2025 22:00:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e5c/live/f226a780-d47f-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Barton given suspended jail sentence over X posts]]></title>
@@ -178,20 +178,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54b6/live/7d0814d0-d44c-11f0-8b57-d3fa96717fb2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[From heartbreak to Baller League and Angry Ginge's Yanited]]></title>
-      <description><![CDATA[Bryan Ly says being managed by ex-pro footballers in the new football league was "surreal".]]></description>
-      <link>https://www.bbc.com/news/articles/cq607q58mlyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq607q58mlyo</guid>
-      <pubDate>Mon, 08 Dec 2025 11:44:38 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f80c/live/e881ea90-d417-11f0-aae0-a150da5fcfef.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Neymar needs surgery but 'might have saved World Cup']]></title>
       <description><![CDATA[Brazil forward Neymar Jr will undergo surgery on a knee injury after playing through pain to help Santos avoid relegation from his nation's top division.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn09rl4g65do?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn09rl4g65do</guid>
       <pubDate>Mon, 08 Dec 2025 09:54:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b2a/live/88904290-d416-11f0-81ee-c91af15cf840.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[From heartbreak to Baller League and Angry Ginge's Yanited]]></title>
+      <description><![CDATA[Bryan Ly says being managed by ex-pro footballers in the new football league was "surreal".]]></description>
+      <link>https://www.bbc.com/news/articles/cq607q58mlyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq607q58mlyo</guid>
+      <pubDate>Mon, 08 Dec 2025 11:44:38 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f80c/live/e881ea90-d417-11f0-aae0-a150da5fcfef.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hibs host Celtic as holders Rangers face Kilmarnock in Scottish Cup]]></title>
@@ -226,14 +226,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b66/live/81c39bb0-d1c8-11f0-9c0d-83f64f80aa08.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Woman who blackmailed Son Heung-min gets four years in jail]]></title>
-      <description><![CDATA[The woman claiming she was carrying the ex-Tottenham captain's child and extorted $200,000 from him. ]]></description>
-      <link>https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/clydrywxwkro</guid>
-      <pubDate>Mon, 08 Dec 2025 08:03:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e308/live/a738ff50-d409-11f0-be97-4b9f7a1a7a49.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Everyone follows fashion' - is Premier League better now than 20 years ago?]]></title>
       <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis looks at what has changed in the Premier League in the past couple of decades and whether it is for the better, from a manager's perspective.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cly139x2d1yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -242,12 +234,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Best boss & team in Palace history' - but will it be a special season?]]></title>
-      <description><![CDATA[Crystal Palace are enjoying their best ever season in the Premier League, but with questions behind the scenes, can they sustain the level to make it a special season?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpwkypx4gllo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwkypx4gllo</guid>
-      <pubDate>Sun, 07 Dec 2025 21:47:07 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72b0/live/85cad4e0-d3b1-11f0-a892-01d657345866.jpg"/>
+      <title><![CDATA[Woman who blackmailed Son Heung-min gets four years in jail]]></title>
+      <description><![CDATA[The woman claiming she was carrying the ex-Tottenham captain's child and extorted $200,000 from him. ]]></description>
+      <link>https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/clydrywxwkro</guid>
+      <pubDate>Mon, 08 Dec 2025 08:03:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e308/live/a738ff50-d409-11f0-be97-4b9f7a1a7a49.jpg"/>
     </item>
     <item>
       <title><![CDATA[Bellamy hopes to renew feud with Canada's Marsch]]></title>
@@ -274,6 +266,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e2/live/f084d170-d44a-11f0-ac6d-6bfa04025ec3.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Best boss & team in Palace history' - but will it be a special season?]]></title>
+      <description><![CDATA[Crystal Palace are enjoying their best ever season in the Premier League, but with questions behind the scenes, can they sustain the level to make it a special season?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpwkypx4gllo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwkypx4gllo</guid>
+      <pubDate>Sun, 07 Dec 2025 21:47:07 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72b0/live/85cad4e0-d3b1-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Chelsea unbeatable no more - is WSL now Man City's to lose?]]></title>
       <description><![CDATA[After 585 days, and 34 Women's Super League games, Chelsea's unbeaten domestic league run is at an end - so is it now Manchester City's title to lose?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2gpl02ke4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -288,14 +288,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8j5geermdo</guid>
       <pubDate>Sun, 07 Dec 2025 19:06:11 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b17/live/98040530-d39a-11f0-97fe-5f396161ac78.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Footballer arrested on suspicion of assault]]></title>
-      <description><![CDATA[An international footballer, who cannot be named for legal reasons, was arrested in central London on suspicion of assault and affray.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c78vmek3x3po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78vmek3x3po</guid>
-      <pubDate>Sun, 07 Dec 2025 15:29:25 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bad3/live/c0aabb80-d37e-11f0-a903-6b84400fef5f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cardiff's Sala court case against Nantes to begin]]></title>
@@ -314,6 +306,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/445e/live/365b20f0-d441-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Footballer arrested on suspicion of assault]]></title>
+      <description><![CDATA[An international footballer, who cannot be named for legal reasons, was arrested in central London on suspicion of assault and affray.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c78vmek3x3po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78vmek3x3po</guid>
+      <pubDate>Sun, 07 Dec 2025 15:29:25 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bad3/live/c0aabb80-d37e-11f0-a903-6b84400fef5f.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Hearts' fight is with themselves but what do they do now?']]></title>
       <description><![CDATA[Amy Canavan assesses the next steps for Hearts after their second win over Celtic this season.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c70r7drxgrdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -328,6 +328,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgdjvlzv3go</guid>
       <pubDate>Sun, 07 Dec 2025 15:48:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f072/live/c051a9c0-d3a4-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Salah's put his team-mates in jeopardy' - Coady]]></title>
+      <description><![CDATA[Chris Sutton and Conor Coady break down Mohamed Salah's fallout with Liverpool on the Monday Night Club.]]></description>
+      <link>https://www.bbc.com/sport/videos/c4g4ze1j394o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/videos/c4g4ze1j394o</guid>
+      <pubDate>Mon, 08 Dec 2025 22:00:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e5c/live/f226a780-d47f-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Guehi scores late header to secure Crystal Palace win over Fulham]]></title>
@@ -400,14 +408,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c62ln5044lzo</guid>
       <pubDate>Sun, 07 Dec 2025 18:43:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5e1/live/1e786be0-d39d-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Slough's player-manager was everywhere]]></title>
-      <description><![CDATA[Slough Town's player-manager Scott Davies tried everything he could get his side into the next round, but fell to  3-1 loss against Macclesfield in the second round of the FA Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cqjgy81w5jpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cqjgy81w5jpo</guid>
-      <pubDate>Sun, 07 Dec 2025 20:44:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1df/live/372eb720-d39d-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Haaland v Mbappe, dream ties and YMCA - the best of the World Cup draw]]></title>
