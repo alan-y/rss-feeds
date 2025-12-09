@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 09 Dec 2025 08:28:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 08:57:47 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -30,14 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn8136ewqpgo</guid>
       <pubDate>Tue, 09 Dec 2025 00:04:50 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f73/live/f58ad8c0-d48d-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why Alonso's chances of survival at Real Madrid are slim]]></title>
-      <description><![CDATA[Xabi Alonso's Real Madrid fate has not yet been decided, but Wednesday's Champions League game against Manchester City at the Bernabeu could prove crucial, writes Guillem Balague.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3w75qv0v2no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3w75qv0v2no</guid>
-      <pubDate>Mon, 08 Dec 2025 15:13:44 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea4c/live/66d47ed0-d436-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
@@ -62,6 +54,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvgjq1vezd1o</guid>
       <pubDate>Mon, 08 Dec 2025 22:56:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e8/live/a2806ac0-d481-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Why Alonso's chances of survival at Real Madrid are slim]]></title>
+      <description><![CDATA[Xabi Alonso's Real Madrid fate has not yet been decided, but Wednesday's Champions League game against Manchester City at the Bernabeu could prove crucial, writes Guillem Balague.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3w75qv0v2no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3w75qv0v2no</guid>
+      <pubDate>Mon, 08 Dec 2025 15:13:44 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea4c/live/66d47ed0-d436-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Premier League pair eye Diomande - Tuesday's gossip]]></title>
@@ -162,14 +162,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/594c/live/c83102d0-d476-11f0-b409-59904115b27c.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Five things to watch in EFL: Away day hoodoo and six-pointers]]></title>
-      <description><![CDATA[Coventry will try to win a league game at Preston for the first time and it's a big week for Blackburn, Oxford, Swansea and Portsmouth.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn0kxdweqnyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0kxdweqnyo</guid>
-      <pubDate>Mon, 08 Dec 2025 14:34:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2782/live/baac4cc0-d433-11f0-9fb5-5f3a3703a365.png"/>
-    </item>
-    <item>
       <title><![CDATA[Aberdeen hope for 'big step forward' in stadium plan]]></title>
       <description><![CDATA[Aberdeen are invited to a meeting on Friday with city council leaders they hope "will be the first big step forward in some time" following a war of words over plans for a new stadium.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2dpjj0yl6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -186,20 +178,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f80c/live/e881ea90-d417-11f0-aae0-a150da5fcfef.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Five things to watch in EFL: Away day hoodoo and six-pointers]]></title>
+      <description><![CDATA[Coventry will try to win a league game at Preston for the first time and it's a big week for Blackburn, Oxford, Swansea and Portsmouth.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn0kxdweqnyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0kxdweqnyo</guid>
+      <pubDate>Mon, 08 Dec 2025 14:34:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2782/live/baac4cc0-d433-11f0-9fb5-5f3a3703a365.png"/>
+    </item>
+    <item>
       <title><![CDATA[Hibs host Celtic as holders Rangers face Kilmarnock in Scottish Cup]]></title>
       <description><![CDATA[League champions Hibernian will host Celtic while holders Rangers entertain second-tier leaders Kilmarnock in the fourth round of the Women's Scottish Cup.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cedx5y61w5no?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cedx5y61w5no</guid>
       <pubDate>Mon, 08 Dec 2025 19:44:01 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9612/live/efde4350-d46d-11f0-b331-5f24a4a7069f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Evans leaves Man Utd role after six months]]></title>
-      <description><![CDATA[Former Manchester United defender Jonny Evans leaves his role as the club's head of loans and pathways. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cg5medep3zqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg5medep3zqo</guid>
-      <pubDate>Mon, 08 Dec 2025 17:44:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fb5/live/97a81460-d45c-11f0-9aed-598bbb04d197.jpg"/>
     </item>
     <item>
       <title><![CDATA[The most iconic and explosive Premier League outbursts]]></title>
@@ -226,20 +218,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Evans leaves Man Utd role after six months]]></title>
+      <description><![CDATA[Former Manchester United defender Jonny Evans leaves his role as the club's head of loans and pathways. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cg5medep3zqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg5medep3zqo</guid>
+      <pubDate>Mon, 08 Dec 2025 17:44:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fb5/live/97a81460-d45c-11f0-9aed-598bbb04d197.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Neymar needs surgery but 'might have saved World Cup']]></title>
       <description><![CDATA[Brazil forward Neymar Jr will undergo surgery on a knee injury after playing through pain to help Santos avoid relegation from his nation's top division.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn09rl4g65do?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn09rl4g65do</guid>
       <pubDate>Mon, 08 Dec 2025 09:54:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b2a/live/88904290-d416-11f0-81ee-c91af15cf840.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Woman who blackmailed Son Heung-min gets four years in jail]]></title>
-      <description><![CDATA[The woman claiming she was carrying the ex-Tottenham captain's child and extorted $200,000 from him. ]]></description>
-      <link>https://www.bbc.com/news/articles/clydrywxwkro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/clydrywxwkro</guid>
-      <pubDate>Mon, 08 Dec 2025 08:03:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e308/live/a738ff50-d409-11f0-be97-4b9f7a1a7a49.jpg"/>
     </item>
     <item>
       <title><![CDATA[Bellamy hopes to renew feud with Canada's Marsch]]></title>
