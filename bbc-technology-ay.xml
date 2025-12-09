@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 08 Dec 2025 23:46:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 01:26:42 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Trump gives Nvidia green light to sell advanced AI chips to China]]></title>
+      <description><![CDATA[Nvidia had been at the centre of a geopolitical tug-of-war between the US and China in recent months.]]></description>
+      <link>https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg9q635q6po</guid>
+      <pubDate>Mon, 08 Dec 2025 23:55:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e67/live/7cbfa1e0-d493-11f0-aff6-df14a823a605.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Elon Musk's X bans European Commission from making ads after €120m fine]]></title>
       <description><![CDATA[The EU regulator had fined the social media platform over its "deceptive" blue tick badges.]]></description>
@@ -48,12 +56,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61bd/live/58caa050-d1dc-11f0-9267-ab26a8fe8cc2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X ]]></title>
-      <description><![CDATA[The European Commission says the social media site is opening its users up to scams and impersonations.]]></description>
-      <link>https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g9kejzvw0o</guid>
-      <pubDate>Fri, 05 Dec 2025 17:58:27 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d77b/live/7819d970-d1d3-11f0-9c0d-83f64f80aa08.jpg"/>
+      <title><![CDATA[Is AI in recruitment a 'race to the bottom'?]]></title>
+      <description><![CDATA[AI helps jobseekers to apply for hundreds of roles, meanwhile employers use AI to filter them.]]></description>
+      <link>https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ced6jv76091o</guid>
+      <pubDate>Tue, 09 Dec 2025 00:10:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bca7/live/f0db7db0-c3c7-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
       <title><![CDATA[Porn site fined £1m over age checks has never responded to Ofcom]]></title>
@@ -62,6 +70,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c93nll07z3go</guid>
       <pubDate>Thu, 04 Dec 2025 11:10:10 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5424/live/feb844f0-d0e6-11f0-b0cc-cf4d0e5d41e2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X ]]></title>
+      <description><![CDATA[The European Commission says the social media site is opening its users up to scams and impersonations.]]></description>
+      <link>https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g9kejzvw0o</guid>
+      <pubDate>Fri, 05 Dec 2025 17:58:27 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d77b/live/7819d970-d1d3-11f0-9c0d-83f64f80aa08.jpg"/>
     </item>
     <item>
       <title><![CDATA[New homes delayed by 'energy-hungry' data centres]]></title>
