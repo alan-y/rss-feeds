@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 09 Dec 2025 07:26:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 07:47:56 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -32,6 +32,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ae/live/c20e07e0-d435-11f0-8642-e5058b210012.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Masks to be worn in hospitals as flu cases surge]]></title>
+      <description><![CDATA[Frimley Health NHS Trust is the latest to reintroduce masks as UK hospitals come under strain.]]></description>
+      <link>https://www.bbc.com/news/articles/crmdekv8d48o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/crmdekv8d48o</guid>
+      <pubDate>Tue, 09 Dec 2025 06:27:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a67c/live/5ed97c30-d47c-11f0-b433-753c64b53a9c.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[New mpox strain identified in England]]></title>
       <description><![CDATA[It's a mix of two major types of the virus, and has been found in someone who recently returned from Asia.]]></description>
       <link>https://www.bbc.com/news/articles/cm2087g0z9po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2pvxdn9v4o</guid>
       <pubDate>Mon, 08 Dec 2025 07:49:01 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d561/live/8d077230-d1fa-11f0-a732-cbe19f3047f2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hospitals facing unprecedented flu season, say NHS bosses]]></title>
-      <description><![CDATA[Record number of patients in hospital in England with flu for this time of year, figures show.]]></description>
-      <link>https://www.bbc.com/news/articles/c74xqn2zg1eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c74xqn2zg1eo</guid>
-      <pubDate>Thu, 04 Dec 2025 16:22:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a65/live/57380860-d0ea-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is it a cold, 'super flu' or Covid? How to tell the difference]]></title>
@@ -72,6 +72,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/009c/live/600ec550-be2a-11f0-804a-9fd1fc4085f0.png"/>
     </item>
     <item>
+      <title><![CDATA[Hospitals facing unprecedented flu season, say NHS bosses]]></title>
+      <description><![CDATA[Record number of patients in hospital in England with flu for this time of year, figures show.]]></description>
+      <link>https://www.bbc.com/news/articles/c74xqn2zg1eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c74xqn2zg1eo</guid>
+      <pubDate>Thu, 04 Dec 2025 16:22:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a65/live/57380860-d0ea-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Doctors to stage five-day strike before Christmas]]></title>
+      <description><![CDATA[Walkout in England begins on 17 December and will be 14th strike in pay dispute.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2dw7l158po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2dw7l158po</guid>
+      <pubDate>Mon, 01 Dec 2025 17:25:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/370d/live/3ffed6e0-cedf-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[NHS must take elderly infections more seriously, Chris Whitty warns]]></title>
       <description><![CDATA[England's chief medical officer says doctors do not appreciate risk of heart attack and stroke, as flu cases rise.]]></description>
       <link>https://www.bbc.com/news/articles/c1kpvxewg93o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -86,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8q26q2r75o</guid>
       <pubDate>Thu, 04 Dec 2025 20:41:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c4/live/2ca58ea0-d0b9-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Doctors to stage five-day strike before Christmas]]></title>
-      <description><![CDATA[Walkout in England begins on 17 December and will be 14th strike in pay dispute.]]></description>
-      <link>https://www.bbc.com/news/articles/cx2dw7l158po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2dw7l158po</guid>
-      <pubDate>Mon, 01 Dec 2025 17:25:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/370d/live/3ffed6e0-cedf-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
       <title><![CDATA[Doctors failed to tell dad-of-seven he was dying]]></title>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y0y56x6veo</guid>
       <pubDate>Mon, 24 Nov 2025 11:03:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02f8/live/8c2cdf40-c96b-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man donates kidney to woman he met after crash ]]></title>
-      <description><![CDATA[Transplant donor says "anyone with a heart would give something to keep someone else alive".]]></description>
-      <link>https://www.bbc.com/news/articles/cdjrj79gkrwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdjrj79gkrwo</guid>
-      <pubDate>Wed, 26 Nov 2025 06:17:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ef/live/ef45cbe0-c61f-11f0-a9b6-afaae37ee06b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Government racks up £100m bill responding to Covid inquiry]]></title>
