@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 10 Dec 2025 15:24:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 15:51:01 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -192,14 +192,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c87b/live/cd344360-d55b-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
-      <title><![CDATA['A really dangerous circle' - Arteta on Arsenal injuries]]></title>
-      <description><![CDATA[Arsenal boss Mikel Arteta say the injuries his squad are suffering this season are not a result of overtraining.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly5d3xv90go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly5d3xv90go</guid>
-      <pubDate>Tue, 09 Dec 2025 21:15:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e253/live/54c0a990-d539-11f0-8c40-a394cb7b88e5.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Fifa accused of breaching own rules with Trump award]]></title>
       <description><![CDATA[Gianni Infantino is accused of breaking Fifa rules by a campaign group after giving United States President Donald Trump a peace prize. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c04vq6ldv6lo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -238,6 +230,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr7l0k0p4v0o</guid>
       <pubDate>Tue, 09 Dec 2025 18:10:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bff6/live/edc0f8a0-d51d-11f0-bf05-2725f8fc0dac.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['A really dangerous circle' - Arteta on Arsenal injuries]]></title>
+      <description><![CDATA[Arsenal boss Mikel Arteta say the injuries his squad are suffering this season are not a result of overtraining.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly5d3xv90go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly5d3xv90go</guid>
+      <pubDate>Tue, 09 Dec 2025 21:15:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e253/live/54c0a990-d539-11f0-8c40-a394cb7b88e5.jpg"/>
     </item>
     <item>
       <title><![CDATA[How did Littler get Man Utd away tickets - and why has it sparked debate?]]></title>
