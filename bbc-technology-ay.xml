@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 09 Dec 2025 23:45:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 01:28:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[UK spending half an hour longer online than in pandemic, says Ofcom]]></title>
+      <description><![CDATA[The survey found people in the UK spent on average four hours and 30 minutes online every day in 2025]]></description>
+      <link>https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c39prelx2mxo</guid>
+      <pubDate>Wed, 10 Dec 2025 00:04:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0461/live/b95236f0-d523-11f0-bf05-2725f8fc0dac.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Google unveils plans to try again with smart glasses in 2026]]></title>
       <description><![CDATA[It is a significant turnaround for the tech giant after its first attempt - Google Glass - was pulled in 2015.]]></description>
@@ -48,14 +56,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebbe/live/e74a8590-d423-11f0-b53c-99fcb1366f6e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Trump says $72bn Netflix-Warner Bros deal 'could be a problem']]></title>
-      <description><![CDATA[The planned deal would cement Netflix in its position as the world's biggest subscription streaming service.]]></description>
-      <link>https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn815egjqjpo</guid>
-      <pubDate>Mon, 08 Dec 2025 10:44:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c679/live/f57bf600-d41c-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Japan is facing a dementia crisis – can technology help?]]></title>
       <description><![CDATA[Elderly people aged 65 and over now make up nearly 30% of Japan's population.]]></description>
       <link>https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -64,12 +64,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dea2/live/c1577710-d0dd-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Twitch star QTCinderella says she wishes she never started streaming]]></title>
-      <description><![CDATA[The Streamer Awards organiser said the negatives of her online role made it hard to enjoy the job.]]></description>
-      <link>https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3v1dd01x65o</guid>
-      <pubDate>Fri, 05 Dec 2025 22:32:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61bd/live/58caa050-d1dc-11f0-9267-ab26a8fe8cc2.jpg"/>
+      <title><![CDATA[Trump says $72bn Netflix-Warner Bros deal 'could be a problem']]></title>
+      <description><![CDATA[The planned deal would cement Netflix in its position as the world's biggest subscription streaming service.]]></description>
+      <link>https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn815egjqjpo</guid>
+      <pubDate>Mon, 08 Dec 2025 10:44:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c679/live/f57bf600-d41c-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is AI in recruitment a 'race to the bottom'?]]></title>
@@ -110,6 +110,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgzqxjzjyqo</guid>
       <pubDate>Wed, 03 Dec 2025 13:46:49 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e85/live/b1b0fa70-d042-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Twitch star QTCinderella says she wishes she never started streaming]]></title>
+      <description><![CDATA[The Streamer Awards organiser said the negatives of her online role made it hard to enjoy the job.]]></description>
+      <link>https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3v1dd01x65o</guid>
+      <pubDate>Fri, 05 Dec 2025 22:32:29 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61bd/live/58caa050-d1dc-11f0-9267-ab26a8fe8cc2.jpg"/>
     </item>
     <item>
       <title><![CDATA[YouTuber Marques Brownlee shutting down phone wallpaper app]]></title>
@@ -262,14 +270,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yp1ky55g1o</guid>
       <pubDate>Thu, 20 Nov 2025 00:03:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8df/live/6918b4f0-c5fd-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Lack of online age verification sparks concern]]></title>
-      <description><![CDATA[A review finds an assumption UK age verification would apply in Jersey was not correct. ]]></description>
-      <link>https://www.bbc.com/news/articles/ce9d900zd58o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce9d900zd58o</guid>
-      <pubDate>Thu, 20 Nov 2025 12:44:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ff/live/1a748540-c607-11f0-aaa8-8bac9838c2fd.jpg"/>
     </item>
     <item>
       <title><![CDATA[Will boats be a breakthrough for 3D printing tech?]]></title>
