@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 11 Dec 2025 15:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 16:29:36 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora]]></title>
+      <description><![CDATA[The agreement will let fans generate videos and images of more than 200 Disney characters.]]></description>
+      <link>https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ydp1gdqwqo</guid>
+      <pubDate>Thu, 11 Dec 2025 16:00:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1562/live/b6dda370-d6a2-11f0-8356-c71b2eb54d34.jpg"/>
+    </item>
     <item>
       <title><![CDATA['Architects of AI' named Time Magazine's Person of the Year]]></title>
       <description><![CDATA[Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.]]></description>
@@ -28,7 +36,7 @@
       <description><![CDATA[The cloud computing giant's revenue miss renews questions about its financial health.]]></description>
       <link>https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c9qe1e374l1o</guid>
-      <pubDate>Thu, 11 Dec 2025 15:45:16 GMT</pubDate>
+      <pubDate>Thu, 11 Dec 2025 16:24:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d362/live/44b7dad0-d621-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
