@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 11 Dec 2025 16:29:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 17:01:24 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['Super flu' wave hits hospitals in England with no peak yet]]></title>
+      <description><![CDATA[Numbers in hospital rise by more than 50% in a week as NHS faces 'worst-case scenario'.]]></description>
+      <link>https://www.bbc.com/news/articles/c8r30787e76o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8r30787e76o</guid>
+      <pubDate>Thu, 11 Dec 2025 16:58:10 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b3/live/6a3686d0-d6ad-11f0-9566-091746611f5e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Flu in four charts -  how this year's winter outbreak is different]]></title>
+      <description><![CDATA[NHS England says it's facing a "worst-case scenario" after flu hospital cases jump 55% in a week.]]></description>
+      <link>https://www.bbc.com/news/articles/c5yq9wr3pnro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yq9wr3pnro</guid>
+      <pubDate>Thu, 11 Dec 2025 16:25:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce03/live/c94f09b0-d6aa-11f0-8c06-f5d460985095.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Flu wave hits England's busiest A&E - hundreds of patients are arriving a day]]></title>
       <description><![CDATA[The BBC visits Leicester Royal Infirmary to witness first-hand how it's coping with an early surge in cases of winter bugs.]]></description>
@@ -28,7 +44,7 @@
       <description><![CDATA[Flu has come early this year, and experts predict it could be a particularly nasty season.]]></description>
       <link>https://www.bbc.com/news/articles/crk7j8nxlr6o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/crk7j8nxlr6o</guid>
-      <pubDate>Thu, 11 Dec 2025 14:42:40 GMT</pubDate>
+      <pubDate>Thu, 11 Dec 2025 16:58:29 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f7a/live/ec27cdf0-d510-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
@@ -46,22 +62,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cyvg6l5nypgo</guid>
       <pubDate>Thu, 11 Dec 2025 00:25:00 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba65/live/13c44e40-d608-11f0-8c06-f5d460985095.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Sperm from donor with cancer-causing gene was used to conceive almost 200 children]]></title>
-      <description><![CDATA[Some children have already died and only a minority who inherit the mutation will escape cancer in their lifetimes.]]></description>
-      <link>https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgmy90z991o</guid>
-      <pubDate>Wed, 10 Dec 2025 05:06:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906d/live/ff8d66c0-d4ed-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hungry mothers and dirty wards - maternity care 'much worse' than anticipated, review chief says]]></title>
-      <description><![CDATA[An interim report by Baroness Amos finds poor care and dirty wards are blighting England’s maternity services.]]></description>
-      <link>https://www.bbc.com/news/articles/c4g45ev3gkdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g45ev3gkdo</guid>
-      <pubDate>Tue, 09 Dec 2025 08:49:23 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88a/live/9b2cb330-d49c-11f0-b551-c948c3e8b5a0.jpg"/>
     </item>
     <item>
       <title><![CDATA[Private flu vaccine stocks running low as cases rise]]></title>
@@ -104,12 +104,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e1/live/0441ff20-d6a4-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Hospitals facing unprecedented flu season, say NHS bosses]]></title>
-      <description><![CDATA[Record number of patients in hospital in England with flu for this time of year, figures show.]]></description>
-      <link>https://www.bbc.com/news/articles/c74xqn2zg1eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c74xqn2zg1eo</guid>
-      <pubDate>Thu, 04 Dec 2025 16:22:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a65/live/57380860-d0ea-11f0-8c06-f5d460985095.jpg"/>
+      <title><![CDATA[Sperm from donor with cancer-causing gene was used to conceive almost 200 children]]></title>
+      <description><![CDATA[Some children have already died and only a minority who inherit the mutation will escape cancer in their lifetimes.]]></description>
+      <link>https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgmy90z991o</guid>
+      <pubDate>Wed, 10 Dec 2025 05:06:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906d/live/ff8d66c0-d4ed-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Hungry mothers and dirty wards - maternity care 'much worse' than anticipated, review chief says]]></title>
+      <description><![CDATA[An interim report by Baroness Amos finds poor care and dirty wards are blighting England’s maternity services.]]></description>
+      <link>https://www.bbc.com/news/articles/c4g45ev3gkdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g45ev3gkdo</guid>
+      <pubDate>Tue, 09 Dec 2025 08:49:23 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88a/live/9b2cb330-d49c-11f0-b551-c948c3e8b5a0.jpg"/>
     </item>
     <item>
       <title><![CDATA['Life being stressful is not an illness' - GPs on mental health over-diagnosis]]></title>
@@ -118,6 +126,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2pvxdn9v4o</guid>
       <pubDate>Mon, 08 Dec 2025 07:49:01 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d561/live/8d077230-d1fa-11f0-a732-cbe19f3047f2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Doctors to stage five-day strike before Christmas]]></title>
+      <description><![CDATA[Walkout in England begins on 17 December and will be 14th strike in pay dispute.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2dw7l158po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2dw7l158po</guid>
+      <pubDate>Mon, 01 Dec 2025 17:25:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/370d/live/3ffed6e0-cedf-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
       <title><![CDATA[Partial victory for nurse in NHS trans changing room row]]></title>
@@ -136,20 +152,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a67c/live/5ed97c30-d47c-11f0-b433-753c64b53a9c.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Hospitals facing unprecedented flu season, say NHS bosses]]></title>
+      <description><![CDATA[Record number of patients in hospital in England with flu for this time of year, figures show.]]></description>
+      <link>https://www.bbc.com/news/articles/c74xqn2zg1eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c74xqn2zg1eo</guid>
+      <pubDate>Thu, 04 Dec 2025 16:22:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a65/live/57380860-d0ea-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[NHS must take elderly infections more seriously, Chris Whitty warns]]></title>
       <description><![CDATA[England's chief medical officer says doctors do not appreciate risk of heart attack and stroke, as flu cases rise.]]></description>
       <link>https://www.bbc.com/news/articles/c1kpvxewg93o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kpvxewg93o</guid>
       <pubDate>Thu, 04 Dec 2025 16:14:31 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebc3/live/23896190-d120-11f0-ab97-9758f58eab4c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Doctors to stage five-day strike before Christmas]]></title>
-      <description><![CDATA[Walkout in England begins on 17 December and will be 14th strike in pay dispute.]]></description>
-      <link>https://www.bbc.com/news/articles/cx2dw7l158po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2dw7l158po</guid>
-      <pubDate>Mon, 01 Dec 2025 17:25:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/370d/live/3ffed6e0-cedf-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
       <title><![CDATA[Streeting orders review into mental health and ADHD diagnoses ]]></title>
@@ -246,22 +262,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cj9ynjg3zy0o</guid>
       <pubDate>Mon, 24 Nov 2025 22:18:53 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/404c/live/339002a0-c983-11f0-84b0-85226717c3ac.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What are the symptoms of prostate cancer and what should you check for?]]></title>
-      <description><![CDATA[One in eight men will be diagnosed with prostate cancer in their lifetime.]]></description>
-      <link>https://www.bbc.com/news/articles/cx2plvp341jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2plvp341jo</guid>
-      <pubDate>Wed, 03 Dec 2025 10:00:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4f7/live/8f655c10-b3c1-11f0-9834-bd5e89cd5975.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Lord Cameron reveals he had prostate cancer]]></title>
-      <description><![CDATA[The former PM is calling for more men to be screened for the disease, which is the most common cancer in males in the UK.]]></description>
-      <link>https://www.bbc.com/news/articles/cvgkwn0l771o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgkwn0l771o</guid>
-      <pubDate>Mon, 24 Nov 2025 09:13:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3429/live/e962bde0-c904-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Much of £11bn Covid scheme fraud 'beyond recovery', report says]]></title>
@@ -526,6 +526,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0rpq9y2gq0o</guid>
       <pubDate>Fri, 24 Oct 2025 05:16:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/392b/live/0e14e0d0-ae63-11f0-bf6e-0db822206ec2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What are the symptoms of prostate cancer and what should you check for?]]></title>
+      <description><![CDATA[One in eight men will be diagnosed with prostate cancer in their lifetime.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2plvp341jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2plvp341jo</guid>
+      <pubDate>Wed, 03 Dec 2025 10:00:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4f7/live/8f655c10-b3c1-11f0-9834-bd5e89cd5975.png"/>
     </item>
     <item>
       <title><![CDATA[A facelift at 28? Why young people are turning to plastic surgery]]></title>
