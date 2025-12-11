@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 11 Dec 2025 08:29:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 08:58:03 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Flu wave hits England's busiest A&E - hundreds of patients are arriving a day]]></title>
+      <description><![CDATA[The BBC visits Leicester Royal Infirmary to witness first-hand how it's coping with an early surge in cases of winter bugs.]]></description>
+      <link>https://www.bbc.com/news/articles/crmdxky3p9wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/crmdxky3p9wo</guid>
+      <pubDate>Thu, 11 Dec 2025 00:01:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b3/live/f84e38d0-d5dd-11f0-a892-01d657345866.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Last minute offer may avert strike by resident doctors]]></title>
       <description><![CDATA[Deal put forward by ministers includes rapid expansion of training posts, but no promises on pay.]]></description>
@@ -22,6 +30,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gk3d72mvzo</guid>
       <pubDate>Wed, 10 Dec 2025 22:00:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/324f/live/bd02ad90-d65c-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Campaigners question ethics of puberty-blocker trial in legal letter to Streeting]]></title>
+      <description><![CDATA[Researchers and the UK regulator say the study is going to help improve care for children questioning their gender.]]></description>
+      <link>https://www.bbc.com/news/articles/cyvg6l5nypgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cyvg6l5nypgo</guid>
+      <pubDate>Thu, 11 Dec 2025 00:25:00 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba65/live/13c44e40-d608-11f0-8c06-f5d460985095.png"/>
     </item>
     <item>
       <title><![CDATA[Sperm from donor with cancer-causing gene was used to conceive almost 200 children]]></title>
@@ -56,22 +72,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ae/live/c20e07e0-d435-11f0-8642-e5058b210012.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Masks to be worn in three hospitals as flu cases surge]]></title>
-      <description><![CDATA[Frimley Health NHS Trust is the latest to reintroduce masks as UK hospitals come under strain.]]></description>
-      <link>https://www.bbc.com/news/articles/crmdekv8d48o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/crmdekv8d48o</guid>
-      <pubDate>Tue, 09 Dec 2025 07:48:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a67c/live/5ed97c30-d47c-11f0-b433-753c64b53a9c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Partial victory for nurse in NHS trans changing room row]]></title>
-      <description><![CDATA[A tribunal said NHS Fife harassed Sandie Peggie but dismissed other claims she made against the health board and a transgender doctor.]]></description>
-      <link>https://www.bbc.com/news/articles/c36zk0p7xlgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c36zk0p7xlgo</guid>
-      <pubDate>Mon, 08 Dec 2025 20:17:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e753/live/f21f5ab0-d462-11f0-9aed-598bbb04d197.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Hospitals facing unprecedented flu season, say NHS bosses]]></title>
       <description><![CDATA[Record number of patients in hospital in England with flu for this time of year, figures show.]]></description>
       <link>https://www.bbc.com/news/articles/c74xqn2zg1eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -88,12 +88,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d561/live/8d077230-d1fa-11f0-a732-cbe19f3047f2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Doctors to stage five-day strike before Christmas]]></title>
-      <description><![CDATA[Walkout in England begins on 17 December and will be 14th strike in pay dispute.]]></description>
-      <link>https://www.bbc.com/news/articles/cx2dw7l158po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2dw7l158po</guid>
-      <pubDate>Mon, 01 Dec 2025 17:25:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/370d/live/3ffed6e0-cedf-11f0-8c06-f5d460985095.jpg"/>
+      <title><![CDATA[Partial victory for nurse in NHS trans changing room row]]></title>
+      <description><![CDATA[A tribunal said NHS Fife harassed Sandie Peggie but dismissed other claims she made against the health board and a transgender doctor.]]></description>
+      <link>https://www.bbc.com/news/articles/c36zk0p7xlgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c36zk0p7xlgo</guid>
+      <pubDate>Mon, 08 Dec 2025 20:17:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e753/live/f21f5ab0-d462-11f0-9aed-598bbb04d197.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Masks to be worn in three hospitals as flu cases surge]]></title>
+      <description><![CDATA[Frimley Health NHS Trust is the latest to reintroduce masks as UK hospitals come under strain.]]></description>
+      <link>https://www.bbc.com/news/articles/crmdekv8d48o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/crmdekv8d48o</guid>
+      <pubDate>Tue, 09 Dec 2025 07:48:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a67c/live/5ed97c30-d47c-11f0-b433-753c64b53a9c.jpg"/>
     </item>
     <item>
       <title><![CDATA[NHS must take elderly infections more seriously, Chris Whitty warns]]></title>
@@ -102,6 +110,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kpvxewg93o</guid>
       <pubDate>Thu, 04 Dec 2025 16:14:31 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebc3/live/23896190-d120-11f0-ab97-9758f58eab4c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Doctors to stage five-day strike before Christmas]]></title>
+      <description><![CDATA[Walkout in England begins on 17 December and will be 14th strike in pay dispute.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2dw7l158po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2dw7l158po</guid>
+      <pubDate>Mon, 01 Dec 2025 17:25:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/370d/live/3ffed6e0-cedf-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
       <title><![CDATA[Streeting orders review into mental health and ADHD diagnoses ]]></title>
@@ -214,22 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgkwn0l771o</guid>
       <pubDate>Mon, 24 Nov 2025 09:13:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3429/live/e962bde0-c904-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[NHS doctor suspended over alleged antisemitic social media posts]]></title>
-      <description><![CDATA[The tribunal ruled the doctor's posts "may impact on patient confidence" in both her and the profession.]]></description>
-      <link>https://www.bbc.com/news/articles/cy4x78mrxk3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4x78mrxk3o</guid>
-      <pubDate>Wed, 26 Nov 2025 22:30:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/361a/live/84648fa0-cb15-11f0-970b-9fa9a19bcb60.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Review of unpaid carer debts announced after damning report]]></title>
-      <description><![CDATA[Former charity boss Liz Sayce found confusing guidance on Carer's Allowance had left thousands with fines and surprise bills.]]></description>
-      <link>https://www.bbc.com/news/articles/cx2dndnn54go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2dndnn54go</guid>
-      <pubDate>Tue, 25 Nov 2025 15:39:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d5d/live/bb62d200-478a-11f0-bc7c-8b1a4886b501.jpg"/>
     </item>
     <item>
       <title><![CDATA[Much of £11bn Covid scheme fraud 'beyond recovery', report says]]></title>
