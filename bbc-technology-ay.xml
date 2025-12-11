@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 11 Dec 2025 12:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 13:38:42 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['Architects of AI' named Time Magazine's Person of the Year]]></title>
+      <description><![CDATA[Nvidia boss Jensen Huang is among the influential tech figures that adorn one of the two covers.]]></description>
+      <link>https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly01mdm577o</guid>
+      <pubDate>Thu, 11 Dec 2025 13:34:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aa8/live/6f7fda50-d690-11f0-9184-a796dfacc4c9.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Oracle shares slide as earnings fail to ease AI bubble fears]]></title>
       <description><![CDATA[The cloud computing giant's revenue miss renews questions about its financial health.]]></description>
@@ -104,6 +112,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebbe/live/e74a8590-d423-11f0-b53c-99fcb1366f6e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Is AI in recruitment a 'race to the bottom'?]]></title>
+      <description><![CDATA[AI helps jobseekers to apply for hundreds of roles, meanwhile employers use AI to filter them.]]></description>
+      <link>https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ced6jv76091o</guid>
+      <pubDate>Tue, 09 Dec 2025 00:10:31 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66b/live/9fd292c0-d4d7-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Japan is facing a dementia crisis – can technology help?]]></title>
       <description><![CDATA[Elderly people aged 65 and over now make up nearly 30% of Japan's population.]]></description>
       <link>https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -118,14 +134,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cn815egjqjpo</guid>
       <pubDate>Mon, 08 Dec 2025 10:44:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c679/live/f57bf600-d41c-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Is AI in recruitment a 'race to the bottom'?]]></title>
-      <description><![CDATA[AI helps jobseekers to apply for hundreds of roles, meanwhile employers use AI to filter them.]]></description>
-      <link>https://www.bbc.com/news/articles/ced6jv76091o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ced6jv76091o</guid>
-      <pubDate>Tue, 09 Dec 2025 00:10:31 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66b/live/9fd292c0-d4d7-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Porn site fined £1m over age checks has never responded to Ofcom]]></title>
