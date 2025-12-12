@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 12 Dec 2025 13:34:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 13:55:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -352,6 +352,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1df/live/726449c0-d5d9-11f0-8c06-f5d460985095.png"/>
     </item>
     <item>
+      <title><![CDATA['Taught me everything' - Swindon boss Holloway on Bristol Rovers return]]></title>
+      <description><![CDATA[Swindon boss Ian Holloway on the emotions of returning to hometown club Bristol Rovers as an opposition manager for the first time.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c93wd3e13jjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93wd3e13jjo</guid>
+      <pubDate>Fri, 12 Dec 2025 13:46:27 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b84/live/553f1a40-d75b-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How to follow the Premier League on the BBC this weekend]]></title>
       <description><![CDATA[BBC Sport Ask Me Anything explains how to follow the Premier League on the BBC this weekend.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0kpzljpz6lo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -422,14 +430,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czdgrgj8ldjo</guid>
       <pubDate>Thu, 11 Dec 2025 00:33:36 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be13/live/31c2b2b0-d626-11f0-9ae9-1d7339c7a1f9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Who is Arsenal's teenage debutant Salmon?]]></title>
-      <description><![CDATA[Arsenal bring 16-year-old Marli Salmon on as a substitute against Club Brugge in the Champions League, but who is he?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpvdjvygm38o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpvdjvygm38o</guid>
-      <pubDate>Wed, 10 Dec 2025 21:51:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4376/live/97eb9700-d612-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
       <title><![CDATA[All you need to know about Afcon 2025]]></title>
@@ -534,6 +534,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/c93w9jxy0dwo</guid>
       <pubDate>Sun, 07 Dec 2025 17:53:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6348/live/163a0260-d409-11f0-a892-01d657345866.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Who is Arsenal's teenage debutant Salmon?]]></title>
+      <description><![CDATA[Arsenal bring 16-year-old Marli Salmon on as a substitute against Club Brugge in the Champions League, but who is he?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpvdjvygm38o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpvdjvygm38o</guid>
+      <pubDate>Wed, 10 Dec 2025 21:51:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4376/live/97eb9700-d612-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
       <title><![CDATA['Scotland's Doig on Forest shortlist' - gossip]]></title>
