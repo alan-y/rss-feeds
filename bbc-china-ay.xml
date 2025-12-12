@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 12 Dec 2025 05:51:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 06:31:46 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Tricked, abducted and abused: Inside China's schools for 'rebellious' teens]]></title>
+      <description><![CDATA[Young people tell the BBC that military-style schools deceive and abuse students they claim to help.]]></description>
+      <link>https://www.bbc.com/news/articles/c5y2qd1795yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y2qd1795yo</guid>
+      <pubDate>Fri, 12 Dec 2025 00:13:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a13/live/789463c0-d50c-11f0-a892-01d657345866.png"/>
+    </item>
     <item>
       <title><![CDATA[Mexico approves up to 50% tariffs on China and other countries]]></title>
       <description><![CDATA[The levies are set to take effect on 1 January and will apply to goods like cars, clothing and appliances.]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c997n2zlegzo</guid>
       <pubDate>Mon, 01 Dec 2025 08:17:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a66f/live/856c98a0-ce69-11f0-a1b3-e3b55c523216.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hong Kong fire death toll rises to 146 as thousands pay respects]]></title>
-      <description><![CDATA[Authorities say they have completed searches of four of the seven towers as part of a criminal investigation.]]></description>
-      <link>https://www.bbc.com/news/articles/cp34yk7z6yxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp34yk7z6yxo</guid>
-      <pubDate>Sun, 30 Nov 2025 12:13:41 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60af/live/f75c3d20-cdd9-11f0-84e3-8b388d01c57d.jpg"/>
     </item>
     <item>
       <title><![CDATA[What we know about the Hong Kong apartment fires]]></title>
