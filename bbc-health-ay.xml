@@ -10,17 +10,25 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 12 Dec 2025 08:29:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 08:58:24 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
+      <title><![CDATA[Operations and treatments cut back as NHS orders hospitals to save money]]></title>
+      <description><![CDATA[Documents seen by BBC show hospitals being ordered to slow down on activity to help balance the books.]]></description>
+      <link>https://www.bbc.com/news/articles/crrkervnxvqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/crrkervnxvqo</guid>
+      <pubDate>Fri, 12 Dec 2025 00:29:28 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad64/live/9718b560-d6bc-11f0-9d57-f5bf64d847f4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Flu surge a challenge for NHS 'unlike any' since pandemic, Streeting says]]></title>
       <description><![CDATA[The health secretary also warns planned strikes by resident doctors next week could be the "Jenga piece that collapses" the NHS.]]></description>
       <link>https://www.bbc.com/news/articles/c8r30787e76o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c8r30787e76o</guid>
-      <pubDate>Fri, 12 Dec 2025 07:51:11 GMT</pubDate>
+      <pubDate>Fri, 12 Dec 2025 08:33:08 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48dd/live/9d82e1c0-d719-11f0-aa87-6bb0a76c2b74.jpg"/>
     </item>
     <item>
@@ -30,6 +38,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yq9wr3pnro</guid>
       <pubDate>Thu, 11 Dec 2025 16:25:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c59f/live/687689b0-d6e1-11f0-aa51-f3f688349a6c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[King to share personal message on cancer in TV broadcast]]></title>
+      <description><![CDATA[King Charles has recorded a message about his experience of cancer for the Stand Up To Cancer campaign.]]></description>
+      <link>https://www.bbc.com/news/articles/c87l49nxr00o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c87l49nxr00o</guid>
+      <pubDate>Fri, 12 Dec 2025 00:31:47 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11af/live/737a0900-d6a9-11f0-9825-01386cba6d32.jpg"/>
     </item>
     <item>
       <title><![CDATA[Doctor wrote off my hair loss and dizziness as 'just being a tired mum']]></title>
@@ -54,22 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c62l9gp337zo</guid>
       <pubDate>Thu, 11 Dec 2025 17:18:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c30b/live/c3ffdaf0-d5e4-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Last-minute offer may avert strike by resident doctors]]></title>
-      <description><![CDATA[Deal put forward by ministers includes rapid expansion of training posts, but no promises on pay.]]></description>
-      <link>https://www.bbc.com/news/articles/c4gk3d72mvzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gk3d72mvzo</guid>
-      <pubDate>Wed, 10 Dec 2025 22:00:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/324f/live/bd02ad90-d65c-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Campaigners question ethics of puberty-blocker trial in legal letter to Streeting]]></title>
-      <description><![CDATA[Researchers and the UK regulator say the study is going to help improve care for children questioning their gender.]]></description>
-      <link>https://www.bbc.com/news/articles/cyvg6l5nypgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cyvg6l5nypgo</guid>
-      <pubDate>Thu, 11 Dec 2025 00:25:00 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba65/live/13c44e40-d608-11f0-8c06-f5d460985095.png"/>
     </item>
     <item>
       <title><![CDATA[Why is flu so bad this winter - and should you buy a vaccine?]]></title>
@@ -120,6 +120,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e1/live/0441ff20-d6a4-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Last-minute offer may avert strike by resident doctors]]></title>
+      <description><![CDATA[Deal put forward by ministers includes rapid expansion of training posts, but no promises on pay.]]></description>
+      <link>https://www.bbc.com/news/articles/c4gk3d72mvzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gk3d72mvzo</guid>
+      <pubDate>Wed, 10 Dec 2025 22:00:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/324f/live/bd02ad90-d65c-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Campaigners question ethics of puberty-blocker trial in legal letter to Streeting]]></title>
+      <description><![CDATA[Researchers and the UK regulator say the study is going to help improve care for children questioning their gender.]]></description>
+      <link>https://www.bbc.com/news/articles/cyvg6l5nypgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cyvg6l5nypgo</guid>
+      <pubDate>Thu, 11 Dec 2025 00:25:00 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba65/live/13c44e40-d608-11f0-8c06-f5d460985095.png"/>
+    </item>
+    <item>
       <title><![CDATA[Sperm from donor with cancer-causing gene was used to conceive almost 200 children]]></title>
       <description><![CDATA[Some children have already died and only a minority who inherit the mutation will escape cancer in their lifetimes.]]></description>
       <link>https://www.bbc.com/news/articles/ckgmy90z991o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -142,14 +158,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2pvxdn9v4o</guid>
       <pubDate>Mon, 08 Dec 2025 07:49:01 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d561/live/8d077230-d1fa-11f0-a732-cbe19f3047f2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Doctors to stage five-day strike before Christmas]]></title>
-      <description><![CDATA[Walkout in England begins on 17 December and will be 14th strike in pay dispute.]]></description>
-      <link>https://www.bbc.com/news/articles/cx2dw7l158po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2dw7l158po</guid>
-      <pubDate>Mon, 01 Dec 2025 17:25:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/370d/live/3ffed6e0-cedf-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
       <title><![CDATA[Partial victory for nurse in NHS trans changing room row]]></title>
@@ -270,14 +278,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0edn8v8yl3o</guid>
       <pubDate>Mon, 24 Nov 2025 17:13:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec5c/live/b319be50-c954-11f0-97cf-5bf03e31d3e5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[JFK's granddaughter raises awareness of rare leukaemia with poignant essay ]]></title>
-      <description><![CDATA[Doctors say Tatiana Schlossberg's struggle - even with the best care as a member of a prominent family - emphasises the need for more research.]]></description>
-      <link>https://www.bbc.com/news/articles/cj9ynjg3zy0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj9ynjg3zy0o</guid>
-      <pubDate>Mon, 24 Nov 2025 22:18:53 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/404c/live/339002a0-c983-11f0-84b0-85226717c3ac.jpg"/>
     </item>
     <item>
       <title><![CDATA[Much of £11bn Covid scheme fraud 'beyond recovery', report says]]></title>
