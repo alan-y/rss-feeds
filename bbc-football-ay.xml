@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 13 Dec 2025 13:50:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 14:17:51 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -21,7 +21,7 @@
       <link>https://www.bbc.com/sport/football/articles/cz94vpny40ko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz94vpny40ko</guid>
       <pubDate>Sat, 13 Dec 2025 13:46:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"/>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9449/live/486f74f0-d82c-11f0-918f-3dfa4c9e4701.jpg"/>
     </item>
     <item>
       <title><![CDATA[Frustrated Messi fans throw chairs and bottles at India stadium event]]></title>
@@ -54,22 +54,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdrnz3366kzo</guid>
       <pubDate>Sat, 13 Dec 2025 08:22:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac59/live/8d12f9e0-d5ea-11f0-a892-01d657345866.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Five million World Cup ticket requests in one day - Fifa]]></title>
-      <description><![CDATA[Fifa says five million World Cup ticket requests have been made, despite coming under pressure from supporters' groups critical of its "scandalous" pricing structure.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn099r4e073o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn099r4e073o</guid>
-      <pubDate>Fri, 12 Dec 2025 22:35:09 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e358/live/890fe6e0-d758-11f0-845f-035d2c9c25f7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Palmer's groin problem makes no 'sense' - Maresca]]></title>
-      <description><![CDATA[Chelsea manager Enzo Maresca says there is "not any sense" to Cole Palmer's ongoing groin injury - and hopes it does not prove to be a season-long issue.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj4qq1wv914o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj4qq1wv914o</guid>
-      <pubDate>Fri, 12 Dec 2025 22:31:46 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dca/live/86824b40-d765-11f0-b252-db9838d38426.jpg"/>
     </item>
     <item>
       <title><![CDATA[Scotland's Burke scores stunner as Union beat RB Leipzig]]></title>
@@ -112,6 +96,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d74/live/09b9fc50-d74e-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Five million World Cup ticket requests in one day - Fifa]]></title>
+      <description><![CDATA[Fifa says five million World Cup ticket requests have been made, despite coming under pressure from supporters' groups critical of its "scandalous" pricing structure.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn099r4e073o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn099r4e073o</guid>
+      <pubDate>Fri, 12 Dec 2025 22:35:09 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e358/live/890fe6e0-d758-11f0-845f-035d2c9c25f7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Palmer's groin problem makes no 'sense' - Maresca]]></title>
+      <description><![CDATA[Chelsea manager Enzo Maresca says there is "not any sense" to Cole Palmer's ongoing groin injury - and hopes it does not prove to be a season-long issue.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj4qq1wv914o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj4qq1wv914o</guid>
+      <pubDate>Fri, 12 Dec 2025 22:31:46 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dca/live/86824b40-d765-11f0-b252-db9838d38426.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Cup final victory would 'validate' Celtic process - Nancy]]></title>
       <description><![CDATA[Celtic manager Wilfried Nancy says victory in Sunday's Premier Sports Cup final against St Mirren would "validate" what he is trying to implement at his new club.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cre333j2827o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -144,20 +144,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea9e/live/66ec0e60-be51-11f0-ae46-bd64331f0fd4.png"/>
     </item>
     <item>
-      <title><![CDATA[Why Dewsbury-Hall is thriving at Everton after Chelsea exit]]></title>
-      <description><![CDATA[Midfielder Kiernan Dewsbury-Hall returns to Stamford Bridge on Saturday in outstanding form as Everton look to leapfrog Chelsea in the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly3klev5leo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly3klev5leo</guid>
-      <pubDate>Fri, 12 Dec 2025 09:30:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e3/live/1ad523b0-d5dd-11f0-b33e-1f14457e259b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Which SPFL players are heading for Afcon 2025?]]></title>
       <description><![CDATA[Ten players from seven Scottish clubs are heading to the Africa Cup of Nations, but how long will they be away and what are their prospects?]]></description>
       <link>https://www.bbc.com/sport/articles/cx2lzv8rr82o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/cx2lzv8rr82o</guid>
       <pubDate>Sat, 13 Dec 2025 09:58:45 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe67/live/6e091190-d77c-11f0-aae2-2191c0e48a3b.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Why Dewsbury-Hall is thriving at Everton after Chelsea exit]]></title>
+      <description><![CDATA[Midfielder Kiernan Dewsbury-Hall returns to Stamford Bridge on Saturday in outstanding form as Everton look to leapfrog Chelsea in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly3klev5leo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly3klev5leo</guid>
+      <pubDate>Fri, 12 Dec 2025 09:30:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e3/live/1ad523b0-d5dd-11f0-b33e-1f14457e259b.jpg"/>
     </item>
     <item>
       <title><![CDATA['There can only be one singer' - my secrets of successful man-management]]></title>
@@ -174,14 +174,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8ze8qv0ego</guid>
       <pubDate>Fri, 12 Dec 2025 12:30:57 GMT</pubDate>
       <media:thumbnail width="240" height="132" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4af9/live/62059b30-d6b3-11f0-8c06-f5d460985095.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Winless Wolves could face more pain - Edwards]]></title>
-      <description><![CDATA[Head coach Rob Edwards says there could be "more pain to come" at winless Wolves.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn099g20w8eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn099g20w8eo</guid>
-      <pubDate>Fri, 12 Dec 2025 15:09:02 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b58a/live/cdbb68a0-d767-11f0-9458-21e2709cd626.jpg"/>
     </item>
     <item>
       <title><![CDATA[There are 'no reasons to not want Salah to stay' at Liverpool - Slot]]></title>
@@ -216,12 +208,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af49/live/c3f33950-cea8-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Is Saka an alternative to Haaland as captain? The FPL talking point]]></title>
-      <description><![CDATA[With Premier League leaders Arsenal hosting bottom club Wolves, is it time to captain Bukayo Saka in your fantasy football team? Our FPL experts give their views.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crk7l6dym68o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crk7l6dym68o</guid>
-      <pubDate>Fri, 12 Dec 2025 07:18:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6369/live/893b8180-d5e9-11f0-ab62-eb598af64ced.jpg"/>
+      <title><![CDATA[Winless Wolves could face more pain - Edwards]]></title>
+      <description><![CDATA[Head coach Rob Edwards says there could be "more pain to come" at winless Wolves.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn099g20w8eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn099g20w8eo</guid>
+      <pubDate>Fri, 12 Dec 2025 15:09:02 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b58a/live/cdbb68a0-d767-11f0-9458-21e2709cd626.jpg"/>
     </item>
     <item>
       <title><![CDATA[Auchinleck Talbot v Celtic tie moved to Rugby Park]]></title>
@@ -262,14 +254,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly09eng440o</guid>
       <pubDate>Fri, 12 Dec 2025 15:04:34 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b61/live/1ec128a0-d756-11f0-8c06-f5d460985095.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Barcelona 'not a pressure' for on-loan Rashford]]></title>
-      <description><![CDATA[Marcus Rashford says he finds nothing at Barcelona "a pressure" and is at the club to "enjoy myself" as he continues to thrive since his move from Manchester United.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwyln8xxx80o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyln8xxx80o</guid>
-      <pubDate>Thu, 11 Dec 2025 20:16:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b062/live/61967d50-d6c1-11f0-a31a-3bc0922159a2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why 'phenomenon' Williams is on radar of Europe's top clubs]]></title>
@@ -352,6 +336,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dca1/live/6076b050-d39e-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Barcelona 'not a pressure' for on-loan Rashford]]></title>
+      <description><![CDATA[Marcus Rashford says he finds nothing at Barcelona "a pressure" and is at the club to "enjoy myself" as he continues to thrive since his move from Manchester United.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwyln8xxx80o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyln8xxx80o</guid>
+      <pubDate>Thu, 11 Dec 2025 20:16:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b062/live/61967d50-d6c1-11f0-a31a-3bc0922159a2.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Nancy exposed to brutal life as Celtic manager as cup final looms']]></title>
       <description><![CDATA[BBC Scotland's chief sportswriter, Tom English, dissects Wilfried Nancy's start as Celtic manager with the Premier Sports Cup final looming.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cm2887zk7r3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -414,14 +406,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0kkep2gjro</guid>
       <pubDate>Thu, 11 Dec 2025 22:03:50 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee7e/live/95e096a0-d6d4-11f0-a192-19d7b6119976.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Does Nancy 'know what he's walked in to' amid horror Celtic start?]]></title>
-      <description><![CDATA[Wilfried Nancy has become the first Celtic manager to lose his first two games sparking concerns amid the club's supporters.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czdgg52e9qmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czdgg52e9qmo</guid>
-      <pubDate>Fri, 12 Dec 2025 01:42:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c7/live/c00bcea0-d6fb-11f0-9fb5-5f3a3703a365.png"/>
     </item>
     <item>
       <title><![CDATA[BBC or ITV? Inside how World Cup broadcast picks are made]]></title>
