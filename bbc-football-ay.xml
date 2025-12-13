@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 13 Dec 2025 14:47:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 15:18:03 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -30,30 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g66nll48do</guid>
       <pubDate>Sat, 13 Dec 2025 11:59:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cca/live/87ff21d0-d816-11f0-a8dc-93c15fe68710.png"/>
-    </item>
-    <item>
-      <title><![CDATA['Anger and disappointment' as fans priced out of World Cup]]></title>
-      <description><![CDATA[Supporters tell BBC Sport of their frustration at the astronomical cost of following the 2026 World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8988118gj9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8988118gj9o</guid>
-      <pubDate>Fri, 12 Dec 2025 21:32:48 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f41e/live/cdcd9240-d781-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Guardiola, a great generation, and dogs called John and Charles]]></title>
-      <description><![CDATA[Manchester City midfielder Bernardo Silva sits down with Kelly Somers to discuss his career, what he will do once he retires, and playing for Pep Guardiola.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy8jr1p1l4zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8jr1p1l4zo</guid>
-      <pubDate>Sat, 13 Dec 2025 06:18:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5317/live/05c9cb90-d7ec-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[One win in 10 - should Dundee Utd fans be worried?]]></title>
-      <description><![CDATA[BBC Scotland analyses the severity of Dundee United's current predicament.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdrnz3366kzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdrnz3366kzo</guid>
-      <pubDate>Sat, 13 Dec 2025 08:22:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac59/live/8d12f9e0-d5ea-11f0-a892-01d657345866.png"/>
     </item>
     <item>
       <title><![CDATA[Scotland's Burke scores stunner as Union beat RB Leipzig]]></title>
@@ -104,6 +80,30 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e358/live/890fe6e0-d758-11f0-845f-035d2c9c25f7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Guardiola, a great generation, and dogs called John and Charles]]></title>
+      <description><![CDATA[Manchester City midfielder Bernardo Silva sits down with Kelly Somers to discuss his career, what he will do once he retires, and playing for Pep Guardiola.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy8jr1p1l4zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8jr1p1l4zo</guid>
+      <pubDate>Sat, 13 Dec 2025 06:18:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5317/live/05c9cb90-d7ec-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[One win in 10 - should Dundee Utd fans be worried?]]></title>
+      <description><![CDATA[BBC Scotland analyses the severity of Dundee United's current predicament.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdrnz3366kzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdrnz3366kzo</guid>
+      <pubDate>Sat, 13 Dec 2025 08:22:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac59/live/8d12f9e0-d5ea-11f0-a892-01d657345866.png"/>
+    </item>
+    <item>
+      <title><![CDATA['Anger and disappointment' as fans priced out of World Cup]]></title>
+      <description><![CDATA[Supporters tell BBC Sport of their frustration at the astronomical cost of following the 2026 World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8988118gj9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8988118gj9o</guid>
+      <pubDate>Fri, 12 Dec 2025 21:32:48 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f41e/live/cdcd9240-d781-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Palmer's groin problem makes no 'sense' - Maresca]]></title>
       <description><![CDATA[Chelsea manager Enzo Maresca says there is "not any sense" to Cole Palmer's ongoing groin injury - and hopes it does not prove to be a season-long issue.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj4qq1wv914o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -128,6 +128,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ef4/live/cb18b2b0-d695-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why Dewsbury-Hall is thriving at Everton after Chelsea exit]]></title>
+      <description><![CDATA[Midfielder Kiernan Dewsbury-Hall returns to Stamford Bridge on Saturday in outstanding form as Everton look to leapfrog Chelsea in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly3klev5leo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly3klev5leo</guid>
+      <pubDate>Fri, 12 Dec 2025 09:30:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e3/live/1ad523b0-d5dd-11f0-b33e-1f14457e259b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Antonio bids to relaunch career at Leicester 12 months after crash]]></title>
       <description><![CDATA[Ex-West Ham striker Michail Antonio will be given a chance to restart his club career with Leicester City.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2ppnqegyqo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -150,30 +158,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/cx2lzv8rr82o</guid>
       <pubDate>Sat, 13 Dec 2025 09:58:45 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe67/live/6e091190-d77c-11f0-aae2-2191c0e48a3b.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Why Dewsbury-Hall is thriving at Everton after Chelsea exit]]></title>
-      <description><![CDATA[Midfielder Kiernan Dewsbury-Hall returns to Stamford Bridge on Saturday in outstanding form as Everton look to leapfrog Chelsea in the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly3klev5leo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly3klev5leo</guid>
-      <pubDate>Fri, 12 Dec 2025 09:30:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e3/live/1ad523b0-d5dd-11f0-b33e-1f14457e259b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['There can only be one singer' - my secrets of successful man-management]]></title>
-      <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis looks at man-management and how dealing with unhappy players is not the only challenge a manager will face.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c208vr0ewj5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c208vr0ewj5o</guid>
-      <pubDate>Fri, 12 Dec 2025 07:03:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[BBC to show Macclesfield and Spurs FA Cup ties]]></title>
-      <description><![CDATA[Non-league Macclesfield's FA Cup third round tie with holders Crystal Palace will be televised live on BBC One on Saturday, 10 January (12:15 GMT kick-off).]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp8ze8qv0ego?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8ze8qv0ego</guid>
-      <pubDate>Fri, 12 Dec 2025 12:30:57 GMT</pubDate>
-      <media:thumbnail width="240" height="132" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4af9/live/62059b30-d6b3-11f0-8c06-f5d460985095.png"/>
     </item>
     <item>
       <title><![CDATA[There are 'no reasons to not want Salah to stay' at Liverpool - Slot]]></title>
@@ -216,6 +200,22 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b58a/live/cdbb68a0-d767-11f0-9458-21e2709cd626.jpg"/>
     </item>
     <item>
+      <title><![CDATA['There can only be one singer' - my secrets of successful man-management]]></title>
+      <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis looks at man-management and how dealing with unhappy players is not the only challenge a manager will face.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c208vr0ewj5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c208vr0ewj5o</guid>
+      <pubDate>Fri, 12 Dec 2025 07:03:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[BBC to show Macclesfield and Spurs FA Cup ties]]></title>
+      <description><![CDATA[Non-league Macclesfield's FA Cup third round tie with holders Crystal Palace will be televised live on BBC One on Saturday, 10 January (12:15 GMT kick-off).]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp8ze8qv0ego?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8ze8qv0ego</guid>
+      <pubDate>Fri, 12 Dec 2025 12:30:57 GMT</pubDate>
+      <media:thumbnail width="240" height="132" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4af9/live/62059b30-d6b3-11f0-8c06-f5d460985095.png"/>
+    </item>
+    <item>
       <title><![CDATA[Auchinleck Talbot v Celtic tie moved to Rugby Park]]></title>
       <description><![CDATA[Auchinleck Talbot take the "difficult and extremely disappointing" decision to move their Scottish Cup fourth round tie against Celtic to Kilmarnock's Rugby Park. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cq5qqqx70l7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -230,30 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2nzjlp7gno</guid>
       <pubDate>Fri, 12 Dec 2025 12:30:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1f/live/97426a00-d6a7-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Salah helped bring our communities together']]></title>
-      <description><![CDATA[Liverpool's Arab community say they would be "disappointed" if the Egyptian leaves the club.]]></description>
-      <link>https://www.bbc.com/news/articles/cy95pwlyy5eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy95pwlyy5eo</guid>
-      <pubDate>Sat, 13 Dec 2025 07:28:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4903/live/b3906680-d69d-11f0-bfeb-138d08a55502.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Rooney 'got death threats' after making Man Utd move]]></title>
-      <description><![CDATA[Former England striker Wayne Rooney says he received death threats when he made the move from boyhood club Everton to Manchester United in 2004.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwyllw168vlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyllw168vlo</guid>
-      <pubDate>Fri, 12 Dec 2025 06:26:42 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9443/live/b4f53af0-d6cf-11f0-a192-19d7b6119976.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Rangers v Hibs, Braga & Martindale in focus]]></title>
-      <description><![CDATA[Monday's meeting between Rangers and Hibernian, Heart of Midlothian's Claudio Braga and Livingston manager David Martindale provide talking points in the Scottish Premiership this weekend.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly09eng440o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly09eng440o</guid>
-      <pubDate>Fri, 12 Dec 2025 15:04:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b61/live/1ec128a0-d756-11f0-8c06-f5d460985095.png"/>
     </item>
     <item>
       <title><![CDATA[Why 'phenomenon' Williams is on radar of Europe's top clubs]]></title>
@@ -344,28 +320,36 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b062/live/61967d50-d6c1-11f0-a31a-3bc0922159a2.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Salah helped bring our communities together']]></title>
+      <description><![CDATA[Liverpool's Arab community say they would be "disappointed" if the Egyptian leaves the club.]]></description>
+      <link>https://www.bbc.com/news/articles/cy95pwlyy5eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy95pwlyy5eo</guid>
+      <pubDate>Sat, 13 Dec 2025 07:28:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4903/live/b3906680-d69d-11f0-bfeb-138d08a55502.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rooney 'got death threats' after making Man Utd move]]></title>
+      <description><![CDATA[Former England striker Wayne Rooney says he received death threats when he made the move from boyhood club Everton to Manchester United in 2004.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwyllw168vlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyllw168vlo</guid>
+      <pubDate>Fri, 12 Dec 2025 06:26:42 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9443/live/b4f53af0-d6cf-11f0-a192-19d7b6119976.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rangers v Hibs, Braga & Martindale in focus]]></title>
+      <description><![CDATA[Monday's meeting between Rangers and Hibernian, Heart of Midlothian's Claudio Braga and Livingston manager David Martindale provide talking points in the Scottish Premiership this weekend.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly09eng440o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly09eng440o</guid>
+      <pubDate>Fri, 12 Dec 2025 15:04:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b61/live/1ec128a0-d756-11f0-8c06-f5d460985095.png"/>
+    </item>
+    <item>
       <title><![CDATA['Nancy exposed to brutal life as Celtic manager as cup final looms']]></title>
       <description><![CDATA[BBC Scotland's chief sportswriter, Tom English, dissects Wilfried Nancy's start as Celtic manager with the Premier Sports Cup final looming.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cm2887zk7r3o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2887zk7r3o</guid>
       <pubDate>Fri, 12 Dec 2025 07:32:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2b5/live/61b52e70-d6f9-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Lampard wins second manager of the month award]]></title>
-      <description><![CDATA[Coventry City boss Frank Lampard is named the Championship's manager of the month for November with striker Ellis Simms winning the player award.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgrk94gml8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgrk94gml8o</guid>
-      <pubDate>Fri, 12 Dec 2025 17:12:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c29/live/b2e6a1e0-d6b1-11f0-9566-091746611f5e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Lennon to miss Dunfermline game after death of father]]></title>
-      <description><![CDATA[Neil Lennon will miss Dunfermline Athletic's visit to Glasgow to face Queen's Park on Saturday following the death of the team manager's father.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yqqljy8vwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yqqljy8vwo</guid>
-      <pubDate>Fri, 12 Dec 2025 14:38:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca88/live/61755c50-d767-11f0-b252-db9838d38426.jpg"/>
     </item>
     <item>
       <title><![CDATA[How to follow the Premier League on the BBC this weekend]]></title>
@@ -376,14 +360,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7155/live/89855b90-d5c4-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Villa defeat 'reality check' for struggling Liverpool]]></title>
-      <description><![CDATA[Under-pressure Liverpool manager Gareth Taylor says his side have had a "real reality check" as their winless start to the Women's Super League season continues.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cev8894x9z9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cev8894x9z9o</guid>
-      <pubDate>Thu, 11 Dec 2025 22:49:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c41/live/b05f4960-d722-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Wolves got summer transfers 'wrong' - club execs]]></title>
       <description><![CDATA[Wolves got their transfer business "wrong" in the summer, says technical director Matt Jackson - while under-fire executive chairman Jeff Shi empathises with protesting fans.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cpd62wgjx9do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -392,20 +368,28 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3ba/live/7cce4ce0-d6cd-11f0-a192-19d7b6119976.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Rangers 'as bad as I've seen' as Keane revels in Ferencvaros win ]]></title>
-      <description><![CDATA[Rangers were comfortably second-best as they slumped to yet another Europa League defeat, according to victorious Ferencvaros boss Robbie Keane.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwygglyqky2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwygglyqky2o</guid>
-      <pubDate>Thu, 11 Dec 2025 23:32:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df40/live/8060d8c0-d6e9-11f0-9fb5-5f3a3703a365.png"/>
+      <title><![CDATA[Lennon to miss Dunfermline game after death of father]]></title>
+      <description><![CDATA[Neil Lennon will miss Dunfermline Athletic's visit to Glasgow to face Queen's Park on Saturday following the death of the team manager's father.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5yqqljy8vwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yqqljy8vwo</guid>
+      <pubDate>Fri, 12 Dec 2025 14:38:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca88/live/61755c50-d767-11f0-b252-db9838d38426.jpg"/>
     </item>
     <item>
-      <title><![CDATA[A win 30 years in the making - how Igor Jesus ended Forest wait]]></title>
-      <description><![CDATA[Igor Jesus took just 82 seconds to end Nottingham Forest's 30-year wait for an away win in Europe - and celebrated in increasingly familiar style.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn0kkep2gjro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0kkep2gjro</guid>
-      <pubDate>Thu, 11 Dec 2025 22:03:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee7e/live/95e096a0-d6d4-11f0-a192-19d7b6119976.jpg"/>
+      <title><![CDATA[Villa defeat 'reality check' for struggling Liverpool]]></title>
+      <description><![CDATA[Under-pressure Liverpool manager Gareth Taylor says his side have had a "real reality check" as their winless start to the Women's Super League season continues.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cev8894x9z9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cev8894x9z9o</guid>
+      <pubDate>Thu, 11 Dec 2025 22:49:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c41/live/b05f4960-d722-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Lampard wins second manager of the month award]]></title>
+      <description><![CDATA[Coventry City boss Frank Lampard is named the Championship's manager of the month for November with striker Ellis Simms winning the player award.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgrk94gml8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgrk94gml8o</guid>
+      <pubDate>Fri, 12 Dec 2025 17:12:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c29/live/b2e6a1e0-d6b1-11f0-9566-091746611f5e.jpg"/>
     </item>
     <item>
       <title><![CDATA[BBC or ITV? Inside how World Cup broadcast picks are made]]></title>
