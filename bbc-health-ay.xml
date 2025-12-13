@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 12 Dec 2025 23:46:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 01:24:31 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Why are sperm donors having hundreds of children?]]></title>
+      <description><![CDATA[The European sperm market is booming, but are some donor's sperm being used to make too many babies?]]></description>
+      <link>https://www.bbc.com/news/articles/cvg8mge23leo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg8mge23leo</guid>
+      <pubDate>Sat, 13 Dec 2025 00:09:51 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f8/live/b7f57c30-d78b-11f0-b0ee-a9375724f730.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Operations and treatments cut back as NHS orders hospitals to save money]]></title>
       <description><![CDATA[Documents seen by BBC show hospitals being ordered to slow down on activity to help balance the books.]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2peeljp1po</guid>
       <pubDate>Fri, 12 Dec 2025 00:28:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3b2/live/85ae4e40-d066-11f0-8039-b97ff13472bc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Streeting confirms public inquiry into NHS trust]]></title>
-      <description><![CDATA[The TEWV announcement comes after calls from families of three patients who died by suicide.]]></description>
-      <link>https://www.bbc.com/news/articles/c62l9gp337zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c62l9gp337zo</guid>
-      <pubDate>Thu, 11 Dec 2025 17:18:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c30b/live/c3ffdaf0-d5e4-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why is flu so bad this winter - and should you buy a vaccine?]]></title>
@@ -126,6 +126,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cy47p5vnyn0o</guid>
       <pubDate>Mon, 01 Dec 2025 06:28:38 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e58/live/52c06560-cde9-11f0-a750-a3ce41dc0968.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Streeting confirms public inquiry into NHS trust]]></title>
+      <description><![CDATA[The TEWV announcement comes after calls from families of three patients who died by suicide.]]></description>
+      <link>https://www.bbc.com/news/articles/c62l9gp337zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c62l9gp337zo</guid>
+      <pubDate>Thu, 11 Dec 2025 17:18:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c30b/live/c3ffdaf0-d5e4-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Last-minute offer may avert strike by resident doctors]]></title>
@@ -278,14 +286,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cgl6klez226o</guid>
       <pubDate>Tue, 25 Nov 2025 10:11:12 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e13e/live/946c4170-c973-11f0-a3b5-9d87f9d0b765.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Obesity jab drug fails to slow Alzheimer's ]]></title>
-      <description><![CDATA[There were initial hopes that the drug in weight loss jab Wegovy could slow progression of dementia.]]></description>
-      <link>https://www.bbc.com/news/articles/c0edn8v8yl3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0edn8v8yl3o</guid>
-      <pubDate>Mon, 24 Nov 2025 17:13:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec5c/live/b319be50-c954-11f0-97cf-5bf03e31d3e5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Much of £11bn Covid scheme fraud 'beyond recovery', report says]]></title>
