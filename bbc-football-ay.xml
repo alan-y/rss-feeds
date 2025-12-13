@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 13 Dec 2025 13:39:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 13:50:36 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Salah named on Liverpool bench for Brighton game]]></title>
+      <description><![CDATA[Mohamed Salah is named on Liverpool's bench for their Premier League game against Brighton.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz94vpny40ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz94vpny40ko</guid>
+      <pubDate>Sat, 13 Dec 2025 13:46:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"/>
+    </item>
     <item>
       <title><![CDATA[Frustrated Messi fans throw chairs and bottles at India stadium event]]></title>
       <description><![CDATA[The Inter Miami and Argentina forward is in India for a tour, taking in events in Kolkata, Hyderabad, Mumbai and Delhi.]]></description>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8jr1p1l4zo</guid>
       <pubDate>Sat, 13 Dec 2025 06:18:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5317/live/05c9cb90-d7ec-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Salah in Liverpool squad for Brighton match]]></title>
-      <description><![CDATA[Liverpool forward Mohamed Salah is in the squad for Saturday's Premier League match against Brighton after talks with head coach Arne Slot on Friday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c36zz8p61pjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c36zz8p61pjo</guid>
-      <pubDate>Fri, 12 Dec 2025 18:25:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0d9/live/e4715bc0-d782-11f0-a6cc-41e40735d1f3.jpg"/>
     </item>
     <item>
       <title><![CDATA[One win in 10 - should Dundee Utd fans be worried?]]></title>
@@ -144,14 +144,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea9e/live/66ec0e60-be51-11f0-ae46-bd64331f0fd4.png"/>
     </item>
     <item>
-      <title><![CDATA[All your FPL stats and Premier League team news in one place]]></title>
-      <description><![CDATA[Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.]]></description>
-      <link>https://www.bbc.com/sport/articles/c93nnd0r3kyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c93nnd0r3kyo</guid>
-      <pubDate>Fri, 12 Dec 2025 17:50:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why Dewsbury-Hall is thriving at Everton after Chelsea exit]]></title>
       <description><![CDATA[Midfielder Kiernan Dewsbury-Hall returns to Stamford Bridge on Saturday in outstanding form as Everton look to leapfrog Chelsea in the Premier League.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cly3klev5leo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -238,6 +230,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq5qqqx70l7o</guid>
       <pubDate>Fri, 12 Dec 2025 18:12:55 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eff5/live/8a757840-d782-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Six players to watch at Afcon 2025]]></title>
+      <description><![CDATA[BBC Sport Africa picks out six players to keep an eye on at the 2025 Africa Cup of Nations in Morocco from 21 December to 18 January.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2nzjlp7gno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2nzjlp7gno</guid>
+      <pubDate>Fri, 12 Dec 2025 12:30:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1f/live/97426a00-d6a7-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA['Salah helped bring our communities together']]></title>
@@ -350,14 +350,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgqzne2x87eo</guid>
       <pubDate>Sun, 07 Dec 2025 20:00:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dca1/live/6076b050-d39e-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Six players to watch at Afcon 2025]]></title>
-      <description><![CDATA[BBC Sport Africa picks out six players to keep an eye on at the 2025 Africa Cup of Nations in Morocco from 21 December to 18 January.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2nzjlp7gno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2nzjlp7gno</guid>
-      <pubDate>Fri, 12 Dec 2025 12:30:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1f/live/97426a00-d6a7-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA['Nancy exposed to brutal life as Celtic manager as cup final looms']]></title>
