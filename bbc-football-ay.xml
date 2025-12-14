@@ -10,43 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 14 Dec 2025 09:19:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 09:36:16 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[Arsenal score dramatic late winner to avoid Wolves upset]]></title>
-      <description><![CDATA[Arsenal needed a second own goal after conceding in the 90th minute to defeat bottom of the table Wolves in a enthralling end to the match. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c78vn1zp79go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c78vn1zp79go</guid>
-      <pubDate>Sat, 13 Dec 2025 22:35:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b69/live/f1ebe1f0-d870-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ekitike brace gives Liverpool important win as Salah returns]]></title>
-      <description><![CDATA[Hugo Ekitike is decisive in an important two goal win over Brighton, as Mohamed Salah marks his eagerly awaited Liverpool return with an assist.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c1e4d86ylz6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1e4d86ylz6o</guid>
-      <pubDate>Sat, 13 Dec 2025 22:36:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bad/live/567226e0-d86a-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Composed Palmer back on the scoresheet as Chelsea return to winning ways]]></title>
-      <description><![CDATA[Chelsea have moved back into the top four after defeating Everton as Cole Palmer scored for the first time since returning from injury.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c70r1575rxdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c70r1575rxdo</guid>
-      <pubDate>Sat, 13 Dec 2025 22:37:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/837b/live/ab63d700-d86c-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wilson stars as Fulham inflict seventh consecutive defeat on Burnley]]></title>
-      <description><![CDATA[Burnley lose crucial clash as Harry Wilson continues his fine form to send Fulham seven points clear of the drop zone.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/clyzx4jpgwko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/clyzx4jpgwko</guid>
-      <pubDate>Sat, 13 Dec 2025 22:30:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c85a/live/229952b0-d867-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
     <item>
       <title><![CDATA[Goodbye - but only for now? Salah signs off as questions remain]]></title>
       <description><![CDATA[Mohamed Salah's return to the Liverpool side shows boss Arne Slot is prepared to move on - but questions still remain.]]></description>
@@ -112,6 +80,54 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2742/live/f0efe5d0-d85c-11f0-8909-e9bafa6992dd.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Arsenal score dramatic late winner to avoid Wolves upset]]></title>
+      <description><![CDATA[Arsenal needed a second own goal after conceding in the 90th minute to defeat bottom of the table Wolves in a enthralling end to the match. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c78vn1zp79go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c78vn1zp79go</guid>
+      <pubDate>Sat, 13 Dec 2025 22:35:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b69/live/f1ebe1f0-d870-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ekitike brace gives Liverpool important win as Salah returns]]></title>
+      <description><![CDATA[Hugo Ekitike is decisive in an important two goal win over Brighton, as Mohamed Salah marks his eagerly awaited Liverpool return with an assist.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c1e4d86ylz6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1e4d86ylz6o</guid>
+      <pubDate>Sat, 13 Dec 2025 22:36:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bad/live/567226e0-d86a-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Composed Palmer back on the scoresheet as Chelsea return to winning ways]]></title>
+      <description><![CDATA[Chelsea have moved back into the top four after defeating Everton as Cole Palmer scored for the first time since returning from injury.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c70r1575rxdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c70r1575rxdo</guid>
+      <pubDate>Sat, 13 Dec 2025 22:37:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/837b/live/ab63d700-d86c-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Wilson stars as Fulham inflict seventh consecutive defeat on Burnley]]></title>
+      <description><![CDATA[Burnley lose crucial clash as Harry Wilson continues his fine form to send Fulham seven points clear of the drop zone.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/clyzx4jpgwko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/clyzx4jpgwko</guid>
+      <pubDate>Sat, 13 Dec 2025 22:30:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c85a/live/229952b0-d867-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Bristol Rovers sack Clarke after 10 straight losses]]></title>
+      <description><![CDATA[Bristol Rovers sack manager Darrell Clarke after a club-record run of 10 consecutive league defeats.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce8qd90pp74o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8qd90pp74o</guid>
+      <pubDate>Sat, 13 Dec 2025 18:32:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ef6/live/8981e4e0-d850-11f0-85ce-bd7c5a2bb1fc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[West Ham set sights on Sargent - Sunday's gossip]]></title>
+      <description><![CDATA[Josh Sargent is a target for West Ham, Manchester City are prepared to sell a trio to boost their January spending, Ibrahima Konate is attracting interest from Europe, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx23gy74dwlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx23gy74dwlo</guid>
+      <pubDate>Sat, 13 Dec 2025 20:36:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3152/live/20fbe040-d870-11f0-a8dc-93c15fe68710.png"/>
+    </item>
+    <item>
       <title><![CDATA['The game that really matters' - pundits on Tyne-Wear derby]]></title>
       <description><![CDATA[Football Focus pundits Stephen Warnock and Ashley Williams look ahead to Sunday's Tyne-Wear derby between Newcastle and Sunderland.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c1w9zq1edngo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2ey67zwzwo</guid>
       <pubDate>Sun, 14 Dec 2025 00:06:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/692a/live/03ff9070-d87c-11f0-a8dc-93c15fe68710.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Bristol Rovers sack Clarke after 10 straight losses]]></title>
-      <description><![CDATA[Bristol Rovers sack manager Darrell Clarke after a club-record run of 10 consecutive league defeats.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce8qd90pp74o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8qd90pp74o</guid>
-      <pubDate>Sat, 13 Dec 2025 18:32:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ef6/live/8981e4e0-d850-11f0-85ce-bd7c5a2bb1fc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[West Ham set sights on Sargent - Sunday's gossip]]></title>
-      <description><![CDATA[Josh Sargent is a target for West Ham, Manchester City are prepared to sell a trio to boost their January spending, Ibrahima Konate is attracting interest from Europe, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx23gy74dwlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx23gy74dwlo</guid>
-      <pubDate>Sat, 13 Dec 2025 20:36:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3152/live/20fbe040-d870-11f0-a8dc-93c15fe68710.png"/>
     </item>
     <item>
       <title><![CDATA[277 and out? Liverpool's Salah turns record breaker again]]></title>
