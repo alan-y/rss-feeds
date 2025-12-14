@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 14 Dec 2025 14:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 14:36:16 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -38,14 +38,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj38ve4nmklo</guid>
       <pubDate>Sat, 13 Dec 2025 20:44:25 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d9d/live/a39b7990-d864-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Defining day of destiny awaits St Mirren & Celtic at Hampden]]></title>
-      <description><![CDATA[BBC Scotland previews the Scottish League Cup final between St Mirren and Celtic.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c33m81nykvxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c33m81nykvxo</guid>
-      <pubDate>Sun, 14 Dec 2025 08:19:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53f/live/78b42310-d875-11f0-b67b-690eb873de1b.png"/>
     </item>
     <item>
       <title><![CDATA[Arsenal score dramatic late winner to avoid Wolves upset]]></title>
@@ -498,6 +490,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpvdjvygm38o</guid>
       <pubDate>Wed, 10 Dec 2025 21:51:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4376/live/97eb9700-d612-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Defining day of destiny awaits St Mirren & Celtic at Hampden]]></title>
+      <description><![CDATA[BBC Scotland previews the Scottish League Cup final between St Mirren and Celtic.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c33m81nykvxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c33m81nykvxo</guid>
+      <pubDate>Sun, 14 Dec 2025 08:19:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53f/live/78b42310-d875-11f0-b67b-690eb873de1b.png"/>
     </item>
     <item>
       <title><![CDATA[English clubs chase Rangers midfielder Rothwell - gossip]]></title>
