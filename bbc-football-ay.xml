@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 14 Dec 2025 12:37:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 13:09:32 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -136,14 +136,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3615/live/adfa4bd0-d8d9-11f0-832c-af1e6baf12da.jpg"/>
     </item>
     <item>
-      <title><![CDATA[West Ham set sights on Sargent - Sunday's gossip]]></title>
-      <description><![CDATA[Josh Sargent is a target for West Ham, Manchester City are prepared to sell a trio to boost their January spending, Ibrahima Konate is attracting interest from Europe, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx23gy74dwlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx23gy74dwlo</guid>
-      <pubDate>Sat, 13 Dec 2025 20:36:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3152/live/20fbe040-d870-11f0-a8dc-93c15fe68710.png"/>
-    </item>
-    <item>
       <title><![CDATA['The game that really matters' - pundits on Tyne-Wear derby]]></title>
       <description><![CDATA[Football Focus pundits Stephen Warnock and Ashley Williams look ahead to Sunday's Tyne-Wear derby between Newcastle and Sunderland.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c1w9zq1edngo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -182,6 +174,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2ey67zwzwo</guid>
       <pubDate>Sun, 14 Dec 2025 00:06:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/692a/live/03ff9070-d87c-11f0-a8dc-93c15fe68710.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[West Ham set sights on Sargent - Sunday's gossip]]></title>
+      <description><![CDATA[Josh Sargent is a target for West Ham, Manchester City are prepared to sell a trio to boost their January spending, Ibrahima Konate is attracting interest from Europe, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx23gy74dwlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx23gy74dwlo</guid>
+      <pubDate>Sat, 13 Dec 2025 20:36:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3152/live/20fbe040-d870-11f0-a8dc-93c15fe68710.png"/>
     </item>
     <item>
       <title><![CDATA[277 and out? Liverpool's Salah turns record breaker again]]></title>
@@ -356,20 +356,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e358/live/890fe6e0-d758-11f0-845f-035d2c9c25f7.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Six players to watch at Afcon 2025]]></title>
-      <description><![CDATA[BBC Sport Africa picks out six players to keep an eye on at the 2025 Africa Cup of Nations in Morocco from 21 December to 18 January.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2nzjlp7gno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2nzjlp7gno</guid>
-      <pubDate>Fri, 12 Dec 2025 12:30:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1f/live/97426a00-d6a7-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['There can only be one singer' - my secrets of successful man-management]]></title>
       <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis looks at man-management and how dealing with unhappy players is not the only challenge a manager will face.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c208vr0ewj5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c208vr0ewj5o</guid>
       <pubDate>Fri, 12 Dec 2025 07:03:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Six players to watch at Afcon 2025]]></title>
+      <description><![CDATA[BBC Sport Africa picks out six players to keep an eye on at the 2025 Africa Cup of Nations in Morocco from 21 December to 18 January.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2nzjlp7gno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2nzjlp7gno</guid>
+      <pubDate>Fri, 12 Dec 2025 12:30:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1f/live/97426a00-d6a7-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Which SPFL players are heading for Afcon 2025?]]></title>
@@ -410,14 +410,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2lkv2l3m5o</guid>
       <pubDate>Sat, 13 Dec 2025 09:29:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea9e/live/66ec0e60-be51-11f0-ae46-bd64331f0fd4.png"/>
-    </item>
-    <item>
-      <title><![CDATA[How to follow the Premier League on the BBC this weekend]]></title>
-      <description><![CDATA[BBC Sport Ask Me Anything explains how to follow the Premier League on the BBC this weekend.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0kpzljpz6lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kpzljpz6lo</guid>
-      <pubDate>Fri, 12 Dec 2025 08:16:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7155/live/89855b90-d5c4-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[BBC or ITV? Inside how World Cup broadcast picks are made]]></title>
@@ -548,14 +540,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2404/live/9e7370d0-d6ac-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Hearts in talks with St Johnstone star McPake]]></title>
-      <description><![CDATA[Manager Derek McInnes says Hearts are in talks with St Johnstone winger Josh McPake about a move next summer.]]></description>
-      <link>https://www.bbc.com/sport/articles/cpd6yz6lvpjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cpd6yz6lvpjo</guid>
-      <pubDate>Sat, 13 Dec 2025 23:22:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a97e/live/4d368b90-d87c-11f0-962d-135233bef7e5.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Fiorentina take security measures after threats]]></title>
       <description><![CDATA[Fiorentina say they have taken security measures to protect players, staff and their families after they receive "unacceptable and shameful" threats.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c2k4z99gwgxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -602,14 +586,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgqvvgglgdo</guid>
       <pubDate>Thu, 11 Dec 2025 00:25:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adbb/live/ee872160-d626-11f0-9ae9-1d7339c7a1f9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd humbled by Lyon - but key lessons learned]]></title>
-      <description><![CDATA[Manchester United were given a demonstration of what it takes to be Europe's best on Wednesday night - but Marc Skinner hopes his side can learn from it.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crl922lyzj9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crl922lyzj9o</guid>
-      <pubDate>Wed, 10 Dec 2025 23:55:53 GMT</pubDate>
-      <media:thumbnail width="240" height="157" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae6e/live/d99c0890-d61e-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[The great number nine decline - where have England's strikers gone?]]></title>
