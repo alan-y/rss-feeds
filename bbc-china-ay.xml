@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 15 Dec 2025 06:34:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 07:00:34 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Pro-democracy Hong Kong tycoon Jimmy Lai found guilty of colluding with foreign forces]]></title>
+      <description><![CDATA[The 78-year-old UK citizen was convicted of lobbying foreign governments to impose sanctions on HK and China.]]></description>
+      <link>https://www.bbc.com/news/articles/cp844kjj37vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp844kjj37vo</guid>
+      <pubDate>Mon, 15 Dec 2025 06:41:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4d/live/51cf24a0-d97b-11f0-b916-c59dd4378137.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Tricked, abducted and abused: Inside China's schools for 'rebellious' teens]]></title>
       <description><![CDATA[Young people tell the BBC that military-style schools deceive and abuse students they claim to help.]]></description>
@@ -64,12 +72,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef12/live/a89036a0-cf42-11f0-8564-7b16d0b8c391.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Japanese 'One Piece' singer stopped mid-show after China-Japan feud]]></title>
-      <description><![CDATA[The sudden cancellation of Japanese events in Shanghai have sparked criticism and fanned nationalist sentiment.]]></description>
-      <link>https://www.bbc.com/news/articles/c997n2zlegzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c997n2zlegzo</guid>
-      <pubDate>Mon, 01 Dec 2025 08:17:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a66f/live/856c98a0-ce69-11f0-a1b3-e3b55c523216.jpg"/>
+      <title><![CDATA[Who is Jimmy Lai, Hong Kong's pro-democracy media tycoon?]]></title>
+      <description><![CDATA[The 78-year-old became a leading figure advocating democracy in the former British territory.]]></description>
+      <link>https://www.bbc.com/news/articles/cgm2z7497yko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cgm2z7497yko</guid>
+      <pubDate>Mon, 15 Dec 2025 05:02:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab02/live/1c6fd9f0-7740-11f0-813c-29678c441e36.jpg"/>
     </item>
     <item>
       <title><![CDATA[What we know about the Hong Kong apartment fires]]></title>
@@ -94,22 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgmy5d7k84o</guid>
       <pubDate>Mon, 17 Nov 2025 05:49:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63c7/live/cf8362c0-c13f-11f0-8669-5560f5c90fbe.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[A Chinese firm bought an insurer for CIA agents - part of Beijing's trillion dollar spending spree]]></title>
-      <description><![CDATA[When an insurer for FBI and CIA agents was sold to a Chinese entity, it led the US to tighten investment laws.]]></description>
-      <link>https://www.bbc.com/news/articles/c4g311jn1m9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g311jn1m9o</guid>
-      <pubDate>Mon, 17 Nov 2025 23:01:18 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa7f/live/3a8e0080-c3bf-11f0-8456-eff94716b162.png"/>
-    </item>
-    <item>
-      <title><![CDATA[What to know about China and Japan's escalating spat over Taiwan]]></title>
-      <description><![CDATA[Japanese PM Sanae Takaichi had suggested Tokyo could take military action if Beijing attacked Taiwan.]]></description>
-      <link>https://www.bbc.com/news/articles/crklvx2n7rzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/crklvx2n7rzo</guid>
-      <pubDate>Tue, 18 Nov 2025 09:54:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a30e/live/a4b4b470-c13c-11f0-ae46-bd64331f0fd4.jpg"/>
     </item>
   </channel>
 </rss>
