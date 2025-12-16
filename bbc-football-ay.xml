@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 16 Dec 2025 08:59:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 09:34:35 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -160,14 +160,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0398/live/0020a510-d9db-11f0-ba85-09c2975a5393.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Clarke urges fans not to go into debt for World Cup tickets]]></title>
-      <description><![CDATA[Steve Clarke is urging Scotland fans not to put themselves into debt to follow their team to the World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yj675vyjno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yj675vyjno</guid>
-      <pubDate>Mon, 15 Dec 2025 12:24:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e69e/live/33745dd0-d9a9-11f0-adaa-f3e2bb1c1ebb.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Amorim 'really disappointed' to draw 'fun game']]></title>
       <description><![CDATA[Manchester United boss Ruben Amorim says his team "lost two points" in a helter-skelter 4-4 Premier League draw against Bournemouth. United led three times but had to settle for a point.]]></description>
       <link>https://www.bbc.com/sport/football/videos/clyzgxxvk8qo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -206,6 +198,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c14vrdr530go</guid>
       <pubDate>Sun, 14 Dec 2025 23:59:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8881/live/71aebae0-d946-11f0-a8dc-93c15fe68710.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Clarke urges fans not to go into debt for World Cup tickets]]></title>
+      <description><![CDATA[Steve Clarke is urging Scotland fans not to put themselves into debt to follow their team to the World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5yj675vyjno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yj675vyjno</guid>
+      <pubDate>Mon, 15 Dec 2025 12:24:29 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e69e/live/33745dd0-d9a9-11f0-adaa-f3e2bb1c1ebb.jpg"/>
     </item>
     <item>
       <title><![CDATA[Timing or tactics - what's gone wrong of late at Celtic?]]></title>
@@ -256,14 +256,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/351b/live/d8695dd0-d9b4-11f0-b051-c9966e31459d.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Benin have point to prove at Afcon after World Cup pain]]></title>
-      <description><![CDATA[Benin arrive at the 2025 Africa Cup of Nations in Morocco looking to turn 2026 World Cup qualification heartbreak into a memorable continental campaign.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdd5gpgy273o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdd5gpgy273o</guid>
-      <pubDate>Mon, 15 Dec 2025 12:42:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6843/live/ff5b9350-d909-11f0-a913-a51839a280a3.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Farke delighted with 'unbelievable human' Calvert-Lewin]]></title>
       <description><![CDATA[Leeds manager Daniel Farke praises goalscorer Dominic Calvert-Lewin after the striker rescues a point against Brentford at the Gtech Community Stadium.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c20ke76xlvro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -312,6 +304,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c37/live/178ff910-d604-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Benin have point to prove at Afcon after World Cup pain]]></title>
+      <description><![CDATA[Benin arrive at the 2025 Africa Cup of Nations in Morocco looking to turn 2026 World Cup qualification heartbreak into a memorable continental campaign.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdd5gpgy273o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdd5gpgy273o</guid>
+      <pubDate>Mon, 15 Dec 2025 12:42:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6843/live/ff5b9350-d909-11f0-a913-a51839a280a3.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Should Gomez have been sent off for tackle on Wirtz?]]></title>
       <description><![CDATA[Premier League VARs continue have a problem with red cards. And Diego Gomez's tackle on Florian Wirtz shows it.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwyvx1qpxv3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -350,14 +350,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpvd7w39j7ko</guid>
       <pubDate>Mon, 15 Dec 2025 06:03:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9d/live/e90b1a20-d92d-11f0-983a-fdbf166801c4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Inter Miami sign Reguilon on free transfer]]></title>
-      <description><![CDATA[Inter Miami sign former Tottenham, Real Madrid and Manchester United left-back Sergio Reguilon on a free transfer.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cr5zl8l3l86o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr5zl8l3l86o</guid>
-      <pubDate>Mon, 15 Dec 2025 18:05:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6002/live/a1c72510-d9e0-11f0-ba85-09c2975a5393.jpg"/>
     </item>
     <item>
       <title><![CDATA[How will Afcon impact Premier League teams?]]></title>
@@ -438,6 +430,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn98z1p44v9o</guid>
       <pubDate>Sun, 14 Dec 2025 00:05:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6def/live/aa45ed70-d878-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Inter Miami sign Reguilon on free transfer]]></title>
+      <description><![CDATA[Inter Miami sign former Tottenham, Real Madrid and Manchester United left-back Sergio Reguilon on a free transfer.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cr5zl8l3l86o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr5zl8l3l86o</guid>
+      <pubDate>Mon, 15 Dec 2025 18:05:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6002/live/a1c72510-d9e0-11f0-ba85-09c2975a5393.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man City favourites & Liverpool in trouble - how WSL stands at winter break]]></title>
@@ -526,14 +526,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgl68p7x4z4o</guid>
       <pubDate>Sun, 14 Dec 2025 21:19:10 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda7/live/ca3f7dd0-d913-11f0-9675-4fab26b2053a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Nancy a symptom of malfunctioning Celtic machine']]></title>
-      <description><![CDATA[Having lost the League Cup final to St Mirren, Celtic are "a diminished team with an uncertain manager, a furious support and a haunted board", writes Tom English.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0mpk7l3zzro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mpk7l3zzro</guid>
-      <pubDate>Sun, 14 Dec 2025 20:35:21 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f09/live/d9dcc990-d928-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Six players to watch at Afcon 2025]]></title>
