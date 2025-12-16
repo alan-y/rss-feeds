@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 16 Dec 2025 10:23:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 10:54:34 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Plans to fix NHS dental care and save some patients hundreds of pounds]]></title>
+      <description><![CDATA[The new proposals mean those needing complicated care over numerous appointments could save up to £225.]]></description>
+      <link>https://www.bbc.com/news/articles/cm20r9r1j48o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cm20r9r1j48o</guid>
+      <pubDate>Tue, 16 Dec 2025 10:52:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3ba/live/93c08e60-da59-11f0-a8f0-851857e2c194.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Doctors vote to go ahead with this week's five-day strike in England]]></title>
       <description><![CDATA[It comes after ministers made fresh offer amid warning the walkout is risky as NHS battles wave of flu.]]></description>
@@ -65,14 +73,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg8mge23leo</guid>
       <pubDate>Sat, 13 Dec 2025 00:09:51 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f8/live/b7f57c30-d78b-11f0-b0ee-a9375724f730.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['More victims in NHS child abuse probe' - police]]></title>
-      <description><![CDATA[Probe into historical abuse at former units in Sussex could lead to more alleged victims coming forward.]]></description>
-      <link>https://www.bbc.com/news/articles/cm2083j0q07o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2083j0q07o</guid>
-      <pubDate>Mon, 15 Dec 2025 06:03:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb01/live/b6be3d30-d5f5-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu in five charts -  how this year's winter outbreak is different]]></title>
