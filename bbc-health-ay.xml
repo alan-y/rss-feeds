@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 18 Dec 2025 10:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 11:18:59 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Caesarean sections overtake natural vaginal births for the first time]]></title>
+      <description><![CDATA[Experts say there is a complex picture behind why more babies are being delivered through surgery.]]></description>
+      <link>https://www.bbc.com/news/articles/c5yqjezrnj4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yqjezrnj4o</guid>
+      <pubDate>Wed, 17 Dec 2025 15:35:14 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8412/live/c4dc31f0-db5a-11f0-93d6-1d9639c09cd6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[People fake weight to obtain skinny jabs, says GP]]></title>
+      <description><![CDATA[A doctor from Chelmsford calls for more checks to stop the drugs being sold inappropriately online.]]></description>
+      <link>https://www.bbc.com/news/articles/cj69dg4j1rlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj69dg4j1rlo</guid>
+      <pubDate>Thu, 18 Dec 2025 08:26:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d91/live/fc881d00-dbf3-11f0-9215-a1336f9b1117.png"/>
+    </item>
     <item>
       <title><![CDATA[Starmer calls doctors' strike 'dangerous' as five-day walkout begins]]></title>
       <description><![CDATA[The doctors' union, the British Medical Association, said it was time the government came up with "a genuinely long-term plan" on pay and jobs.
@@ -23,14 +39,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c98nqz29vg2o</guid>
       <pubDate>Wed, 17 Dec 2025 13:29:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fc2/live/f5dcd320-db4d-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Caesarean sections overtake natural vaginal births for the first time]]></title>
-      <description><![CDATA[Experts say there is a complex picture behind why more babies are being delivered through surgery.]]></description>
-      <link>https://www.bbc.com/news/articles/c5yqjezrnj4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yqjezrnj4o</guid>
-      <pubDate>Wed, 17 Dec 2025 15:35:14 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8412/live/c4dc31f0-db5a-11f0-93d6-1d9639c09cd6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Nicotine pouch rise driven by young men - study]]></title>
@@ -60,14 +68,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b73/live/a6481a60-d6a0-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
-      <title><![CDATA['We don't blame dad for killing mum, he was ill']]></title>
-      <description><![CDATA[Chris Stone-Houghton had been experiencing paranoia when he killed his wife Ruth, an inquest heard.]]></description>
-      <link>https://www.bbc.com/news/articles/c87l4nrvrdvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c87l4nrvrdvo</guid>
-      <pubDate>Mon, 15 Dec 2025 17:35:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa9f/live/941bc480-d679-11f0-a688-4ff838e54571.png"/>
-    </item>
-    <item>
       <title><![CDATA[Flu in five charts -  how this year's winter outbreak is different]]></title>
       <description><![CDATA[NHS England says it's facing a "worst-case scenario" after flu hospital cases jump 55% in a week.]]></description>
       <link>https://www.bbc.com/news/articles/c5yq9wr3pnro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -76,11 +76,11 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e8/live/a4c8bb60-d766-11f0-a892-01d657345866.png"/>
     </item>
     <item>
-      <title><![CDATA[Why is flu so bad this winter - and should you buy a vaccine?]]></title>
-      <description><![CDATA[Flu has come early this year, and experts predict it could be a particularly nasty season.]]></description>
+      <title><![CDATA[What is happening to flu this winter - and should you buy a vaccine?]]></title>
+      <description><![CDATA[Flu has come early this year with a new mutated version of the virus circulating.]]></description>
       <link>https://www.bbc.com/news/articles/crk7j8nxlr6o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/crk7j8nxlr6o</guid>
-      <pubDate>Thu, 11 Dec 2025 19:29:46 GMT</pubDate>
+      <pubDate>Thu, 18 Dec 2025 11:06:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98c1/live/116b69a0-d746-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
