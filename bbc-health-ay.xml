@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 18 Dec 2025 15:52:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 16:28:50 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Has flu peaked? What the figures tell us]]></title>
+      <description><![CDATA[NHS remains on high alert over flu, health bosses say, but there are signs infections are levelling off.]]></description>
+      <link>https://www.bbc.com/news/articles/clydjx9041po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/clydjx9041po</guid>
+      <pubDate>Thu, 18 Dec 2025 16:23:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e8/live/a4c8bb60-d766-11f0-a892-01d657345866.png"/>
+    </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
       <description><![CDATA[Use our interactive tool to explore the latest flu numbers in your area]]></description>
@@ -63,14 +71,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cm20r9r1j48o</guid>
       <pubDate>Tue, 16 Dec 2025 11:19:42 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3ba/live/93c08e60-da59-11f0-a8f0-851857e2c194.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Flu in five charts -  how this year's winter outbreak is different]]></title>
-      <description><![CDATA[NHS England says it's facing a "worst-case scenario" after flu hospital cases jump 55% in a week.]]></description>
-      <link>https://www.bbc.com/news/articles/c5yq9wr3pnro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yq9wr3pnro</guid>
-      <pubDate>Fri, 12 Dec 2025 14:01:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e8/live/a4c8bb60-d766-11f0-a892-01d657345866.png"/>
     </item>
     <item>
       <title><![CDATA[What is happening to flu this winter - and should you buy a vaccine?]]></title>
