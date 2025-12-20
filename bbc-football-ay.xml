@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 20 Dec 2025 10:39:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 10:50:36 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -243,14 +243,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1549/live/8b9edda0-dcd3-11f0-a8dc-93c15fe68710.png"/>
     </item>
     <item>
-      <title><![CDATA[Glentoran fight back to defeat 10-man Coleraine]]></title>
-      <description><![CDATA[Glentoran stage a remarkable comeback to beat 10-men Coleraine 2-1 and get their title aspirations back on track on a dramatic night at the Oval.]]></description>
-      <link>https://www.bbc.com/sport/articles/cvg1zepgeyno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cvg1zepgeyno</guid>
-      <pubDate>Fri, 19 Dec 2025 21:59:24 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/565f/live/2eea3ef0-dd24-11f0-81f3-8f8de1148c42.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Inside crisis club Wolves - angst, protests & transfer mistakes]]></title>
       <description><![CDATA[Our Ask Me Anything team look at why Wolves fans have been protesting with Taiwan flags and other banners at matches.]]></description>
       <link>https://www.bbc.com/sport/articles/c4gvzywxgx3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -299,20 +291,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a87a/live/e835a960-dca9-11f0-bf97-a767b375b25e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Glentoran fight back to defeat 10-man Coleraine]]></title>
+      <description><![CDATA[Glentoran stage a remarkable comeback to beat 10-men Coleraine 2-1 and get their title aspirations back on track on a dramatic night at the Oval.]]></description>
+      <link>https://www.bbc.com/sport/articles/cvg1zepgeyno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cvg1zepgeyno</guid>
+      <pubDate>Fri, 19 Dec 2025 21:59:24 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/565f/live/2eea3ef0-dd24-11f0-81f3-8f8de1148c42.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Why Man Utd are not playing a Saturday 3pm for over four months]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team explains why Manchester United are not playing at 3pm on a Saturday for more than four months]]></description>
       <link>https://www.bbc.com/sport/football/articles/c865d7d9z1do?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c865d7d9z1do</guid>
       <pubDate>Fri, 19 Dec 2025 13:02:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3c3/live/d6195110-dcda-11f0-a8dc-93c15fe68710.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Best player? Surprise package? Review of WSL so far]]></title>
-      <description><![CDATA[Former England internationals Ellen White and Fara Williams review the Women's Super League season so far as we head into a winter break.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2ed340j4jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2ed340j4jo</guid>
-      <pubDate>Fri, 19 Dec 2025 08:35:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eb9/live/6a94ebc0-db95-11f0-88ca-0b2596ca1cee.jpg"/>
     </item>
     <item>
       <title><![CDATA[Celebrity Arsenal fans send message to Lifetime Achievement winner Henry]]></title>
@@ -379,20 +371,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a8/live/fb1eaaa0-dcf3-11f0-bc51-61713ec32de7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Best player? Surprise package? Review of WSL so far]]></title>
+      <description><![CDATA[Former England internationals Ellen White and Fara Williams review the Women's Super League season so far as we head into a winter break.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2ed340j4jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2ed340j4jo</guid>
+      <pubDate>Fri, 19 Dec 2025 08:35:05 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eb9/live/6a94ebc0-db95-11f0-88ca-0b2596ca1cee.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Target red-hot Ekitike and Semenyo - FPL team of the week]]></title>
       <description><![CDATA[With Manchester City facing struggling West Ham at home this week, it's time to triple up on Pep Guardiola's side and captain Mr Reliable Erling Haaland.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvgr8jpv12ro?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgr8jpv12ro</guid>
       <pubDate>Thu, 18 Dec 2025 08:28:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c176/live/75a99f90-db51-11f0-b67b-690eb873de1b.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Let Nancy 'cook' and judge at end of season - Henry]]></title>
-      <description><![CDATA[Thierry Henry urges Celtic's management and fans to give their new manager Wilfried Nancy more time, saying they must "let him cook" and judge him at the end of the season. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn98pgq4v88o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn98pgq4v88o</guid>
-      <pubDate>Thu, 18 Dec 2025 22:34:29 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e2b/live/b7468410-dc58-11f0-bbc6-d3436edd360a.jpg"/>
     </item>
     <item>
       <title><![CDATA[A lot of positives for Bournemouth in draw - Iraola]]></title>
@@ -617,6 +609,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz682vee8wdo</guid>
       <pubDate>Sat, 20 Dec 2025 08:51:12 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/148d/live/f2048420-dd80-11f0-a8dc-93c15fe68710.png"/>
+    </item>
+    <item>
+      <title><![CDATA['Let him cook & judge at end of season' - Henry backs former assistant Nancy]]></title>
+      <description><![CDATA[Thierry Henry urges Celtic's management and fans to give their new manager Wilfried Nancy more time, saying they must "let him cook" and judge him at the end of the season. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn98pgq4v88o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn98pgq4v88o</guid>
+      <pubDate>Thu, 18 Dec 2025 22:34:29 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e2b/live/b7468410-dc58-11f0-bbc6-d3436edd360a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Scotland's Burke scores stunner as Union beat RB Leipzig]]></title>
