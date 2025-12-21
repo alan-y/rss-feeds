@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 21 Dec 2025 23:17:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 23:33:51 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -280,14 +280,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/357b/live/ce86c570-ddea-11f0-afbd-d1ba55b6b5b2.png"/>
     </item>
     <item>
-      <title><![CDATA[What does player v fan argument say about Kilmarnock situation?]]></title>
-      <description><![CDATA[Angry scenes between full-back Dominic Thompson and a group of fans highlighted the increasing tension and concern consuming Kilmarnock.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c93n249v75ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93n249v75ko</guid>
-      <pubDate>Sat, 20 Dec 2025 19:48:29 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91df/live/9ed41c50-dddc-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Spurs 'lost control' in defeat to Liverpool - Hart]]></title>
       <description><![CDATA[MOTD Analysis: Ill-discipline cost Tottenham against Liverpool - Joe Hart]]></description>
       <link>https://www.bbc.com/sport/football/videos/cpvd3jv9xj1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -326,6 +318,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cpd65jqq5l1o</guid>
       <pubDate>Sat, 20 Dec 2025 22:04:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d67/live/b1ef7d30-ddef-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What does player v fan argument say about Kilmarnock situation?]]></title>
+      <description><![CDATA[Angry scenes between full-back Dominic Thompson and a group of fans highlighted the increasing tension and concern consuming Kilmarnock.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c93n249v75ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93n249v75ko</guid>
+      <pubDate>Sat, 20 Dec 2025 19:48:29 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91df/live/9ed41c50-dddc-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Port Vale fan dies after falling ill at match]]></title>
@@ -406,14 +406,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/cx231l7z32do</guid>
       <pubDate>Sat, 20 Dec 2025 07:42:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7844/live/daae3930-dc2f-11f0-854f-613aec88e40b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Afcon quiz: Name every Africa Cup of Nations winner]]></title>
-      <description><![CDATA[With the Africa Cup of Nations kicking off on Sunday, 21 December, can you name every tournament winner?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yql3n8v5qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yql3n8v5qo</guid>
-      <pubDate>Sat, 20 Dec 2025 08:25:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2af/live/dba94040-db59-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Maresca 'very proud' of Chelsea second-half comeback]]></title>
@@ -568,8 +560,8 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5014/live/3c38b1c0-c458-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
-      <title><![CDATA[McTominay-style finish, but what else did Scots learn about Morocco?]]></title>
-      <description><![CDATA[Hosts Morocco kicked off the Africa Cup of Nations with a win over Comoros, but what did we discover about Scotland's World Cup opponents?]]></description>
+      <title><![CDATA[McTominay-style finish - but what else did Scots learn about Morocco?]]></title>
+      <description><![CDATA[Hosts Morocco kick off the Africa Cup of Nations with a win over Comoros - but what did we discover about Scotland's World Cup opponents?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgke6v7mjxmo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgke6v7mjxmo</guid>
       <pubDate>Sun, 21 Dec 2025 23:06:55 GMT</pubDate>
