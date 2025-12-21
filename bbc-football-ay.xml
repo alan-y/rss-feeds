@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 21 Dec 2025 19:14:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 19:29:08 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['Hearts have arrived'...but McInnes warns they can get better]]></title>
+      <description><![CDATA[Hearts "have arrived" as Scottish Premiership title contenders after beating Rangers for the second time this season, says Kris Boyd. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cr4d7vw46d0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr4d7vw46d0o</guid>
+      <pubDate>Sun, 21 Dec 2025 19:01:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b72/live/45a87680-de9f-11f0-9ad2-17ea369782c4.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Liverpool fear significant lower leg injury for Isak]]></title>
       <description><![CDATA[Liverpool fear Alexander Isak has sustained a significant lower leg injury after the striker was forced off against Tottenham on Saturday.]]></description>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0l9yng296xo</guid>
       <pubDate>Sat, 20 Dec 2025 22:38:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7723/live/661acc20-de44-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Do we want to be remembered for fighting or being cowards?']]></title>
-      <description><![CDATA[Relegation from the Premier League looks inevitable for Wolves after a 15th defeat in 17 games - but will they avoid setting more unwanted records?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9qe27vx781o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9qe27vx781o</guid>
-      <pubDate>Sat, 20 Dec 2025 18:49:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c4/live/6b38ceb0-ddcb-11f0-b1cd-b1a770a93709.jpg"/>
     </item>
     <item>
       <title><![CDATA[Liverpool hold on to beat nine-man Spurs]]></title>
@@ -168,6 +168,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5311/live/1d385c70-ddfe-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Do we want to be remembered for fighting or being cowards?']]></title>
+      <description><![CDATA[Relegation from the Premier League looks inevitable for Wolves after a 15th defeat in 17 games - but will they avoid setting more unwanted records?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9qe27vx781o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9qe27vx781o</guid>
+      <pubDate>Sat, 20 Dec 2025 18:49:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c4/live/6b38ceb0-ddcb-11f0-b1cd-b1a770a93709.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Top and bottom at Christmas - what does it mean?]]></title>
       <description><![CDATA[As we approach the halfway point of the season, what do the ghosts of Christmas past tell us about the Premier League title race and relegation battle?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c87lqlw9ej2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -182,14 +190,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2e1gexypxo</guid>
       <pubDate>Sun, 21 Dec 2025 09:15:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c3d/live/c75e5360-dce3-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Kings or kingmakers? Villa entering decisive run]]></title>
-      <description><![CDATA[Aston Villa have won nine straight matches to emerge as title contenders despite a poor start to the season. Could 2026 be their year?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd74jyv33rzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd74jyv33rzo</guid>
-      <pubDate>Sun, 21 Dec 2025 09:51:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e0/live/df6a3a40-de56-11f0-8396-3da325261767.jpg"/>
     </item>
     <item>
       <title><![CDATA[Are Hearts, Celtic & Rangers in genuine three-way Scottish title race?]]></title>
@@ -216,14 +216,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2ea/live/d2cb9f10-ddbe-11f0-a8dc-93c15fe68710.png"/>
     </item>
     <item>
-      <title><![CDATA[Isak injury in chaotic Liverpool win gives Slot more problems]]></title>
-      <description><![CDATA[Liverpool stretch their unbeaten run to six games but Alexander Isak's injury while scoring overshadows win at Tottenham.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gey20xq78o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gey20xq78o</guid>
-      <pubDate>Sat, 20 Dec 2025 23:03:39 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/357b/live/ce86c570-ddea-11f0-afbd-d1ba55b6b5b2.png"/>
-    </item>
-    <item>
       <title><![CDATA[Man Utd 'could make January signing' amid Neves link]]></title>
       <description><![CDATA[Manchester United head coach Ruben Amorim says it is possible the club could make a January transfer window signing.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5yjzg0xd5do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -246,6 +238,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgjnx6x4281o</guid>
       <pubDate>Sat, 20 Dec 2025 14:55:55 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b66/live/81c39bb0-d1c8-11f0-9c0d-83f64f80aa08.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Isak injury in chaotic Liverpool win gives Slot more problems]]></title>
+      <description><![CDATA[Liverpool stretch their unbeaten run to six games but Alexander Isak's injury while scoring overshadows win at Tottenham.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gey20xq78o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gey20xq78o</guid>
+      <pubDate>Sat, 20 Dec 2025 23:03:39 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/357b/live/ce86c570-ddea-11f0-afbd-d1ba55b6b5b2.png"/>
     </item>
     <item>
       <title><![CDATA[What does player v fan argument say about Kilmarnock situation?]]></title>
@@ -543,14 +543,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3w9vv22xx0o</guid>
       <pubDate>Fri, 19 Dec 2025 15:40:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5014/live/3c38b1c0-c458-11f0-8669-5560f5c90fbe.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Hearts have arrived'...but McInnes warns they can get better]]></title>
-      <description><![CDATA[Hearts "have arrived" as Scottish Premiership title contenders after beating Rangers for the second time this season, says Kris Boyd. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cr4d7vw46d0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr4d7vw46d0o</guid>
-      <pubDate>Sun, 21 Dec 2025 19:01:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b72/live/45a87680-de9f-11f0-9ad2-17ea369782c4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Lewandowski in Chicago Fire talks over MLS move]]></title>
