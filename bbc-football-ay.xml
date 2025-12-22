@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 22 Dec 2025 21:34:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 21:46:53 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -160,14 +160,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/781c/live/eb516680-df55-11f0-a8dc-93c15fe68710.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Man City to weigh players before Forest game]]></title>
-      <description><![CDATA[Manchester City manager Pep Guardiola says his players will be weighed when they return to training to check they are fit enough to play against Nottingham Forest.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cm20dd4md8qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm20dd4md8qo</guid>
-      <pubDate>Mon, 22 Dec 2025 10:27:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/615a/live/9057b520-df20-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[West Ham appoint Guarino as manager]]></title>
       <description><![CDATA[Women's Super League side West Ham appoint Rita Guarino as manager following the sacking of Rehanne Skinner.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cr5zjpmmd4lo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -182,6 +174,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj013mdzglyo</guid>
       <pubDate>Mon, 22 Dec 2025 16:50:16 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5609/live/d4a77f50-df50-11f0-a7ad-b72dffdf9dfd.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Man City to weigh players before Forest game]]></title>
+      <description><![CDATA[Manchester City manager Pep Guardiola says his players will be weighed when they return to training to check they are fit enough to play against Nottingham Forest.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cm20dd4md8qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm20dd4md8qo</guid>
+      <pubDate>Mon, 22 Dec 2025 10:27:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/615a/live/9057b520-df20-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is a leg break worse than an ACL tear?]]></title>
@@ -208,20 +208,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af80/live/c3a12160-deb1-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Hearts have arrived'... but McInnes warns they can get better]]></title>
-      <description><![CDATA[Hearts "have arrived" as Scottish Premiership title contenders after beating Rangers for the second time this season, says Kris Boyd. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cr4d7vw46d0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr4d7vw46d0o</guid>
-      <pubDate>Sun, 21 Dec 2025 19:01:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b72/live/45a87680-de9f-11f0-9ad2-17ea369782c4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Scott 'honoured' to replace Sadiku as Celtic head coach]]></title>
       <description><![CDATA[Former title-winning manager Elena Sadiku has left Celtic and has been replaced by Hibernian boss Grant Scott.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c1dzyl4w4pqo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1dzyl4w4pqo</guid>
       <pubDate>Mon, 22 Dec 2025 14:04:39 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf8/live/85261fc0-df3e-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Hearts have arrived'... but McInnes warns they can get better]]></title>
+      <description><![CDATA[Hearts "have arrived" as Scottish Premiership title contenders after beating Rangers for the second time this season, says Kris Boyd. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cr4d7vw46d0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr4d7vw46d0o</guid>
+      <pubDate>Sun, 21 Dec 2025 19:01:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b72/live/45a87680-de9f-11f0-9ad2-17ea369782c4.jpg"/>
     </item>
     <item>
       <title><![CDATA[London City set to appoint Maestre as manager]]></title>
@@ -262,14 +262,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce86kxkj309o</guid>
       <pubDate>Sun, 21 Dec 2025 19:47:22 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed1e/live/327d3520-dea2-11f0-b67b-690eb873de1b.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd face up to 'massive' loss of injured Fernandes]]></title>
-      <description><![CDATA[Manchester United's injury problems worsened as captain and talisman Bruno Fernandes was replaced in a 2-1 defeat by Aston Villa. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyde060x52o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyde060x52o</guid>
-      <pubDate>Sun, 21 Dec 2025 20:54:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/757d/live/230206a0-dea9-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Emery elated with 'fantastic' Aston Villa win]]></title>
@@ -318,6 +310,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0edy98j588o</guid>
       <pubDate>Sun, 21 Dec 2025 00:02:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5311/live/1d385c70-ddfe-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Man Utd face up to 'massive' loss of injured Fernandes]]></title>
+      <description><![CDATA[Manchester United's injury problems worsened as captain and talisman Bruno Fernandes was replaced in a 2-1 defeat by Aston Villa. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clyde060x52o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyde060x52o</guid>
+      <pubDate>Sun, 21 Dec 2025 20:54:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/757d/live/230206a0-dea9-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA['Do we want to be remembered for fighting or being cowards?']]></title>
@@ -398,14 +398,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/c1e4ylydx15o</guid>
       <pubDate>Sat, 20 Dec 2025 17:45:12 GMT</pubDate>
       <media:thumbnail width="240" height="159" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d59/live/99d55fd0-ddcc-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd 'could make January signing' amid Neves link]]></title>
-      <description><![CDATA[Manchester United head coach Ruben Amorim says it is possible the club could make a January transfer window signing.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yjzg0xd5do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yjzg0xd5do</guid>
-      <pubDate>Sat, 20 Dec 2025 22:32:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/299e/live/df86b9d0-ddd0-11f0-a8dc-93c15fe68710.jpg"/>
     </item>
     <item>
       <title><![CDATA[Inside crisis club Wolves - angst, protests & transfer mistakes]]></title>
