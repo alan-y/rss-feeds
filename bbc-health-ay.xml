@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 22 Dec 2025 12:41:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 13:34:04 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -24,6 +24,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48b/live/22f48260-df07-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Weight-loss jabs: What happens when you stop?]]></title>
+      <description><![CDATA[You may have lost the weight you wanted to lose - but now you've stopped the jabs, how easy is it to keep it off?]]></description>
+      <link>https://www.bbc.com/news/articles/cn98pdpyjz5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn98pdpyjz5o</guid>
+      <pubDate>Sun, 21 Dec 2025 01:01:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2583/live/26e92bd0-dcfc-11f0-a8dc-93c15fe68710.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Childbirth epidural kit shortage could last until March, officials say]]></title>
       <description><![CDATA[The shortage is due to a major supplier stopping manufacturing epidural bags, the government says.]]></description>
       <link>https://www.bbc.com/news/articles/c5ydznpyj58o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -32,20 +40,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4fd/live/c1a59f80-deb1-11f0-8ce7-9dd1e62bbc74.jpg"/>
     </item>
     <item>
+      <title><![CDATA['I thought I had flu but was told I had cancer']]></title>
+      <description><![CDATA[Sophie Claxton, from Burnley, was 16 when she was diagnosed with acute lymphoblastic leukaemia.]]></description>
+      <link>https://www.bbc.com/news/articles/cgex8vnxz7lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cgex8vnxz7lo</guid>
+      <pubDate>Sat, 20 Dec 2025 07:32:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8f6/live/3a9f7450-da76-11f0-a03c-01668bc4a165.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What's really going on with flu this winter?]]></title>
+      <description><![CDATA[We've been told we're facing an unprecedented superflu. Is it?]]></description>
+      <link>https://www.bbc.com/news/articles/cr7lpmkl9r1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cr7lpmkl9r1o</guid>
+      <pubDate>Sat, 20 Dec 2025 00:06:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024b/live/6ea62260-dd02-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Resident doctors in Scotland to go on strike for first time]]></title>
       <description><![CDATA[Their union BMA Scotland has accused the government of reneging on a commitment to restore pay to 2008 levels.]]></description>
       <link>https://www.bbc.com/news/articles/cjdrp9205vro?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cjdrp9205vro</guid>
       <pubDate>Fri, 19 Dec 2025 17:51:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2862/live/038d4820-c13a-11f0-8717-7b6a6b2fefad.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Has flu peaked? What the figures tell us]]></title>
-      <description><![CDATA[NHS remains on high alert over flu, health bosses say, but there are signs infections are levelling off.]]></description>
-      <link>https://www.bbc.com/news/articles/clydjx9041po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/clydjx9041po</guid>
-      <pubDate>Thu, 18 Dec 2025 16:23:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e8/live/a4c8bb60-d766-11f0-a892-01d657345866.png"/>
     </item>
     <item>
       <title><![CDATA[Young people will feel burden of UK's ageing society, report suggests]]></title>
@@ -64,14 +80,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/392b/live/09ea31b0-dbfc-11f0-a030-476ae6d8c14a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Caesarean sections overtake natural vaginal births for the first time]]></title>
-      <description><![CDATA[Experts say there is a complex picture behind why more babies are being delivered through surgery.]]></description>
-      <link>https://www.bbc.com/news/articles/c5yqjezrnj4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yqjezrnj4o</guid>
-      <pubDate>Wed, 17 Dec 2025 15:35:14 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8412/live/c4dc31f0-db5a-11f0-93d6-1d9639c09cd6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[What is happening to flu this winter - and should you buy a vaccine?]]></title>
       <description><![CDATA[Flu has come early this year with a new mutated version of the virus circulating.]]></description>
       <link>https://www.bbc.com/news/articles/crk7j8nxlr6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -80,12 +88,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98c1/live/116b69a0-d746-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Flu wave hits England's busiest A&E - hundreds of patients are arriving a day]]></title>
-      <description><![CDATA[The BBC visits Leicester Royal Infirmary to witness first-hand how it's coping with an early surge in cases of winter bugs.]]></description>
-      <link>https://www.bbc.com/news/articles/crmdxky3p9wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/crmdxky3p9wo</guid>
-      <pubDate>Thu, 11 Dec 2025 00:01:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae67/live/d032cc30-d5f1-11f0-a892-01d657345866.jpg"/>
+      <title><![CDATA[Has flu peaked? What the figures tell us]]></title>
+      <description><![CDATA[NHS remains on high alert over flu, health bosses say, but there are signs infections are levelling off.]]></description>
+      <link>https://www.bbc.com/news/articles/clydjx9041po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/clydjx9041po</guid>
+      <pubDate>Thu, 18 Dec 2025 16:23:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e8/live/a4c8bb60-d766-11f0-a892-01d657345866.png"/>
     </item>
     <item>
       <title><![CDATA[Is it a cold, 'super flu' or Covid? How to tell the difference]]></title>
@@ -94,6 +102,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cly1rryv2ryo</guid>
       <pubDate>Mon, 15 Dec 2025 12:28:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e1/live/0441ff20-d6a4-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Flu wave hits England's busiest A&E - hundreds of patients are arriving a day]]></title>
+      <description><![CDATA[The BBC visits Leicester Royal Infirmary to witness first-hand how it's coping with an early surge in cases of winter bugs.]]></description>
+      <link>https://www.bbc.com/news/articles/crmdxky3p9wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/crmdxky3p9wo</guid>
+      <pubDate>Thu, 11 Dec 2025 00:01:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae67/live/d032cc30-d5f1-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Private flu vaccine stocks running low as cases rise]]></title>
@@ -153,6 +169,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgz318y8elo</guid>
       <pubDate>Tue, 16 Dec 2025 01:25:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b73/live/a6481a60-d6a0-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Caesarean sections overtake natural vaginal births for the first time]]></title>
+      <description><![CDATA[Experts say there is a complex picture behind why more babies are being delivered through surgery.]]></description>
+      <link>https://www.bbc.com/news/articles/c5yqjezrnj4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yqjezrnj4o</guid>
+      <pubDate>Wed, 17 Dec 2025 15:35:14 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8412/live/c4dc31f0-db5a-11f0-93d6-1d9639c09cd6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Online gaming escaped Australia's social media ban - but critics say it's just as addictive]]></title>
@@ -281,14 +305,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c7731ede4rlo</guid>
       <pubDate>Thu, 04 Dec 2025 10:43:40 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40c9/live/9fcabc20-d109-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Supermarket loyalty discounts to be allowed on baby formula]]></title>
-      <description><![CDATA[The government claims that parents who cannot or chose not to breastfeed could save £500 a year.]]></description>
-      <link>https://www.bbc.com/news/articles/clyx321ded1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/clyx321ded1o</guid>
-      <pubDate>Wed, 03 Dec 2025 18:32:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1e/live/067fd4c0-d04f-11f0-93e9-173097fe0286.jpg"/>
     </item>
     <item>
       <title><![CDATA[Much of £11bn Covid scheme fraud 'beyond recovery', report says]]></title>
