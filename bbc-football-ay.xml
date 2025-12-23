@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 23 Dec 2025 05:52:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 06:32:40 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -72,14 +72,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/546b/live/5d52a5b0-df5f-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Fifa tests new technology for ball out of play and offside]]></title>
-      <description><![CDATA[Fifa is testing new technology which can determine if the ball went out of play before a goal was scored.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqxq7zejvnno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxq7zejvnno</guid>
-      <pubDate>Mon, 22 Dec 2025 20:21:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad1/live/d5cd73d0-df73-11f0-ad0b-4759baf4609b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Man Utd eye Gallagher loan deal - Tuesday's gossip]]></title>
       <description><![CDATA[Manchester United are seeking a loan deal for Conor Gallager, three Premier League clubs are vying for Antoine Semenyo, Aston Villa join the race for Brennan Johnson, plus more.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2e54gl8y9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -126,6 +118,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwyxd774d10o</guid>
       <pubDate>Mon, 22 Dec 2025 00:00:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cff/live/a9a8ead0-deb2-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Fifa tests new technology for ball out of play and offside]]></title>
+      <description><![CDATA[Fifa is testing new technology which can determine if the ball went out of play before a goal was scored.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqxq7zejvnno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxq7zejvnno</guid>
+      <pubDate>Mon, 22 Dec 2025 20:21:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad1/live/d5cd73d0-df73-11f0-ad0b-4759baf4609b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sports stars fear disappearance of playing fields amid reforms]]></title>
@@ -208,20 +208,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5609/live/d4a77f50-df50-11f0-a7ad-b72dffdf9dfd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Man City to weigh players before Forest game]]></title>
-      <description><![CDATA[Manchester City manager Pep Guardiola says his players will be weighed when they return to training to check they are fit enough to play against Nottingham Forest.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cm20dd4md8qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm20dd4md8qo</guid>
-      <pubDate>Mon, 22 Dec 2025 10:27:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/615a/live/9057b520-df20-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Tomori on Tuchel, living in Italy and why this is the best he has felt]]></title>
       <description><![CDATA[Fikayo Tomori says his success at AC Milan shows English players "can go abroad and adapt to a different way of living".]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0edy3ey48no?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0edy3ey48no</guid>
       <pubDate>Mon, 22 Dec 2025 08:00:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b8/live/1f68cc90-dea4-11f0-9ad2-17ea369782c4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Man City to weigh players before Forest game]]></title>
+      <description><![CDATA[Manchester City manager Pep Guardiola says his players will be weighed when they return to training to check they are fit enough to play against Nottingham Forest.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cm20dd4md8qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm20dd4md8qo</guid>
+      <pubDate>Mon, 22 Dec 2025 10:27:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/615a/live/9057b520-df20-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Scott 'honoured' to replace Sadiku as Celtic head coach]]></title>
@@ -254,14 +254,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr4d7vw46d0o</guid>
       <pubDate>Sun, 21 Dec 2025 19:01:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b72/live/45a87680-de9f-11f0-9ad2-17ea369782c4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[London City set to appoint Maestre as manager]]></title>
-      <description><![CDATA[London City Lionesses are set to appoint Spanish coach Edere Maestre as manager following the sacking of Jocelyn Precheur.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdrnvg0z13po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdrnvg0z13po</guid>
-      <pubDate>Mon, 22 Dec 2025 11:54:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9578/live/a91f3d70-df2b-11f0-b6a6-1bf5f87ee304.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch: Celtic's McAneny scores after just four seconds]]></title>
@@ -320,6 +312,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed1e/live/327d3520-dea2-11f0-b67b-690eb873de1b.png"/>
     </item>
     <item>
+      <title><![CDATA[London City set to appoint Maestre as manager]]></title>
+      <description><![CDATA[London City Lionesses are set to appoint Spanish coach Edere Maestre as manager following the sacking of Jocelyn Precheur.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdrnvg0z13po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdrnvg0z13po</guid>
+      <pubDate>Mon, 22 Dec 2025 11:54:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9578/live/a91f3d70-df2b-11f0-b6a6-1bf5f87ee304.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[McTominay-style finish - but what else did Scots learn about Morocco?]]></title>
       <description><![CDATA[Hosts Morocco kick off the Africa Cup of Nations with a win over Comoros - but what did we discover about Scotland's World Cup opponents?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgke6v7mjxmo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -334,14 +334,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyde060x52o</guid>
       <pubDate>Sun, 21 Dec 2025 20:54:06 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/757d/live/230206a0-dea9-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Do we want to be remembered for fighting or being cowards?']]></title>
-      <description><![CDATA[Relegation from the Premier League looks inevitable for Wolves after a 15th defeat in 17 games - but will they avoid setting more unwanted records?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9qe27vx781o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9qe27vx781o</guid>
-      <pubDate>Sat, 20 Dec 2025 18:49:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c4/live/6b38ceb0-ddcb-11f0-b1cd-b1a770a93709.jpg"/>
     </item>
     <item>
       <title><![CDATA[Given shares Howe's frustrations on trio of decisions]]></title>
@@ -382,6 +374,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cdxwk0y6yn2o</guid>
       <pubDate>Sat, 20 Dec 2025 23:15:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e3/live/ab160e70-ddf9-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Do we want to be remembered for fighting or being cowards?']]></title>
+      <description><![CDATA[Relegation from the Premier League looks inevitable for Wolves after a 15th defeat in 17 games - but will they avoid setting more unwanted records?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9qe27vx781o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9qe27vx781o</guid>
+      <pubDate>Sat, 20 Dec 2025 18:49:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c4/live/6b38ceb0-ddcb-11f0-b1cd-b1a770a93709.jpg"/>
     </item>
     <item>
       <title><![CDATA[What does player v fan argument say about Kilmarnock situation?]]></title>
