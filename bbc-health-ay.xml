@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 23 Dec 2025 09:52:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 10:22:53 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -30,6 +30,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c36zdpng7gro</guid>
       <pubDate>Mon, 22 Dec 2025 09:25:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48b/live/22f48260-df07-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[TikTok removes AI weight loss ads from fake Boots account]]></title>
+      <description><![CDATA[The adverts for prescription-only drugs showed healthcare professionals impersonating the British retailer.]]></description>
+      <link>https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c997lkdjdy5o</guid>
+      <pubDate>Tue, 23 Dec 2025 09:23:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4611/live/67ea27b0-dd01-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Weight-loss jabs: What happens when you stop?]]></title>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ydznpyj58o</guid>
       <pubDate>Mon, 22 Dec 2025 10:00:42 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4fd/live/c1a59f80-deb1-11f0-8ce7-9dd1e62bbc74.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What's really going on with flu this winter?]]></title>
-      <description><![CDATA[We've been told we're facing an unprecedented superflu. Is it?]]></description>
-      <link>https://www.bbc.com/news/articles/cr7lpmkl9r1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cr7lpmkl9r1o</guid>
-      <pubDate>Sat, 20 Dec 2025 00:06:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024b/live/6ea62260-dd02-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
@@ -110,6 +110,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/crmdxky3p9wo</guid>
       <pubDate>Thu, 11 Dec 2025 00:01:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae67/live/d032cc30-d5f1-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What's really going on with flu this winter?]]></title>
+      <description><![CDATA[We've been told we're facing an unprecedented superflu. Is it?]]></description>
+      <link>https://www.bbc.com/news/articles/cr7lpmkl9r1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cr7lpmkl9r1o</guid>
+      <pubDate>Sat, 20 Dec 2025 00:06:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024b/live/6ea62260-dd02-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Private flu vaccine stocks running low as cases rise]]></title>
