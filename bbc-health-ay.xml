@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 23 Dec 2025 07:49:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 08:28:57 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[US regulator approves pill form of Wegovy weight-loss drug]]></title>
+      <description><![CDATA[Wegovy becomes first pill of its kind to be approved, shifting weight-loss drugs beyond injections.]]></description>
+      <link>https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce86le5dyxyo</guid>
+      <pubDate>Tue, 23 Dec 2025 01:29:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d12/live/22b79c30-dfd2-11f0-8f37-51273813293d.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Hospitals working to get patients home for Christmas after five-day doctor strike]]></title>
       <description><![CDATA[Health experts have warned that the impact of the strike will be felt into the new year "and beyond".]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cjdrp9205vro</guid>
       <pubDate>Fri, 19 Dec 2025 17:51:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2862/live/038d4820-c13a-11f0-8717-7b6a6b2fefad.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Young people will feel burden of UK's ageing society, report suggests]]></title>
-      <description><![CDATA[The House of Lords said raising the state pension age and increasing immigration would not be a solution.]]></description>
-      <link>https://www.bbc.com/news/articles/c997l3elxmxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c997l3elxmxo</guid>
-      <pubDate>Fri, 19 Dec 2025 14:53:15 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3741/live/159397d0-dcde-11f0-81cc-998682630b3d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
