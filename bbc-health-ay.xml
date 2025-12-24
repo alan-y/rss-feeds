@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 24 Dec 2025 13:21:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 13:52:13 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Christmas can be a nightmare for misophonia sufferers like me ]]></title>
+      <description><![CDATA[Christmas is a difficult time if you suffer from a reduced tolerance to sounds, but there are ways to make it easier. ]]></description>
+      <link>https://www.bbc.com/news/articles/c04vx47gx91o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c04vx47gx91o</guid>
+      <pubDate>Wed, 24 Dec 2025 00:24:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5717/live/19eacbb0-dcd8-11f0-81cc-998682630b3d.jpg"/>
+    </item>
     <item>
       <title><![CDATA[US regulator approves pill form of Wegovy weight-loss drug]]></title>
       <description><![CDATA[Wegovy becomes first pill of its kind to be approved, shifting weight-loss drugs beyond injections.]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cgex8vnxz7lo</guid>
       <pubDate>Sat, 20 Dec 2025 07:32:34 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8f6/live/3a9f7450-da76-11f0-a03c-01668bc4a165.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Childbirth epidural kit shortage could last until March, officials say]]></title>
-      <description><![CDATA[The shortage is due to a major supplier stopping manufacturing epidural bags, the government says.]]></description>
-      <link>https://www.bbc.com/news/articles/c5ydznpyj58o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ydznpyj58o</guid>
-      <pubDate>Mon, 22 Dec 2025 10:00:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4fd/live/c1a59f80-deb1-11f0-8ce7-9dd1e62bbc74.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
