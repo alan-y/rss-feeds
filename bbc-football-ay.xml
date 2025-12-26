@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 26 Dec 2025 13:53:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 14:19:56 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -96,14 +96,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55a0/live/51a2e9e0-e0e1-11f0-94d6-33dfd766fcaa.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Robertson was the personification of Clough on the pitch']]></title>
-      <description><![CDATA[Those who know him best look back on the illustrious career of John Robertson, Nottingham Forest's double European Cup winner.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1632e2k82yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1632e2k82yo</guid>
-      <pubDate>Thu, 25 Dec 2025 14:19:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78c7/live/a663cdc0-0c6a-11ef-bee9-6125e244a4cd.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Impossible to replace Fernandes - Amorim]]></title>
       <description><![CDATA[Manchester United head coach Ruben Amorim says it is "impossible" to replace captain Bruno Fernandes, who is set for up to a month out with injury, but other players "must step up".]]></description>
       <link>https://www.bbc.com/sport/football/videos/cwylznj4vgzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -134,6 +126,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cly5j3dplvdo</guid>
       <pubDate>Tue, 23 Dec 2025 13:23:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9568/live/115f4ca0-e002-11f0-a8dc-93c15fe68710.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Robertson was the personification of Clough on the pitch']]></title>
+      <description><![CDATA[Those who know him best look back on the illustrious career of John Robertson, Nottingham Forest's double European Cup winner.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1632e2k82yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1632e2k82yo</guid>
+      <pubDate>Thu, 25 Dec 2025 14:19:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78c7/live/a663cdc0-0c6a-11ef-bee9-6125e244a4cd.jpg"/>
     </item>
     <item>
       <title><![CDATA[Take on our BBC Gameshows ultimate football quiz]]></title>
@@ -240,14 +240,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e55e/live/7f6a9ca0-dbf1-11f0-9215-a1336f9b1117.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Why football at Christmas is a very British tradition]]></title>
-      <description><![CDATA[Mob football, Bank Holiday legislation and the strange tradition of too much football at Christmas.]]></description>
-      <link>https://www.bbc.co.uk/bitesize/articles/z4y847h?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/bitesize/articles/z4y847h</guid>
-      <pubDate>Wed, 24 Dec 2025 09:29:40 GMT</pubDate>
-      <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p07xcfzj.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Silva delighted with 'massive' three points]]></title>
       <description><![CDATA[Fulham boss Marco Silva is delighted with the "massive" three points his side took following a 1-0 win over Nottingham Forest at Craven Cottage.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cjrj91ywzl8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -296,6 +288,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a28/live/9c013b70-dec7-11f0-a8dc-93c15fe68710.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why football at Christmas is a very British tradition]]></title>
+      <description><![CDATA[Mob football, Bank Holiday legislation and the strange tradition of too much football at Christmas.]]></description>
+      <link>https://www.bbc.co.uk/bitesize/articles/z4y847h?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/bitesize/articles/z4y847h</guid>
+      <pubDate>Wed, 24 Dec 2025 09:29:40 GMT</pubDate>
+      <media:thumbnail url="https://ichef.bbci.co.uk/images/ic/480xn/p07xcfzj.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How will Liverpool cope without Isak?]]></title>
       <description><![CDATA[BBC Sport analyses how Liverpool manager Arne Slot might set up following striker Alexander Isak being ruled out for about two months with a broken leg.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c62le1978e8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -334,22 +334,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy07z8373rzo</guid>
       <pubDate>Wed, 24 Dec 2025 11:43:38 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4502/live/cf565ac0-e0b9-11f0-a5d4-dbc340b0ceeb.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why Mbappe had £1.3m ethics bonus in PSG contract]]></title>
-      <description><![CDATA[Paris St-Germain were told they must hand over a £1.3m "ethics bonus" to Kylian Mbappe as part of his court battle win - what are these payments?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx239egp2n1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx239egp2n1o</guid>
-      <pubDate>Tue, 23 Dec 2025 18:03:24 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93e6/live/442bfd80-dccf-11f0-8119-7990a250d38d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Dyche urges 'common sense' rather than weigh players like Guardiola]]></title>
-      <description><![CDATA[Nottingham Forest boss Sean Dyche urges his players to show "common sense" over Christmas after Pep Guardiola says he will weigh his squad on their return. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cm28g4mknxpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm28g4mknxpo</guid>
-      <pubDate>Tue, 23 Dec 2025 13:43:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a46/live/13a34f90-e00a-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[The best team today lost - Amorim]]></title>
@@ -392,6 +376,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a665/live/0d11cc60-ddfd-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why Mbappe had £1.3m ethics bonus in PSG contract]]></title>
+      <description><![CDATA[Paris St-Germain were told they must hand over a £1.3m "ethics bonus" to Kylian Mbappe as part of his court battle win - what are these payments?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx239egp2n1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx239egp2n1o</guid>
+      <pubDate>Tue, 23 Dec 2025 18:03:24 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93e6/live/442bfd80-dccf-11f0-8119-7990a250d38d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Dyche urges 'common sense' rather than weigh players like Guardiola]]></title>
+      <description><![CDATA[Nottingham Forest boss Sean Dyche urges his players to show "common sense" over Christmas after Pep Guardiola says he will weigh his squad on their return. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cm28g4mknxpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm28g4mknxpo</guid>
+      <pubDate>Tue, 23 Dec 2025 13:43:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a46/live/13a34f90-e00a-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Do footballers train on Christmas Day?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team looks at why footballers train on Christmas Day and how players feel about it.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5y4e1pmv20o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -430,14 +430,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c87lqlw9ej2o</guid>
       <pubDate>Mon, 22 Dec 2025 22:31:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b3b/live/afdefa70-ddf4-11f0-9faa-bb36d4d42b5c.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Tomori on Tuchel, living in Italy and why this is the best he has felt]]></title>
-      <description><![CDATA[Fikayo Tomori says his success at AC Milan shows English players "can go abroad and adapt to a different way of living".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0edy3ey48no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0edy3ey48no</guid>
-      <pubDate>Mon, 22 Dec 2025 08:00:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b8/live/1f68cc90-dea4-11f0-9ad2-17ea369782c4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Gyokeres taking penalty was a surprise to me - Arteta]]></title>
@@ -480,6 +472,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b69/live/63ef1950-ddd2-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Tomori on Tuchel, living in Italy and why this is the best he has felt]]></title>
+      <description><![CDATA[Fikayo Tomori says his success at AC Milan shows English players "can go abroad and adapt to a different way of living".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0edy3ey48no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0edy3ey48no</guid>
+      <pubDate>Mon, 22 Dec 2025 08:00:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b8/live/1f68cc90-dea4-11f0-9ad2-17ea369782c4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Just reach out' - Man Utd's Bennett on his father's suicide]]></title>
       <description><![CDATA[Manchester United defender Rhys Bennett discusses his father's death in October to help raise awareness of mental health issues.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2e5jn466go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -510,14 +510,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyd7ndpvvno</guid>
       <pubDate>Fri, 19 Dec 2025 10:33:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/664d/live/4d3969c0-db45-11f0-bd60-5332627fd119.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Best player? Surprise package? Review of WSL so far]]></title>
-      <description><![CDATA[Former England internationals Ellen White and Fara Williams review the Women's Super League season so far as we head into a winter break.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2ed340j4jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2ed340j4jo</guid>
-      <pubDate>Fri, 19 Dec 2025 08:35:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eb9/live/6a94ebc0-db95-11f0-88ca-0b2596ca1cee.jpg"/>
     </item>
     <item>
       <title><![CDATA[Transfers - September to December 2025]]></title>
@@ -590,6 +582,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clydx5x88ewo</guid>
       <pubDate>Tue, 16 Dec 2025 13:42:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ac7/live/e3aa1c40-da84-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Celtic signings need 'personality' - Nancy]]></title>
+      <description><![CDATA[Celtic manager Wilfried Nancy says any new signings must have the right "personality" as well as having the requisite quality.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdd58q4mmjpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdd58q4mmjpo</guid>
+      <pubDate>Fri, 26 Dec 2025 13:58:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/278e/live/cdc0ae60-e260-11f0-9ae5-6d6e5c6fd9ba.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rangers 'initiate' talks with contract rebel Ekwah - gossip]]></title>
