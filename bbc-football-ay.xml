@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 27 Dec 2025 09:19:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 09:37:23 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -80,20 +80,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4bb/live/1cd3cbe0-e2ac-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[The best players who never won Afcon?]]></title>
+      <description><![CDATA[As two-time runner-up Mohamed Salah begins another tilt at the Africa Cup of Nations, BBC Sport Africa profiles top stars who never lifted the trophy.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c1dz1d7r9vno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1dz1d7r9vno</guid>
+      <pubDate>Sat, 27 Dec 2025 09:04:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84c2/live/9d6d0fe0-e019-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Impossible to replace Fernandes - Amorim]]></title>
       <description><![CDATA[Manchester United head coach Ruben Amorim says it is "impossible" to replace captain Bruno Fernandes, who is set for up to a month out with injury, but other players "must step up".]]></description>
       <link>https://www.bbc.com/sport/football/videos/cwylznj4vgzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwylznj4vgzo</guid>
       <pubDate>Wed, 24 Dec 2025 16:04:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7830/live/f34c4250-e0e1-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Come on Pep!' - Dyche's response to Guardiola's weight demands]]></title>
-      <description><![CDATA[Sean Dyche has told his Nottingham Forest players to "enjoy themselves" but "use common sense" over Christmas, after Pep Guardiola said Man City's players will be weighed when they return to training to check their fitness has not dropped over the festive period.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cx2e5x7gn27o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2e5x7gn27o</guid>
-      <pubDate>Tue, 23 Dec 2025 14:59:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a04/live/d2e04610-e00f-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sutton's predictions v The Wellermen's Jonny Stewart]]></title>
@@ -168,6 +168,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c3/live/c82b00e0-e012-11f0-a8dc-93c15fe68710.png"/>
     </item>
     <item>
+      <title><![CDATA['Come on Pep!' - Dyche's response to Guardiola's weight demands]]></title>
+      <description><![CDATA[Sean Dyche has told his Nottingham Forest players to "enjoy themselves" but "use common sense" over Christmas, after Pep Guardiola said Man City's players will be weighed when they return to training to check their fitness has not dropped over the festive period.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cx2e5x7gn27o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2e5x7gn27o</guid>
+      <pubDate>Tue, 23 Dec 2025 14:59:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a04/live/d2e04610-e00f-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Jimenez penalty enough to earn Fulham win over Forest]]></title>
       <description><![CDATA[Raul Jimenez's first-half penalty proves enough for Fulham to get their Premier League season back on track with a hard-fought win at home to Nottingham Forest.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c75vk47eekeo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -198,14 +206,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cpq4xv72dwyo</guid>
       <pubDate>Mon, 22 Dec 2025 22:45:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f96a/live/95f3d790-df87-11f0-a8dc-93c15fe68710.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Stunning Rogers double secures Villa win over Man Utd]]></title>
-      <description><![CDATA[Morgan Rogers scores twice for Aston Villa in their 2-1 win against Manchester United, extending Villa's unbeaten run to 10 matches in all competitions.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cvgr3nez9x9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvgr3nez9x9o</guid>
-      <pubDate>Sun, 21 Dec 2025 19:12:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/415d/live/f1667940-de9a-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sitting with Ferguson and getting 'knocked out' - a photographer's tales]]></title>
@@ -256,6 +256,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7155/live/89855b90-d5c4-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Stunning Rogers double secures Villa win over Man Utd]]></title>
+      <description><![CDATA[Morgan Rogers scores twice for Aston Villa in their 2-1 win against Manchester United, extending Villa's unbeaten run to 10 matches in all competitions.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cvgr3nez9x9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvgr3nez9x9o</guid>
+      <pubDate>Sun, 21 Dec 2025 19:12:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/415d/live/f1667940-de9a-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How Rogers and Villa exposed Man Utd defence]]></title>
       <description><![CDATA[Match of the Day pundit Dion Dublin analyses what went wrong for Manchester United against Aston Villa, and Wayne Rooney discusses the World Cup potential of "man of the moment" Morgan Rogers.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cwyxd774d10o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -286,14 +294,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/clydjrnz4xdo</guid>
       <pubDate>Sun, 21 Dec 2025 20:03:12 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/985c/live/fae9b3d0-dea7-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Emery elated with 'fantastic' Aston Villa win]]></title>
-      <description><![CDATA[Aston Villa manager Unai Emery praises his "fantastic" players in a hard-fought 2-1 win against Manchester United.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c04vxrz9qz7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c04vxrz9qz7o</guid>
-      <pubDate>Sun, 21 Dec 2025 19:57:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee4f/live/930b4760-dea7-11f0-a8dc-93c15fe68710.jpg"/>
     </item>
     <item>
       <title><![CDATA[How to save your FPL season with a few brave choices]]></title>
@@ -344,6 +344,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72b9/live/573e8ae0-dffa-11f0-a8dc-93c15fe68710.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Who are the contenders to win Afcon?]]></title>
+      <description><![CDATA[BBC Sport's John Bennett gives Football Focus the lowdown on which nations are contenders to win the Africa Cup of Nations, which begins in Morocco on Sunday.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/clyde53vkjro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/clyde53vkjro</guid>
+      <pubDate>Sun, 21 Dec 2025 08:06:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f6a/live/06885630-ddb6-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Given shares Howe's frustrations on trio of decisions]]></title>
       <description><![CDATA[Match of the Day's Shay Given shares Newcastle manager Eddie Howe's frustrations after a trio of decisions went against the Magpies in their 2-2 draw with Chelsea.]]></description>
       <link>https://www.bbc.com/sport/football/videos/czj08kjpev3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -374,14 +382,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0750p9zv53o</guid>
       <pubDate>Sat, 20 Dec 2025 23:32:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6668/live/12419080-ddf8-11f0-a8dc-93c15fe68710.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[O'Brien shouldn't have raised arms for penalty - Moyes]]></title>
-      <description><![CDATA[Everton manager David Moyes says he has "no complaints" about the penalty which gave Arsenal a 1-0 win, after the ball hit Jake O'Brien's raised arms in the box.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cdxwk0y6yn2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cdxwk0y6yn2o</guid>
-      <pubDate>Sat, 20 Dec 2025 23:15:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7e3/live/ab160e70-ddf9-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[EFL Quiz of the Year: Who has been breaking records in 2025?]]></title>
