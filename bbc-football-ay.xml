@@ -10,35 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 27 Dec 2025 14:37:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 14:49:11 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA['We suffered together' - Amorim changes style as Man Utd win]]></title>
-      <description><![CDATA[Manchester United head coach Ruben Amorim was rewarded for a change in style and formation with a hard-fought win over Newcastle in the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gv11reqleo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gv11reqleo</guid>
-      <pubDate>Sat, 27 Dec 2025 00:21:52 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77dd/live/87402010-e2b5-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How Guardiola made Man City title contenders again - tactical analysis]]></title>
-      <description><![CDATA[After their Premier League domination came to an abrupt end last season, how has Pep Guardiola changed things tactically to bring about Manchester City's recent revival?]]></description>
-      <link>https://www.bbc.com/sport/articles/c87lv4yx240o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c87lv4yx240o</guid>
-      <pubDate>Sat, 27 Dec 2025 06:10:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/279b/live/c41b9a70-e0d3-11f0-94d6-33dfd766fcaa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[In-demand Guehi expected to finish season at Palace]]></title>
-      <description><![CDATA[Crystal Palace captain Marc Guehi is expected to see out the final six months of his contract at the club.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce3zdlw0p12o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3zdlw0p12o</guid>
-      <pubDate>Sat, 27 Dec 2025 13:26:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6103/live/4d2a9f70-e316-11f0-8667-0de5b07f4861.jpg"/>
-    </item>
     <item>
       <title><![CDATA['Gutting and frustrating' - Wood undergoes surgery]]></title>
       <description><![CDATA[Nottingham Forest striker Chris Wood is set for extended spell on sidelines after undergoing surgery. ]]></description>
@@ -56,12 +32,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af6d/live/ecf3a360-e24b-11f0-bc34-1daadc9b0785.png"/>
     </item>
     <item>
+      <title><![CDATA[In-demand Guehi expected to finish season at Palace]]></title>
+      <description><![CDATA[Crystal Palace captain Marc Guehi is expected to see out the final six months of his contract at the club.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce3zdlw0p12o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3zdlw0p12o</guid>
+      <pubDate>Sat, 27 Dec 2025 13:26:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6103/live/4d2a9f70-e316-11f0-8667-0de5b07f4861.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Man Utd consider Garner move - Saturday's gossip]]></title>
       <description><![CDATA[Manchester United are considering a move for James Garner, Chelsea want to offload Raheem Sterling and Axel Disasi, Sandro Tonali is a target for Juventus, plus more. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5yjn6mk1eeo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yjn6mk1eeo</guid>
       <pubDate>Fri, 26 Dec 2025 20:39:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8db2/live/4f603170-e284-11f0-a8dc-93c15fe68710.png"/>
+    </item>
+    <item>
+      <title><![CDATA['We suffered together' - Amorim changes style as Man Utd win]]></title>
+      <description><![CDATA[Manchester United head coach Ruben Amorim was rewarded for a change in style and formation with a hard-fought win over Newcastle in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gv11reqleo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gv11reqleo</guid>
+      <pubDate>Sat, 27 Dec 2025 00:21:52 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77dd/live/87402010-e2b5-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sweden defender Lundkvist agrees Man Utd deal]]></title>
@@ -78,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cewje9eyqwyo</guid>
       <pubDate>Fri, 26 Dec 2025 22:32:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61a2/live/8c7c7610-e2aa-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Edinburgh derby, Askou & Hatate in spotlight]]></title>
-      <description><![CDATA[Who will triumph in the second Edinburgh derby of the season? Will Motherwell manager Jens Berthel Askou make it 11 league matches unbeaten? And will Celtic midfielder Reo Hatate continue his excellent creative output?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c39p83y0m3do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c39p83y0m3do</guid>
-      <pubDate>Fri, 26 Dec 2025 18:06:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73e9/live/868c2610-e278-11f0-a8dc-93c15fe68710.png"/>
     </item>
     <item>
       <title><![CDATA[Semenyo? Guehi? Who will move in January?]]></title>
@@ -120,20 +104,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84c2/live/9d6d0fe0-e019-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Edinburgh derby, Askou & Hatate in spotlight]]></title>
+      <description><![CDATA[Who will triumph in the second Edinburgh derby of the season? Will Motherwell manager Jens Berthel Askou make it 11 league matches unbeaten? And will Celtic midfielder Reo Hatate continue his excellent creative output?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c39p83y0m3do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c39p83y0m3do</guid>
+      <pubDate>Fri, 26 Dec 2025 18:06:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73e9/live/868c2610-e278-11f0-a8dc-93c15fe68710.png"/>
+    </item>
+    <item>
+      <title><![CDATA[How Guardiola made Man City title contenders again - tactical analysis]]></title>
+      <description><![CDATA[After their Premier League domination came to an abrupt end last season, how has Pep Guardiola changed things tactically to bring about Manchester City's recent revival?]]></description>
+      <link>https://www.bbc.com/sport/articles/c87lv4yx240o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c87lv4yx240o</guid>
+      <pubDate>Sat, 27 Dec 2025 06:10:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/279b/live/c41b9a70-e0d3-11f0-94d6-33dfd766fcaa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Forest to rename stand in honour of Robertson]]></title>
       <description><![CDATA[Nottingham Forest are to rename a stand at the City Ground to honour their "great hero" John Robertson, who died at the age of 72 this week.]]></description>
       <link>https://www.bbc.com/sport/football/articles/clyx073nxljo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyx073nxljo</guid>
       <pubDate>Fri, 26 Dec 2025 18:37:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5964/live/859a2e80-e284-11f0-a8dc-93c15fe68710.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Always the main deal' - Hibs & Hearts primed for 'special' derby]]></title>
-      <description><![CDATA[Hibernian welcome Scottish Premiership leaders Hearts to Easter Road on Saturday trying to "kickstart" their season, while the visitors attempt to consolidate their title challenge.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czdg6gdllp2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czdg6gdllp2o</guid>
-      <pubDate>Fri, 26 Dec 2025 12:42:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b306/live/ea5ad440-e244-11f0-a8dc-93c15fe68710.png"/>
     </item>
     <item>
       <title><![CDATA[Sutton's predictions v The Wellermen's Jonny Stewart]]></title>
@@ -240,14 +232,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0c3/live/c82b00e0-e012-11f0-a8dc-93c15fe68710.png"/>
     </item>
     <item>
-      <title><![CDATA[Players can only leave if replacements come in - Amorim]]></title>
-      <description><![CDATA[Manchester United head coach Ruben Amorim is not willing to let any players leave in the January transfer window unless replacements come in.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yqeqjy3d0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yqeqjy3d0o</guid>
-      <pubDate>Thu, 25 Dec 2025 22:33:33 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55a0/live/51a2e9e0-e0e1-11f0-94d6-33dfd766fcaa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Forest not 'clear-headed enough' against Fulham - Dyche]]></title>
       <description><![CDATA[Nottingham Forest manager Sean Dyche says his team's "basics" were not quite what they should have been in their 1-0 defeat away to Fulham.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cpq4xv72dwyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -296,6 +280,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed1/live/ca802ee0-d998-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Players can only leave if replacements come in - Amorim]]></title>
+      <description><![CDATA[Manchester United head coach Ruben Amorim is not willing to let any players leave in the January transfer window unless replacements come in.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5yqeqjy3d0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yqeqjy3d0o</guid>
+      <pubDate>Thu, 25 Dec 2025 22:33:33 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55a0/live/51a2e9e0-e0e1-11f0-94d6-33dfd766fcaa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Why I was always driving home for Christmas']]></title>
       <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis reflects on what the festive period was like as a player and manager.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwyw0q74rn9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -318,14 +310,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy4x101jk91o</guid>
       <pubDate>Thu, 25 Dec 2025 10:50:00 GMT</pubDate>
       <media:thumbnail width="240" height="128" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4973/live/131f7eb0-e0bc-11f0-aae2-2191c0e48a3b.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Newcastle stadium plans in limbo - Howe]]></title>
-      <description><![CDATA[Eddie Howe says Newcastle's stadium and training ground plans are "in limbo" and there is a "99.9% chance" he will not be in charge when they are realised.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgexw48p3v1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgexw48p3v1o</guid>
-      <pubDate>Thu, 25 Dec 2025 22:36:55 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b5e/live/e0c857d0-e010-11f0-ad66-47ec726716bc.jpg"/>
     </item>
     <item>
       <title><![CDATA[The final Christmas Day fixture in England - 60 years on]]></title>
