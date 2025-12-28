@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 28 Dec 2025 22:18:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 22:39:57 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,6 +40,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8faf/live/f27adbf0-e42b-11f0-b67b-690eb873de1b.png"/>
     </item>
     <item>
+      <title><![CDATA[Managers are not magicians - Guardiola on Man City revival]]></title>
+      <description><![CDATA[Boss Pep Guardiola believes the "fog" has lifted as Manchester City extend run to eight victories in a row.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn9804p8rn4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn9804p8rn4o</guid>
+      <pubDate>Sun, 28 Dec 2025 22:31:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bdb/live/051164c0-e3e4-11f0-a09a-e7bcd1760d69.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Semenyo wants future resolved by 1 January]]></title>
       <description><![CDATA[Antoine Semenyo's future enters a crucial 48 hours with the Bournemouth attacker eager to have his potential departure to Manchester City concluded by 1 January.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4gpnnrnkw3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -56,14 +64,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65cc/live/9417f370-e3ec-11f0-9f13-21b87ca1c546.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Gray heads Spurs to victory at Crystal Palace]]></title>
-      <description><![CDATA[Nineteen-year-old Archie Gray scores his first senior goal for Tottenham Hotspur to beat Crystal Palace 1-0.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cvgq2npqvvno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvgq2npqvvno</guid>
-      <pubDate>Sun, 28 Dec 2025 20:00:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d04f/live/6f774f80-e41d-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Villa have been here before - but are they really in title race?]]></title>
       <description><![CDATA[Aston Villa have been here before and fallen away - but they must now be taken seriously as title contenders, writes Phil McNulty.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c33mg5l7g8xo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -72,20 +72,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef79/live/c206e940-e35a-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ex-England striker Carroll due in court after arrest]]></title>
-      <description><![CDATA[Former Newcastle United, Liverpool and England forward Andy Carroll is due to appear in court on Tuesday after he was charged with breaching a non-molestation order.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwyp02j550xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyp02j550xo</guid>
-      <pubDate>Sun, 28 Dec 2025 11:07:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0437/live/93b19380-e3cb-11f0-8d3f-190dcbb5783d.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Fulham want £40m-rated Pepi - Monday's gossip]]></title>
       <description><![CDATA[Fulham want PSV's £40m-rated striker Ricardo Pepi, Liverpool are set to rival Manchester City for Antoine Semenyo, Tottenham have been offered Leon Goretzka by Bayern Munich, plus more.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c80x824390jo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80x824390jo</guid>
       <pubDate>Sun, 28 Dec 2025 21:26:02 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f14/live/2906deb0-e42e-11f0-aae2-2191c0e48a3b.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Gray heads Spurs to victory at Crystal Palace]]></title>
+      <description><![CDATA[Nineteen-year-old Archie Gray scores his first senior goal for Tottenham Hotspur to beat Crystal Palace 1-0.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cvgq2npqvvno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvgq2npqvvno</guid>
+      <pubDate>Sun, 28 Dec 2025 20:00:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d04f/live/6f774f80-e41d-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Calvert-Lewin earns draw for Leeds at Sunderland]]></title>
@@ -120,14 +120,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d9a/live/dc319e80-e37a-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Villa will not speak about league target until game 34 - Emery]]></title>
-      <description><![CDATA[Aston Villa manager Unai Emery insists it is still too early to say whether his side is in contention for the Premier League title despite being third in the table after their 2-1 victory against Chelsea.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c04vwz6lpyko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c04vwz6lpyko</guid>
-      <pubDate>Sat, 27 Dec 2025 20:23:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2a3/live/56f1c990-e35f-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Chelsea investigate after bottle thrown at Villa bench]]></title>
       <description><![CDATA[Chelsea will look into an incident after a plastic bottle containing what looked like water was thrown at Aston Villa's staff and players.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c62np1lg445o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -144,20 +136,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfe2/live/5ab6c930-e351-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Ex-England striker Carroll due in court after arrest]]></title>
+      <description><![CDATA[Former Newcastle United, Liverpool and England forward Andy Carroll is due to appear in court on Tuesday after he was charged with breaching a non-molestation order.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwyp02j550xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyp02j550xo</guid>
+      <pubDate>Sun, 28 Dec 2025 11:07:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0437/live/93b19380-e3cb-11f0-8d3f-190dcbb5783d.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Moore sacked by League One strugglers Port Vale]]></title>
       <description><![CDATA[Darren Moore is sacked as manager of League One Port Vale with the club bottom of the table.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy7vk1zkllyo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy7vk1zkllyo</guid>
       <pubDate>Sun, 28 Dec 2025 18:05:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abf3/live/9f652ee0-e415-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Five things in EFL: Whose 2025 will end on a high?]]></title>
-      <description><![CDATA[Whose 2025 will end on a high as BBC Sport looks at the stories to follow in Monday, 29 December EFL programme.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c98n7032qy6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98n7032qy6o</guid>
-      <pubDate>Sun, 28 Dec 2025 18:45:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34c5/live/5a8f9ca0-e416-11f0-aae2-2191c0e48a3b.png"/>
     </item>
     <item>
       <title><![CDATA['He just needed more time' - Wirtz finally breaks Liverpool duck]]></title>
@@ -224,6 +216,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd4/live/4a5527c0-e357-11f0-a8dc-93c15fe68710.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Five things in EFL: Whose 2025 will end on a high?]]></title>
+      <description><![CDATA[Whose 2025 will end on a high as BBC Sport looks at the stories to follow in Monday, 29 December EFL programme.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c98n7032qy6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98n7032qy6o</guid>
+      <pubDate>Sun, 28 Dec 2025 18:45:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34c5/live/5a8f9ca0-e416-11f0-aae2-2191c0e48a3b.png"/>
+    </item>
+    <item>
       <title><![CDATA[Heaven will not switch from England to Ghana]]></title>
       <description><![CDATA[Manchester United defender Ayden Heaven, who qualifies for Ghana through a grandparent, wants to play for England at senior level.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3r7g2wn87ro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -282,6 +282,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af6d/live/ecf3a360-e24b-11f0-bc34-1daadc9b0785.png"/>
     </item>
     <item>
+      <title><![CDATA[Villa will not speak about league target until game 34 - Emery]]></title>
+      <description><![CDATA[Aston Villa manager Unai Emery insists it is still too early to say whether his side is in contention for the Premier League title despite being third in the table after their 2-1 victory against Chelsea.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c04vwz6lpyko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c04vwz6lpyko</guid>
+      <pubDate>Sat, 27 Dec 2025 20:23:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2a3/live/56f1c990-e35f-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How releasing Reijnders gave Man City win at Forest]]></title>
       <description><![CDATA[Match of the Day's Alan Shearer analyses the half-time tactical tweak from Manchester City which released Tijani Reijnders into attacking areas and gave City a vital 2-1 win at Nottingham Forest.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cx2dexr6xv7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -314,14 +322,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5592/live/e2d0a6b0-e34c-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Man City found right mentality to beat Nottingham Forest - Guardiola ]]></title>
-      <description><![CDATA[Manchester City manager Pep Guardiola says that his side had the necessary mentality to come back after Christmas and beat Nottingham Forest 2-1. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/ce91k8ypvyro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ce91k8ypvyro</guid>
-      <pubDate>Sat, 27 Dec 2025 15:05:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2212/live/d7767fb0-e333-11f0-a8dc-93c15fe68710.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['We suffered together' - Amorim changes style as Man Utd win]]></title>
       <description><![CDATA[Manchester United head coach Ruben Amorim was rewarded for a change in style and formation with a hard-fought win over Newcastle in the Premier League.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4gv11reqleo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -336,6 +336,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3zdlw0p12o</guid>
       <pubDate>Sat, 27 Dec 2025 13:26:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6103/live/4d2a9f70-e316-11f0-8667-0de5b07f4861.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Man City found right mentality to beat Nottingham Forest - Guardiola ]]></title>
+      <description><![CDATA[Manchester City manager Pep Guardiola says that his side had the necessary mentality to come back after Christmas and beat Nottingham Forest 2-1. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/ce91k8ypvyro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ce91k8ypvyro</guid>
+      <pubDate>Sat, 27 Dec 2025 15:05:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2212/live/d7767fb0-e333-11f0-a8dc-93c15fe68710.jpg"/>
     </item>
     <item>
       <title><![CDATA[Match officials had 'bad day at office' - Dyche]]></title>
@@ -368,14 +376,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cp896lz49zjo</guid>
       <pubDate>Sat, 27 Dec 2025 13:48:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bed/live/79a5b580-e32a-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['We only have ourselves to blame' - Howe]]></title>
-      <description><![CDATA[Newcastle United boss Eddie Howe says he is "disappointed with performance" as his side loses 1-0 in a "frustrating game" against Manchester United on Boxing Day at Old Trafford.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c0je030056no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0je030056no</guid>
-      <pubDate>Fri, 26 Dec 2025 22:44:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b6/live/c45c8200-e2aa-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA['Gutting and frustrating' - Forest's Wood has surgery]]></title>
@@ -418,36 +418,36 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed1/live/ca802ee0-d998-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA['We only have ourselves to blame' - Howe]]></title>
+      <description><![CDATA[Newcastle United boss Eddie Howe says he is "disappointed with performance" as his side loses 1-0 in a "frustrating game" against Manchester United on Boxing Day at Old Trafford.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c0je030056no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0je030056no</guid>
+      <pubDate>Fri, 26 Dec 2025 22:44:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b6/live/c45c8200-e2aa-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Everyone stepped up' - Amorim]]></title>
+      <description><![CDATA[Manchester United boss Ruben Amorim "happy" with side's 1-0 win against Newcastle United after last minute injuries including Bruni Fernandes.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cjdrmvdm0vmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cjdrmvdm0vmo</guid>
+      <pubDate>Fri, 26 Dec 2025 22:55:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4bb/live/1cd3cbe0-e2ac-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[The best players who never won Afcon?]]></title>
+      <description><![CDATA[As two-time runner-up Mohamed Salah begins another tilt at the Africa Cup of Nations, BBC Sport Africa profiles top stars who never lifted the trophy.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c1dz1d7r9vno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1dz1d7r9vno</guid>
+      <pubDate>Sat, 27 Dec 2025 09:04:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84c2/live/9d6d0fe0-e019-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Impossible to replace Fernandes - Amorim]]></title>
       <description><![CDATA[Manchester United head coach Ruben Amorim says it is "impossible" to replace captain Bruno Fernandes, who is set for up to a month out with injury, but other players "must step up".]]></description>
       <link>https://www.bbc.com/sport/football/videos/cwylznj4vgzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwylznj4vgzo</guid>
       <pubDate>Wed, 24 Dec 2025 16:04:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7830/live/f34c4250-e0e1-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Come on Pep!' - Dyche's response to Guardiola's weight demands]]></title>
-      <description><![CDATA[Sean Dyche has told his Nottingham Forest players to "enjoy themselves" but "use common sense" over Christmas, after Pep Guardiola said Man City's players will be weighed when they return to training to check their fitness has not dropped over the festive period.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cx2e5x7gn27o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2e5x7gn27o</guid>
-      <pubDate>Tue, 23 Dec 2025 14:59:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a04/live/d2e04610-e00f-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Jimenez penalty enough to earn Fulham win over Forest]]></title>
-      <description><![CDATA[Raul Jimenez's first-half penalty proves enough for Fulham to get their Premier League season back on track with a hard-fought win at home to Nottingham Forest.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c75vk47eekeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c75vk47eekeo</guid>
-      <pubDate>Mon, 22 Dec 2025 22:29:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9be/live/42ab7c90-df83-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Slot frustrated as Liverpool set to lose Isak for 'long time']]></title>
-      <description><![CDATA[Liverpool manager Arne Slot says he expects to lose Alexander Isak for "a couple of months" after the striker was injured in a tackle by Tottenham's Micky van de Ven - a challenge that Slot has called "reckless". ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cly5j3dplvdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cly5j3dplvdo</guid>
-      <pubDate>Tue, 23 Dec 2025 13:23:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9568/live/115f4ca0-e002-11f0-a8dc-93c15fe68710.jpg"/>
     </item>
     <item>
       <title><![CDATA[EFL Quiz of the Year: Who has been breaking records in 2025?]]></title>
