@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 28 Dec 2025 15:36:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 15:47:38 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,14 +48,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c0/live/89be62e0-de49-11f0-92d0-0f29d96dc1dc.jpg"/>
     </item>
     <item>
-      <title><![CDATA['I still have dreams' - Wawrinka to retire after 2026]]></title>
-      <description><![CDATA[Three-time Grand Slam champion Stan Wawrinka says that 2026 will be his final season as a professional.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cn09p813wrno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cn09p813wrno</guid>
-      <pubDate>Fri, 19 Dec 2025 18:16:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95ba/live/08fb22a0-dd00-11f0-b936-bbd75bfb2f25.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[1973 Battle of the Sexes was about social change - King]]></title>
       <description><![CDATA[American tennis legend Billie Jean King says the upcoming 'Battle of the Sexes' match between Aryna Sabalenka and Nick Kyrgios is "not the same" as her 1973 victory over Bobby Riggs.]]></description>
       <link>https://www.bbc.com/sport/tennis/videos/c8e9y1zr26no?at_medium=RSS&amp;at_campaign=rss</link>
@@ -64,20 +56,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed44/live/20a80a00-d5f6-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
+      <title><![CDATA['I still have dreams' - Wawrinka to retire after 2026]]></title>
+      <description><![CDATA[Three-time Grand Slam champion Stan Wawrinka says that 2026 will be his final season as a professional.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cn09p813wrno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cn09p813wrno</guid>
+      <pubDate>Fri, 19 Dec 2025 18:16:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95ba/live/08fb22a0-dd00-11f0-b936-bbd75bfb2f25.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Alcaraz announces shock split with coach Ferrero]]></title>
       <description><![CDATA[Six-time major champion Carlos Alcaraz splits with his coach Juan Carlos Ferrero in a shock move.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c0mpj8427pzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c0mpj8427pzo</guid>
       <pubDate>Wed, 17 Dec 2025 12:43:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f6e/live/8642a8e0-db44-11f0-bd60-5332627fd119.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Dominant Sabalenka wins back-to-back WTA awards]]></title>
-      <description><![CDATA[World number one Aryna Sabalenka is voted the WTA player of the year for the second successive season after winning four titles in 2025.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c1dz64y54keo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c1dz64y54keo</guid>
-      <pubDate>Mon, 15 Dec 2025 16:11:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2695/live/5d643420-d9c8-11f0-b8b1-cb70851ca662.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sabalenka confident 'Battle of the Sexes' won't damage women's sport]]></title>
@@ -150,6 +142,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c2kp74gxpe7o</guid>
       <pubDate>Wed, 17 Dec 2025 08:10:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30c5/live/28729df0-c632-11f0-9ad1-dbbd54dbf5de.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Dominant Sabalenka wins back-to-back WTA awards]]></title>
+      <description><![CDATA[World number one Aryna Sabalenka is voted the WTA player of the year for the second successive season after winning four titles in 2025.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c1dz64y54keo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c1dz64y54keo</guid>
+      <pubDate>Mon, 15 Dec 2025 16:11:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2695/live/5d643420-d9c8-11f0-b8b1-cb70851ca662.jpg"/>
     </item>
     <item>
       <title><![CDATA['Mine was for social change, this is not' - King on Battle of the Sexes]]></title>
@@ -246,14 +246,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cp8y87yd0x5o</guid>
       <pubDate>Wed, 19 Nov 2025 16:54:17 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b445/live/7485b800-c563-11f0-ac47-e3b40c46275e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wimbledon expansion plan to be challenged in court]]></title>
-      <description><![CDATA[Plans were approved for 38 new tennis courts and an 8,000-seat stadium at Wimbledon.]]></description>
-      <link>https://www.bbc.com/news/articles/cx2l2kl5rl4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2l2kl5rl4o</guid>
-      <pubDate>Wed, 19 Nov 2025 21:06:34 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2a9/live/38d0f630-c58b-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Women's tennis going in right direction - King]]></title>
