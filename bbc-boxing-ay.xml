@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/boxing</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 29 Dec 2025 11:48:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 12:43:03 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/boxing/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Joshua v Fury & Dubois v Harper - fights we want in 2026]]></title>
+      <description><![CDATA[BBC Sport picks out boxing fights we want to happen in 2026 including a long-awaited heavyweight showdown between Anthony Joshua and Tyson Fury, and Caroline Dubois up against fellow Briton Terri Harper.]]></description>
+      <link>https://www.bbc.com/sport/boxing/articles/cp398dp7l32o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/cp398dp7l32o</guid>
+      <pubDate>Mon, 29 Dec 2025 12:07:25 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b35/live/ce101960-db7a-11f0-b5d0-e9a8f87cff6a.png"/>
+    </item>
     <item>
       <title><![CDATA[Pound-for-pound star Inoue cruises past Picasso]]></title>
       <description><![CDATA[Japanese superstar Naoya Inoue outpoints Alan David Picasso Romero with a classy display in Riyadh to retain his undisputed super-bantamweight title. 
@@ -89,14 +97,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7209/live/c5a5d740-dd8e-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Paul was sitting there waiting to get hit' - Lewis leads big-name reaction]]></title>
-      <description><![CDATA[Former heavyweight champion Lennox Lewis believes Jake Paul 's fitness played a role in his sixth-round stoppage defeat against Anthony Joshua.]]></description>
-      <link>https://www.bbc.com/sport/boxing/articles/c5yd0ypv27no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/c5yd0ypv27no</guid>
-      <pubDate>Sat, 20 Dec 2025 07:35:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c8/live/4fdbebc0-dd8f-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Watch every episode]]></title>
       <description><![CDATA[Natasha Jonas and Chris Eubank Jr feature]]></description>
       <link>https://www.bbc.com/sport/boxing/articles/crgy3zy4meyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -153,12 +153,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5264/live/12848450-d752-11f0-9fb5-5f3a3703a365.png"/>
     </item>
     <item>
-      <title><![CDATA[A 'novice' who can 'punch a bit' - how good is Paul?]]></title>
-      <description><![CDATA[BBC Sport takes a look inside Jake Paul’s camp and assesses his boxing ability before Friday's fight with Anthony Joshua in Miami. ]]></description>
-      <link>https://www.bbc.com/sport/boxing/articles/czxg4l01ygdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/czxg4l01ygdo</guid>
-      <pubDate>Thu, 18 Dec 2025 10:00:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45f3/live/459aff80-db5e-11f0-aae2-2191c0e48a3b.jpg"/>
+      <title><![CDATA['Paul was sitting there waiting to get hit' - Lewis leads big-name reaction]]></title>
+      <description><![CDATA[Former heavyweight champion Lennox Lewis believes Jake Paul 's fitness played a role in his sixth-round stoppage defeat against Anthony Joshua.]]></description>
+      <link>https://www.bbc.com/sport/boxing/articles/c5yd0ypv27no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/c5yd0ypv27no</guid>
+      <pubDate>Sat, 20 Dec 2025 07:35:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c8/live/4fdbebc0-dd8f-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA['They told me to choose between my hijab and boxing']]></title>
