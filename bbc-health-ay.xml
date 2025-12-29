@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 29 Dec 2025 07:41:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 08:30:43 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Hospitals warned end-of-life care crisis threatening treatment]]></title>
+      <description><![CDATA[A rising number of patients in hospitals could affect the level of treatment carried out this winter, a group of regional NHS leaders have been told.]]></description>
+      <link>https://www.bbc.com/news/articles/c0l93dpl6dyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0l93dpl6dyo</guid>
+      <pubDate>Mon, 29 Dec 2025 05:18:09 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8429/live/96bd1540-e40c-11f0-8895-9b886f4cd2ed.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Flu cases falling ahead of Christmas, experts say]]></title>
       <description><![CDATA[UK health agency says drop is encouraging news, but warns flu could still bounce back in new year.]]></description>
@@ -64,14 +72,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2583/live/26e92bd0-dcfc-11f0-a8dc-93c15fe68710.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Toddler finally home from hospital for Christmas]]></title>
-      <description><![CDATA[Bertie Melly was in hospital for 18 months after his premature birth in May 2024.]]></description>
-      <link>https://www.bbc.com/news/articles/cp8z7qdd566o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8z7qdd566o</guid>
-      <pubDate>Tue, 23 Dec 2025 06:08:34 GMT</pubDate>
-      <media:thumbnail width="240" height="159" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1195/live/5714cef0-df4e-11f0-a8dc-93c15fe68710.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
       <description><![CDATA[Use our interactive tool to explore the latest flu numbers in your area]]></description>
       <link>https://www.bbc.com/news/articles/cvgqkvll1yvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -86,6 +86,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/crk7j8nxlr6o</guid>
       <pubDate>Wed, 24 Dec 2025 14:11:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98c1/live/116b69a0-d746-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Toddler finally home from hospital for Christmas]]></title>
+      <description><![CDATA[Bertie Melly was in hospital for 18 months after his premature birth in May 2024.]]></description>
+      <link>https://www.bbc.com/news/articles/cp8z7qdd566o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8z7qdd566o</guid>
+      <pubDate>Tue, 23 Dec 2025 06:08:34 GMT</pubDate>
+      <media:thumbnail width="240" height="159" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1195/live/5714cef0-df4e-11f0-a8dc-93c15fe68710.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is it a cold, 'super flu' or Covid? How to tell the difference]]></title>
