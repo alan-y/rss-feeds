@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 31 Dec 2025 18:55:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 19:16:30 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -97,14 +97,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c6e/live/f9549110-e64b-11f0-a14d-bdb5da8c32cf.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Who will win what in 2026? Make your predictions]]></title>
-      <description><![CDATA[Who will win the Premier League, Champions League and Ballon d'Or in 2026? It's time to make your predictions.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy54ywengwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy54ywengwo</guid>
-      <pubDate>Wed, 31 Dec 2025 10:15:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ce3/live/dea70f60-c53e-11f0-bf7b-db7c049674ab.png"/>
-    </item>
-    <item>
       <title><![CDATA[Arsenal score four second-half goals to thrash Villa]]></title>
       <description><![CDATA[Arsenal score four second-half goals to beat Aston Villa 4-1 and end the year five points clear at the top of the Premier League table.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cgr1evgj1neo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -151,6 +143,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1lr06m50p3o</guid>
       <pubDate>Tue, 30 Dec 2025 22:30:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99ac/live/9b8f58b0-e5cb-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who will win what in 2026? Make your predictions]]></title>
+      <description><![CDATA[Who will win the Premier League, Champions League and Ballon d'Or in 2026? It's time to make your predictions.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy54ywengwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy54ywengwo</guid>
+      <pubDate>Wed, 31 Dec 2025 10:15:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ce3/live/dea70f60-c53e-11f0-bf7b-db7c049674ab.png"/>
     </item>
     <item>
       <title><![CDATA[Are Nancy's 'uncomfortable' Celtic ready for Old Firm?]]></title>
