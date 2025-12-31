@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 31 Dec 2025 21:18:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 21:34:46 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -89,14 +89,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c994/live/7feb0fd0-e67c-11f0-a8dc-93c15fe68710.png"/>
     </item>
     <item>
-      <title><![CDATA[How is the Premier League doing in the race for five Champions League places?]]></title>
-      <description><![CDATA[With the top three in the Premier League pulling away, could fifth be enough for Champions League football again?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgk8yz68ynlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgk8yz68ynlo</guid>
-      <pubDate>Wed, 31 Dec 2025 16:25:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae64/live/35f68880-e665-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Arsenal score four second-half goals to thrash Villa]]></title>
       <description><![CDATA[Arsenal score four second-half goals to beat Aston Villa 4-1 and end the year five points clear at the top of the Premier League table.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cgr1evgj1neo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -145,6 +137,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99ac/live/9b8f58b0-e5cb-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How is the Premier League doing in the race for five Champions League places?]]></title>
+      <description><![CDATA[With the top three in the Premier League pulling away, could fifth be enough for Champions League football again?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgk8yz68ynlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgk8yz68ynlo</guid>
+      <pubDate>Wed, 31 Dec 2025 16:25:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae64/live/35f68880-e665-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Who will win what in 2026? Make your predictions]]></title>
       <description><![CDATA[Who will win the Premier League, Champions League and Ballon d'Or in 2026? It's time to make your predictions.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwy54ywengwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -175,14 +175,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp9jr5evy3xo</guid>
       <pubDate>Tue, 30 Dec 2025 23:07:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b624/live/37e080a0-e5d5-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Equatorial Guinea pair banned for abusing referee at Afcon]]></title>
-      <description><![CDATA[Equatorial Guinea's Carlos Akapo and Josete Miranda are banned for four games for abusing the referee after their defeat by Sudan at Afcon 2025.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c98p566m3jdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98p566m3jdo</guid>
-      <pubDate>Wed, 31 Dec 2025 15:07:54 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96c2/live/98e2ec00-e63c-11f0-a76c-07ff70ccfd82.jpg"/>
     </item>
     <item>
       <title><![CDATA['Rangers right in mix' - can they now go level with Celtic?]]></title>
@@ -249,6 +241,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fa1/live/91e17760-e58c-11f0-b67b-690eb873de1b.png"/>
     </item>
     <item>
+      <title><![CDATA[Equatorial Guinea pair banned for abusing referee at Afcon]]></title>
+      <description><![CDATA[Equatorial Guinea's Carlos Akapo and Josete Miranda are banned for four games for abusing the referee after their defeat by Sudan at Afcon 2025.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c98p566m3jdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98p566m3jdo</guid>
+      <pubDate>Wed, 31 Dec 2025 15:07:54 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96c2/live/98e2ec00-e63c-11f0-a76c-07ff70ccfd82.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Are Livingston already doomed at halfway stage?]]></title>
       <description><![CDATA[Livingston sit bottom of the Scottish Premiership after 17 games without a win at the halfway stage, so what chance do David Martindale's side have of escaping relegation?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c9qpgjqn3x0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -295,14 +295,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gvdj0vjpyo</guid>
       <pubDate>Wed, 31 Dec 2025 11:02:14 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb1/live/74147130-e634-11f0-a76c-07ff70ccfd82.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Johnson to decide future after Palace deal agreed]]></title>
-      <description><![CDATA[Brennan Johnson is set to decide whether he wants to join Crystal Palace after the south London club agreed a £35m deal to sign the Tottenham attacker.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyky7nnpgzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyky7nnpgzo</guid>
-      <pubDate>Tue, 30 Dec 2025 22:33:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1813/live/1bc3e510-e576-11f0-b0d9-0db50843eef2.jpg"/>
     </item>
     <item>
       <title><![CDATA['What manager is going to want to take on Kilmarnock?']]></title>
@@ -360,6 +352,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2pdwe0leqo</guid>
       <pubDate>Tue, 30 Dec 2025 15:11:22 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19b8/live/73ab4b70-e01b-11f0-a8dc-93c15fe68710.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Johnson to decide future after Palace deal agreed]]></title>
+      <description><![CDATA[Brennan Johnson is set to decide whether he wants to join Crystal Palace after the south London club agreed a £35m deal to sign the Tottenham attacker.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clyky7nnpgzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyky7nnpgzo</guid>
+      <pubDate>Tue, 30 Dec 2025 22:33:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1813/live/1bc3e510-e576-11f0-b0d9-0db50843eef2.jpg"/>
     </item>
     <item>
       <title><![CDATA['Alarm bells should be ringing' over England tickets]]></title>
@@ -440,14 +440,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07xenng3l1o</guid>
       <pubDate>Tue, 30 Dec 2025 16:59:13 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8ee/live/3a536c50-e59c-11f0-8bbe-6935d94eeebc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Let's make history' - Miura, 58, joins new club]]></title>
-      <description><![CDATA[Kazuyoshi Miura, who turns 59 in February and is the world's oldest professional footballer, has signed a loan deal until June with Fukushima United.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg1g77eg13o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg1g77eg13o</guid>
-      <pubDate>Tue, 30 Dec 2025 08:20:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7cf/live/3b50da90-e559-11f0-afc8-8bee81750c59.jpg"/>
     </item>
     <item>
       <title><![CDATA[Leeds 'brimming with confidence' in full-team goal - Hart]]></title>
