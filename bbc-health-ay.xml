@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 01 Jan 2026 23:49:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 01:41:11 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Chickenpox vaccines for young children start across UK]]></title>
+      <description><![CDATA[For the first time, children will be offered vaccination on the NHS against the common infection which, in rare cases, can be very serious.]]></description>
+      <link>https://www.bbc.com/news/articles/cgexe201n81o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cgexe201n81o</guid>
+      <pubDate>Fri, 02 Jan 2026 00:31:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/453d/live/1a030b10-e64e-11f0-a8dc-93c15fe68710.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[The great debate about whether the NHS should use magic mushrooms to treat mental health]]></title>
+      <description><![CDATA[Many clinical trials to test the use of psychedelic medicines for conditions such as depression have been underway since 2022 - with surprising results]]></description>
+      <link>https://www.bbc.com/news/articles/ckg936l88e7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg936l88e7o</guid>
+      <pubDate>Fri, 02 Jan 2026 00:03:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1863/live/2b37c9a0-da84-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
     <item>
       <title><![CDATA[My son was given world's most expensive gene therapy drug - now he can walk]]></title>
       <description><![CDATA[Five-year-old Edward can walk independently, his mum says, and she hopes he will lead a happy life.]]></description>
@@ -54,22 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ce86le5dyxyo</guid>
       <pubDate>Tue, 23 Dec 2025 01:29:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d12/live/22b79c30-dfd2-11f0-8f37-51273813293d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hospitals working to get patients home for Christmas after five-day doctor strike]]></title>
-      <description><![CDATA[Health experts have warned that the impact of the strike will be felt into the new year "and beyond".]]></description>
-      <link>https://www.bbc.com/news/articles/c36zdpng7gro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c36zdpng7gro</guid>
-      <pubDate>Mon, 22 Dec 2025 09:25:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48b/live/22f48260-df07-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[TikTok removes AI weight loss ads from fake Boots account]]></title>
-      <description><![CDATA[The adverts for prescription-only drugs showed healthcare professionals impersonating the British retailer.]]></description>
-      <link>https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c997lkdjdy5o</guid>
-      <pubDate>Tue, 23 Dec 2025 09:23:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4611/live/67ea27b0-dd01-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
@@ -158,6 +158,22 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cy47p5vnyn0o</guid>
       <pubDate>Mon, 01 Dec 2025 06:28:38 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e58/live/52c06560-cde9-11f0-a750-a3ce41dc0968.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Hospitals working to get patients home for Christmas after five-day doctor strike]]></title>
+      <description><![CDATA[Health experts have warned that the impact of the strike will be felt into the new year "and beyond".]]></description>
+      <link>https://www.bbc.com/news/articles/c36zdpng7gro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c36zdpng7gro</guid>
+      <pubDate>Mon, 22 Dec 2025 09:25:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48b/live/22f48260-df07-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[TikTok removes AI weight loss ads from fake Boots account]]></title>
+      <description><![CDATA[The adverts for prescription-only drugs showed healthcare professionals impersonating the British retailer.]]></description>
+      <link>https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c997lkdjdy5o</guid>
+      <pubDate>Tue, 23 Dec 2025 09:23:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4611/live/67ea27b0-dd01-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Weight-loss jabs: What happens when you stop?]]></title>
@@ -305,22 +321,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c74xqn2zg1eo</guid>
       <pubDate>Thu, 04 Dec 2025 16:22:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a65/live/57380860-d0ea-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[NHS must take elderly infections more seriously, Chris Whitty warns]]></title>
-      <description><![CDATA[England's chief medical officer says doctors do not appreciate risk of heart attack and stroke, as flu cases rise.]]></description>
-      <link>https://www.bbc.com/news/articles/c1kpvxewg93o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kpvxewg93o</guid>
-      <pubDate>Thu, 04 Dec 2025 16:14:31 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebc3/live/23896190-d120-11f0-ab97-9758f58eab4c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Streeting orders review into mental health and ADHD diagnoses ]]></title>
-      <description><![CDATA[The health secretary says the aim is to tackle a rising demand for services and pressure on the NHS.]]></description>
-      <link>https://www.bbc.com/news/articles/ce8q26q2r75o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8q26q2r75o</guid>
-      <pubDate>Thu, 04 Dec 2025 20:41:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c4/live/2ca58ea0-d0b9-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Much of £11bn Covid scheme fraud 'beyond recovery', report says]]></title>
@@ -627,11 +627,11 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43cc/live/0f472f90-a4fd-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What is chickenpox and how can I get my child vaccinated?]]></title>
-      <description><![CDATA[The NHS in England and Wales will start offering the MMRV vaccine to young children from January 2026. ]]></description>
+      <title><![CDATA[What is chickenpox and who can get an NHS vaccine?]]></title>
+      <description><![CDATA[The standard NHS childhood vaccination programme will include chickenpox from 2 January 2026.]]></description>
       <link>https://www.bbc.com/news/articles/cn0rnqj52y5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0rnqj52y5o</guid>
-      <pubDate>Fri, 29 Aug 2025 11:51:59 GMT</pubDate>
+      <pubDate>Fri, 02 Jan 2026 00:31:12 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4209/live/2447a060-826f-11f0-a832-3d1a9236e27e.jpg"/>
     </item>
     <item>
