@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 02 Jan 2026 08:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 09:28:55 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -112,20 +112,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09cf/live/c3c06b50-df84-11f0-b89f-11674143d4d8.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Amazon blocks 1,800 job applications from suspected North Korean agents]]></title>
-      <description><![CDATA[The firm’s chief security officer said North Koreans tried to apply for remote working IT jobs using stolen or fake identities.]]></description>
-      <link>https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3e0kw80wwzo</guid>
-      <pubDate>Tue, 23 Dec 2025 02:49:45 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a77/live/f29f1a40-dfa0-11f0-a643-15fd7b194a0b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026]]></title>
-      <description><![CDATA[Baidu's Apollo Go robotaxis have already accrued millions of driverless rides in cities worldwide.]]></description>
-      <link>https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8jmx1dl9ro</guid>
-      <pubDate>Mon, 22 Dec 2025 14:08:48 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a81/live/5050e1a0-df24-11f0-9dac-b79514ec4a2d.jpg"/>
+      <title><![CDATA[TikTok owner signs deal to avoid US ban]]></title>
+      <description><![CDATA[The deals would end years of efforts by Washington to force ByteDance to sell its US operations.]]></description>
+      <link>https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cgexp1q8wn1o</guid>
+      <pubDate>Fri, 19 Dec 2025 07:27:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da55/live/b4d55230-dcf6-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Will the US TikTok deal make it safer but less relevant?]]></title>
@@ -136,12 +128,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c377/live/a166ca10-dca8-11f0-bf97-a767b375b25e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[TikTok owner signs deal to avoid US ban]]></title>
-      <description><![CDATA[The deals would end years of efforts by Washington to force ByteDance to sell its US operations.]]></description>
-      <link>https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cgexp1q8wn1o</guid>
-      <pubDate>Fri, 19 Dec 2025 07:27:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da55/live/b4d55230-dcf6-11f0-b67b-690eb873de1b.jpg"/>
+      <title><![CDATA[Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026]]></title>
+      <description><![CDATA[Baidu's Apollo Go robotaxis have already accrued millions of driverless rides in cities worldwide.]]></description>
+      <link>https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8jmx1dl9ro</guid>
+      <pubDate>Mon, 22 Dec 2025 14:08:48 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a81/live/5050e1a0-df24-11f0-9dac-b79514ec4a2d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Amazon blocks 1,800 job applications from suspected North Korean agents]]></title>
+      <description><![CDATA[The firm’s chief security officer said North Koreans tried to apply for remote working IT jobs using stolen or fake identities.]]></description>
+      <link>https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3e0kw80wwzo</guid>
+      <pubDate>Tue, 23 Dec 2025 02:49:45 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a77/live/f29f1a40-dfa0-11f0-a643-15fd7b194a0b.jpg"/>
     </item>
     <item>
       <title><![CDATA[UK to ban deepfake AI 'nudification' apps]]></title>
@@ -270,38 +270,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ydp1gdqwqo</guid>
       <pubDate>Fri, 12 Dec 2025 11:46:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9fe/live/5fb02cb0-d767-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Clair Obscur sweeps The Game Awards with nine wins]]></title>
-      <description><![CDATA[The French-made role-playing game is named game of the year on a night of prizes and announcements.]]></description>
-      <link>https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kpwmezkpdo</guid>
-      <pubDate>Fri, 12 Dec 2025 10:45:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad4/live/e9a97860-d73d-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Trump signs order to block states from enforcing own AI rules]]></title>
-      <description><![CDATA[California's governor Gavin Newsom issued a strongly-worded statement in response to the executive order.]]></description>
-      <link>https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/crmddnge9yro</guid>
-      <pubDate>Fri, 12 Dec 2025 15:02:57 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24b2/live/fefcbac0-d6f6-11f0-9262-017105b354e8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Google asks UK experts to find uses for its powerful quantum tech]]></title>
-      <description><![CDATA[UK researchers will get a chance to develop applications for the tech giant's quantum processor.]]></description>
-      <link>https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2epm0w0zggo</guid>
-      <pubDate>Fri, 12 Dec 2025 00:34:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a60/live/f5aae580-d69e-11f0-8356-c71b2eb54d34.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Crypto fraudster sentenced for 'epic' $40bn stablecoin crash]]></title>
-      <description><![CDATA[In August, Do Kwon pleaded guilty to conspiracy to defraud and wire fraud and apologised for his actions.]]></description>
-      <link>https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgmm92d213o</guid>
-      <pubDate>Fri, 12 Dec 2025 00:21:41 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a5/live/9ca8a4a0-d6e8-11f0-881e-636ad31d0b05.jpg"/>
     </item>
     <item>
       <title><![CDATA[The showers and baths keeping data centre tech cool]]></title>
