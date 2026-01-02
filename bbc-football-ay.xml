@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 02 Jan 2026 14:42:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 15:20:51 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['Good idea' or taking 'massive chance' - is Rosenior ready for Chelsea?]]></title>
+      <description><![CDATA[Liam Rosenior is the leading candidate to become the Chelsea manager. BBC Sport looks at the reasons why.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1503xx5vj4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1503xx5vj4o</guid>
+      <pubDate>Fri, 02 Jan 2026 14:13:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbff/live/72563cf0-e7d5-11f0-ab5d-b546e7209f13.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Johnson set to be in Palace squad to face Newcastle]]></title>
       <description><![CDATA[Wales international Brennan Johnson set to be in Crystal Palace's squad to face Newcastle United on Sunday after completing formalities of move from Tottenham. ]]></description>
@@ -24,12 +32,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36b4/live/defc82f0-e7db-11f0-ab5d-b546e7209f13.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Good idea' or taking 'massive chance' - is Rosenior ready for Chelsea?]]></title>
-      <description><![CDATA[Liam Rosenior is the leading candidate to become the Chelsea manager. BBC Sport looks at the reasons why.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1503xx5vj4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1503xx5vj4o</guid>
-      <pubDate>Fri, 02 Jan 2026 14:13:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbff/live/72563cf0-e7d5-11f0-ab5d-b546e7209f13.jpg"/>
+      <title><![CDATA['Crazy 24 hours' - McFarlane ready for Chelsea chance]]></title>
+      <description><![CDATA[Chelsea interim manager Calum McFarlane says it has been a "crazy" 24 hours since replacing Enzo Maresca at Stamford Bridge. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cr7j5x8y7deo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr7j5x8y7deo</guid>
+      <pubDate>Fri, 02 Jan 2026 14:44:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c452/live/1d6ef270-e7e6-11f0-b44a-2d5156cff513.jpg"/>
     </item>
     <item>
       <title><![CDATA['Best bargain' Kamara at heart of Aston Villa success]]></title>
@@ -70,14 +78,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm248l1j7jno</guid>
       <pubDate>Thu, 01 Jan 2026 23:33:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5e/live/97d159a0-e768-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Heavy metal? It's not even aluminium foil football']]></title>
-      <description><![CDATA[As Liverpool are booed off following a goalless draw against Leeds, it was hardly the start to the New Year that Arne Slot's side would have wanted.]]></description>
-      <link>https://www.bbc.com/sport/articles/cr7j5z1m835o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cr7j5z1m835o</guid>
-      <pubDate>Thu, 01 Jan 2026 22:11:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a173/live/267f3fd0-e757-11f0-8141-5b4fd7943e4e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Liverpool to sign Ordonez - Friday's gossip]]></title>
@@ -136,6 +136,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9d4/live/f9f250a0-e75c-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Heavy metal? It's not even aluminium foil football']]></title>
+      <description><![CDATA[As Liverpool are booed off following a goalless draw against Leeds, it was hardly the start to the New Year that Arne Slot's side would have wanted.]]></description>
+      <link>https://www.bbc.com/sport/articles/cr7j5z1m835o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cr7j5z1m835o</guid>
+      <pubDate>Thu, 01 Jan 2026 22:11:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a173/live/267f3fd0-e757-11f0-8141-5b4fd7943e4e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Rosenior leading contender for Chelsea job]]></title>
       <description><![CDATA[Strasbourg boss Liam Rosenior is the leading contender to be the next Chelsea manager, but others remain under consideration.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0er1wx3v28o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -150,14 +158,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crle8448klko</guid>
       <pubDate>Fri, 02 Jan 2026 11:52:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a1a/live/24907240-e7d2-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Celtic sign Bournemouth's Araujo on loan]]></title>
-      <description><![CDATA[Celtic sign Bournemouth right-back Julian Araujo on loan for the rest of the season, making him Wilfried Nancy's first recruit.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c98jykn93d2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98jykn93d2o</guid>
-      <pubDate>Fri, 02 Jan 2026 11:10:15 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7613/live/1d267690-e7cc-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Celtic v Rangers, Reilly & McInnes in Scottish Premiership preview]]></title>
@@ -232,6 +232,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b239/live/07199d90-e665-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Celtic sign Bournemouth's Araujo on loan]]></title>
+      <description><![CDATA[Celtic sign Bournemouth right-back Julian Araujo on loan for the rest of the season, making him Wilfried Nancy's first recruit.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c98jykn93d2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98jykn93d2o</guid>
+      <pubDate>Fri, 02 Jan 2026 11:10:15 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7613/live/1d267690-e7cc-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How is Premier League doing in race for five Champions League places?]]></title>
       <description><![CDATA[With the top three in the Premier League pulling away, could fifth be enough for Champions League football again?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgk8yz68ynlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -256,14 +264,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ea9/live/20a8c950-e739-11f0-b42f-5fc5f4eab07e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What went wrong between Chelsea and Maresca?]]></title>
-      <description><![CDATA[Less than six months after guiding Chelsea to Club World Cup success, Enzo Maresca has left. But how did things unravel?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj0n8d913d8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0n8d913d8o</guid>
-      <pubDate>Thu, 01 Jan 2026 18:21:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ad2/live/d8535560-e708-11f0-bda7-cd77a7bc9f3b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Liverpool agree deal for midfielder Bergstrom]]></title>
       <description><![CDATA[Liverpool agree a deal with Swedish side BK Hacken for midfielder Alice Bergstrom for an undisclosed fee.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdrejpp1jpro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -280,20 +280,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc3/live/990c3350-e757-11f0-8141-5b4fd7943e4e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[What went wrong between Chelsea and Maresca?]]></title>
+      <description><![CDATA[Less than six months after guiding Chelsea to Club World Cup success, Enzo Maresca has left. But how did things unravel?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj0n8d913d8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0n8d913d8o</guid>
+      <pubDate>Thu, 01 Jan 2026 18:21:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ad2/live/d8535560-e708-11f0-bda7-cd77a7bc9f3b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Government suspends Gabon team, bans Aubameyang and sacks coach]]></title>
       <description><![CDATA[Gabon's sports minister announces a series of punishments after the national team's "disgraceful performance" at the Africa Cup of Nations.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn56z2ye7nro?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn56z2ye7nro</guid>
       <pubDate>Thu, 01 Jan 2026 18:14:16 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a3a/live/6a5b5280-e738-11f0-b42f-5fc5f4eab07e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Brazil legend Roberto Carlos recovering in hospital]]></title>
-      <description><![CDATA[Brazil and Real Madrid legend Roberto Carlos is "recovering well" after undergoing what he describes as "a preventative medical procedure".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqxyrj9dv5go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxyrj9dv5go</guid>
-      <pubDate>Thu, 01 Jan 2026 08:12:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3971/live/1c16acc0-e6e6-11f0-9bc9-6567eb1afae2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ovation on Brentford return 'special' - Frank]]></title>
@@ -334,6 +334,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/videos/cly5z332p0po</guid>
       <pubDate>Thu, 01 Jan 2026 20:49:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b85e/live/82bee080-e751-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Brazil legend Roberto Carlos recovering in hospital]]></title>
+      <description><![CDATA[Brazil and Real Madrid legend Roberto Carlos is "recovering well" after undergoing what he describes as "a preventative medical procedure".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqxyrj9dv5go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxyrj9dv5go</guid>
+      <pubDate>Thu, 01 Jan 2026 08:12:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3971/live/1c16acc0-e6e6-11f0-9bc9-6567eb1afae2.jpg"/>
     </item>
     <item>
       <title><![CDATA[How does Maresca's Chelsea record compare?]]></title>
