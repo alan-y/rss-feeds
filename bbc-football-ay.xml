@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 03 Jan 2026 14:18:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 14:38:20 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -224,14 +224,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf77/live/f0418800-e63f-11f0-8786-db2fc8f3a075.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ayr one of six SPFL games off because of snow & ice]]></title>
-      <description><![CDATA[Five of this weekend's SPFL matches have been postponed because of freezing weather across Scotland with further pitch inspections to follow on Saturday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdjne4ezyd8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjne4ezyd8o</guid>
-      <pubDate>Sat, 03 Jan 2026 14:12:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b08b/live/c7511830-e800-11f0-9c3d-2959bd14fc02.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Man City held by stubborn Sunderland in entertaining draw]]></title>
       <description><![CDATA[Manchester City fall four points behind Arsenal in the Premier League title race after being held to a goalless draw by Sunderland, who maintain their unbeaten home record.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cd9e82jzx07o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -262,6 +254,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/clyw52dly9zo</guid>
       <pubDate>Thu, 01 Jan 2026 22:30:49 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9d4/live/f9f250a0-e75c-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ayr one of six SPFL games off because of snow & ice]]></title>
+      <description><![CDATA[Five of this weekend's SPFL matches have been postponed because of freezing weather across Scotland with further pitch inspections to follow on Saturday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdjne4ezyd8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjne4ezyd8o</guid>
+      <pubDate>Sat, 03 Jan 2026 14:12:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b08b/live/c7511830-e800-11f0-9c3d-2959bd14fc02.jpg"/>
     </item>
     <item>
       <title><![CDATA[How is Premier League doing in race for five Champions League places?]]></title>
@@ -312,14 +312,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6832/live/b7350510-e823-11f0-9f1d-77dc12a09d6e.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Heavy metal? It's not even aluminium foil football']]></title>
-      <description><![CDATA[As Liverpool are booed off following a goalless draw against Leeds, it was hardly the start to the New Year that Arne Slot's side would have wanted.]]></description>
-      <link>https://www.bbc.com/sport/articles/cr7j5z1m835o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cr7j5z1m835o</guid>
-      <pubDate>Thu, 01 Jan 2026 22:11:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a173/live/267f3fd0-e757-11f0-8141-5b4fd7943e4e.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How Farke's 'rock solid' Leeds turned the corner]]></title>
       <description><![CDATA[Match of the Day Pundit Steph Houghton discusses Leeds United's performance against Liverpool and their recent development under Daniel Farke.  ]]></description>
       <link>https://www.bbc.com/sport/football/videos/c17zlwxdyg9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -358,6 +350,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwyw9n8wnn3o</guid>
       <pubDate>Thu, 01 Jan 2026 20:46:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe70/live/bd84f560-e751-11f0-a8dc-93c15fe68710.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Heavy metal? It's not even aluminium foil football']]></title>
+      <description><![CDATA[As Liverpool are booed off following a goalless draw against Leeds, it was hardly the start to the New Year that Arne Slot's side would have wanted.]]></description>
+      <link>https://www.bbc.com/sport/articles/cr7j5z1m835o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cr7j5z1m835o</guid>
+      <pubDate>Thu, 01 Jan 2026 22:11:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a173/live/267f3fd0-e757-11f0-8141-5b4fd7943e4e.jpg"/>
     </item>
     <item>
       <title><![CDATA['We are not happy' - Man City fall behind Arsenal in title race]]></title>
@@ -638,14 +638,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07xn38krr9o</guid>
       <pubDate>Fri, 02 Jan 2026 19:41:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/920b/live/6ae5ef20-e810-11f0-a8dc-93c15fe68710.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Are Livingston already doomed at halfway stage?]]></title>
-      <description><![CDATA[Livingston sit bottom of the Scottish Premiership after 17 games without a win at the halfway stage, so what chance do David Martindale's side have of escaping relegation?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9qpgjqn3x0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9qpgjqn3x0o</guid>
-      <pubDate>Wed, 31 Dec 2025 11:40:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28c1/live/2a904440-e5e3-11f0-956e-47166c96f12f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch live Bundesliga games on Friday nights on the BBC]]></title>
