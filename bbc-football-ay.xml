@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 03 Jan 2026 06:30:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 06:57:16 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA['Good idea' or taking 'massive chance' - is Rosenior ready for Chelsea?]]></title>
-      <description><![CDATA[Liam Rosenior is the leading candidate to become the Chelsea manager. BBC Sport looks at the reasons why.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1503xx5vj4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1503xx5vj4o</guid>
-      <pubDate>Fri, 02 Jan 2026 14:13:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbff/live/72563cf0-e7d5-11f0-ab5d-b546e7209f13.jpg"/>
-    </item>
     <item>
       <title><![CDATA['Nancy leaps to his own defence as he feels Old Firm heat']]></title>
       <description><![CDATA[Just over four weeks on from his appointment as Celtic manager, Wilfried Nancy's passionate defence of his reign shows the pressure he is facing before Saturday's Old Firm derby against Rangers.]]></description>
@@ -30,6 +22,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czx3dqxl769o</guid>
       <pubDate>Fri, 02 Jan 2026 22:00:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acae/live/3029ee60-e7fa-11f0-b67b-690eb873de1b.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Blackburn to Barcelona - Dolan's 'unbelievable' journey]]></title>
+      <description><![CDATA[Five years ago, Tyrhys Dolan was playing for Clitheroe - now he is preparing to face Barcelona in the Catalan derby.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy1wn866y5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy1wn866y5o</guid>
+      <pubDate>Sat, 03 Jan 2026 06:46:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1c/live/3616c640-e65b-11f0-a8f2-d9e8fba7dc3b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Good idea' or taking 'massive chance' - is Rosenior ready for Chelsea?]]></title>
+      <description><![CDATA[Liam Rosenior is the leading candidate to become the Chelsea manager. BBC Sport looks at the reasons why.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1503xx5vj4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1503xx5vj4o</guid>
+      <pubDate>Fri, 02 Jan 2026 14:13:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbff/live/72563cf0-e7d5-11f0-ab5d-b546e7209f13.jpg"/>
     </item>
     <item>
       <title><![CDATA[Villa 'not convinced' to sign Elliott permanently - Emery]]></title>
@@ -72,14 +80,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8d/live/85757af0-e7d3-11f0-aae2-2191c0e48a3b.png"/>
     </item>
     <item>
-      <title><![CDATA['Crazy 24 hours' - McFarlane ready for Chelsea chance]]></title>
-      <description><![CDATA[Chelsea interim manager Calum McFarlane says it has been a "crazy" 24 hours since replacing Enzo Maresca at Stamford Bridge. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cr7j5x8y7deo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr7j5x8y7deo</guid>
-      <pubDate>Fri, 02 Jan 2026 14:44:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c452/live/1d6ef270-e7e6-11f0-b44a-2d5156cff513.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Spurs season hard to 'enjoy' for Frank as he shares fans' frustration]]></title>
       <description><![CDATA[Thomas Frank says he understands and shares the frustration of Tottenham fans after he was booed following Thursday's Premier League draw at Brentford.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cjrz3gzlv1eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -112,7 +112,15 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc3f/live/ec0f2bb0-dcf9-11f0-b936-bbd75bfb2f25.jpg"/>
     </item>
     <item>
-      <title><![CDATA['I will leave one day' - Guardiola on City future]]></title>
+      <title><![CDATA['Never did I think one day I'd be playing in Spain']]></title>
+      <description><![CDATA[Espanyol winger Tyrhys Dolan speaks to Elizabeth Conway about his journey from non-league football to La Liga.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cvgnej912zjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvgnej912zjo</guid>
+      <pubDate>Sat, 03 Jan 2026 06:51:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7f8/live/adca3680-e800-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['I will leave one day' - Guardiola on Man City future]]></title>
       <description><![CDATA[Manchester City head coach Pep Guardiola has insisted he wants to "fight with his team" and see out his contract at the club, following reported interest in former Chelsea manager Enzo Maresca. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/cgjw4elqxp6o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgjw4elqxp6o</guid>
@@ -144,20 +152,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d53/live/b153dd40-e762-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How Farke's 'rock solid' Leeds turned the corner]]></title>
-      <description><![CDATA[Match of the Day Pundit Steph Houghton discusses Leeds United's performance against Liverpool and their recent development under Daniel Farke.  ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c17zlwxdyg9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c17zlwxdyg9o</guid>
-      <pubDate>Fri, 02 Jan 2026 00:00:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc03/live/ef5d3ca0-e76a-11f0-a8dc-93c15fe68710.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[11 EFL players who could be on the move in January]]></title>
       <description><![CDATA[BBC Sport examines some of the leading talent in the EFL likely to be subject to interest and offers over the January transfer window.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cpwn85qw0y0o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwn85qw0y0o</guid>
       <pubDate>Fri, 02 Jan 2026 10:54:10 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f16/live/bcbb1270-e5a0-11f0-8bbe-6935d94eeebc.png"/>
+    </item>
+    <item>
+      <title><![CDATA['Crazy 24 hours' - McFarlane ready for Chelsea chance]]></title>
+      <description><![CDATA[Chelsea interim manager Calum McFarlane says it has been a "crazy" 24 hours since replacing Enzo Maresca at Stamford Bridge. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cr7j5x8y7deo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr7j5x8y7deo</guid>
+      <pubDate>Fri, 02 Jan 2026 14:44:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c452/live/1d6ef270-e7e6-11f0-b44a-2d5156cff513.jpg"/>
     </item>
     <item>
       <title><![CDATA[All your FPL stats and Premier League team news in one place]]></title>
@@ -200,14 +208,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19f4/live/93e13f40-e75e-11f0-9302-f3ab4dc3b713.jpg"/>
     </item>
     <item>
-      <title><![CDATA[AC Milan sign West Ham striker Fullkrug on loan]]></title>
-      <description><![CDATA[West Ham striker Niclas Fullkrug joins Italian side AC Milan on loan for the remainder of the season, with the option to make the move permanent. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn0k3prk408o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0k3prk408o</guid>
-      <pubDate>Fri, 02 Jan 2026 13:10:02 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd82/live/930b0da0-e7d9-11f0-ab5d-b546e7209f13.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Man City held by stubborn Sunderland in entertaining draw]]></title>
       <description><![CDATA[Manchester City fall four points behind Arsenal in the Premier League title race after being held to a goalless draw by Sunderland, who maintain their unbeaten home record.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cd9e82jzx07o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -248,20 +248,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b239/live/07199d90-e665-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[AC Milan sign West Ham striker Fullkrug on loan]]></title>
+      <description><![CDATA[West Ham striker Niclas Fullkrug joins Italian side AC Milan on loan for the remainder of the season, with the option to make the move permanent. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn0k3prk408o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0k3prk408o</guid>
+      <pubDate>Fri, 02 Jan 2026 13:10:02 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd82/live/930b0da0-e7d9-11f0-ab5d-b546e7209f13.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Best bargain' Kamara at heart of Aston Villa success]]></title>
       <description><![CDATA[Boubacar Kamara is Aston Villa's unassuming star and has quietly evolved into one of the best midfielders in the Premier League. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/czdg84m99vvo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czdg84m99vvo</guid>
       <pubDate>Fri, 02 Jan 2026 07:54:37 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf77/live/f0418800-e63f-11f0-8786-db2fc8f3a075.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
-      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0mk08gx421o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mk08gx421o</guid>
-      <pubDate>Thu, 01 Jan 2026 23:58:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd9/live/dcdd5dd0-e76a-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Should Romero have been sent off against Brentford?]]></title>
@@ -352,6 +352,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e17a/live/085f12a0-e725-11f0-9d59-75d9bc66798b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How Farke's 'rock solid' Leeds turned the corner]]></title>
+      <description><![CDATA[Match of the Day Pundit Steph Houghton discusses Leeds United's performance against Liverpool and their recent development under Daniel Farke.  ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c17zlwxdyg9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c17zlwxdyg9o</guid>
+      <pubDate>Fri, 02 Jan 2026 00:00:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc03/live/ef5d3ca0-e76a-11f0-a8dc-93c15fe68710.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['It's a tough place to come' - Guardiola on Sunderland draw]]></title>
       <description><![CDATA[Manchester City manager Pep Guardiola praises Sunderland's performance after his team was held to a goalless at the Stadium of Light. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/c5y59p4k3lro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -384,20 +392,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe70/live/bd84f560-e751-11f0-a8dc-93c15fe68710.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Liverpool needed more pace to break through difficult Leeds defence - Slot]]></title>
-      <description><![CDATA[Liverpool manager Arne Slot says his side needed more pace to break through and create chances against Leeds United's low block, following their goalless draw at Anfield.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c1ev8ndv8d0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1ev8ndv8d0o</guid>
-      <pubDate>Thu, 01 Jan 2026 20:17:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc3e/live/a6e46790-e74d-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Government suspends Gabon team, bans Aubameyang and sacks coach]]></title>
       <description><![CDATA[Gabon's sports minister announces a series of punishments after the national team's "disgraceful performance" at the Africa Cup of Nations.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn56z2ye7nro?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn56z2ye7nro</guid>
       <pubDate>Thu, 01 Jan 2026 18:14:16 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a3a/live/6a5b5280-e738-11f0-b42f-5fc5f4eab07e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
+      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0mk08gx421o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mk08gx421o</guid>
+      <pubDate>Thu, 01 Jan 2026 23:58:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd9/live/dcdd5dd0-e76a-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[What went wrong between Chelsea and Maresca?]]></title>
@@ -432,12 +440,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6f0/live/ad22a9a0-e644-11f0-aae2-2191c0e48a3b.png"/>
     </item>
     <item>
-      <title><![CDATA[Who might be on move in January in WSL?]]></title>
-      <description><![CDATA[With the January transfer window opening in the Women's Super League, which players could be on the move and who is out of contract?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2dzd789185o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2dzd789185o</guid>
-      <pubDate>Thu, 01 Jan 2026 07:40:50 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e407/live/d0630400-e644-11f0-8786-db2fc8f3a075.jpg"/>
+      <title><![CDATA[Liverpool needed more pace to break through difficult Leeds defence - Slot]]></title>
+      <description><![CDATA[Liverpool manager Arne Slot says his side needed more pace to break through and create chances against Leeds United's low block, following their goalless draw at Anfield.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c1ev8ndv8d0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1ev8ndv8d0o</guid>
+      <pubDate>Thu, 01 Jan 2026 20:17:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc3e/live/a6e46790-e74d-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Palace in 'survival mode' as winless run continues]]></title>
@@ -472,20 +480,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72e3/live/ee6bf560-e5d6-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Set-pieces 'becoming a problem' for Chelsea]]></title>
-      <description><![CDATA[Match of the Day pundits Danny Murphy and Rob Green discuss where Chelsea fell short in defending set pieces in their 2-2 draw with Bournemouth.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c07xeg5xeyro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c07xeg5xeyro</guid>
-      <pubDate>Wed, 31 Dec 2025 00:00:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58bb/live/3a03cb40-e5d4-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Who is one card away from suspension in the Premier League?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team looks at who is currently nearing a suspension in the Premier League.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx25x2r5r32o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx25x2r5r32o</guid>
       <pubDate>Fri, 02 Jan 2026 10:46:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2280/live/7fbf7f90-e7c7-11f0-a8dc-93c15fe68710.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Who might be on move in January in WSL?]]></title>
+      <description><![CDATA[With the January transfer window opening in the Women's Super League, which players could be on the move and who is out of contract?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2dzd789185o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2dzd789185o</guid>
+      <pubDate>Thu, 01 Jan 2026 07:40:50 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e407/live/d0630400-e644-11f0-8786-db2fc8f3a075.jpg"/>
     </item>
     <item>
       <title><![CDATA[How football star's transfer sparked Korean saying]]></title>
@@ -512,12 +520,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/a93977f0-e749-11f0-aae2-2191c0e48a3b.png"/>
     </item>
     <item>
-      <title><![CDATA[Who will win what in 2026? Make your predictions]]></title>
-      <description><![CDATA[Who will win the Premier League, Champions League and Ballon d'Or in 2026? It's time to make your predictions.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy54ywengwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy54ywengwo</guid>
-      <pubDate>Wed, 31 Dec 2025 10:15:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ce3/live/dea70f60-c53e-11f0-bf7b-db7c049674ab.png"/>
+      <title><![CDATA[Set-pieces 'becoming a problem' for Chelsea]]></title>
+      <description><![CDATA[Match of the Day pundits Danny Murphy and Rob Green discuss where Chelsea fell short in defending set pieces in their 2-2 draw with Bournemouth.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c07xeg5xeyro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c07xeg5xeyro</guid>
+      <pubDate>Wed, 31 Dec 2025 00:00:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58bb/live/3a03cb40-e5d4-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA['Top midfield play' - Garner shines for Everton at Forest]]></title>
@@ -550,15 +558,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn56r7dze45o</guid>
       <pubDate>Tue, 30 Dec 2025 23:05:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0a2/live/ef5519b0-e5d2-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Arsenal were outstanding in second half - Arteta]]></title>
-      <description><![CDATA[Arsenal manager Mikel Arteta says his side were "outstanding" as they scored four second-half goals to beat Aston Villa 4-1.
-]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c5yq1l526v3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5yq1l526v3o</guid>
-      <pubDate>Tue, 30 Dec 2025 23:09:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0a1/live/c8683ca0-e5d3-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[How to follow the Premier League on the BBC this week]]></title>
