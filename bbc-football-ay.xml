@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 03 Jan 2026 13:42:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 14:18:23 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -88,14 +88,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/463d/live/a0373ce0-e7ef-11f0-83f0-2f5e73d2f960.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Johnson 'excited to join Palace journey' after £35m move]]></title>
-      <description><![CDATA[Brennan Johnson is set to be included in Crystal Palace's squad to face Newcastle on Sunday after his club-record £35m move from Tottenham was finalised on Friday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c75x6936pgvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c75x6936pgvo</guid>
-      <pubDate>Fri, 02 Jan 2026 15:58:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36b4/live/defc82f0-e7db-11f0-ab5d-b546e7209f13.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Never did I think one day I'd be playing in Spain']]></title>
       <description><![CDATA[Espanyol winger Tyrhys Dolan speaks to Elizabeth Conway about his journey from non-league football to La Liga.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cvgnej912zjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -137,11 +129,19 @@
     </item>
     <item>
       <title><![CDATA[Cold snap hits weekend EFL & National League games]]></title>
-      <description><![CDATA[Sunday's League Two match between Notts County and Gillingham is postponed along with five in the National League on Saturday due to frozen pitches.]]></description>
+      <description><![CDATA[Five of Sunday's League Two matches along with six in the National League on Saturday postponed due to frozen pitches.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cjrz39ny0w8o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjrz39ny0w8o</guid>
-      <pubDate>Sat, 03 Jan 2026 12:13:49 GMT</pubDate>
+      <pubDate>Sat, 03 Jan 2026 13:54:21 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a53/live/1d2c08e0-e89d-11f0-b4b3-f5118369b77f.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Johnson 'excited to join Palace journey' after £35m move]]></title>
+      <description><![CDATA[Brennan Johnson is set to be included in Crystal Palace's squad to face Newcastle on Sunday after his club-record £35m move from Tottenham was finalised on Friday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c75x6936pgvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c75x6936pgvo</guid>
+      <pubDate>Fri, 02 Jan 2026 15:58:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36b4/live/defc82f0-e7db-11f0-ab5d-b546e7209f13.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wales hope 'genius' Bellamy stays amid club interest]]></title>
@@ -176,6 +176,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f16/live/bcbb1270-e5a0-11f0-8bbe-6935d94eeebc.png"/>
     </item>
     <item>
+      <title><![CDATA['I need time... it's normal you guys kill me' - Nancy's plea before Old Firm test]]></title>
+      <description><![CDATA[Wilfried Nancy launches a passionate defence of his methods and stresses the need for time if he is to succeed at Celtic.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn40zrpg0vxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn40zrpg0vxo</guid>
+      <pubDate>Fri, 02 Jan 2026 16:32:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4e9/live/9e63f3c0-e800-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Whirlwind' 24 hours - McFarlane ready for Chelsea chance]]></title>
       <description><![CDATA[Chelsea interim manager Calum McFarlane says it has been a "crazy" 24 hours since replacing Enzo Maresca at Stamford Bridge. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cr7j5x8y7deo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -190,14 +198,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdrejpp1jpro</guid>
       <pubDate>Fri, 02 Jan 2026 14:10:24 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b66a/live/ad7c55b0-e7e1-11f0-b44a-2d5156cff513.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I need time... it's normal you guys kill me' - Nancy's plea before Old Firm test]]></title>
-      <description><![CDATA[Wilfried Nancy launches a passionate defence of his methods and stresses the need for time if he is to succeed at Celtic.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn40zrpg0vxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn40zrpg0vxo</guid>
-      <pubDate>Fri, 02 Jan 2026 16:32:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4e9/live/9e63f3c0-e800-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[London City appoint Maestre as manager]]></title>
@@ -224,28 +224,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf77/live/f0418800-e63f-11f0-8786-db2fc8f3a075.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Should Romero have been sent off against Brentford?]]></title>
-      <description><![CDATA[Should Tottenham's Cristian Romero have been sent off for bringing down Brentford's Igor Thiago when the striker was through on goal?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crle8448klko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crle8448klko</guid>
-      <pubDate>Fri, 02 Jan 2026 11:52:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a1a/live/24907240-e7d2-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Five SPFL games off because of snow]]></title>
+      <title><![CDATA[Ayr one of six SPFL games off because of snow & ice]]></title>
       <description><![CDATA[Five of this weekend's SPFL matches have been postponed because of freezing weather across Scotland with further pitch inspections to follow on Saturday.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdjne4ezyd8o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjne4ezyd8o</guid>
-      <pubDate>Sat, 03 Jan 2026 11:06:10 GMT</pubDate>
+      <pubDate>Sat, 03 Jan 2026 14:12:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b08b/live/c7511830-e800-11f0-9c3d-2959bd14fc02.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[All your FPL stats and Premier League team news in one place]]></title>
-      <description><![CDATA[Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.]]></description>
-      <link>https://www.bbc.com/sport/articles/c5yxj0dk4eko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c5yxj0dk4eko</guid>
-      <pubDate>Fri, 02 Jan 2026 14:04:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man City held by stubborn Sunderland in entertaining draw]]></title>
@@ -312,6 +296,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ae2/live/f07048f0-e7db-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Should Romero have been sent off against Brentford?]]></title>
+      <description><![CDATA[Should Tottenham's Cristian Romero have been sent off for bringing down Brentford's Igor Thiago when the striker was through on goal?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crle8448klko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crle8448klko</guid>
+      <pubDate>Fri, 02 Jan 2026 11:52:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a1a/live/24907240-e7d2-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Larne beat title rivals Coleraine to go seven clear]]></title>
       <description><![CDATA[Larne extend their lead at the top of the Irish Premiership to seven points after a comprehensive 3-0 win over second-placed Coleraine.]]></description>
       <link>https://www.bbc.com/sport/articles/c5yd01l6zv6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -326,14 +318,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/cr7j5z1m835o</guid>
       <pubDate>Thu, 01 Jan 2026 22:11:21 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a173/live/267f3fd0-e757-11f0-8141-5b4fd7943e4e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['We are not happy' - Man City fall behind Arsenal in title race]]></title>
-      <description><![CDATA[Pep Guardiola questioned whether it was only a two-horse Premier League title race, but his Manchester City side can ill-afford many slip-ups in their quest to hunt down leaders Arsenal.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cm248l1j7jno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm248l1j7jno</guid>
-      <pubDate>Thu, 01 Jan 2026 23:33:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5e/live/97d159a0-e768-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Farke's 'rock solid' Leeds turned the corner]]></title>
@@ -376,6 +360,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe70/live/bd84f560-e751-11f0-a8dc-93c15fe68710.jpg"/>
     </item>
     <item>
+      <title><![CDATA['We are not happy' - Man City fall behind Arsenal in title race]]></title>
+      <description><![CDATA[Pep Guardiola questioned whether it was only a two-horse Premier League title race, but his Manchester City side can ill-afford many slip-ups in their quest to hunt down leaders Arsenal.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cm248l1j7jno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm248l1j7jno</guid>
+      <pubDate>Thu, 01 Jan 2026 23:33:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5e/live/97d159a0-e768-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Government suspends Gabon team, bans Aubameyang and sacks coach]]></title>
       <description><![CDATA[Gabon's sports minister announces a series of punishments after the national team's "disgraceful performance" at the Africa Cup of Nations.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn56z2ye7nro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -390,14 +382,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0er1wx3v28o</guid>
       <pubDate>Thu, 01 Jan 2026 19:58:50 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e17a/live/085f12a0-e725-11f0-9d59-75d9bc66798b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
-      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0mk08gx421o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mk08gx421o</guid>
-      <pubDate>Thu, 01 Jan 2026 23:58:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd9/live/dcdd5dd0-e76a-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[What went wrong between Chelsea and Maresca?]]></title>
