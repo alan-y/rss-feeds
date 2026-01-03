@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 03 Jan 2026 01:26:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 03:12:07 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Wellbeing 2026: Recovery, JOMO and brain boosting supplements]]></title>
+      <description><![CDATA[Wellness is a multi-trillion pound industry which continues to grow, what will be its focus in 2026?]]></description>
+      <link>https://www.bbc.com/news/articles/c7v06q91v31o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c7v06q91v31o</guid>
+      <pubDate>Sat, 03 Jan 2026 01:19:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4662/live/a1e8f140-e7ff-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Hospital flu cases drop as NHS on cold weather alert]]></title>
       <description><![CDATA[NHS bosses say the fall is welcome, but expect freezing temperatures to increase pressure on the health service.]]></description>
@@ -70,14 +78,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c04vx47gx91o</guid>
       <pubDate>Wed, 24 Dec 2025 00:24:28 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5717/live/19eacbb0-dcd8-11f0-81cc-998682630b3d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[US regulator approves pill form of Wegovy weight-loss drug]]></title>
-      <description><![CDATA[Wegovy becomes first pill of its kind to be approved, shifting weight-loss drugs beyond injections.]]></description>
-      <link>https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce86le5dyxyo</guid>
-      <pubDate>Tue, 23 Dec 2025 01:29:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d12/live/22b79c30-dfd2-11f0-8f37-51273813293d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
@@ -174,6 +174,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c36zdpng7gro</guid>
       <pubDate>Mon, 22 Dec 2025 09:25:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48b/live/22f48260-df07-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[US regulator approves pill form of Wegovy weight-loss drug]]></title>
+      <description><![CDATA[Wegovy becomes first pill of its kind to be approved, shifting weight-loss drugs beyond injections.]]></description>
+      <link>https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce86le5dyxyo</guid>
+      <pubDate>Tue, 23 Dec 2025 01:29:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d12/live/22b79c30-dfd2-11f0-8f37-51273813293d.jpg"/>
     </item>
     <item>
       <title><![CDATA[TikTok removes AI weight loss ads from fake Boots account]]></title>
@@ -321,14 +329,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/crmdekv8d48o</guid>
       <pubDate>Tue, 09 Dec 2025 07:48:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a67c/live/5ed97c30-d47c-11f0-b433-753c64b53a9c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hospitals facing unprecedented flu season, say NHS bosses]]></title>
-      <description><![CDATA[Record number of patients in hospital in England with flu for this time of year, figures show.]]></description>
-      <link>https://www.bbc.com/news/articles/c74xqn2zg1eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c74xqn2zg1eo</guid>
-      <pubDate>Thu, 04 Dec 2025 16:22:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a65/live/57380860-d0ea-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
       <title><![CDATA[Much of £11bn Covid scheme fraud 'beyond recovery', report says]]></title>
