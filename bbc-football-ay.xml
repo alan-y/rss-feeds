@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 04 Jan 2026 13:43:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 14:17:43 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[Rice 'stretches himself to limit' before another 'masterclass']]></title>
-      <description><![CDATA[How injury doubt Declan Rice "stretched himself to the very limit" to take Arsenal six points clear at the top of the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz0pmxr98xko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz0pmxr98xko</guid>
-      <pubDate>Sat, 03 Jan 2026 21:46:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731f/live/f750dfc0-e8e6-11f0-936c-19c35f0ff3e5.jpg"/>
-    </item>
     <item>
       <title><![CDATA[Sheff Utd & Pompey fixtures among EFL games off]]></title>
       <description><![CDATA[Two of Sunday's Championship matches are postponed because of frozen pitches, with a number of others called off elsewhere in the EFL.]]></description>
@@ -32,20 +24,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a833/live/ce8f5100-e95b-11f0-b870-5bc7219b84d6.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Haunted Nancy detached from reality as Celtic's lights go out']]></title>
-      <description><![CDATA[BBC Sport Scotland's chief sports writer dissects the outcome of Saturday's Old Firm defeat for Celtic.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c79rzlrg9z2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c79rzlrg9z2o</guid>
-      <pubDate>Sat, 03 Jan 2026 17:44:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1a8/live/9fc2bc30-e8cb-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['A manager's dream' - why Rice is the perfect midfielder]]></title>
       <description><![CDATA[Match of the Day pundits Alan Shearer and Jermain Defoe praise the performance of Declan Rice, who scored two goals in Arsenal's 3-2 win over Bournemouth.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cgezjxwqvdqo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgezjxwqvdqo</guid>
       <pubDate>Sun, 04 Jan 2026 00:00:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d3e/live/6e2e78a0-e8fb-11f0-a8dc-93c15fe68710.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rice 'stretches himself to limit' before another 'masterclass']]></title>
+      <description><![CDATA[How injury doubt Declan Rice "stretched himself to the very limit" to take Arsenal six points clear at the top of the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz0pmxr98xko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz0pmxr98xko</guid>
+      <pubDate>Sat, 03 Jan 2026 21:46:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731f/live/f750dfc0-e8e6-11f0-936c-19c35f0ff3e5.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Haunted Nancy detached from reality as Celtic's lights go out']]></title>
+      <description><![CDATA[BBC Sport Scotland's chief sports writer dissects the outcome of Saturday's Old Firm defeat for Celtic.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c79rzlrg9z2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c79rzlrg9z2o</guid>
+      <pubDate>Sat, 03 Jan 2026 17:44:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1a8/live/9fc2bc30-e8cb-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA['Shocking, pathetic and embarrassing' - can Nuno save West Ham?]]></title>
@@ -65,12 +65,12 @@ A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality c
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47c4/live/10a6cfd0-e80a-11f0-a8dc-93c15fe68710.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Six points clear but still 'more to come' from Hearts]]></title>
-      <description><![CDATA[After Hearts battled past Livingston to move six points clear at the top of the Scottish Premiership, manager Derek McInnes says there is 'more to come' as new players arrive.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c7v031elml4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7v031elml4o</guid>
-      <pubDate>Sat, 03 Jan 2026 20:24:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7ef/live/99dc2a30-e8db-11f0-9ca9-bb676ea60a08.jpg"/>
+      <title><![CDATA[Chelsea keep tabs on Tonali - Sunday's gossip]]></title>
+      <description><![CDATA[Sandro Tonali is on Chelsea's radar, Napoli continue to track Kobbie Mainoo, while Real Madrid remain interested in Rodri.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cre2zq54g9eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cre2zq54g9eo</guid>
+      <pubDate>Sat, 03 Jan 2026 23:15:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6169/live/87d6bea0-e8f3-11f0-b67b-690eb873de1b.png"/>
     </item>
     <item>
       <title><![CDATA[Spurs sign Chelsea's Hamano on loan until June]]></title>
@@ -121,12 +121,12 @@ A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality c
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78cd/live/3f405b00-e8cc-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Chelsea keep tabs on Tonali - Sunday's gossip]]></title>
-      <description><![CDATA[Sandro Tonali is on Chelsea's radar, Napoli continue to track Kobbie Mainoo, while Real Madrid remain interested in Rodri.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cre2zq54g9eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cre2zq54g9eo</guid>
-      <pubDate>Sat, 03 Jan 2026 23:15:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6169/live/87d6bea0-e8f3-11f0-b67b-690eb873de1b.png"/>
+      <title><![CDATA[Six points clear but still 'more to come' from Hearts]]></title>
+      <description><![CDATA[After Hearts battled past Livingston to move six points clear at the top of the Scottish Premiership, manager Derek McInnes says there is 'more to come' as new players arrive.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c7v031elml4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7v031elml4o</guid>
+      <pubDate>Sat, 03 Jan 2026 20:24:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7ef/live/99dc2a30-e8db-11f0-9ca9-bb676ea60a08.jpg"/>
     </item>
     <item>
       <title><![CDATA[Dyche wants perspective as Forest slump continues]]></title>
@@ -135,14 +135,6 @@ A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality c
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgrd0xj1r4go</guid>
       <pubDate>Sat, 03 Jan 2026 16:31:57 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c3/live/55013f90-e8c2-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['We are together with the board' - Nancy defiant after Celtic loss]]></title>
-      <description><![CDATA[Celtic manager Wilfried Nancy insists he is still "together with the board" and believes "we can turn things around" despite falling to a sixth loss in eight games following the derby defeat to Rangers.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2057rrkk77o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2057rrkk77o</guid>
-      <pubDate>Sat, 03 Jan 2026 15:55:27 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a421/live/5a7a8ba0-e8c4-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Thelin asks Aberdeen to 'drop egos' after another dismal defeat]]></title>
@@ -185,12 +177,12 @@ A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality c
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8442/live/aeea3420-e8be-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sutton's predictions v singer-songwriter & Newcastle fan Andrew Cushin]]></title>
-      <description><![CDATA[BBC Sport football expert Chris Sutton takes on singer-songwriter & Newcastle fan Andrew Cushin - and AI - with his predictions for this week's Premier League fixtures.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cddg40qzqmjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cddg40qzqmjo</guid>
-      <pubDate>Fri, 02 Jan 2026 18:32:56 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa6e/live/a63c7980-e726-11f0-aae2-2191c0e48a3b.jpg"/>
+      <title><![CDATA['We are together with the board' - Nancy defiant after Celtic loss]]></title>
+      <description><![CDATA[Celtic manager Wilfried Nancy insists he is still "together with the board" and believes "we can turn things around" despite falling to a sixth loss in eight games following the derby defeat to Rangers.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2057rrkk77o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2057rrkk77o</guid>
+      <pubDate>Sat, 03 Jan 2026 15:55:27 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a421/live/5a7a8ba0-e8c4-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[West Ham closing in on Juventus defender Cascarino]]></title>
@@ -217,6 +209,14 @@ A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality c
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adc6/live/06fac390-e8d9-11f0-9ca9-bb676ea60a08.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Burnley lacked belief in defeat at Brighton - Parker]]></title>
+      <description><![CDATA[Burnley boss Scott Parker says his side "lacked belief" as they fall to their ninth defeat in 11 Premier League games at Brighton. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g4vwvdpezo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g4vwvdpezo</guid>
+      <pubDate>Sat, 03 Jan 2026 19:01:46 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e61/live/948ed020-e8d9-11f0-a8dc-93c15fe68710.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['I needed them and they were there' - when young players find new homes]]></title>
       <description><![CDATA[BBC Sport explores how young footballers build bonds with second families when they leave home to sign for a new club on their path to the top.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdj80vegz28o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -225,12 +225,12 @@ A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality c
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438b/live/74021b60-e568-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Burnley lacked belief in defeat at Brighton - Parker]]></title>
-      <description><![CDATA[Burnley boss Scott Parker says his side "lacked belief" as they fall to their ninth defeat in 11 Premier League games at Brighton. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g4vwvdpezo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g4vwvdpezo</guid>
-      <pubDate>Sat, 03 Jan 2026 19:01:46 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e61/live/948ed020-e8d9-11f0-a8dc-93c15fe68710.jpg"/>
+      <title><![CDATA['Good idea' or taking 'massive chance' - is Rosenior ready for Chelsea?]]></title>
+      <description><![CDATA[Liam Rosenior is the leading candidate to become the Chelsea manager. BBC Sport looks at the reasons why.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1503xx5vj4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1503xx5vj4o</guid>
+      <pubDate>Fri, 02 Jan 2026 14:13:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbff/live/72563cf0-e7d5-11f0-ab5d-b546e7209f13.jpg"/>
     </item>
     <item>
       <title><![CDATA['Whirlwind' 24 hours - McFarlane ready for Chelsea chance]]></title>
@@ -241,12 +241,12 @@ A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality c
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c452/live/1d6ef270-e7e6-11f0-b44a-2d5156cff513.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Good idea' or taking 'massive chance' - is Rosenior ready for Chelsea?]]></title>
-      <description><![CDATA[Liam Rosenior is the leading candidate to become the Chelsea manager. BBC Sport looks at the reasons why.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1503xx5vj4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1503xx5vj4o</guid>
-      <pubDate>Fri, 02 Jan 2026 14:13:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbff/live/72563cf0-e7d5-11f0-ab5d-b546e7209f13.jpg"/>
+      <title><![CDATA[Sutton's predictions v singer-songwriter & Newcastle fan Andrew Cushin]]></title>
+      <description><![CDATA[BBC Sport football expert Chris Sutton takes on singer-songwriter & Newcastle fan Andrew Cushin - and AI - with his predictions for this week's Premier League fixtures.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cddg40qzqmjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cddg40qzqmjo</guid>
+      <pubDate>Fri, 02 Jan 2026 18:32:56 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa6e/live/a63c7980-e726-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[McFarlane to take on Guardiola - but who is he?]]></title>
@@ -273,12 +273,12 @@ A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality c
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/463d/live/a0373ce0-e7ef-11f0-83f0-2f5e73d2f960.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Hoban scores six in Glens win as Blues beat Bangor]]></title>
-      <description><![CDATA[Striker Pat Hoban scores six goals as a rampant Glentoran thump 10-man Carrick Rangers 7-0 at Taylors Avenue while there are also wins for Linfield and Crusaders in the Irish Premiership on Saturday.]]></description>
-      <link>https://www.bbc.com/sport/articles/cy4gnez7dl8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cy4gnez7dl8o</guid>
-      <pubDate>Sat, 03 Jan 2026 16:55:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc5/live/e2bdc310-e8bf-11f0-a780-1d7a0a9fc5d9.jpg"/>
+      <title><![CDATA[Johnson 'excited to join Palace journey' after £35m move]]></title>
+      <description><![CDATA[Brennan Johnson is set to be included in Crystal Palace's squad to face Newcastle on Sunday after his club-record £35m move from Tottenham was finalised on Friday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c75x6936pgvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c75x6936pgvo</guid>
+      <pubDate>Fri, 02 Jan 2026 15:58:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36b4/live/defc82f0-e7db-11f0-ab5d-b546e7209f13.jpg"/>
     </item>
     <item>
       <title><![CDATA[To finish without a point is frustrating - Iraola]]></title>
@@ -329,12 +329,12 @@ A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality c
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f16/live/bcbb1270-e5a0-11f0-8bbe-6935d94eeebc.png"/>
     </item>
     <item>
-      <title><![CDATA[Johnson 'excited to join Palace journey' after £35m move]]></title>
-      <description><![CDATA[Brennan Johnson is set to be included in Crystal Palace's squad to face Newcastle on Sunday after his club-record £35m move from Tottenham was finalised on Friday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c75x6936pgvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c75x6936pgvo</guid>
-      <pubDate>Fri, 02 Jan 2026 15:58:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36b4/live/defc82f0-e7db-11f0-ab5d-b546e7209f13.jpg"/>
+      <title><![CDATA[Hoban scores six in Glens win as Blues beat Bangor]]></title>
+      <description><![CDATA[Striker Pat Hoban scores six goals as a rampant Glentoran thump 10-man Carrick Rangers 7-0 at Taylors Avenue while there are also wins for Linfield and Crusaders in the Irish Premiership on Saturday.]]></description>
+      <link>https://www.bbc.com/sport/articles/cy4gnez7dl8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cy4gnez7dl8o</guid>
+      <pubDate>Sat, 03 Jan 2026 16:55:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc5/live/e2bdc310-e8bf-11f0-a780-1d7a0a9fc5d9.jpg"/>
     </item>
     <item>
       <title><![CDATA[West Ham sign Brazilian forward Pablo Felipe]]></title>
@@ -345,28 +345,20 @@ A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality c
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a43b/live/ab2feb80-e81f-11f0-85c2-8da3d32a6611.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Wales hope 'genius' Bellamy stays amid club interest]]></title>
-      <description><![CDATA[Wales head coach Craig Bellamy is attracting interest from clubs - but FAW boss Noel Mooney hopes he will stay until Euro 2028.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yje6v35pxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yje6v35pxo</guid>
-      <pubDate>Fri, 02 Jan 2026 11:27:17 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc3f/live/ec0f2bb0-dcf9-11f0-b936-bbd75bfb2f25.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Liverpool agree deal for midfielder Bergstrom]]></title>
-      <description><![CDATA[Liverpool agree a deal with Swedish side BK Hacken for midfielder Alice Bergstrom for an undisclosed fee.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdrejpp1jpro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdrejpp1jpro</guid>
-      <pubDate>Fri, 02 Jan 2026 14:10:24 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b66a/live/ad7c55b0-e7e1-11f0-b44a-2d5156cff513.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Ayr one of seven SPFL games off because of snow & ice]]></title>
       <description><![CDATA[Five of this weekend's SPFL matches have been postponed because of freezing weather across Scotland with further pitch inspections to follow on Saturday.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdjne4ezyd8o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjne4ezyd8o</guid>
       <pubDate>Sat, 03 Jan 2026 14:12:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b08b/live/c7511830-e800-11f0-9c3d-2959bd14fc02.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Eight men's footballers hoping for a big 2026]]></title>
+      <description><![CDATA[BBC Sport looks at some of the players hoping for a big 2026 for various reasons.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c70rjq0x728o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70rjq0x728o</guid>
+      <pubDate>Thu, 01 Jan 2026 08:44:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6f0/live/ad22a9a0-e644-11f0-aae2-2191c0e48a3b.png"/>
     </item>
     <item>
       <title><![CDATA[Burnley's lack of belief 'worrying' - Parker]]></title>
@@ -535,6 +527,14 @@ A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality c
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g35ev479do</guid>
       <pubDate>Fri, 02 Jan 2026 09:02:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19f4/live/93e13f40-e75e-11f0-9302-f3ab4dc3b713.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Liverpool agree deal for midfielder Bergstrom]]></title>
+      <description><![CDATA[Liverpool agree a deal with Swedish side BK Hacken for midfielder Alice Bergstrom for an undisclosed fee.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdrejpp1jpro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdrejpp1jpro</guid>
+      <pubDate>Fri, 02 Jan 2026 14:10:24 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b66a/live/ad7c55b0-e7e1-11f0-b44a-2d5156cff513.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wilkinson hoping Fishlock will join Wales staff]]></title>
