@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 04 Jan 2026 16:52:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 17:16:47 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -24,14 +24,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2133/live/e9253840-e988-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
-      <title><![CDATA['When has it ever been this bad?' - McCowan haunted by Celtic form]]></title>
-      <description><![CDATA[Luke McCowan asks "when has it ever been this bad?" in the wake of Celtic's 3-1 home defeat by Rangers on Saturday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly9v04ek67o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly9v04ek67o</guid>
-      <pubDate>Sun, 04 Jan 2026 14:37:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87f2/live/c175c920-e976-11f0-8d69-9f0dae13c5ba.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[A tough match in tough conditions - Amorim ]]></title>
       <description><![CDATA[Manchester United manager Ruben Amorim says "it's hard to find a game where it is satisfying to draw" after their game at Leeds finished 1-1 but says his side played well in "a tough match in tough conditions".]]></description>
       <link>https://www.bbc.com/sport/football/videos/c394klzpejko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -40,12 +32,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4c4/live/1b2a1f80-e97b-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Special' Moore always stood out - Defoe]]></title>
-      <description><![CDATA[Former Ibrox forward Jermain Defoe played a role in Mikey Moore arriving at Ibrox.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8e5k07y3wgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8e5k07y3wgo</guid>
-      <pubDate>Sun, 04 Jan 2026 14:37:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d78/live/23fc3ae0-e97a-11f0-8858-73f2ecc1c262.jpg"/>
+      <title><![CDATA['When has it ever been this bad?' - McCowan haunted by Celtic form]]></title>
+      <description><![CDATA[Luke McCowan asks "when has it ever been this bad?" in the wake of Celtic's 3-1 home defeat by Rangers on Saturday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly9v04ek67o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly9v04ek67o</guid>
+      <pubDate>Sun, 04 Jan 2026 14:37:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87f2/live/c175c920-e976-11f0-8d69-9f0dae13c5ba.jpg"/>
     </item>
     <item>
       <title><![CDATA[Farke 'disappointed' with draw against Man Utd ]]></title>
@@ -96,6 +88,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6169/live/87d6bea0-e8f3-11f0-b67b-690eb873de1b.png"/>
     </item>
     <item>
+      <title><![CDATA['Special' Moore always stood out - Defoe]]></title>
+      <description><![CDATA[Former Ibrox forward Jermain Defoe played a role in Mikey Moore arriving at Ibrox.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8e5k07y3wgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8e5k07y3wgo</guid>
+      <pubDate>Sun, 04 Jan 2026 14:37:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d78/live/23fc3ae0-e97a-11f0-8858-73f2ecc1c262.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[McFarlane to take on Guardiola - but who is he?]]></title>
       <description><![CDATA[Chelsea Under-21 head coach Calum McFarlane is set to take charge of the Premier League trip to Manchester City.]]></description>
       <link>https://www.bbc.com/sport/articles/crml231p1zro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -112,29 +112,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/731f/live/f750dfc0-e8e6-11f0-936c-19c35f0ff3e5.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Shocking, pathetic and embarrassing' - can Nuno save West Ham?]]></title>
-      <description><![CDATA[For West Ham and Nuno Espirito Santo, the picture looks bleak. 
-A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality check for the struggling Hammers.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy8p75pxyjzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8p75pxyjzo</guid>
-      <pubDate>Sat, 03 Jan 2026 20:35:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68f3/live/c9e29010-e8d2-11f0-afd0-e7d4ff442b4b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Spurs sign Chelsea's Hamano on loan until June]]></title>
       <description><![CDATA[Tottenham complete the signing of Chelsea's Maika Hamano on loan until the end of the season.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdjn34zeljmo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjn34zeljmo</guid>
       <pubDate>Sun, 04 Jan 2026 11:49:32 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45be/live/1a5d14e0-e962-11f0-b870-5bc7219b84d6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hull & Sheff Utd fixtures among 17 EFL games off]]></title>
-      <description><![CDATA[Hull's game against Watford becomes the latest English Football League fixture on Sunday to be postponed because of freezing conditions.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c394nmkldego?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c394nmkldego</guid>
-      <pubDate>Sun, 04 Jan 2026 15:26:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aca7/live/a0c21e00-e97f-11f0-9d55-758d47cc7ae3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rice strikes twice as Arsenal beat Bournemouth]]></title>
@@ -169,6 +152,23 @@ A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality c
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8442/live/aeea3420-e8be-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Shocking, pathetic and embarrassing' - can Nuno save West Ham?]]></title>
+      <description><![CDATA[For West Ham and Nuno Espirito Santo, the picture looks bleak. 
+A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality check for the struggling Hammers.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy8p75pxyjzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8p75pxyjzo</guid>
+      <pubDate>Sat, 03 Jan 2026 20:35:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68f3/live/c9e29010-e8d2-11f0-afd0-e7d4ff442b4b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Hull & Sheff Utd fixtures among 17 EFL games off]]></title>
+      <description><![CDATA[Hull's game against Watford becomes the latest English Football League fixture on Sunday to be postponed because of freezing conditions.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c394nmkldego?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c394nmkldego</guid>
+      <pubDate>Sun, 04 Jan 2026 15:26:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aca7/live/a0c21e00-e97f-11f0-9d55-758d47cc7ae3.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Haunted Nancy detached from reality as Celtic's lights go out']]></title>
       <description><![CDATA[BBC Sport Scotland's chief sports writer dissects the outcome of Saturday's Old Firm defeat for Celtic.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c79rzlrg9z2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -183,14 +183,6 @@ A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality c
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgrd0xj1r4go</guid>
       <pubDate>Sat, 03 Jan 2026 16:31:57 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c3/live/55013f90-e8c2-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Six points clear but still 'more to come' from Hearts]]></title>
-      <description><![CDATA[After Hearts battled past Livingston to move six points clear at the top of the Scottish Premiership, manager Derek McInnes says there is 'more to come' as new players arrive.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c7v031elml4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7v031elml4o</guid>
-      <pubDate>Sat, 03 Jan 2026 20:24:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7ef/live/99dc2a30-e8db-11f0-9ca9-bb676ea60a08.jpg"/>
     </item>
     <item>
       <title><![CDATA[West Ham closing in on Juventus defender Cascarino]]></title>
@@ -217,6 +209,14 @@ A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality c
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fe1/live/69cc2200-e8d1-11f0-afd0-e7d4ff442b4b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Six points clear but still 'more to come' from Hearts]]></title>
+      <description><![CDATA[After Hearts battled past Livingston to move six points clear at the top of the Scottish Premiership, manager Derek McInnes says there is 'more to come' as new players arrive.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c7v031elml4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7v031elml4o</guid>
+      <pubDate>Sat, 03 Jan 2026 20:24:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7ef/live/99dc2a30-e8db-11f0-9ca9-bb676ea60a08.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['We are together with the board' - Nancy defiant after Celtic loss]]></title>
       <description><![CDATA[Celtic manager Wilfried Nancy insists he is still "together with the board" and believes "we can turn things around" despite falling to a sixth loss in eight games following the derby defeat to Rangers.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c2057rrkk77o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -241,20 +241,20 @@ A hapless 3-0 defeat by bottom side Wolves on Saturday came as a stark reality c
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e61/live/948ed020-e8d9-11f0-a8dc-93c15fe68710.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How far can Askou's 'extremely ambitious' Motherwell go?]]></title>
-      <description><![CDATA[After backing up their "sexy" result against Celtic with victory over St Mirren, how far can this "extremely ambitious" Motherwell side go?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2lg9xywr2vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2lg9xywr2vo</guid>
-      <pubDate>Sat, 03 Jan 2026 20:48:43 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adc6/live/06fac390-e8d9-11f0-9ca9-bb676ea60a08.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['I needed them and they were there' - when young players find new homes]]></title>
       <description><![CDATA[BBC Sport explores how young footballers build bonds with second families when they leave home to sign for a new club on their path to the top.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdj80vegz28o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdj80vegz28o</guid>
       <pubDate>Sat, 03 Jan 2026 07:39:10 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438b/live/74021b60-e568-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How far can Askou's 'extremely ambitious' Motherwell go?]]></title>
+      <description><![CDATA[After backing up their "sexy" result against Celtic with victory over St Mirren, how far can this "extremely ambitious" Motherwell side go?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2lg9xywr2vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2lg9xywr2vo</guid>
+      <pubDate>Sat, 03 Jan 2026 20:48:43 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adc6/live/06fac390-e8d9-11f0-9ca9-bb676ea60a08.jpg"/>
     </item>
     <item>
       <title><![CDATA['Good idea' or taking 'massive chance' - is Rosenior ready for Chelsea?]]></title>
