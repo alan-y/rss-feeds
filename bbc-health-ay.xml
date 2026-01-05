@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 09:00:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 09:43:00 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Junk food TV and online advert ban comes into force]]></title>
+      <description><![CDATA[Soft drinks, chocolate, pizzas and ice creams will be targeted in the UK government's plan.]]></description>
+      <link>https://www.bbc.com/news/articles/cq5y2vzlyldo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq5y2vzlyldo</guid>
+      <pubDate>Mon, 05 Jan 2026 04:52:29 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86bc/live/98770590-e983-11f0-9d55-758d47cc7ae3.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Wellbeing 2026: Recovery, JOMO and brain boosting supplements]]></title>
       <description><![CDATA[Wellness is a multi-trillion pound industry which continues to grow - and this year is less about maxing out, more about recovering well.]]></description>
@@ -30,6 +38,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cly5z0jz4k4o</guid>
       <pubDate>Fri, 02 Jan 2026 12:02:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49b1/live/722fa750-e7c3-11f0-a8dc-93c15fe68710.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Surgeon who 'stripped naked in cubicle' struck off]]></title>
+      <description><![CDATA[The doctor was working at the Queen Alexandra Hospital in Portsmouth when the incidents happened.]]></description>
+      <link>https://www.bbc.com/news/articles/c4g4nvl081zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g4nvl081zo</guid>
+      <pubDate>Mon, 05 Jan 2026 06:09:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3c0/live/2e3eac30-e3f4-11f0-aae2-2191c0e48a3b.png"/>
     </item>
     <item>
       <title><![CDATA[Chickenpox vaccines for young children start across UK]]></title>
@@ -54,30 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/czj0wr012dxo</guid>
       <pubDate>Wed, 31 Dec 2025 00:03:29 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e2/live/6c51dc30-e594-11f0-a8dc-93c15fe68710.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hospitals warned end-of-life care crisis threatening treatment]]></title>
-      <description><![CDATA[A rising number of patients in hospitals could affect the level of treatment carried out this winter, a group of regional NHS leaders have been told.]]></description>
-      <link>https://www.bbc.com/news/articles/c0l93dpl6dyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0l93dpl6dyo</guid>
-      <pubDate>Mon, 29 Dec 2025 14:24:27 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8429/live/96bd1540-e40c-11f0-8895-9b886f4cd2ed.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Flu cases falling ahead of Christmas, experts say]]></title>
-      <description><![CDATA[UK health agency says drop is encouraging news, but warns flu could still bounce back in new year.]]></description>
-      <link>https://www.bbc.com/news/articles/c3e0qpxzwe7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3e0qpxzwe7o</guid>
-      <pubDate>Wed, 24 Dec 2025 15:01:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a145/live/7c53aff0-e0e4-11f0-a8dc-93c15fe68710.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Christmas can be a nightmare for misophonia sufferers like me ]]></title>
-      <description><![CDATA[Christmas is a difficult time if you suffer from a reduced tolerance to sounds, but there are ways to make it easier. ]]></description>
-      <link>https://www.bbc.com/news/articles/c04vx47gx91o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c04vx47gx91o</guid>
-      <pubDate>Wed, 24 Dec 2025 00:24:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5717/live/19eacbb0-dcd8-11f0-81cc-998682630b3d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
@@ -166,6 +158,22 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cy47p5vnyn0o</guid>
       <pubDate>Mon, 01 Dec 2025 06:28:38 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e58/live/52c06560-cde9-11f0-a750-a3ce41dc0968.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Christmas can be a nightmare for misophonia sufferers like me ]]></title>
+      <description><![CDATA[Christmas is a difficult time if you suffer from a reduced tolerance to sounds, but there are ways to make it easier. ]]></description>
+      <link>https://www.bbc.com/news/articles/c04vx47gx91o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c04vx47gx91o</guid>
+      <pubDate>Wed, 24 Dec 2025 00:24:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5717/live/19eacbb0-dcd8-11f0-81cc-998682630b3d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Hospitals warned end-of-life care crisis threatening treatment]]></title>
+      <description><![CDATA[A rising number of patients in hospitals could affect the level of treatment carried out this winter, a group of regional NHS leaders have been told.]]></description>
+      <link>https://www.bbc.com/news/articles/c0l93dpl6dyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0l93dpl6dyo</guid>
+      <pubDate>Mon, 29 Dec 2025 14:24:27 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8429/live/96bd1540-e40c-11f0-8895-9b886f4cd2ed.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hospitals working to get patients home for Christmas after five-day doctor strike]]></title>
@@ -313,22 +321,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2pvxdn9v4o</guid>
       <pubDate>Mon, 08 Dec 2025 07:49:01 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d561/live/8d077230-d1fa-11f0-a732-cbe19f3047f2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Partial victory for nurse in NHS trans changing room row]]></title>
-      <description><![CDATA[A tribunal said NHS Fife harassed Sandie Peggie but dismissed other claims she made against the health board and a transgender doctor.]]></description>
-      <link>https://www.bbc.com/news/articles/c36zk0p7xlgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c36zk0p7xlgo</guid>
-      <pubDate>Mon, 08 Dec 2025 20:17:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e753/live/f21f5ab0-d462-11f0-9aed-598bbb04d197.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Masks to be worn in three hospitals as flu cases surge]]></title>
-      <description><![CDATA[Frimley Health NHS Trust is the latest to reintroduce masks as UK hospitals come under strain.]]></description>
-      <link>https://www.bbc.com/news/articles/crmdekv8d48o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/crmdekv8d48o</guid>
-      <pubDate>Tue, 09 Dec 2025 07:48:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a67c/live/5ed97c30-d47c-11f0-b433-753c64b53a9c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Much of £11bn Covid scheme fraud 'beyond recovery', report says]]></title>
