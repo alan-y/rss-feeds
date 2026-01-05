@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 18:59:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 19:26:56 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['Not quite physically ready' - Djokovic out of Adelaide]]></title>
+      <description><![CDATA[Novak Djokovic withdraws from his planned Australian Open warm-up tournament as he is "not quite physically ready to compete".]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c8d0q0dq3e8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c8d0q0dq3e8o</guid>
+      <pubDate>Mon, 05 Jan 2026 18:58:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de21/live/952c2f30-ea66-11f0-b385-5f48925de19a.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Returning Raducanu unable to prevent GB's United Cup exit]]></title>
       <description><![CDATA[Emma Raducanu loses on her return from a foot injury as Great Britain are eliminated from the United Cup with a group-stage defeat by Greece.]]></description>
@@ -40,28 +48,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ba8/live/f693e090-ea13-11f0-9dba-414db1f4c9e8.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Djokovic cuts ties with player union he co-founded]]></title>
-      <description><![CDATA[Novak Djokovic says he has ended his involvement with the Professional Tennis Players Association that he co-founded, expressing concerns over "transparency and governance".]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c99kxve5e3do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c99kxve5e3do</guid>
-      <pubDate>Mon, 05 Jan 2026 06:50:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8958/live/28fdb280-e9b6-11f0-ad24-df12b1766785.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['We need to protect players' - how can tennis avoid breaking point?]]></title>
-      <description><![CDATA[With the 2026 tennis season kicking off, BBC Sport analyses why many top players are complaining about burnout and what could be done to prevent it.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c0r999nk5eko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c0r999nk5eko</guid>
-      <pubDate>Fri, 02 Jan 2026 14:10:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d560/live/d2cb9950-e4b4-11f0-bb8c-f5410179a19a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Kyrgios defeats Sabalenka in 'Battle of the Sexes']]></title>
       <description><![CDATA[Watch the best moments between Aryna Sabalenka and Nick Kyrgios at the Battle of the Sexes in Dubai.]]></description>
       <link>https://www.bbc.com/sport/tennis/videos/c62npyp99rko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/c62npyp99rko</guid>
       <pubDate>Sun, 28 Dec 2025 19:05:22 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c64/live/2da7e340-e41c-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Djokovic cuts ties with player union he co-founded]]></title>
+      <description><![CDATA[Novak Djokovic says he has ended his involvement with the Professional Tennis Players Association that he co-founded, expressing concerns over "transparency and governance".]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c99kxve5e3do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c99kxve5e3do</guid>
+      <pubDate>Mon, 05 Jan 2026 06:50:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8958/live/28fdb280-e9b6-11f0-ad24-df12b1766785.jpg"/>
     </item>
     <item>
       <title><![CDATA[Venus Williams, 45, gets Australian Open wildcard]]></title>
@@ -102,6 +102,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cdjnepdrx90o</guid>
       <pubDate>Fri, 02 Jan 2026 13:27:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35f0/live/0e0db9c0-e7db-11f0-ab5d-b546e7209f13.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['We need to protect players' - how can tennis avoid breaking point?]]></title>
+      <description><![CDATA[With the 2026 tennis season kicking off, BBC Sport analyses why many top players are complaining about burnout and what could be done to prevent it.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c0r999nk5eko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c0r999nk5eko</guid>
+      <pubDate>Fri, 02 Jan 2026 14:10:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d560/live/d2cb9950-e4b4-11f0-bb8c-f5410179a19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Tsitsipas considered retirement in injury-hit 2025]]></title>
@@ -152,20 +160,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc85/live/ad1902a0-e294-11f0-a808-0160681e8554.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Kyrgios set to make ATP Tour return at  Brisbane]]></title>
-      <description><![CDATA[Nick Kyrgios is in line to play his first ATP Tour match in 10 months after being given a wildcard entry for next month's Brisbane International.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c62v1dl4rpyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c62v1dl4rpyo</guid>
-      <pubDate>Sun, 21 Dec 2025 09:06:08 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c0/live/89be62e0-de49-11f0-92d0-0f29d96dc1dc.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Who could challenge Sinner and Alcaraz in 2026?]]></title>
       <description><![CDATA[After Carlos Alcaraz and Jannik Sinner swept the Grand Slams again, BBC Sport analyses who might stop them in 2026 - and you can have your say.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c2kp74gxpe7o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c2kp74gxpe7o</guid>
       <pubDate>Wed, 17 Dec 2025 08:10:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30c5/live/28729df0-c632-11f0-9ad1-dbbd54dbf5de.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Kyrgios set to make ATP Tour return at  Brisbane]]></title>
+      <description><![CDATA[Nick Kyrgios is in line to play his first ATP Tour match in 10 months after being given a wildcard entry for next month's Brisbane International.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c62v1dl4rpyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c62v1dl4rpyo</guid>
+      <pubDate>Sun, 21 Dec 2025 09:06:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c0/live/89be62e0-de49-11f0-92d0-0f29d96dc1dc.jpg"/>
     </item>
     <item>
       <title><![CDATA['I still have dreams' - Wawrinka to retire after 2026]]></title>
@@ -206,14 +214,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/ce3wx5nq75eo</guid>
       <pubDate>Thu, 11 Dec 2025 07:02:19 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ceb/live/93a77b20-d606-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[WTA signs with Mercedes in 'most significant deal in our history']]></title>
-      <description><![CDATA[The Women's Tennis Association announces a long-term partnership with Mercedes-Benz that has the potential to be the largest in women's sport.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c14vek7e4x7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c14vek7e4x7o</guid>
-      <pubDate>Wed, 10 Dec 2025 15:30:22 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf0b/live/093f5c20-d5f0-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[1973 Battle of the Sexes was about social change - King]]></title>
