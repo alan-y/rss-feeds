@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 13:58:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 14:29:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -70,6 +70,38 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cly5z0jz4k4o</guid>
       <pubDate>Fri, 02 Jan 2026 12:02:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49b1/live/722fa750-e7c3-11f0-a8dc-93c15fe68710.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How do cold weather health alerts work?]]></title>
+      <description><![CDATA[The weather alert service warns the public when high or low temperatures could damage their health.]]></description>
+      <link>https://www.bbc.com/news/articles/cd97dkx9g38o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cd97dkx9g38o</guid>
+      <pubDate>Tue, 06 Jan 2026 08:09:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcf/live/43e68de0-c456-11f0-8669-5560f5c90fbe.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Vitamin pills and icy swims: Can you really boost your immune system?]]></title>
+      <description><![CDATA[After being struck down by winter illness, the BBC's James Gallagher goes in search of ways to boost his immune system.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2m8d44v4go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2m8d44v4go</guid>
+      <pubDate>Sun, 09 Feb 2025 02:51:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c65/live/073dc5a0-e583-11ef-a319-fb4e7360c4ec.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How to keep babies warm in cold weather and other winter tips]]></title>
+      <description><![CDATA[As temperatures fall across much of the UK, the best ways to keep people and pets warm and dry. ]]></description>
+      <link>https://www.bbc.com/news/articles/crklgj3mej4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/crklgj3mej4o</guid>
+      <pubDate>Fri, 02 Jan 2026 10:27:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/597b/live/ed0907f0-c482-11f0-9b68-57906bffd3ed.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What does an unheated room do to your body?]]></title>
+      <description><![CDATA[The BBC's health and science correspondent undergoes an experiment to find out how a cold home affects him.]]></description>
+      <link>https://www.bbc.co.uk/news/health-63602501?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/health-63602501</guid>
+      <pubDate>Sat, 19 Nov 2022 01:11:29 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6BB4/production/_127727572_zz1200gettyimages-862251050.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
@@ -489,14 +521,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c1w9jg89glro</guid>
       <pubDate>Tue, 25 Nov 2025 14:33:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaa9/live/edad1610-c9e6-11f0-8c06-f5d460985095.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How do cold weather health alerts work?]]></title>
-      <description><![CDATA[The weather alert service warns the public when high or low temperatures could damage their health.]]></description>
-      <link>https://www.bbc.com/news/articles/cd97dkx9g38o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cd97dkx9g38o</guid>
-      <pubDate>Tue, 06 Jan 2026 08:09:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcf/live/43e68de0-c456-11f0-8669-5560f5c90fbe.jpg"/>
     </item>
     <item>
       <title><![CDATA[NHS tracker - are hospital waiting times improving near you?]]></title>
