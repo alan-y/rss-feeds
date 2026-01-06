@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 08:30:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:59:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Nvidia unveils 'reasoning' AI technology for self-driving cars]]></title>
+      <description><![CDATA[The chip giant is partnering with Mercedes-Benz to launch a driverless car powered by its 'Alpamayo' tech.]]></description>
+      <link>https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jv1vd571wo</guid>
+      <pubDate>Tue, 06 Jan 2026 03:41:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295d/live/a5a12330-eab0-11f0-a636-7915f3591f99.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Ofcom asks X about reports its Grok AI makes sexualised images of children]]></title>
       <description><![CDATA[Elon Musk's social media platform has warned users not to use Grok to generate illegal content.]]></description>
@@ -254,22 +262,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y2kgdq6r3o</guid>
       <pubDate>Mon, 15 Dec 2025 11:41:43 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98b2/live/e1d45540-d99c-11f0-9980-0198ec088b58.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Roomba vacuum cleaner firm files for bankruptcy]]></title>
-      <description><![CDATA[Under the so-called pre-packaged Chapter 11 process, the main maker of its devices will take ownership of the firm.]]></description>
-      <link>https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1lr75lp239o</guid>
-      <pubDate>Mon, 15 Dec 2025 07:47:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beb0/live/0abd32f0-d9a8-11f0-a8dc-93c15fe68710.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Grand Theft Auto game creator sacked us for trying to unionise]]></title>
-      <description><![CDATA[Former staff at the Grand Theft Auto creator are seeking an employment tribunal over alleged "union-busting".]]></description>
-      <link>https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp89990rgdno</guid>
-      <pubDate>Mon, 15 Dec 2025 10:21:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34f6/live/bfc01070-d77b-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[The showers and baths keeping data centre tech cool]]></title>
