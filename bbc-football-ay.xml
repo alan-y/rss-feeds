@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 07:42:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:30:03 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -72,28 +72,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c536/live/0182c900-ea35-11f0-b5f7-49f0357294ff.png"/>
     </item>
     <item>
-      <title><![CDATA['Amorim's toxic exit the latest chaotic chapter in Ratcliffe's reign']]></title>
-      <description><![CDATA[Ruben Amorim's acrimonious exit is the latest example of Manchester United's chaos and instability under Sir Jim Ratcliffe, says Phil McNulty.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2gnjkmppdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2gnjkmppdo</guid>
-      <pubDate>Mon, 05 Jan 2026 13:33:58 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/227f/live/42a38d70-ea30-11f0-a51b-1b8a77859bc4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Man City's Gvardiol to have surgery on broken shinbone]]></title>
       <description><![CDATA[Manchester City defender Josko Gvardiol will have surgery later this week after breaking his shinbone during Sunday's 1-1 Premier League draw with Chelsea. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c98p3qdlyeno?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98p3qdlyeno</guid>
       <pubDate>Mon, 05 Jan 2026 20:48:13 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0038/live/7a827b90-ea6a-11f0-abe2-ab0fb32e3a9d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How Nancy's calamitous 33-day reign unfolded at Celtic]]></title>
-      <description><![CDATA[BBC Sport takes an amble through Wilfried Nancy's short tenure as Celtic manager.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj9ypn21k3jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj9ypn21k3jo</guid>
-      <pubDate>Mon, 05 Jan 2026 16:05:30 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a958/live/d30b8850-e971-11f0-8d69-9f0dae13c5ba.jpg"/>
     </item>
     <item>
       <title><![CDATA[The ups and downs of Amorim's reign in five matches]]></title>
@@ -134,6 +118,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy8pyy7zmv8o</guid>
       <pubDate>Mon, 05 Jan 2026 00:00:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f31/live/6c86f400-e9c8-11f0-a8dc-93c15fe68710.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How Nancy's calamitous 33-day reign unfolded at Celtic]]></title>
+      <description><![CDATA[BBC Sport takes an amble through Wilfried Nancy's short tenure as Celtic manager.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj9ypn21k3jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj9ypn21k3jo</guid>
+      <pubDate>Mon, 05 Jan 2026 16:05:30 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a958/live/d30b8850-e971-11f0-8d69-9f0dae13c5ba.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Amorim's toxic exit the latest chaotic chapter in Ratcliffe's reign']]></title>
+      <description><![CDATA[Ruben Amorim's acrimonious exit is the latest example of Manchester United's chaos and instability under Sir Jim Ratcliffe, says Phil McNulty.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2gnjkmppdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2gnjkmppdo</guid>
+      <pubDate>Mon, 05 Jan 2026 13:33:58 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/227f/live/42a38d70-ea30-11f0-a51b-1b8a77859bc4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Who could be the next permanent Man Utd manager?]]></title>
@@ -201,14 +201,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d49a/live/ff06b8d0-e9ad-11f0-8769-0fadb2bc6a71.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Can you name every Man Utd boss since Ferguson?]]></title>
-      <description><![CDATA[With Ruben Amorim leaving, we ask: Can you name every manager or head coach to lead Manchester United since Sir Alex Ferguson's retirement in 2013?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd6w07eey9wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd6w07eey9wo</guid>
-      <pubDate>Mon, 05 Jan 2026 15:25:33 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dbd/live/4c4424f0-ea46-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Celtic sack manager Nancy after eight games]]></title>
       <description><![CDATA[Celtic sack manager Wilfried Nancy after just 33 days in charge - with head of football operations Paul Tisdale also dismissed.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ckgk9g2500no?at_medium=RSS&amp;at_campaign=rss</link>
@@ -231,14 +223,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62w38206pko</guid>
       <pubDate>Mon, 05 Jan 2026 10:00:15 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83d4/live/972bebe0-ea1b-11f0-a258-11bf68011d10.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ex-Burnley and England keeper McDonald dies aged 95]]></title>
-      <description><![CDATA[Former Burnley goalkeeper Colin McDonald, who also played eight times for England, including at the 1958 World Cup, dies aged 95.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c701e8gzvpko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c701e8gzvpko</guid>
-      <pubDate>Mon, 05 Jan 2026 13:15:03 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7e/live/f591d6e0-ea34-11f0-8294-25e87582e814.jpg"/>
     </item>
     <item>
       <title><![CDATA[City held at home as Chelsea snatch stoppage‑time equaliser]]></title>
@@ -305,6 +289,22 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea72/live/f2cbfe20-ea4a-11f0-a4c4-1d0f54763880.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Ex-Burnley and England keeper McDonald dies aged 95]]></title>
+      <description><![CDATA[Former Burnley goalkeeper Colin McDonald, who also played eight times for England, including at the 1958 World Cup, dies aged 95.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c701e8gzvpko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c701e8gzvpko</guid>
+      <pubDate>Mon, 05 Jan 2026 13:15:03 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a7e/live/f591d6e0-ea34-11f0-8294-25e87582e814.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Can you name every Man Utd boss since Ferguson?]]></title>
+      <description><![CDATA[With Ruben Amorim leaving, we ask: Can you name every manager or head coach to lead Manchester United since Sir Alex Ferguson's retirement in 2013?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd6w07eey9wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd6w07eey9wo</guid>
+      <pubDate>Mon, 05 Jan 2026 15:25:33 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dbd/live/4c4424f0-ea46-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Aberdeen links 'don't turn' Robinson's head]]></title>
       <description><![CDATA[Stephen Robinson says it's "nice" to be linked with the vacant Aberdeen job, but insists his sole focus is on St Mirren's Scottish Premiership trip to Livingston on Tuesday.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwynd170d1go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -345,14 +345,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deb8/live/f8f153d0-e9ab-11f0-a2ef-e79e6de5502a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
-      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwyr3l706pgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyr3l706pgo</guid>
-      <pubDate>Sun, 04 Jan 2026 21:31:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65f9/live/2b6cb7b0-e9ab-11f0-b67b-690eb873de1b.png"/>
-    </item>
-    <item>
       <title><![CDATA[Thelin 'accepts' Aberdeen sacking after winless run]]></title>
       <description><![CDATA[Aberdeen sack manager Jimmy Thelin following a five-match winless run and just eight months on from the club's Scottish Cup win.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g0zgnnqpro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -367,14 +359,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c701ex0xdv9o</guid>
       <pubDate>Mon, 05 Jan 2026 10:02:09 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41df/live/68025d00-ea1a-11f0-a258-11bf68011d10.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['A chance' Chelsea will name new boss on Monday as Rosenior jets in]]></title>
-      <description><![CDATA[Strasbourg boss Liam Rosenior arrives in London for talks about replacing Enzo Maresca as Chelsea head coach.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yq7je4p47o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yq7je4p47o</guid>
-      <pubDate>Sun, 04 Jan 2026 22:17:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/983a/live/96829f10-e9c4-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA['Struggling Frank trapped in gilded cage at joyless Tottenham']]></title>
@@ -433,6 +417,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/942b/live/a23b7190-e9c1-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
+      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwyr3l706pgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyr3l706pgo</guid>
+      <pubDate>Sun, 04 Jan 2026 21:31:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65f9/live/2b6cb7b0-e9ab-11f0-b67b-690eb873de1b.png"/>
+    </item>
+    <item>
       <title><![CDATA[11 EFL players who could be on the move in January]]></title>
       <description><![CDATA[BBC Sport examines some of the leading talent in the EFL likely to be subject to interest and offers over the January transfer window.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cpwn85qw0y0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -455,14 +447,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2dzd789185o</guid>
       <pubDate>Thu, 01 Jan 2026 07:40:50 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e407/live/d0630400-e644-11f0-8786-db2fc8f3a075.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How does Maresca's Chelsea record compare?]]></title>
-      <description><![CDATA[Our Ask Me Anything team explore Enzo Maresca's records as Chelsea manager and how it compared to previous bosses.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0q4zz75gd1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0q4zz75gd1o</guid>
-      <pubDate>Thu, 01 Jan 2026 13:45:21 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8484/live/77e489f0-e70e-11f0-a8dc-93c15fe68710.jpg"/>
     </item>
     <item>
       <title><![CDATA[The best wonderkids outside big five leagues]]></title>
@@ -505,6 +489,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/a93977f0-e749-11f0-aae2-2191c0e48a3b.png"/>
     </item>
     <item>
+      <title><![CDATA[How does Maresca's Chelsea record compare?]]></title>
+      <description><![CDATA[Our Ask Me Anything team explore Enzo Maresca's records as Chelsea manager and how it compared to previous bosses.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0q4zz75gd1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0q4zz75gd1o</guid>
+      <pubDate>Thu, 01 Jan 2026 13:45:21 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8484/live/77e489f0-e70e-11f0-a8dc-93c15fe68710.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Why is the Dundee derby not part of the 3pm blackout?]]></title>
       <description><![CDATA[Our Ask Me Anything team look at why the Dundee derby is being shown on TV despite the 3pm blackout.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2kydypj1go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -537,6 +529,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5931/live/b3910d00-df54-11f0-b67b-690eb873de1b.png"/>
     </item>
     <item>
+      <title><![CDATA[Hearts' Gordon 'not pushing' for loan after talks with McInnes & Clarke]]></title>
+      <description><![CDATA[Veteran Scotland goalkeeper insists he is happy to wait for a chance to regain his Hearts place, while not entirely closing the door on a possible January move.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0r4nxkr2p9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0r4nxkr2p9o</guid>
+      <pubDate>Tue, 06 Jan 2026 08:19:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50ae/live/740cf990-ea86-11f0-b17b-2540be77a67b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Nevin backs Clarke for Celtic job - gossip]]></title>
+      <description><![CDATA[Big name mentioned in connection with Celtic job as Aberdeen receive applications and Rangers winger set for move.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c86vw8l6e6yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c86vw8l6e6yo</guid>
+      <pubDate>Tue, 06 Jan 2026 07:35:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e58/live/e526a700-ead3-11f0-b385-5f48925de19a.png"/>
+    </item>
+    <item>
       <title><![CDATA['Rangers building something with real togetherness']]></title>
       <description><![CDATA[As Rangers bid to go second in the Scottish Premiership, defender John Souttar says everyone at Ibrox can feel momentum, while manager Danny Rohl confirms Dujon Sterling is available to face Aberdeen after being charged with driving offences.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c93v813ngy9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -545,28 +553,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0434/live/5dab2ca0-ea39-11f0-8294-25e87582e814.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Nevin backs Clarke for Celtic job - gossip]]></title>
-      <description><![CDATA[Big name mentioned in connection with Celtic job as Aberdeen receive applications and Rangers winger set for move.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c86vw8l6e6yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c86vw8l6e6yo</guid>
-      <pubDate>Tue, 06 Jan 2026 07:35:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e0/live/7c0ff1e0-e984-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['A lot of people' let Thelin down - Leven]]></title>
       <description><![CDATA[Sacked Aberdeen manager Jimmy Thelin was let down by "a lot of people" but did not lose the Pittodrie dressing room,  according to interim boss Peter Leven.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8x9j9npppdo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8x9j9npppdo</guid>
       <pubDate>Mon, 05 Jan 2026 18:59:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/562f/live/fce06610-ea60-11f0-abe2-ab0fb32e3a9d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Public holiday to celebrate Scotland's World Cup return]]></title>
-      <description><![CDATA[Scotland will face Haiti in Boston on Sunday 14 June before taking on Morocco and Brazil in the US.]]></description>
-      <link>https://www.bbc.com/news/articles/cn42x7yv852o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn42x7yv852o</guid>
-      <pubDate>Mon, 05 Jan 2026 12:14:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9379/live/8ce4a030-ea1d-11f0-aae2-2191c0e48a3b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Morning pitch inspection for Livingston v St Mirren]]></title>
