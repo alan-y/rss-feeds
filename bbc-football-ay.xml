@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 07 Jan 2026 22:20:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 22:42:48 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -34,6 +34,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc96/live/931bad50-ebe8-11f0-9332-4db5e65f7000.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Keane's actions weren't deliberate - Moyes on red card]]></title>
+      <description><![CDATA[Everton manager David Moyes was not happy with the decision for Michael Keane to be sent off as it was "not a deliberate action", but has no sympathy for Jack Grealish who received two quick yellow cards for dissent.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c8e5d8614gjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c8e5d8614gjo</guid>
+      <pubDate>Wed, 07 Jan 2026 22:36:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef1/live/76e932d0-ec18-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Defensively, we are more stable than ever - Guardiola]]></title>
       <description><![CDATA[Manchester City boss Pep Guardiola is pleased with his side's defensive performance highlighting Max Alleyne as "exceptional" in their 1-1 draw at home to Brighton.
 
@@ -43,6 +51,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c79rd4qr8d2o</guid>
       <pubDate>Wed, 07 Jan 2026 22:16:25 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e8/live/b8b7d890-ec15-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Frank reflects on 'extremely painful' result at Bournemouth]]></title>
+      <description><![CDATA[Tottenham Hotspur boss Thomas Frank reflects on "painful" loss to Bournemouth following a stunning late goal from Antoine Semenyo.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cy09828yzkko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy09828yzkko</guid>
+      <pubDate>Wed, 07 Jan 2026 22:36:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7174/live/1c6fb050-ec17-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Late Gibbs-White penalty sinks helpless Hammers]]></title>
@@ -59,22 +75,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c8e5d84048lo</guid>
       <pubDate>Wed, 07 Jan 2026 22:05:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f336/live/10001fb0-ec14-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[West Ham relegation fight 'not over' - Nuno]]></title>
-      <description><![CDATA[West Ham manager Nuno Espirito Santo reflects on his side's defeat by Nottingham Forest, insisting their relegation fight is "not over" with the Hammers seven points adrift of safety.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c77krn5pl32o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c77krn5pl32o</guid>
-      <pubDate>Tue, 06 Jan 2026 23:12:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9871/live/32389520-eb52-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[We had the mentality to get the job done - Dyche]]></title>
-      <description><![CDATA[Nottingham Forest manager Sean Dyche was happy with the "grit and determination" his side showed to come from behind to beat relegation-threatened West Ham.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cr4k6nvx99do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cr4k6nvx99do</guid>
-      <pubDate>Tue, 06 Jan 2026 23:22:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e10/live/7e599b60-eb53-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Carrick and Solskjaer frontrunners for Man Utd caretaker role]]></title>
@@ -120,14 +120,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/601d/live/402f3bb0-ebe9-11f0-8608-ef259671aea9.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Palace would sell Guehi at right price - Glasner]]></title>
-      <description><![CDATA[Crystal Palace manager Oliver Glasner says the club could sell captain Marc Guehi this month if his asking price is met.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3941prmdzpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3941prmdzpo</guid>
-      <pubDate>Wed, 07 Jan 2026 09:59:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a613/live/ec49d170-eba4-11f0-b28e-9b17195bb0de.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Hard to hear' fans call Liverpool dull and boring - Slot]]></title>
       <description><![CDATA[Arne Slot says it is "hard to hear" fans calling his Liverpool side dull and boring and while he does not "completely disagree" he insists he wants to play "attractive football".]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy7mgmp2ymjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -142,6 +134,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp9jn090kv2o</guid>
       <pubDate>Wed, 07 Jan 2026 06:47:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba02/live/503b9320-ea20-11f0-a258-11bf68011d10.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Palace would sell Guehi at right price - Glasner]]></title>
+      <description><![CDATA[Crystal Palace manager Oliver Glasner says the club could sell captain Marc Guehi this month if his asking price is met.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3941prmdzpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3941prmdzpo</guid>
+      <pubDate>Wed, 07 Jan 2026 09:59:01 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a613/live/ec49d170-eba4-11f0-b28e-9b17195bb0de.jpg"/>
     </item>
     <item>
       <title><![CDATA[How set-pieces have underpinned Rangers' revival]]></title>
@@ -168,14 +168,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e14b/live/1db13840-eb2b-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Exeter ask Man City for bigger share of FA Cup money]]></title>
-      <description><![CDATA[Exeter City Supporters' Trust calls on Manchester City to give the club a greater share of the gate receipts from Saturday's FA Cup tie.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1m75jvvpz4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1m75jvvpz4o</guid>
-      <pubDate>Wed, 07 Jan 2026 14:03:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ee/live/0f974e90-ebce-11f0-98c0-b72e1e8ed823.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Findlay 'every inch the Hearts player' - but could Scotland be next?]]></title>
       <description><![CDATA[Stuart Findlay will be sticking around at Hearts, ideal for his club manager and possibly for the the national boss too.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c9qpj5nvq9eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -192,62 +184,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac4/live/f36e3470-ebb1-11f0-a370-2789d390a94d.jpg"/>
     </item>
     <item>
-      <title><![CDATA[City held at home as Chelsea snatch stoppage‑time equaliser]]></title>
-      <description><![CDATA[Enzo Fernandez scores a stoppage-time equaliser as Chelsea end a tumultuous week by claiming a worthy Premier League point at title-chasing Manchester City.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c931pyl797wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c931pyl797wo</guid>
-      <pubDate>Sun, 04 Jan 2026 20:06:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7b/live/55444050-e9a4-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Reed's stoppage‑time strike earns Fulham dramatic draw with Liverpool]]></title>
-      <description><![CDATA[Harrison Reed's superb 97th-minute equaliser earns the hosts a dramatic point, cancelling out Cody Gakpo's goal from just three minutes earlier, as Fulham deny a Liverpool comeback in a Premier League thriller.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/clye34v4y3xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/clye34v4y3xo</guid>
-      <pubDate>Sun, 04 Jan 2026 19:59:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68dd/live/d0498580-e99a-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Brilliant Brobbey goal earns Sunderland late draw as Spurs booed]]></title>
-      <description><![CDATA[Sunderland increase the pressure on Tottenham Hotspur head coach Thomas Frank as Brian Brobbey's late equaliser gives the Black Cats a point.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cy8yx0dnpp8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy8yx0dnpp8o</guid>
-      <pubDate>Sun, 04 Jan 2026 19:59:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/210b/live/d18fe930-e98f-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Second‑half lift sees Newcastle ease past Palace]]></title>
-      <description><![CDATA[Newcastle United climb to ninth in the table, as captain Bruno Guimaraes inspires the hosts to victory with a hard-fought win over Crystal Palace at St James' Park.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c5y483258dro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5y483258dro</guid>
-      <pubDate>Sun, 04 Jan 2026 19:59:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee9/live/43d222a0-e991-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Brentford surge past Everton with thrilling second‑half display]]></title>
-      <description><![CDATA[Igor Thiago scores a hat-trick to end his brief goal drought, as Brentford leapfrog Everton in the Premier League with a comfortable victory at the Hill Dickinson Stadium.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cvgr53n3j1po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvgr53n3j1po</guid>
-      <pubDate>Sun, 04 Jan 2026 19:59:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/593b/live/d5cf59e0-e98a-11f0-a8dc-93c15fe68710.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Leeds denied win as Cunha hits back for Man Utd]]></title>
-      <description><![CDATA[Brenden Aaronson breaks the deadlock, before Matheus Cunha levels just three minutes later, as Leeds and Manchester United share the points at Elland road.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c8d0pjgnpejo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c8d0pjgnpejo</guid>
-      <pubDate>Sun, 04 Jan 2026 19:59:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/981b/live/563611d0-e98d-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Rice strikes twice as Arsenal beat Bournemouth]]></title>
-      <description><![CDATA[Declan Rice scores twice, as Premier League leaders Arsenal come from behind to beat Bournemouth following early error.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/clye34d8lzxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/clye34d8lzxo</guid>
-      <pubDate>Sat, 03 Jan 2026 20:00:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3d3/live/408f79d0-e8d8-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Their dad's the new interim boss - meet Man Utd teenage twins Tyler and Jack Fletcher]]></title>
       <description><![CDATA[BBC Sport profiles twin brothers Tyler and Jack Fletcher, who will hope to get minutes at Manchester United under interim head coach and father Darren]]></description>
       <link>https://www.bbc.com/sport/football/articles/c62w7wdy719o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -256,12 +192,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1a4/live/06c54a50-ebbb-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
-      <title><![CDATA['An impossible task?' Winless run leaves West Ham facing drop]]></title>
-      <description><![CDATA[Booed off the pitch after conceding a late winner at home against their relegation rivals and on a 10-game winless run - these are desperate times for West Ham.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdx4enpg3pvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdx4enpg3pvo</guid>
-      <pubDate>Wed, 07 Jan 2026 00:10:02 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da63/live/39735ff0-eb57-11f0-a9e5-cfa2efc9a29b.jpg"/>
+      <title><![CDATA[Exeter ask Man City for bigger share of FA Cup money]]></title>
+      <description><![CDATA[Exeter City Supporters' Trust calls on Manchester City to give the club a greater share of the gate receipts from Saturday's FA Cup tie.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1m75jvvpz4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1m75jvvpz4o</guid>
+      <pubDate>Wed, 07 Jan 2026 14:03:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ee/live/0f974e90-ebce-11f0-98c0-b72e1e8ed823.jpg"/>
     </item>
     <item>
       <title><![CDATA[No Wales issue for 'best player' Davies - Bellamy]]></title>
@@ -312,6 +248,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7001/live/fe73fb70-b407-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA['An impossible task?' Winless run leaves West Ham facing drop]]></title>
+      <description><![CDATA[Booed off the pitch after conceding a late winner at home against their relegation rivals and on a 10-game winless run - these are desperate times for West Ham.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdx4enpg3pvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdx4enpg3pvo</guid>
+      <pubDate>Wed, 07 Jan 2026 00:10:02 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da63/live/39735ff0-eb57-11f0-a9e5-cfa2efc9a29b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Like basketball' - Soucek criticises 'joke' penalty]]></title>
       <description><![CDATA[West Ham's Tomas Soucek says the Premier League has become "like basketball" after a "joke" decision to award Nottingham Forest a penalty.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g3wpq8qd4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -344,20 +288,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf09/live/a4cbd160-eb2a-11f0-a6a3-53d02379137e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Tottenham completely aligned, says Frank]]></title>
-      <description><![CDATA[Head coach Thomas Frank says Tottenham are "completely aligned" about the future as he faces pressure from fans to improve results.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c70lk6wj9xpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70lk6wj9xpo</guid>
-      <pubDate>Tue, 06 Jan 2026 23:59:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae55/live/e41467b0-eb57-11f0-a9e5-cfa2efc9a29b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Hamilton insolvency risk remains, admits new owner]]></title>
       <description><![CDATA[New Hamilton owner Rob Edwards admits the club is still at risk of being placed in administration but is confident insolvency can be avoided.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3ed1980qweo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3ed1980qweo</guid>
       <pubDate>Tue, 06 Jan 2026 15:27:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beb0/live/0556f0f0-e59f-11f0-8bbe-6935d94eeebc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[West Ham relegation fight 'not over' - Nuno]]></title>
+      <description><![CDATA[West Ham manager Nuno Espirito Santo reflects on his side's defeat by Nottingham Forest, insisting their relegation fight is "not over" with the Hammers seven points adrift of safety.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c77krn5pl32o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c77krn5pl32o</guid>
+      <pubDate>Tue, 06 Jan 2026 23:12:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9871/live/32389520-eb52-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[We had the mentality to get the job done - Dyche]]></title>
+      <description><![CDATA[Nottingham Forest manager Sean Dyche was happy with the "grit and determination" his side showed to come from behind to beat relegation-threatened West Ham.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cr4k6nvx99do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cr4k6nvx99do</guid>
+      <pubDate>Tue, 06 Jan 2026 23:22:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e10/live/7e599b60-eb53-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rosenior 'ready' for Chelsea job]]></title>
@@ -391,22 +343,6 @@ The 41-year-old has spent the last 18-months at the Blues' sister club Strasbour
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cg7yz9mr811o</guid>
       <pubDate>Tue, 06 Jan 2026 12:46:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72d0/live/e354a650-eaf8-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The ups and downs of Amorim's reign in five matches]]></title>
-      <description><![CDATA[BBC Sport looks at five Premier League matches which underline the ups and downs of Ruben Amorim's 14-month reign at Manchester United.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c3r1qv4qqe1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c3r1qv4qqe1o</guid>
-      <pubDate>Mon, 05 Jan 2026 13:34:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f821/live/489f61e0-ea30-11f0-a8dc-93c15fe68710.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd can't keep sacking managers - Bosnich]]></title>
-      <description><![CDATA[Former Manchester United goalkeeper Mark Bosnich says the fans want clarity and to know what is going on behind the scenes after the club sacked head coach Ruben Amorim.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cx2wpnz77jzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2wpnz77jzo</guid>
-      <pubDate>Mon, 05 Jan 2026 13:12:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceee/live/341aae30-ea37-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Tactics, transfers and turmoil - inside the fall of Amorim]]></title>
