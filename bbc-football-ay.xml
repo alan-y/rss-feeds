@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 07 Jan 2026 20:24:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 20:54:01 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -198,6 +198,14 @@ The 41-year-old has spent the last 18-months at the Blues' sister club Strasbour
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91fe/live/74676170-eb3d-11f0-b5f7-49f0357294ff.png"/>
     </item>
     <item>
+      <title><![CDATA[How to follow the FA Cup on the BBC this weekend]]></title>
+      <description><![CDATA[BBC Sport Ask Me Anything explains how to follow the FA Cup third round on TV and radio this weekend.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpq40np2j3do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpq40np2j3do</guid>
+      <pubDate>Tue, 06 Jan 2026 12:04:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7001/live/fe73fb70-b407-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[No Wales issue for 'best player' Davies - Bellamy]]></title>
       <description><![CDATA[Ben Davies' limited game-time at Spurs is no issue for Wales, for whom he remains the "best player", says head coach Craig Bellamy.]]></description>
       <link>https://www.bbc.com/sport/football/articles/czdq402gq77o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -228,14 +236,6 @@ The 41-year-old has spent the last 18-months at the Blues' sister club Strasbour
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78e5nn9g8jo</guid>
       <pubDate>Tue, 06 Jan 2026 20:05:51 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1740/live/c8f23640-eb3b-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Like basketball' - Soucek criticises 'joke' penalty]]></title>
-      <description><![CDATA[West Ham's Tomas Soucek says the Premier League has become "like basketball" after a "joke" decision to award Nottingham Forest a penalty.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g3wpq8qd4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g3wpq8qd4o</guid>
-      <pubDate>Wed, 07 Jan 2026 09:43:57 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a30f/live/cd44da00-eba8-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[What challenges face McCann & Dodds at Kilmarnock?]]></title>
@@ -334,12 +334,12 @@ The 41-year-old has spent the last 18-months at the Blues' sister club Strasbour
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c042/live/e62ddd30-eb28-11f0-a6a3-53d02379137e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Tottenham completely aligned, says Frank]]></title>
-      <description><![CDATA[Head coach Thomas Frank says Tottenham are "completely aligned" about the future as he faces pressure from fans to improve results.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c70lk6wj9xpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70lk6wj9xpo</guid>
-      <pubDate>Tue, 06 Jan 2026 23:59:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae55/live/e41467b0-eb57-11f0-a9e5-cfa2efc9a29b.jpg"/>
+      <title><![CDATA['Like basketball' - Soucek criticises 'joke' penalty]]></title>
+      <description><![CDATA[West Ham's Tomas Soucek says the Premier League has become "like basketball" after a "joke" decision to award Nottingham Forest a penalty.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g3wpq8qd4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g3wpq8qd4o</guid>
+      <pubDate>Wed, 07 Jan 2026 09:43:57 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a30f/live/cd44da00-eba8-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA['Supply teacher' O'Neill insists Celtic need signings]]></title>
@@ -364,6 +364,14 @@ The 41-year-old has spent the last 18-months at the Blues' sister club Strasbour
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c99kyy0mg0ko</guid>
       <pubDate>Tue, 06 Jan 2026 18:26:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf09/live/a4cbd160-eb2a-11f0-a6a3-53d02379137e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Tottenham completely aligned, says Frank]]></title>
+      <description><![CDATA[Head coach Thomas Frank says Tottenham are "completely aligned" about the future as he faces pressure from fans to improve results.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c70lk6wj9xpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70lk6wj9xpo</guid>
+      <pubDate>Tue, 06 Jan 2026 23:59:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae55/live/e41467b0-eb57-11f0-a9e5-cfa2efc9a29b.jpg"/>
     </item>
     <item>
       <title><![CDATA[West Ham in talks to terminate Wilson's contract]]></title>
