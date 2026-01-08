@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 10:55:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 11:20:33 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Flu bouncing back after Christmas mixing, says NHS]]></title>
+      <description><![CDATA[Cases up after two weeks of decline, as hospitals report rise in slips and falls because of cold snap.]]></description>
+      <link>https://www.bbc.com/news/articles/c9qp47ze35do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9qp47ze35do</guid>
+      <pubDate>Thu, 08 Jan 2026 11:14:50 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfa0/live/d61063a0-ec81-11f0-9e8f-711b96aa17e7.jpg"/>
+    </item>
     <item>
       <title><![CDATA[People who come off slimming jabs regain weight four times faster than dieters]]></title>
       <description><![CDATA[Overweight people shed large amounts on jabs but gain 0.8 kg a month on average once off them, study shows.]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ceqzlvg83wgo</guid>
       <pubDate>Mon, 05 Jan 2026 21:30:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8443/live/a1945590-ec05-11f0-b35a-ab7e077318c5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Junk food TV and online advert ban comes into force]]></title>
-      <description><![CDATA[Soft drinks, chocolate, pizzas and ice creams will be targeted in the UK government's plan.]]></description>
-      <link>https://www.bbc.com/news/articles/cq5y2vzlyldo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq5y2vzlyldo</guid>
-      <pubDate>Mon, 05 Jan 2026 04:52:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86bc/live/98770590-e983-11f0-9d55-758d47cc7ae3.jpg"/>
     </item>
     <item>
       <title><![CDATA[How do cold weather health alerts work?]]></title>
@@ -190,6 +190,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cy47p5vnyn0o</guid>
       <pubDate>Mon, 01 Dec 2025 06:28:38 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e58/live/52c06560-cde9-11f0-a750-a3ce41dc0968.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Junk food TV and online advert ban comes into force]]></title>
+      <description><![CDATA[Soft drinks, chocolate, pizzas and ice creams will be targeted in the UK government's plan.]]></description>
+      <link>https://www.bbc.com/news/articles/cq5y2vzlyldo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq5y2vzlyldo</guid>
+      <pubDate>Mon, 05 Jan 2026 04:52:29 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86bc/live/98770590-e983-11f0-9d55-758d47cc7ae3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wellbeing 2026: Recovery, JOMO and brain boosting supplements]]></title>
@@ -345,14 +353,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cz94j0zd9j3o</guid>
       <pubDate>Fri, 12 Dec 2025 12:05:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d12a/live/9a7df1a0-d515-11f0-8193-dbd69ed9e093.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Streeting confirms public inquiry into NHS trust]]></title>
-      <description><![CDATA[The TEWV announcement comes after calls from families of three patients who died by suicide.]]></description>
-      <link>https://www.bbc.com/news/articles/c62l9gp337zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c62l9gp337zo</guid>
-      <pubDate>Thu, 11 Dec 2025 17:18:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c30b/live/c3ffdaf0-d5e4-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Much of £11bn Covid scheme fraud 'beyond recovery', report says]]></title>
