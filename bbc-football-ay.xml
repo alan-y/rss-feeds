@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 18:27:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 18:57:53 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -98,22 +98,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bad/live/d60b1340-ec0f-11f0-b5f7-49f0357294ff.png"/>
     </item>
     <item>
-      <title><![CDATA[The latest winning goals in Premier League history]]></title>
-      <description><![CDATA[After Newcastle's stoppage-time victory over Leeds on Wednesday, BBC Sport lists the latest winners on record in the Premier League era.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdx4qy1p646o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdx4qy1p646o</guid>
-      <pubDate>Thu, 08 Jan 2026 13:48:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32a0/live/8dc8cb30-ec79-11f0-ba9c-c9d74e6fde06.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ex-Premier League referee Coote given suspended sentence over child image offence]]></title>
-      <description><![CDATA[Former football official David Coote is given a nine-month prison sentence, suspended for two years.]]></description>
-      <link>https://www.bbc.com/news/articles/cr7j2nj02p1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cr7j2nj02p1o</guid>
-      <pubDate>Thu, 08 Jan 2026 11:56:18 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07e/live/298efcc0-ec79-11f0-ba9c-c9d74e6fde06.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Newcastle score twice in stoppage time to win seven-goal thriller]]></title>
       <description><![CDATA[Harvey Barnes scores twice as Newcastle come from behind to beat Leeds in a dramatic seven-goal thriller at St James' Park. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/crkre1ke52do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -178,12 +162,36 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caa3/live/0fca0570-ec1d-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Leicester sign experienced Spurs defender Neville]]></title>
-      <description><![CDATA[Leicester City sign experienced Tottenham defender Ashleigh Neville on a contract to the summer of 2027.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8d04q50rd0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8d04q50rd0o</guid>
-      <pubDate>Thu, 08 Jan 2026 14:25:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/328c/live/58b41bd0-ec9b-11f0-be98-fd0ce9c3379d.jpg"/>
+      <title><![CDATA[The latest winning goals in Premier League history]]></title>
+      <description><![CDATA[After Newcastle's stoppage-time victory over Leeds on Wednesday, BBC Sport lists the latest winners on record in the Premier League era.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdx4qy1p646o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdx4qy1p646o</guid>
+      <pubDate>Thu, 08 Jan 2026 13:48:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32a0/live/8dc8cb30-ec79-11f0-ba9c-c9d74e6fde06.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ex-Premier League referee Coote given suspended sentence over child image offence]]></title>
+      <description><![CDATA[Former football official David Coote is given a nine-month prison sentence, suspended for two years.]]></description>
+      <link>https://www.bbc.com/news/articles/cr7j2nj02p1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cr7j2nj02p1o</guid>
+      <pubDate>Thu, 08 Jan 2026 11:56:18 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07e/live/298efcc0-ec79-11f0-ba9c-c9d74e6fde06.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Exactly where we want to be' - Hearts keep calm amid Old Firm noise]]></title>
+      <description><![CDATA[After a tumultuous week at Celtic and continued transfer talk at the champions and rivals Rangers, Scottish Premiership leaders Hearts appear well prepared for the second half of the season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd0yjpg82xeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd0yjpg82xeo</guid>
+      <pubDate>Thu, 08 Jan 2026 09:07:46 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f0/live/9e4c6310-ebf0-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ex-Luton boss Bloomfield in Oxford United talks]]></title>
+      <description><![CDATA[Former Wycombe Wanderers and Luton Town boss Matt Bloomfield is in talks to become the new manager of Oxford United.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cevnx4rv7lzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cevnx4rv7lzo</guid>
+      <pubDate>Thu, 08 Jan 2026 18:46:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dda/live/1e219a40-ecc0-11f0-8f2b-0114ff5ac27e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fletcher to take charge for FA Cup - but Man Utd problems far bigger]]></title>
@@ -194,12 +202,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f194/live/18303b70-ec23-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[West Ham sign Juventus defender Cascarino on loan]]></title>
-      <description><![CDATA[France defender Estelle Cascarino becomes Rita Guarino's first signing since her appointment last month.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgd4ynljg8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgd4ynljg8o</guid>
-      <pubDate>Thu, 08 Jan 2026 11:06:54 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28cf/live/8d3d01c0-ec80-11f0-9e8f-711b96aa17e7.png"/>
+      <title><![CDATA[Leicester sign experienced Spurs defender Neville]]></title>
+      <description><![CDATA[Leicester City sign experienced Tottenham defender Ashleigh Neville on a contract to the summer of 2027.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8d04q50rd0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8d04q50rd0o</guid>
+      <pubDate>Thu, 08 Jan 2026 14:25:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/328c/live/58b41bd0-ec9b-11f0-be98-fd0ce9c3379d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wilson will have his 'pick of clubs' - MOTD's Murphy]]></title>
@@ -253,12 +261,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fb6/live/34e678c0-ec9f-11f0-be98-fd0ce9c3379d.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Beloved' coach Valakari extends St Johnstone deal]]></title>
+      <description><![CDATA[St Johnstone hand Simo Valakari a contract extension, with owner Adam Webb claiming there is "no more beloved coach in all of the UK".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c98j1p6z900o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98j1p6z900o</guid>
+      <pubDate>Thu, 08 Jan 2026 18:35:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8269/live/37a3c100-ecc0-11f0-8f2b-0114ff5ac27e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Weekly sports quiz:  How many managers have Man Utd had since Ferguson?]]></title>
       <description><![CDATA[How much attention have you paid to what's happened in the world of sport over the past seven days?]]></description>
       <link>https://www.bbc.com/sport/articles/crrn0ppl5j9o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/crrn0ppl5j9o</guid>
       <pubDate>Thu, 08 Jan 2026 08:26:49 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d7c/live/8e2c3540-ebe7-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[West Ham sign Juventus defender Cascarino on loan]]></title>
+      <description><![CDATA[France defender Estelle Cascarino becomes Rita Guarino's first signing since her appointment last month.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgd4ynljg8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgd4ynljg8o</guid>
+      <pubDate>Thu, 08 Jan 2026 11:06:54 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28cf/live/8d3d01c0-ec80-11f0-9e8f-711b96aa17e7.png"/>
     </item>
     <item>
       <title><![CDATA[Wrexham finally get their wish as Forest tie awaits]]></title>
@@ -277,30 +301,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75e3/live/04546c90-ec17-11f0-a452-c539a1a03906.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ex-Palace boss Kaminski named SK Brann head coach]]></title>
-      <description><![CDATA[Former Crystal Palace manager Laura Kaminski is named head coach of Norwegian club SK Brann.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgl8zrr7k2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgl8zrr7k2o</guid>
-      <pubDate>Thu, 08 Jan 2026 15:10:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66b9/live/037a3e20-eca4-11f0-9e5c-5102a53212cf.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Like a movie' - Semenyo enjoys fairytale farewell]]></title>
-      <description><![CDATA[Antoine Semenyo could not have dreamed of a better ending to his Bournemouth career as his late winner against Spurs ends the Cherries' long winless run.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c80154gn034o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80154gn034o</guid>
-      <pubDate>Wed, 07 Jan 2026 23:15:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df21/live/06bccaf0-ec20-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[West Brom interested in ex-Man Utd coach Ramsay]]></title>
-      <description><![CDATA[West Bromwich Albion are interested in former Manchester United coach Eric Ramsay as they look to fill their managerial vacancy.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp3zy185kzvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3zy185kzvo</guid>
-      <pubDate>Thu, 08 Jan 2026 11:36:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9307/live/6e40a060-ec85-11f0-9eec-7d519643d981.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[A big week? Brighton draw is 'punch in ribs' for Man City]]></title>
       <description><![CDATA[With Manchester City's crucial month beginning badly, Pep Guardiola is left to hope that their campaign is not derailing in similar fashion to last season.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn82ye11yx5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -317,6 +317,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19e9/live/983615e0-ebfd-11f0-81ae-8378c6aa7ffe.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Ex-Palace boss Kaminski named SK Brann head coach]]></title>
+      <description><![CDATA[Former Crystal Palace manager Laura Kaminski is named head coach of Norwegian club SK Brann.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgl8zrr7k2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgl8zrr7k2o</guid>
+      <pubDate>Thu, 08 Jan 2026 15:10:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66b9/live/037a3e20-eca4-11f0-9e5c-5102a53212cf.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[West Brom interested in ex-Man Utd coach Ramsay]]></title>
+      <description><![CDATA[West Bromwich Albion are interested in former Manchester United coach Eric Ramsay as they look to fill their managerial vacancy.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp3zy185kzvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3zy185kzvo</guid>
+      <pubDate>Thu, 08 Jan 2026 11:36:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9307/live/6e40a060-ec85-11f0-9eec-7d519643d981.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Why is Cucurella only getting a one-match ban?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team explains why Chelsea left-back Marc Cucurella will only get a one-match suspension following his red against Fulham]]></description>
       <link>https://www.bbc.com/sport/football/articles/c93vnnqvkl4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -331,14 +347,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clynelwgdd4o</guid>
       <pubDate>Thu, 08 Jan 2026 00:52:36 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2720/live/e9470000-ec18-11f0-a452-c539a1a03906.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Former England boss Keegan diagnosed with cancer]]></title>
-      <description><![CDATA[Former England striker and manager Kevin Keegan has been diagnosed with cancer and is receiving treatment.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj9r1pd18e3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj9r1pd18e3o</guid>
-      <pubDate>Wed, 07 Jan 2026 23:52:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0b5/live/833f0ba0-ebf4-11f0-8608-ef259671aea9.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ex-Wales rugby star Owens joins new FAW committee]]></title>
@@ -398,6 +406,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ckgxyp3w0e2o</guid>
       <pubDate>Wed, 07 Jan 2026 23:00:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9c5/live/59bf75f0-ec1a-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Former England boss Keegan diagnosed with cancer]]></title>
+      <description><![CDATA[Former England striker and manager Kevin Keegan has been diagnosed with cancer and is receiving treatment.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj9r1pd18e3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj9r1pd18e3o</guid>
+      <pubDate>Wed, 07 Jan 2026 23:52:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0b5/live/833f0ba0-ebf4-11f0-8608-ef259671aea9.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Like a movie' - Semenyo enjoys fairytale farewell]]></title>
+      <description><![CDATA[Antoine Semenyo could not have dreamed of a better ending to his Bournemouth career as his late winner against Spurs ends the Cherries' long winless run.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c80154gn034o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80154gn034o</guid>
+      <pubDate>Wed, 07 Jan 2026 23:15:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df21/live/06bccaf0-ec20-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ex-Tottenham and England forward Chivers dies aged 80]]></title>
@@ -536,14 +560,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgqz579k4vno</guid>
       <pubDate>Mon, 22 Dec 2025 21:27:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5931/live/b3910d00-df54-11f0-b67b-690eb873de1b.png"/>
-    </item>
-    <item>
-      <title><![CDATA['Relaxed' Hearts keep calm amid Old Firm noise]]></title>
-      <description><![CDATA[After a tumultuous week at Celtic and continued transfer talk at the champions and rivals Rangers, Scottish Premiership leaders Hearts appear well prepared for the second half of the season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd0yjpg82xeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd0yjpg82xeo</guid>
-      <pubDate>Thu, 08 Jan 2026 09:07:46 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f0/live/9e4c6310-ebf0-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Askou 'happy' at Motherwell amid 'natural' speculation]]></title>
