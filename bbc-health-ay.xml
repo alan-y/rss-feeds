@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 09 Jan 2026 12:42:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 13:37:25 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Doctors strike called off as union backs latest pay deal ]]></title>
+      <description><![CDATA[Medics had been set to go on the first national walkout staged by NHS workers on Tuesday in a dispute over pay.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2wgvxjkjpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2wgvxjkjpo</guid>
+      <pubDate>Fri, 09 Jan 2026 13:32:22 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baca/live/7d492a50-ed57-11f0-9a85-e3d7b5e64ff7.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Flu on the rise again after Christmas mixing, says NHS]]></title>
       <description><![CDATA[Cases up after two weeks of decline, as hospitals report rise in slips and falls because of cold snap.]]></description>
@@ -64,14 +72,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cpqy29d0yjgo</guid>
       <pubDate>Thu, 08 Jan 2026 17:14:32 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31ea/live/35e10560-ec9f-11f0-be98-fd0ce9c3379d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Nestle issues global recall of some baby formula products over toxin fears]]></title>
-      <description><![CDATA[The food giant discovered some batches of SMA infant and follow-on formula could lead to vomiting]]></description>
-      <link>https://www.bbc.com/news/articles/cx2yvx8gnnpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2yvx8gnnpo</guid>
-      <pubDate>Tue, 06 Jan 2026 08:43:47 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ac7/live/a21aee60-eacb-11f0-8218-ebd1bbe3ff4c.jpg"/>
     </item>
     <item>
       <title><![CDATA[How do cold weather health alerts work?]]></title>
