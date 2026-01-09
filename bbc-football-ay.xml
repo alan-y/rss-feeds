@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 09 Jan 2026 23:37:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 23:49:46 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['Unacceptable to the badge' - Dyche fumes at FA Cup exit]]></title>
+      <description><![CDATA[Sean Dyche calls for some of his Nottingham Forest players to "have a look in the mirror" after an "unacceptable" first-half performance in their FA Cup loss at Wrexham on penalties.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g4rqgqe0jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g4rqgqe0jo</guid>
+      <pubDate>Fri, 09 Jan 2026 23:43:21 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bca1/live/cee976d0-edac-11f0-9a1d-4ff0d4b886ae.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Solskjaer set for face-to-face talks with Man Utd chiefs]]></title>
       <description><![CDATA[Ole Gunnar Solskjaer is set for face-to-face talks with Manchester United chiefs about becoming the club's interim boss.]]></description>
@@ -48,8 +56,8 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8d6/live/5b2160b0-edab-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Shipley goal sees Port Vale past Fleetwood]]></title>
-      <description><![CDATA[Jordan Shipley scored the only goal to put Port Vale into the fourth round of the FA Cup, as both sides missed key chances in a one-goal affair.]]></description>
+      <title><![CDATA[Shipley goal helps Port Vale past Fleetwood]]></title>
+      <description><![CDATA[Jordan Shipley scores the only goal to put Port Vale into the fourth round of the FA Cup at the expense of Fleetwood Town.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cy8p3lkd315o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy8p3lkd315o</guid>
       <pubDate>Fri, 09 Jan 2026 23:35:29 GMT</pubDate>
@@ -152,14 +160,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e2f/live/b04ce430-ecaa-11f0-a422-4ba8a094a8fa.png"/>
     </item>
     <item>
-      <title><![CDATA[Chelsea tie 'not an autograph session' for Charlton]]></title>
-      <description><![CDATA[Boss Nathan Jones says Charlton need to make sure their FA Cup third round tie against Chelsea does not turn into an "autograph session".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly1rmz5mkno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly1rmz5mkno</guid>
-      <pubDate>Fri, 09 Jan 2026 20:53:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b5/live/a9630000-ed8b-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Henderson's stunning double as Ross County beat Thistle]]></title>
       <description><![CDATA[Jay Henderson scores within 18 seconds and adds a second within 10 minutes as bottom side Ross County mark Stuart Kettlewell's return as manager with a victory over second-top Partick Thistle in the Scottish Championship.]]></description>
       <link>https://www.bbc.com/sport/videos/c2e1wdvxy22o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -200,20 +200,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3191/live/8858bf60-eca2-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Chelsea tie 'not an autograph session' for Charlton]]></title>
+      <description><![CDATA[Boss Nathan Jones says Charlton need to make sure their FA Cup third round tie against Chelsea does not turn into an "autograph session".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly1rmz5mkno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly1rmz5mkno</guid>
+      <pubDate>Fri, 09 Jan 2026 20:53:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b5/live/a9630000-ed8b-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Man admits racist abuse of England's Carter]]></title>
       <description><![CDATA[Nigel Dewale made derogatory comments about the Lioness star's skin colour. ]]></description>
       <link>https://www.bbc.com/news/articles/c93vn0qvk2ko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c93vn0qvk2ko</guid>
       <pubDate>Fri, 09 Jan 2026 18:13:31 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0cb/live/b18608f0-d51b-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Rosenior will ignore 'noise' after Chelsea appointment]]></title>
-      <description><![CDATA[Liam Rosenior says he will be his own man and ignore the "noise" around his appointment as Chelsea manager.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwywnz9xkrdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwywnz9xkrdo</guid>
-      <pubDate>Fri, 09 Jan 2026 15:51:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/436b/live/ffce7420-ed67-11f0-88e7-5d06f9172e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ex-Chelsea employee spared jail after £200k fraud]]></title>
@@ -248,12 +248,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5753/live/97e2f5e0-ed47-11f0-8ccb-fb1ae208a230.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Chelsea charged after bottle thrown following Villa loss]]></title>
-      <description><![CDATA[The Football Association (FA) charges Chelsea after a bottle is thrown towards Aston Villa's bench in December.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0q41xqp2jno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0q41xqp2jno</guid>
-      <pubDate>Fri, 09 Jan 2026 16:14:34 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d8d/live/54d11000-ed71-11f0-8abc-8b61be694132.jpg"/>
+      <title><![CDATA[Rosenior will ignore 'noise' after Chelsea appointment]]></title>
+      <description><![CDATA[Liam Rosenior says he will be his own man and ignore the "noise" around his appointment as Chelsea manager.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwywnz9xkrdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwywnz9xkrdo</guid>
+      <pubDate>Fri, 09 Jan 2026 15:51:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/436b/live/ffce7420-ed67-11f0-88e7-5d06f9172e94.jpg"/>
     </item>
     <item>
       <title><![CDATA['Won't let anyone knock him' - how Miley silenced critics]]></title>
@@ -272,6 +272,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/473d/live/f644f440-e594-11f0-bb65-6152e605acc9.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Chelsea charged after bottle thrown following Villa loss]]></title>
+      <description><![CDATA[The Football Association (FA) charges Chelsea after a bottle is thrown towards Aston Villa's bench in December.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0q41xqp2jno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0q41xqp2jno</guid>
+      <pubDate>Fri, 09 Jan 2026 16:14:34 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d8d/live/54d11000-ed71-11f0-8abc-8b61be694132.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['My best is yet to come' - Semenyo joins Man City in £65m deal]]></title>
       <description><![CDATA[Manchester City sign Ghana international Antoine Semenyo from Bournemouth in a deal worth about £65m.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c801yv529z7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -286,14 +294,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3dm87lnn1eo</guid>
       <pubDate>Fri, 09 Jan 2026 16:21:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68d1/live/0a106470-ed6d-11f0-88e7-5d06f9172e94.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['We have so much to thank Terry for'  - Bellamy]]></title>
-      <description><![CDATA[Wales head coach Craig Bellamy describes Terry Yorath's impact on Welsh football as "immeasurable" as tributes are paid to the late ex-Wales boss.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1lzp2mp6y6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1lzp2mp6y6o</guid>
-      <pubDate>Fri, 09 Jan 2026 10:16:15 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/786c/live/8bd9ec10-ed40-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Salford & Accrington games among four frozen off ]]></title>
@@ -312,6 +312,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpq40np2j3do</guid>
       <pubDate>Fri, 09 Jan 2026 10:21:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7001/live/fe73fb70-b407-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['We have so much to thank Terry for'  - Bellamy]]></title>
+      <description><![CDATA[Wales head coach Craig Bellamy describes Terry Yorath's impact on Welsh football as "immeasurable" as tributes are paid to the late ex-Wales boss.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1lzp2mp6y6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1lzp2mp6y6o</guid>
+      <pubDate>Fri, 09 Jan 2026 10:16:15 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/786c/live/8bd9ec10-ed40-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[What can we expect from Rita Guarino's West Ham?]]></title>
@@ -344,14 +352,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2xe6e7p9yo</guid>
       <pubDate>Fri, 09 Jan 2026 10:01:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6930/live/78adaf70-ec76-11f0-ba9c-c9d74e6fde06.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Idiot' or 'understandable'? Martinelli apologises for pushing Bradley]]></title>
-      <description><![CDATA[Arsenal's Gabriel Martinelli is criticised for pushing Conor Bradley while he was down injured - but Liverpool boss Arne Slot defends him.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yv2j19q23o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yv2j19q23o</guid>
-      <pubDate>Fri, 09 Jan 2026 00:50:34 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd64/live/6a7528c0-ecee-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Can you name every FA Cup winner?]]></title>
