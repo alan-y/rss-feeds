@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 10 Jan 2026 16:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 16:53:08 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['He is here with us' - Macclesfield make FA Cup history on emotional day]]></title>
+      <description><![CDATA[Non-league Macclesfield made FA Cup history by knocking out holders Crystal Palace on a memorable but emotional day - their victory achieved against a backdrop of tragedy.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy8yqj8jd6yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8yqj8jd6yo</guid>
+      <pubDate>Sat, 10 Jan 2026 16:32:47 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a8f/live/b30decf0-ee3f-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Non-league Macclesfield stun FA Cup holders Crystal Palace]]></title>
       <description><![CDATA[Sixth-tier Macclesfield FC beat reigning champions Crystal Palace. With 117 places between the teams, it's the biggest upset in FA Cup history.]]></description>
@@ -22,22 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0q4n83xq59o</guid>
       <pubDate>Sat, 10 Jan 2026 14:46:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca35/live/d26aace0-ee31-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[England's Stanway to leave Bayern in summer]]></title>
-      <description><![CDATA[England international Georgia Stanway will leave Bayern Munich upon the expiry of her contract at the end of the season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpv7ryppx1vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv7ryppx1vo</guid>
-      <pubDate>Sat, 10 Jan 2026 09:12:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1474/live/07fb6fe0-eda9-11f0-9066-e53aa7eb0c7e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Cardiff say transfer embargo will be 'removed' ]]></title>
-      <description><![CDATA[Cardiff City are under a transfer embargo for "non-submission of annual accounts", but say the situation will be resolved in the coming days.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clygqrrpzy2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clygqrrpzy2o</guid>
-      <pubDate>Sat, 10 Jan 2026 13:28:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5edf/live/b7338d80-ee0d-11f0-9ef0-d11485de1ad8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Macclesfield fans invade the pitch after beating Palace]]></title>
@@ -54,6 +46,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ce3evnq1z9no</guid>
       <pubDate>Sat, 10 Jan 2026 16:07:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd4e/live/15094570-ee32-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[England's Stanway to leave Bayern in summer]]></title>
+      <description><![CDATA[England international Georgia Stanway will leave Bayern Munich upon the expiry of her contract at the end of the season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpv7ryppx1vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv7ryppx1vo</guid>
+      <pubDate>Sat, 10 Jan 2026 09:12:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1474/live/07fb6fe0-eda9-11f0-9066-e53aa7eb0c7e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Macclesfield make it two against FA Cup holders]]></title>
@@ -104,28 +104,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1f3/live/7c0e4a70-ed85-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Cardiff say transfer embargo will be 'removed' ]]></title>
+      <description><![CDATA[Cardiff City are under a transfer embargo for "non-submission of annual accounts", but say the situation will be resolved in the coming days.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clygqrrpzy2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clygqrrpzy2o</guid>
+      <pubDate>Sat, 10 Jan 2026 13:28:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5edf/live/b7338d80-ee0d-11f0-9ef0-d11485de1ad8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Time-wasting by goalkeepers can harm WSL 'attractiveness' ]]></title>
+      <description><![CDATA[Arsenal manager Renee Slegers says time-wasting by goalkeepers in the Women's Super League can harm the "attractiveness" of the game.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c23r0geg098o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c23r0geg098o</guid>
+      <pubDate>Sat, 10 Jan 2026 16:25:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/061f/live/caf43370-ee3e-11f0-9d20-ebe7255153c6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Arsenal monitoring Livramento - Saturday's gossip]]></title>
       <description><![CDATA[Arsenal monitoring Tino Livramento as a potential summer signing, Aston Villa exploring a deal for Conor Gallagher, Dominik Szoboszlai close to agreeing contract extension at Liverpool, plus more. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5yv2epjlx7o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yv2epjlx7o</guid>
       <pubDate>Fri, 09 Jan 2026 21:18:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23ea/live/124a27b0-ed7d-11f0-b5f7-49f0357294ff.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Chukwuani nears Rangers deal & Gillespie set for CEO role]]></title>
-      <description><![CDATA[Rangers are set to announce the signing of midfielder Tochi Chukwuani from Austrian club Sturm Graz before Sunday's game at Aberdeen and confirm St Mirren vice-chairman Jim Gillespie as their new chief executive early next week.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1dkrxznyylo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1dkrxznyylo</guid>
-      <pubDate>Sat, 10 Jan 2026 14:19:37 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182c/live/455223d0-ee2f-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wrexham's story 'written in the stars, literally']]></title>
-      <description><![CDATA[Wrexham's remarkable rise continues as they knock Premier League side Nottingham Forest out of the FA Cup in dramatic fashion.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj0nz85nplpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0nz85nplpo</guid>
-      <pubDate>Sat, 10 Jan 2026 00:03:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d283/live/23cd24f0-edf6-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chukwuemeka secures stoppage-time point for Dortmund against Frankfurt]]></title>
@@ -174,6 +174,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpq40np2j3do</guid>
       <pubDate>Fri, 09 Jan 2026 10:21:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7001/live/fe73fb70-b407-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Chukwuani nears Rangers deal & Gillespie set for CEO role]]></title>
+      <description><![CDATA[Rangers are set to announce the signing of midfielder Tochi Chukwuani from Austrian club Sturm Graz before Sunday's game at Aberdeen and confirm St Mirren vice-chairman Jim Gillespie as their new chief executive early next week.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1dkrxznyylo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1dkrxznyylo</guid>
+      <pubDate>Sat, 10 Jan 2026 14:19:37 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182c/live/455223d0-ee2f-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Wrexham's story 'written in the stars, literally']]></title>
+      <description><![CDATA[Wrexham's remarkable rise continues as they knock Premier League side Nottingham Forest out of the FA Cup in dramatic fashion.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj0nz85nplpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0nz85nplpo</guid>
+      <pubDate>Sat, 10 Jan 2026 00:03:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d283/live/23cd24f0-edf6-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA['Unacceptable to the badge' - Dyche fumes at FA Cup exit]]></title>
