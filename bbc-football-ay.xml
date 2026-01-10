@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 10 Jan 2026 14:51:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 15:19:02 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Roefs saves three penalties as Sunderland beat Everton]]></title>
+      <description><![CDATA[Goalkeeper Robin Roefs saves three penalties from three in a shootout as the Sunderland reach the FA Cup fourth round by beating Everton.]]></description>
+      <link>https://www.bbc.co.ukundefined/?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.ukundefined/</guid>
+      <pubDate>Sat, 10 Jan 2026 15:15:50 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b08/live/55eaeef0-ee36-11f0-b385-5f48925de19a.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Non-league Macclesfield stun FA Cup holders Crystal Palace]]></title>
       <description><![CDATA[Sixth-tier Macclesfield FC beat reigning champions Crystal Palace. With 117 places between the teams, it's the biggest upset in FA Cup history.]]></description>
@@ -128,14 +136,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bca1/live/cee976d0-edac-11f0-9a1d-4ff0d4b886ae.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How to follow the FA Cup on the BBC this weekend]]></title>
-      <description><![CDATA[BBC Sport Ask Me Anything explains how to follow the FA Cup third round on TV and radio this weekend.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpq40np2j3do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpq40np2j3do</guid>
-      <pubDate>Fri, 09 Jan 2026 10:21:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7001/live/fe73fb70-b407-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Wigan survive late scare to beat Preston in Lancashire derby]]></title>
       <description><![CDATA[Harrison Bettoni's lone goal seals a narrow victory for League One side Wigan Athletic, as Brad Potts' injury time equaliser for Preston North End is ruled out for offside.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c050m465q16o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -174,6 +174,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2l9x73dr1o</guid>
       <pubDate>Fri, 09 Jan 2026 18:20:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21d8/live/a6c9a9c0-ed86-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How to follow the FA Cup on the BBC this weekend]]></title>
+      <description><![CDATA[BBC Sport Ask Me Anything explains how to follow the FA Cup third round on TV and radio this weekend.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpq40np2j3do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpq40np2j3do</guid>
+      <pubDate>Fri, 09 Jan 2026 10:21:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7001/live/fe73fb70-b407-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sutton's FA Cup third-round predictions v DJ and producer Shadow Child]]></title>
@@ -290,14 +298,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ebe/live/06bfe970-ed37-11f0-8cc8-8329494b82ad.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What can we expect from Rita Guarino's West Ham?]]></title>
-      <description><![CDATA[West Ham are embarking on a new journey with Italian manager Rita Guarino - but what are her plans for the club?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg5dergp02o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg5dergp02o</guid>
-      <pubDate>Fri, 09 Jan 2026 11:41:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/489f/live/27cbf650-ed45-11f0-8cc8-8329494b82ad.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Can you name every FA Cup winner?]]></title>
       <description><![CDATA[The FA Cup third round takes place this weekend - we want you to name every winner of the competition since it began in 1872.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c740gvkd958o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -410,36 +410,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1fa/live/07548500-e015-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Battle at the bottom, Altena & O'Neill in focus]]></title>
-      <description><![CDATA[Livingston host Kilmarnock in a vital match at the bottom of the Scottish Premiership as Martin O'Neill returns to the Celtic dugout and Hearts new boy Jordi Altena bids to build on a promising debut.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce8ryj3n7r5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8ryj3n7r5o</guid>
-      <pubDate>Fri, 09 Jan 2026 10:46:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c5b/live/c6d49310-ec0f-11f0-a422-4ba8a094a8fa.png"/>
-    </item>
-    <item>
       <title><![CDATA[Rangers make loan enquiries for Sunderland duo - gossip]]></title>
       <description><![CDATA[Sunderland duo linked with Rangers, clubs chase Hibernian striker and foreign interest in Scotland defender.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cq5ygy14pzxo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq5ygy14pzxo</guid>
       <pubDate>Sat, 10 Jan 2026 08:32:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaa7/live/394e6340-edfe-11f0-a422-4ba8a094a8fa.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Kyogo 'probably unlikely' to return to Celtic - O'Neill]]></title>
-      <description><![CDATA[Martin O'Neill thinks it "probably unlikely" Kyogo Furuhashi will return to Celtic from Birmingham City and does not think they "could cope" should captain Callum McGregor exit during January.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8x94rwlen5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8x94rwlen5o</guid>
-      <pubDate>Fri, 09 Jan 2026 16:23:44 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4e9/live/281c4560-ece6-11f0-bef6-d3a75ab8dbff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Watch: Henderson's stunning double as County beat Thistle]]></title>
-      <description><![CDATA[Jay Henderson scores within 18 seconds and adds a second within 10 minutes as bottom side Ross County mark Stuart Kettlewell's return as manager with a victory over second-top Partick Thistle in the Scottish Championship.]]></description>
-      <link>https://www.bbc.com/sport/videos/c2e1wdvxy22o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/videos/c2e1wdvxy22o</guid>
-      <pubDate>Fri, 09 Jan 2026 22:14:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3068/live/7c410550-eda8-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[The best wonderkids outside big five leagues]]></title>
@@ -472,6 +448,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2k42j72ld1o</guid>
       <pubDate>Mon, 22 Dec 2025 09:18:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fad/live/d7ad9e30-dc41-11f0-a8dc-93c15fe68710.png"/>
+    </item>
+    <item>
+      <title><![CDATA[What can we expect from Rita Guarino's West Ham?]]></title>
+      <description><![CDATA[West Ham are embarking on a new journey with Italian manager Rita Guarino - but what are her plans for the club?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvg5dergp02o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg5dergp02o</guid>
+      <pubDate>Fri, 09 Jan 2026 11:41:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/489f/live/27cbf650-ed45-11f0-8cc8-8329494b82ad.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arsenal manager Slegers signs new three-year deal]]></title>
