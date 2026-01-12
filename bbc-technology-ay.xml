@@ -10,17 +10,25 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 19:00:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 19:27:58 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
+      <title><![CDATA[What a new law and an investigation could mean for Grok AI deepfakes]]></title>
+      <description><![CDATA[Elon Musk's chatbot is under fire for altering images of women to remove their clothes without their consent.]]></description>
+      <link>https://www.bbc.com/news/articles/ckgvx88md4do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgvx88md4do</guid>
+      <pubDate>Mon, 12 Jan 2026 19:23:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f33/live/7c5ee4d0-efdd-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[UK to bring into force law to tackle Grok AI deepfakes this week]]></title>
       <description><![CDATA[It is currently illegal to share deepfakes, but the law against creating them has not yet come into force.]]></description>
       <link>https://www.bbc.com/news/articles/cq845glnvl1o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cq845glnvl1o</guid>
-      <pubDate>Mon, 12 Jan 2026 18:27:44 GMT</pubDate>
+      <pubDate>Mon, 12 Jan 2026 19:24:01 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b181/live/401595e0-efde-11f0-be9a-5d00009628a6.jpg"/>
     </item>
     <item>
@@ -256,14 +264,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/clydp2ygrveo</guid>
       <pubDate>Fri, 19 Dec 2025 13:45:50 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c377/live/a166ca10-dca8-11f0-bf97-a767b375b25e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026]]></title>
-      <description><![CDATA[Baidu's Apollo Go robotaxis have already accrued millions of driverless rides in cities worldwide.]]></description>
-      <link>https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8jmx1dl9ro</guid>
-      <pubDate>Mon, 22 Dec 2025 14:08:48 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a81/live/5050e1a0-df24-11f0-9dac-b79514ec4a2d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cool future tech at CES!]]></title>
