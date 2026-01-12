@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 09:01:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 09:49:22 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Revolutionary eye injection saved my sight, says first-ever patient]]></title>
+      <description><![CDATA[Nicki's eye had collapsed in on itself, but a new gel injection method has saved her vision.]]></description>
+      <link>https://www.bbc.com/news/articles/c89qyv98lzdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c89qyv98lzdo</guid>
+      <pubDate>Mon, 12 Jan 2026 00:00:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5981/live/d4c1c090-eca2-11f0-be98-fd0ce9c3379d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[The 'vicious cycle' that means the NHS still wastes billions on patients who don't need to be in hospital]]></title>
+      <description><![CDATA[The delayed discharge challenge throws up deeper questions about the care system and co-ordination.]]></description>
+      <link>https://www.bbc.com/news/articles/c394vjm7n4vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c394vjm7n4vo</guid>
+      <pubDate>Mon, 12 Jan 2026 00:08:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f2/live/e2ba83d0-ed56-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Doctors strike called off as union backs latest pay deal ]]></title>
       <description><![CDATA[Medics had been set to go on the first national walkout staged by NHS workers on Tuesday in a dispute over pay.]]></description>
@@ -54,24 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c801yyz3z5go</guid>
       <pubDate>Thu, 08 Jan 2026 15:49:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23c9/live/c7848610-eca7-11f0-8d86-1f6515ae635b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Knives taken to hospitals sees amnesty bins set up]]></title>
-      <description><![CDATA[In Birmingham hospitals knives are regularly found, with one produced by a patient ready for an MRI.]]></description>
-      <link>https://www.bbc.com/news/articles/c4gr0ez175zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gr0ez175zo</guid>
-      <pubDate>Fri, 09 Jan 2026 06:27:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba6/live/6cf19f70-ecb7-11f0-9d80-bdb3e01a6d27.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI launches ChatGPT Health to review your medical records]]></title>
-      <description><![CDATA[The firm says its chatbot sees health and wellbeing questions from 230 million people every week.
-
-]]></description>
-      <link>https://www.bbc.com/news/articles/cpqy29d0yjgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cpqy29d0yjgo</guid>
-      <pubDate>Thu, 08 Jan 2026 17:14:32 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31ea/live/35e10560-ec9f-11f0-be98-fd0ce9c3379d.jpg"/>
     </item>
     <item>
       <title><![CDATA[How do cold weather health alerts work?]]></title>
