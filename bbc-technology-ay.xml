@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 16:59:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 17:30:56 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[UK to bring into force law this week to tackle Grok AI deepfakes]]></title>
+      <description><![CDATA[The technology secretary said it would be illegal for companies to supply the tools designed to make them.]]></description>
+      <link>https://www.bbc.com/news/articles/cq845glnvl1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq845glnvl1o</guid>
+      <pubDate>Mon, 12 Jan 2026 17:22:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png"/>
+    </item>
     <item>
       <title><![CDATA[Instagram denies breach after many receive emails asking to reset password]]></title>
       <description><![CDATA[The social media platform has said there was "no breach of its systems" but questions remain.]]></description>
@@ -256,14 +264,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8jmx1dl9ro</guid>
       <pubDate>Mon, 22 Dec 2025 14:08:48 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a81/live/5050e1a0-df24-11f0-9dac-b79514ec4a2d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Amazon blocks 1,800 job applications from suspected North Korean agents]]></title>
-      <description><![CDATA[The firm’s chief security officer said North Koreans tried to apply for remote working IT jobs using stolen or fake identities.]]></description>
-      <link>https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3e0kw80wwzo</guid>
-      <pubDate>Tue, 23 Dec 2025 02:49:45 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a77/live/f29f1a40-dfa0-11f0-a643-15fd7b194a0b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cool future tech at CES!]]></title>
