@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 22:52:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 23:16:28 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -96,14 +96,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb5b/live/7e0ad3d0-efa0-11f0-a161-0dc741483a6b.jpg"/>
     </item>
     <item>
-      <title><![CDATA['I'd take him back in a heartbeat' - which players return to haunt their former clubs?]]></title>
-      <description><![CDATA[After Brighton's Danny Welbeck scored again against Manchester United on Sunday, who has the best record against their former clubs in the Premier League era?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1je5epg6g4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1je5epg6g4o</guid>
-      <pubDate>Mon, 12 Jan 2026 15:47:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c1a/live/b34192e0-efba-11f0-a55a-65bc8daf763d.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Carrick would bring spirit of Man Utd back - Rooney]]></title>
       <description><![CDATA[Wayne Rooney discusses Michael Carrick’s potential role as Manchester United caretaker and whether he’d join the coaching staff.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cp82d6901v9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -142,6 +134,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/videos/c5y5xqw06y6o</guid>
       <pubDate>Mon, 12 Jan 2026 08:22:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ef/live/94e43170-ef8f-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['I'd take him back in a heartbeat' - which players return to haunt their former clubs?]]></title>
+      <description><![CDATA[After Brighton's Danny Welbeck scored again against Manchester United on Sunday, who has the best record against their former clubs in the Premier League era?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1je5epg6g4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1je5epg6g4o</guid>
+      <pubDate>Mon, 12 Jan 2026 15:47:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c1a/live/b34192e0-efba-11f0-a55a-65bc8daf763d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Manager Alonso leaves Real Madrid as Arbeloa takes charge]]></title>
@@ -282,14 +282,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd1f/live/f94fc740-ef2c-11f0-ab23-bf37baa8f655.png"/>
     </item>
     <item>
-      <title><![CDATA[Gillespie confirmed as Rangers chief executive]]></title>
-      <description><![CDATA[Rangers confirm the appointment of St Mirren vice-chairman Jim Gillespie as chief executive.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cjrznz7lj8jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjrznz7lj8jo</guid>
-      <pubDate>Mon, 12 Jan 2026 14:05:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c22/live/7143aa50-efbe-11f0-a55a-65bc8daf763d.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Magic Makama hat-trick as Norwich beat Walsall]]></title>
       <description><![CDATA[Twenty-one-year-old Jovon Makama scores a hat-trick as Norwich City beat Walsall in the FA Cup third round.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cn7jx7m7jkgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -328,6 +320,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c9vxevp198jo</guid>
       <pubDate>Sun, 11 Jan 2026 19:23:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efa1/live/0d36c740-ef19-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Gillespie confirmed as Rangers chief executive]]></title>
+      <description><![CDATA[Rangers confirm the appointment of St Mirren vice-chairman Jim Gillespie as chief executive.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cjrznz7lj8jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjrznz7lj8jo</guid>
+      <pubDate>Mon, 12 Jan 2026 14:05:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c22/live/7143aa50-efbe-11f0-a55a-65bc8daf763d.jpg"/>
     </item>
     <item>
       <title><![CDATA['Big personality' Martinelli goes from 'idiot' to hat-trick hero]]></title>
