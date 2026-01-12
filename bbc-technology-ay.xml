@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 15:55:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 16:26:25 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Instagram denies breach after many receive emails asking to reset password]]></title>
+      <description><![CDATA[The social media platform has said there was "no breach of its systems" but questions remain.]]></description>
+      <link>https://www.bbc.com/news/articles/cdexdr08p05o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdexdr08p05o</guid>
+      <pubDate>Mon, 12 Jan 2026 16:11:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/075c/live/e5136160-ef9a-11f0-a161-0dc741483a6b.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Ofcom investigates Elon Musk's X over Grok AI sexual deepfakes]]></title>
       <description><![CDATA[The watchdog said it had received reports of the platform's Grok AI chatbot creating undressed images of people.]]></description>
@@ -256,14 +264,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3e0kw80wwzo</guid>
       <pubDate>Tue, 23 Dec 2025 02:49:45 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a77/live/f29f1a40-dfa0-11f0-a643-15fd7b194a0b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[UK to ban deepfake AI 'nudification' apps]]></title>
-      <description><![CDATA[A new offence looks to build on existing rules outlawing sexually explicit deepfakes and intimate image abuse.]]></description>
-      <link>https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq8dp2y0z7wo</guid>
-      <pubDate>Thu, 18 Dec 2025 17:43:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3266/live/44191530-dc34-11f0-a665-27b3eb61cb96.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cool future tech at CES!]]></title>

@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 15:55:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 16:26:25 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -152,22 +152,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0d2/live/28f21820-eef8-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Castellanos scores in extra time as West Ham edge past QPR]]></title>
-      <description><![CDATA[Valentin 'Taty' Castellanos scores his first goal for West Ham United as they beat Queens Park Rangers in extra time and progress to the fourth round of the FA Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c0q4nqeq8yeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0q4nqeq8yeo</guid>
-      <pubDate>Sun, 11 Jan 2026 19:19:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7755/live/3118f930-ef14-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Watch best of Saturday's weather-affected SPFL action]]></title>
-      <description><![CDATA[Watch the best of the action from Saturday's weather-affected Scottish Championship, League 1 and League 2 programme.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c3ve53qek4eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c3ve53qek4eo</guid>
-      <pubDate>Mon, 12 Jan 2026 07:53:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[FA Cup quiz: Name every non-league team that has beaten a top-flight side]]></title>
       <description><![CDATA[Crystal Palace became the ninth top-flight side to be knocked out of the FA Cup by a non-league team in the past 100 years.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgk8dz2xymgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -208,6 +192,22 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a64/live/b8945db0-ef18-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Castellanos scores in extra time as West Ham edge past QPR]]></title>
+      <description><![CDATA[Valentin 'Taty' Castellanos scores his first goal for West Ham United as they beat Queens Park Rangers in extra time and progress to the fourth round of the FA Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c0q4nqeq8yeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0q4nqeq8yeo</guid>
+      <pubDate>Sun, 11 Jan 2026 19:19:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7755/live/3118f930-ef14-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Watch best of Saturday's weather-affected SPFL action]]></title>
+      <description><![CDATA[Watch the best of the action from Saturday's weather-affected Scottish Championship, League 1 and League 2 programme.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c3ve53qek4eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c3ve53qek4eo</guid>
+      <pubDate>Mon, 12 Jan 2026 07:53:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Two for Reed as Mansfield upset Sheff Utd in thriller]]></title>
       <description><![CDATA[Mansfield Town cause one of the shocks of the FA Cup third round with a stunning victory over Sheffield United in a seven-goal thriller at Bramall Lane.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cvgn7g5100zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -232,28 +232,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/643c/live/67030050-eefa-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Daly and Hanson spark Villa comeback against Brighton]]></title>
-      <description><![CDATA[Aston Villa score twice in two second-half minutes as they come from behind to beat Brighton in the Women's Super League.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c1wzdpwdwdyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1wzdpwdwdyo</guid>
-      <pubDate>Sun, 11 Jan 2026 19:37:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/165c/live/4f7109a0-ef22-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Arsenal set pieces punish Portsmouth in FA Cup third round]]></title>
-      <description><![CDATA[Match of the Day pundits Dion Dublin and Phil Jones look at how Portsmouth were punished by Arsenal's set pieces as the Gunners secure comfortable 4-1 win to progress to the fourth round of the FA Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cn42qzkzq9eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn42qzkzq9eo</guid>
-      <pubDate>Sun, 11 Jan 2026 23:37:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc0/live/f3df6090-ef45-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Cup hero Okonkwo delighted with Wrexham redemption]]></title>
       <description><![CDATA[Wrexham's goalkeeper was their penalty shootout hero against Nottingham Forest just weeks after a calamitous error at Swansea City.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cr7jz0dm07yo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr7jz0dm07yo</guid>
       <pubDate>Mon, 12 Jan 2026 12:00:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/887c/live/08bd5d90-ef9c-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Injured Bradley can still influence NI - Craigan]]></title>
+      <description><![CDATA["Inspirational" injured defender Conor Bradley should still travel with Northern Ireland for March's World Cup play-off, believes Stephen Craigan.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly9n9xyzd5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly9n9xyzd5o</guid>
+      <pubDate>Mon, 12 Jan 2026 15:50:28 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98f0/live/55934d60-efc8-11f0-9a79-cfc8898f9898.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['They'd take him back in a heartbeat' - Welbeck haunts Man Utd again]]></title>
+      <description><![CDATA[Veteran striker Danny Welbeck haunts former club Manchester United again and now calls for an England call-up are only going to rise.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c17zr0zrk7lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c17zr0zrk7lo</guid>
+      <pubDate>Sun, 11 Jan 2026 21:13:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe0/live/b8da2930-ef2c-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Substitute Gordon, 43, produces save of season to keep Hearts beating]]></title>
@@ -272,20 +272,52 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da81/live/1b632a70-ef19-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Daly and Hanson spark Villa comeback against Brighton]]></title>
+      <description><![CDATA[Aston Villa score twice in two second-half minutes as they come from behind to beat Brighton in the Women's Super League.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c1wzdpwdwdyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1wzdpwdwdyo</guid>
+      <pubDate>Sun, 11 Jan 2026 19:37:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/165c/live/4f7109a0-ef22-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Arsenal set pieces punish Portsmouth in FA Cup third round]]></title>
+      <description><![CDATA[Match of the Day pundits Dion Dublin and Phil Jones look at how Portsmouth were punished by Arsenal's set pieces as the Gunners secure comfortable 4-1 win to progress to the fourth round of the FA Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cn42qzkzq9eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn42qzkzq9eo</guid>
+      <pubDate>Sun, 11 Jan 2026 23:37:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc0/live/f3df6090-ef45-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[West Brom fight back to beat Swansea on penalties]]></title>
+      <description><![CDATA[Managerless West Bromwich Albion end a run of 10 successive away defeats as they come from behind to win their FA Cup third-round tie at Championship rivals Swansea City on penalties.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c9vxevp198jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c9vxevp198jo</guid>
+      <pubDate>Sun, 11 Jan 2026 19:23:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efa1/live/0d36c740-ef19-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Chelsea kick off new year by thrashing West Ham]]></title>
+      <description><![CDATA[Chelsea begin the new year with an impressive victory over West Ham in visiting manager Rita Guarino's first match in the Women's Super League.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cy05x8nglzyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy05x8nglzyo</guid>
+      <pubDate>Sun, 11 Jan 2026 18:07:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a73/live/23913a70-ef14-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Own goal gives Spurs narrow home win over Leicester ]]></title>
+      <description><![CDATA[Signe Gaupset impresses on her Women's Super League debut as Tottenham defeat Leicester City to boost their push for a Champions League place.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c9314dprez0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c9314dprez0o</guid>
+      <pubDate>Sun, 11 Jan 2026 18:20:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0300/live/9f0f1490-ef16-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Celtic recall defender Welsh from Motherwell loan]]></title>
       <description><![CDATA[Celtic bolster their central defensive options by recalling defender Stephen Welsh from his loan at Motherwell.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvg5v4ekrqqo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg5v4ekrqqo</guid>
       <pubDate>Mon, 12 Jan 2026 11:25:12 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e54/live/a6b131a0-efa8-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['They'd take him back in a heartbeat' - Welbeck haunts Man Utd again]]></title>
-      <description><![CDATA[Veteran striker Danny Welbeck haunts former club Manchester United again and now calls for an England call-up are only going to rise.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c17zr0zrk7lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c17zr0zrk7lo</guid>
-      <pubDate>Sun, 11 Jan 2026 21:13:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe0/live/b8da2930-ef2c-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA['I legged it' - Macclesfield chairman joined pitch invasion]]></title>
@@ -448,6 +480,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1fa/live/07548500-e015-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Give Gordon a knighthood' & 'Masterclass from McGlynn' - Your views]]></title>
+      <description><![CDATA[Scottish Premiership supporters have been having their say following the weekend fixtures.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpqyey8r33xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpqyey8r33xo</guid>
+      <pubDate>Mon, 12 Jan 2026 15:52:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75b4/live/e1125ca0-efc8-11f0-9a79-cfc8898f9898.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Celtic & Rangers linked with attacking players - gossip]]></title>
       <description><![CDATA[Celtic keen on striker, Rangers linked with winger and Dundee United keen on defender.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cje1w7pnxp7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -462,14 +502,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cevn4z1333eo</guid>
       <pubDate>Mon, 12 Jan 2026 13:38:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdea/live/d39c8e10-c6dd-11f0-b1c3-5775f13cf302.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Bristol Rovers sign Motherwell's Balmer on loan]]></title>
-      <description><![CDATA[Bristol Rovers sign centre-back Kofi Balmer on loan from Scottish Premiership side Motherwell.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwywj1751w4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwywj1751w4o</guid>
-      <pubDate>Mon, 12 Jan 2026 11:35:42 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe55/live/c4b30230-efaa-11f0-8380-f330e2a7c116.jpg"/>
     </item>
     <item>
       <title><![CDATA[The best wonderkids outside big five leagues]]></title>
