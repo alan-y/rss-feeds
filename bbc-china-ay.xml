@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 09:49:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 10:25:04 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Are You Dead?: The viral Chinese app for young people living alone]]></title>
+      <description><![CDATA[A new bleak-sounding app has been downloaded in droves by many youth who live by themselves - and fear dying alone.]]></description>
+      <link>https://www.bbc.com/news/articles/c3381r5nnn6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3381r5nnn6o</guid>
+      <pubDate>Mon, 12 Jan 2026 09:55:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8599/live/50e11f80-ef92-11f0-8faf-09c6d7521940.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Influential China church reports arrests as crackdown on Christians intensifies]]></title>
       <description><![CDATA[Leaders of Early Rain Covenant Church have been arrested and Yayang Church is being torn down, groups say.]]></description>
@@ -30,14 +38,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c70lw9x581no</guid>
       <pubDate>Tue, 06 Jan 2026 02:44:22 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ae1/live/cbcde360-ea95-11f0-89cf-5d549b2a0601.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How UK plush toy Jellycat conquered China ]]></title>
-      <description><![CDATA[The plushies bring "emotional value" to Chinese youth navigating economic uncertainty.]]></description>
-      <link>https://www.bbc.com/news/articles/cj0e36p74v1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0e36p74v1o</guid>
-      <pubDate>Sat, 03 Jan 2026 23:02:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df89/live/a8c28410-c106-11f0-801d-4586c230975c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Condom tax and cheaper childcare: China's plan to boost birth rates]]></title>
@@ -79,6 +79,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cly92dkxqvko</guid>
       <pubDate>Wed, 07 Jan 2026 09:24:00 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1472/live/912294e0-ebc6-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How UK plush toy Jellycat conquered China ]]></title>
+      <description><![CDATA[The plushies bring "emotional value" to Chinese youth navigating economic uncertainty.]]></description>
+      <link>https://www.bbc.com/news/articles/cj0e36p74v1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0e36p74v1o</guid>
+      <pubDate>Sat, 03 Jan 2026 23:02:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df89/live/a8c28410-c106-11f0-801d-4586c230975c.jpg"/>
     </item>
     <item>
       <title><![CDATA[This billionaire tested China's limits. It cost him his freedom]]></title>
