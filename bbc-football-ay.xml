@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 21:39:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 21:51:54 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -56,12 +56,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c97/live/4c09ae50-dcf0-11f0-9edb-d794f4dbaf7f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Villa and Spurs hold talks for Atletico's Gallagher]]></title>
-      <description><![CDATA[Aston Villa and Tottenham are holding talks over a move for Atletico Madrid midfielder Conor Gallagher this month.]]></description>
+      <title><![CDATA[Spurs set to beat Villa to £35m Gallagher]]></title>
+      <description><![CDATA[Tottenham expect to complete a 40m euros (£35m) deal for former Chelsea midfielder Conor Gallagher after moving ahead of Aston Villa in the race for the England international's signature.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cp3zq8v4ek5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3zq8v4ek5o</guid>
-      <pubDate>Mon, 12 Jan 2026 18:18:59 GMT</pubDate>
+      <pubDate>Mon, 12 Jan 2026 21:49:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2ba/live/aea00960-efdd-11f0-be9a-5d00009628a6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Villa sign Chelsea's Jean-Francois for £450k]]></title>
+      <description><![CDATA[Aston Villa sign Chelsea and France midfielder Oriane Jean-Francois for £450,000.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2077z588ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2077z588ko</guid>
+      <pubDate>Mon, 12 Jan 2026 21:42:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bb2/live/41831d70-ee0e-11f0-9ef0-d11485de1ad8.jpg"/>
     </item>
     <item>
       <title><![CDATA[West Ham reluctant to sell Paqueta amid interest]]></title>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1je5epg6g4o</guid>
       <pubDate>Mon, 12 Jan 2026 15:47:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c1a/live/b34192e0-efba-11f0-a55a-65bc8daf763d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Simeone apologises to Real Madrid's Vinicius Jr]]></title>
-      <description><![CDATA[Atletico Madrid manager Diego Simeone accepts his behaviour towards Real Madrid winger Vinicius Junior during their Spanish Super Cup semi-final was wrong]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3ed5d10vp3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3ed5d10vp3o</guid>
-      <pubDate>Mon, 12 Jan 2026 14:28:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37df/live/ce0811c0-efc0-11f0-a55a-65bc8daf763d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Carrick would bring spirit of Man Utd back - Rooney]]></title>
@@ -162,6 +162,22 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2932/live/08eae5f0-ef8b-11f0-8faf-09c6d7521940.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Simeone apologises to Real Madrid's Vinicius Jr]]></title>
+      <description><![CDATA[Atletico Madrid manager Diego Simeone accepts his behaviour towards Real Madrid winger Vinicius Junior during their Spanish Super Cup semi-final was wrong]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3ed5d10vp3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3ed5d10vp3o</guid>
+      <pubDate>Mon, 12 Jan 2026 14:28:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37df/live/ce0811c0-efc0-11f0-a55a-65bc8daf763d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[A 'new sport' with 'room to improve' - how is Baller League doing?]]></title>
+      <description><![CDATA[After the conclusion of Baller League UK season two, BBC Sport looks at how the six-a-side format is progressing.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz9v5d5l5ljo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz9v5d5l5ljo</guid>
+      <pubDate>Mon, 12 Jan 2026 12:24:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edd9/live/1a3e32a0-ef3e-11f0-8b31-619a92b39215.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Cancelo set to return to Barcelona on loan ]]></title>
       <description><![CDATA[Barcelona are set to announce the signing of former Manchester City defender Joao Cancelo on loan until the end of the season.]]></description>
       <link>https://www.bbc.com/sport/football/articles/crmlkp28y20o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -176,22 +192,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g49xrjnxno</guid>
       <pubDate>Mon, 12 Jan 2026 06:42:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3808/live/32d13d10-ec8e-11f0-abc2-c92f19f0499a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[A 'new sport' with 'room to improve' - how is Baller League doing?]]></title>
-      <description><![CDATA[After the conclusion of Baller League UK season two, BBC Sport looks at how the six-a-side format is progressing.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz9v5d5l5ljo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz9v5d5l5ljo</guid>
-      <pubDate>Mon, 12 Jan 2026 12:24:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edd9/live/1a3e32a0-ef3e-11f0-8b31-619a92b39215.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Everton eyeing Arsenal's White - Monday's gossip]]></title>
-      <description><![CDATA[Everton are eyeing a move for Ben White, Borussia Dortmund monitoring Oscar Bobb's situation at Manchester City, Tottenham remain interested in Conor Gallagher, plus more. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g42qvq7qwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g42qvq7qwo</guid>
-      <pubDate>Sun, 11 Jan 2026 21:45:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1c6/live/a0a898f0-ef19-11f0-b385-5f48925de19a.png"/>
     </item>
     <item>
       <title><![CDATA[Arsenal beat Portsmouth thanks to Martinelli hat-trick]]></title>
@@ -242,6 +242,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4674/live/35abbcf0-efb2-11f0-b61c-6bc75d705b6c.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Everton eyeing Arsenal's White - Monday's gossip]]></title>
+      <description><![CDATA[Everton are eyeing a move for Ben White, Borussia Dortmund monitoring Oscar Bobb's situation at Manchester City, Tottenham remain interested in Conor Gallagher, plus more. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g42qvq7qwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g42qvq7qwo</guid>
+      <pubDate>Sun, 11 Jan 2026 21:45:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1c6/live/a0a898f0-ef19-11f0-b385-5f48925de19a.png"/>
+    </item>
+    <item>
       <title><![CDATA[Goals, shocks and fan power on a record-breaking FA Cup weekend]]></title>
       <description><![CDATA[If anyone needed convincing that the FA Cup still matters, this season's record-breaking third round provided all the necessary evidence.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c07x1ezk3pro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -280,14 +288,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjrznz7lj8jo</guid>
       <pubDate>Mon, 12 Jan 2026 14:05:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c22/live/7143aa50-efbe-11f0-a55a-65bc8daf763d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Big personality' Martinelli goes from 'idiot' to hat-trick hero]]></title>
-      <description><![CDATA[Gabriel Martinelli was branded an "idiot" a few days ago - but showed great personality to respond with an FA Cup hat-trick, according to Arsenal manager Mikel Arteta.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3685180x26o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3685180x26o</guid>
-      <pubDate>Sun, 11 Jan 2026 17:39:06 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a64/live/b8945db0-ef18-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Magic Makama hat-trick as Norwich beat Walsall]]></title>
@@ -330,20 +330,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efa1/live/0d36c740-ef19-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Big personality' Martinelli goes from 'idiot' to hat-trick hero]]></title>
+      <description><![CDATA[Gabriel Martinelli was branded an "idiot" a few days ago - but showed great personality to respond with an FA Cup hat-trick, according to Arsenal manager Mikel Arteta.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3685180x26o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3685180x26o</guid>
+      <pubDate>Sun, 11 Jan 2026 17:39:06 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a64/live/b8945db0-ef18-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['They'd take him back in a heartbeat' - Welbeck haunts Man Utd again]]></title>
       <description><![CDATA[Veteran striker Danny Welbeck haunts former club Manchester United again and now calls for an England call-up are only going to rise.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c17zr0zrk7lo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c17zr0zrk7lo</guid>
       <pubDate>Sun, 11 Jan 2026 21:13:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe0/live/b8da2930-ef2c-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Injured Bradley can still influence NI - Craigan]]></title>
-      <description><![CDATA["Inspirational" injured defender Conor Bradley should still travel with Northern Ireland for March's World Cup play-off, believes Stephen Craigan.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly9n9xyzd5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly9n9xyzd5o</guid>
-      <pubDate>Mon, 12 Jan 2026 15:50:28 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98f0/live/55934d60-efc8-11f0-9a79-cfc8898f9898.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cup hero Okonkwo delighted with Wrexham redemption]]></title>
