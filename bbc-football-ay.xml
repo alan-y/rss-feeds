@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 08:59:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 09:37:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -88,14 +88,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2ba/live/aea00960-efdd-11f0-be9a-5d00009628a6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Villa sign Chelsea's Jean-Francois for £450K]]></title>
-      <description><![CDATA[Aston Villa sign Chelsea and France midfielder Oriane Jean-Francois for £450,000.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2077z588ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2077z588ko</guid>
-      <pubDate>Mon, 12 Jan 2026 21:42:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bb2/live/41831d70-ee0e-11f0-9ef0-d11485de1ad8.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Late goals add shine as Liverpool beat spirited Barnsley in FA Cup]]></title>
       <description><![CDATA[Liverpool score two late goals to add shine to their FA Cup third round victory over spirited League One side Barnsley at Anfield.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c4g0ry7mnqzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -144,6 +136,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c1a/live/b34192e0-efba-11f0-a55a-65bc8daf763d.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Villa sign Chelsea's Jean-Francois for £450K]]></title>
+      <description><![CDATA[Aston Villa sign Chelsea and France midfielder Oriane Jean-Francois for £450,000.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2077z588ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2077z588ko</guid>
+      <pubDate>Mon, 12 Jan 2026 21:42:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bb2/live/41831d70-ee0e-11f0-9ef0-d11485de1ad8.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Can you name every EFL Cup-winning team in 10 minutes?]]></title>
       <description><![CDATA[This season is the 66th edition of the EFL Cup... but can you name the winners of the other 65? You've got 10 minutes. Good luck.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4gqxlxz00vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -184,14 +184,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crkr2zye3v1o</guid>
       <pubDate>Mon, 12 Jan 2026 18:43:21 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2932/live/08eae5f0-ef8b-11f0-8faf-09c6d7521940.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Simeone apologises to Real Madrid's Vinicius Jr]]></title>
-      <description><![CDATA[Atletico Madrid manager Diego Simeone accepts his behaviour towards Real Madrid winger Vinicius Junior during their Spanish Super Cup semi-final was wrong]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3ed5d10vp3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3ed5d10vp3o</guid>
-      <pubDate>Mon, 12 Jan 2026 14:28:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37df/live/ce0811c0-efc0-11f0-a55a-65bc8daf763d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch every angle of Gordon's save of the season contender]]></title>
@@ -242,6 +234,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3808/live/32d13d10-ec8e-11f0-abc2-c92f19f0499a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Simeone apologises to Real Madrid's Vinicius Jr]]></title>
+      <description><![CDATA[Atletico Madrid manager Diego Simeone accepts his behaviour towards Real Madrid winger Vinicius Junior during their Spanish Super Cup semi-final was wrong]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3ed5d10vp3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3ed5d10vp3o</guid>
+      <pubDate>Mon, 12 Jan 2026 14:28:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37df/live/ce0811c0-efc0-11f0-a55a-65bc8daf763d.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[A 'new sport' with 'room to improve' - how is Baller League doing?]]></title>
       <description><![CDATA[After the conclusion of Baller League UK season two, BBC Sport looks at how the six-a-side format is progressing.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cz9v5d5l5ljo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -264,14 +264,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1wz398nd4eo</guid>
       <pubDate>Mon, 12 Jan 2026 13:25:04 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4674/live/35abbcf0-efb2-11f0-b61c-6bc75d705b6c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Goals, shocks and fan power on a record-breaking FA Cup weekend]]></title>
-      <description><![CDATA[If anyone needed convincing that the FA Cup still matters, this season's record-breaking third round provided all the necessary evidence.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c07x1ezk3pro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07x1ezk3pro</guid>
-      <pubDate>Sun, 11 Jan 2026 19:21:02 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6be/live/46e871d0-ef0c-11f0-bff1-0379204eb6d3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Two for Reed as Mansfield upset Sheff Utd in thriller]]></title>
@@ -320,6 +312,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjrznz7lj8jo</guid>
       <pubDate>Mon, 12 Jan 2026 14:05:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c22/live/7143aa50-efbe-11f0-a55a-65bc8daf763d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Goals, shocks and fan power on a record-breaking FA Cup weekend]]></title>
+      <description><![CDATA[If anyone needed convincing that the FA Cup still matters, this season's record-breaking third round provided all the necessary evidence.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c07x1ezk3pro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07x1ezk3pro</guid>
+      <pubDate>Sun, 11 Jan 2026 19:21:02 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6be/live/46e871d0-ef0c-11f0-bff1-0379204eb6d3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Brighton bring in All Blacks' chief Anthony ]]></title>
