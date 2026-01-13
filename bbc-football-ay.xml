@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 18:59:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 19:27:03 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Carrick confirmed as Man Utd caretaker head coach]]></title>
+      <description><![CDATA[Manchester United appoint former player Michael Carrick as caretaker head coach until the end of the season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0erq5gdvwqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0erq5gdvwqo</guid>
+      <pubDate>Tue, 13 Jan 2026 10:14:03 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5294/live/be4a2520-f09c-11f0-b385-5f48925de19a.jpg"/>
+    </item>
     <item>
       <title><![CDATA[What does Trump's foreign policy mean for World Cup?]]></title>
       <description><![CDATA[As a group of cross-party MPs calls on Fifa to consider expelling the USA from the World Cup, BBC Sport analyses what Donald Trump’s foreign policy means for the tournament.]]></description>
@@ -22,14 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2051p7ej1vo</guid>
       <pubDate>Tue, 13 Jan 2026 18:34:08 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07cd/live/78f4f9f0-ef9d-11f0-a161-0dc741483a6b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Carrick to bring in Holland as Man Utd assistant]]></title>
-      <description><![CDATA[Michael Carrick agrees to become Manchester United interim head coach - and former England assistant manager Steve Holland is set to be his number two.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0erq5gdvwqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0erq5gdvwqo</guid>
-      <pubDate>Tue, 13 Jan 2026 10:14:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ec6/live/5f3fdf70-f065-11f0-a8a9-7f10ab32742b.png"/>
     </item>
     <item>
       <title><![CDATA[Chelsea and Scotland legend McCreadie dies aged 85]]></title>
@@ -88,14 +88,6 @@
       <media:thumbnail width="240" height="128" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c66/live/42664630-efea-11f0-b5f7-49f0357294ff.png"/>
     </item>
     <item>
-      <title><![CDATA[Is Carrick the right man for Man Utd?]]></title>
-      <description><![CDATA[Michael Carrick is set to be named Man United's next interim manager. Simon Stone assesses if he is the right fit for the job.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy09jdr70nvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy09jdr70nvo</guid>
-      <pubDate>Mon, 12 Jan 2026 18:56:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b40/live/60b65640-efca-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Gabon's government lifts sanctions on team and Aubameyang]]></title>
       <description><![CDATA[Gabon's government lifts the sanctions it imposed on the national team and striker Pierre-Emerick Aubameyang after their exit from Afcon 2025.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c07xdzdlg4mo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -152,6 +144,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7849/live/69dad460-efea-11f0-a7b5-3564185a54d0.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Is Carrick the right man for Man Utd?]]></title>
+      <description><![CDATA[Michael Carrick is set to be named Man United's next interim manager. Simon Stone assesses if he is the right fit for the job.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy09jdr70nvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy09jdr70nvo</guid>
+      <pubDate>Mon, 12 Jan 2026 18:56:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b40/live/60b65640-efca-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Swindon captain Clarke banned for 'highly violating' act on opponents]]></title>
       <description><![CDATA[Swindon captain Ollie Clarke committed "highly violating and intentional foul play" on two opponents' "private body parts"  during a game against Cardiff City, according to a disciplinary report.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2ljl57ge7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -174,14 +174,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwn7n42p1vo</guid>
       <pubDate>Tue, 13 Jan 2026 10:26:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a74/live/9d9757e0-eff6-11f0-b5f7-49f0357294ff.png"/>
-    </item>
-    <item>
-      <title><![CDATA['Of course' - Rooney would be willing to join favourite Carrick at Man Utd]]></title>
-      <description><![CDATA[Wayne Rooney says it would be a "no-brainer" to rejoin Manchester United as a coach if Michael Carrick is appointed as a caretaker boss until the end of the season. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1klvl922rjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1klvl922rjo</guid>
-      <pubDate>Mon, 12 Jan 2026 17:20:50 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee28/live/e0a245a0-efdc-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Welbeck scores as Brighton knock Man Utd out of FA Cup]]></title>
