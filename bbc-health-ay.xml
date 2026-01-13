@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 01:28:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 03:18:37 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Safe spaces needed for drug-addicted children, say grieving mums]]></title>
+      <description><![CDATA[More children in England are in drug and alcohol treatment, but families say many cannot get help.]]></description>
+      <link>https://www.bbc.com/news/articles/cwyxle17jl8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyxle17jl8o</guid>
+      <pubDate>Tue, 13 Jan 2026 01:03:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89b1/live/3d7e2820-ef9c-11f0-a161-0dc741483a6b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[I spent months investigating whether gut health affects ageing - and if I could hack my own gut to age better]]></title>
+      <description><![CDATA[Health editor Hugh Pym revamped his diet after a test suggested his gut health appeared to look five years older than he was]]></description>
+      <link>https://www.bbc.com/news/articles/c1m8m47jl5eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1m8m47jl5eo</guid>
+      <pubDate>Tue, 13 Jan 2026 00:05:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e0/live/69fdec90-efc5-11f0-b385-5f48925de19a.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Revolutionary eye injection saved my sight, says first-ever patient]]></title>
       <description><![CDATA[Nicki's eye had collapsed in on itself, but a new gel injection method has saved her vision.]]></description>
@@ -54,22 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c050ljnrv2qo</guid>
       <pubDate>Thu, 08 Jan 2026 01:21:56 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddcb/live/e7a631e0-eb13-11f0-992c-75363ad17690.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Long waits for disability benefit claims unacceptable, MPs say]]></title>
-      <description><![CDATA[Some people are waiting more than a year to have their claims processed, the Public Accounts Committee says.]]></description>
-      <link>https://www.bbc.com/news/articles/c931klw03yko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c931klw03yko</guid>
-      <pubDate>Fri, 09 Jan 2026 16:22:44 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d6f/live/de506470-ecbd-11f0-85c7-cf9da063a58e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Three NHS trusts still using fax machines, Streeting confesses]]></title>
-      <description><![CDATA[The health secretary had made it his personal mission to banish the fax machine from the NHS.]]></description>
-      <link>https://www.bbc.com/news/articles/c801yyz3z5go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c801yyz3z5go</guid>
-      <pubDate>Thu, 08 Jan 2026 15:49:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23c9/live/c7848610-eca7-11f0-8d86-1f6515ae635b.jpg"/>
     </item>
     <item>
       <title><![CDATA[How do cold weather health alerts work?]]></title>
@@ -190,6 +190,22 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cy47p5vnyn0o</guid>
       <pubDate>Mon, 01 Dec 2025 06:28:38 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e58/live/52c06560-cde9-11f0-a750-a3ce41dc0968.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Long waits for disability benefit claims unacceptable, MPs say]]></title>
+      <description><![CDATA[Some people are waiting more than a year to have their claims processed, the Public Accounts Committee says.]]></description>
+      <link>https://www.bbc.com/news/articles/c931klw03yko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c931klw03yko</guid>
+      <pubDate>Fri, 09 Jan 2026 16:22:44 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d6f/live/de506470-ecbd-11f0-85c7-cf9da063a58e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Three NHS trusts still using fax machines, Streeting confesses]]></title>
+      <description><![CDATA[The health secretary had made it his personal mission to banish the fax machine from the NHS.]]></description>
+      <link>https://www.bbc.com/news/articles/c801yyz3z5go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c801yyz3z5go</guid>
+      <pubDate>Thu, 08 Jan 2026 15:49:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23c9/live/c7848610-eca7-11f0-8d86-1f6515ae635b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Parents say babies failed by delayed diagnosis like Jesy Nelson's twins]]></title>
@@ -337,22 +353,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yqjezrnj4o</guid>
       <pubDate>Wed, 17 Dec 2025 15:35:14 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8412/live/c4dc31f0-db5a-11f0-93d6-1d9639c09cd6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Online gaming escaped Australia's social media ban - but critics say it's just as addictive]]></title>
-      <description><![CDATA[Parents and experts say gaming poses many of the same risks for kids as social media, and want them included.]]></description>
-      <link>https://www.bbc.com/news/articles/c93w90kqgv9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c93w90kqgv9o</guid>
-      <pubDate>Fri, 12 Dec 2025 20:45:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24f3/live/2a7bc580-d777-11f0-aae2-2191c0e48a3b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why are sperm donors having hundreds of children?]]></title>
-      <description><![CDATA[The European sperm market is booming, but is some donors' sperm being used to make too many babies?]]></description>
-      <link>https://www.bbc.com/news/articles/cvg8mge23leo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg8mge23leo</guid>
-      <pubDate>Sat, 13 Dec 2025 00:09:51 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f8/live/b7f57c30-d78b-11f0-b0ee-a9375724f730.jpg"/>
     </item>
     <item>
       <title><![CDATA[Much of £11bn Covid scheme fraud 'beyond recovery', report says]]></title>
