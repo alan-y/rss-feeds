@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 23:48:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 01:45:19 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[First leukaemia patient to receive pioneering treatment on NHS says it is 'very sci-fi']]></title>
+      <description><![CDATA[Oscar Murphy has an aggressive form of the blood cancer and is the first to get CAR-T therapy in the UK.]]></description>
+      <link>https://www.bbc.com/news/articles/c62r56zzzq4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c62r56zzzq4o</guid>
+      <pubDate>Wed, 14 Jan 2026 00:12:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c876/live/b2058b60-f0b5-11f0-b385-5f48925de19a.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Safe spaces needed for drug-addicted children, say grieving mums]]></title>
       <description><![CDATA[More children in England are in drug and alcohol treatment, but families say many cannot get help.]]></description>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cn98pdpyjz5o</guid>
       <pubDate>Sun, 21 Dec 2025 01:01:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2583/live/26e92bd0-dcfc-11f0-a8dc-93c15fe68710.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[People fake weight to obtain 'skinny jabs', says GP]]></title>
-      <description><![CDATA[A doctor from Chelmsford calls for more checks to stop the drugs being sold inappropriately online.]]></description>
-      <link>https://www.bbc.com/news/articles/cj69dg4j1rlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj69dg4j1rlo</guid>
-      <pubDate>Thu, 18 Dec 2025 08:26:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d91/live/fc881d00-dbf3-11f0-9215-a1336f9b1117.png"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
