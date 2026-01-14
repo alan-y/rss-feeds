@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 10:26:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 10:56:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -145,12 +145,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b527/live/c1efb950-eff3-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Can you name every Man Utd boss since Ferguson?]]></title>
+      <description><![CDATA[Can you name every manager or head coach to lead Manchester United since Sir Alex Ferguson's retirement in 2013?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd6w07eey9wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd6w07eey9wo</guid>
+      <pubDate>Wed, 14 Jan 2026 10:28:48 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e75e/live/1ec98460-f131-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Salah-Mane rivalry renewed in Afcon semi-finals]]></title>
       <description><![CDATA[Mohamed Salah's Egypt will face Senegal in the Afcon 2025 semi-finals, offering the chance of revenge against his old Liverpool team-mate Sadio Mane.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c9dvg5lyz02o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9dvg5lyz02o</guid>
       <pubDate>Tue, 13 Jan 2026 19:41:21 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0536/live/ce2f7960-f090-11f0-b385-5f48925de19a.png"/>
+    </item>
+    <item>
+      <title><![CDATA['Major whoopsie' - Holloway expects action after Swindon teamsheet error]]></title>
+      <description><![CDATA[Swindon manager Ian Holloway is expecting "action" after substitute Aaron Drinan was missing from their teamsheet in the EFL Trophy win at Luton.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdexz49g713o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdexz49g713o</guid>
+      <pubDate>Wed, 14 Jan 2026 10:02:15 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feff/live/6ed74ed0-f12a-11f0-8813-c1dd7edee31e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Afcon quiz: Name every Africa Cup of Nations winner]]></title>
@@ -175,22 +191,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c394z1p7g04o</guid>
       <pubDate>Tue, 13 Jan 2026 22:35:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f95/live/b5701020-f0c1-11f0-a422-4ba8a094a8fa.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Gabon's government lifts sanctions on team and Aubameyang]]></title>
-      <description><![CDATA[Gabon's government lifts the sanctions it imposed on the national team and striker Pierre-Emerick Aubameyang after their exit from Afcon 2025.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c07xdzdlg4mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07xdzdlg4mo</guid>
-      <pubDate>Tue, 13 Jan 2026 17:07:50 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1a9/live/166b7f70-f0a1-11f0-85ea-637af9691683.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Football fan died after being targeted by 'predatory' gambling sites]]></title>
-      <description><![CDATA[A coroner concludes that a 36-year-old Liverpool fan took his own life after he was enticed to use illegal gambling websites to bet on football matches.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly3x9ngj18o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly3x9ngj18o</guid>
-      <pubDate>Tue, 13 Jan 2026 17:45:51 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a907/live/b0762380-f08e-11f0-8633-2300c866ee4a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rooney & Heathcote reflect on Macclesfield's 'incredible' cup win]]></title>
@@ -233,6 +233,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0d2/live/28f21820-eef8-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Gabon's government lifts sanctions on team and Aubameyang]]></title>
+      <description><![CDATA[Gabon's government lifts the sanctions it imposed on the national team and striker Pierre-Emerick Aubameyang after their exit from Afcon 2025.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c07xdzdlg4mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07xdzdlg4mo</guid>
+      <pubDate>Tue, 13 Jan 2026 17:07:50 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1a9/live/166b7f70-f0a1-11f0-85ea-637af9691683.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[VAR errors increase: Each of the 13 mistakes so far this season]]></title>
       <description><![CDATA[The Premier League's KMI Panel makes judgements on every key decisions. Here's what they say the VAR has got wrong. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvgrx8ml7m0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -249,20 +257,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2ba/live/aea00960-efdd-11f0-be9a-5d00009628a6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Football fan died after being targeted by 'predatory' gambling sites]]></title>
+      <description><![CDATA[A coroner concludes that a 36-year-old Liverpool fan took his own life after he was enticed to use illegal gambling websites to bet on football matches.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly3x9ngj18o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly3x9ngj18o</guid>
+      <pubDate>Tue, 13 Jan 2026 17:45:51 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a907/live/b0762380-f08e-11f0-8633-2300c866ee4a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Macclesfield to host Brentford in FA Cup fourth round - see full draw]]></title>
       <description><![CDATA[Sixth-tier Macclesfield are rewarded with a home tie against Brentford in the FA Cup fourth round after their shock win over holders Crystal Palace. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy8pngd870vo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8pngd870vo</guid>
       <pubDate>Mon, 12 Jan 2026 18:56:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7849/live/69dad460-efea-11f0-a7b5-3564185a54d0.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why Alonso's reign is over at Real Madrid]]></title>
-      <description><![CDATA[After Xabi Alonso's departure as Real Madrid manager, Spanish football expert Guillem Balague looks into where it all went wrong.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3ed5x7d172o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3ed5x7d172o</guid>
-      <pubDate>Mon, 12 Jan 2026 19:54:25 GMT</pubDate>
-      <media:thumbnail width="240" height="128" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c66/live/42664630-efea-11f0-b5f7-49f0357294ff.png"/>
     </item>
     <item>
       <title><![CDATA[Carrick confirmed as Man Utd caretaker head coach]]></title>
@@ -313,12 +321,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/643c/live/67030050-eefa-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
-      <title><![CDATA[A 'weird' and 'incredible' error - but was Szoboszlai disrespectful?]]></title>
-      <description><![CDATA[Liverpool beat Barnsley 4-1 in FA Cup fourth round but it was Dominik Szoboszlai's first-half error that had lots of people talking.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9vxg4dmpzwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9vxg4dmpzwo</guid>
-      <pubDate>Mon, 12 Jan 2026 23:45:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a0/live/c7c058e0-f010-11f0-b5f7-49f0357294ff.jpg"/>
+      <title><![CDATA[Why Alonso's reign is over at Real Madrid]]></title>
+      <description><![CDATA[After Xabi Alonso's departure as Real Madrid manager, Spanish football expert Guillem Balague looks into where it all went wrong.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3ed5x7d172o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3ed5x7d172o</guid>
+      <pubDate>Mon, 12 Jan 2026 19:54:25 GMT</pubDate>
+      <media:thumbnail width="240" height="128" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c66/live/42664630-efea-11f0-b5f7-49f0357294ff.png"/>
     </item>
     <item>
       <title><![CDATA[Hearts agree pre-contract with Uganda forward Mato]]></title>
@@ -353,22 +361,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3946/live/aa7212e0-7de9-11f0-83cc-c5da98c419b8.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Manager Alonso leaves Real Madrid as Arbeloa takes charge]]></title>
-      <description><![CDATA[Xabi Alonso leaves his position as Real Madrid manager after less than eight months in charge as former Liverpool team-mate Alvaro Arbeloa is appointed as replacement.
-
-]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj3vj7ex748o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj3vj7ex748o</guid>
-      <pubDate>Mon, 12 Jan 2026 17:24:27 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dfe/live/cdd95a70-efdd-11f0-be9a-5d00009628a6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Villa sign Chelsea's Jean-Francois for £450K]]></title>
       <description><![CDATA[Aston Villa sign Chelsea and France midfielder Oriane Jean-Francois for £450,000.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2077z588ko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2077z588ko</guid>
       <pubDate>Mon, 12 Jan 2026 21:42:50 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bb2/live/41831d70-ee0e-11f0-9ef0-d11485de1ad8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[A 'weird' and 'incredible' error - but was Szoboszlai disrespectful?]]></title>
+      <description><![CDATA[Liverpool beat Barnsley 4-1 in FA Cup fourth round but it was Dominik Szoboszlai's first-half error that had lots of people talking.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9vxg4dmpzwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9vxg4dmpzwo</guid>
+      <pubDate>Mon, 12 Jan 2026 23:45:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a0/live/c7c058e0-f010-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[West Ham reluctant to sell Paqueta amid interest]]></title>
@@ -409,14 +415,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g0dx44nego</guid>
       <pubDate>Tue, 13 Jan 2026 14:27:19 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d19/live/4e5c7d50-f08b-11f0-92ac-9f1b3a47bd73.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[A 'new sport' with 'room to improve' - how is Baller League doing?]]></title>
-      <description><![CDATA[After the conclusion of Baller League UK season two, BBC Sport looks at how the six-a-side format is progressing.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz9v5d5l5ljo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz9v5d5l5ljo</guid>
-      <pubDate>Mon, 12 Jan 2026 12:24:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edd9/live/1a3e32a0-ef3e-11f0-8b31-619a92b39215.jpg"/>
     </item>
     <item>
       <title><![CDATA[FA Cup quiz: Name every non-league team that has beaten a top-flight side]]></title>
