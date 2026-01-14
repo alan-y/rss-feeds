@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 18:32:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 19:00:14 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[Tottenham sign Gallagher from Atletico for £35m]]></title>
-      <description><![CDATA[The former Chelsea midfielder joins Spurs on a deal until 2031.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cddgzj33r2lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cddgzj33r2lo</guid>
-      <pubDate>Wed, 14 Jan 2026 16:14:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e74d/live/16eca0d0-f166-11f0-bfbc-db36ba7a9ce1.jpg"/>
-    </item>
     <item>
       <title><![CDATA[Is Wenger's daylight idea the solution to fix offside?]]></title>
       <description><![CDATA[Is the offside law about to change to Arsene Wenger's daylight idea? And should football make that change just because of VAR?]]></description>
@@ -30,6 +22,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c17zw81yxp5o</guid>
       <pubDate>Wed, 14 Jan 2026 17:00:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30a9/live/78f9f680-f15f-11f0-bfbc-db36ba7a9ce1.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Tottenham sign Gallagher from Atletico for £35m]]></title>
+      <description><![CDATA[The former Chelsea midfielder joins Spurs on a deal until 2031.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cddgzj33r2lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cddgzj33r2lo</guid>
+      <pubDate>Wed, 14 Jan 2026 16:14:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e74d/live/16eca0d0-f166-11f0-bfbc-db36ba7a9ce1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why has no English boss won Premier League -  and who could be first?]]></title>
@@ -88,14 +88,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cefc/live/d94bf190-f09d-11f0-8122-3db3b1d47cf5.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What is it like to be a caretaker manager?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team explains what life is like as a caretaker boss after Michael Carrick's appointment at Manchester United, with Neil Warnock and Phil Brown detailing their experiences.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2w783d9ezo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2w783d9ezo</guid>
-      <pubDate>Wed, 14 Jan 2026 08:30:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/990e/live/b958a680-f075-11f0-a422-4ba8a094a8fa.png"/>
-    </item>
-    <item>
       <title><![CDATA[Watch trailer for Mo Salah: Never Give Up]]></title>
       <description><![CDATA[Watch the trailer for BBC documentary Mo Salah: Never Give Up.
 ]]></description>
@@ -137,6 +129,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b527/live/c1efb950-eff3-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
+      <title><![CDATA[What is it like to be a caretaker manager?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team explains what life is like as a caretaker boss after Michael Carrick's appointment at Manchester United, with Neil Warnock and Phil Brown detailing their experiences.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2w783d9ezo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2w783d9ezo</guid>
+      <pubDate>Wed, 14 Jan 2026 08:30:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/990e/live/b958a680-f075-11f0-a422-4ba8a094a8fa.png"/>
+    </item>
+    <item>
       <title><![CDATA[Trump's foreign policy and what it might mean for the World Cup]]></title>
       <description><![CDATA[As a group of cross-party MPs calls on Fifa to consider expelling the USA from the World Cup, BBC Sport analyses what Donald Trump’s foreign policy means for the tournament.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c2051p7ej1vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -167,14 +167,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2d70220w9po</guid>
       <pubDate>Wed, 14 Jan 2026 14:48:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/471c/live/2bef42a0-f155-11f0-9fdd-27d7df3706fc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Comeback starts now' - Bradley has knee surgery ]]></title>
-      <description><![CDATA[Liverpool right-back Conor Bradley says he has undergone successful surgery on his season-ending knee injury. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g0d611m59o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g0d611m59o</guid>
-      <pubDate>Wed, 14 Jan 2026 12:53:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad8/live/bad0ae30-f13e-11f0-bd56-9b1dc8f84e89.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rooney & Heathcote reflect on Macclesfield's 'incredible' cup win]]></title>
@@ -215,6 +207,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c87rp7g4pg2o</guid>
       <pubDate>Sun, 11 Jan 2026 15:56:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0d2/live/28f21820-eef8-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Comeback starts now' - Bradley has knee surgery ]]></title>
+      <description><![CDATA[Liverpool right-back Conor Bradley says he has undergone successful surgery on his season-ending knee injury. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g0d611m59o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g0d611m59o</guid>
+      <pubDate>Wed, 14 Jan 2026 12:53:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad8/live/bad0ae30-f13e-11f0-bd56-9b1dc8f84e89.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is Carrick the right man for Man Utd?]]></title>
@@ -265,14 +265,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2af/live/dba94040-db59-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Rosenior to talk to Sterling and Disasi about Chelsea exile]]></title>
-      <description><![CDATA[New Chelsea manager has pledged to speak to Raheem Sterling and Axel Disasi, who were left in limbo by the previous boss.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5y42lg2w8lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y42lg2w8lo</guid>
-      <pubDate>Tue, 13 Jan 2026 22:30:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d29/live/bde6da10-efd9-11f0-be9a-5d00009628a6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Castellanos scores in extra time as West Ham edge past QPR]]></title>
       <description><![CDATA[Valentin 'Taty' Castellanos scores his first goal for West Ham United as they beat Queens Park Rangers in extra time and progress to the fourth round of the FA Cup.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c0q4nqeq8yeo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -321,6 +313,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f3/live/51b93cf0-efc7-11f0-9a79-cfc8898f9898.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Rosenior to talk to Sterling and Disasi about Chelsea exile]]></title>
+      <description><![CDATA[New Chelsea manager has pledged to speak to Raheem Sterling and Axel Disasi, who were left in limbo by the previous boss.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5y42lg2w8lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y42lg2w8lo</guid>
+      <pubDate>Tue, 13 Jan 2026 22:30:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d29/live/bde6da10-efd9-11f0-be9a-5d00009628a6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Ex-Padres co-owner Fowler to take Lincoln controlling stake]]></title>
       <description><![CDATA[Former executive chairman and co-owner of Major League Baseball side San Diego Padres, Ron Fowler, is set to take a controlling stake in English third-tier side Lincoln City.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn7jd8gj2y5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -353,20 +353,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f95/live/b5701020-f0c1-11f0-a422-4ba8a094a8fa.png"/>
     </item>
     <item>
-      <title><![CDATA[Football fan died after being targeted by 'predatory' gambling sites]]></title>
-      <description><![CDATA[A coroner concludes that a 36-year-old Liverpool fan took his own life after he was enticed to use illegal gambling websites to bet on football matches.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly3x9ngj18o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly3x9ngj18o</guid>
-      <pubDate>Tue, 13 Jan 2026 17:45:51 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a907/live/b0762380-f08e-11f0-8633-2300c866ee4a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Macclesfield to host Brentford in FA Cup fourth round - see full draw]]></title>
       <description><![CDATA[Sixth-tier Macclesfield are rewarded with a home tie against Brentford in the FA Cup fourth round after their shock win over holders Crystal Palace. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy8pngd870vo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8pngd870vo</guid>
       <pubDate>Mon, 12 Jan 2026 18:56:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7849/live/69dad460-efea-11f0-a7b5-3564185a54d0.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Football fan died after being targeted by 'predatory' gambling sites]]></title>
+      <description><![CDATA[A coroner concludes that a 36-year-old Liverpool fan took his own life after he was enticed to use illegal gambling websites to bet on football matches.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly3x9ngj18o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly3x9ngj18o</guid>
+      <pubDate>Tue, 13 Jan 2026 17:45:51 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a907/live/b0762380-f08e-11f0-8633-2300c866ee4a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Which countries' fans are banned from US World Cup games?]]></title>
@@ -399,14 +399,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1je5epg6g4o</guid>
       <pubDate>Mon, 12 Jan 2026 15:47:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c1a/live/b34192e0-efba-11f0-a55a-65bc8daf763d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Can you name every EFL Cup-winning team in 10 minutes?]]></title>
-      <description><![CDATA[This season is the 66th edition of the EFL Cup... but can you name the winners of the other 65? You've got 10 minutes. Good luck.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gqxlxz00vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gqxlxz00vo</guid>
-      <pubDate>Tue, 13 Jan 2026 08:05:17 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3946/live/aa7212e0-7de9-11f0-83cc-c5da98c419b8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why Alonso's reign is over at Real Madrid]]></title>
