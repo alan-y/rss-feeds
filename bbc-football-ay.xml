@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 09:56:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 10:26:12 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -38,6 +38,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn56k7dpw7ko</guid>
       <pubDate>Wed, 14 Jan 2026 08:25:07 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ce8/live/61a58fd0-f09c-11f0-95c2-2f43243b954d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['We're really stretched' - Livramento blow adds to Newcastle defence concerns]]></title>
+      <description><![CDATA[Head coach Eddie Howe admits Newcastle United are "really stretched" after Tino Livramento is ruled out for up to two months with a hamstring injury.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c78e49x5j0do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78e49x5j0do</guid>
+      <pubDate>Wed, 14 Jan 2026 10:14:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cefc/live/d94bf190-f09d-11f0-8122-3db3b1d47cf5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why Osimhen has become 'king of Nigerian football']]></title>
@@ -96,22 +104,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d29/live/bde6da10-efd9-11f0-be9a-5d00009628a6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Chelsea and Scotland legend McCreadie dies aged 85]]></title>
-      <description><![CDATA[Former Scotland and Chelsea player Eddie McCreadie, who was once hailed by Tommy Docherty as the best left-back in Europe and went on to manage the London club, dies at the age of 85.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g0d3eyvepo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g0d3eyvepo</guid>
-      <pubDate>Tue, 13 Jan 2026 18:20:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a732/live/0ea30050-f0ac-11f0-b546-d96774f73259.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Salah-Mane rivalry renewed in Afcon semi-finals]]></title>
-      <description><![CDATA[Mohamed Salah's Egypt will face Senegal in the Afcon 2025 semi-finals, offering the chance of revenge against his old Liverpool team-mate Sadio Mane.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9dvg5lyz02o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9dvg5lyz02o</guid>
-      <pubDate>Tue, 13 Jan 2026 19:41:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0536/live/ce2f7960-f090-11f0-b385-5f48925de19a.png"/>
-    </item>
-    <item>
       <title><![CDATA[Watch trailer for Mo Salah: Never Give Up]]></title>
       <description><![CDATA[Watch the trailer for BBC documentary Mo Salah: Never Give Up.
 ]]></description>
@@ -153,12 +145,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b527/live/c1efb950-eff3-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Salah-Mane rivalry renewed in Afcon semi-finals]]></title>
+      <description><![CDATA[Mohamed Salah's Egypt will face Senegal in the Afcon 2025 semi-finals, offering the chance of revenge against his old Liverpool team-mate Sadio Mane.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9dvg5lyz02o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9dvg5lyz02o</guid>
+      <pubDate>Tue, 13 Jan 2026 19:41:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0536/live/ce2f7960-f090-11f0-b385-5f48925de19a.png"/>
+    </item>
+    <item>
       <title><![CDATA[Afcon quiz: Name every Africa Cup of Nations winner]]></title>
       <description><![CDATA[With the Africa Cup of Nations kicking off on Sunday, 21 December, can you name every tournament winner?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5yql3n8v5qo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yql3n8v5qo</guid>
       <pubDate>Wed, 14 Jan 2026 09:15:40 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2af/live/dba94040-db59-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Chelsea and Scotland legend McCreadie dies aged 85]]></title>
+      <description><![CDATA[Former Scotland and Chelsea player Eddie McCreadie, who was once hailed by Tommy Docherty as the best left-back in Europe and went on to manage the London club, dies at the age of 85.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g0d3eyvepo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g0d3eyvepo</guid>
+      <pubDate>Tue, 13 Jan 2026 18:20:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a732/live/0ea30050-f0ac-11f0-b546-d96774f73259.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man City prepare Guehi offer - Wednesday's gossip]]></title>
@@ -183,14 +191,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly3x9ngj18o</guid>
       <pubDate>Tue, 13 Jan 2026 17:45:51 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a907/live/b0762380-f08e-11f0-8633-2300c866ee4a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Spurs set to beat Villa to £35m Gallagher]]></title>
-      <description><![CDATA[Tottenham expect to complete a £35m deal for Conor Gallagher after moving ahead of Aston Villa in the race for the England international's signature.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp3zq8v4ek5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3zq8v4ek5o</guid>
-      <pubDate>Mon, 12 Jan 2026 21:49:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2ba/live/aea00960-efdd-11f0-be9a-5d00009628a6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rooney & Heathcote reflect on Macclesfield's 'incredible' cup win]]></title>
@@ -241,6 +241,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f3/live/51b93cf0-efc7-11f0-9a79-cfc8898f9898.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Spurs set to beat Villa to £35m Gallagher]]></title>
+      <description><![CDATA[Tottenham expect to complete a £35m deal for Conor Gallagher after moving ahead of Aston Villa in the race for the England international's signature.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp3zq8v4ek5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3zq8v4ek5o</guid>
+      <pubDate>Mon, 12 Jan 2026 21:49:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2ba/live/aea00960-efdd-11f0-be9a-5d00009628a6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Macclesfield to host Brentford in FA Cup fourth round - see full draw]]></title>
       <description><![CDATA[Sixth-tier Macclesfield are rewarded with a home tie against Brentford in the FA Cup fourth round after their shock win over holders Crystal Palace. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy8pngd870vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -263,14 +271,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0erq5gdvwqo</guid>
       <pubDate>Tue, 13 Jan 2026 19:28:01 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5294/live/be4a2520-f09c-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[A 'weird' and 'incredible' error - but was Szoboszlai disrespectful?]]></title>
-      <description><![CDATA[Liverpool beat Barnsley 4-1 in FA Cup fourth round but it was Dominik Szoboszlai's first-half error that had lots of people talking.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9vxg4dmpzwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9vxg4dmpzwo</guid>
-      <pubDate>Mon, 12 Jan 2026 23:45:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a0/live/c7c058e0-f010-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Castellanos scores in extra time as West Ham edge past QPR]]></title>
@@ -311,6 +311,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c2k9vzj9lnwo</guid>
       <pubDate>Sun, 11 Jan 2026 18:01:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/643c/live/67030050-eefa-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[A 'weird' and 'incredible' error - but was Szoboszlai disrespectful?]]></title>
+      <description><![CDATA[Liverpool beat Barnsley 4-1 in FA Cup fourth round but it was Dominik Szoboszlai's first-half error that had lots of people talking.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9vxg4dmpzwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9vxg4dmpzwo</guid>
+      <pubDate>Mon, 12 Jan 2026 23:45:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a0/live/c7c058e0-f010-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hearts agree pre-contract with Uganda forward Mato]]></title>
@@ -363,20 +371,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bb2/live/41831d70-ee0e-11f0-9ef0-d11485de1ad8.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Celtic's Jota likely out for season & Welsh could return to Well]]></title>
-      <description><![CDATA[Recalled centre-half Stephen Welsh could return to Motherwell before the end of the January transfer window, interim Celtic manager Martin O'Neill has suggested while admitting he does not expect injured winger Jota to play again this season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg5v4ekrqqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg5v4ekrqqo</guid>
-      <pubDate>Tue, 13 Jan 2026 16:08:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcf/live/78c06cd0-f097-11f0-b5f7-49f0357294ff.png"/>
-    </item>
-    <item>
       <title><![CDATA[West Ham reluctant to sell Paqueta amid interest]]></title>
       <description><![CDATA[West Ham are reluctant to sanction a sale for Lucas Paqueta this month amid interest in the attacker from Brazil.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4gr6rd65n4o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gr6rd65n4o</guid>
       <pubDate>Mon, 12 Jan 2026 14:21:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ee8/live/7447b800-efbd-11f0-a55a-65bc8daf763d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Celtic's Jota likely out for season & Welsh could return to Well]]></title>
+      <description><![CDATA[Recalled centre-half Stephen Welsh could return to Motherwell before the end of the January transfer window, interim Celtic manager Martin O'Neill has suggested while admitting he does not expect injured winger Jota to play again this season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvg5v4ekrqqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg5v4ekrqqo</guid>
+      <pubDate>Tue, 13 Jan 2026 16:08:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcf/live/78c06cd0-f097-11f0-b5f7-49f0357294ff.png"/>
     </item>
     <item>
       <title><![CDATA[Are fans being turned off multi-club ownership model?]]></title>
@@ -441,14 +449,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3685180x26o</guid>
       <pubDate>Sun, 11 Jan 2026 17:39:06 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a64/live/b8945db0-ef18-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Another door closes for Spurs and Frank with damaging FA Cup exit]]></title>
-      <description><![CDATA[After Spurs' damaging FA Cup exit at home to Aston Villa, chief football writer Phil McNulty asks how long can head coach Thomas Frank survive?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg1p1vgvg3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg1p1vgvg3o</guid>
-      <pubDate>Sat, 10 Jan 2026 22:18:43 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d181/live/f2fe43b0-ee66-11f0-ac04-c7d4d7714981.jpg"/>
     </item>
     <item>
       <title><![CDATA[Transfers - January 2026]]></title>
