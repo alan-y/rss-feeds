@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 15:25:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 16:00:42 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Rejections, depression & promise to his mum - Thiago's route to top]]></title>
+      <description><![CDATA[Igor Thiago's route to the Premier League has been far from straightforward - BBC Sport charts the rise of Brentford's record-breaking Brazilian striker.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c07xpzyv1yno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07xpzyv1yno</guid>
+      <pubDate>Thu, 15 Jan 2026 15:33:08 GMT</pubDate>
+      <media:thumbnail width="240" height="132" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95ff/live/831069c0-f203-11f0-b385-5f48925de19a.png"/>
+    </item>
     <item>
       <title><![CDATA[Robertson keen to stay at Liverpool but 'wants to play football']]></title>
       <description><![CDATA[Liverpool's Andy Robertson on contract talks, a "stressful summer" and why he "wants to play" rather than sit on the bench.]]></description>
@@ -22,22 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8gzemlv5ro</guid>
       <pubDate>Thu, 15 Jan 2026 12:00:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/564b/live/0361d3b0-f200-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Offside or not? Man City, Arsenal and VAR inconsistencies]]></title>
-      <description><![CDATA[Manchester City had their goal disallowed, while Arsenal's was allowed to stand. But the VAR should not look to be consistent with a previous bad decision.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c7v0lz7q7q2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7v0lz7q7q2o</guid>
-      <pubDate>Thu, 15 Jan 2026 13:09:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3283/live/00b40a10-f206-11f0-af44-156539fce2f7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What does xG predict for the rest of the season?]]></title>
-      <description><![CDATA[With more than half the season gone, we have enough stats to get a good idea of how well Premier League teams have been playing and therefore how things are likely to unfold in the months ahead.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0ke7223vp4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0ke7223vp4o</guid>
-      <pubDate>Thu, 15 Jan 2026 06:24:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2712/live/99878790-f14c-11f0-b108-71580feedafc.jpg"/>
     </item>
     <item>
       <title><![CDATA[Managers' authority is being eroded - Southgate]]></title>
@@ -56,28 +48,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/874d/live/b9454270-f21e-11f0-ac5a-9d455c4613c3.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Offside or not? Man City, Arsenal and VAR inconsistencies]]></title>
+      <description><![CDATA[Manchester City had their goal disallowed, while Arsenal's was allowed to stand. But the VAR should not look to be consistent with a previous bad decision.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c7v0lz7q7q2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7v0lz7q7q2o</guid>
+      <pubDate>Thu, 15 Jan 2026 13:09:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3283/live/00b40a10-f206-11f0-af44-156539fce2f7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What does xG predict for the rest of the season?]]></title>
+      <description><![CDATA[With more than half the season gone, we have enough stats to get a good idea of how well Premier League teams have been playing and therefore how things are likely to unfold in the months ahead.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0ke7223vp4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0ke7223vp4o</guid>
+      <pubDate>Thu, 15 Jan 2026 06:24:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2712/live/99878790-f14c-11f0-b108-71580feedafc.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[No VAR error over Wirtz 'offside' goal, panel says]]></title>
       <description><![CDATA[The VAR was correct to intervene and give Florian Wirtz's goal at Fulham despite the Liverpool player appearing to be offside, a panel says.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0kezxl4z40o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kezxl4z40o</guid>
       <pubDate>Thu, 15 Jan 2026 13:13:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25c6/live/b891d050-eb20-11f0-a6a3-53d02379137e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Fernandes not seeking to leave Man Utd in January]]></title>
-      <description><![CDATA[Manchester United captain Bruno Fernandes is not planning to seek a move away from the club this month.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2k9z5dj7pqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2k9z5dj7pqo</guid>
-      <pubDate>Thu, 15 Jan 2026 08:25:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba3/live/d8053f40-f1e6-11f0-b373-d7bde4e9f067.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Bayern's record-breaking Bundesliga season in numbers]]></title>
-      <description><![CDATA[BBC Sport examines the stunning numbers behind Bayern Munich's record-breaking start to the Bundesliga season - and what records they could topple.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd9e7x5dndgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9e7x5dndgo</guid>
-      <pubDate>Wed, 14 Jan 2026 22:29:26 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e03/live/9466ffb0-f193-11f0-9e6d-c7d57b22a9b5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sutton's predictions v WWE superstar Drew McIntyre]]></title>
@@ -94,6 +86,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0kz04107do</guid>
       <pubDate>Thu, 15 Jan 2026 00:04:43 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eae1/live/ea04d080-f1a4-11f0-9b61-4569884e5694.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Fernandes not seeking to leave Man Utd in January]]></title>
+      <description><![CDATA[Manchester United captain Bruno Fernandes is not planning to seek a move away from the club this month.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2k9z5dj7pqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2k9z5dj7pqo</guid>
+      <pubDate>Thu, 15 Jan 2026 08:25:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba3/live/d8053f40-f1e6-11f0-b373-d7bde4e9f067.jpg"/>
     </item>
     <item>
       <title><![CDATA['He knows what he wants' - Chalobah on new manager Rosenior]]></title>
@@ -145,6 +145,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef1/live/eff5be90-f19b-11f0-902c-95f53da9a46e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Bayern's record-breaking Bundesliga season in numbers]]></title>
+      <description><![CDATA[BBC Sport examines the stunning numbers behind Bayern Munich's record-breaking start to the Bundesliga season - and what records they could topple.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd9e7x5dndgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9e7x5dndgo</guid>
+      <pubDate>Wed, 14 Jan 2026 22:29:26 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e03/live/9466ffb0-f193-11f0-9e6d-c7d57b22a9b5.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Semenyo goes straight in the XI - FPL team of the week]]></title>
       <description><![CDATA[This gameweek's FPL team of the week is stacked with Liverpool and Manchester City attacking assets, with Antoine Semenyo picked after an explosive start to life at Etihad Stadium.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn8j1rnkdv2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -167,14 +175,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g5d10m5veo</guid>
       <pubDate>Wed, 14 Jan 2026 21:56:20 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c0b/live/377384e0-f184-11f0-a6b0-5baf1e89070e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hearts 'underdogs by long shot' but still setting Premiership pace]]></title>
-      <description><![CDATA[If it seemed Hearts made a statement by winning with 10 men at Dundee on Sunday, they upped the ante against St Mirren four days later.]]></description>
-      <link>https://www.bbc.com/sport/articles/c20gp09lpglo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c20gp09lpglo</guid>
-      <pubDate>Thu, 15 Jan 2026 00:23:24 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb25/live/541f7be0-f1a6-11f0-b5e8-2184a03aebcd.jpg"/>
     </item>
     <item>
       <title><![CDATA[Carrick would bring spirit of Man Utd back - Rooney]]></title>
@@ -217,6 +217,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ef/live/94e43170-ef8f-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Hearts 'underdogs by long shot' but still setting Premiership pace]]></title>
+      <description><![CDATA[If it seemed Hearts made a statement by winning with 10 men at Dundee on Sunday, they upped the ante against St Mirren four days later.]]></description>
+      <link>https://www.bbc.com/sport/articles/c20gp09lpglo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c20gp09lpglo</guid>
+      <pubDate>Thu, 15 Jan 2026 00:23:24 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb25/live/541f7be0-f1a6-11f0-b5e8-2184a03aebcd.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Is Wenger's daylight idea the solution to fix offside?]]></title>
       <description><![CDATA[Is the offside law about to change to Arsene Wenger's daylight idea? And should football make that change just because of VAR?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c17zw81yxp5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -247,14 +255,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crmlk8zgrzyo</guid>
       <pubDate>Wed, 14 Jan 2026 17:48:42 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a1f/live/b3ddd620-f16b-11f0-b34c-412d8cd6a3dc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why has no English boss won Premier League -  and who could be first?]]></title>
-      <description><![CDATA[Why has an English manager not won the Premier League? Chief football writer Phil McNulty explores who could make history.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp37k9ql449o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp37k9ql449o</guid>
-      <pubDate>Wed, 14 Jan 2026 06:39:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eabf/live/e2b22580-f06e-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arsenal beat Portsmouth thanks to Martinelli hat-trick]]></title>
@@ -329,6 +329,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/990e/live/b958a680-f075-11f0-a422-4ba8a094a8fa.png"/>
     </item>
     <item>
+      <title><![CDATA[Why has no English boss won Premier League -  and who could be first?]]></title>
+      <description><![CDATA[Why has an English manager not won the Premier League? Chief football writer Phil McNulty explores who could make history.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp37k9ql449o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp37k9ql449o</guid>
+      <pubDate>Wed, 14 Jan 2026 06:39:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eabf/live/e2b22580-f06e-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['We're really stretched' - Livramento blow adds to Newcastle defence concerns]]></title>
       <description><![CDATA[Head coach Eddie Howe admits Newcastle United are "really stretched" after Tino Livramento is ruled out for up to two months with a hamstring injury.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c78e49x5j0do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -369,28 +377,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eac9/live/37c6b520-f15c-11f0-9fdd-27d7df3706fc.jpg"/>
     </item>
     <item>
-      <title><![CDATA[VAR errors increase: Each of the 13 mistakes so far this season]]></title>
-      <description><![CDATA[The Premier League's KMI Panel makes judgements on every key decisions. Here's what they say the VAR has got wrong. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgrx8ml7m0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgrx8ml7m0o</guid>
-      <pubDate>Tue, 13 Jan 2026 07:06:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f3/live/51b93cf0-efc7-11f0-9a79-cfc8898f9898.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Comeback starts now' - Bradley has knee surgery ]]></title>
-      <description><![CDATA[Liverpool right-back Conor Bradley says he has undergone successful surgery on his season-ending knee injury. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g0d611m59o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g0d611m59o</guid>
-      <pubDate>Wed, 14 Jan 2026 12:53:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad8/live/bad0ae30-f13e-11f0-bd56-9b1dc8f84e89.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Trump's foreign policy and what it might mean for the World Cup]]></title>
       <description><![CDATA[As a group of cross-party MPs calls on Fifa to consider expelling the USA from the World Cup, BBC Sport analyses what Donald Trump’s foreign policy means for the tournament.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c2051p7ej1vo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2051p7ej1vo</guid>
       <pubDate>Tue, 13 Jan 2026 18:34:08 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07cd/live/78f4f9f0-ef9d-11f0-a161-0dc741483a6b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[VAR errors increase: Each of the 13 mistakes so far this season]]></title>
+      <description><![CDATA[The Premier League's KMI Panel makes judgements on every key decisions. Here's what they say the VAR has got wrong. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgrx8ml7m0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgrx8ml7m0o</guid>
+      <pubDate>Tue, 13 Jan 2026 07:06:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f3/live/51b93cf0-efc7-11f0-9a79-cfc8898f9898.jpg"/>
     </item>
     <item>
       <title><![CDATA[Which countries' fans are banned from US World Cup games?]]></title>
@@ -407,14 +407,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd6w07eey9wo</guid>
       <pubDate>Wed, 14 Jan 2026 10:28:48 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e75e/live/1ec98460-f131-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I'd take him back in a heartbeat' - which players return to haunt old clubs?]]></title>
-      <description><![CDATA[After Brighton's Danny Welbeck scored again against Manchester United on Sunday, who has the best record against their former clubs in the Premier League era?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1je5epg6g4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1je5epg6g4o</guid>
-      <pubDate>Mon, 12 Jan 2026 15:47:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c1a/live/b34192e0-efba-11f0-a55a-65bc8daf763d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch live Bundesliga games on Friday nights on the BBC]]></title>
