@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 11:51:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 12:43:49 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Robertson keen to stay at Liverpool but 'wants to play football']]></title>
+      <description><![CDATA[Liverpool's Andy Robertson on contract talks, a "stressful summer" and why he "wants to play" rather than sit on the bench.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce8gzemlv5ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8gzemlv5ro</guid>
+      <pubDate>Thu, 15 Jan 2026 12:00:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/564b/live/0361d3b0-f200-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
     <item>
       <title><![CDATA[What does xG predict for the rest of the season?]]></title>
       <description><![CDATA[With more than half the season gone, we have enough stats to get a good idea of how well Premier League teams have been playing and therefore how things are likely to unfold in the months ahead.]]></description>
@@ -88,22 +96,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb25/live/541f7be0-f1a6-11f0-b5e8-2184a03aebcd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Atletico want Wolves' Gomes - Thursday's gossip]]></title>
-      <description><![CDATA[Atletico Madrid want Wolves midfielder Joao Gomes, Everton and Nottingham Forest are keen on signing Youssef En-Nesyri, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdre32rd8n5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdre32rd8n5o</guid>
-      <pubDate>Thu, 15 Jan 2026 10:08:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a98f/live/13697fa0-f189-11f0-a422-4ba8a094a8fa.png"/>
-    </item>
-    <item>
-      <title><![CDATA['If Flick hadn't come, I would have left Barca' - Raphinha]]></title>
-      <description><![CDATA[Raphinha has become one of Barcelona's most dependable performers and a decisive figure in their biggest matches, which he credits Hansi Flick for.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crmlk8zgrzyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crmlk8zgrzyo</guid>
-      <pubDate>Wed, 14 Jan 2026 17:48:42 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a1f/live/b3ddd620-f16b-11f0-b34c-412d8cd6a3dc.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['He knows what he wants' - Chalobah on new manager Rosenior]]></title>
       <description><![CDATA[Chelsea defender Trevoh Chalobah says new manager Liam Rosenior has asked the squad to "trust in themselves" and to "rely on each other" following his appointment at Stamford Bridge.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cy9yxwd4p8no?at_medium=RSS&amp;at_campaign=rss</link>
@@ -145,28 +137,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9565/live/30e198d0-f001-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
+      <title><![CDATA['If Flick hadn't come, I would have left Barca' - Raphinha]]></title>
+      <description><![CDATA[Raphinha has become one of Barcelona's most dependable performers and a decisive figure in their biggest matches, which he credits Hansi Flick for.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crmlk8zgrzyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crmlk8zgrzyo</guid>
+      <pubDate>Wed, 14 Jan 2026 17:48:42 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a1f/live/b3ddd620-f16b-11f0-b34c-412d8cd6a3dc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Atletico want Wolves' Gomes - Thursday's gossip]]></title>
+      <description><![CDATA[Atletico Madrid want Wolves midfielder Joao Gomes, Everton and Nottingham Forest are keen on signing Youssef En-Nesyri, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdre32rd8n5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdre32rd8n5o</guid>
+      <pubDate>Thu, 15 Jan 2026 10:08:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a98f/live/13697fa0-f189-11f0-a422-4ba8a094a8fa.png"/>
+    </item>
+    <item>
       <title><![CDATA[Is Wenger's daylight idea the solution to fix offside?]]></title>
       <description><![CDATA[Is the offside law about to change to Arsene Wenger's daylight idea? And should football make that change just because of VAR?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c17zw81yxp5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c17zw81yxp5o</guid>
       <pubDate>Wed, 14 Jan 2026 17:00:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30a9/live/78f9f680-f15f-11f0-bfbc-db36ba7a9ce1.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why has no English boss won Premier League -  and who could be first?]]></title>
-      <description><![CDATA[Why has an English manager not won the Premier League? Chief football writer Phil McNulty explores who could make history.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp37k9ql449o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp37k9ql449o</guid>
-      <pubDate>Wed, 14 Jan 2026 06:39:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eabf/live/e2b22580-f06e-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Tottenham sign Gallagher from Atletico for £35m]]></title>
-      <description><![CDATA[The former Chelsea midfielder joins Spurs on a deal until 2031.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cddgzj33r2lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cddgzj33r2lo</guid>
-      <pubDate>Wed, 14 Jan 2026 16:14:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e74d/live/16eca0d0-f166-11f0-bfbc-db36ba7a9ce1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Carrick would bring spirit of Man Utd back - Rooney]]></title>
@@ -209,6 +201,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ef/live/94e43170-ef8f-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why has no English boss won Premier League -  and who could be first?]]></title>
+      <description><![CDATA[Why has an English manager not won the Premier League? Chief football writer Phil McNulty explores who could make history.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp37k9ql449o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp37k9ql449o</guid>
+      <pubDate>Wed, 14 Jan 2026 06:39:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eabf/live/e2b22580-f06e-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Tottenham sign Gallagher from Atletico for £35m]]></title>
+      <description><![CDATA[The former Chelsea midfielder joins Spurs on a deal until 2031.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cddgzj33r2lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cddgzj33r2lo</guid>
+      <pubDate>Wed, 14 Jan 2026 16:14:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e74d/live/16eca0d0-f166-11f0-bfbc-db36ba7a9ce1.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[West Ham defender Tysiak joins Union Berlin]]></title>
       <description><![CDATA[West Ham defender Amber Tysiak has joined German side Union Berlin.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3wzxg2peg1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -223,14 +231,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2w783d9ezo</guid>
       <pubDate>Wed, 14 Jan 2026 08:30:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/990e/live/b958a680-f075-11f0-a422-4ba8a094a8fa.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Manchester City sign USA midfielder Coffey]]></title>
-      <description><![CDATA[Manchester City have signed United States midfielder Sam Coffey from Portland Thorns on a three-and-a-half-year contract.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0mkw481p8vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mkw481p8vo</guid>
-      <pubDate>Wed, 14 Jan 2026 13:03:44 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebba/live/7dfcd8e0-f147-11f0-b108-71580feedafc.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arsenal beat Portsmouth thanks to Martinelli hat-trick]]></title>
@@ -281,20 +281,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cefc/live/d94bf190-f09d-11f0-8122-3db3b1d47cf5.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Manchester City sign USA midfielder Coffey]]></title>
+      <description><![CDATA[Manchester City have signed United States midfielder Sam Coffey from Portland Thorns on a three-and-a-half-year contract.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0mkw481p8vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mkw481p8vo</guid>
+      <pubDate>Wed, 14 Jan 2026 13:03:44 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebba/live/7dfcd8e0-f147-11f0-b108-71580feedafc.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Semenyo scores again - who are winners and losers of his arrival?]]></title>
       <description><![CDATA[Antoine Semenyo has taken to life seamlessly at Manchester City by hitting the ground running and is already beginning to repay the £62.5m fee Pep Guardiola handed to Bournemouth to sign him.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5y200qgp11o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y200qgp11o</guid>
       <pubDate>Wed, 14 Jan 2026 00:02:01 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c77b/live/e2feae80-f0d4-11f0-b324-6b4869498a9a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Trump's foreign policy and what it might mean for the World Cup]]></title>
-      <description><![CDATA[As a group of cross-party MPs calls on Fifa to consider expelling the USA from the World Cup, BBC Sport analyses what Donald Trump’s foreign policy means for the tournament.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2051p7ej1vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2051p7ej1vo</guid>
-      <pubDate>Tue, 13 Jan 2026 18:34:08 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07cd/live/78f4f9f0-ef9d-11f0-a161-0dc741483a6b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Spurs & Villa charged over melee after FA Cup game]]></title>
@@ -313,12 +313,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2af/live/dba94040-db59-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Agyemang returns to Arsenal for ACL recovery]]></title>
-      <description><![CDATA[England striker Michelle Agyemang returns to Arsenal to recover from injury following a loan spell at Brighton & Hove Albion. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2d70220w9po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2d70220w9po</guid>
-      <pubDate>Wed, 14 Jan 2026 14:48:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/471c/live/2bef42a0-f155-11f0-9fdd-27d7df3706fc.jpg"/>
+      <title><![CDATA[VAR errors increase: Each of the 13 mistakes so far this season]]></title>
+      <description><![CDATA[The Premier League's KMI Panel makes judgements on every key decisions. Here's what they say the VAR has got wrong. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgrx8ml7m0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgrx8ml7m0o</guid>
+      <pubDate>Tue, 13 Jan 2026 07:06:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f3/live/51b93cf0-efc7-11f0-9a79-cfc8898f9898.jpg"/>
     </item>
     <item>
       <title><![CDATA['Comeback starts now' - Bradley has knee surgery ]]></title>
@@ -327,6 +327,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g0d611m59o</guid>
       <pubDate>Wed, 14 Jan 2026 12:53:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad8/live/bad0ae30-f13e-11f0-bd56-9b1dc8f84e89.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Agyemang returns to Arsenal for ACL recovery]]></title>
+      <description><![CDATA[England striker Michelle Agyemang returns to Arsenal to recover from injury following a loan spell at Brighton & Hove Albion. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2d70220w9po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2d70220w9po</guid>
+      <pubDate>Wed, 14 Jan 2026 14:48:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/471c/live/2bef42a0-f155-11f0-9fdd-27d7df3706fc.jpg"/>
     </item>
     <item>
       <title><![CDATA['Major whoopsie' - Holloway expects action after Swindon teamsheet error]]></title>
@@ -351,30 +359,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn9zyn5gp5xo</guid>
       <pubDate>Wed, 14 Jan 2026 17:13:10 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dfa/live/1b17e5e0-f164-11f0-bfbc-db36ba7a9ce1.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[VAR errors increase: Each of the 13 mistakes so far this season]]></title>
-      <description><![CDATA[The Premier League's KMI Panel makes judgements on every key decisions. Here's what they say the VAR has got wrong. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgrx8ml7m0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgrx8ml7m0o</guid>
-      <pubDate>Tue, 13 Jan 2026 07:06:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f3/live/51b93cf0-efc7-11f0-9a79-cfc8898f9898.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Burkina Faso sack coach as Mali hit by resignations]]></title>
-      <description><![CDATA[Burkina Faso sack coach Brama Traore after their last-16 exit at Afcon 2025, while 10 high-ranking members of Mali's football federation resign.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce8gz540388o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8gz540388o</guid>
-      <pubDate>Wed, 14 Jan 2026 16:07:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4896/live/b07b8760-f162-11f0-bfbc-db36ba7a9ce1.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ex-Padres co-owner Fowler to take Lincoln controlling stake]]></title>
-      <description><![CDATA[Former executive chairman and co-owner of Major League Baseball side San Diego Padres, Ron Fowler, is set to take a controlling stake in English third-tier side Lincoln City.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn7jd8gj2y5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn7jd8gj2y5o</guid>
-      <pubDate>Wed, 14 Jan 2026 12:10:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58f4/live/0bfce0f0-f138-11f0-8813-c1dd7edee31e.jpg"/>
     </item>
     <item>
       <title><![CDATA['I'd take him back in a heartbeat' - which players return to haunt old clubs?]]></title>
@@ -489,6 +473,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1fa/live/07548500-e015-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Hearts seal McPake deal and consider new Mato move]]></title>
+      <description><![CDATA[Hearts confirm that St Johnstone winger Josh McPake is to join under freedom of contract in the summer and may try to speed up the arrival of "brilliant talent" Rogers Mato.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgpvnqnzqzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgpvnqnzqzo</guid>
+      <pubDate>Thu, 15 Jan 2026 11:50:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ae1/live/e47ff7d0-f207-11f0-af44-156539fce2f7.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Players made me look stupid', fumes St Mirren boss Robinson]]></title>
       <description><![CDATA[St Mirren manager Stephen Robinson aims a strongly worded tirade towards his players after they slumped to a fourth straight defeat - against 10-man Hearts.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c75xr5gevdyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -503,14 +495,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2x0jkke94o</guid>
       <pubDate>Thu, 15 Jan 2026 08:02:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe4/live/403eeb10-f1e7-11f0-b385-5f48925de19a.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Rangers sign Westerlo's Rommens - but what are they getting?]]></title>
-      <description><![CDATA[Rangers have completed the signing of Tuur Rommens from Westerlo, but what are Ibrox club getting from in-demand left-back? ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgrejyzjrzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgrejyzjrzo</guid>
-      <pubDate>Wed, 14 Jan 2026 16:19:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a71d/live/bd016250-f169-11f0-b34c-412d8cd6a3dc.jpg"/>
     </item>
     <item>
       <title><![CDATA[Benfica players sleep at training ground after loss]]></title>
