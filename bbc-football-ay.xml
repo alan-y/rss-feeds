@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 20:25:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 20:53:51 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[After agony in Morocco, what's next for Salah with club and country?]]></title>
-      <description><![CDATA[What does Mohamed Salah's future hold for Liverpool and Egypt after their Afcon disappointment?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgnp90ngqwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgnp90ngqwo</guid>
-      <pubDate>Thu, 15 Jan 2026 18:05:56 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8363/live/6da55ca0-f229-11f0-a33d-037f0064a0e8.jpg"/>
-    </item>
     <item>
       <title><![CDATA[Players need social skills for World Cup - Tuchel]]></title>
       <description><![CDATA[England manager Thomas Tuchel says players will need the right "social skills" and personality to make his World Cup squad.]]></description>
@@ -30,6 +22,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y5lqq2p7po</guid>
       <pubDate>Thu, 15 Jan 2026 19:32:58 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d57bfab0-f246-11f0-aff5-138622067c76.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[After agony in Morocco, what's next for Salah with club and country?]]></title>
+      <description><![CDATA[What does Mohamed Salah's future hold for Liverpool and Egypt after their Afcon disappointment?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgnp90ngqwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgnp90ngqwo</guid>
+      <pubDate>Thu, 15 Jan 2026 18:05:56 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8363/live/6da55ca0-f229-11f0-a33d-037f0064a0e8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rejections, depression & promise to his mum - Thiago's route to top]]></title>
@@ -40,20 +40,28 @@
       <media:thumbnail width="240" height="132" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95ff/live/831069c0-f203-11f0-b385-5f48925de19a.png"/>
     </item>
     <item>
-      <title><![CDATA[Robertson keen to stay at Liverpool but 'wants to play football']]></title>
-      <description><![CDATA[Liverpool's Andy Robertson on contract talks, a "stressful summer" and why he "wants to play" rather than sit on the bench.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce8gzemlv5ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8gzemlv5ro</guid>
-      <pubDate>Thu, 15 Jan 2026 12:00:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/564b/live/0361d3b0-f200-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Managers' authority is being eroded - Southgate]]></title>
       <description><![CDATA[Football managers' authority is being steadily eroded, Sir Gareth Southgate says, but the switch to head coaching still brings a "significant melting pot of problems and pressure".]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgk8rgpgkpyo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgk8rgpgkpyo</guid>
       <pubDate>Thu, 15 Jan 2026 14:13:42 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b05/live/799abb60-f204-11f0-af44-156539fce2f7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sutton's predictions v WWE superstar Drew McIntyre]]></title>
+      <description><![CDATA[BBC Sport football expert Chris Sutton takes on WWE superstar Drew McIntyre - and AI - with his predictions for this week's Premier League fixtures.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1dkg0d9z3do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1dkg0d9z3do</guid>
+      <pubDate>Thu, 15 Jan 2026 15:09:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea1b/live/8103d0e0-f203-11f0-b385-5f48925de19a.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Robertson keen to stay at Liverpool but 'wants to play football']]></title>
+      <description><![CDATA[Liverpool's Andy Robertson on contract talks, a "stressful summer" and why he "wants to play" rather than sit on the bench.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce8gzemlv5ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8gzemlv5ro</guid>
+      <pubDate>Thu, 15 Jan 2026 12:00:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/564b/live/0361d3b0-f200-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Richarlison out for seven weeks with hamstring injury]]></title>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kezxl4z40o</guid>
       <pubDate>Thu, 15 Jan 2026 13:13:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25c6/live/b891d050-eb20-11f0-a6a3-53d02379137e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sutton's predictions v WWE superstar Drew McIntyre]]></title>
-      <description><![CDATA[BBC Sport football expert Chris Sutton takes on WWE superstar Drew McIntyre - and AI - with his predictions for this week's Premier League fixtures.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1dkg0d9z3do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1dkg0d9z3do</guid>
-      <pubDate>Thu, 15 Jan 2026 15:09:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea1b/live/8103d0e0-f203-11f0-b385-5f48925de19a.png"/>
     </item>
     <item>
       <title><![CDATA['Cut me a little slack' - O'Neill calls for patience on Celtic transfers]]></title>
