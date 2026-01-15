@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 14:45:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 15:25:08 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Letby trust pays £1.4m damages to ex CEO]]></title>
+      <description><![CDATA[Dr Susan Gilby told the BBC she was relieved the case was over and that it "was never about the money."]]></description>
+      <link>https://www.bbc.com/news/articles/czj00pp70xvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/czj00pp70xvo</guid>
+      <pubDate>Thu, 15 Jan 2026 14:56:05 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8474/live/fbf383d0-f09c-11f0-95c2-2f43243b954d.jpg"/>
+    </item>
     <item>
       <title><![CDATA[One in 10 patients spent over 12 hours in A&E in 2025]]></title>
       <description><![CDATA[Nurses union says long waits and corridor care having a devastating impact on paitents.]]></description>
@@ -64,14 +72,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d63a/live/f9b71990-f166-11f0-bfbc-db36ba7a9ce1.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Plastic surgeon who fled from inspectors suspended]]></title>
-      <description><![CDATA[Dr Sayed Mia tried to flee when inspectors arrived at the central London clinic where he worked.]]></description>
-      <link>https://www.bbc.com/news/articles/c78e4rk5p8ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c78e4rk5p8ro</guid>
-      <pubDate>Wed, 14 Jan 2026 11:54:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d138/live/644afb20-f13d-11f0-bd56-9b1dc8f84e89.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Revolutionary eye injection saved my sight, says first-ever patient]]></title>
       <description><![CDATA[Nicki's eye had collapsed in on itself, but a new gel injection method has saved her vision.]]></description>
       <link>https://www.bbc.com/news/articles/c89qyv98lzdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -94,6 +94,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c394vjm7n4vo</guid>
       <pubDate>Mon, 12 Jan 2026 00:08:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f2/live/e2ba83d0-ed56-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Plastic surgeon who fled from inspectors suspended]]></title>
+      <description><![CDATA[Dr Sayed Mia tried to flee when inspectors arrived at the central London clinic where he worked.]]></description>
+      <link>https://www.bbc.com/news/articles/c78e4rk5p8ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c78e4rk5p8ro</guid>
+      <pubDate>Wed, 14 Jan 2026 11:54:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d138/live/644afb20-f13d-11f0-bd56-9b1dc8f84e89.jpg"/>
     </item>
     <item>
       <title><![CDATA[Eye surgeon's advice after his own sight-saving op]]></title>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c36zdpng7gro</guid>
       <pubDate>Mon, 22 Dec 2025 09:25:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48b/live/22f48260-df07-11f0-b67b-690eb873de1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[US regulator approves pill form of Wegovy weight-loss drug]]></title>
-      <description><![CDATA[Wegovy becomes first pill of its kind to be approved, shifting weight-loss drugs beyond injections.]]></description>
-      <link>https://www.bbc.com/news/articles/ce86le5dyxyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce86le5dyxyo</guid>
-      <pubDate>Tue, 23 Dec 2025 01:29:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d12/live/22b79c30-dfd2-11f0-8f37-51273813293d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
