@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 09:36:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 09:54:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[One in 10 patients spent over 12 hours in A&E in 2025]]></title>
+      <description><![CDATA[Nurses union says long waits and corridor care having a devastating impact on paitents.]]></description>
+      <link>https://www.bbc.com/news/articles/c4gre5kw5j7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gre5kw5j7o</guid>
+      <pubDate>Thu, 15 Jan 2026 09:49:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bab/live/6d47fca0-f174-11f0-adde-9114e6d28169.jpg"/>
+    </item>
     <item>
       <title><![CDATA[First leukaemia patient to get new form of treatment on NHS says it is 'very sci-fi']]></title>
       <description><![CDATA[Oscar Murphy has an aggressive form of the blood cancer and is the first to get CAR-T therapy in the UK.]]></description>
@@ -56,20 +64,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d63a/live/f9b71990-f166-11f0-bfbc-db36ba7a9ce1.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Lib Dems set out plan to end 12-hour A&E waits]]></title>
-      <description><![CDATA[Party leader Ed Davey calls for £1.5bn to be spent on ending a "deadly corridor crisis" in the NHS.]]></description>
-      <link>https://www.bbc.com/news/articles/cj0nmj8r6g6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0nmj8r6g6o</guid>
-      <pubDate>Tue, 13 Jan 2026 11:39:46 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8836/live/4da4b2f0-f073-11f0-812d-4fa04d8c5b4d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[I spent months trying to find out if boosting my gut health could help me age better]]></title>
-      <description><![CDATA[Health editor Hugh Pym revamped his diet after a test suggested his gut health appeared to look five years older than he was]]></description>
-      <link>https://www.bbc.com/news/articles/c1m8m47jl5eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1m8m47jl5eo</guid>
-      <pubDate>Tue, 13 Jan 2026 09:49:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e0/live/69fdec90-efc5-11f0-b385-5f48925de19a.jpg"/>
+      <title><![CDATA[Plastic surgeon who fled from inspectors suspended]]></title>
+      <description><![CDATA[Dr Sayed Mia tried to flee when inspectors arrived at the central London clinic where he worked.]]></description>
+      <link>https://www.bbc.com/news/articles/c78e4rk5p8ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c78e4rk5p8ro</guid>
+      <pubDate>Wed, 14 Jan 2026 11:54:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d138/live/644afb20-f13d-11f0-bd56-9b1dc8f84e89.jpg"/>
     </item>
     <item>
       <title><![CDATA[Revolutionary eye injection saved my sight, says first-ever patient]]></title>
@@ -78,6 +78,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c89qyv98lzdo</guid>
       <pubDate>Mon, 12 Jan 2026 00:00:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5981/live/d4c1c090-eca2-11f0-be98-fd0ce9c3379d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[I spent months trying to find out if boosting my gut health could help me age better]]></title>
+      <description><![CDATA[Health editor Hugh Pym revamped his diet after a test suggested his gut health appeared to look five years older than he was]]></description>
+      <link>https://www.bbc.com/news/articles/c1m8m47jl5eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1m8m47jl5eo</guid>
+      <pubDate>Tue, 13 Jan 2026 09:49:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e0/live/69fdec90-efc5-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why the NHS still wastes billions on patients who don't need to be in hospital]]></title>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ce86le5dyxyo</guid>
       <pubDate>Tue, 23 Dec 2025 01:29:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d12/live/22b79c30-dfd2-11f0-8f37-51273813293d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[TikTok removes AI weight loss ads from fake Boots account]]></title>
-      <description><![CDATA[The adverts for prescription-only drugs showed healthcare professionals impersonating the British retailer.]]></description>
-      <link>https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c997lkdjdy5o</guid>
-      <pubDate>Tue, 23 Dec 2025 09:23:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4611/live/67ea27b0-dd01-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
