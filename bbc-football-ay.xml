@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 19:25:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 19:45:20 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -80,14 +80,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c1/live/e3ad20c0-f2b2-11f0-885c-ef5f6008fb41.jpg"/>
     </item>
     <item>
-      <title><![CDATA[BBC to show Hull v Chelsea & Villa v Newcastle in FA Cup]]></title>
-      <description><![CDATA[Hull City v Chelsea and Aston Villa v Newcastle in the FA Cup fourth round will both be shown live on BBC One next month.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cr57rg58009o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr57rg58009o</guid>
-      <pubDate>Fri, 16 Jan 2026 17:00:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad60/live/2d060050-f2f6-11f0-b4d0-a5f4a003a8e3.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Glasner to leave Palace as Guehi agrees Man City deal]]></title>
       <description><![CDATA[Crystal Palace manager Oliver Glasner says he will not extend his contract at the end of the season.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cpv70v07ry1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -136,6 +128,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bb5/live/9a54b800-f20f-11f0-9024-9b4621e849d3.jpg"/>
     </item>
     <item>
+      <title><![CDATA[BBC to show Hull v Chelsea & Villa v Newcastle in FA Cup]]></title>
+      <description><![CDATA[Hull City v Chelsea and Aston Villa v Newcastle in the FA Cup fourth round will both be shown live on BBC One next month.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cr57rg58009o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr57rg58009o</guid>
+      <pubDate>Fri, 16 Jan 2026 17:00:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad60/live/2d060050-f2f6-11f0-b4d0-a5f4a003a8e3.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['If I had 15 attackers I'd be happy to have Salah back']]></title>
       <description><![CDATA[Mohamed Salah returns to Liverpool next week with boss Arne Slot saying he would be pleased to have the forward back even if he had "15 attackers".]]></description>
       <link>https://www.bbc.com/sport/football/articles/cg4ex9l76y7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -174,14 +174,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly5wy081y3o</guid>
       <pubDate>Fri, 16 Jan 2026 06:13:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f10/live/67f9b630-ef17-11f0-8189-e99395d44bc9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Toone has Champions League 'chance' as Man Utd sign new forward]]></title>
-      <description><![CDATA[Manchester United boss Marc Skinner gives fitness update on Ella Toone as Sweden striker Ellen Wangerheim becomes the club's latest January signing.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdjn207l3p3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjn207l3p3o</guid>
-      <pubDate>Fri, 16 Jan 2026 12:01:38 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8af9/live/b816a5e0-f2c0-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA['He knows what he wants' - Chalobah on new manager Rosenior]]></title>
@@ -233,6 +225,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fad9/live/5dabd770-7ea2-11f0-ab3e-bd52082cd0ae.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Toone has Champions League 'chance' as Man Utd sign new forward]]></title>
+      <description><![CDATA[Manchester United boss Marc Skinner gives fitness update on Ella Toone as Sweden striker Ellen Wangerheim becomes the club's latest January signing.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdjn207l3p3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjn207l3p3o</guid>
+      <pubDate>Fri, 16 Jan 2026 12:01:38 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8af9/live/b816a5e0-f2c0-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[162 arrests in Spain's violent ultras crackdown]]></title>
       <description><![CDATA[Spanish police say they have "neutralised dozens of meet-ups" between violent ultra groups this season.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdrek816pxzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -263,14 +263,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy1rj79wlqo</guid>
       <pubDate>Fri, 16 Jan 2026 18:11:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f5/live/b3221760-f304-11f0-b2ab-f70ba525289e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[From public park to World Cup dream - Bowie's rise to fame ]]></title>
-      <description><![CDATA[Scotland striker Kieron Bowie returns to roots of his rising football star as Hibernian face Dunfermline Athletic in the Scottish Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2l78jl8k7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2l78jl8k7o</guid>
-      <pubDate>Fri, 16 Jan 2026 14:37:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/6f018040-f2e4-11f0-b8a1-43fe5a262db0.jpg"/>
     </item>
     <item>
       <title><![CDATA[Five things in the EFL: Dugout debuts and top tussles]]></title>
@@ -329,6 +321,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg"/>
     </item>
     <item>
+      <title><![CDATA[From public park to World Cup dream - Bowie's rise to fame ]]></title>
+      <description><![CDATA[Scotland striker Kieron Bowie returns to roots of his rising football star as Hibernian face Dunfermline Athletic in the Scottish Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2l78jl8k7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2l78jl8k7o</guid>
+      <pubDate>Fri, 16 Jan 2026 14:37:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965c/live/6f018040-f2e4-11f0-b8a1-43fe5a262db0.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Top-flight tie, Nygren & Leven in focus in Scottish Cup]]></title>
       <description><![CDATA[A tasty top-flight tie and two of Sunday's main operatives are in focus in the fourth round of the Scottish Cup.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ckgyjlke9lxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -351,14 +351,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mkl4n493zo</guid>
       <pubDate>Fri, 16 Jan 2026 12:14:48 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6edd/live/702f6ea0-f244-11f0-aff5-138622067c76.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Players need social skills for World Cup - Tuchel]]></title>
-      <description><![CDATA[England manager Thomas Tuchel says players will need the right "social skills" and personality to make his World Cup squad.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5y5lqq2p7po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y5lqq2p7po</guid>
-      <pubDate>Thu, 15 Jan 2026 19:32:58 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d57bfab0-f246-11f0-aff5-138622067c76.jpg"/>
     </item>
     <item>
       <title><![CDATA[Musiala set for Bayern return six months after leg break]]></title>
@@ -537,12 +529,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1fa/live/07548500-e015-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Scotland World Cup disabled ticket allocation 'not good enough']]></title>
-      <description><![CDATA[The Scottish Football Union's disability lead also hit out at the pricing structure for the tournament in the US, Canada and Mexico.]]></description>
-      <link>https://www.bbc.com/news/articles/cdjn209y88jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdjn209y88jo</guid>
-      <pubDate>Fri, 16 Jan 2026 16:32:39 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1491/live/a956fa00-f2d9-11f0-80cd-e77eaadcaecf.jpg"/>
+      <title><![CDATA[Skov Olsen signs for Rangers on loan - but can he rediscover swagger?]]></title>
+      <description><![CDATA[Andreas Skov Olsen was considered a coup when he joined Wolfsburg last January before it turned sour. Will he revive his career at Rangers?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz0p9vnmykyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz0p9vnmykyo</guid>
+      <pubDate>Fri, 16 Jan 2026 19:41:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b348/live/7acb0330-f1f2-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why Alonso's reign is over at Real Madrid]]></title>
