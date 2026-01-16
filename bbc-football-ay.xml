@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 08:58:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 09:33:05 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -161,14 +161,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0728/live/f363bbf0-f23a-11f0-aff5-138622067c76.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What does xG predict for the rest of the season?]]></title>
-      <description><![CDATA[With more than half the season gone, we have enough stats to get a good idea of how well Premier League teams have been playing and therefore how things are likely to unfold in the months ahead.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0ke7223vp4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0ke7223vp4o</guid>
-      <pubDate>Thu, 15 Jan 2026 06:24:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2712/live/99878790-f14c-11f0-b108-71580feedafc.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Cut me a little slack' - O'Neill calls for patience on Celtic transfers]]></title>
       <description><![CDATA[The Celtic manager Martin O'Neill says "cut me a little bit of slack" as the club work on bringing in new faces this month.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn0kz04107do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -217,6 +209,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd73/live/4f2f1b70-ef1e-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
+      <title><![CDATA[What does xG predict for the rest of the season?]]></title>
+      <description><![CDATA[With more than half the season gone, we have enough stats to get a good idea of how well Premier League teams have been playing and therefore how things are likely to unfold in the months ahead.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0ke7223vp4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0ke7223vp4o</guid>
+      <pubDate>Thu, 15 Jan 2026 06:24:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2712/live/99878790-f14c-11f0-b108-71580feedafc.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How to follow the Premier League on the BBC this week]]></title>
       <description><![CDATA[BBC Sport Ask Me Anything explains how to follow the Premier League on the BBC this weekend.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0kpzljpz6lo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -247,14 +247,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn8j1rnkdv2o</guid>
       <pubDate>Thu, 15 Jan 2026 08:57:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad5d/live/60a5f1c0-f0aa-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[No VAR error over Wirtz 'offside' goal, panel says]]></title>
-      <description><![CDATA[The VAR was correct to intervene and give Florian Wirtz's goal at Fulham despite the Liverpool player appearing to be offside, a panel says.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0kezxl4z40o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kezxl4z40o</guid>
-      <pubDate>Thu, 15 Jan 2026 13:13:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25c6/live/b891d050-eb20-11f0-a6a3-53d02379137e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wrexham's O'Connor fined for FA betting offences]]></title>
@@ -303,6 +295,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c3ve53qek4eo</guid>
       <pubDate>Mon, 12 Jan 2026 07:53:34 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[No VAR error over Wirtz 'offside' goal, panel says]]></title>
+      <description><![CDATA[The VAR was correct to intervene and give Florian Wirtz's goal at Fulham despite the Liverpool player appearing to be offside, a panel says.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0kezxl4z40o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kezxl4z40o</guid>
+      <pubDate>Thu, 15 Jan 2026 13:13:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25c6/live/b891d050-eb20-11f0-a6a3-53d02379137e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fernandes not seeking to leave Man Utd in January]]></title>
@@ -359,14 +359,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/c20gp09lpglo</guid>
       <pubDate>Thu, 15 Jan 2026 00:23:24 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb25/live/541f7be0-f1a6-11f0-b5e8-2184a03aebcd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Mane destroys Salah's Afcon dream again - will he get another chance?]]></title>
-      <description><![CDATA[Mohamed Salah's Afcon dream was ended by Sadio Mane and Senegal on Wednesday night - but how many more chances will the Liverpool forward have to win the competition?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g5d10m5veo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g5d10m5veo</guid>
-      <pubDate>Wed, 14 Jan 2026 21:56:20 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c0b/live/377384e0-f184-11f0-a6b0-5baf1e89070e.jpg"/>
     </item>
     <item>
       <title><![CDATA['If Flick hadn't come, I would have left Barca' - Raphinha]]></title>
