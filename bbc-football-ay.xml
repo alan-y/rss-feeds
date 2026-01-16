@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 10:54:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 11:19:37 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['If I had 15 attackers I'd be happy to have Salah back']]></title>
+      <description><![CDATA[Mohamed Salah returns to Liverpool next week with boss Arne Slot saying he would be pleased to have the forward back even if he had "15 attackers".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cg4ex9l76y7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg4ex9l76y7o</guid>
+      <pubDate>Fri, 16 Jan 2026 11:04:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d456/live/9847e0b0-f2c2-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Players need social skills for World Cup - Tuchel]]></title>
       <description><![CDATA[England manager Thomas Tuchel says players will need the right "social skills" and personality to make his World Cup squad.]]></description>
@@ -22,14 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y5lqq2p7po</guid>
       <pubDate>Thu, 15 Jan 2026 19:32:58 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d57bfab0-f246-11f0-aff5-138622067c76.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[After agony in Morocco, what's next for Salah with club and country?]]></title>
-      <description><![CDATA[What does Mohamed Salah's future hold for Liverpool and Egypt after their Afcon disappointment?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgnp90ngqwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgnp90ngqwo</guid>
-      <pubDate>Thu, 15 Jan 2026 18:05:56 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8363/live/6da55ca0-f229-11f0-a33d-037f0064a0e8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Roma sign forward Malen from Aston Villa]]></title>
@@ -161,20 +161,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f601/live/fd920a80-f2be-11f0-b385-5f48925de19a.png"/>
     </item>
     <item>
+      <title><![CDATA[After agony in Morocco, what's next for Salah with club and country?]]></title>
+      <description><![CDATA[What does Mohamed Salah's future hold for Liverpool and Egypt after their Afcon disappointment?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgnp90ngqwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgnp90ngqwo</guid>
+      <pubDate>Thu, 15 Jan 2026 18:05:56 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8363/live/6da55ca0-f229-11f0-a33d-037f0064a0e8.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Robertson keen to stay at Liverpool but 'wants to play football']]></title>
       <description><![CDATA[Liverpool's Andy Robertson on contract talks, a "stressful summer" and why he "wants to play" rather than sit on the bench.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ce8gzemlv5ro?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8gzemlv5ro</guid>
       <pubDate>Thu, 15 Jan 2026 12:00:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/564b/live/0361d3b0-f200-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Richarlison out for seven weeks with hamstring injury]]></title>
-      <description><![CDATA[Tottenham forward Richarlison is ruled out for up to seven weeks with a hamstring injury.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy1552nn59o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy1552nn59o</guid>
-      <pubDate>Thu, 15 Jan 2026 18:07:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0728/live/f363bbf0-f23a-11f0-aff5-138622067c76.jpg"/>
     </item>
     <item>
       <title><![CDATA[Late goals add shine as Liverpool beat spirited Barnsley in FA Cup]]></title>
@@ -223,6 +223,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0ke7223vp4o</guid>
       <pubDate>Thu, 15 Jan 2026 06:24:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2712/live/99878790-f14c-11f0-b108-71580feedafc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Richarlison out for seven weeks with hamstring injury]]></title>
+      <description><![CDATA[Tottenham forward Richarlison is ruled out for up to seven weeks with a hamstring injury.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy1552nn59o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy1552nn59o</guid>
+      <pubDate>Thu, 15 Jan 2026 18:07:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0728/live/f363bbf0-f23a-11f0-aff5-138622067c76.jpg"/>
     </item>
     <item>
       <title><![CDATA[Paqueta could move but be loaned back to West Ham]]></title>
@@ -343,14 +351,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp82m0qpn58o</guid>
       <pubDate>Thu, 15 Jan 2026 17:03:43 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf15/live/35c12ca0-f216-11f0-8f9d-7304521a922a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sanchez mistakes 'on me' - Rosenior defends Chelsea keeper]]></title>
-      <description><![CDATA[Chelsea boss Liam Rosenior defends goalkeeper Robert Sanchez following two mistakes in his side's 3-2 defeat at home to Arsenal on Wednesday in their Carabao Cup semi-final first-leg tie.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1kl8kelrmxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1kl8kelrmxo</guid>
-      <pubDate>Thu, 15 Jan 2026 00:01:59 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef1/live/eff5be90-f19b-11f0-902c-95f53da9a46e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Eto'o handed ban and fine for misconduct at Afcon]]></title>
@@ -497,6 +497,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7240/live/4b410d90-f22d-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Lennon on 'huge loss' of father & meeting Hibs in cup]]></title>
+      <description><![CDATA[Neil Lennon reflects on the recent loss of his father before Dunfermline Athletic's Scottish Cup meeting with Hibernian.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce8g33ger94o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8g33ger94o</guid>
+      <pubDate>Fri, 16 Jan 2026 11:02:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83d1/live/00013730-f23a-11f0-b0c7-71b671ae4961.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Rangers' Tavernier wanted by Panathinaikos' - gossip]]></title>
       <description><![CDATA[Rangers captain James Tavernier is reportedly wanted by Panathinaikos as Celtic are said to have enquired about West Ham United's Callum Wilson and Aberdeen are linked with a number of moves.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cedwv6x18njo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -555,6 +563,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba02/live/0dea8f40-ec9a-11f0-be98-fd0ce9c3379d.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Leicester City sign Williams from Man Utd]]></title>
+      <description><![CDATA[Leicester City have signed forward Rachel Williams from Manchester United on a one-and-a-half-year deal, with a club option to extend for a year.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cm2xvgvpwp1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2xvgvpwp1o</guid>
+      <pubDate>Fri, 16 Jan 2026 09:21:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/772e/live/538884a0-f2ba-11f0-bd16-7dde9b275a02.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Morocco set for derby with Algeria in Wafcon 2026 group]]></title>
       <description><![CDATA[Morocco are handed a North African derby with Algeria and holders Nigeria will face Zambia in the group stage at the 2026 Women's Africa Cup of Nations.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cg7yj2pe9e4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -577,14 +593,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mkw481p8vo</guid>
       <pubDate>Wed, 14 Jan 2026 13:03:44 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebba/live/7dfcd8e0-f147-11f0-b108-71580feedafc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[West Ham sign England youth defender Bose ]]></title>
-      <description><![CDATA[West Ham have signed England youth defender Ria Bose for an undisclosed fee on a two-and-a-half year contract.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn9zyn5gp5xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn9zyn5gp5xo</guid>
-      <pubDate>Wed, 14 Jan 2026 17:13:10 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dfa/live/1b17e5e0-f164-11f0-bfbc-db36ba7a9ce1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Agyemang returns to Arsenal for ACL recovery]]></title>
