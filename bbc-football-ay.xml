@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 20:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 20:50:22 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -56,14 +56,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea1b/live/8103d0e0-f203-11f0-b385-5f48925de19a.png"/>
     </item>
     <item>
-      <title><![CDATA[Boots from Easter Bunny and teenage parties - Glasner tells his story]]></title>
-      <description><![CDATA[Crystal Palace boss Oliver Glasner sits down with Kelly Somers to talk about his background and career in football.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9vxdy2np80o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9vxdy2np80o</guid>
-      <pubDate>Fri, 16 Jan 2026 14:48:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/636c/live/5281e940-f2ea-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Senegal stand in way of Morocco's 50-year wait for Afcon glory]]></title>
       <description><![CDATA[The game in Rabat (19:00 GMT) pits the continent's top two teams against one another, with the North Africans ranked 11th in the world and the Teranga Lions eight places below them.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cevn22grxgzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -78,6 +70,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g0ey1m8v9o</guid>
       <pubDate>Fri, 16 Jan 2026 08:35:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c1/live/e3ad20c0-f2b2-11f0-885c-ef5f6008fb41.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Skov Olsen signs for Rangers on loan - but can he rediscover swagger?]]></title>
+      <description><![CDATA[Andreas Skov Olsen was considered a coup when he joined Wolfsburg last January before it turned sour. Will he revive his career at Rangers?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz0p9vnmykyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz0p9vnmykyo</guid>
+      <pubDate>Fri, 16 Jan 2026 19:41:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc6c/live/a9b40c50-f314-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Glasner to leave Palace as Guehi agrees Man City deal]]></title>
@@ -120,12 +120,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/705d/live/322c1c00-f237-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Palace manager Glasner to leave at end of season]]></title>
-      <description><![CDATA[Crystal Palace manager Oliver Glasner confirms he will leave the club when his contract expires at the end of the season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crlezygrpe6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crlezygrpe6o</guid>
-      <pubDate>Fri, 16 Jan 2026 15:00:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38fa/live/c82b1da0-f2fa-11f0-b385-5f48925de19a.jpg"/>
+      <title><![CDATA[Boots from Easter Bunny and teenage parties - Glasner tells his story]]></title>
+      <description><![CDATA[Crystal Palace boss Oliver Glasner sits down with Kelly Somers to talk about his background and career in football.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9vxdy2np80o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9vxdy2np80o</guid>
+      <pubDate>Fri, 16 Jan 2026 14:48:01 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/636c/live/5281e940-f2ea-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[The tactics Carrick will hope can fix Man Utd]]></title>
@@ -160,20 +160,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71d6/live/36e50790-f2e4-11f0-b8a1-43fe5a262db0.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How much has Guardiola spent on defenders at Man City?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team looks at how many defenders Manchester City have signed since Pep Guardiola arrived at the Etihad.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c70170xnpzvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70170xnpzvo</guid>
-      <pubDate>Fri, 16 Jan 2026 17:25:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a757/live/02c91ba0-f2fc-11f0-b5f7-49f0357294ff.png"/>
-    </item>
-    <item>
       <title><![CDATA[From Fiji to Latvia - are cross-border leagues the future?]]></title>
       <description><![CDATA[The OFC Professional League kicks off this week and a Baltic League has been proposed, so is there a future for cross-border football competitions?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cly5wy081y3o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly5wy081y3o</guid>
       <pubDate>Fri, 16 Jan 2026 06:13:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f10/live/67f9b630-ef17-11f0-8189-e99395d44bc9.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Leicester hold discussions with Como over Lehmann]]></title>
+      <description><![CDATA[Leicester City have held talks with FC Como in an attempt to sign Switzerland forward Alisha Lehmann this month.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgr935p08no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgr935p08no</guid>
+      <pubDate>Fri, 16 Jan 2026 20:28:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6208/live/04ef4da0-f315-11f0-bc8b-a34ab510ca4e.jpg"/>
     </item>
     <item>
       <title><![CDATA['He knows what he wants' - Chalobah on new manager Rosenior]]></title>
@@ -217,6 +217,30 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9565/live/30e198d0-f001-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How much has Guardiola spent on defenders at Man City?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team looks at how many defenders Manchester City have signed since Pep Guardiola arrived at the Etihad.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c70170xnpzvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70170xnpzvo</guid>
+      <pubDate>Fri, 16 Jan 2026 17:25:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a757/live/02c91ba0-f2fc-11f0-b5f7-49f0357294ff.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Early 'disappointment and anger' fuelled NI's Hume]]></title>
+      <description><![CDATA[Sunderland defender Trai Hume "always had the confidence" he could play in England, despite not making the move to the Stadium of Light until he was 19-years-old.]]></description>
+      <link>https://www.bbc.com/sport/articles/cz9v3y88nv9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cz9v3y88nv9o</guid>
+      <pubDate>Fri, 16 Jan 2026 20:33:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5052/live/d7dc4390-f21f-11f0-ac5a-9d455c4613c3.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Palace manager Glasner to leave at end of season]]></title>
+      <description><![CDATA[Crystal Palace manager Oliver Glasner confirms he will leave the club when his contract expires at the end of the season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crlezygrpe6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crlezygrpe6o</guid>
+      <pubDate>Fri, 16 Jan 2026 15:00:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38fa/live/c82b1da0-f2fa-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Arbeloa 'looking for solutions' and fans' support]]></title>
       <description><![CDATA[New Real Madrid manager Alvaro Arbeloa says failures make him improve as he prepares for his first home game in charge following the shock defeat at Albecete.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c77k62dzj6vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -233,36 +257,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fad9/live/5dabd770-7ea2-11f0-ab3e-bd52082cd0ae.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Toone has Champions League 'chance' as Man Utd sign new forward]]></title>
-      <description><![CDATA[Manchester United boss Marc Skinner gives fitness update on Ella Toone as Sweden striker Ellen Wangerheim becomes the club's latest January signing.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdjn207l3p3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjn207l3p3o</guid>
-      <pubDate>Fri, 16 Jan 2026 12:01:38 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8af9/live/b816a5e0-f2c0-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[162 arrests in Spain's violent ultras crackdown]]></title>
       <description><![CDATA[Spanish police say they have "neutralised dozens of meet-ups" between violent ultra groups this season.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdrek816pxzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdrek816pxzo</guid>
       <pubDate>Fri, 16 Jan 2026 14:21:47 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a368/live/9062c1c0-f2e1-11f0-b06f-65c69dbcfe8f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Bristol City & Millwall sanctioned for mass brawl]]></title>
-      <description><![CDATA[Bristol City and Millwall are fined and players from both sides banned after the FA imposes further punishments following a mass brawl at the end of their Championship meeting last month.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz6y0qvj58do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz6y0qvj58do</guid>
-      <pubDate>Fri, 16 Jan 2026 16:50:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/734c/live/1964ec50-f2f1-11f0-9a08-61d9f795eeed.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Should you keep or sell Semenyo? FPL talking point]]></title>
-      <description><![CDATA[Antoine Semenyo has made a fantastic start to his career at Manchester City with two goals in as many games - so should he stay in your FPL team?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj0nyq9q717o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0nyq9q717o</guid>
-      <pubDate>Fri, 16 Jan 2026 08:54:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee44/live/e97f56c0-f1fa-11f0-a2ce-b77b236ada53.jpg"/>
     </item>
     <item>
       <title><![CDATA[Carrick would bring spirit of Man Utd back - Rooney]]></title>
@@ -305,6 +305,30 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ef/live/94e43170-ef8f-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Should you keep or sell Semenyo? FPL talking point]]></title>
+      <description><![CDATA[Antoine Semenyo has made a fantastic start to his career at Manchester City with two goals in as many games - so should he stay in your FPL team?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj0nyq9q717o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0nyq9q717o</guid>
+      <pubDate>Fri, 16 Jan 2026 08:54:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee44/live/e97f56c0-f1fa-11f0-a2ce-b77b236ada53.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Bristol City & Millwall sanctioned for mass brawl]]></title>
+      <description><![CDATA[Bristol City and Millwall are fined and players from both sides banned after the FA imposes further punishments following a mass brawl at the end of their Championship meeting last month.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz6y0qvj58do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz6y0qvj58do</guid>
+      <pubDate>Fri, 16 Jan 2026 16:50:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/734c/live/1964ec50-f2f1-11f0-9a08-61d9f795eeed.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Toone has Champions League 'chance' as Man Utd sign new forward]]></title>
+      <description><![CDATA[Manchester United boss Marc Skinner gives fitness update on Ella Toone as Sweden striker Ellen Wangerheim becomes the club's latest January signing.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdjn207l3p3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjn207l3p3o</guid>
+      <pubDate>Fri, 16 Jan 2026 12:01:38 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8af9/live/b816a5e0-f2c0-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Five things in the EFL: Dugout debuts and top tussles]]></title>
       <description><![CDATA[BBC Sport outlines the games to keep an eye on across the EFL this weekend.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cedwvle4j09o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -319,14 +343,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy1rj79wlqo</guid>
       <pubDate>Fri, 16 Jan 2026 18:11:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f5/live/b3221760-f304-11f0-b2ab-f70ba525289e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[All your FPL stats and Premier League team news in one place]]></title>
-      <description><![CDATA[Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.]]></description>
-      <link>https://www.bbc.com/sport/articles/c207e010wjjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c207e010wjjo</guid>
-      <pubDate>Fri, 16 Jan 2026 12:17:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg"/>
     </item>
     <item>
       <title><![CDATA[From public park to World Cup dream - Bowie's rise to fame ]]></title>
@@ -345,12 +361,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/344f/live/c2315e60-f231-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Rejections, depression & promise to his mum - Thiago's route to top]]></title>
-      <description><![CDATA[Igor Thiago's route to the Premier League has been far from straightforward - BBC Sport charts the rise of Brentford's record-breaking Brazilian striker.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c07xpzyv1yno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07xpzyv1yno</guid>
-      <pubDate>Thu, 15 Jan 2026 15:33:08 GMT</pubDate>
-      <media:thumbnail width="240" height="132" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95ff/live/831069c0-f203-11f0-b385-5f48925de19a.png"/>
+      <title><![CDATA[All your FPL stats and Premier League team news in one place]]></title>
+      <description><![CDATA[Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.]]></description>
+      <link>https://www.bbc.com/sport/articles/c207e010wjjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c207e010wjjo</guid>
+      <pubDate>Fri, 16 Jan 2026 12:17:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg"/>
     </item>
     <item>
       <title><![CDATA['Don't be fooled' by Carrick's 'calmness' - Rooney]]></title>
@@ -393,20 +409,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beb0/live/0556f0f0-e59f-11f0-8bbe-6935d94eeebc.jpg"/>
     </item>
     <item>
-      <title><![CDATA[After agony in Morocco, what's next for Salah with club and country?]]></title>
-      <description><![CDATA[What does Mohamed Salah's future hold for Liverpool and Egypt after their Afcon disappointment?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgnp90ngqwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgnp90ngqwo</guid>
-      <pubDate>Thu, 15 Jan 2026 18:05:56 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8363/live/6da55ca0-f229-11f0-a33d-037f0064a0e8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Lennon on 'huge loss' of father & meeting Hibs in cup]]></title>
-      <description><![CDATA[Neil Lennon reflects on the recent loss of his father before Dunfermline Athletic's Scottish Cup meeting with Hibernian.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce8g33ger94o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8g33ger94o</guid>
-      <pubDate>Fri, 16 Jan 2026 11:02:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83d1/live/00013730-f23a-11f0-b0c7-71b671ae4961.jpg"/>
+      <title><![CDATA[Rejections, depression & promise to his mum - Thiago's route to top]]></title>
+      <description><![CDATA[Igor Thiago's route to the Premier League has been far from straightforward - BBC Sport charts the rise of Brentford's record-breaking Brazilian striker.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c07xpzyv1yno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07xpzyv1yno</guid>
+      <pubDate>Thu, 15 Jan 2026 15:33:08 GMT</pubDate>
+      <media:thumbnail width="240" height="132" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95ff/live/831069c0-f203-11f0-b385-5f48925de19a.png"/>
     </item>
     <item>
       <title><![CDATA[What does xG predict for the rest of the season?]]></title>
@@ -439,14 +447,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2051p7ej1vo</guid>
       <pubDate>Tue, 13 Jan 2026 18:34:08 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07cd/live/78f4f9f0-ef9d-11f0-a161-0dc741483a6b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[VAR errors increase: Each of the 13 mistakes so far this season]]></title>
-      <description><![CDATA[The Premier League's KMI Panel makes judgements on every key decisions. Here's what they say the VAR has got wrong. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgrx8ml7m0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgrx8ml7m0o</guid>
-      <pubDate>Tue, 13 Jan 2026 07:06:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f3/live/51b93cf0-efc7-11f0-9a79-cfc8898f9898.jpg"/>
     </item>
     <item>
       <title><![CDATA[Transfers - January 2026]]></title>
@@ -521,12 +521,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1fa/live/07548500-e015-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Skov Olsen signs for Rangers on loan - but can he rediscover swagger?]]></title>
-      <description><![CDATA[Andreas Skov Olsen was considered a coup when he joined Wolfsburg last January before it turned sour. Will he revive his career at Rangers?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz0p9vnmykyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz0p9vnmykyo</guid>
-      <pubDate>Fri, 16 Jan 2026 19:41:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc6c/live/a9b40c50-f314-11f0-b385-5f48925de19a.jpg"/>
+      <title><![CDATA[Lennon on 'huge loss' of father & meeting Hibs in cup]]></title>
+      <description><![CDATA[Neil Lennon reflects on the recent loss of his father before Dunfermline Athletic's Scottish Cup meeting with Hibernian.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce8g33ger94o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8g33ger94o</guid>
+      <pubDate>Fri, 16 Jan 2026 11:02:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83d1/live/00013730-f23a-11f0-b0c7-71b671ae4961.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why Alonso's reign is over at Real Madrid]]></title>
@@ -593,14 +593,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg7yj2pe9e4o</guid>
       <pubDate>Thu, 15 Jan 2026 14:20:06 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9052/live/777c3af0-6a7a-11f0-85c3-f353314ad7f2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Manchester City sign USA midfielder Coffey]]></title>
-      <description><![CDATA[Manchester City have signed United States midfielder Sam Coffey from Portland Thorns on a three-and-a-half-year contract.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0mkw481p8vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mkw481p8vo</guid>
-      <pubDate>Wed, 14 Jan 2026 13:03:44 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebba/live/7dfcd8e0-f147-11f0-b108-71580feedafc.jpg"/>
     </item>
     <item>
       <title><![CDATA[The great number nine decline - where have England's strikers gone?]]></title>
