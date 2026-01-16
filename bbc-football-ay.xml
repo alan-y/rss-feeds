@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 23:37:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 23:49:15 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -80,14 +80,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d3/live/6002e0b0-f32b-11f0-b385-5f48925de19a.png"/>
     </item>
     <item>
-      <title><![CDATA[Roma sign forward Malen from Aston Villa]]></title>
-      <description><![CDATA[Netherlands forward Donyell Malen joins Roma from Aston Villa after just one year with the Premier League side.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g0ey1m8v9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g0ey1m8v9o</guid>
-      <pubDate>Fri, 16 Jan 2026 08:35:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c1/live/e3ad20c0-f2b2-11f0-885c-ef5f6008fb41.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Glasner to leave Palace as Guehi agrees Man City deal]]></title>
       <description><![CDATA[Crystal Palace manager Oliver Glasner says he will not extend his contract at the end of the season.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cpv70v07ry1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -136,6 +128,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/636c/live/5281e940-f2ea-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Roma sign forward Malen from Aston Villa]]></title>
+      <description><![CDATA[Netherlands forward Donyell Malen joins Roma from Aston Villa after just one year with the Premier League side.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g0ey1m8v9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g0ey1m8v9o</guid>
+      <pubDate>Fri, 16 Jan 2026 08:35:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c1/live/e3ad20c0-f2b2-11f0-885c-ef5f6008fb41.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[The tactics Carrick will hope can fix Man Utd]]></title>
       <description><![CDATA[BBC Sport looks at the principles, tactics and players Michael Carrick and his staff could use at Manchester United.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn0k2wp3p91o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -166,14 +166,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr57rg58009o</guid>
       <pubDate>Fri, 16 Jan 2026 17:00:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad60/live/2d060050-f2f6-11f0-b4d0-a5f4a003a8e3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[O'Neill hopes for recruits before Hearts trip]]></title>
-      <description><![CDATA[Martin O'Neill hopes "to have people" added to his Celtic squad in time for the Scottish Premiership trip to leaders Hearts on 25 January.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyzrwlyz1wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyzrwlyz1wo</guid>
-      <pubDate>Fri, 16 Jan 2026 14:08:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71d6/live/36e50790-f2e4-11f0-b8a1-43fe5a262db0.jpg"/>
     </item>
     <item>
       <title><![CDATA[Leicester hold discussions with Como over Lehmann]]></title>
@@ -233,6 +225,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f10/live/67f9b630-ef17-11f0-8189-e99395d44bc9.jpg"/>
     </item>
     <item>
+      <title><![CDATA[O'Neill hopes for recruits before Hearts trip]]></title>
+      <description><![CDATA[Martin O'Neill hopes "to have people" added to his Celtic squad in time for the Scottish Premiership trip to leaders Hearts on 25 January.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clyzrwlyz1wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyzrwlyz1wo</guid>
+      <pubDate>Fri, 16 Jan 2026 14:08:01 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71d6/live/36e50790-f2e4-11f0-b8a1-43fe5a262db0.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Palace manager Glasner to leave at end of season]]></title>
       <description><![CDATA[Crystal Palace manager Oliver Glasner confirms he will leave the club when his contract expires at the end of the season.]]></description>
       <link>https://www.bbc.com/sport/football/articles/crlezygrpe6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -263,14 +263,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg5qk53y3lo</guid>
       <pubDate>Fri, 16 Jan 2026 22:19:24 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3a6/live/2bdab400-f328-11f0-93be-b59669b0a56b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Arbeloa 'looking for solutions' and fans' support]]></title>
-      <description><![CDATA[New Real Madrid manager Alvaro Arbeloa says failures make him improve as he prepares for his first home game in charge following the shock defeat at Albecete.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c77k62dzj6vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c77k62dzj6vo</guid>
-      <pubDate>Fri, 16 Jan 2026 17:01:41 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c24e/live/9bc15260-f2f6-11f0-9a08-61d9f795eeed.jpg"/>
     </item>
     <item>
       <title><![CDATA[Late goals add shine as Liverpool beat spirited Barnsley in FA Cup]]></title>
@@ -321,6 +313,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fad9/live/5dabd770-7ea2-11f0-ab3e-bd52082cd0ae.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Arbeloa 'looking for solutions' and fans' support]]></title>
+      <description><![CDATA[New Real Madrid manager Alvaro Arbeloa says failures make him improve as he prepares for his first home game in charge following the shock defeat at Albecete.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c77k62dzj6vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c77k62dzj6vo</guid>
+      <pubDate>Fri, 16 Jan 2026 17:01:41 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c24e/live/9bc15260-f2f6-11f0-9a08-61d9f795eeed.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[162 arrests in Spain's violent ultras crackdown]]></title>
       <description><![CDATA[Spanish police say they have "neutralised dozens of meet-ups" between violent ultra groups this season.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdrek816pxzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -361,20 +361,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6785/live/314cc840-f226-11f0-a422-4ba8a094a8fa.png"/>
     </item>
     <item>
-      <title><![CDATA[Hearts midfielder Devlin out for up to eight weeks]]></title>
-      <description><![CDATA[Hearts midfielder Cammy Devlin faces up to eight weeks out with a lower leg injury.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy1rj79wlqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy1rj79wlqo</guid>
-      <pubDate>Fri, 16 Jan 2026 18:11:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f5/live/b3221760-f304-11f0-b2ab-f70ba525289e.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[All your FPL stats and Premier League team news in one place]]></title>
       <description><![CDATA[Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.]]></description>
       <link>https://www.bbc.com/sport/articles/c207e010wjjo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/c207e010wjjo</guid>
       <pubDate>Fri, 16 Jan 2026 12:17:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Hearts midfielder Devlin out for up to eight weeks]]></title>
+      <description><![CDATA[Hearts midfielder Cammy Devlin faces up to eight weeks out with a lower leg injury.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy1rj79wlqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy1rj79wlqo</guid>
+      <pubDate>Fri, 16 Jan 2026 18:11:58 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f5/live/b3221760-f304-11f0-b2ab-f70ba525289e.jpg"/>
     </item>
     <item>
       <title><![CDATA[From public park to World Cup dream - Bowie's rise to fame ]]></title>
@@ -407,14 +407,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3wznjd2lldo</guid>
       <pubDate>Fri, 16 Jan 2026 11:54:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2377/live/15b3d260-f2c9-11f0-951c-1b651e8e7a90.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hamilton 'prepare injunction' to fight insolvency]]></title>
-      <description><![CDATA[Hamilton intend to "prepare an immediate injunction to prevent" insolvency if "administration is forced by The Funding Globe".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c62v6pv88jko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62v6pv88jko</guid>
-      <pubDate>Fri, 16 Jan 2026 15:33:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beb0/live/0556f0f0-e59f-11f0-8bbe-6935d94eeebc.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rejections, depression & promise to his mum - Thiago's route to top]]></title>
@@ -529,6 +521,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1fa/live/07548500-e015-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Hamilton 'prepare injunction' to fight insolvency]]></title>
+      <description><![CDATA[Hamilton intend to "prepare an immediate injunction to prevent" insolvency if "administration is forced by The Funding Globe".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c62v6pv88jko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62v6pv88jko</guid>
+      <pubDate>Fri, 16 Jan 2026 15:33:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beb0/live/0556f0f0-e59f-11f0-8bbe-6935d94eeebc.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Why Alonso's reign is over at Real Madrid]]></title>
       <description><![CDATA[After Xabi Alonso's departure as Real Madrid manager, Spanish football expert Guillem Balague looks into where it all went wrong.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3ed5x7d172o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -561,14 +561,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07xzzn3j39o</guid>
       <pubDate>Thu, 08 Jan 2026 13:35:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d35/live/073f76c0-ec94-11f0-bed4-4bc64ed151a7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ebnoutalib's rapid rise from fourth tier to potential star]]></title>
-      <description><![CDATA[Younes Ebnoutalib was playing in Germany's fourth tier a year ago - now he hopes to be the latest in a line of star forwards at Eintracht Frankfurt.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn9zvv771dxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn9zvv771dxo</guid>
-      <pubDate>Fri, 09 Jan 2026 08:38:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba02/live/0dea8f40-ec9a-11f0-be98-fd0ce9c3379d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Can you name every Women's FA Cup winner?]]></title>
