@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 18 Jan 2026 17:17:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 17:36:54 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -32,20 +32,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e5d/live/0cf98610-f3cd-11f0-92c3-936af9d34b29.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Goals galore in FA Cup as Liverpool, Man Utd & Man City progress]]></title>
-      <description><![CDATA[Liverpool, Manchester City and Manchester United all cruise into the fifth round of the Women's FA Cup as 55 goals are scored across 12 matches on Sunday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwyrkl2xn76o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyrkl2xn76o</guid>
-      <pubDate>Sun, 18 Jan 2026 17:10:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6368/live/210d40b0-f490-11f0-a665-27642cc33205.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Police investigating elbow incident in grassroots match]]></title>
       <description><![CDATA[Police are investigating an incident in which a football player appeared to deliberately elbow an opponent in the face during a Welsh grassroots match.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ce3kxzzny4do?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3kxzzny4do</guid>
       <pubDate>Sun, 18 Jan 2026 14:30:06 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5770/live/9759fb20-f46b-11f0-a0d3-85939bf94401.jpg"/>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67f6/live/3706a3f0-f492-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[New signings help Liverpool spark to life but real test awaits]]></title>
+      <description><![CDATA[Women's FA Cup fourth‑round victory over fourth-tier London Bees finally offer Liverpool a moment of light in a campaign that has felt extremely bleak.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy8pv9g3eleo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8pv9g3eleo</guid>
+      <pubDate>Sun, 18 Jan 2026 17:15:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05f3/live/ad3fe220-f488-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Malaga-born Diaz became Morocco's national icon]]></title>
@@ -70,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2p7dkxxgpo</guid>
       <pubDate>Sat, 17 Jan 2026 22:13:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b18/live/7d5825e0-f3e3-11f0-808e-fddbe2ff1e6c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ambitious Spurs eye Champions League spot after WSL rise]]></title>
-      <description><![CDATA[A year ago, Tottenham lived in the shadows of a Women's Super League relegation fight.  Today, they sit level on points with third-placed Arsenal after collecting 23 from 12 matches.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy7me6n0re6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy7me6n0re6o</guid>
-      <pubDate>Sun, 18 Jan 2026 14:36:08 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6042/live/a57d05f0-f45f-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ruthless Man Utd beat Man City in dream start for Carrick]]></title>
@@ -184,6 +176,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d5d/live/789e2de0-f2ff-11f0-a422-4ba8a094a8fa.png"/>
     </item>
     <item>
+      <title><![CDATA[Ambitious Spurs eye Champions League spot after WSL rise]]></title>
+      <description><![CDATA[A year ago, Tottenham lived in the shadows of a Women's Super League relegation fight.  Today, they sit level on points with third-placed Arsenal after collecting 23 from 12 matches.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy7me6n0re6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy7me6n0re6o</guid>
+      <pubDate>Sun, 18 Jan 2026 14:36:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6042/live/a57d05f0-f45f-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Goals galore in FA Cup as Liverpool, Man Utd & Man City progress]]></title>
+      <description><![CDATA[Liverpool, Manchester City and Manchester United all cruise into the fifth round of the Women's FA Cup as 55 goals are scored across 12 matches on Sunday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwyrkl2xn76o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyrkl2xn76o</guid>
+      <pubDate>Sun, 18 Jan 2026 17:10:01 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6368/live/210d40b0-f490-11f0-a665-27642cc33205.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Something lacking' about Liverpool - Van Dijk]]></title>
       <description><![CDATA[Liverpool captain Virgil van Dijk says there is "something lacking" about his side after they draw 1-1 with Burnley.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ce8r688gxmno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -206,22 +214,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c041qv7ke7vo</guid>
       <pubDate>Sat, 17 Jan 2026 17:55:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/587c/live/ed8d7950-f3d9-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[A 'perfect' start for Carrick - how Man Utd ran Man City ragged]]></title>
-      <description><![CDATA[Michael Carrick gets his interim spell as Mancheter United head coach off to the perfect start as they out-play their Manchester rivals at Old Trafford.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c7v01my07gyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7v01my07gyo</guid>
-      <pubDate>Sat, 17 Jan 2026 17:39:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6a4/live/cbfa0310-f3c2-11f0-92c3-936af9d34b29.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I share the same frustrations as the fans' - Slot on Anfield boos]]></title>
-      <description><![CDATA[Arne Slot responds after Liverpool are booed by sections of their home support in the 1-1 draw with Burnley at Anfield on Saturday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgjyl2z39zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgjyl2z39zo</guid>
-      <pubDate>Sat, 17 Jan 2026 19:20:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a56/live/d3fdd980-f3e3-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA['I'll be surprised if he's here next game' - Shearer on Glasner]]></title>
@@ -272,20 +264,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f8/live/785fef60-801f-11f0-ab3e-bd52082cd0ae.png"/>
     </item>
     <item>
+      <title><![CDATA[A 'perfect' start for Carrick - how Man Utd ran Man City ragged]]></title>
+      <description><![CDATA[Michael Carrick gets his interim spell as Mancheter United head coach off to the perfect start as they out-play their Manchester rivals at Old Trafford.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c7v01my07gyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7v01my07gyo</guid>
+      <pubDate>Sat, 17 Jan 2026 17:39:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6a4/live/cbfa0310-f3c2-11f0-92c3-936af9d34b29.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['I share the same frustrations as the fans' - Slot on Anfield boos]]></title>
+      <description><![CDATA[Arne Slot responds after Liverpool are booed by sections of their home support in the 1-1 draw with Burnley at Anfield on Saturday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgjyl2z39zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgjyl2z39zo</guid>
+      <pubDate>Sat, 17 Jan 2026 19:20:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a56/live/d3fdd980-f3e3-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Was this the day Spurs fans finally lost all faith in Frank?]]></title>
       <description><![CDATA[Was the dismal home loss to struggling West Ham the day Spurs fans finally lost all faith in head coach Thomas Frank, asks chief football writer Phil McNulty?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c78v4vpgp15o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78v4vpgp15o</guid>
       <pubDate>Sat, 17 Jan 2026 19:18:06 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72d5/live/c587a7a0-f3d9-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Senegal 'concerns' over treatment before Afcon final]]></title>
-      <description><![CDATA[Senegal's football federation says a "lack of adequate security" left players and staff "at risk" on their arrival in Rabat for Sunday's final against hosts Morocco.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c041qg2329wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c041qg2329wo</guid>
-      <pubDate>Sat, 17 Jan 2026 15:20:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54ff/live/f0f1d9d0-f3b4-11f0-a42e-950e67f27517.jpg"/>
     </item>
     <item>
       <title><![CDATA[Frank understands booing Spurs fans' frustration]]></title>
@@ -338,20 +338,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bdb/live/16ea1150-f3ee-11f0-9aa6-f34a812d3d76.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Senegal 'concerns' over treatment before Afcon final]]></title>
+      <description><![CDATA[Senegal's football federation says a "lack of adequate security" left players and staff "at risk" on their arrival in Rabat for Sunday's final against hosts Morocco.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c041qg2329wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c041qg2329wo</guid>
+      <pubDate>Sat, 17 Jan 2026 15:20:58 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54ff/live/f0f1d9d0-f3b4-11f0-a42e-950e67f27517.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Why not look into new things?' - Pfannenstiel on Aberdeen dugout noise]]></title>
       <description><![CDATA[Aberdeen sporting director Lutz Pfannenstiel says Scottish football should "not just think about how it was in the past", after being "a bit surprised" by reaction to him joining interim manager Peter Leven in the dugout.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3wz57qv91jo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3wz57qv91jo</guid>
       <pubDate>Sun, 18 Jan 2026 08:27:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f6/live/79549240-f3d3-11f0-b13b-119ae35a4f81.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Guehi set for Sunday medical before £20m Man City move]]></title>
-      <description><![CDATA[Crystal Palace defender Marc Guehi is set to have a medical at Manchester City on Sunday before completing a £20m move.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5y3g28232ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y3g28232ko</guid>
-      <pubDate>Sat, 17 Jan 2026 12:28:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a375/live/d9ef8220-f39e-11f0-82b8-6fc560a3ff5b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Liverpool sign O'Sullivan for club record fee]]></title>
@@ -370,6 +370,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/896a/live/5db0de60-f2ff-11f0-b385-5f48925de19a.png"/>
     </item>
     <item>
+      <title><![CDATA[Guehi set for Sunday medical before £20m Man City move]]></title>
+      <description><![CDATA[Crystal Palace defender Marc Guehi is set to have a medical at Manchester City on Sunday before completing a £20m move.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5y3g28232ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y3g28232ko</guid>
+      <pubDate>Sat, 17 Jan 2026 12:28:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a375/live/d9ef8220-f39e-11f0-82b8-6fc560a3ff5b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Chelsea make Jacquet move - Sunday's gossip]]></title>
       <description><![CDATA[Chelsea prepared to pay £43m for Jeremy Jacquet, Evan Ferguson wanted by Napoli and Bournemouth chasing Christos Mandas - Sunday's gossip.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cew8nj12841o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -386,28 +394,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea1b/live/8103d0e0-f203-11f0-b385-5f48925de19a.png"/>
     </item>
     <item>
-      <title><![CDATA[Kerr scores two as Chelsea thrash Palace in FA Cup]]></title>
-      <description><![CDATA[Sam Kerr scores two as holders Chelsea beat Crystal Palace 5-0 in the Women's FA Cup, while Sunderland lose to London City.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clym6z2x23eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clym6z2x23eo</guid>
-      <pubDate>Sat, 17 Jan 2026 14:35:21 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea84/live/c882d850-f3af-11f0-a42e-950e67f27517.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How a tyre company's name on a shirt changed football forever]]></title>
       <description><![CDATA[Kettering Town's pioneering sponsorship deal is still a talking point, 50 years on.]]></description>
       <link>https://www.bbc.com/news/articles/c77kvx575npo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c77kvx575npo</guid>
       <pubDate>Sat, 17 Jan 2026 06:21:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f91/live/7bbe70c0-f2eb-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Twelve-year ban for 'misogynistic' women's coach]]></title>
-      <description><![CDATA[A former women's football coach is banned from the sport for 12 years after bombarding players and a member of staff with explicit images and suggesting they have sex.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cm24zzj55vmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm24zzj55vmo</guid>
-      <pubDate>Sat, 17 Jan 2026 15:30:27 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5282/live/96a87060-f3a5-11f0-82b8-6fc560a3ff5b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Boots from Easter Bunny and teenage parties - Glasner tells his story]]></title>
@@ -570,14 +562,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/621b/live/7c1eef20-f15d-11f0-9fdd-27d7df3706fc.jpg"/>
     </item>
     <item>
-      <title><![CDATA[New signings help Liverpool spark to life but real test awaits]]></title>
-      <description><![CDATA[Women's FA Cup fourth‑round victory over fourth-tier London Bees finally offer Liverpool a moment of light in a campaign that has felt extremely bleak.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy8pv9g3eleo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8pv9g3eleo</guid>
-      <pubDate>Sun, 18 Jan 2026 17:15:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05f3/live/ad3fe220-f488-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Brighton boss Vidosic on leave for family reasons]]></title>
       <description><![CDATA[Brighton manager Dario Vidosic will take a period of leave for private family reasons, the club have confirmed.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5yx4xw7kq9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -592,6 +576,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgr935p08no</guid>
       <pubDate>Fri, 16 Jan 2026 20:28:49 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6208/live/04ef4da0-f315-11f0-bc8b-a34ab510ca4e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Kerr scores two as Chelsea thrash Palace in FA Cup]]></title>
+      <description><![CDATA[Sam Kerr scores two as holders Chelsea beat Crystal Palace 5-0 in the Women's FA Cup, while Sunderland lose to London City.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clym6z2x23eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clym6z2x23eo</guid>
+      <pubDate>Sat, 17 Jan 2026 14:35:21 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea84/live/c882d850-f3af-11f0-a42e-950e67f27517.jpg"/>
     </item>
     <item>
       <title><![CDATA[The great number nine decline - where have England's strikers gone?]]></title>
