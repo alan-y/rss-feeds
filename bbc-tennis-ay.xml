@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 19 Jan 2026 09:02:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 09:52:02 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -24,7 +24,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ece/live/ddd399d0-f501-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Big push for positivity' helps Medvedev end Grand Slam losing streak]]></title>
+      <title><![CDATA[Medvedev wins at major for first time in 370 days]]></title>
       <description><![CDATA[Daniil Medvedev says he is trying to be as "positive on the court as I am in life" as he snaps his Grand Slam losing streak at the Australian Open.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c99k33kyxz3o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c99k33kyxz3o</guid>
@@ -32,20 +32,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/546e/live/463eede0-f50b-11f0-911d-fd8fe3b7d549.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How riverside walk and a nap helped Raducanu prepare for win]]></title>
-      <description><![CDATA[British number one Emma Raducanu overcomes a shaky start to sail past Thailand's Mananchaya Sawangkaew in the Australian Open first round.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c4g52n8m32ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c4g52n8m32ro</guid>
-      <pubDate>Sun, 18 Jan 2026 13:50:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98f2/live/76a58ab0-f48a-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Britain's Fery causes another Slam shock]]></title>
-      <description><![CDATA[British qualifier Arthur Fery claims another notable Grand Slam scalp by stunning 20th seed Flavio Cobolli on day one of the Australian Open.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/clywqv1evx5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/clywqv1evx5o</guid>
-      <pubDate>Sun, 18 Jan 2026 06:18:52 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8129/live/1ca816a0-f434-11f0-b385-5f48925de19a.jpg"/>
+      <title><![CDATA['Not young any more' - Wawrinka, 40, battles into second round]]></title>
+      <description><![CDATA[Veterans Stan Wawrinka and Marin Cilic roll back the years to advance to the Australian Open second round.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c36844ddr38o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c36844ddr38o</guid>
+      <pubDate>Mon, 19 Jan 2026 09:19:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f9e/live/be0a5fa0-f513-11f0-adb2-53c3c332b1d8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Raducanu dominant in Australian Open first-round win]]></title>
@@ -56,20 +48,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f9c/live/c01ff440-f486-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Britain's Fery causes another Slam shock]]></title>
+      <description><![CDATA[British qualifier Arthur Fery claims another notable Grand Slam scalp by stunning 20th seed Flavio Cobolli on day one of the Australian Open.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/clywqv1evx5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/clywqv1evx5o</guid>
+      <pubDate>Sun, 18 Jan 2026 06:18:52 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8129/live/1ca816a0-f434-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How riverside walk and a nap helped Raducanu prepare for win]]></title>
+      <description><![CDATA[British number one Emma Raducanu overcomes a shaky start to sail past Thailand's Mananchaya Sawangkaew in the Australian Open first round.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c4g52n8m32ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c4g52n8m32ro</guid>
+      <pubDate>Sun, 18 Jan 2026 13:50:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98f2/live/76a58ab0-f48a-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Recharged' Alcaraz starts career Grand Slam bid with win]]></title>
       <description><![CDATA[World number one Carlos Alcaraz is "recharged" after a nine-week break as he bids to complete the career Grand Slam at the Australian Open.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c20z56l35j8o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c20z56l35j8o</guid>
       <pubDate>Sun, 18 Jan 2026 13:24:30 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81f2/live/9f5f1c00-f48a-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Alcaraz begins Grand Slam bid with win against Walton]]></title>
-      <description><![CDATA[Carlos Alcaraz beats Australia's Adam Walton 6-3 7-6 (7-2) 6-2 in his Australian Open first-round match as he begins his quest for a career Grand Slam.]]></description>
-      <link>https://www.bbc.com/sport/tennis/videos/cn40jxzdvz0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/cn40jxzdvz0o</guid>
-      <pubDate>Sun, 18 Jan 2026 16:22:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac4c/live/07d34ab0-f489-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA['A lot of pressure' - Sabalenka beats wildcard in front of Federer & Laver]]></title>
@@ -80,12 +80,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/689a/live/7b7ac1a0-f457-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Player helps ball girl after collapse at Australian Open]]></title>
-      <description><![CDATA[Turkish player Zeynep Sonmez says it was "instinct" to help after a ball girl fainted during day one of the 2026 Australian Open.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/crmleyxl4kpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/crmleyxl4kpo</guid>
-      <pubDate>Sun, 18 Jan 2026 09:15:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbf9/live/e2209bf0-f434-11f0-b032-ed3658b53a69.jpg"/>
+      <title><![CDATA[Alcaraz begins Grand Slam bid with win against Walton]]></title>
+      <description><![CDATA[Carlos Alcaraz beats Australia's Adam Walton 6-3 7-6 (7-2) 6-2 in his Australian Open first-round match as he begins his quest for a career Grand Slam.]]></description>
+      <link>https://www.bbc.com/sport/tennis/videos/cn40jxzdvz0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/cn40jxzdvz0o</guid>
+      <pubDate>Sun, 18 Jan 2026 16:22:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac4c/live/07d34ab0-f489-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA[How to follow Australian Open across the BBC]]></title>
@@ -94,6 +94,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cn42q0yjylno</guid>
       <pubDate>Sun, 18 Jan 2026 12:37:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc89/live/9730a560-f1f3-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Player helps ball girl after collapse at Australian Open]]></title>
+      <description><![CDATA[Turkish player Zeynep Sonmez says it was "instinct" to help after a ball girl fainted during day one of the 2026 Australian Open.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/crmleyxl4kpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/crmleyxl4kpo</guid>
+      <pubDate>Sun, 18 Jan 2026 09:15:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbf9/live/e2209bf0-f434-11f0-b032-ed3658b53a69.jpg"/>
     </item>
     <item>
       <title><![CDATA[Williams' history-making day ends in narrow defeat]]></title>
@@ -190,14 +198,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/ckgyl1ndw57o</guid>
       <pubDate>Wed, 14 Jan 2026 13:12:45 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6640/live/e8a48660-f166-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[From 421st to top 10 - Bencic eyes Australian Open glory]]></title>
-      <description><![CDATA[Belinda Bencic returns to the top 10 for the first time since giving birth to her daughter Bella.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cy7m5p32d87o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cy7m5p32d87o</guid>
-      <pubDate>Mon, 12 Jan 2026 12:28:05 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1661/live/08595be0-efad-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch: Amateur beats Sinner in One Point Slam title win]]></title>
