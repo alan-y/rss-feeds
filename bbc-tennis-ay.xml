@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 19 Jan 2026 13:44:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 14:27:11 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,15 +40,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3033/live/cd4045c0-f522-11f0-ba9e-6162a5db7583.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Medvedev wins at major for first time in 370 days]]></title>
-      <description><![CDATA[Daniil Medvedev says he is trying to be as "positive on the court as I am in life" as he snaps his Grand Slam losing streak at the Australian Open.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c99k33kyxz3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c99k33kyxz3o</guid>
-      <pubDate>Mon, 19 Jan 2026 08:16:28 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/546e/live/463eede0-f50b-11f0-911d-fd8fe3b7d549.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Fearnley seeks confidence boost after early exit]]></title>
+      <title><![CDATA[Fearnley seeks confidence boost after early exit in Melbourne]]></title>
       <description><![CDATA[After a sharp rise in the world rankings, Britain's Jacob Fearnley faces a new challenge with his place in the top 100 jeopardised by an early Australian Open exit.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c1kl0l93v7mo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c1kl0l93v7mo</guid>
@@ -62,6 +54,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/czx3n3qe4kgo</guid>
       <pubDate>Mon, 19 Jan 2026 11:31:34 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389c/live/6f6464c0-f529-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Medvedev wins at major for first time in 370 days]]></title>
+      <description><![CDATA[Daniil Medvedev says he is trying to be as "positive on the court as I am in life" as he snaps his Grand Slam losing streak at the Australian Open.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c99k33kyxz3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c99k33kyxz3o</guid>
+      <pubDate>Mon, 19 Jan 2026 08:16:28 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/546e/live/463eede0-f50b-11f0-911d-fd8fe3b7d549.jpg"/>
     </item>
     <item>
       <title><![CDATA['Not young any more' - Wawrinka, 40, battles into second round]]></title>
@@ -80,12 +80,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/380e/live/fd8623a0-f52f-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Britain's Fery causes another Slam shock]]></title>
-      <description><![CDATA[British qualifier Arthur Fery claims another notable Grand Slam scalp by stunning 20th seed Flavio Cobolli on day one of the Australian Open.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/clywqv1evx5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/clywqv1evx5o</guid>
-      <pubDate>Sun, 18 Jan 2026 06:18:52 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8129/live/1ca816a0-f434-11f0-b385-5f48925de19a.jpg"/>
+      <title><![CDATA[Alcaraz begins Grand Slam bid with win against Walton]]></title>
+      <description><![CDATA[Carlos Alcaraz beats Australia's Adam Walton 6-3 7-6 (7-2) 6-2 in his Australian Open first-round match as he begins his quest for a career Grand Slam.]]></description>
+      <link>https://www.bbc.com/sport/tennis/videos/cn40jxzdvz0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/cn40jxzdvz0o</guid>
+      <pubDate>Sun, 18 Jan 2026 16:22:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac4c/live/07d34ab0-f489-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA[How riverside walk and a nap helped Raducanu prepare for win]]></title>
@@ -96,20 +96,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98f2/live/76a58ab0-f48a-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Alcaraz begins Grand Slam bid with win against Walton]]></title>
-      <description><![CDATA[Carlos Alcaraz beats Australia's Adam Walton 6-3 7-6 (7-2) 6-2 in his Australian Open first-round match as he begins his quest for a career Grand Slam.]]></description>
-      <link>https://www.bbc.com/sport/tennis/videos/cn40jxzdvz0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/cn40jxzdvz0o</guid>
-      <pubDate>Sun, 18 Jan 2026 16:22:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac4c/live/07d34ab0-f489-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How to follow Australian Open across the BBC]]></title>
       <description><![CDATA[Jannik Sinner and Madison Keys begin their Australian Open title defences from Sunday - and you can follow it across the BBC.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cn42q0yjylno?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cn42q0yjylno</guid>
       <pubDate>Mon, 19 Jan 2026 12:14:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc89/live/9730a560-f1f3-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Britain's Fery causes another Slam shock]]></title>
+      <description><![CDATA[British qualifier Arthur Fery claims another notable Grand Slam scalp by stunning 20th seed Flavio Cobolli on day one of the Australian Open.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/clywqv1evx5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/clywqv1evx5o</guid>
+      <pubDate>Sun, 18 Jan 2026 06:18:52 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8129/live/1ca816a0-f434-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA['A lot of pressure' - Sabalenka beats wildcard in front of Federer & Laver]]></title>
@@ -144,14 +144,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eff8/live/6be52a50-f47f-11f0-90fe-81b481096381.jpg"/>
     </item>
     <item>
-      <title><![CDATA['It's not now or never' - Djokovic targets elusive 25th Slam]]></title>
-      <description><![CDATA[Novak Djokovic says the upcoming Australian Open is not "now or never" for his hopes of winning a standalone all-time record 25th Grand Slam title.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cr7j093g3yeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cr7j093g3yeo</guid>
-      <pubDate>Sat, 17 Jan 2026 09:57:10 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5162/live/361e5bf0-f383-11f0-b254-a7c2c62e02ab.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Avoiding FPL & watching sunrise - how players cope with jetlag]]></title>
       <description><![CDATA[Tennis players might be considered super-human but they suffer with jetlag like the rest of us - particularly when they travel to the Australian Open.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/ceqz2j10q4ro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -166,6 +158,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cly3lzx827mo</guid>
       <pubDate>Sat, 17 Jan 2026 07:44:54 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15d9/live/8df3b090-f370-11f0-af04-513a0f9bd7dc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['It's not now or never' - Djokovic targets elusive 25th Slam]]></title>
+      <description><![CDATA[Novak Djokovic says the upcoming Australian Open is not "now or never" for his hopes of winning a standalone all-time record 25th Grand Slam title.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cr7j093g3yeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cr7j093g3yeo</guid>
+      <pubDate>Sat, 17 Jan 2026 09:57:10 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5162/live/361e5bf0-f383-11f0-b254-a7c2c62e02ab.jpg"/>
     </item>
     <item>
       <title><![CDATA['Cautiously optimistic' or 'no progress'? - players divided on Slam demands]]></title>
@@ -198,14 +198,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/crleznxxl5wo</guid>
       <pubDate>Thu, 15 Jan 2026 06:54:01 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f781/live/bf4566d0-f1d5-11f0-8d66-15f9eca5771f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[More money and bigger say - are top-10 stars being reasonable?]]></title>
-      <description><![CDATA[As another Grand Slam season dawns, many players still believe they are undervalued and denied a voice in key decisions made by the majors.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c9w7rx0j82go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c9w7rx0j82go</guid>
-      <pubDate>Wed, 14 Jan 2026 18:19:23 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42a1/live/aa78a2b0-cf63-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch: Amateur beats Sinner in One Point Slam title win]]></title>
@@ -248,6 +240,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995c/live/10596740-d5ef-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
+      <title><![CDATA[More money and bigger say - are top-10 stars being reasonable?]]></title>
+      <description><![CDATA[As another Grand Slam season dawns, many players still believe they are undervalued and denied a voice in key decisions made by the majors.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c9w7rx0j82go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c9w7rx0j82go</guid>
+      <pubDate>Wed, 14 Jan 2026 18:19:23 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42a1/live/aa78a2b0-cf63-11f0-8c06-f5d460985095.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[The junior Slam champion who match-fixed to 'escape' tennis]]></title>
       <description><![CDATA[Shortly after winning the 2016 Australian Open boys' title, a disillusioned Oliver Anderson was arrested for throwing a set - now he is rebuilding his career.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c2lg0wqyxllo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -286,14 +286,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c98jgg89e41o</guid>
       <pubDate>Sun, 09 Nov 2025 09:57:38 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3354/live/8cb9d320-b73a-11f0-b2a1-6f537f66f9aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Is WTA Finals bringing change to Saudi Arabia?]]></title>
-      <description><![CDATA[The season-ending WTA Finals has been held for the second time in Saudi Arabia - a controversial move which continues to be scrutinised.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c0rp2e5dvevo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c0rp2e5dvevo</guid>
-      <pubDate>Tue, 11 Nov 2025 13:12:29 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63b5/live/3ccaa450-be80-11f0-a909-015ca360c829.jpg"/>
     </item>
     <item>
       <title><![CDATA[Women's tennis going in right direction - King]]></title>
