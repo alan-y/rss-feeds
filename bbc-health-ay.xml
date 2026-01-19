@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 19 Jan 2026 07:56:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 08:32:19 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Alzheimer's finger-prick test could help diagnosis]]></title>
+      <description><![CDATA[An international trial involving 1,000 volunteers will aim to detect biomarkers associated with the condition.]]></description>
+      <link>https://www.bbc.com/news/articles/cq5y85e8d2xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq5y85e8d2xo</guid>
+      <pubDate>Mon, 19 Jan 2026 00:16:36 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/206c/live/689e90c0-f501-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Life-extending prostate cancer drug to be offered to thousands in England]]></title>
       <description><![CDATA[Abiraterone will be available in a matter of weeks and will be offered to 7,000 men a year.
@@ -31,6 +39,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jv9l5n32zo</guid>
       <pubDate>Fri, 16 Jan 2026 15:42:51 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a3d/live/fa1c2400-f2c6-11f0-87dd-6f0e6349453d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[I'm allergic to cold - anything below 12C and I break out in hives]]></title>
+      <description><![CDATA[Amber breaks out in hives if the temperature goes below 12C (53F) and wishes for a "normal life".]]></description>
+      <link>https://www.bbc.com/news/articles/c4grjn8e147o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4grjn8e147o</guid>
+      <pubDate>Mon, 19 Jan 2026 06:31:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b52f/live/a1a19cb0-f4b0-11f0-b385-5f48925de19a.png"/>
     </item>
     <item>
       <title><![CDATA[Hospitals with unsafe concrete expected to miss rebuild deadline ]]></title>
@@ -55,22 +71,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/czj00pp70xvo</guid>
       <pubDate>Thu, 15 Jan 2026 14:56:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8474/live/fbf383d0-f09c-11f0-95c2-2f43243b954d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Babies in Midlands and North 'more likely to die around birth']]></title>
-      <description><![CDATA[A study found the 10 consistently worst-performing centres were all in the Midlands and North of England.]]></description>
-      <link>https://www.bbc.com/news/articles/c20d9wqvzvro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c20d9wqvzvro</guid>
-      <pubDate>Thu, 15 Jan 2026 16:49:25 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc4/live/48ccaad0-f230-11f0-ac16-976f13ab7530.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[One in 10 patients spent over 12 hours in A&E in 2025]]></title>
-      <description><![CDATA[Nurses union says long waits and corridor care having a devastating impact on paitents.]]></description>
-      <link>https://www.bbc.com/news/articles/c4gre5kw5j7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gre5kw5j7o</guid>
-      <pubDate>Thu, 15 Jan 2026 09:49:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bab/live/6d47fca0-f174-11f0-adde-9114e6d28169.jpg"/>
     </item>
     <item>
       <title><![CDATA[First leukaemia patient to get new form of treatment on NHS says it is 'very sci-fi']]></title>
@@ -111,6 +111,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c1m8m47jl5eo</guid>
       <pubDate>Tue, 13 Jan 2026 09:49:40 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e0/live/69fdec90-efc5-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Babies in Midlands and North 'more likely to die around birth']]></title>
+      <description><![CDATA[A study found the 10 consistently worst-performing centres were all in the Midlands and North of England.]]></description>
+      <link>https://www.bbc.com/news/articles/c20d9wqvzvro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c20d9wqvzvro</guid>
+      <pubDate>Thu, 15 Jan 2026 16:49:25 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc4/live/48ccaad0-f230-11f0-ac16-976f13ab7530.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why the NHS still wastes billions on patients who don't need to be in hospital]]></title>
@@ -223,14 +231,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g4nvl081zo</guid>
       <pubDate>Mon, 05 Jan 2026 06:09:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3c0/live/2e3eac30-e3f4-11f0-aae2-2191c0e48a3b.png"/>
-    </item>
-    <item>
-      <title><![CDATA[The debate about whether the NHS should use magic mushrooms to treat depression]]></title>
-      <description><![CDATA[Many clinical trials to test the use of psychedelic medicines for conditions such as depression have been underway since 2022 - with surprising results]]></description>
-      <link>https://www.bbc.com/news/articles/ckg936l88e7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg936l88e7o</guid>
-      <pubDate>Fri, 02 Jan 2026 15:47:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1863/live/2b37c9a0-da84-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
@@ -841,6 +841,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ce4/live/a5b8a5f0-df43-11f0-a5e8-050d4171e402.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Blue Monday: Why it's a 'load of rubbish']]></title>
+      <description><![CDATA[The myth of 'the most depressing day of the year' won't die - but does it actually do any harm?]]></description>
+      <link>https://www.bbc.com/news/articles/c24gzm9em5go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c24gzm9em5go</guid>
+      <pubDate>Mon, 19 Jan 2026 08:30:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00b6/live/f6b9b590-f2ba-11f0-bd16-7dde9b275a02.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[NHS funds football pitch to help boost island health]]></title>
       <description><![CDATA[Carloway Football Club in Lewis has received a grant of £22,000.]]></description>
       <link>https://www.bbc.com/news/articles/c3wz4pj1z1vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -871,14 +879,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgkxj52km4o</guid>
       <pubDate>Fri, 14 Nov 2025 12:34:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b85/live/bed9a920-c0b3-11f0-8a6c-bdcd4bb2f081.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[At 21, I was crushed by a stranger's joke about going bald. Then the way I looked at myself changed]]></title>
-      <description><![CDATA[There are multiple ways for men to combat hair loss now, but should they have to? ]]></description>
-      <link>https://www.bbc.com/news/articles/c993ygv9g25o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c993ygv9g25o</guid>
-      <pubDate>Sat, 01 Nov 2025 00:52:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d49/live/cf60a290-b649-11f0-ba75-093eca1ac29b.jpg"/>
     </item>
   </channel>
 </rss>
