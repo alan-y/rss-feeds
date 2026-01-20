@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 07:44:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 08:30:56 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -72,12 +72,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2227/live/d6c4fef0-f587-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How is Premier League doing in race for five Champions League places?]]></title>
+      <description><![CDATA[With the top three in the Premier League pulling away, could fifth be enough for Champions League football again?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgk8yz68ynlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgk8yz68ynlo</guid>
+      <pubDate>Tue, 20 Jan 2026 07:56:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae64/live/35f68880-e665-11f0-aae2-2191c0e48a3b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Quiz: Name every team to have played in the Champions League]]></title>
       <description><![CDATA[There have been 158 teams who have played in Europe's premier competition since 1992-93.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c301v887e9ro?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c301v887e9ro</guid>
       <pubDate>Tue, 20 Jan 2026 07:33:19 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71c2/live/21bbaeb0-f4c8-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Chelsea host Manchester United in Women's FA Cup]]></title>
+      <description><![CDATA[Holders Chelsea will take on Manchester United in the fifth round of the Women's FA Cup - a repeat of last year's final.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgyk4w3znzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgyk4w3znzo</guid>
+      <pubDate>Mon, 19 Jan 2026 19:32:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e1/live/3b95cb20-f565-11f0-aafe-33121222cc9f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man City sign Guehi from Palace - what will he bring?]]></title>
@@ -96,22 +112,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/cvgndz4pd2xo</guid>
       <pubDate>Mon, 19 Jan 2026 16:38:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eedf/live/346621b0-f551-11f0-a712-a38af32eabc0.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Under-pressure Frank 'feeling trust' of Spurs board]]></title>
-      <description><![CDATA[Tottenham head coach Thomas Frank says lunch with board members is an "extremely good sign" despite pressure mounting on him during an underwhelming season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czjgp2x072po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czjgp2x072po</guid>
-      <pubDate>Mon, 19 Jan 2026 17:29:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5267/live/b8485f40-f568-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Chelsea host Manchester United in Women's FA Cup]]></title>
-      <description><![CDATA[Holders Chelsea will take on Manchester United in the fifth round of the Women's FA Cup - a repeat of last year's final.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgyk4w3znzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgyk4w3znzo</guid>
-      <pubDate>Mon, 19 Jan 2026 19:32:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e1/live/3b95cb20-f565-11f0-aafe-33121222cc9f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Brighton equaliser more than deserved - Hurzeler]]></title>
@@ -165,6 +165,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8862/live/c9c02fd0-f55b-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Under-pressure Frank 'feeling trust' of Spurs board]]></title>
+      <description><![CDATA[Tottenham head coach Thomas Frank says lunch with board members is an "extremely good sign" despite pressure mounting on him during an underwhelming season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/czjgp2x072po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czjgp2x072po</guid>
+      <pubDate>Mon, 19 Jan 2026 17:29:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5267/live/b8485f40-f568-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Dalot 'would have been given red card in Europe']]></title>
       <description><![CDATA[Manchester United's Diogo Dalot was not sent off against Manchester City after his foul on Jeremy Doku was "glancing" contact.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn5616rve3eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -195,14 +203,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clymze8n820o</guid>
       <pubDate>Mon, 19 Jan 2026 18:41:30 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd54/live/3b273560-f566-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wilson set to stay at West Ham despite exit talks]]></title>
-      <description><![CDATA[West Ham block plans for striker Callum Wilson to leave the club this month after putting talks over his contract termination on hold.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cje1knekv5jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cje1knekv5jo</guid>
-      <pubDate>Mon, 19 Jan 2026 13:45:58 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41e3/live/a994b990-f53a-11f0-83a1-67b25bff093d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rashford scores but Barcelona suffer shock defeat]]></title>
@@ -243,6 +243,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0r4v2rwgk0o</guid>
       <pubDate>Sun, 18 Jan 2026 19:15:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5726/live/82ba7d90-f4a0-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Wilson set to stay at West Ham despite exit talks]]></title>
+      <description><![CDATA[West Ham block plans for striker Callum Wilson to leave the club this month after putting talks over his contract termination on hold.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cje1knekv5jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cje1knekv5jo</guid>
+      <pubDate>Mon, 19 Jan 2026 13:45:58 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41e3/live/a994b990-f53a-11f0-83a1-67b25bff093d.jpg"/>
     </item>
     <item>
       <title><![CDATA['We are not top-five contenders' - is January make or break for Villa?]]></title>
@@ -293,14 +301,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf3/live/7a1df840-f53d-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
-      <title><![CDATA['I'm not so sure I learned much' - O'Neill knows what Celtic need after cup win  ]]></title>
-      <description><![CDATA[Celtic manager Martin O'Neill admits he did not learn much about his squad after a laborious Scottish Cup victory over sixth-tier Auchinleck Talbot.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwyrkd6rqqko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyrkd6rqqko</guid>
-      <pubDate>Sun, 18 Jan 2026 22:47:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6af7/live/68bd6960-f4bf-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Villa did not deliver against 'fantastic' Everton - Emery]]></title>
       <description><![CDATA[Aston Villa manager Unai Emery is disappointed that his team were unable to convert any of their chances in their 1-0 defeat by "fantastic" Everton.
 
@@ -341,6 +341,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c9wxde029d8o</guid>
       <pubDate>Sun, 18 Jan 2026 00:08:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8b8/live/6dff03b0-f3fd-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['I'm not so sure I learned much' - O'Neill knows what Celtic need after cup win  ]]></title>
+      <description><![CDATA[Celtic manager Martin O'Neill admits he did not learn much about his squad after a laborious Scottish Cup victory over sixth-tier Auchinleck Talbot.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwyrkd6rqqko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyrkd6rqqko</guid>
+      <pubDate>Sun, 18 Jan 2026 22:47:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6af7/live/68bd6960-f4bf-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA['Arsenal will never forgive themselves if they don't win title now']]></title>
@@ -429,14 +437,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78vznp3xw4o</guid>
       <pubDate>Mon, 19 Jan 2026 09:31:10 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c978/live/78caeed0-f231-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ecstasy and now a day off - Senegal fans around the world celebrate Afcon win]]></title>
-      <description><![CDATA[Senegal supporters have been partying  after their team grabbed a dramatic 1-0 win over Morocco.]]></description>
-      <link>https://www.bbc.com/news/articles/ce3ekz4yx21o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3ekz4yx21o</guid>
-      <pubDate>Mon, 19 Jan 2026 11:41:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b26f/live/74af7f70-f52c-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Boots from Easter Bunny and teenage parties - Glasner tells his story]]></title>
@@ -551,20 +551,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5931/live/b3910d00-df54-11f0-b67b-690eb873de1b.png"/>
     </item>
     <item>
+      <title><![CDATA[Rangers explore move for Motherwell star - gossip]]></title>
+      <description><![CDATA[Rangers explore move for league rival's in-form forward, with German interest in a Celtic midfielder...]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce3kx4nklkko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3kx4nklkko</guid>
+      <pubDate>Tue, 20 Jan 2026 07:53:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e99/live/116f8b00-f5d4-11f0-a422-4ba8a094a8fa.png"/>
+    </item>
+    <item>
       <title><![CDATA[Football worth over £800m to Scottish economy]]></title>
       <description><![CDATA[Research by the Fraser of Allander Institute finds that the beautiful game supports more than 14,000 jobs across the country.]]></description>
       <link>https://www.bbc.com/news/articles/c3dmnxj1lxjo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3dmnxj1lxjo</guid>
       <pubDate>Mon, 19 Jan 2026 09:34:11 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffe0/live/a96d4fb0-f51f-11f0-ba9e-6162a5db7583.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Celtic interested in Wolsburg striker Wind' - gossip]]></title>
-      <description><![CDATA[Celtic, Hibernian and Rangers continue to be linked with signing targets as Heart of Midlothian reportedly hold talks designed to accelerate arrivals amid their injury crisis.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1lzqmv67z6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1lzqmv67z6o</guid>
-      <pubDate>Mon, 19 Jan 2026 08:21:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd07/live/9043c380-f50f-11f0-a422-4ba8a094a8fa.png"/>
     </item>
     <item>
       <title><![CDATA['If Flick hadn't come, I would have left Barca' - Raphinha]]></title>
