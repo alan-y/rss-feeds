@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 13:46:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 14:30:25 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -22,6 +22,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgjk89n2nyo</guid>
       <pubDate>Tue, 20 Jan 2026 01:31:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7db/live/2286a090-f55c-11f0-a712-a38af32eabc0.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Doctor accused of sex assaults on 38 patients]]></title>
+      <description><![CDATA[The charges relate to alleged offences against patients, including children, in the West Midlands. ]]></description>
+      <link>https://www.bbc.com/news/articles/cj0n12q5v42o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0n12q5v42o</guid>
+      <pubDate>Tue, 20 Jan 2026 13:10:57 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/264e/live/6a733260-f601-11f0-842b-5772902eef21.jpg"/>
     </item>
     <item>
       <title><![CDATA[Alzheimer's finger-prick test could help diagnosis]]></title>
@@ -65,14 +73,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d9b/live/b730a880-f309-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[I'm allergic to cold - anything below 12C and I break out in hives]]></title>
-      <description><![CDATA[Amber breaks out in hives if the temperature goes below 12C (53F) and wishes for a "normal life".]]></description>
-      <link>https://www.bbc.com/news/articles/c4grjn8e147o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4grjn8e147o</guid>
-      <pubDate>Mon, 19 Jan 2026 06:31:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b52f/live/a1a19cb0-f4b0-11f0-b385-5f48925de19a.png"/>
-    </item>
-    <item>
       <title><![CDATA[NHS trust used charity funds for leaving party]]></title>
       <description><![CDATA[Bosses, in a post to staff, say in hindsight, it was not a good use of charitable funds.]]></description>
       <link>https://www.bbc.com/news/articles/ce8eg6nexkdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -95,6 +95,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jv9l5n32zo</guid>
       <pubDate>Fri, 16 Jan 2026 15:42:51 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a3d/live/fa1c2400-f2c6-11f0-87dd-6f0e6349453d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[I'm allergic to cold - anything below 12C and I break out in hives]]></title>
+      <description><![CDATA[Amber breaks out in hives if the temperature goes below 12C (53F) and wishes for a "normal life".]]></description>
+      <link>https://www.bbc.com/news/articles/c4grjn8e147o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4grjn8e147o</guid>
+      <pubDate>Mon, 19 Jan 2026 06:31:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b52f/live/a1a19cb0-f4b0-11f0-b385-5f48925de19a.png"/>
     </item>
     <item>
       <title><![CDATA[First leukaemia patient to get new form of treatment on NHS says it is 'very sci-fi']]></title>
@@ -223,14 +231,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c801yyz3z5go</guid>
       <pubDate>Thu, 08 Jan 2026 15:49:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23c9/live/c7848610-eca7-11f0-8d86-1f6515ae635b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Parents say babies failed by delayed diagnosis like Jesy Nelson's twins]]></title>
-      <description><![CDATA[After Little Mix star Jesy Nelson's revelation that her twins have SMA, parents speak about their children's late diagnoses.]]></description>
-      <link>https://www.bbc.com/news/articles/c050p6e6093o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c050p6e6093o</guid>
-      <pubDate>Tue, 06 Jan 2026 06:12:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0864/live/3f9b2600-eb0d-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
