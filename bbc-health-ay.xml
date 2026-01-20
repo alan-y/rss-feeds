@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 19 Jan 2026 23:52:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 01:41:42 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[The hospitals where waiting times are getting worse. Is yours one of them?]]></title>
+      <description><![CDATA[Nearly a quarter of hospital trusts in England have seen waiting times deteriorate in the past year.]]></description>
+      <link>https://www.bbc.com/news/articles/ckgjk89n2nyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgjk89n2nyo</guid>
+      <pubDate>Tue, 20 Jan 2026 01:31:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7db/live/2286a090-f55c-11f0-a712-a38af32eabc0.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Alzheimer's finger-prick test could help diagnosis]]></title>
       <description><![CDATA[An international trial involving 1,000 volunteers will aim to detect biomarkers associated with the condition.]]></description>
@@ -223,14 +231,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c050p6e6093o</guid>
       <pubDate>Tue, 06 Jan 2026 06:12:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0864/live/3f9b2600-eb0d-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Junk food TV and online advert ban comes into force]]></title>
-      <description><![CDATA[Soft drinks, chocolate, pizzas and ice creams will be targeted in the UK government's plan.]]></description>
-      <link>https://www.bbc.com/news/articles/cq5y2vzlyldo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq5y2vzlyldo</guid>
-      <pubDate>Mon, 05 Jan 2026 04:52:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86bc/live/98770590-e983-11f0-9d55-758d47cc7ae3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
