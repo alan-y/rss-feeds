@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 21 Jan 2026 09:49:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 10:28:01 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -160,14 +160,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93cc/live/2eacc7f0-f566-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Fulham in talks to sign Man City winger Bobb]]></title>
-      <description><![CDATA[Fulham are in talks to sign winger Oscar Bobb from fellow Premier League side Manchester City.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly93z00gxko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly93z00gxko</guid>
-      <pubDate>Tue, 20 Jan 2026 15:01:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65af/live/f6ea7bf0-f60f-11f0-b990-27d7007e546f.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why Iraola's Bournemouth future is uncertain]]></title>
       <description><![CDATA[With his contract expiring in the summer, Andoni Iraola's future at Bournemouth is unclear after two successful seasons in charge.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ckgklrne80vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -176,20 +168,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b00/live/9b4da030-f5ef-11f0-b80d-a572c9b81991.jpg"/>
     </item>
     <item>
-      <title><![CDATA[The day I discovered the Everton contract Revie never signed]]></title>
-      <description><![CDATA[This is the story of how an unsigned contract that lay hidden in a bungalow for more than 50 years could have changed the course of English football.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy8yp1nqd21o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8yp1nqd21o</guid>
-      <pubDate>Tue, 20 Jan 2026 06:39:26 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78ef/live/953469a0-f5f8-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Return of the 0-0 - is the Premier League getting boring?]]></title>
-      <description><![CDATA[Two goalless fixtures at the weekend mean this season's Premier League has already featured more 0-0 draws than the whole of last term – but does that mean the league has been boring?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clymd1lgp44o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clymd1lgp44o</guid>
-      <pubDate>Tue, 20 Jan 2026 17:16:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/171b/live/80550da0-f611-11f0-b990-27d7007e546f.jpg"/>
+      <title><![CDATA[Fulham in talks to sign Man City winger Bobb]]></title>
+      <description><![CDATA[Fulham are in talks to sign winger Oscar Bobb from fellow Premier League side Manchester City.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly93z00gxko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly93z00gxko</guid>
+      <pubDate>Tue, 20 Jan 2026 15:01:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65af/live/f6ea7bf0-f60f-11f0-b990-27d7007e546f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Refs' boss Webb backs officials over Dalot incident]]></title>
@@ -251,6 +235,30 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0d1/live/f84bb590-f48e-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
+      <title><![CDATA[The day I discovered the Everton contract Revie never signed]]></title>
+      <description><![CDATA[This is the story of how an unsigned contract that lay hidden in a bungalow for more than 50 years could have changed the course of English football.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy8yp1nqd21o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8yp1nqd21o</guid>
+      <pubDate>Tue, 20 Jan 2026 06:39:26 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78ef/live/953469a0-f5f8-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Return of the 0-0 - is the Premier League getting boring?]]></title>
+      <description><![CDATA[Two goalless fixtures at the weekend mean this season's Premier League has already featured more 0-0 draws than the whole of last term – but does that mean the league has been boring?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clymd1lgp44o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clymd1lgp44o</guid>
+      <pubDate>Tue, 20 Jan 2026 17:16:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/171b/live/80550da0-f611-11f0-b990-27d7007e546f.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Foxes must iron out inconsistency - De Cordova-Reid]]></title>
+      <description><![CDATA[Leicester City's hopes of challenging for promotion back to the Premier League hinge on addressing their erratic form, says forward Bobby De Cordova-Reid.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c801x93nx7po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c801x93nx7po</guid>
+      <pubDate>Wed, 21 Jan 2026 09:57:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f5a/live/2d4f7d30-f6ab-11f0-a917-d3d793525367.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How is Premier League doing in race for five Champions League places?]]></title>
       <description><![CDATA[With the top three in the Premier League pulling away, could fifth be enough for Champions League football again?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgk8yz68ynlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -283,12 +291,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ebd/live/366537e0-f613-11f0-b990-27d7007e546f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Marseille in talks with Arsenal over Nwaneri loan ]]></title>
-      <description><![CDATA[French club Marseille are in talks to sign Arsenal midfielder Ethan Nwaneri on loan for the rest of the season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2kd5j5xm7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2kd5j5xm7o</guid>
-      <pubDate>Tue, 20 Jan 2026 12:10:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9558/live/fd893b60-f5f4-11f0-a745-635c33f47272.jpg"/>
+      <title><![CDATA[Saved by 'special talent' - but did penalty award wrong Brighton?]]></title>
+      <description><![CDATA[Charalampos Kostoulas earned Brighton a point with a stunning overhead kick but  were the Seagulls right to be angry over an earlier penalty award?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce8egx0gn3lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8egx0gn3lo</guid>
+      <pubDate>Mon, 19 Jan 2026 23:15:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a0/live/4d1c0080-f58d-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man Utd's complicated relationship with Class of 92]]></title>
@@ -299,12 +307,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa5a/live/d183e9a0-f574-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Saved by 'special talent' - but did penalty award wrong Brighton?]]></title>
-      <description><![CDATA[Charalampos Kostoulas earned Brighton a point with a stunning overhead kick but  were the Seagulls right to be angry over an earlier penalty award?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce8egx0gn3lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8egx0gn3lo</guid>
-      <pubDate>Mon, 19 Jan 2026 23:15:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a0/live/4d1c0080-f58d-11f0-b385-5f48925de19a.jpg"/>
+      <title><![CDATA[Marseille in talks with Arsenal over Nwaneri loan ]]></title>
+      <description><![CDATA[French club Marseille are in talks to sign Arsenal midfielder Ethan Nwaneri on loan for the rest of the season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2kd5j5xm7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2kd5j5xm7o</guid>
+      <pubDate>Tue, 20 Jan 2026 12:10:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9558/live/fd893b60-f5f4-11f0-a745-635c33f47272.jpg"/>
     </item>
     <item>
       <title><![CDATA[Huddersfield appoint Manning as head coach]]></title>
@@ -313,22 +321,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxy37400pzo</guid>
       <pubDate>Tue, 20 Jan 2026 12:50:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/685f/live/3fddee20-f5ff-11f0-842b-5772902eef21.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
-      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5y34dkjd83o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y34dkjd83o</guid>
-      <pubDate>Mon, 19 Jan 2026 23:37:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9014/live/a31a6d10-f58c-11f0-b385-5f48925de19a.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Hellberg believes Hackney wants to stay at Boro]]></title>
-      <description><![CDATA[Middlesbrough boss Kim Hellberg says he believes midfielder Hayden Hackney wants to stay with the Championship club, despite interest from Manchester United.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgl86xegrd7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgl86xegrd7o</guid>
-      <pubDate>Tue, 20 Jan 2026 15:37:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aca/live/3ad957b0-f60f-11f0-b990-27d7007e546f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man City sign Guehi from Palace - what will he bring?]]></title>
@@ -459,6 +451,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d54/live/246b2800-eae8-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Aberdeen in latter stages of manager search]]></title>
+      <description><![CDATA[Aberdeen are in the latter stages of their search for a new manager, with candidates having been interviewed.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2lgvy14z81o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2lgvy14z81o</guid>
+      <pubDate>Wed, 21 Jan 2026 10:19:26 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c161/live/6b7bea60-f6b2-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Celtic agree deal for striker Cvancara - gossip]]></title>
       <description><![CDATA[Celtic close in on forward, Rangers winger nears Kilmarnock loan and leading Aberdeen candidate emerges.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c99k75g31dxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -475,20 +475,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/204c/live/3ec0e230-f5fb-11f0-842b-5772902eef21.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Are we not good enough? Girls football team win tiny plastic cup as boys get full-size trophy]]></title>
+      <title><![CDATA['Are we not good enough?' Girls football team win tiny plastic cup as boys get full-size trophy]]></title>
       <description><![CDATA[The cup paled into comparison to the grand old trophy presented to the winning boys football team.]]></description>
       <link>https://www.bbc.com/news/articles/clymzpl58z0o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/clymzpl58z0o</guid>
       <pubDate>Wed, 21 Jan 2026 06:20:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5724/live/620035e0-f621-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Football worth over £800m to Scottish economy]]></title>
-      <description><![CDATA[Research by the Fraser of Allander Institute finds that the beautiful game supports more than 14,000 jobs across the country.]]></description>
-      <link>https://www.bbc.com/news/articles/c3dmnxj1lxjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3dmnxj1lxjo</guid>
-      <pubDate>Mon, 19 Jan 2026 09:34:11 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffe0/live/a96d4fb0-f51f-11f0-ba9e-6162a5db7583.jpg"/>
     </item>
     <item>
       <title><![CDATA[Roma sign forward Malen from Aston Villa]]></title>
