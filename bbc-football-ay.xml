@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 21 Jan 2026 22:57:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 23:28:46 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,23 +40,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8601/live/8df39f20-f716-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Defeat for 10-player Arsenal as Man Utd reach first League Cup final]]></title>
-      <description><![CDATA[Manchester United reach the Women's League Cup final for the first time with a narrow 1-0 victory against Arsenal, in a rain-drenched semi-final at Meadow Park.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/clyzdgn20n9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/clyzdgn20n9o</guid>
-      <pubDate>Wed, 21 Jan 2026 21:42:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e8/live/52bd9920-f710-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Kaptein goal sends Chelsea into seventh straight League Cup final]]></title>
-      <description><![CDATA[Holders Chelsea reach a seventh successive final of the Women's League Cup with a narrow victory over rivals Manchester City at Joie Stadium.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c24g69vmgy5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c24g69vmgy5o</guid>
-      <pubDate>Wed, 21 Jan 2026 22:00:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18f8/live/4d6d3500-f712-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Kane brace sees Bayern Munich triumph over Union SG]]></title>
+      <title><![CDATA[Kane double fires Bayern Munich past  Union SG]]></title>
       <description><![CDATA[Harry Kane scores twice and misses a penalty as 10-man Bayern Munich secure their place in the last 16 of the Champions League with a comfortable victory over Union Saint-Gilloise.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c0506qy7d44o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0506qy7d44o</guid>
@@ -64,12 +48,23 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e95/live/a10dc220-f716-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Lopez stunner sees Barcelona beat Prague in six-goal thriller]]></title>
-      <description><![CDATA[Fermin Lopez scores a brace, including a stunning curling effort as Barcelona beat Slavia Prague in a six-goal thriller, keeping the Spanish league leaders one place outside the top eight of the Champions League.]]></description>
+      <title><![CDATA[Lopez stunner helps Barca win six-goal thriller]]></title>
+      <description><![CDATA[Fermin Lopez scores twice, including a stunning curling effort, as Barcelona beat Slavia Prague in a six-goal thriller in the Champions League.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c6208emjymyo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c6208emjymyo</guid>
       <pubDate>Wed, 21 Jan 2026 22:43:50 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad6b/live/60ce6460-f718-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Juventus advance to knockouts after victory over Benfica ]]></title>
+      <description><![CDATA[Two second-half goals for Juventus confirm their progression in the Champions League with a win over Jose Mourinho's Benfica at the Allianz Stadium.
+
+
+]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cy7mm884p4lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy7mm884p4lo</guid>
+      <pubDate>Wed, 21 Jan 2026 23:05:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc42/live/bc101180-f71c-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Qarabag score last-gasp winner to seal comeback win over Frankfurt]]></title>
@@ -104,14 +99,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/781c/live/8b650c70-f64f-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Bodo/Glimt humble Man City with stunning home win]]></title>
-      <description><![CDATA[Kasper Hogh scores twice as Norwegian debutants Bodo/Glimt claim one of the biggest upsets in Champions League history by beating Manchester City 3-1.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c3r1901dg4do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c3r1901dg4do</guid>
-      <pubDate>Wed, 21 Jan 2026 21:57:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1197/live/ff248e80-f639-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Palace striker Mateta tells club he wants to leave]]></title>
       <description><![CDATA[France striker Jean-Philippe Mateta has 18 months remaining on his current deal at Selhurst Park and as things stand he will not be signing an extension.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c62wn91w5geo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -142,6 +129,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9vxjw902dno</guid>
       <pubDate>Wed, 21 Jan 2026 20:05:15 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62e9/live/27ecd480-f6f8-11f0-bb31-83eb955a217a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Bodo/Glimt humble Man City with stunning home win]]></title>
+      <description><![CDATA[Kasper Hogh scores twice as Norwegian debutants Bodo/Glimt claim one of the biggest upsets in Champions League history by beating Manchester City 3-1.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c3r1901dg4do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c3r1901dg4do</guid>
+      <pubDate>Wed, 21 Jan 2026 21:57:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1197/live/ff248e80-f639-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arsenal extend perfect Champions League record with victory in Milan]]></title>
@@ -214,14 +209,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cz6y80exn3zo</guid>
       <pubDate>Tue, 20 Jan 2026 21:30:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0151/live/e4032b20-f643-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Watch: Livingston 1-1 St Mirren highlights]]></title>
-      <description><![CDATA[Watch highlights as St Mirren's Alex Gogic scores a late equaliser to deny Livingston their first victory in the Scottish Premiership since early August.]]></description>
-      <link>https://www.bbc.com/sport/videos/cwyrgke2gygo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/videos/cwyrgke2gygo</guid>
-      <pubDate>Wed, 21 Jan 2026 00:00:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfdc/live/95b8c850-f65a-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA[What we learned from Afcon 2025]]></title>
