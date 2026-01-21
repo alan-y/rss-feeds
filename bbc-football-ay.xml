@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 21 Jan 2026 09:01:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 09:49:21 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA['Good signs' or just buying time? Spurs remain divided on Frank future]]></title>
-      <description><![CDATA[Many Tottenham fans have already lost faith in Thomas Frank - but did Tuesday's 2-0 win over Borussia Dortmund give cause for optimism?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj4lqy2np2zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj4lqy2np2zo</guid>
-      <pubDate>Wed, 21 Jan 2026 00:24:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2379/live/8e695220-f657-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
     <item>
       <title><![CDATA['Battered in Bodo' - is this more than just a blip for Man City?]]></title>
       <description><![CDATA[Manchester City suffered their very own "hell of a beating" moment in Norway on Tuesday - now Pep Guardiola and his players must turn around their fortunes in an increasingly trying January.]]></description>
@@ -32,12 +24,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e939/live/21584f50-f644-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Tears in my eyes' - Jesus enjoys 'dream night' in San Siro]]></title>
-      <description><![CDATA[Gabriel Jesus says he had "tears in my eyes" after scoring twice to help Arsenal win 3-1 at Inter Milan for a seventh successive win in the Champions League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy1wr2xryxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy1wr2xryxo</guid>
-      <pubDate>Tue, 20 Jan 2026 23:57:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdc0/live/1bf576d0-f655-11f0-b385-5f48925de19a.jpg"/>
+      <title><![CDATA['Good signs' or just buying time? Spurs remain divided on Frank future]]></title>
+      <description><![CDATA[Many Tottenham fans have already lost faith in Thomas Frank - but did Tuesday's 2-0 win over Borussia Dortmund give cause for optimism?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj4lqy2np2zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj4lqy2np2zo</guid>
+      <pubDate>Wed, 21 Jan 2026 00:24:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f200/live/22104780-f6ae-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Bellingham responds to partying claims with 'joke' drinking celebration]]></title>
@@ -46,6 +38,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/c24g6r250veo</guid>
       <pubDate>Wed, 21 Jan 2026 00:05:40 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7dc/live/f3bb1180-f65d-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Tears in my eyes' - Jesus enjoys 'dream night' in San Siro]]></title>
+      <description><![CDATA[Gabriel Jesus says he had "tears in my eyes" after scoring twice to help Arsenal win 3-1 at Inter Milan for a seventh successive win in the Champions League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy1wr2xryxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy1wr2xryxo</guid>
+      <pubDate>Tue, 20 Jan 2026 23:57:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdc0/live/1bf576d0-f655-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Slot hints Salah will start for Liverpool in Marseille]]></title>
@@ -62,6 +62,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr4kwv1qyx5o</guid>
       <pubDate>Wed, 21 Jan 2026 00:05:49 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be67/live/d935de30-f653-11f0-b2ec-69dc2fd6eb0e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Villa interested in Mateta - Wednesday's gossip]]></title>
+      <description><![CDATA[Aston Villa explore Jean-Philippe Mateta and Tammy Abraham moves, Manchester United decline Ajax's Manuel Ugarte approach and Bournemouth fight to keep Marcos Senesi.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1m78nynj89o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1m78nynj89o</guid>
+      <pubDate>Tue, 20 Jan 2026 23:25:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a62f/live/91242e60-f641-11f0-b385-5f48925de19a.png"/>
     </item>
     <item>
       <title><![CDATA['Everything is going wrong' - Guardiola on Bodo/Glimt upset]]></title>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0q457vnqy7o</guid>
       <pubDate>Tue, 20 Jan 2026 23:10:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e358/live/7acbfcc0-f654-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Villa interested in Mateta - Wednesday's gossip]]></title>
-      <description><![CDATA[Aston Villa explore Jean-Philippe Mateta and Tammy Abraham moves, Manchester United decline Ajax's Manuel Ugarte approach and Bournemouth fight to keep Marcos Senesi.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1m78nynj89o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1m78nynj89o</guid>
-      <pubDate>Tue, 20 Jan 2026 23:25:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a62f/live/91242e60-f641-11f0-b385-5f48925de19a.png"/>
     </item>
     <item>
       <title><![CDATA[Champions League quiz: Name every city to host a final]]></title>
@@ -473,6 +473,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8pjx0n24go</guid>
       <pubDate>Tue, 20 Jan 2026 13:14:06 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/204c/live/3ec0e230-f5fb-11f0-842b-5772902eef21.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Are we not good enough? Girls football team win tiny plastic cup as boys get full-size trophy]]></title>
+      <description><![CDATA[The cup paled into comparison to the grand old trophy presented to the winning boys football team.]]></description>
+      <link>https://www.bbc.com/news/articles/clymzpl58z0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/clymzpl58z0o</guid>
+      <pubDate>Wed, 21 Jan 2026 06:20:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5724/live/620035e0-f621-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Football worth over £800m to Scottish economy]]></title>
