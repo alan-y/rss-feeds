@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 21 Jan 2026 19:26:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 19:57:55 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -80,30 +80,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1bf/live/8947fa60-f6b3-11f0-8b01-ab4a8c4f3f91.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Marseille agree loan deal for Arsenal's Nwaneri]]></title>
-      <description><![CDATA[French club Marseille agree to sign Arsenal midfielder Ethan Nwaneri on loan for the rest of the season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2kd5j5xm7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2kd5j5xm7o</guid>
-      <pubDate>Wed, 21 Jan 2026 11:30:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9558/live/fd893b60-f5f4-11f0-a745-635c33f47272.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Bournemouth close on £30.6m move for Brazilian striker Rayan]]></title>
-      <description><![CDATA[The 19-year-old is in advanced talks about moving to the south coast and will help the Cherries replace Antoine Semenyo, who joined Manchester City last week.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3ve1y4vqyno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3ve1y4vqyno</guid>
-      <pubDate>Wed, 21 Jan 2026 12:01:04 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e2/live/8918ef90-f6bd-11f0-b352-c18a700f188f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Which countries are set to win extra Champions League places?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything explains which countries are on course to win extra qualification spots for the 2026-27 Champions League campaign.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp3vl0z24yeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3vl0z24yeo</guid>
-      <pubDate>Wed, 21 Jan 2026 10:44:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ac/live/be1d8240-f6af-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Everything is going wrong' - Guardiola on Bodo/Glimt upset]]></title>
       <description><![CDATA[Pep Guardiola responds to his team's second defeat in four days as Manchester City lose at Bodo/Glimt in the Champions League.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cz6y80exn3zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -144,6 +120,30 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e358/live/7acbfcc0-f654-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Which countries are set to win extra Champions League places?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything explains which countries are on course to win extra qualification spots for the 2026-27 Champions League campaign.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp3vl0z24yeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3vl0z24yeo</guid>
+      <pubDate>Wed, 21 Jan 2026 10:44:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ac/live/be1d8240-f6af-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Marseille agree loan deal for Arsenal's Nwaneri]]></title>
+      <description><![CDATA[French club Marseille agree to sign Arsenal midfielder Ethan Nwaneri on loan for the rest of the season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2kd5j5xm7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2kd5j5xm7o</guid>
+      <pubDate>Wed, 21 Jan 2026 11:30:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9558/live/fd893b60-f5f4-11f0-a745-635c33f47272.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Bournemouth close on £30.6m move for Brazilian striker Rayan]]></title>
+      <description><![CDATA[The 19-year-old is in advanced talks about moving to the south coast and will help the Cherries replace Antoine Semenyo, who joined Manchester City last week.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3ve1y4vqyno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3ve1y4vqyno</guid>
+      <pubDate>Wed, 21 Jan 2026 12:01:04 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26e2/live/8918ef90-f6bd-11f0-b352-c18a700f188f.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Bellingham responds to partying claims with 'joke' drinking celebration]]></title>
       <description><![CDATA[Jude Bellingham responds to partying claims with a goal celebration in the Champions League win over Monaco.]]></description>
       <link>https://www.bbc.com/sport/articles/c24g6r250veo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -166,30 +166,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr4kwv1qyx5o</guid>
       <pubDate>Wed, 21 Jan 2026 00:05:49 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be67/live/d935de30-f653-11f0-b2ec-69dc2fd6eb0e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Battered in Bodo' - is this more than just a blip for Man City?]]></title>
-      <description><![CDATA[Manchester City suffered their very own "hell of a beating" moment in Norway on Tuesday - now Pep Guardiola and his players must turn around their fortunes in an increasingly trying January.]]></description>
-      <link>https://www.bbc.com/sport/articles/crkr76gkxr7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/crkr76gkxr7o</guid>
-      <pubDate>Tue, 20 Jan 2026 21:59:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e939/live/21584f50-f644-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Tears in my eyes' - Jesus enjoys 'dream night' in San Siro]]></title>
-      <description><![CDATA[Gabriel Jesus says he had "tears in my eyes" after scoring twice to help Arsenal win 3-1 at Inter Milan for a seventh successive win in the Champions League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy1wr2xryxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy1wr2xryxo</guid>
-      <pubDate>Tue, 20 Jan 2026 23:57:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdc0/live/1bf576d0-f655-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Rangers' opponents Stranraer face cup expulsion ]]></title>
-      <description><![CDATA[Stranraer face the prospect of Scottish Cup expulsion and losing out on a money-spinning trip to face Rangers at Ibrox after fielding an ineligible player in Monday's win over Queen's Park.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1klpx4ggl7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1klpx4ggl7o</guid>
-      <pubDate>Wed, 21 Jan 2026 14:44:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef97/live/f0db8d40-f6d6-11f0-a4dd-a5af35a571cb.jpg"/>
     </item>
     <item>
       <title><![CDATA[Stunning late goal earns Brighton draw against Bournemouth]]></title>
@@ -232,20 +208,36 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93cc/live/2eacc7f0-f566-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Battered in Bodo' - is this more than just a blip for Man City?]]></title>
+      <description><![CDATA[Manchester City suffered their very own "hell of a beating" moment in Norway on Tuesday - now Pep Guardiola and his players must turn around their fortunes in an increasingly trying January.]]></description>
+      <link>https://www.bbc.com/sport/articles/crkr76gkxr7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/crkr76gkxr7o</guid>
+      <pubDate>Tue, 20 Jan 2026 21:59:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e939/live/21584f50-f644-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Tears in my eyes' - Jesus enjoys 'dream night' in San Siro]]></title>
+      <description><![CDATA[Gabriel Jesus says he had "tears in my eyes" after scoring twice to help Arsenal win 3-1 at Inter Milan for a seventh successive win in the Champions League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy1wr2xryxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy1wr2xryxo</guid>
+      <pubDate>Tue, 20 Jan 2026 23:57:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdc0/live/1bf576d0-f655-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rangers' opponents Stranraer face cup expulsion ]]></title>
+      <description><![CDATA[Stranraer face the prospect of Scottish Cup expulsion and losing out on a money-spinning trip to face Rangers at Ibrox after fielding an ineligible player in Monday's win over Queen's Park.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1klpx4ggl7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1klpx4ggl7o</guid>
+      <pubDate>Wed, 21 Jan 2026 14:44:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef97/live/f0db8d40-f6d6-11f0-a4dd-a5af35a571cb.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Hearts working on signings after Mendy bid rejected]]></title>
       <description><![CDATA[Hearts have a bid for Forest Green Rovers midfielder Laurent Mendy turned down by the National League club.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cp809rrwdxxo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp809rrwdxxo</guid>
       <pubDate>Wed, 21 Jan 2026 15:38:38 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba6/live/bad41b40-f6bd-11f0-b352-c18a700f188f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Champions League quiz: Name every city to host a final]]></title>
-      <description><![CDATA[The Champions League and its forerunner the European Cup have a combined 70-year history. Can you name all the cities that have staged the final of the men's competition?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c7v0871l89po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7v0871l89po</guid>
-      <pubDate>Wed, 21 Jan 2026 06:58:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c210/live/ffddc320-f4ca-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Will Frank and Glasner see the season out?]]></title>
@@ -297,6 +289,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvgn9zz814do</guid>
       <pubDate>Sun, 18 Jan 2026 20:01:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0d1/live/f84bb590-f48e-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Champions League quiz: Name every city to host a final]]></title>
+      <description><![CDATA[The Champions League and its forerunner the European Cup have a combined 70-year history. Can you name all the cities that have staged the final of the men's competition?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c7v0871l89po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7v0871l89po</guid>
+      <pubDate>Wed, 21 Jan 2026 06:58:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c210/live/ffddc320-f4ca-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[BBC to show St Mirren & Falkirk Scottish Cup ties]]></title>
@@ -361,14 +361,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cjw1y2nx5w7o</guid>
       <pubDate>Tue, 20 Jan 2026 14:32:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6939/live/e47d5840-f603-11f0-842b-5772902eef21.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Fulham in talks to sign Man City winger Bobb]]></title>
-      <description><![CDATA[Fulham are in talks to sign winger Oscar Bobb from fellow Premier League side Manchester City.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly93z00gxko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly93z00gxko</guid>
-      <pubDate>Tue, 20 Jan 2026 15:01:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65af/live/f6ea7bf0-f60f-11f0-b990-27d7007e546f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is a Panenka ever the right choice for a penalty?]]></title>
