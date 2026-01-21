@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 21 Jan 2026 19:57:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 20:36:29 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -72,14 +72,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0ed/live/8e804c40-f5f9-11f0-b5f7-49f0357294ff.png"/>
     </item>
     <item>
-      <title><![CDATA[Why do Chelsea want another centre-back?]]></title>
-      <description><![CDATA[The Blues already have eight central defenders on their books, so why are they still looking to bring another centre-back to the club?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgnk4n99xwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgnk4n99xwo</guid>
-      <pubDate>Wed, 21 Jan 2026 13:22:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1bf/live/8947fa60-f6b3-11f0-8b01-ab4a8c4f3f91.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Everything is going wrong' - Guardiola on Bodo/Glimt upset]]></title>
       <description><![CDATA[Pep Guardiola responds to his team's second defeat in four days as Manchester City lose at Bodo/Glimt in the Champions League.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cz6y80exn3zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -128,6 +120,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ac/live/be1d8240-f6af-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why do Chelsea want another centre-back?]]></title>
+      <description><![CDATA[The Blues already have eight central defenders on their books, so why are they still looking to bring another centre-back to the club?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgnk4n99xwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgnk4n99xwo</guid>
+      <pubDate>Wed, 21 Jan 2026 13:22:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1bf/live/8947fa60-f6b3-11f0-8b01-ab4a8c4f3f91.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Marseille agree loan deal for Arsenal's Nwaneri]]></title>
       <description><![CDATA[French club Marseille agree to sign Arsenal midfielder Ethan Nwaneri on loan for the rest of the season.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2kd5j5xm7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -158,14 +158,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj4lqy2np2zo</guid>
       <pubDate>Wed, 21 Jan 2026 00:24:25 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f200/live/22104780-f6ae-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[US opens priority visa appointment system for World Cup]]></title>
-      <description><![CDATA[World Cup 2026 ticket holders can now access priority visa appointments for travel to the United States - but doubt remains whether fans from every country to have qualified will be able to enter.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cr4kwv1qyx5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr4kwv1qyx5o</guid>
-      <pubDate>Wed, 21 Jan 2026 00:05:49 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be67/live/d935de30-f653-11f0-b2ec-69dc2fd6eb0e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Stunning late goal earns Brighton draw against Bournemouth]]></title>
@@ -214,6 +206,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/crkr76gkxr7o</guid>
       <pubDate>Tue, 20 Jan 2026 21:59:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e939/live/21584f50-f644-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[US opens priority visa appointment system for World Cup]]></title>
+      <description><![CDATA[World Cup 2026 ticket holders can now access priority visa appointments for travel to the United States - but doubt remains whether fans from every country to have qualified will be able to enter.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cr4kwv1qyx5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr4kwv1qyx5o</guid>
+      <pubDate>Wed, 21 Jan 2026 00:05:49 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be67/live/d935de30-f653-11f0-b2ec-69dc2fd6eb0e.jpg"/>
     </item>
     <item>
       <title><![CDATA['Tears in my eyes' - Jesus enjoys 'dream night' in San Siro]]></title>
@@ -315,14 +315,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78ef/live/953469a0-f5f8-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Aberdeen in latter stages of manager search]]></title>
-      <description><![CDATA[Aberdeen are in the latter stages of their search for a new manager, with candidates having been interviewed.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2lgvy14z81o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2lgvy14z81o</guid>
-      <pubDate>Wed, 21 Jan 2026 10:19:26 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c161/live/6b7bea60-f6b2-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why Iraola's Bournemouth future is uncertain]]></title>
       <description><![CDATA[With his contract expiring in the summer, Andoni Iraola's future at Bournemouth is unclear after two successful seasons in charge.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ckgklrne80vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -339,6 +331,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ebd/live/366537e0-f613-11f0-b990-27d7007e546f.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Aberdeen in latter stages of manager search]]></title>
+      <description><![CDATA[Aberdeen are in the latter stages of their search for a new manager, with candidates having been interviewed.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2lgvy14z81o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2lgvy14z81o</guid>
+      <pubDate>Wed, 21 Jan 2026 10:19:26 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c161/live/6b7bea60-f6b2-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Refs' boss Webb backs officials over Dalot incident]]></title>
       <description><![CDATA[Premier League referees' boss Howard Webb rejects claims that his officials made a mistake by not sending off Diogo Dalot in Saturday's Manchester derby.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cp3741nlep5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -353,14 +353,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgnklxp7j0o</guid>
       <pubDate>Tue, 20 Jan 2026 10:26:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfd9/live/4178cb80-f5d5-11f0-9163-bde404de4781.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Liverpool midfielder Hobinger was sent underwear pictures by stalker]]></title>
-      <description><![CDATA[Father-of-two Mangal Dalal, 42, is given a restraining order for stalking the Reds midfielder. ]]></description>
-      <link>https://www.bbc.com/news/articles/cjw1y2nx5w7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cjw1y2nx5w7o</guid>
-      <pubDate>Tue, 20 Jan 2026 14:32:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6939/live/e47d5840-f603-11f0-842b-5772902eef21.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is a Panenka ever the right choice for a penalty?]]></title>
@@ -401,14 +393,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crkrznz15lro</guid>
       <pubDate>Sat, 17 Jan 2026 06:39:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fbd/live/e0b435d0-f2e3-11f0-b8a1-43fe5a262db0.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Boots from Easter Bunny and teenage parties - Glasner tells his story]]></title>
-      <description><![CDATA[Crystal Palace boss Oliver Glasner sits down with Kelly Somers to talk about his background and career in football.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9vxdy2np80o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9vxdy2np80o</guid>
-      <pubDate>Fri, 16 Jan 2026 14:48:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/636c/live/5281e940-f2ea-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Transfers - January 2026]]></title>
@@ -499,6 +483,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb05/live/fff300d0-f6e3-11f0-a4dd-a5af35a571cb.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Watch live Bundesliga games on Friday nights on the BBC]]></title>
+      <description><![CDATA[BBC Sport announce broadcasting rights for Bundesliga matches for the 2025-26 and 2026-27 seasons. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g7nwk88dko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g7nwk88dko</guid>
+      <pubDate>Fri, 16 Jan 2026 13:23:21 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9cc/live/f79a7270-7da7-11f0-a34f-318be3fb0481.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Roma sign forward Malen from Aston Villa]]></title>
       <description><![CDATA[Netherlands forward Donyell Malen joins Roma from Aston Villa after just one year with the Premier League side.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g0ey1m8v9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -537,6 +529,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cddgzj33r2lo</guid>
       <pubDate>Wed, 14 Jan 2026 16:14:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e74d/live/16eca0d0-f166-11f0-bfbc-db36ba7a9ce1.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Liverpool midfielder Hobinger was sent underwear pictures by stalker]]></title>
+      <description><![CDATA[Father-of-two Mangal Dalal, 42, is given a restraining order for stalking the Reds midfielder. ]]></description>
+      <link>https://www.bbc.com/news/articles/cjw1y2nx5w7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cjw1y2nx5w7o</guid>
+      <pubDate>Tue, 20 Jan 2026 14:32:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6939/live/e47d5840-f603-11f0-842b-5772902eef21.jpg"/>
     </item>
     <item>
       <title><![CDATA[City Ground to host England-Iceland qualifier]]></title>
