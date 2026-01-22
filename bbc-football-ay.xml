@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 13:45:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 14:29:46 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -32,6 +32,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eab/live/29459310-f6be-11f0-8b01-ab4a8c4f3f91.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Spurs' Bergvall 'facing up to three months out']]></title>
+      <description><![CDATA[Tottenham Hotspur are awaiting on a final diagnosis on Lucas Bergvall's ankle injury amid early concerns he faces up to three months on the sidelines.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgxx482kz2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgxx482kz2o</guid>
+      <pubDate>Thu, 22 Jan 2026 13:55:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/642d/live/e6fd4b40-f796-11f0-a485-a772fcde70e9.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Would Man Utd 2008 really 'batter' Arsenal 2026?]]></title>
       <description><![CDATA[After being challenged by Theo Walcott, Wayne Rooney said the Manchester United side of 2008 would "batter" the current Arsenal team.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cz7ynd8w742o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -40,12 +48,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2596/live/dc123a00-f6de-11f0-a4dd-a5af35a571cb.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Slot praises Salah return on important night for both]]></title>
-      <description><![CDATA[Arne Slot praises the return of Mohamed Salah, with Liverpool's Champions League win in Marseille proving important for both.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn0yyexlvrgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0yyexlvrgo</guid>
-      <pubDate>Thu, 22 Jan 2026 00:03:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d3a/live/4d158f60-f723-11f0-8122-b3b439b7bd3a.jpg"/>
+      <title><![CDATA[Question to Slot about Alonso disrespectful - Van Dijk]]></title>
+      <description><![CDATA[Liverpool captain Virgil van Dijk speaks out in defence of Arne Slot after the Reds manager is questioned about rumours linking Xabi Alonso to his role.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cm2jj3xe5x5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2jj3xe5x5o</guid>
+      <pubDate>Thu, 22 Jan 2026 14:04:12 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e103/live/7c872650-f77d-11f0-b7ec-55c1cb544783.jpg"/>
     </item>
     <item>
       <title><![CDATA['He came here for these nights' - Wissa inspires Newcastle]]></title>
@@ -104,14 +112,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a11/live/81dc0600-f775-11f0-b7ec-55c1cb544783.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Alex Scott meets Olivia Smith to Eat & Yap about Canada, Jamaica and more]]></title>
-      <description><![CDATA[In BBC Sport's new Eat & Yap series, Alex Scott meets some of the best WSL  players to share the food they love and grew up eating, and talk about life on and off the pitch.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce3kw0pl3e4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3kw0pl3e4o</guid>
-      <pubDate>Thu, 22 Jan 2026 06:57:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6d0/live/ada55150-f712-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why do Tottenham tick in Europe but tumble elsewhere?]]></title>
       <description><![CDATA[Champions League Match of the Day pundits Stephen Warnock and Rory Smith analyse how Tottenham Hotspur beat Borussia Dortmund, despite their recent form in the Premier League.]]></description>
       <link>https://www.bbc.com/sport/football/videos/clyww5zvd9eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -152,12 +152,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f35/live/be6e8a00-f713-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Rangers told to pay Dundee around £400,000 for Cameron]]></title>
-      <description><![CDATA[Rangers have been told by an SPFL tribunal to pay Dundee a fee of around £400,000 for midfielder Lyall Cameron.]]></description>
-      <link>https://www.bbc.com/sport/articles/c62rr9y7ev6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c62rr9y7ev6o</guid>
-      <pubDate>Thu, 22 Jan 2026 11:10:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e927/live/8bd6ba80-f782-11f0-a454-dd9f56c864fe.jpg"/>
+      <title><![CDATA[Alex Scott meets Olivia Smith to Eat & Yap about Canada, Jamaica and more]]></title>
+      <description><![CDATA[In BBC Sport's new Eat & Yap series, Alex Scott meets some of the best WSL  players to share the food they love and grew up eating, and talk about life on and off the pitch.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce3kw0pl3e4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3kw0pl3e4o</guid>
+      <pubDate>Thu, 22 Jan 2026 06:57:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6d0/live/ada55150-f712-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Slot praises Salah return on important night for both]]></title>
+      <description><![CDATA[Arne Slot praises the return of Mohamed Salah, with Liverpool's Champions League win in Marseille proving important for both.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn0yyexlvrgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0yyexlvrgo</guid>
+      <pubDate>Thu, 22 Jan 2026 00:03:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d3a/live/4d158f60-f723-11f0-8122-b3b439b7bd3a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Aston Villa target Loftus-Cheek - Thursday's gossip]]></title>
@@ -294,7 +302,15 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13e5/live/25de5630-f650-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Spurs, Arsenal or Newcastle - which teams have had most injuries?]]></title>
+      <title><![CDATA[Rangers told to pay Dundee around £400,000 for Cameron]]></title>
+      <description><![CDATA[Rangers have been told by an SPFL tribunal to pay Dundee a fee of around £400,000 for midfielder Lyall Cameron.]]></description>
+      <link>https://www.bbc.com/sport/articles/c62rr9y7ev6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c62rr9y7ev6o</guid>
+      <pubDate>Thu, 22 Jan 2026 11:10:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e927/live/8bd6ba80-f782-11f0-a454-dd9f56c864fe.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Which Premier League teams have had most injuries?]]></title>
       <description><![CDATA[BBC Sport crunches the numbers to assess which Premier League teams have been hit hardest by injuries this season.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c70l9y3p893o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70l9y3p893o</guid>
@@ -348,14 +364,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9vxjw902dno</guid>
       <pubDate>Wed, 21 Jan 2026 20:05:15 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62e9/live/27ecd480-f6f8-11f0-bb31-83eb955a217a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man City squad to refund ticket costs for fans]]></title>
-      <description><![CDATA[Manchester City's squad will refund the ticket costs for 374 supporters who travelled to Norway to witness their side's shock 3-1 Champions League defeat at Bodo/Glimt on Tuesday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gwp79rdz7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gwp79rdz7o</guid>
-      <pubDate>Wed, 21 Jan 2026 14:45:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dada/live/ff514af0-f6d5-11f0-a4dd-a5af35a571cb.jpg"/>
     </item>
     <item>
       <title><![CDATA[The day I discovered the Everton contract Revie never signed]]></title>
