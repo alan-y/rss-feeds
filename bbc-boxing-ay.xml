@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/boxing</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 24 Jan 2026 06:57:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 07:23:43 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/boxing/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Walsh wins on Zuffa Boxing opening night]]></title>
+      <description><![CDATA[Zuffa Boxing held its inaugural event at the home of the UFC on Friday in Las Vegas, with Ireland's Callum Walsh winning the headline fight.]]></description>
+      <link>https://www.bbc.com/sport/boxing/articles/cvgnjp5ppgqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/cvgnjp5ppgqo</guid>
+      <pubDate>Sat, 24 Jan 2026 07:15:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed71/live/84969a60-f8ef-11f0-9e7d-c9e2031ee940.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Chisora to fight Wilder in London in April]]></title>
       <description><![CDATA[Derek Chisora will face former heavyweight champion Deontay Wilder in London in April in the Briton's 50th career fight.]]></description>
@@ -88,14 +96,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41db/live/2464f1c0-f2d0-11f0-b2eb-0ff8ae417a07.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Pouring pints and 'unfinished business' - meet Britain's newest world champion ]]></title>
-      <description><![CDATA[Delayed flights, opponent's failed drug tests and broadcaster issues - how Dalton Smith overcame the odds to become world champion. ]]></description>
-      <link>https://www.bbc.com/sport/boxing/articles/ckgvjx71m7zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/ckgvjx71m7zo</guid>
-      <pubDate>Thu, 15 Jan 2026 18:52:08 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fb/live/36259280-f2c0-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Police issue arrest warrant for WBA champion Davis]]></title>
       <description><![CDATA[Police in Miami issue an arrest warrant for WBA lightweight champion Gervonta Davis in connection with an alleged domestic violence incident.]]></description>
       <link>https://www.bbc.com/sport/boxing/articles/cvgr0p3z9dmo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -165,6 +165,14 @@ Sina Ghami and Latif Ayodele died when the vehicle they were in collided with a 
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67aa/live/4344d9e0-dbb3-11f0-a8dc-93c15fe68710.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Pouring pints and 'unfinished business' - meet Britain's newest world champion ]]></title>
+      <description><![CDATA[Delayed flights, opponent's failed drug tests and broadcaster issues - how Dalton Smith overcame the odds to become world champion. ]]></description>
+      <link>https://www.bbc.com/sport/boxing/articles/ckgvjx71m7zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/ckgvjx71m7zo</guid>
+      <pubDate>Thu, 15 Jan 2026 18:52:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fb/live/36259280-f2c0-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Pierce Brosnan, Prince Naz and the embrace that never happened]]></title>
       <description><![CDATA[When Prince Naseem Hamed met actor Pierce Brosnan in the lead-up to a new film, it brought back thoughts of a reconciliation with trainer Brendan Ingle that never happened.]]></description>
       <link>https://www.bbc.com/sport/boxing/articles/cly1rgl29y5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -211,14 +219,6 @@ Sina Ghami and Latif Ayodele died when the vehicle they were in collided with a 
       <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/ce3kdxx0gq0o</guid>
       <pubDate>Wed, 26 Nov 2025 08:11:53 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4583/live/d4b0ff80-c9f7-11f0-a892-01d657345866.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Church told me I was possessed by demons aged 12 - Benn]]></title>
-      <description><![CDATA[Conor Benn tells BBC Sport about growing up in an "extreme" Christian school, being told he was "demon-possessed" and how he had to rebuild a relationship with his father Nigel.]]></description>
-      <link>https://www.bbc.com/sport/boxing/articles/cm27715j5z7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/cm27715j5z7o</guid>
-      <pubDate>Fri, 14 Nov 2025 07:42:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa19/live/5148da20-bb1d-11f0-bd8f-95105d31e9c2.jpg"/>
     </item>
     <item>
       <title><![CDATA['You're under arrest' - how Ngamba made history against all odds]]></title>
