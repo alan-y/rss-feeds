@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 24 Jan 2026 22:40:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 22:52:49 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -59,28 +59,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/755b/live/450253a0-f947-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Liverpool's struggles can no longer be hidden by long unbeaten run']]></title>
+      <description><![CDATA[Liverpool's struggles can no longer be hidden by their long unbeaten run after their last-gasp defeat at Bournemouth, writes Aadam Patel.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c338j0dzgx1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c338j0dzgx1o</guid>
+      <pubDate>Sat, 24 Jan 2026 22:48:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d4/live/ecfb68e0-f973-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Joyless and toxic' - will Spurs put Frank out of his misery?]]></title>
       <description><![CDATA[Tottenham manager Thomas Frank remains in deep trouble despite his side rescuing a late draw at Burnley, writes Phil McNulty.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cd7z0jplzd9o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd7z0jplzd9o</guid>
       <pubDate>Sat, 24 Jan 2026 19:58:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f65/live/c967eed0-f95a-11f0-b5f7-49f0357294ff.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Newcastle out to 'upset league's status quo' - Howe]]></title>
-      <description><![CDATA[Head coach Eddie Howe believes Newcastle United can still achieve "great things" despite financial restrictions as his side look to upset the league's status quo.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8rmm7k8y57o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8rmm7k8y57o</guid>
-      <pubDate>Sat, 24 Jan 2026 22:33:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c36e/live/3e1c51b0-f854-11f0-8ab6-81a112385ec5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Livingston to report Aberdeen over alleged racial abuse of Bokila]]></title>
-      <description><![CDATA[Livingston will contact the Scottish FA to report Aberdeen over an alleged racial comment made to striker Jeremy Bokila.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3wzl2lvzq5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3wzl2lvzq5o</guid>
-      <pubDate>Sat, 24 Jan 2026 20:22:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44d3/live/913eeed0-f961-11f0-9e5d-29b59023b60c.jpg"/>
     </item>
     <item>
       <title><![CDATA[WSL title probably gone for Chelsea, says Bompastor]]></title>
@@ -99,6 +91,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aac/live/f10a7460-f966-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Newcastle out to 'upset league's status quo' - Howe]]></title>
+      <description><![CDATA[Head coach Eddie Howe believes Newcastle United can still achieve "great things" despite financial restrictions as his side look to upset the league's status quo.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8rmm7k8y57o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8rmm7k8y57o</guid>
+      <pubDate>Sat, 24 Jan 2026 22:33:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c36e/live/3e1c51b0-f854-11f0-8ab6-81a112385ec5.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Ref's 'courageous' call denies Man City penalty on Premier League debut]]></title>
       <description><![CDATA[Referee Farai Hallam was praised for choosing not to award Manchester City a penalty against Wolves on his Premier League debut.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g477krp2go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -107,12 +107,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b994/live/27767dc0-f942-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Solskjaer 'happy' for Carrick after derby win]]></title>
+      <description><![CDATA[Manchester United interim manager Michael Carrick says Ole Gunnar Solskjaer was 'happy' for him after the win against Manchester City. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgk2zdmv3no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgk2zdmv3no</guid>
+      <pubDate>Sat, 24 Jan 2026 22:37:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d2a/live/1597a210-f90f-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[From 'impossible task' to 'hope' - will West Ham stay up?]]></title>
       <description><![CDATA[Back-to-back Premier League wins have taken West Ham United to within two points of 17th.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cpdy88wlwpjo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpdy88wlwpjo</guid>
       <pubDate>Sat, 24 Jan 2026 18:10:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5989/live/30cc8ba0-f940-11f0-814e-71ff186d4f46.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Livingston to report Aberdeen over alleged racial abuse of Bokila]]></title>
+      <description><![CDATA[Livingston will contact the Scottish FA to report Aberdeen over an alleged racial comment made to striker Jeremy Bokila.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3wzl2lvzq5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3wzl2lvzq5o</guid>
+      <pubDate>Sat, 24 Jan 2026 20:22:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44d3/live/913eeed0-f961-11f0-9e5d-29b59023b60c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Mead and Caldentey star as Arsenal triumph over Chelsea]]></title>
@@ -225,14 +241,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c87r5y70r82o</guid>
       <pubDate>Sat, 24 Jan 2026 11:26:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da19/live/68970d30-f913-11f0-b5f7-49f0357294ff.png"/>
-    </item>
-    <item>
-      <title><![CDATA[England request Kansas City base for World Cup]]></title>
-      <description><![CDATA[England are set to be based at the Swope Soccer Village in Kansas City for this year's World Cup campaign, if Fifa approves their request.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clynz4nyyx0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clynz4nyyx0o</guid>
-      <pubDate>Sat, 24 Jan 2026 13:59:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4544/live/db32b8a0-f911-11f0-ad5c-49a88f3159da.jpg"/>
     </item>
     <item>
       <title><![CDATA[Parkinson confident, but cautious as Wrexham rise]]></title>
