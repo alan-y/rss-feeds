@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 25 Jan 2026 17:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 17:37:50 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -99,14 +99,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8730/live/59d8d820-fa01-11f0-a24b-df29ade509fc.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How many points will it take to win Scottish Premiership?]]></title>
-      <description><![CDATA[BBC Scotland crunches the numbers behind a gripping three-way fight for the Scottish top-flight title as a pivotal weekend looms.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0erdjp0plpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0erdjp0plpo</guid>
-      <pubDate>Sun, 25 Jan 2026 08:26:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/543c/live/03429f90-f9da-11f0-bf35-b100a5f29676.png"/>
-    </item>
-    <item>
       <title><![CDATA[Mead and Caldentey star as Arsenal triumph over Chelsea]]></title>
       <description><![CDATA[Beth Mead puts Arsenal in front in the 55th minute before Mariona Caldentey completes a 2-0 victory for the Gunners at Stamford Bridge. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/cp8252gqp5po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -140,12 +132,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/542d/live/9e48c260-fa0e-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
-      <title><![CDATA['It's incredible' - Shearer analyses 'soft' Liverpool defending]]></title>
-      <description><![CDATA[Match of the Day pundits Alan Shearer and Ashley Williams analyse Liverpool's poor defending in their 3-2 loss to Bournemouth.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c9wxn0lgpjzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c9wxn0lgpjzo</guid>
-      <pubDate>Sat, 24 Jan 2026 23:44:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a94/live/36962020-f97a-11f0-b385-5f48925de19a.jpg"/>
+      <title><![CDATA[These are 'tough moments & tough weeks' for Palace - Glasner]]></title>
+      <description><![CDATA[Crystal Palace manager Oliver Glasner says his side showed great "character" and believes they are a group that "never gives up" despite falling to a 3-1 loss against Chelsea at Selhurst Park.  ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c62053n9z8go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c62053n9z8go</guid>
+      <pubDate>Sun, 25 Jan 2026 17:17:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e39/live/f2d39a60-fa10-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fulham make £28m bid to sign PSV forward Pepi]]></title>
@@ -154,6 +146,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdx4kyr41k3o</guid>
       <pubDate>Sun, 25 Jan 2026 12:17:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0edc/live/da2aab80-f9e2-11f0-8b84-973b02fa8090.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How many points will it take to win Scottish Premiership?]]></title>
+      <description><![CDATA[BBC Scotland crunches the numbers behind a gripping three-way fight for the Scottish top-flight title as a pivotal weekend looms.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0erdjp0plpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0erdjp0plpo</guid>
+      <pubDate>Sun, 25 Jan 2026 08:26:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/543c/live/03429f90-f9da-11f0-bf35-b100a5f29676.png"/>
     </item>
     <item>
       <title><![CDATA['Liverpool's struggles can no longer be hidden by long unbeaten run']]></title>
@@ -442,14 +442,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9e7x5dndgo</guid>
       <pubDate>Wed, 14 Jan 2026 22:29:26 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e03/live/9466ffb0-f193-11f0-9e6d-c7d57b22a9b5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Roma sign forward Malen from Aston Villa]]></title>
-      <description><![CDATA[Netherlands forward Donyell Malen joins Roma from Aston Villa after just one year with the Premier League side.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g0ey1m8v9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g0ey1m8v9o</guid>
-      <pubDate>Fri, 16 Jan 2026 08:35:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c1/live/e3ad20c0-f2b2-11f0-885c-ef5f6008fb41.jpg"/>
     </item>
     <item>
       <title><![CDATA[The great number nine decline - where have England's strikers gone?]]></title>
