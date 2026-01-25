@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 25 Jan 2026 11:17:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 11:33:13 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -80,14 +80,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c41/live/f9d38c80-f90c-11f0-a2cb-474da15d329d.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Special player' Marmoush shows Man City options without Haaland]]></title>
-      <description><![CDATA[Pep Guardiola needed to shake things up after his weary Manchester City side began to flag this season and Omar Marmoush served a reminder of his talent.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czej0x395rro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czej0x395rro</guid>
-      <pubDate>Sat, 24 Jan 2026 19:15:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aac/live/f10a7460-f966-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[WSL title probably gone for Chelsea, says Bompastor]]></title>
       <description><![CDATA[Sonia Bompastor claims the Women's Super League title is "probably gone" for Chelsea - BBC Sport examines whether that means they will shift their focus.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy8pggxv2xlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -96,12 +88,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f88a/live/3085eb10-f953-11f0-871d-ed45692ef541.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ref's 'courageous' call denies Man City penalty on Premier League debut]]></title>
-      <description><![CDATA[Referee Farai Hallam was praised for choosing not to award Manchester City a penalty against Wolves on his Premier League debut.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g477krp2go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g477krp2go</guid>
-      <pubDate>Sun, 25 Jan 2026 00:00:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b994/live/27767dc0-f942-11f0-b5f7-49f0357294ff.jpg"/>
+      <title><![CDATA['Special player' Marmoush shows Man City options without Haaland]]></title>
+      <description><![CDATA[Pep Guardiola needed to shake things up after his weary Manchester City side began to flag this season and Omar Marmoush served a reminder of his talent.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/czej0x395rro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czej0x395rro</guid>
+      <pubDate>Sat, 24 Jan 2026 19:15:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aac/live/f10a7460-f966-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Adli's stoppage-time winner ends Liverpool unbeaten run in thriller]]></title>
@@ -145,6 +137,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c7v0rv9rlepo</guid>
       <pubDate>Sat, 24 Jan 2026 19:59:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/755b/live/450253a0-f947-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ref's 'courageous' call denies Man City penalty on Premier League debut]]></title>
+      <description><![CDATA[Referee Farai Hallam was praised for choosing not to award Manchester City a penalty against Wolves on his Premier League debut.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g477krp2go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g477krp2go</guid>
+      <pubDate>Sun, 25 Jan 2026 00:00:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b994/live/27767dc0-f942-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[From 'impossible task' to 'hope' - will West Ham stay up?]]></title>
