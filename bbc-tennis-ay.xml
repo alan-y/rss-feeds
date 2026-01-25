@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 25 Jan 2026 06:58:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 07:28:20 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[Jovic, 18, sets up Sabalenka quarter-final in Melbourne]]></title>
-      <description><![CDATA[Teenager Iva Jovic is "excited" to test herself against "the best" after booking an Australian Open quarter-final against Aryna Sabalenka.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/ce8gn94jq3jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/ce8gn94jq3jo</guid>
-      <pubDate>Sun, 25 Jan 2026 05:21:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb0/live/0287f530-f9a5-11f0-91f5-71f2ea1fae3d.jpg"/>
-    </item>
     <item>
       <title><![CDATA['I'm surprising myself' - altered serve 'important weapon' for Alcaraz]]></title>
       <description><![CDATA[World number one Carlos Alcaraz describes his serve as an "important weapon" as he continues his serene run to the Australian Open quarter-finals.]]></description>
@@ -30,6 +22,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cj9r8mxry4wo</guid>
       <pubDate>Sun, 25 Jan 2026 06:24:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04bd/live/9d67e140-f9ab-11f0-bb94-0ff7d3c4deaf.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['You want to play the best' - Jovic, 18, sets up Sabalenka quarter-final]]></title>
+      <description><![CDATA[Teenager Iva Jovic is "excited" to test herself against "the best" after booking an Australian Open quarter-final against Aryna Sabalenka.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/ce8gn94jq3jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/ce8gn94jq3jo</guid>
+      <pubDate>Sun, 25 Jan 2026 05:21:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb0/live/0287f530-f9a5-11f0-91f5-71f2ea1fae3d.jpg"/>
     </item>
     <item>
       <title><![CDATA['In heat of moment' - Djokovic avoids another Slam default]]></title>
@@ -48,20 +48,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28d1/live/ea342fa0-f8d0-11f0-bc82-571acb0eb43a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Surviving bombs and hunger to become a professional tennis player]]></title>
-      <description><![CDATA[Tennis is seen as a rich sport. But many stars, including Novak Djokovic and Elina Svitolina, have forged successful careers from humble beginnings.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cvgrrpp93y3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cvgrrpp93y3o</guid>
-      <pubDate>Sat, 24 Jan 2026 07:37:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a4b/live/47735020-f835-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Putintseva responds to boos with dancing and kisses at Australian Open]]></title>
       <description><![CDATA[Yulia Putintseva dances and blows kisses in response to boos from the crowd after she beats Turkish qualifier Zeynep Sonmez at the Australian Open.]]></description>
       <link>https://www.bbc.com/sport/tennis/videos/cly11mgel5mo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/cly11mgel5mo</guid>
       <pubDate>Fri, 23 Jan 2026 11:16:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff15/live/8fe2be10-f84c-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Surviving bombs and hunger to become a professional tennis player]]></title>
+      <description><![CDATA[Tennis is seen as a rich sport. But many stars, including Novak Djokovic and Elina Svitolina, have forged successful careers from humble beginnings.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cvgrrpp93y3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cvgrrpp93y3o</guid>
+      <pubDate>Sat, 24 Jan 2026 07:37:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a4b/live/47735020-f835-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA[The podcast co-hosts who will be opponents in Melbourne]]></title>
@@ -80,14 +80,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a90/live/4ce3c180-f906-11f0-9a4c-df97e82f416e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Is Sinner-Alcaraz in danger of making majors boring?]]></title>
-      <description><![CDATA[Though the Carlos Alcaraz and Jannik Sinner rivalry is thrilling, tennis correspondent Russell Fuller ponders whether it could make Grand Slams boring.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c17x0zw2x1go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c17x0zw2x1go</guid>
-      <pubDate>Sat, 24 Jan 2026 06:33:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8504/live/48f38880-f82a-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['I don't want to give myself too much of a hard time']]></title>
       <description><![CDATA[British number one Emma Raducanu says she is leaving the Australian Open with her "head held high" after losing 7-6 (7-3) 6-2 to Austria's Anastasia Potapova in the second round.]]></description>
       <link>https://www.bbc.com/sport/tennis/videos/c3dm0yyjvv9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -102,6 +94,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cn42q0yjylno</guid>
       <pubDate>Sat, 24 Jan 2026 13:35:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc89/live/9730a560-f1f3-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Is Sinner-Alcaraz in danger of making majors boring?]]></title>
+      <description><![CDATA[Though the Carlos Alcaraz and Jannik Sinner rivalry is thrilling, tennis correspondent Russell Fuller ponders whether it could make Grand Slams boring.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c17x0zw2x1go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c17x0zw2x1go</guid>
+      <pubDate>Sat, 24 Jan 2026 06:33:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8504/live/48f38880-f82a-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Doubles partners Jovic and Mboko leading teen disruptors]]></title>
@@ -136,14 +136,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bf/live/77d58ea0-f84d-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Not again' - Medvedev battles back from brink]]></title>
-      <description><![CDATA[Daniil Medvedev lives up to his billing as a five-set expert with a comeback victory over Fabian Marozsan to reach the Australian Open fourth round.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cwy88kj95xpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cwy88kj95xpo</guid>
-      <pubDate>Fri, 23 Jan 2026 09:12:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f126/live/4b0ca250-f81b-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Players at 'high risk' as tennis chases sun]]></title>
       <description><![CDATA[With high temperatures and very high UV levels at the Australian Open, BBC Sport looks at the effects of playing for hours outdoors.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c14rvyj80g7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -152,12 +144,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/823a/live/4e02b680-f6cb-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Emotionally all over the place' - gritty Sabalenka wins]]></title>
-      <description><![CDATA[World number one Aryna Sabalenka says she was "emotionally all over the place" as she squeezes into the Australian Open fourth round.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c8j332v7e9xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c8j332v7e9xo</guid>
-      <pubDate>Fri, 23 Jan 2026 13:45:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c45a/live/1e6076e0-f817-11f0-a71b-e3a65c53ce30.jpg"/>
+      <title><![CDATA['Not again' - Medvedev battles back from brink]]></title>
+      <description><![CDATA[Daniil Medvedev lives up to his billing as a five-set expert with a comeback victory over Fabian Marozsan to reach the Australian Open fourth round.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cwy88kj95xpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cwy88kj95xpo</guid>
+      <pubDate>Fri, 23 Jan 2026 09:12:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f126/live/4b0ca250-f81b-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Australian Open moves play with 40C heat expected]]></title>
