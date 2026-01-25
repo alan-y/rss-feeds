@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 25 Jan 2026 09:21:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 09:49:47 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -83,6 +83,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why £67m Eze has been battling for Arsenal minutes ]]></title>
+      <description><![CDATA[Arsenal spent a lot of money to sign Eberechi Eze in August - but his Premier League game time has dropped off of late. BBC Sport examines why.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3eddezjq71o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3eddezjq71o</guid>
+      <pubDate>Sun, 25 Jan 2026 09:35:59 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc40/live/cf6a8dd0-f859-11f0-933b-47b4ddaac6f0.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Thirteen signings & £180m spent - have Forest got value for money?]]></title>
       <description><![CDATA[Despite spending about £180m on summer signings Nottingham Forest are 17th in the Premier League - did they get value for money?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy055rxz5dro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -139,14 +147,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b994/live/27767dc0-f942-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
-      <title><![CDATA[From 'impossible task' to 'hope' - will West Ham stay up?]]></title>
-      <description><![CDATA[Back-to-back Premier League wins have taken West Ham United to within two points of 17th.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpdy88wlwpjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpdy88wlwpjo</guid>
-      <pubDate>Sat, 24 Jan 2026 18:10:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5989/live/30cc8ba0-f940-11f0-814e-71ff186d4f46.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Mead and Caldentey star as Arsenal triumph over Chelsea]]></title>
       <description><![CDATA[Beth Mead puts Arsenal in front in the 55th minute before Mariona Caldentey completes a 2-0 victory for the Gunners at Stamford Bridge. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/cp8252gqp5po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -185,6 +185,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cqxyd78v7e9o</guid>
       <pubDate>Sat, 24 Jan 2026 23:54:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3908/live/2c8c2b90-f97c-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[From 'impossible task' to 'hope' - will West Ham stay up?]]></title>
+      <description><![CDATA[Back-to-back Premier League wins have taken West Ham United to within two points of 17th.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpdy88wlwpjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpdy88wlwpjo</guid>
+      <pubDate>Sat, 24 Jan 2026 18:10:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5989/live/30cc8ba0-f940-11f0-814e-71ff186d4f46.jpg"/>
     </item>
     <item>
       <title><![CDATA[Livingston to report Aberdeen over alleged racial abuse of Bokila]]></title>
@@ -273,14 +281,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy1gvg39q1o</guid>
       <pubDate>Sat, 24 Jan 2026 19:41:54 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/675e/live/9ede71c0-f955-11f0-871d-ed45692ef541.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[German FA official wants World Cup boycott talks]]></title>
-      <description><![CDATA[A German football association official believes it is time to consider a boycott of the 2026 World Cup in the wake of United States President Donald Trump's actions.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c87r5y70r82o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c87r5y70r82o</guid>
-      <pubDate>Sat, 24 Jan 2026 11:26:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da19/live/68970d30-f913-11f0-b5f7-49f0357294ff.png"/>
     </item>
     <item>
       <title><![CDATA['Saipan was not a jolly' - the infamous Keane v McCarthy row]]></title>
@@ -393,6 +393,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/cvgr1xvde48o</guid>
       <pubDate>Mon, 05 Jan 2026 10:25:22 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3712/live/cd0a13b0-ea23-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Aberdeen's Polvara poised for St Louis transfer' - gossip]]></title>
+      <description><![CDATA[Aberdeen's Dante Polvara is reportedly close to joining St Louis City, while Ipswich Town are said to have jumped ahead of Rangers in the chase for Sunderland's Dan Neil.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gv5dy8j4wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gv5dy8j4wo</guid>
+      <pubDate>Sun, 25 Jan 2026 09:19:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2957/live/d62327a0-f9cf-11f0-b5f7-49f0357294ff.png"/>
     </item>
     <item>
       <title><![CDATA[Hearts & Celtic in seismic showdown, Olsen primed for Rangers debut]]></title>
