@@ -10,13 +10,13 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 26 Jan 2026 13:43:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 14:28:20 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
-      <title><![CDATA['Heading ball likely contributed to McQueen's brain disease']]></title>
+      <title><![CDATA['Heading football likely contributed to McQueen's brain disease']]></title>
       <description><![CDATA[An inquest concludes that "it is likely that repetitive head impacts, sustained by heading the ball while playing football, contributed to the CTE" which was a factor in the former footballer's death.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0er74njxgro?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0er74njxgro</guid>
@@ -40,6 +40,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca12/live/b66e4a10-fa34-11f0-8c06-213ffaa49682.png"/>
     </item>
     <item>
+      <title><![CDATA[What history tells us about Arsenal's title chances]]></title>
+      <description><![CDATA[With Arsenal still four points clear despite a wobble, how confident can they be of winning the title based on Premier League precedent?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9wxqeez8pjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9wxqeez8pjo</guid>
+      <pubDate>Mon, 26 Jan 2026 14:24:46 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53b8/live/bbc6bee0-fabe-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['He needs time' - he got four hours. What went wrong for Foxes' Cifuentes?]]></title>
       <description><![CDATA[BBC Sport looks at how Marti Cifuentes' time in charge of Leicester unravelled within hours of owner Khun Aiyawatt 'Top' Srivaddhanaprabha appearing to back the manager.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cq6vjjjlr2do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj3v77nmz8eo</guid>
       <pubDate>Mon, 26 Jan 2026 12:30:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3445/live/5022dd70-faa7-11f0-a9b2-e154b2ff290d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why Arsenal's wobble may not even matter - despite 'feeling pressure']]></title>
-      <description><![CDATA[Arsenal's winless run may normally be cause for concern - but the stats suggest they are still in control of the Premier League title race.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2xvq5ng0xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2xvq5ng0xo</guid>
-      <pubDate>Sun, 25 Jan 2026 21:40:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfef/live/1bdbc110-fa36-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Football club DNA quiz: Which team is being described?]]></title>
@@ -147,6 +147,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ced2/live/74f02030-fa35-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why Arsenal's wobble may not even matter - despite 'feeling pressure']]></title>
+      <description><![CDATA[Arsenal's winless run may normally be cause for concern - but the stats suggest they are still in control of the Premier League title race.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2xvq5ng0xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2xvq5ng0xo</guid>
+      <pubDate>Sun, 25 Jan 2026 21:40:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfef/live/1bdbc110-fa36-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Scotland to face Ivory Coast at Everton's stadium]]></title>
       <description><![CDATA[Steve Clarke's Scotland will face Ivory Coast for the first time at Everton's Hill Dickinson Stadium on 31 March as part of their World Cup preparations.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0lxe2wjk48o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -161,14 +169,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgp08we081o</guid>
       <pubDate>Sun, 25 Jan 2026 20:00:57 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f55a/live/331cdad0-fa1d-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[A 30-0 win & nearly 100 goals in 11 games - meet the bulldozing Bulls]]></title>
-      <description><![CDATA[Jersey Bulls Women set an incredible club-record win as they beat Guildford Saints 30-0.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c14r5xmz7mdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c14r5xmz7mdo</guid>
-      <pubDate>Mon, 26 Jan 2026 12:11:08 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35c3/live/9f0b3ea0-d90a-11f0-a913-a51839a280a3.jpg"/>
     </item>
     <item>
       <title><![CDATA['Intoxicating title fight impossible to call as Hearts refuse to buckle']]></title>
@@ -222,6 +222,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d5c/live/7237f0c0-fa03-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
+      <title><![CDATA[A 30-0 win & nearly 100 goals in 11 games - meet the bulldozing Bulls]]></title>
+      <description><![CDATA[Jersey Bulls Women set an incredible club-record win as they beat Guildford Saints 30-0.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c14r5xmz7mdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c14r5xmz7mdo</guid>
+      <pubDate>Mon, 26 Jan 2026 12:11:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35c3/live/9f0b3ea0-d90a-11f0-a913-a51839a280a3.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['They're engaged' - Rosenior continues positive start at Chelsea]]></title>
       <description><![CDATA[Liam Rosenior has started well at Chelsea and it bodes well for the future amid ambitions to qualify for the Champions League.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2yw86ep6eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -270,20 +278,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57bd/live/9ac038a0-faa2-11f0-a9b2-e154b2ff290d.jpg"/>
     </item>
     <item>
-      <title><![CDATA['There's no magician' - can Palace stop the slide?]]></title>
-      <description><![CDATA[After a torrid few weeks with captain Marc Guehi sold, manager Oliver Glasner confirming he will leave and striker Jean-Philippe Mateta wanting a transfer, are Crystal Palace's struggles on the field inevitable?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3ve6w3yldno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3ve6w3yldno</guid>
-      <pubDate>Sun, 25 Jan 2026 19:54:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e227/live/02c48560-fa1b-11f0-ab09-652d18c20c36.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How many points will it take to win Scottish Premiership?]]></title>
       <description><![CDATA[BBC Scotland crunches the numbers behind a gripping three-way fight for the Scottish top-flight title.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0erdjp0plpo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0erdjp0plpo</guid>
       <pubDate>Sun, 25 Jan 2026 20:37:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7be1/live/dce88370-fa18-11f0-a422-4ba8a094a8fa.png"/>
+    </item>
+    <item>
+      <title><![CDATA['There's no magician' - can Palace stop the slide?]]></title>
+      <description><![CDATA[After a torrid few weeks with captain Marc Guehi sold, manager Oliver Glasner confirming he will leave and striker Jean-Philippe Mateta wanting a transfer, are Crystal Palace's struggles on the field inevitable?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3ve6w3yldno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3ve6w3yldno</guid>
+      <pubDate>Sun, 25 Jan 2026 19:54:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e227/live/02c48560-fa1b-11f0-ab09-652d18c20c36.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why can't Newcastle win without Guimaraes? ]]></title>
