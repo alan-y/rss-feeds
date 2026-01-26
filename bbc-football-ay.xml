@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 26 Jan 2026 15:59:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 16:43:02 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[One week until transfer deadline day - who could be on the move?]]></title>
+      <description><![CDATA[BBC Sport looks at some of the players that have been linked with moves before the Premier League transfer deadline on 2 February at 19:00 GMT.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c98pp7zd9d0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98pp7zd9d0o</guid>
+      <pubDate>Mon, 26 Jan 2026 10:57:55 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca12/live/b66e4a10-fa34-11f0-8c06-213ffaa49682.png"/>
+    </item>
     <item>
       <title><![CDATA[Besiktas pay £11m for Abraham - to sell him to Villa]]></title>
       <description><![CDATA[Besiktas pay £11.2m to Roma for Tammy Abraham - as the Turkish club prepare to sell him to Aston Villa.
@@ -56,14 +64,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c8x97w51r9ko</guid>
       <pubDate>Mon, 26 Jan 2026 14:57:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8458/live/9ffaf540-fac9-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[One week until transfer deadline day - who could be on the move?]]></title>
-      <description><![CDATA[BBC Sport looks at some of the players that have been linked with moves before the Premier League transfer deadline on 2 February at 19:00 GMT.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c98pp7zd9d0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98pp7zd9d0o</guid>
-      <pubDate>Mon, 26 Jan 2026 10:57:55 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca12/live/b66e4a10-fa34-11f0-8c06-213ffaa49682.png"/>
     </item>
     <item>
       <title><![CDATA['He needs time' - he got four hours. What went wrong for Foxes' Cifuentes?]]></title>
@@ -114,6 +114,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8730/live/59d8d820-fa01-11f0-a24b-df29ade509fc.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How 'superb' Fernandes led Man Utd to win at Arsenal]]></title>
+      <description><![CDATA[Match of the Day pundit Danny Murphy discusses the "brilliant" role of Bruno Fernandes in Manchester United's dramatic 3-2 win over Arsenal in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c2lgw7n2yewo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c2lgw7n2yewo</guid>
+      <pubDate>Mon, 26 Jan 2026 09:52:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20d1/live/36780200-fa44-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[After Arsenal took the lead, they played too safe - Rooney]]></title>
+      <description><![CDATA[Wayne Rooney breaks down the passage of play that led to Manchester United's first goal against Arsenal, allowing them back into the game.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c74v77e2198o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c74v77e2198o</guid>
+      <pubDate>Mon, 26 Jan 2026 11:38:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dae3/live/a90ef740-faaa-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Cunha scores stunning late winner as Man Utd beat Arsenal]]></title>
       <description><![CDATA[Two sensational second-half strikes give Manchester United a huge win that takes them above Chelsea and Liverpool into fourth.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c3wz3x78d29o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -122,39 +138,23 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e95c/live/905c0d00-fa1e-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Buendia scores screamer as Villa beat Newcastle]]></title>
-      <description><![CDATA[Emiliano Buendia and Ollie Watkins both score as high-flying Aston Villa end their long wait for a St James' Park victory against Newcastle United.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/ckgke865j00o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ckgke865j00o</guid>
-      <pubDate>Sun, 25 Jan 2026 20:00:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6472/live/f7739a40-fa0e-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Estevao-inspired Chelsea beat Crystal Palace]]></title>
-      <description><![CDATA[Estevao Willian replaces the injured Cole Palmer to inspire Chelsea to a comfortable win over Crystal Palace at Selhurst Park.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c78vl6zx3wpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c78vl6zx3wpo</guid>
-      <pubDate>Sun, 25 Jan 2026 19:59:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/561d/live/c73c9d90-fa0e-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Forest boost survival hopes after win at Brentford ]]></title>
-      <description><![CDATA[Nottingham Forest gave their hopes of Premier League survival a major boost with a hard-fought win against Brentford at Gtech Community Stadium.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cy4g177ew37o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy4g177ew37o</guid>
-      <pubDate>Sun, 25 Jan 2026 19:59:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1331/live/1b966ac0-fa22-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Totally unrealistic to win every game - Arteta ]]></title>
-      <description><![CDATA[Arsenal manager Mikel Arteta says his side were "not at their best today" but it is "totally unrealistic" to win every single game after his side lost 3-2 to Manchester United at the Emirates Stadium. 
+      <title><![CDATA[So many positives to take - Carrick]]></title>
+      <description><![CDATA[Manchester United manager Michael Carrick says he is "so proud" of his side and there are "many positives to take" after they beat Mikel Arteta's Arsenal 3-2 at the Emirates Stadium. 
 
 
 ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cdxjd9qjk2xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cdxjd9qjk2xo</guid>
-      <pubDate>Sun, 25 Jan 2026 20:36:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27a3/live/15a3e0f0-fa29-11f0-b5f7-49f0357294ff.jpg"/>
+      <link>https://www.bbc.com/sport/football/videos/c98pm3dpzn1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c98pm3dpzn1o</guid>
+      <pubDate>Sun, 25 Jan 2026 20:11:58 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/837c/live/3b3dbbb0-fa29-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Carrick 'very capable' of being permanent Man Utd manager - Rooney ]]></title>
+      <description><![CDATA[Match of The Day pundit Wayne Rooney speaks about Michael Carrick's long-term future at Manchester United after his side's 3-2 win against Arsenal.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c74v7w44vvwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c74v7w44vvwo</guid>
+      <pubDate>Mon, 26 Jan 2026 09:51:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89a5/live/73bcc7f0-fa43-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA['Another unbelievable result' - but what's different about Man Utd now?]]></title>
@@ -197,47 +197,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f7c/live/04c4cff0-fa20-11f0-a0a9-29c0ffeda5c2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How 'superb' Fernandes led Man Utd to win at Arsenal]]></title>
-      <description><![CDATA[Match of the Day pundit Danny Murphy discusses the "brilliant" role of Bruno Fernandes in Manchester United's dramatic 3-2 win over Arsenal in the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c2lgw7n2yewo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c2lgw7n2yewo</guid>
-      <pubDate>Mon, 26 Jan 2026 09:52:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20d1/live/36780200-fa44-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[After Arsenal took the lead, they played too safe - Rooney]]></title>
-      <description><![CDATA[Wayne Rooney breaks down the passage of play that led to Manchester United's first goal against Arsenal, allowing them back into the game.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c74v77e2198o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c74v77e2198o</guid>
-      <pubDate>Mon, 26 Jan 2026 11:38:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dae3/live/a90ef740-faaa-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[So many positives to take - Carrick]]></title>
-      <description><![CDATA[Manchester United manager Michael Carrick says he is "so proud" of his side and there are "many positives to take" after they beat Mikel Arteta's Arsenal 3-2 at the Emirates Stadium. 
-
-
-]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c98pm3dpzn1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c98pm3dpzn1o</guid>
-      <pubDate>Sun, 25 Jan 2026 20:11:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/837c/live/3b3dbbb0-fa29-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Carrick 'very capable' of being permanent Man Utd manager - Rooney ]]></title>
-      <description><![CDATA[Match of The Day pundit Wayne Rooney speaks about Michael Carrick's long-term future at Manchester United after his side's 3-2 win against Arsenal.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c74v7w44vvwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c74v7w44vvwo</guid>
-      <pubDate>Mon, 26 Jan 2026 09:51:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89a5/live/73bcc7f0-fa43-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Late Shaw goal sends Man City clear at top]]></title>
-      <description><![CDATA[A late goal from Women's Super League top scorer Khadija Shaw gives Manchester City victory against London City Lionesses, sending them nine points clear at the top.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c17zvdp4dwqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c17zvdp4dwqo</guid>
-      <pubDate>Sun, 25 Jan 2026 17:54:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d5c/live/7237f0c0-fa03-11f0-b5f7-49f0357294ff.jpg"/>
+      <title><![CDATA['David and Goliath' factor draws ex-Padres chief to Lincoln]]></title>
+      <description><![CDATA[American businessman Ron Fowler says the 'David versus Goliath' appeal of Lincoln City is the reason he invested in the League One club.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2k316rx65o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2k316rx65o</guid>
+      <pubDate>Mon, 26 Jan 2026 15:06:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5df/live/eac011d0-fac6-11f0-9951-335577236554.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hardly anyone would have picked Carrick to be Man Utd boss - but now?]]></title>
@@ -246,14 +211,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdxjdk4rk1xo</guid>
       <pubDate>Sun, 25 Jan 2026 22:41:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ced2/live/74f02030-fa35-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['David and Goliath' factor draws ex-Padres chief to Lincoln]]></title>
-      <description><![CDATA[American businessman Ron Fowler says the 'David versus Goliath' appeal of Lincoln City is the reason he invested in the League One club.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2k316rx65o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2k316rx65o</guid>
-      <pubDate>Mon, 26 Jan 2026 15:06:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5df/live/eac011d0-fac6-11f0-9951-335577236554.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man Utd have taken step towards winning formula - Rooney]]></title>
@@ -304,6 +261,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f7/live/47beff90-fa2c-11f0-9dc3-0da0e125fd57.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How many points will it take to win Scottish Premiership?]]></title>
+      <description><![CDATA[BBC Scotland crunches the numbers behind a gripping three-way fight for the Scottish top-flight title.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0erdjp0plpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0erdjp0plpo</guid>
+      <pubDate>Sun, 25 Jan 2026 20:37:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7be1/live/dce88370-fa18-11f0-a422-4ba8a094a8fa.png"/>
+    </item>
+    <item>
       <title><![CDATA['There's no magician' - can Palace stop the slide?]]></title>
       <description><![CDATA[After a torrid few weeks with captain Marc Guehi sold, manager Oliver Glasner confirming he will leave and striker Jean-Philippe Mateta wanting a transfer, are Crystal Palace's struggles on the field inevitable?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3ve6w3yldno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -352,12 +317,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How many points will it take to win Scottish Premiership?]]></title>
-      <description><![CDATA[BBC Scotland crunches the numbers behind a gripping three-way fight for the Scottish top-flight title.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0erdjp0plpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0erdjp0plpo</guid>
-      <pubDate>Sun, 25 Jan 2026 20:37:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7be1/live/dce88370-fa18-11f0-a422-4ba8a094a8fa.png"/>
+      <title><![CDATA[Thirteen signings & £180m spent - have Forest got value for money?]]></title>
+      <description><![CDATA[Despite spending about £180m on summer signings Nottingham Forest are 17th in the Premier League - did they get value for money?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy055rxz5dro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy055rxz5dro</guid>
+      <pubDate>Sun, 25 Jan 2026 06:42:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e096/live/2490eb70-f8bd-11f0-87d4-f39112059019.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fulham make £28m bid to sign PSV forward Pepi]]></title>
