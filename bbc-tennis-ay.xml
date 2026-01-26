@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 26 Jan 2026 05:58:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 06:48:26 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Pegula ends Keys title defence to win 'gross' apple pie bet]]></title>
+      <description><![CDATA[Jessica Pegula ends Madison Keys' Australian Open title defence to reach the quarter-finals and win a "gross" apple pie bet.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cp3z8dxzjjdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cp3z8dxzjjdo</guid>
+      <pubDate>Mon, 26 Jan 2026 06:15:35 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc83/live/b6d75860-fa71-11f0-a038-897092faef25.jpg"/>
+    </item>
     <item>
       <title><![CDATA['Life-changing' match awaits qualifier Inglis at home Slam]]></title>
       <description><![CDATA[Australian Maddison Inglis has gone from saving match points in qualifying to a "life-changing" meeting with Iga Swiatek in her home Grand Slam.]]></description>
@@ -30,14 +38,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cqj28ry41glo</guid>
       <pubDate>Sun, 25 Jan 2026 10:29:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438b/live/d19a3560-f9d5-11f0-bf35-b100a5f29676.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Absolutely incredible' - Sabalenka sets tie-break record to reach last eight]]></title>
-      <description><![CDATA[Aryna Sabalenka surpasses Novak Djokovic's Open era record of consecutive tie-breaks won at Grand Slams to set up a quarter-final with Iva Jovic.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/ce8gn94jq3jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/ce8gn94jq3jo</guid>
-      <pubDate>Sun, 25 Jan 2026 12:21:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7a9/live/5c877b00-f9cd-11f0-8e5f-6765a987e622.jpg"/>
     </item>
     <item>
       <title><![CDATA['I'm surprising myself' - altered serve 'important weapon' for Alcaraz]]></title>
@@ -56,12 +56,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b45/live/daa0d070-f9e3-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[The podcast co-hosts who will be opponents in Melbourne]]></title>
-      <description><![CDATA[Madison Keys and Jessica Pegula have something else to attend to before they meet in the Australian Open fourth round - recording an episode of their podcast together.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c98jgw2kzd3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c98jgw2kzd3o</guid>
-      <pubDate>Sat, 24 Jan 2026 07:40:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b783/live/f09be670-f8ea-11f0-b385-5f48925de19a.png"/>
+      <title><![CDATA['Absolutely incredible' - Sabalenka sets tie-break record to reach last eight]]></title>
+      <description><![CDATA[Aryna Sabalenka surpasses Novak Djokovic's Open era record of consecutive tie-breaks won at Grand Slams to set up a quarter-final with Iva Jovic.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/ce8gn94jq3jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/ce8gn94jq3jo</guid>
+      <pubDate>Sun, 25 Jan 2026 12:21:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7a9/live/5c877b00-f9cd-11f0-8e5f-6765a987e622.jpg"/>
     </item>
     <item>
       <title><![CDATA[Surviving bombs and hunger to become a professional tennis player]]></title>
@@ -104,6 +104,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc89/live/9730a560-f1f3-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
+      <title><![CDATA[The podcast co-hosts who will be opponents in Melbourne]]></title>
+      <description><![CDATA[Madison Keys and Jessica Pegula have something else to attend to before they meet in the Australian Open fourth round - recording an episode of their podcast together.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c98jgw2kzd3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c98jgw2kzd3o</guid>
+      <pubDate>Sat, 24 Jan 2026 07:40:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b783/live/f09be670-f8ea-11f0-b385-5f48925de19a.png"/>
+    </item>
+    <item>
       <title><![CDATA[Two-time champion Osaka withdraws shortly before match]]></title>
       <description><![CDATA[Two-time champion Naomi Osaka withdraws from the Australian Open shortly before she was due to play home qualifier Maddison Inglis.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c1klgw1zkp9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -144,14 +152,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c00e/live/6c4e44b0-f856-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Putintseva drowns out 'disrespectful' crowd with rabbit song]]></title>
-      <description><![CDATA[Yulia Putintseva turns to a song about rabbits to drown out the "disrespectful" crowd during her Australian Open third-round match.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cn0yy72gky8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cn0yy72gky8o</guid>
-      <pubDate>Fri, 23 Jan 2026 09:20:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bf/live/77d58ea0-f84d-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Players at 'high risk' as tennis chases sun]]></title>
       <description><![CDATA[With high temperatures and very high UV levels at the Australian Open, BBC Sport looks at the effects of playing for hours outdoors.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c14rvyj80g7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -160,12 +160,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/823a/live/4e02b680-f6cb-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Not again' - Medvedev battles back from brink]]></title>
-      <description><![CDATA[Daniil Medvedev lives up to his billing as a five-set expert with a comeback victory over Fabian Marozsan to reach the Australian Open fourth round.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cwy88kj95xpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cwy88kj95xpo</guid>
-      <pubDate>Fri, 23 Jan 2026 09:12:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f126/live/4b0ca250-f81b-11f0-b5f7-49f0357294ff.jpg"/>
+      <title><![CDATA[Putintseva drowns out 'disrespectful' crowd with rabbit song]]></title>
+      <description><![CDATA[Yulia Putintseva turns to a song about rabbits to drown out the "disrespectful" crowd during her Australian Open third-round match.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cn0yy72gky8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cn0yy72gky8o</guid>
+      <pubDate>Fri, 23 Jan 2026 09:20:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22bf/live/77d58ea0-f84d-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Australian Open moves play with 40C heat expected]]></title>
