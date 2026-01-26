@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 26 Jan 2026 14:59:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 15:37:49 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[UK loses measles elimination status]]></title>
+      <description><![CDATA[Decision made after outbreaks in 2024, when there were nearly 3,000 cases in England and Wales.]]></description>
+      <link>https://www.bbc.com/news/articles/cgjw0xegxglo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cgjw0xegxglo</guid>
+      <pubDate>Mon, 26 Jan 2026 15:04:44 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc61/live/c0e563a0-fac7-11f0-9951-335577236554.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Thousands of children facing 'catastrophic' waits for NHS community care]]></title>
       <description><![CDATA[A quarter of the 300,000 children waiting for community NHS care have spent more than a year waiting.]]></description>
@@ -32,8 +40,8 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8d7/live/bd1afc30-f216-11f0-8f9d-7304521a922a.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Heading football likely contributed to McQueen's brain disease']]></title>
-      <description><![CDATA[An inquest concludes that "it is likely that repetitive head impacts, sustained by heading the ball while playing football, contributed to the CTE" which was a factor in the former footballer's death.]]></description>
+      <title><![CDATA['Heading football likely to have contributed to McQueen's brain disease']]></title>
+      <description><![CDATA[An inquest concludes that "it is likely that repetitive head impacts, sustained by heading the ball while playing football, contributed to the CTE" which was a factor in the former Scotland footballer's death.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0er74njxgro?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0er74njxgro</guid>
       <pubDate>Mon, 26 Jan 2026 12:20:58 GMT</pubDate>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxje77782jo</guid>
       <pubDate>Sun, 25 Jan 2026 13:40:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/724c/live/2a3f3870-f786-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[NHS cancer gene database to identify patients at risk]]></title>
-      <description><![CDATA[Thousands of people in England will be able to check whether they have genes linked to cancer.]]></description>
-      <link>https://www.bbc.com/news/articles/c62v7l4v7gro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c62v7l4v7gro</guid>
-      <pubDate>Sat, 24 Jan 2026 09:28:10 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e1/live/ab84cda0-f907-11f0-9a4c-df97e82f416e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Families 'failed' by trust meet ahead of inquiry]]></title>
