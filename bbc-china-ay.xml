@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 25 Jan 2026 23:50:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 01:51:03 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[China places highest-ranking general under investigation]]></title>
+      <description><![CDATA[President Xi has been accused of using investigations to purge political rivals.]]></description>
+      <link>https://www.bbc.com/news/articles/c701kr5zqdqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c701kr5zqdqo</guid>
+      <pubDate>Sat, 24 Jan 2026 14:14:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dbc/live/c9bfcd40-f922-11f0-8e3c-b79a1b327384.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Is China quietly winning the AI race?]]></title>
       <description><![CDATA[The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.]]></description>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0e36p74v1o</guid>
       <pubDate>Sat, 03 Jan 2026 23:02:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df89/live/a8c28410-c106-11f0-801d-4586c230975c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[This billionaire tested China's limits. It cost him his freedom]]></title>
-      <description><![CDATA[Lai, who is facing life in prison, always said he owed Hong Kong, a city that had given him "everything". ]]></description>
-      <link>https://www.bbc.com/news/articles/c5yqr485d84o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yqr485d84o</guid>
-      <pubDate>Sat, 20 Dec 2025 22:58:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9997/live/8983b1f0-dc27-11f0-89ae-89110b9e802d.png"/>
     </item>
   </channel>
 </rss>
