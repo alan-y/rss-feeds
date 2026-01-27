@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 11:30:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 11:52:35 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[California probes US TikTok over claims it censors anti-Trump content]]></title>
+      <description><![CDATA[Thousands of people claim political content is being suppressed after a deal to spin off the US version of the app was signed last week.]]></description>
+      <link>https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgjedpn8p8o</guid>
+      <pubDate>Tue, 27 Jan 2026 11:41:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d0c/live/05b02900-fade-11f0-8165-918f1a8ba904.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Legal action over 'unfair' Steam game store prices given go ahead]]></title>
       <description><![CDATA[Millions of gamers could get compensation if the lawsuit - which accuses Valve of charging inflated prices - succeeds.]]></description>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g38jv8zzwo</guid>
       <pubDate>Mon, 26 Jan 2026 18:37:42 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/502e/live/c4d06200-fade-11f0-8165-918f1a8ba904.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[TikTok apologises after thousands in US report issues]]></title>
-      <description><![CDATA[The new US owners of the video streaming app attributed its issues to a data centre power outage.]]></description>
-      <link>https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgjedpn8p8o</guid>
-      <pubDate>Mon, 26 Jan 2026 18:43:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d0c/live/05b02900-fade-11f0-8165-918f1a8ba904.jpg"/>
     </item>
     <item>
       <title><![CDATA[EU investigates Elon Musk's X over Grok AI sexual deepfakes]]></title>
