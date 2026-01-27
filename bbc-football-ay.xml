@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 15:46:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 16:29:41 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -22,14 +22,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgy04negdjo</guid>
       <pubDate>Tue, 27 Jan 2026 14:38:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a99/live/543cd2a0-fb90-11f0-a47f-d352a7d9988a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Spain to host 2030 World Cup final, federation says]]></title>
-      <description><![CDATA[Spain "will be the leader of the 2030 World Cup and the final of that World Cup will be held here" says the president of the country's football federation.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c24g2914g9vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c24g2914g9vo</guid>
-      <pubDate>Tue, 27 Jan 2026 14:23:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dded/live/2c0df620-fb85-11f0-bbb4-c5bf37339933.jpg"/>
     </item>
     <item>
       <title><![CDATA[Bayern legend? How Kane is viewed in Germany as contract talks begin]]></title>
@@ -46,6 +38,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly33nkemrlo</guid>
       <pubDate>Tue, 27 Jan 2026 14:37:32 GMT</pubDate>
       <media:thumbnail width="240" height="132" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb9d/live/c05eef10-f765-11f0-a422-4ba8a094a8fa.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Spain to host 2030 World Cup final, federation says]]></title>
+      <description><![CDATA[Spain "will be the leader of the 2030 World Cup and the final of that World Cup will be held here" says the president of the country's football federation.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c24g2914g9vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c24g2914g9vo</guid>
+      <pubDate>Tue, 27 Jan 2026 14:23:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dded/live/2c0df620-fb85-11f0-bbb4-c5bf37339933.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man Utd's Dorgu set for weeks out with hamstring issue]]></title>
@@ -176,12 +176,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c569/live/00bdcfb0-fb6a-11f0-b23c-6bce24371b71.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
-      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g5v1vzr0jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g5v1vzr0jo</guid>
-      <pubDate>Mon, 26 Jan 2026 23:22:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec4a/live/bbbaf0b0-fb0e-11f0-b385-5f48925de19a.jpg"/>
+      <title><![CDATA[WSL Football reports £8.2m loss for first year ]]></title>
+      <description><![CDATA[WSL Football - the company which oversees the top two tiers of the women's game in England - reports an operating loss of £8.2m in its first year.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c23r2meen10o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c23r2meen10o</guid>
+      <pubDate>Tue, 27 Jan 2026 15:48:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4f8/live/7f597050-fb87-11f0-bbb4-c5bf37339933.jpg"/>
     </item>
     <item>
       <title><![CDATA[Injuries, Everton & overseas friendly - Scotland's World Cup preparations]]></title>
@@ -200,6 +200,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbfb/live/fc581020-fb5f-11f0-a47f-d352a7d9988a.png"/>
     </item>
     <item>
+      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
+      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g5v1vzr0jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g5v1vzr0jo</guid>
+      <pubDate>Mon, 26 Jan 2026 23:22:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec4a/live/bbbaf0b0-fb0e-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[One week until transfer deadline day - who could be on the move?]]></title>
       <description><![CDATA[BBC Sport looks at some of the players that have been linked with moves before the Premier League transfer deadline on 2 February at 19:00 GMT.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c98pp7zd9d0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -216,6 +224,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3612/live/b485e0e0-fb7a-11f0-bbb4-c5bf37339933.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Yorath remembered at funeral as 'funny, humble man']]></title>
+      <description><![CDATA[About 100 mourners attended the funeral of the Wales and Leeds midfielder, who died aged 75.]]></description>
+      <link>https://www.bbc.com/news/articles/c8x97w51r9ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8x97w51r9ko</guid>
+      <pubDate>Mon, 26 Jan 2026 14:57:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8458/live/9ffaf540-fac9-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Besiktas pay £11m for Abraham - to sell him to Villa]]></title>
       <description><![CDATA[Besiktas pay £11.2m to Roma for Tammy Abraham - as the Turkish club prepare to sell him to Aston Villa.
 
@@ -224,14 +240,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c301ry162d4o</guid>
       <pubDate>Mon, 26 Jan 2026 15:07:26 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1866/live/5894e660-fac5-11f0-9951-335577236554.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Yorath remembered at funeral as 'funny, humble man']]></title>
-      <description><![CDATA[About 100 mourners attended the funeral of the Wales and Leeds midfielder, who died aged 75.]]></description>
-      <link>https://www.bbc.com/news/articles/c8x97w51r9ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8x97w51r9ko</guid>
-      <pubDate>Mon, 26 Jan 2026 14:57:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8458/live/9ffaf540-fac9-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[What history tells us about Arsenal's title chances]]></title>
@@ -322,20 +330,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57bd/live/9ac038a0-faa2-11f0-a9b2-e154b2ff290d.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Intoxicating title fight impossible to call as Hearts refuse to buckle']]></title>
-      <description><![CDATA[Depleted Scottish Premiership leaders Hearts passed the latest test of their mettle in compelling draw with Celtic, writes Tom English.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdxjd2we7weo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdxjd2we7weo</guid>
-      <pubDate>Sun, 25 Jan 2026 19:09:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f7c/live/04c4cff0-fa20-11f0-a0a9-29c0ffeda5c2.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why Arsenal's wobble may not even matter - despite 'feeling pressure']]></title>
       <description><![CDATA[Arsenal's winless run may normally be cause for concern - but the stats suggest they are still in control of the Premier League title race.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2xvq5ng0xo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2xvq5ng0xo</guid>
       <pubDate>Sun, 25 Jan 2026 21:40:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfef/live/1bdbc110-fa36-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Intoxicating title fight impossible to call as Hearts refuse to buckle']]></title>
+      <description><![CDATA[Depleted Scottish Premiership leaders Hearts passed the latest test of their mettle in compelling draw with Celtic, writes Tom English.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdxjd2we7weo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdxjd2we7weo</guid>
+      <pubDate>Sun, 25 Jan 2026 19:09:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f7c/live/04c4cff0-fa20-11f0-a0a9-29c0ffeda5c2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Football club DNA quiz: Which team is being described?]]></title>
@@ -360,14 +368,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdxjdk4rk1xo</guid>
       <pubDate>Sun, 25 Jan 2026 22:41:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ced2/live/74f02030-fa35-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Saipan was not a jolly' - the infamous Keane v McCarthy row]]></title>
-      <description><![CDATA[Former Republic of Ireland keeper Dean Kiely reveals what happened during Roy Keane and Mick McCarthy's infamous row before the 2002 World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crleezz8wr0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crleezz8wr0o</guid>
-      <pubDate>Fri, 23 Jan 2026 08:32:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e7e/live/92efa710-f245-11f0-aff5-138622067c76.jpg"/>
     </item>
     <item>
       <title><![CDATA[Transfers - January 2026]]></title>
@@ -470,7 +470,7 @@
       <description><![CDATA[BBC Sport announce broadcasting rights for Bundesliga matches for the 2025-26 and 2026-27 seasons. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g7nwk88dko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g7nwk88dko</guid>
-      <pubDate>Thu, 22 Jan 2026 17:12:03 GMT</pubDate>
+      <pubDate>Tue, 27 Jan 2026 16:03:07 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9cc/live/f79a7270-7da7-11f0-a34f-318be3fb0481.jpg"/>
     </item>
     <item>
