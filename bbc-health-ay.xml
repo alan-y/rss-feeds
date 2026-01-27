@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 14:29:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 15:02:33 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -22,6 +22,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c9qpp1g5ylvo</guid>
       <pubDate>Tue, 27 Jan 2026 00:04:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ce1/live/a67ef1c0-fb53-11f0-a47f-d352a7d9988a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Infant formula batch recall over toxin discovery]]></title>
+      <description><![CDATA[Parents are warned to return any of the specific product affected because it is not safe for babies to consume.]]></description>
+      <link>https://www.bbc.com/news/articles/c1lz2m02rzzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1lz2m02rzzo</guid>
+      <pubDate>Tue, 27 Jan 2026 14:18:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6af/live/7d54d470-fb8c-11f0-87d6-bd5fe34f0b33.jpg"/>
     </item>
     <item>
       <title><![CDATA[UK loses measles elimination status]]></title>
@@ -223,14 +231,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3dm1yy0k8po</guid>
       <pubDate>Thu, 15 Jan 2026 06:00:39 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b89/live/31d89c80-f181-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Revolutionary eye injection saved my sight, says first-ever patient]]></title>
-      <description><![CDATA[Nicki's eye had collapsed in on itself, but a new gel injection method has saved her vision.]]></description>
-      <link>https://www.bbc.com/news/articles/c89qyv98lzdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c89qyv98lzdo</guid>
-      <pubDate>Mon, 12 Jan 2026 00:00:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5981/live/d4c1c090-eca2-11f0-be98-fd0ce9c3379d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
