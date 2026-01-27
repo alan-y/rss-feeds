@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 05:55:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 06:34:49 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -290,20 +290,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ced2/live/74f02030-fa35-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How many points will it take to win Scottish Premiership?]]></title>
-      <description><![CDATA[BBC Scotland crunches the numbers behind a gripping three-way fight for the Scottish top-flight title.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0erdjp0plpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0erdjp0plpo</guid>
-      <pubDate>Sun, 25 Jan 2026 20:37:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7be1/live/dce88370-fa18-11f0-a422-4ba8a094a8fa.png"/>
-    </item>
-    <item>
       <title><![CDATA[Why Carrick's Man Utd coaches are more than just 'a bunch of his mates']]></title>
       <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis explains the thinking behind Michael Carrick's backroom staff appointments at Manchester United, and what a manager wants from those roles.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cd7zrp8v3qgo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd7zrp8v3qgo</guid>
       <pubDate>Sun, 25 Jan 2026 07:54:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How many points will it take to win Scottish Premiership?]]></title>
+      <description><![CDATA[BBC Scotland crunches the numbers behind a gripping three-way fight for the Scottish top-flight title.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0erdjp0plpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0erdjp0plpo</guid>
+      <pubDate>Sun, 25 Jan 2026 20:37:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7be1/live/dce88370-fa18-11f0-a422-4ba8a094a8fa.png"/>
     </item>
     <item>
       <title><![CDATA[Plymouth boss Cleverley handed third ban of season]]></title>
@@ -344,14 +344,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2k935n12wwo</guid>
       <pubDate>Sun, 25 Jan 2026 16:57:40 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc16/live/d4a51380-fa19-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hearts 'rattle' Celtic - but did red card play 'massive part'?]]></title>
-      <description><![CDATA[Hearts and Celtic play out a thrilling draw in the Scottish Premiership title race. But did Hearts deserve to win? Or did a controversial red card cost Celtic?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0kerg0xe28o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kerg0xe28o</guid>
-      <pubDate>Sun, 25 Jan 2026 20:28:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f7/live/47beff90-fa2c-11f0-9dc3-0da0e125fd57.jpg"/>
     </item>
     <item>
       <title><![CDATA['Joyless and toxic' - will Spurs put Frank out of his misery?]]></title>
@@ -464,6 +456,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/cvgr1xvde48o</guid>
       <pubDate>Mon, 05 Jan 2026 10:25:22 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3712/live/cd0a13b0-ea23-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Hearts 'rattle' Celtic - but did red card play 'massive part'?]]></title>
+      <description><![CDATA[Hearts and Celtic play out a thrilling draw in the Scottish Premiership title race. But did Hearts deserve to win? Or did a controversial red card cost Celtic?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0kerg0xe28o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kerg0xe28o</guid>
+      <pubDate>Sun, 25 Jan 2026 20:28:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f7/live/47beff90-fa2c-11f0-9dc3-0da0e125fd57.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch: Pars beat Saints, top two in League 1 win & Spartans lose]]></title>
