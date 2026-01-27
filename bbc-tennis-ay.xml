@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 06:34:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 07:03:00 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,14 +40,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ab/live/2567e9c0-fa9a-11f0-a28c-7551192e4276.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Pegula ends Keys title defence to win 'gross' apple pie bet]]></title>
-      <description><![CDATA[Jessica Pegula ends Madison Keys' Australian Open title defence to reach the quarter-finals and win a "gross" apple pie bet.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cp3z8dxzjjdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cp3z8dxzjjdo</guid>
-      <pubDate>Mon, 26 Jan 2026 12:19:19 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc83/live/b6d75860-fa71-11f0-a038-897092faef25.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Alcaraz cruises to 14th Grand Slam quarter-final]]></title>
       <description><![CDATA[A straight-set win over American seed Tommy Paul takes world number one Carlos Alcaraz into a 14th Grand Slam quarter-final at the Australian Open.]]></description>
       <link>https://www.bbc.com/sport/tennis/videos/cy091g91rlpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -62,6 +54,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cp37k6yy731o</guid>
       <pubDate>Mon, 26 Jan 2026 14:37:59 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c00e/live/6c4e44b0-f856-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Pegula ends Keys title defence to win 'gross' apple pie bet]]></title>
+      <description><![CDATA[Jessica Pegula ends Madison Keys' Australian Open title defence to reach the quarter-finals and win a "gross" apple pie bet.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cp3z8dxzjjdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cp3z8dxzjjdo</guid>
+      <pubDate>Mon, 26 Jan 2026 12:19:19 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc83/live/b6d75860-fa71-11f0-a038-897092faef25.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why did Alcaraz, Sinner & Sabalenka have to remove fitness trackers?]]></title>
@@ -88,20 +88,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438b/live/d19a3560-f9d5-11f0-bf35-b100a5f29676.jpg"/>
     </item>
     <item>
-      <title><![CDATA['I'm surprising myself' - altered serve 'important weapon' for Alcaraz]]></title>
-      <description><![CDATA[World number one Carlos Alcaraz describes his serve as an "important weapon" as he continues his serene run to the Australian Open quarter-finals.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cj9r8mxry4wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cj9r8mxry4wo</guid>
-      <pubDate>Sun, 25 Jan 2026 10:15:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91b7/live/35149bb0-f9e7-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How to follow Australian Open across the BBC]]></title>
       <description><![CDATA[The Australian Open has entered its final stages, with Jannik Sinner still in contention to defend his title - and you can follow it across the BBC.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cn42q0yjylno?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cn42q0yjylno</guid>
       <pubDate>Tue, 27 Jan 2026 06:05:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc89/live/9730a560-f1f3-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['I'm surprising myself' - altered serve 'important weapon' for Alcaraz]]></title>
+      <description><![CDATA[World number one Carlos Alcaraz describes his serve as an "important weapon" as he continues his serene run to the Australian Open quarter-finals.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cj9r8mxry4wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cj9r8mxry4wo</guid>
+      <pubDate>Sun, 25 Jan 2026 10:15:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91b7/live/35149bb0-f9e7-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
       <title><![CDATA['Absolutely incredible' - Sabalenka sets tie-break record to reach last eight]]></title>
@@ -176,14 +176,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a90/live/4ce3c180-f906-11f0-9a4c-df97e82f416e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Players at 'high risk' as tennis chases sun]]></title>
-      <description><![CDATA[With high temperatures and very high UV levels at the Australian Open, BBC Sport looks at the effects of playing for hours outdoors.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c14rvyj80g7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c14rvyj80g7o</guid>
-      <pubDate>Thu, 22 Jan 2026 07:27:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/823a/live/4e02b680-f6cb-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Putintseva drowns out 'disrespectful' crowd with rabbit song]]></title>
       <description><![CDATA[Yulia Putintseva turns to a song about rabbits to drown out the "disrespectful" crowd during her Australian Open third-round match.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cn0yy72gky8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -246,6 +238,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/c8e9y1zr26no</guid>
       <pubDate>Thu, 11 Dec 2025 07:01:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed44/live/20a80a00-d5f6-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Players at 'high risk' as tennis chases sun]]></title>
+      <description><![CDATA[With high temperatures and very high UV levels at the Australian Open, BBC Sport looks at the effects of playing for hours outdoors.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c14rvyj80g7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c14rvyj80g7o</guid>
+      <pubDate>Thu, 22 Jan 2026 07:27:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/823a/live/4e02b680-f6cb-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Coffee, cards & golf with Federer - how do players spend a day off?]]></title>
