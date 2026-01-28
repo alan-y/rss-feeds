@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 11:51:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 12:48:19 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Government offers UK adults free AI training for work]]></title>
+      <description><![CDATA[The online lessons give advice on things such as how to prompt chatbots or complete admin tasks.]]></description>
+      <link>https://www.bbc.com/news/articles/cp37prvp072o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp37prvp072o</guid>
+      <pubDate>Wed, 28 Jan 2026 11:50:21 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10c9/live/c2700050-fc3d-11f0-851f-553096e4fe99.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Amazon confirms 16,000 job cuts after accidental email]]></title>
       <description><![CDATA[The technology giant confirmed the redundancies hours after it told staff in an email sent in error.]]></description>
@@ -104,20 +112,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d6a/live/1dc87370-f5e4-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Is China quietly winning the AI race?]]></title>
-      <description><![CDATA[The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.]]></description>
-      <link>https://www.bbc.com/news/articles/c86v52gv726o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c86v52gv726o</guid>
-      <pubDate>Fri, 23 Jan 2026 22:31:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c7/live/8a085560-f77d-11f0-b7ec-55c1cb544783.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Ubisoft cancels six games including Prince of Persia and closes studios]]></title>
       <description><![CDATA[The studio, known for Assassin's Creed and Just Dance, is also delaying seven titles in a restructure.]]></description>
       <link>https://www.bbc.com/news/articles/c6200g826d2o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c6200g826d2o</guid>
       <pubDate>Thu, 22 Jan 2026 12:20:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4a3/live/c839a060-f78b-11f0-901d-31b29a84f7aa.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Is China quietly winning the AI race?]]></title>
+      <description><![CDATA[The BBC's Lily Jamali looks into why big US firms and start-ups alike are turning to Chinese tech.]]></description>
+      <link>https://www.bbc.com/news/articles/c86v52gv726o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c86v52gv726o</guid>
+      <pubDate>Fri, 23 Jan 2026 22:31:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c7/live/8a085560-f77d-11f0-b7ec-55c1cb544783.jpg"/>
     </item>
     <item>
       <title><![CDATA[Caribbean cannabis growers eye budding domestic sales and exports]]></title>
@@ -264,22 +272,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/026d/live/659b7030-f09e-11f0-8122-3db3b1d47cf5.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Honey, I shrunk the data centres: Is small the new big?]]></title>
-      <description><![CDATA[Huge data centres are being built to handle AI computing but some experts say they aren't necessary.]]></description>
-      <link>https://www.bbc.com/news/articles/cd0ynenr1eno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cd0ynenr1eno</guid>
-      <pubDate>Wed, 14 Jan 2026 00:07:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7b2/live/346ac070-ec9c-11f0-be98-fd0ce9c3379d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[X could 'lose right to self regulate', says Starmer]]></title>
-      <description><![CDATA[It is currently illegal to share deepfakes, but the law against creating them has not yet come into force.]]></description>
-      <link>https://www.bbc.com/news/articles/cq845glnvl1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq845glnvl1o</guid>
-      <pubDate>Tue, 13 Jan 2026 03:34:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a0/live/9a30c1c0-f04d-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Cool future tech at CES!]]></title>
       <description><![CDATA[The technology show CES is back for another year in Las Vegas in America.]]></description>
       <link>https://www.bbc.com/newsround/videos/cx2y0xe8ex2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -302,6 +294,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cwynxdnj927o</guid>
       <pubDate>Fri, 16 Jan 2026 00:04:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaec/live/4a2d8ec0-f08d-11f0-b385-5f48925de19a.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Honey, I shrunk the data centres: Is small the new big?]]></title>
+      <description><![CDATA[Huge data centres are being built to handle AI computing but some experts say they aren't necessary.]]></description>
+      <link>https://www.bbc.com/news/articles/cd0ynenr1eno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cd0ynenr1eno</guid>
+      <pubDate>Wed, 14 Jan 2026 00:07:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7b2/live/346ac070-ec9c-11f0-be98-fd0ce9c3379d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why are more bosses sharing the top job?]]></title>
