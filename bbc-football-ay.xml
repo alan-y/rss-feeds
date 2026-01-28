@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 07:43:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 08:31:12 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -32,6 +32,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f375/live/490b8420-fa29-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Selling stars - how Man City have turned player sales into big business]]></title>
+      <description><![CDATA[Manchester City have made more than £250m selling young players from their talent factory over the last five years.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ceqzpj2vv7go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ceqzpj2vv7go</guid>
+      <pubDate>Wed, 28 Jan 2026 08:15:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b845/live/5fa182f0-fb93-11f0-b385-5f48925de19a.png"/>
+    </item>
+    <item>
       <title><![CDATA[Two fans in hospital as Chelsea urge caution after Naples 'incident']]></title>
       <description><![CDATA[Travelling Chelsea fans in Naples for Wednesday's Champions League game are told to "exercise extreme caution" after two supporters suffer injuries.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c74wdw5n4e5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -46,6 +54,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjrzpng1e8zo</guid>
       <pubDate>Tue, 27 Jan 2026 15:35:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1db/live/6f241660-fb8a-11f0-87d6-bd5fe34f0b33.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Global brand in an EFL world - Wrexham's £48m cash injection explained]]></title>
+      <description><![CDATA[After a new £48m investment in Wrexham, what comes next for the club that is majority-owned by Ryan Reynolds and Rob McElhenney?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn82p32ng5vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn82p32ng5vo</guid>
+      <pubDate>Tue, 27 Jan 2026 21:20:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d612/live/2893df30-fbb4-11f0-ab9d-51dbb3242e9b.jpg"/>
     </item>
     <item>
       <title><![CDATA['We don't want to be that team' - how can Newcastle cure travel sickness?]]></title>
@@ -96,22 +112,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac5f/live/8e6578c0-fbc1-11f0-a47f-d352a7d9988a.png"/>
     </item>
     <item>
-      <title><![CDATA[Global brand in an EFL world - Wrexham finances explained]]></title>
-      <description><![CDATA[After a new £48m investment in Wrexham, what comes next for the club that is majority-owned by Ryan Reynolds and Rob McElhenney?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn82p32ng5vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn82p32ng5vo</guid>
-      <pubDate>Tue, 27 Jan 2026 21:20:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d612/live/2893df30-fbb4-11f0-ab9d-51dbb3242e9b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The African champions facing Arsenal after football revolution]]></title>
-      <description><![CDATA[Moroccan champions AS FAR have been building towards their moment in Fifa's Champions Cup against Arsenal on Wednesday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c301rd2m6dzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c301rd2m6dzo</guid>
-      <pubDate>Tue, 27 Jan 2026 09:51:10 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdaa/live/057d9010-fa09-11f0-b8ce-0fa566ac6f07.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['I have my own opinion' - Slot responds to Liverpool criticism]]></title>
       <description><![CDATA[Liverpool head coach Arne Slot admits he's aware of the "noise" around the club after just five wins in their past 18 Premier League matches, but refuses to define what an "acceptable" outcome to the season would look like to him.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cm2xpz7rvepo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -150,6 +150,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cre21ez0l5yo</guid>
       <pubDate>Mon, 26 Jan 2026 22:50:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1f0/live/ec44f390-fb07-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Quiz: Name every team to have played in Champions League knockouts]]></title>
+      <description><![CDATA[Since the European Cup became the Champions League in 1992-93, 77 teams have made it to the knockouts.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cr5719p79dpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr5719p79dpo</guid>
+      <pubDate>Wed, 28 Jan 2026 07:46:33 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2600/live/c7678bd0-fad7-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[The African champions facing Arsenal after football revolution]]></title>
+      <description><![CDATA[Moroccan champions AS FAR have been building towards their moment in Fifa's Champions Cup against Arsenal on Wednesday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c301rd2m6dzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c301rd2m6dzo</guid>
+      <pubDate>Tue, 27 Jan 2026 09:51:10 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdaa/live/057d9010-fa09-11f0-b8ce-0fa566ac6f07.jpg"/>
     </item>
     <item>
       <title><![CDATA['Jump on the fun boat' - Arteta appeals to Arsenal fans]]></title>
@@ -329,14 +345,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a7d/live/8d058000-fac3-11f0-87ed-0171ac45216b.jpg"/>
     </item>
     <item>
-      <title><![CDATA['It's unfathomable' - Dyche wants towels banned for throw-ins]]></title>
-      <description><![CDATA[Nottingham Forest boss Sean Dyche wants the Premier League to ban towels from the sidelines after complaining about the time taken for throw-ins during his side's win at Brentford.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2we1lngqxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2we1lngqxo</guid>
-      <pubDate>Mon, 26 Jan 2026 15:18:41 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab81/live/3e0fe510-c550-11f0-a1c2-758f53fd6195.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
       <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g5v1vzr0jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -351,14 +359,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2xvq5ng0xo</guid>
       <pubDate>Sun, 25 Jan 2026 21:40:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfef/live/1bdbc110-fa36-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Yorath remembered at funeral as 'funny, humble man']]></title>
-      <description><![CDATA[About 100 mourners attended the funeral of the Wales and Leeds midfielder, who died aged 75.]]></description>
-      <link>https://www.bbc.com/news/articles/c8x97w51r9ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8x97w51r9ko</guid>
-      <pubDate>Mon, 26 Jan 2026 14:57:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8458/live/9ffaf540-fac9-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA['Intoxicating title fight impossible to call as Hearts refuse to buckle']]></title>
@@ -449,20 +449,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3712/live/cd0a13b0-ea23-11f0-b67b-690eb873de1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Rangers reject £13m Chermiti bid - Wednesday's gossip]]></title>
+      <description><![CDATA[Rangers reject a £13m offer from Fenerbahce for Youssef Chermiti as Hibernian expect a bidding war for Kieron Bowie.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c78ek4l22llo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78ek4l22llo</guid>
+      <pubDate>Wed, 28 Jan 2026 08:11:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/349e/live/7615a0c0-fc1f-11f0-a422-4ba8a094a8fa.png"/>
+    </item>
+    <item>
       <title><![CDATA[Games at Arbroath, St Johnstone & Stranraer postponed]]></title>
       <description><![CDATA[Arbroath's Challenge Cup tie with Airdrie, Ayr's quarter-final visit to St Johnstone and Stranraer v Clyde in League 2 are postponed.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgrdpgk7jvyo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgrdpgk7jvyo</guid>
       <pubDate>Tue, 27 Jan 2026 22:20:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3612/live/b485e0e0-fb7a-11f0-bbb4-c5bf37339933.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[American consortium buys Kelty Hearts]]></title>
-      <description><![CDATA[Scottish League 1 strugglers Kelty Hearts have been bought over by an American consortium led by the former owner of Danish second-tier club Helsingor.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2k92z1yg1eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2k92z1yg1eo</guid>
-      <pubDate>Tue, 27 Jan 2026 17:14:33 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af65/live/abe12c60-fba2-11f0-a1ee-f9a3598885a9.jpg"/>
     </item>
     <item>
       <title><![CDATA[Who can join Aston Villa in Europa League last 16?]]></title>
