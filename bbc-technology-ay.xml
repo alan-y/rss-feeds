@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 17:50:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 18:36:35 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Iran's internet is returning - but not for everyone]]></title>
+      <description><![CDATA[The country cut off internet access on 8 January following a government crackdown on protesters.]]></description>
+      <link>https://www.bbc.com/news/articles/cz7y2ddgl23o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cz7y2ddgl23o</guid>
+      <pubDate>Wed, 28 Jan 2026 17:54:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff96/live/71eb3020-fc4f-11f0-9aca-0d1869acdee8.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Government offers UK adults free AI training for work]]></title>
       <description><![CDATA[The online lessons give advice on things such as how to prompt chatbots or complete admin tasks.]]></description>
@@ -262,14 +270,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/czdqvp2zqezo</guid>
       <pubDate>Tue, 13 Jan 2026 13:09:19 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e809/live/c6345f10-f07b-11f0-8162-5ba718a8bc6a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Monzo bank says issue affecting its mobile app resolved ]]></title>
-      <description><![CDATA[A Monzo spokesperson said it had activated a back-up banking service after identifying issues affecting its app.]]></description>
-      <link>https://www.bbc.com/news/articles/cdexzl9jg9no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdexzl9jg9no</guid>
-      <pubDate>Tue, 13 Jan 2026 17:35:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/026d/live/659b7030-f09e-11f0-8122-3db3b1d47cf5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cool future tech at CES!]]></title>
