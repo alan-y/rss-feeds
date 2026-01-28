@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 09:03:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 09:50:40 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -96,14 +96,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ff9/live/574e0fa0-fba3-11f0-a1ee-f9a3598885a9.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Spurs striker Kolo Muani 'fine' after car accident]]></title>
-      <description><![CDATA[Randal Kolo Muani is "fine" after a "minor" car accident and should be available for Spurs' Champions League match at Eintracht Frankfurt, says Thomas Frank.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c620d9735lno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c620d9735lno</guid>
-      <pubDate>Tue, 27 Jan 2026 20:44:26 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea5b/live/03f899a0-fbbd-11f0-9160-5b14c7b18ff0.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Brighton reject Dunk approach - Wednesday's gossip]]></title>
       <description><![CDATA[Brighton turn down an approach from Nottingham Forest for Lewis Dunk, while Chelsea consider Cole Palmer "untouchable" amid Manchester United interest.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c2e12zny3jlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -176,6 +168,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a269/live/87af5900-fb95-11f0-bd4c-9d8c48f8eab8.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Spurs striker Kolo Muani 'fine' after car accident]]></title>
+      <description><![CDATA[Randal Kolo Muani is "fine" after a "minor" car accident and should be available for Spurs' Champions League match at Eintracht Frankfurt, says Thomas Frank.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c620d9735lno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c620d9735lno</guid>
+      <pubDate>Tue, 27 Jan 2026 20:44:26 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea5b/live/03f899a0-fbbd-11f0-9160-5b14c7b18ff0.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Celtic seek answers after losing Trusty red card appeal]]></title>
       <description><![CDATA[Celtic seek "further discussions" with the Scottish FA after having their appeal dismissed against Auston Trusty's red card during Sunday's 2-2 draw with Scottish Premiership leaders Heart of Midlothian.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn563dwp227o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -200,20 +200,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a29/live/70dfd280-fbbe-11f0-a47f-d352a7d9988a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Spain to host 2030 World Cup final, federation says]]></title>
-      <description><![CDATA[Spain "will be the leader of the 2030 World Cup and the final of that World Cup will be held here" says the president of the country's football federation.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c24g2914g9vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c24g2914g9vo</guid>
-      <pubDate>Tue, 27 Jan 2026 14:23:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dded/live/2c0df620-fb85-11f0-bbb4-c5bf37339933.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Guardiola apologises to ref Hallam but 'defends' outburst]]></title>
       <description><![CDATA[Pep Guardiola has apologised to new Premier League referee Farai Hallam if he "feels offended", having taken issue with the official following Manchester City's victory over Wolves on Saturday. But the Spaniard said he has to "defend my club and my players".]]></description>
       <link>https://www.bbc.com/sport/football/articles/ckgy04negdjo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgy04negdjo</guid>
       <pubDate>Tue, 27 Jan 2026 14:38:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a99/live/543cd2a0-fb90-11f0-a47f-d352a7d9988a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Spain to host 2030 World Cup final, federation says]]></title>
+      <description><![CDATA[Spain "will be the leader of the 2030 World Cup and the final of that World Cup will be held here" says the president of the country's football federation.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c24g2914g9vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c24g2914g9vo</guid>
+      <pubDate>Tue, 27 Jan 2026 14:23:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dded/live/2c0df620-fb85-11f0-bbb4-c5bf37339933.jpg"/>
     </item>
     <item>
       <title><![CDATA[How 'Premier League' Galatasaray can derail Man City]]></title>
@@ -280,20 +280,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca12/live/b66e4a10-fa34-11f0-8c06-213ffaa49682.png"/>
     </item>
     <item>
-      <title><![CDATA[Luiz agrees Villa return on loan]]></title>
-      <description><![CDATA[Aston Villa agree a deal to re-sign former midfielder Douglas Luiz on loan as Unai Emery looks to bolster his options in the centre of the pitch.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cql4pyq3462o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cql4pyq3462o</guid>
-      <pubDate>Tue, 27 Jan 2026 13:13:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3200/live/1ca0f410-fb6e-11f0-b7fd-f5e7f9ed0815.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Man Utd's Dorgu set for weeks out with hamstring issue]]></title>
       <description><![CDATA[In-form Patrick Dorgu is still being assessed but he is likely to miss Manchester United matches with the injury he picked up against Arsenal.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj6wp8zlpp4o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj6wp8zlpp4o</guid>
       <pubDate>Tue, 27 Jan 2026 11:56:21 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f74b/live/92497810-fb71-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Luiz agrees Villa return on loan]]></title>
+      <description><![CDATA[Aston Villa agree a deal to re-sign former midfielder Douglas Luiz on loan as Unai Emery looks to bolster his options in the centre of the pitch.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cql4pyq3462o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cql4pyq3462o</guid>
+      <pubDate>Tue, 27 Jan 2026 13:13:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3200/live/1ca0f410-fb6e-11f0-b7fd-f5e7f9ed0815.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fulham winger Traore set for West Ham move]]></title>
@@ -327,14 +327,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c23r2meen10o</guid>
       <pubDate>Tue, 27 Jan 2026 15:48:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4f8/live/7f597050-fb87-11f0-bbb4-c5bf37339933.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Doku thankful he was not 'badly injured' by Dalot]]></title>
-      <description><![CDATA[Manchester City winger Jeremy Doku says he is thankful he was not more seriously injured after a high studs-up tackle by Manchester United defender Diogo Dalot.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj0np9vn7l0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0np9vn7l0o</guid>
-      <pubDate>Tue, 27 Jan 2026 15:00:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ace3/live/8a158390-fb95-11f0-a47f-d352a7d9988a.jpg"/>
     </item>
     <item>
       <title><![CDATA[What history tells us about Arsenal's title chances]]></title>
