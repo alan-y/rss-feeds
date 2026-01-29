@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 07:09:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 07:57:16 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['We weren't perfect', says bogus Covid lab accused]]></title>
+      <description><![CDATA[Evidence in pharmacist Faisal Shoukat's defence continues to be heard at Bradford Crown Court.]]></description>
+      <link>https://www.bbc.com/news/articles/cre2pevgvgdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cre2pevgvgdo</guid>
+      <pubDate>Wed, 28 Jan 2026 17:32:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1817/live/25886430-caf1-11f0-84e9-a9bb2f1691c9.jpg"/>
+    </item>
     <item>
       <title><![CDATA[AI model from Google's DeepMind reads recipe for life in DNA]]></title>
       <description><![CDATA[It could transform our understanding of why diseases develop and the medicines needed to treat them, says researchers.]]></description>
@@ -22,6 +30,22 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c39428dv18yo</guid>
       <pubDate>Wed, 28 Jan 2026 16:03:22 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0da0/live/ddfd69f0-fc49-11f0-a087-459dd8e000af.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Hospital's neglect in my son's death has ripped our hearts out']]></title>
+      <description><![CDATA[Peter Dervin says he warned Broomfield Hospital staff not to leave his son alone before fatal fall.]]></description>
+      <link>https://www.bbc.com/news/articles/cy4q2z3pdjxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4q2z3pdjxo</guid>
+      <pubDate>Thu, 29 Jan 2026 06:01:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/238f/live/598167f0-fc33-11f0-a92b-d7b0082c10c4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['You don't feel judged': Why we buy more at self-service terminals]]></title>
+      <description><![CDATA[How restaurants and retailers use behavioural science to get us to increase our spending.]]></description>
+      <link>https://www.bbc.com/news/articles/cy9y1wvq3pdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9y1wvq3pdo</guid>
+      <pubDate>Thu, 29 Jan 2026 00:05:18 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a4/live/93de8de0-faeb-11f0-adda-0755af0bac4f.jpg"/>
     </item>
     <item>
       <title><![CDATA['I was diagnosed with OCD at 10'. Here's how to spot the signs]]></title>
@@ -48,14 +72,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/929c/live/1d0b6b10-fc31-11f0-97af-d970b98694c6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[The clock is ticking for my five-year-old son with dementia]]></title>
-      <description><![CDATA[Tammy McDaid describes how she had a panic attack after waking up on Tate's birthday. ]]></description>
-      <link>https://www.bbc.com/news/articles/c78v118xpyxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c78v118xpyxo</guid>
-      <pubDate>Wed, 28 Jan 2026 06:23:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4302/live/36634720-fc29-11f0-a47f-d352a7d9988a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Menopause linked to Alzheimer's-like brain changes]]></title>
       <description><![CDATA[Menopause is linked to a loss of grey matter in regions involved with memory and emotion, study suggests.]]></description>
       <link>https://www.bbc.com/news/articles/c9qpp1g5ylvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -64,12 +80,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ce1/live/a67ef1c0-fb53-11f0-a47f-d352a7d9988a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Thousands of children facing 'catastrophic' waits for NHS community care]]></title>
-      <description><![CDATA[A quarter of the 300,000 children waiting for community NHS care have spent more than a year waiting.]]></description>
-      <link>https://www.bbc.com/news/articles/c1kllz30ek7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kllz30ek7o</guid>
-      <pubDate>Mon, 26 Jan 2026 00:37:45 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c318/live/e4018d10-f7ba-11f0-8a71-ff10b47f652a.jpg"/>
+      <title><![CDATA[The clock is ticking for my five-year-old son with dementia]]></title>
+      <description><![CDATA[Tammy McDaid describes how she had a panic attack after waking up on Tate's birthday. ]]></description>
+      <link>https://www.bbc.com/news/articles/c78v118xpyxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c78v118xpyxo</guid>
+      <pubDate>Wed, 28 Jan 2026 06:23:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4302/live/36634720-fc29-11f0-a47f-d352a7d9988a.jpg"/>
     </item>
     <item>
       <title><![CDATA['I spent £2,000 on one event': Why Gen Z is obsessed with Hyrox]]></title>
@@ -78,6 +94,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0nmj72v8ro</guid>
       <pubDate>Mon, 26 Jan 2026 00:45:40 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8d7/live/bd1afc30-f216-11f0-8f9d-7304521a922a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Thousands of children facing 'catastrophic' waits for NHS community care]]></title>
+      <description><![CDATA[A quarter of the 300,000 children waiting for community NHS care have spent more than a year waiting.]]></description>
+      <link>https://www.bbc.com/news/articles/c1kllz30ek7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1kllz30ek7o</guid>
+      <pubDate>Mon, 26 Jan 2026 00:37:45 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c318/live/e4018d10-f7ba-11f0-8a71-ff10b47f652a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Five ways weight-loss jabs are changing spending habits]]></title>
@@ -207,30 +231,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r47199rwyo</guid>
       <pubDate>Fri, 16 Jan 2026 00:12:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f5/live/632808a0-f232-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hospital violated trans complaint nurses' dignity, tribunal rules]]></title>
-      <description><![CDATA[A judge says the hospital chiefs' changing room policy created a "hostile" environment for women.]]></description>
-      <link>https://www.bbc.com/news/articles/c0jv9l5n32zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0jv9l5n32zo</guid>
-      <pubDate>Fri, 16 Jan 2026 15:42:51 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a3d/live/fa1c2400-f2c6-11f0-87dd-6f0e6349453d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[I'm allergic to cold - anything below 12C and I break out in hives]]></title>
-      <description><![CDATA[Amber breaks out in hives if the temperature goes below 12C (53F) and wishes for a "normal life".]]></description>
-      <link>https://www.bbc.com/news/articles/c4grjn8e147o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4grjn8e147o</guid>
-      <pubDate>Mon, 19 Jan 2026 06:31:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b52f/live/a1a19cb0-f4b0-11f0-b385-5f48925de19a.png"/>
-    </item>
-    <item>
-      <title><![CDATA[First leukaemia patient to get new form of treatment on NHS says it is 'very sci-fi']]></title>
-      <description><![CDATA[Oscar Murphy has an aggressive form of the blood cancer and is the first to get CAR-T therapy in the UK.]]></description>
-      <link>https://www.bbc.com/news/articles/c62r56zzzq4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c62r56zzzq4o</guid>
-      <pubDate>Wed, 14 Jan 2026 00:12:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c876/live/b2058b60-f0b5-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
