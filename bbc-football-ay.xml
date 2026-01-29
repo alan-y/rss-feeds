@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 23:34:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 23:55:00 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Who is 'shy and nervous' Villa match-winner Jimoh-Aloba?]]></title>
+      <description><![CDATA[Aston Villa match-winner Jamaldeen Jimoh-Aloba is described as "shy and nervous" by Morgan Rogers - but the teenager announced himself on the European stage.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8j32vezyylo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8j32vezyylo</guid>
+      <pubDate>Thu, 29 Jan 2026 23:52:11 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66d8/live/86b31130-fd62-11f0-9c09-35264ee739f3.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Europa League: What happened in final league phase games?]]></title>
+      <description><![CDATA[Your guide to the teams that made the top eight, the 16 in the play-offs and the clubs eliminated from the Europa League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c62015dell5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62015dell5o</guid>
+      <pubDate>Thu, 29 Jan 2026 23:34:47 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0956/live/d7289e20-fd5b-11f0-809e-0391886361ed.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Palace move for £50m Strand Larsen in doubt]]></title>
       <description><![CDATA[Crystal Palace's £50m move for Wolves striker Jorgen Strand Larsen is in the balance after the Eagles suggest they could walk away from the deal.]]></description>
@@ -48,28 +64,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2d0/live/3345b7f0-fd30-11f0-a8b8-bdd2c5f9bcad.png"/>
     </item>
     <item>
-      <title><![CDATA[Senegal boss Thiaw banned after Afcon final chaos]]></title>
-      <description><![CDATA[Senegal manager Pape Thiaw his banned for five games after the chaotic scenes during the Africa Cup of Nations final against Morocco.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c24gy9d52vno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c24gy9d52vno</guid>
-      <pubDate>Thu, 29 Jan 2026 19:41:48 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2921/live/05d22f60-fce0-11f0-b827-6fb9814e291f.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Sterling in talks with seven clubs - Friday's gossip]]></title>
       <description><![CDATA[Raheem Sterling's representatives in talks with seven clubs, Tottenham and Burnley also interested in England winger, Cole Palmer out of Manchester United's price range, plus more.]]></description>
       <link>https://www.bbc.com/sport/football/articles/czr4x1zgxx7o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czr4x1zgxx7o</guid>
       <pubDate>Thu, 29 Jan 2026 21:07:06 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2622/live/f57767f0-fd36-11f0-9972-d3f265c101c6.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Arsenal in talks to sign Barcelona's Batlle in summer]]></title>
-      <description><![CDATA[Arsenal have held advanced discussions with Barcelona full-back Ona Batlle in the hope of reaching a pre-contract agreement to sign her in the summer.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cew8q8xj9e2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cew8q8xj9e2o</guid>
-      <pubDate>Thu, 29 Jan 2026 17:10:18 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a28a/live/c7ead220-fd33-11f0-b218-01e47e5ce409.jpg"/>
     </item>
     <item>
       <title><![CDATA[Eat & Yap - Man City's Kerstin Casparij meets Alex Scott]]></title>
@@ -88,36 +88,44 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64aa/live/8703e040-fc65-11f0-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How Doku's 'clever decision-making' helped City beat Galatasaray]]></title>
-      <description><![CDATA[Champions League pundits Stephen Warnock, Nedum Onuoha and Julien Laurens discuss Manchester City's 2-0 win over Galatasaray game and how Jeremy Doku has "found his form again" with "clever decision-making". ]]></description>
-      <link>https://www.bbc.com/sport/videos/c3wzyey79y1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/videos/c3wzyey79y1o</guid>
-      <pubDate>Thu, 29 Jan 2026 00:18:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d327/live/37e04cf0-fca7-11f0-a8b8-bdd2c5f9bcad.jpg"/>
+      <title><![CDATA['I have my own opinion' - Slot responds to Liverpool criticism]]></title>
+      <description><![CDATA[Liverpool head coach Arne Slot admits he's aware of the "noise" around the club after just five wins in their past 18 Premier League matches, but refuses to define what an "acceptable" outcome to the season would look like to him.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cm2xpz7rvepo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cm2xpz7rvepo</guid>
+      <pubDate>Tue, 27 Jan 2026 19:42:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20fe/live/1e8f7e00-fbb8-11f0-a422-4ba8a094a8fa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Howe's subs inspired 'absolutely superb' second half against PSG]]></title>
-      <description><![CDATA[BBC Sport pundit Stephen Warnock analyses how substitutes Harvey Barnes and Anthony Gordon helped "stretch the game" in the second half of Newcastle United's 1-1 draw against PSG.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c4g4yl1vr4no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c4g4yl1vr4no</guid>
-      <pubDate>Thu, 29 Jan 2026 00:23:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c76/live/42ecdd10-fca8-11f0-9972-d3f265c101c6.jpg"/>
+      <title><![CDATA[Guardiola defends referee remarks after Wolves win]]></title>
+      <description><![CDATA[Manchester City manager Pep Guardiola and a reporter share a heated exchange over comments he made about new Premier League referee Farai Hallam following Manchester City's 2-0 win over Wolves.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c2lg2e1xdwdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c2lg2e1xdwdo</guid>
+      <pubDate>Tue, 27 Jan 2026 17:01:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c4d/live/bd000120-fb8d-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Liverpool march into last 16 with six-goal Qarabag thrashing]]></title>
-      <description><![CDATA[Liverpool thrash Qarabag 6-0 to automatically reach the last 16 of the Champions League.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c5y3e1yje7do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5y3e1yje7do</guid>
-      <pubDate>Wed, 28 Jan 2026 22:24:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbaa/live/38f85c60-fc96-11f0-a8b8-bdd2c5f9bcad.jpg"/>
+      <title><![CDATA[Barry goal rescues draw for Everton against Leeds]]></title>
+      <description><![CDATA[Watch Premier League highlights as Everton's Thierno Barry continues his good run of form with a second-half goal to earn the Toffees a 1-1 draw with Leeds United.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cwy8j44xndvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwy8j44xndvo</guid>
+      <pubDate>Mon, 26 Jan 2026 22:30:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b43/live/cfb5e250-fb04-11f0-a47f-d352a7d9988a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Pedro scores superb double to give Chelsea top eight finish]]></title>
-      <description><![CDATA[Joao Pedro scores twice as Chelsea beat Napoli 3-2 to secure automatic qualification into the last 16 of the UEFA Champions League.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/ckglpgzldgpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ckglpgzldgpo</guid>
-      <pubDate>Wed, 28 Jan 2026 22:12:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8ca/live/f1a3b5d0-fc95-11f0-9972-d3f265c101c6.jpg"/>
+      <title><![CDATA[Palace could get dragged into this - Sutton]]></title>
+      <description><![CDATA[Chris Sutton tells the Monday Night Club that he believes Crystal Palace could be dragged into a relegation battle in the Premier League if they don't make a decision on manager Oliver Glasner soon.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cevnpxwkz9do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cevnpxwkz9do</guid>
+      <pubDate>Tue, 27 Jan 2026 10:50:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e77/live/1d8e7dd0-fb6d-11f0-b385-5f48925de19a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Senegal boss Thiaw banned after Afcon final chaos]]></title>
+      <description><![CDATA[Senegal manager Pape Thiaw his banned for five games after the chaotic scenes during the Africa Cup of Nations final against Morocco.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c24gy9d52vno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c24gy9d52vno</guid>
+      <pubDate>Thu, 29 Jan 2026 19:41:48 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2921/live/05d22f60-fce0-11f0-b827-6fb9814e291f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Captain 'essential' Fernandes - FPL team of the week]]></title>
@@ -126,6 +134,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9qp3ywqzneo</guid>
       <pubDate>Thu, 29 Jan 2026 09:47:01 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a46b/live/b539cd20-fbb2-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Arsenal in talks to sign Barcelona's Batlle in summer]]></title>
+      <description><![CDATA[Arsenal have held advanced discussions with Barcelona full-back Ona Batlle in the hope of reaching a pre-contract agreement to sign her in the summer.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cew8q8xj9e2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cew8q8xj9e2o</guid>
+      <pubDate>Thu, 29 Jan 2026 17:10:18 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a28a/live/c7ead220-fd33-11f0-b218-01e47e5ce409.jpg"/>
     </item>
     <item>
       <title><![CDATA[England on course for fifth Champions League spot]]></title>
@@ -168,20 +184,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4651/live/84886370-fd2a-11f0-890b-55ca0a00c59d.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Why have English teams dominated as Real & PSG face play-offs?]]></title>
-      <description><![CDATA[Five of the eight teams to qualify automatically for the Champions League were from the Premier League, so why have they been so dominant?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy0520ey7jjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy0520ey7jjo</guid>
-      <pubDate>Thu, 29 Jan 2026 00:24:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf1/live/348c75c0-fca1-11f0-9beb-e3402c5a09de.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Man City's Casparij on Manchester, cats and being mistaken for a gardener]]></title>
       <description><![CDATA[In BBC Sport's Eat & Yap series, Alex Scott meets some of the best WSL players to share the food they love and to chat about life on and off the pitch.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2p1289pj5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2p1289pj5o</guid>
       <pubDate>Thu, 29 Jan 2026 10:35:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce3d/live/6ebfe090-fcee-11f0-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Why have English teams dominated as Real & PSG face play-offs?]]></title>
+      <description><![CDATA[Five of the eight teams to qualify automatically for the Champions League were from the Premier League, so why have they been so dominant?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy0520ey7jjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy0520ey7jjo</guid>
+      <pubDate>Thu, 29 Jan 2026 00:24:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf1/live/348c75c0-fca1-11f0-9beb-e3402c5a09de.jpg"/>
     </item>
     <item>
       <title><![CDATA[Do Villa have the legs to end their 30-year trophy drought?]]></title>
@@ -216,12 +232,52 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae1/live/d699b2f0-fd0b-11f0-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What do fans think of the Women's Champions Cup?]]></title>
-      <description><![CDATA[Arsenal played their first match of the inaugural Women’s Champions Cup on Wednesday - but how is the competition being received by supporters?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3ve629yggno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3ve629yggno</guid>
-      <pubDate>Wed, 28 Jan 2026 20:06:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12a7/live/43629830-fc7a-11f0-8e2e-b175b7c5e0d9.jpg"/>
+      <title><![CDATA[Moyes praises Everton's 'much better' second half]]></title>
+      <description><![CDATA[Everton manager David Moyes praises a "much better" second-half display that saw French forward Thierno Barry equalise to give the Toffees a 1-1 Premier League draw with Leeds at the Hill Dickinson stadium.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cre21ez0l5yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cre21ez0l5yo</guid>
+      <pubDate>Mon, 26 Jan 2026 22:50:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1f0/live/ec44f390-fb07-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Leeds have good momentum right now - Farke]]></title>
+      <description><![CDATA[Leeds United manager Daniel Farke believes his side's 1-1 draw at Everton is another "good result" and another example of their improved form, having lost only once in the past 11 matches. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cgm4emv88rpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgm4emv88rpo</guid>
+      <pubDate>Mon, 26 Jan 2026 22:39:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1599/live/d9c8be40-fb07-11f0-a47f-d352a7d9988a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Carrick needs to be judged over a longer period - Sutton]]></title>
+      <description><![CDATA[Mark Chapman is joined by Chris Sutton on The Monday Night Club as the  former Premier League striker praises Michael Carrick after his "brilliant start" as interim head coach of Manchester United.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cy9y2d10qq1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy9y2d10qq1o</guid>
+      <pubDate>Tue, 27 Jan 2026 10:56:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9af2/live/c4cb7a60-fb6a-11f0-a47f-d352a7d9988a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How 'superb' Fernandes led Man Utd to win at Arsenal]]></title>
+      <description><![CDATA[Match of the Day pundit Danny Murphy discusses the "brilliant" role of Bruno Fernandes in Manchester United's dramatic 3-2 win over Arsenal in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c2lgw7n2yewo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c2lgw7n2yewo</guid>
+      <pubDate>Mon, 26 Jan 2026 09:52:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20d1/live/36780200-fa44-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How Doku's 'clever decision-making' helped City beat Galatasaray]]></title>
+      <description><![CDATA[Champions League pundits Stephen Warnock, Nedum Onuoha and Julien Laurens discuss Manchester City's 2-0 win over Galatasaray game and how Jeremy Doku has "found his form again" with "clever decision-making". ]]></description>
+      <link>https://www.bbc.com/sport/videos/c3wzyey79y1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/videos/c3wzyey79y1o</guid>
+      <pubDate>Thu, 29 Jan 2026 00:18:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d327/live/37e04cf0-fca7-11f0-a8b8-bdd2c5f9bcad.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Football doesn't need to take lives' - McQueen daughters on inquest]]></title>
+      <description><![CDATA[Repeatedly heading footballs is "likely" to have contributed to the brain disease which was a factor in the death of former Scotland and Manchester United footballer Gordon McQueen, an inquest found. His daughters spoke after the verdict.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c5y57vrly1qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5y57vrly1qo</guid>
+      <pubDate>Mon, 26 Jan 2026 17:00:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ead9/live/773ba120-fad5-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Six of the most memorable goalkeeper goals]]></title>
@@ -230,54 +286,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2d7yjwgex4o</guid>
       <pubDate>Thu, 29 Jan 2026 14:43:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f46d/live/e4ea2270-fd17-11f0-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Arsenal maintain perfect record with narrow win over Kairat]]></title>
-      <description><![CDATA[First-half goals from Viktor Gyokeres, Kai Havertz and Gabriel Martinelli give Arsenal a 3-2 win over Kairat to completing a perfect league phase for the Gunners with eight victories in eight games.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cd0yp1v0d4zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cd0yp1v0d4zo</guid>
-      <pubDate>Wed, 28 Jan 2026 22:34:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48ac/live/75d38e40-fc99-11f0-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Spurs see off Frankfurt to secure last 16 qualification]]></title>
-      <description><![CDATA[Goals from Randal Kolo Muani and Dominic Solanke give Tottenham a comfortable 2-0 away win against Eintracht Frankfurt, as Thomas Frank's side finish the league phase in fourth to automatically qualify for the last 16 of the Champions League.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cgezp3lwrnvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgezp3lwrnvo</guid>
-      <pubDate>Wed, 28 Jan 2026 22:08:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab7e/live/95f77fb0-fc94-11f0-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Newcastle face play-off after draw with holders PSG ]]></title>
-      <description><![CDATA[Joe Willock scores for Newcastle as they draw 1-1 with PSG at the Parc des Princes to confirm their place in the Champions League play-offs. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cqxy1jrlg7jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cqxy1jrlg7jo</guid>
-      <pubDate>Wed, 28 Jan 2026 22:24:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afd5/live/68b2c420-fc98-11f0-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man City avoid play-offs with Galatasary win]]></title>
-      <description><![CDATA[Manchester City beat Galatasaray to confirm a spot in the round of 16 of the UEFA Champions League by narrowly finishing eighth in the league phase.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cm24r05ln74o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cm24r05ln74o</guid>
-      <pubDate>Wed, 28 Jan 2026 22:11:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9125/live/070816f0-fc96-11f0-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Watch Benfica keeper score stoppage-time goal against Real Madrid]]></title>
-      <description><![CDATA[Goalkeeper Anatoliy Trubin scores in the 98th minute to give Benfica a 4-2 win over Real Madrid - a goal which also secured Jose Mourinho's side a place in the last 16 play-offs of the Champions League on goal difference.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/ce8ek9k56e7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ce8ek9k56e7o</guid>
-      <pubDate>Wed, 28 Jan 2026 22:22:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db88/live/4948e2a0-fc97-11f0-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Bayern secure league phase spot with victory over PSV]]></title>
-      <description><![CDATA[Jamal Musiala scores on his first start for Bayern Munich since July as they secure second spot in the league phase of the Champions League with a hard-fought win at PSV Eindhoven.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cr7jxrnpezko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cr7jxrnpezko</guid>
-      <pubDate>Wed, 28 Jan 2026 22:39:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab42/live/59b056d0-fc99-11f0-a8b8-bdd2c5f9bcad.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rosenior comes out on top as Conte's European woes continue]]></title>
@@ -342,14 +350,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y2zdwjzkvo</guid>
       <pubDate>Wed, 28 Jan 2026 23:48:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5d7/live/6675b980-fca5-11f0-901a-7136c00da938.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Out of contract in the summer - so what next for these stars?]]></title>
-      <description><![CDATA[BBC Sport pundits and former England internationals Fara Williams and Ellen White discuss the best next steps for some of the game's biggest stars.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqj28vj0wkko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqj28vj0wkko</guid>
-      <pubDate>Wed, 28 Jan 2026 13:38:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72a5/live/09a2bb70-fc48-11f0-a8b8-bdd2c5f9bcad.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sterling leaves Chelsea 18 months early - where could he go next?]]></title>
@@ -518,6 +518,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cnvg9241eqyo</guid>
       <pubDate>Thu, 29 Jan 2026 16:55:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6960/live/5be04f90-fd30-11f0-890b-55ca0a00c59d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What do fans think of the Women's Champions Cup?]]></title>
+      <description><![CDATA[Arsenal played their first match of the inaugural Women’s Champions Cup on Wednesday - but how is the competition being received by supporters?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3ve629yggno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3ve629yggno</guid>
+      <pubDate>Wed, 28 Jan 2026 20:06:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12a7/live/43629830-fc7a-11f0-8e2e-b175b7c5e0d9.jpg"/>
     </item>
     <item>
       <title><![CDATA[The great number nine decline - where have England's strikers gone?]]></title>
