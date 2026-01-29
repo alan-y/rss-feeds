@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 04:07:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 05:14:41 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[China executes 11 members of Myanmar scam mafia]]></title>
+      <description><![CDATA[China executes 11 members of the Ming family that ran scam centres in Myanmar, state media report.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2gdrvy9gjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2gdrvy9gjo</guid>
+      <pubDate>Thu, 29 Jan 2026 04:19:34 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6afe/live/d388f680-fcc9-11f0-8c17-af6eecf9fb6e.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Man who exposed human rights abuses in China granted US asylum]]></title>
       <description><![CDATA[Guan Heng secretly filmed detention facilitates in Xinjiang before escaping to the US in 2021.]]></description>
@@ -102,22 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cy59pvkqvl5o</guid>
       <pubDate>Fri, 16 Jan 2026 13:11:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/667e/live/9a206f10-f2b3-11f0-885c-ef5f6008fb41.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Trump's Venezuela raid has created chaos - and that is a risk for China]]></title>
-      <description><![CDATA[The US's seizure of Nicolás Maduro carries uncertainty for China, which is no fan of chaos.]]></description>
-      <link>https://www.bbc.com/news/articles/cly92dkxqvko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly92dkxqvko</guid>
-      <pubDate>Wed, 07 Jan 2026 09:24:00 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1472/live/912294e0-ebc6-11f0-b5f7-49f0357294ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How UK plush toy Jellycat conquered China ]]></title>
-      <description><![CDATA[The plushies bring "emotional value" to Chinese youth navigating economic uncertainty.]]></description>
-      <link>https://www.bbc.com/news/articles/cj0e36p74v1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0e36p74v1o</guid>
-      <pubDate>Sat, 03 Jan 2026 23:02:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df89/live/a8c28410-c106-11f0-801d-4586c230975c.jpg"/>
     </item>
   </channel>
 </rss>
