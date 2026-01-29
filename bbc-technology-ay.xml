@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 22:29:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 22:59:04 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Apple reports best-ever iPhone sales as Mac dips]]></title>
+      <description><![CDATA[The company's revenue was boosted by iPhone sales, but sales of its wearable tech and Mac computers dipped. ]]></description>
+      <link>https://www.bbc.com/news/articles/cy8yw190q83o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8yw190q83o</guid>
+      <pubDate>Thu, 29 Jan 2026 22:16:03 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dad/live/7c202970-fd57-11f0-809e-0391886361ed.jpg"/>
+    </item>
     <item>
       <title><![CDATA[UK bans Coinbase ads implying crypto can ease cost of living concerns]]></title>
       <description><![CDATA[The ASA upheld complaints that Coinbase's adverts trivialised the risks of investing in cryptocurrency.]]></description>
@@ -262,14 +270,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c8e5149egl2o</guid>
       <pubDate>Fri, 16 Jan 2026 10:30:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185d/live/b84526d0-f23a-11f0-b0c7-71b671ae4961.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[No 10 welcomes reports X is addressing Grok deepfakes]]></title>
-      <description><![CDATA[The use of the AI tool to digitally undress women has sparked a backlash as well as intervention from the government and regulator.]]></description>
-      <link>https://www.bbc.com/news/articles/ceqz7pyd303o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ceqz7pyd303o</guid>
-      <pubDate>Wed, 14 Jan 2026 14:44:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1538/live/f551f310-f158-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cool future tech at CES!]]></title>
