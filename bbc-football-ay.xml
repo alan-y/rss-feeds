@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 31 Jan 2026 08:59:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 09:37:29 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -30,6 +30,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98prz4296vo</guid>
       <pubDate>Sat, 31 Jan 2026 06:31:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdba/live/de1186b0-fdd4-11f0-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How Fernandez has become key player for Chelsea]]></title>
+      <description><![CDATA[The stats that show how World Cup winner Enzo Fernandez is one of, if not the, most important players in Chelsea's attack.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1lz14ydr1go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1lz14ydr1go</guid>
+      <pubDate>Sat, 31 Jan 2026 09:17:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88bd/live/ea65b100-fde0-11f0-ae54-2fe2ad2173c5.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sutton's predictions v boxer Francesca Hennessy]]></title>
+      <description><![CDATA[BBC Sport football expert Chris Sutton takes on boxer Francesca Hennessy and AI with his predictions for this week's Premier League fixtures.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx204g4rn8xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx204g4rn8xo</guid>
+      <pubDate>Thu, 29 Jan 2026 20:23:04 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2d0/live/3345b7f0-fd30-11f0-a8b8-bdd2c5f9bcad.png"/>
     </item>
     <item>
       <title><![CDATA[Are Arsenal fans making team nervous in title race?]]></title>
@@ -80,22 +96,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d346/live/cf599770-fdf7-11f0-a402-95e95a98d0ec.jpg"/>
     </item>
     <item>
-      <title><![CDATA[West Ham's Paqueta completes £35.5m Flamengo move]]></title>
-      <description><![CDATA[West Ham midfielder Lucas Paqueta completes a £35.5m move to boyhood club Flamengo.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly3wdl90wxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly3wdl90wxo</guid>
-      <pubDate>Fri, 30 Jan 2026 20:26:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3620/live/8995fff0-fd2d-11f0-890b-55ca0a00c59d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Inter want Liverpool's Jones on loan - Saturday's gossip]]></title>
-      <description><![CDATA[Curtis Jones is attracting interest from Serie A side Inter Milan, while Gabriel Jesus and Gabriel Martinelli could be on their way to La Liga. However, Joshua Zirkzee looks like he may now stay in the Premier League, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgdv4e7247o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgdv4e7247o</guid>
-      <pubDate>Fri, 30 Jan 2026 22:33:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b6b/live/fd1f73a0-fe24-11f0-b7e1-afb6d0884c18.png"/>
-    </item>
-    <item>
       <title><![CDATA[What's meant for you won't pass you by - Calvert-Lewin]]></title>
       <description><![CDATA[Dominic Calvert-Lewin discusses the loneliness he experienced while waiting for a transfer this summer and how his form since joining Leeds has re-ignited his England hopes.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cy9ywq05w5do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -136,12 +136,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/785d/live/f046a950-fd02-11f0-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sutton's predictions v boxer Francesca Hennessy]]></title>
-      <description><![CDATA[BBC Sport football expert Chris Sutton takes on boxer Francesca Hennessy and AI with his predictions for this week's Premier League fixtures.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx204g4rn8xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx204g4rn8xo</guid>
-      <pubDate>Thu, 29 Jan 2026 20:23:04 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2d0/live/3345b7f0-fd30-11f0-a8b8-bdd2c5f9bcad.png"/>
+      <title><![CDATA[West Ham's Paqueta completes £35.5m Flamengo move]]></title>
+      <description><![CDATA[West Ham midfielder Lucas Paqueta completes a £35.5m move to boyhood club Flamengo.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly3wdl90wxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly3wdl90wxo</guid>
+      <pubDate>Fri, 30 Jan 2026 20:26:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3620/live/8995fff0-fd2d-11f0-890b-55ca0a00c59d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Inter want Liverpool's Jones on loan - Saturday's gossip]]></title>
+      <description><![CDATA[Curtis Jones is attracting interest from Serie A side Inter Milan, while Gabriel Jesus and Gabriel Martinelli could be on their way to La Liga. However, Joshua Zirkzee looks like he may now stay in the Premier League, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgdv4e7247o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgdv4e7247o</guid>
+      <pubDate>Fri, 30 Jan 2026 22:33:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b6b/live/fd1f73a0-fe24-11f0-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
       <title><![CDATA[Celtic to play Stuttgart & Forest face Fenerbahce in Europa play-offs]]></title>
@@ -186,20 +194,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48a/live/efae8c50-fde4-11f0-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
-      <title><![CDATA[Crystal Palace sign Villa forward Guessand on loan]]></title>
-      <description><![CDATA[Crystal Palace sign Aston Villa forward Evann Guessand on loan until the end of the season with the option to make the move permanent. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0mk7wr18kxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mk7wr18kxo</guid>
-      <pubDate>Fri, 30 Jan 2026 21:04:10 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/766a/live/c999c220-fe19-11f0-8a1e-69aa641f4cb6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[All your FPL stats and Premier League team news in one place]]></title>
       <description><![CDATA[Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.]]></description>
       <link>https://www.bbc.com/sport/articles/c5y4zw9w8xxo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/c5y4zw9w8xxo</guid>
       <pubDate>Fri, 30 Jan 2026 12:11:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Crystal Palace sign Villa forward Guessand on loan]]></title>
+      <description><![CDATA[Crystal Palace sign Aston Villa forward Evann Guessand on loan until the end of the season with the option to make the move permanent. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0mk7wr18kxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mk7wr18kxo</guid>
+      <pubDate>Fri, 30 Jan 2026 21:04:10 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/766a/live/c999c220-fe19-11f0-8a1e-69aa641f4cb6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fulham sign Man City winger Bobb for £27m]]></title>
@@ -240,14 +248,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2kmygjde6o</guid>
       <pubDate>Fri, 30 Jan 2026 13:42:03 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ef4/live/d0f8bbc0-fde7-11f0-a8b8-bdd2c5f9bcad.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Personal matter' means Guardiola misses media duties]]></title>
-      <description><![CDATA[Manager Pep Guardiola missed media duties before Manchester City's Premier League trip to Tottenham because of a "personal matter" on Friday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cq5y6e3vqqwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq5y6e3vqqwo</guid>
-      <pubDate>Fri, 30 Jan 2026 13:58:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df52/live/4e18f1b0-fdde-11f0-ae54-2fe2ad2173c5.jpg"/>
     </item>
     <item>
       <title><![CDATA['Barca move gave me confidence I could adapt']]></title>
@@ -296,6 +296,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cre21ez0l5yo</guid>
       <pubDate>Mon, 26 Jan 2026 22:50:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1f0/live/ec44f390-fb07-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Personal matter' means Guardiola misses media duties]]></title>
+      <description><![CDATA[Manager Pep Guardiola missed media duties before Manchester City's Premier League trip to Tottenham because of a "personal matter" on Friday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cq5y6e3vqqwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq5y6e3vqqwo</guid>
+      <pubDate>Fri, 30 Jan 2026 13:58:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df52/live/4e18f1b0-fdde-11f0-ae54-2fe2ad2173c5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arteta 'begs' Premier League for bigger match squads]]></title>
@@ -392,14 +400,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwne85ng97o</guid>
       <pubDate>Fri, 30 Jan 2026 09:13:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f1/live/c691f010-fdbb-11f0-b724-c371fd414c33.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Maya Jama and Ruben Dias' Cheshire home targeted by burglars]]></title>
-      <description><![CDATA[Jama was in South Africa filming Love Island and Dias was watching his team Manchester City play.]]></description>
-      <link>https://www.bbc.com/news/articles/c2d7y9k2el3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2d7y9k2el3o</guid>
-      <pubDate>Fri, 30 Jan 2026 10:40:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b87d/live/45229960-fdc7-11f0-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[Journalist dreams & Keane reunion? How O'Neill continues to revive Celtic]]></title>
@@ -512,6 +512,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/cvgr1xvde48o</guid>
       <pubDate>Thu, 29 Jan 2026 16:10:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3712/live/cd0a13b0-ea23-11f0-b67b-690eb873de1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Hoffenheim bid for £6m-rated Wilson from Aston Villa' - gossip]]></title>
+      <description><![CDATA[Scotland Under-21 forward Rory Wilson is reportedly interesting Hoffenheim as Wolverhampton Wanderers are said to be eyeing Che Adams while Celtic and Rangers continue to court a variety of forward options.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gl62z7jx2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gl62z7jx2o</guid>
+      <pubDate>Sat, 31 Jan 2026 09:06:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac16/live/05530370-fe84-11f0-a8b8-bdd2c5f9bcad.png"/>
     </item>
     <item>
       <title><![CDATA[Why La Liga title race is back on]]></title>
