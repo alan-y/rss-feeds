@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 01 Feb 2026 15:54:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 16:28:50 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,22 +48,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a09/live/7aa5be10-ff7e-11f0-ba7a-65010dfea24f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Chelsea and Strasbourg in talks to swap defenders]]></title>
-      <description><![CDATA[Chelsea are in talks to recall Mamadou Sarr from Strasbourg, with Aaron Anselmino expected to move in the opposite direction.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgryp97z0jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgryp97z0jo</guid>
-      <pubDate>Sun, 01 Feb 2026 13:21:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72ce/live/b5107c40-ff6d-11f0-bce7-ab44a0df1622.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Forest sign Man City keeper Ortega]]></title>
-      <description><![CDATA[Nottingham Forest sign Stefan Ortega, who has not played for Manchester City this season, in a deal worth up to £500,000.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cre2rwxl0pyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cre2rwxl0pyo</guid>
-      <pubDate>Sun, 01 Feb 2026 13:49:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b18/live/465203a0-ff72-11f0-bce7-ab44a0df1622.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Mateta agrees AC Milan move - Sunday's gossip]]></title>
       <description><![CDATA[Crystal Palace striker Jean-Philippe Mateta agrees a contract with AC Milan, Fulham have a £20m offer for Joe Willock rejected by Newcastle, plus more.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvgn8lv52p8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -72,12 +56,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d3/live/17a0be00-feed-11f0-9972-d3f265c101c6.png"/>
     </item>
     <item>
-      <title><![CDATA[England midfielder Gomes set for Wolves loan]]></title>
-      <description><![CDATA[Wolves are set to complete a loan move for Marseille's England midfielder Angel Gomes.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn0kjxxx74no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0kjxxx74no</guid>
-      <pubDate>Sun, 01 Feb 2026 09:22:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee98/live/da54f190-ff4d-11f0-861a-555f9d353c11.jpg"/>
+      <title><![CDATA[Chelsea and Strasbourg in talks to swap defenders]]></title>
+      <description><![CDATA[Chelsea are in talks to recall Mamadou Sarr from Strasbourg, with Aaron Anselmino expected to move in the opposite direction.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgryp97z0jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgryp97z0jo</guid>
+      <pubDate>Sun, 01 Feb 2026 13:21:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72ce/live/b5107c40-ff6d-11f0-bce7-ab44a0df1622.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Arsenal concern over Merino foot injury]]></title>
+      <description><![CDATA[Arsenal midfielder Mikel Merino is to see a specialist after missing Saturday's win over Leeds with a foot problem.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2e10w4mzr9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2e10w4mzr9o</guid>
+      <pubDate>Sun, 01 Feb 2026 16:00:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ce9/live/d2e41640-ff82-11f0-ba7a-65010dfea24f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Atalanta's Lookman set to join Atletico Madrid]]></title>
@@ -86,22 +78,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07xlzl9892o</guid>
       <pubDate>Sun, 01 Feb 2026 14:27:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4142/live/8348b420-ff72-11f0-bce7-ab44a0df1622.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The Basque derby - the friendliest rivalry in world football?]]></title>
-      <description><![CDATA[With a sense of shared identity and fans mixing in the stands, is the Basque derby between Athletic Club and Real Sociedad the friendliest in the world?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9vx9k8g27do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9vx9k8g27do</guid>
-      <pubDate>Sun, 01 Feb 2026 09:11:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0d/live/9e44f6e0-fdf5-11f0-a8b8-bdd2c5f9bcad.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[All you need to know as Arsenal face Corinthians in Champions Cup final]]></title>
-      <description><![CDATA[History is guaranteed at Emirates Stadium on Sunday as Arsenal host Brazil's Corinthians in the first-ever Women's Champions Cup final.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp3763vp7p4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3763vp7p4o</guid>
-      <pubDate>Sun, 01 Feb 2026 10:39:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0a8/live/76a619a0-fdcf-11f0-9972-d3f265c101c6.png"/>
     </item>
     <item>
       <title><![CDATA[Ekitike double helps Liverpool cruise past Newcastle]]></title>
@@ -144,20 +120,44 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59c1/live/6325d460-fed8-11f0-a8b8-bdd2c5f9bcad.jpg"/>
     </item>
     <item>
+      <title><![CDATA[The Basque derby - the friendliest rivalry in world football?]]></title>
+      <description><![CDATA[With a sense of shared identity and fans mixing in the stands, is the Basque derby between Athletic Club and Real Sociedad the friendliest in the world?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9vx9k8g27do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9vx9k8g27do</guid>
+      <pubDate>Sun, 01 Feb 2026 09:11:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0d/live/9e44f6e0-fdf5-11f0-a8b8-bdd2c5f9bcad.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[The most powerful woman in football - meet game's first female super agent]]></title>
-      <description><![CDATA[Super agent Rafaela Pimenta looks after some of the biggest names in the game. She has been speaking exclusively to the BBC]]></description>
+      <description><![CDATA[Super agent Rafaela Pimenta looks after some of the biggest names in the game - and has spoken exclusively to the BBC.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj6w3wr9x2lo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj6w3wr9x2lo</guid>
       <pubDate>Sun, 01 Feb 2026 07:50:03 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c43/live/c91a8e50-fe8d-11f0-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Liverpool in talks over Sunderland loanee Geertruida ]]></title>
-      <description><![CDATA[Liverpool are in talks to sign Dutch defender Lutsharel Geertruida on loan.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2yzv0nz86o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2yzv0nz86o</guid>
-      <pubDate>Sun, 01 Feb 2026 10:09:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4625/live/dcc805b0-ff53-11f0-861a-555f9d353c11.jpg"/>
+      <title><![CDATA[Forest sign Man City keeper Ortega]]></title>
+      <description><![CDATA[Nottingham Forest sign Stefan Ortega, who has not played for Manchester City this season, in a deal worth up to £500,000.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cre2rwxl0pyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cre2rwxl0pyo</guid>
+      <pubDate>Sun, 01 Feb 2026 13:49:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b18/live/465203a0-ff72-11f0-bce7-ab44a0df1622.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[England midfielder Gomes set for Wolves loan]]></title>
+      <description><![CDATA[Wolves are set to complete a loan move for Marseille's England midfielder Angel Gomes.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn0kjxxx74no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0kjxxx74no</guid>
+      <pubDate>Sun, 01 Feb 2026 09:22:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee98/live/da54f190-ff4d-11f0-861a-555f9d353c11.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[All you need to know as Arsenal face Corinthians in Champions Cup final]]></title>
+      <description><![CDATA[History is guaranteed at Emirates Stadium on Sunday as Arsenal host Brazil's Corinthians in the first-ever Women's Champions Cup final.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp3763vp7p4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3763vp7p4o</guid>
+      <pubDate>Sun, 01 Feb 2026 10:39:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0a8/live/76a619a0-fdcf-11f0-9972-d3f265c101c6.png"/>
     </item>
     <item>
       <title><![CDATA[Genius or obvious? Rosenior's subs inspire Chelsea comeback win]]></title>
@@ -168,36 +168,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe76/live/0b097690-fee9-11f0-a286-bf60ac84dc2b.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Torres-like' Ekitike haunts long-term admirers Newcastle]]></title>
-      <description><![CDATA[Newcastle United needed no reminding of Hugo Ekitike's quality after trying to sign him last summer - and the Liverpool striker haunted his former suitors at Anfield on Saturday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2g7v78rkzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2g7v78rkzo</guid>
-      <pubDate>Sun, 01 Feb 2026 00:29:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c53/live/2d42ad40-ff01-11f0-96ad-d34e9d450501.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sunderland sign Malmo keeper Ellborg for £3m]]></title>
-      <description><![CDATA[Sunderland sign Malmo goalkeeper Melker Ellborg on a four-year contract for £3m.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwyrze71nk3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyrze71nk3o</guid>
-      <pubDate>Sun, 01 Feb 2026 11:39:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/110f/live/fb0d0ab0-ff5e-11f0-b8ba-b50eb3939275.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Stay classy' - McClean jeered on Derry return]]></title>
-      <description><![CDATA[Former Republic of Ireland winger James McClean assists the only goal of the game on his return to Derry City colours as the Candystripes beat Shamrock Rovers 1-0 to lift the President's Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj4lj84n897o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj4lj84n897o</guid>
-      <pubDate>Sun, 01 Feb 2026 13:42:11 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cecf/live/7fe04050-ff68-11f0-bce7-ab44a0df1622.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Carrick backs Man Utd fan support before new protest]]></title>
-      <description><![CDATA[Manchester United head coach Michael Carrick praises the club's supporters for their backing before planned protest against the ownership.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c93v472g5q2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93v472g5q2o</guid>
-      <pubDate>Sat, 31 Jan 2026 22:52:40 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd6b/live/4d47a4a0-feb2-11f0-b7e1-afb6d0884c18.jpg"/>
+      <title><![CDATA['Sweet Kerolin' - Man City forward scores superb chip]]></title>
+      <description><![CDATA[Manchester City forward Kerolin scores from a lightning-fast counter attack, the second of an eventual hat trick for the Brazilian against Chelsea.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/clywj1y3xjlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/clywj1y3xjlo</guid>
+      <pubDate>Sun, 01 Feb 2026 16:10:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9885/live/d6e3b340-ff87-11f0-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[Late Mbappe penalty rescues Real Madrid against Vallecano]]></title>
@@ -232,14 +208,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba6f/live/72535ea0-fefe-11f0-a8b8-bdd2c5f9bcad.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Spurs want to stick with Frank but may have no choice']]></title>
-      <description><![CDATA[The Football Focus team preview the game between Spurs and Man City, debating whether Spurs boss Thomas Frank will be able to navigate this challenging period.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c07xr2dxd1lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c07xr2dxd1lo</guid>
-      <pubDate>Sun, 01 Feb 2026 06:23:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ac5/live/56c23400-febc-11f0-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['A great headache' - can Madueke stake claim for Arsenal and England?]]></title>
       <description><![CDATA[The sight of Noni Madueke flying past defenders and putting dangerous crosses into the penalty will have been a welcome sight for Mikel Arteta.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ckgjd8ej3ggo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -248,20 +216,36 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91dd/live/89111990-fecf-11f0-bf43-0b2a3f17561d.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Moyes defiant after being booked for celebration]]></title>
-      <description><![CDATA[Everton manager David Moyes criticises the laws of the game after being booked for sprinting onto the pitch to celebrate Beto's last-gasp equaliser at Brighton.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj3v6d5zlpmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj3v6d5zlpmo</guid>
-      <pubDate>Sat, 31 Jan 2026 21:37:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0ac/live/d2feca70-fee3-11f0-a286-bf60ac84dc2b.jpg"/>
+      <title><![CDATA['Stay classy' - McClean jeered on Derry return]]></title>
+      <description><![CDATA[Former Republic of Ireland winger James McClean assists the only goal of the game on his return to Derry City colours as the Candystripes beat Shamrock Rovers 1-0 to lift the President's Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj4lj84n897o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj4lj84n897o</guid>
+      <pubDate>Sun, 01 Feb 2026 13:42:11 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cecf/live/7fe04050-ff68-11f0-bce7-ab44a0df1622.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Likened to Mbappe - teenager Kroupi flourishing at Bournemouth]]></title>
-      <description><![CDATA[Eli Junior Kroupi's stunning goal for Bournemouth against Wolves will help soften the blow of losing Antoine Semenyo to Manchester City.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8rmnnyjyj5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8rmnnyjyj5o</guid>
-      <pubDate>Sat, 31 Jan 2026 19:55:22 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/913c/live/b91f2c50-fee1-11f0-bde6-39dbeae3fac9.jpg"/>
+      <title><![CDATA[Carrick backs Man Utd fan support before new protest]]></title>
+      <description><![CDATA[Manchester United head coach Michael Carrick praises the club's supporters for their backing before planned protest against the ownership.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c93v472g5q2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93v472g5q2o</guid>
+      <pubDate>Sat, 31 Jan 2026 22:52:40 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd6b/live/4d47a4a0-feb2-11f0-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Liverpool in talks over Sunderland loanee Geertruida ]]></title>
+      <description><![CDATA[Liverpool are in talks to sign Dutch defender Lutsharel Geertruida on loan.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2yzv0nz86o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2yzv0nz86o</guid>
+      <pubDate>Sun, 01 Feb 2026 10:09:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4625/live/dcc805b0-ff53-11f0-861a-555f9d353c11.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Torres-like' Ekitike haunts long-term admirers Newcastle]]></title>
+      <description><![CDATA[Newcastle United needed no reminding of Hugo Ekitike's quality after trying to sign him last summer - and the Liverpool striker haunted his former suitors at Anfield on Saturday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2g7v78rkzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2g7v78rkzo</guid>
+      <pubDate>Sun, 01 Feb 2026 00:29:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c53/live/2d42ad40-ff01-11f0-96ad-d34e9d450501.jpg"/>
     </item>
     <item>
       <title><![CDATA[Klopp urged me to take Man City assistant job - Lijnders]]></title>
@@ -270,6 +254,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgrd7l7rjrno</guid>
       <pubDate>Sat, 31 Jan 2026 22:30:06 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e0a/live/52854740-feb4-11f0-a2da-032ecb505e8e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Likened to Mbappe - teenager Kroupi flourishing at Bournemouth]]></title>
+      <description><![CDATA[Eli Junior Kroupi's stunning goal for Bournemouth against Wolves will help soften the blow of losing Antoine Semenyo to Manchester City.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8rmnnyjyj5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8rmnnyjyj5o</guid>
+      <pubDate>Sat, 31 Jan 2026 19:55:22 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/913c/live/b91f2c50-fee1-11f0-bde6-39dbeae3fac9.jpg"/>
     </item>
     <item>
       <title><![CDATA[Pick your combined Man City-Chelsea XI]]></title>
@@ -288,12 +280,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03f4/live/2c9b8d10-fedb-11f0-bde6-39dbeae3fac9.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Test for Lampard and Hackney driving Boro - Aaron McLean's EFL Takeaways ]]></title>
-      <description><![CDATA[Final Score EFL pundit Aaron McLean reflects on the highs and lows after Saturday's action.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cnvgnnjnq75o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cnvgnnjnq75o</guid>
-      <pubDate>Sat, 31 Jan 2026 20:30:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f8/live/785fef60-801f-11f0-ab3e-bd52082cd0ae.png"/>
+      <title><![CDATA['Spurs want to stick with Frank but may have no choice']]></title>
+      <description><![CDATA[The Football Focus team preview the game between Spurs and Man City, debating whether Spurs boss Thomas Frank will be able to navigate this challenging period.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c07xr2dxd1lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c07xr2dxd1lo</guid>
+      <pubDate>Sun, 01 Feb 2026 06:23:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ac5/live/56c23400-febc-11f0-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[What can be done to disrupt Arsenal's identical set-pieces?]]></title>
@@ -334,14 +326,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cd9ewdkz58lo</guid>
       <pubDate>Sat, 31 Jan 2026 17:32:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60e9/live/f00534c0-fec9-11f0-a8b8-bdd2c5f9bcad.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Arsenal showed character and quality in win at Leeds - Arteta ]]></title>
-      <description><![CDATA[Arsenal manager Mikel Arteta says he is pleased with the dominance, character and quality that his side showed in their 4-0 win over Leeds.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cx2l5gr9490o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2l5gr9490o</guid>
-      <pubDate>Sat, 31 Jan 2026 17:40:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2982/live/45f0a3a0-fecb-11f0-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[Nine siblings and a dog called Zoomer - Wirtz in his own words]]></title>
