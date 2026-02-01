@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 01 Feb 2026 20:25:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 20:56:00 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Hospital disruption continues after fire]]></title>
+      <description><![CDATA[Southampton General Hospital limits A&E admissions and cancels operations following blaze.]]></description>
+      <link>https://www.bbc.com/news/articles/c9qpr7y718do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9qpr7y718do</guid>
+      <pubDate>Sun, 01 Feb 2026 17:42:56 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba0/live/19f8bc80-ff55-11f0-861a-555f9d353c11.png"/>
+    </item>
     <item>
       <title><![CDATA['Damning' evidence of political pressure to open scandal-hit hospital - Sarwar]]></title>
       <description><![CDATA[The Scottish Labour leader says documents prove ministers pushed for the country's largest hospital to open early.]]></description>
@@ -215,14 +223,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c7v0l25mr2ro</guid>
       <pubDate>Wed, 21 Jan 2026 11:54:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09fd/live/407b8a70-f6bf-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Botched 'Turkey teeth' op victim warns of dangers]]></title>
-      <description><![CDATA[Leanne Abeyance, from Telford, is waiting for reconstructive surgery and remains in constant pain.]]></description>
-      <link>https://www.bbc.com/news/articles/c1je9p8wny5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1je9p8wny5o</guid>
-      <pubDate>Wed, 21 Jan 2026 06:14:36 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08af/live/675626d0-f5f4-11f0-a745-635c33f47272.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
