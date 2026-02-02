@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 02 Feb 2026 15:54:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 16:39:00 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Resident doctors vote in favour of more strike action]]></title>
+      <description><![CDATA[Members of the British Medical Association have backed more walkouts in the dispute over pay and jobs in England.]]></description>
+      <link>https://www.bbc.com/news/articles/cy9yz3x332lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9yz3x332lo</guid>
+      <pubDate>Mon, 02 Feb 2026 16:20:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cc4/live/5b6e9200-0051-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Hospital disruption continues after fire]]></title>
       <description><![CDATA[Southampton General Hospital limits A&E admissions and cancels operations following blaze.]]></description>
@@ -55,14 +63,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg1lrkl03zo</guid>
       <pubDate>Fri, 30 Jan 2026 07:58:28 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b819/live/9a81b180-bbaa-11ef-90ea-ab6ec6f16b70.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Assisted dying bill 'no hope' of passing unless Lords change approach, warns peer]]></title>
-      <description><![CDATA[Lord Falconer said the bill has "absolutely no hope" of passing without a "fundamental change" in approach.]]></description>
-      <link>https://www.bbc.com/news/articles/cr57j47811yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cr57j47811yo</guid>
-      <pubDate>Thu, 29 Jan 2026 15:04:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40e1/live/59cd9570-fcde-11f0-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hampstead ponds trans access challenge dismissed]]></title>
