@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 02 Feb 2026 08:56:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 09:48:33 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[AI 'slop' is transforming social media - and a backlash is brewing]]></title>
+      <description><![CDATA[Social media has been flooded with fake, AI-generated images and videos. But will the majority of users actually care?]]></description>
+      <link>https://www.bbc.com/news/articles/c9wx2dz2v44o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wx2dz2v44o</guid>
+      <pubDate>Mon, 02 Feb 2026 06:54:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa09/live/e3eed6a0-fdd4-11f0-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Pornhub is now restricting access for UK users - will other sites follow suit?]]></title>
+      <description><![CDATA[The UK's largest porn site has blocked unregistered users from accessing it in the country, but its motives remain unclear.]]></description>
+      <link>https://www.bbc.com/news/articles/cvg5er4ewg6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg5er4ewg6o</guid>
+      <pubDate>Mon, 02 Feb 2026 02:03:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1bb/live/abc6f8e0-ff6c-11f0-bce7-ab44a0df1622.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Musk's SpaceX applies to launch a million satellites into orbit]]></title>
       <description><![CDATA[The firm wants to create a network of "orbital data centres" to power artificial intelligence.]]></description>
@@ -254,22 +270,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/clyn0ek5rdpo</guid>
       <pubDate>Sat, 17 Jan 2026 02:44:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01fc/live/55111370-f349-11f0-b5b0-dd330acd3183.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How crypto criminals stole $700 million from people - often using age-old tricks]]></title>
-      <description><![CDATA[As crypto wealth continues to grow, criminals are mixing sophisticated hacks with deception, and in some cases, real life violence.]]></description>
-      <link>https://www.bbc.com/news/articles/c93w30gl5jno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c93w30gl5jno</guid>
-      <pubDate>Mon, 19 Jan 2026 00:48:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f681/live/0d26da90-f1ff-11f0-a422-4ba8a094a8fa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[ChatGPT to carry adverts for some users]]></title>
-      <description><![CDATA[OpenAI is also expanding its cheaper subscription tier, ChatGPT Go, to all countries where it operates.]]></description>
-      <link>https://www.bbc.com/news/articles/cvgjn012k3do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgjn012k3do</guid>
-      <pubDate>Fri, 16 Jan 2026 18:00:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e5e/live/b25a02e0-f2f8-11f0-9a08-61d9f795eeed.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cool future tech at CES!]]></title>
