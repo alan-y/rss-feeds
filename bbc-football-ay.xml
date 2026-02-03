@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 03 Feb 2026 10:39:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 11:21:31 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Palace criticised for 'messing' with McNeil mental health]]></title>
+      <description><![CDATA[Dwight McNeil's partner criticises Crystal Palace for "messing" with his mental health after the collapse of his transfer from Everton.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g01rmz1lqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g01rmz1lqo</guid>
+      <pubDate>Tue, 03 Feb 2026 10:40:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7caf/live/0e0913b0-00e6-11f1-86f0-a753a1cb9eea.jpg"/>
+    </item>
     <item>
       <title><![CDATA['Strong and smart' - Liverpool's £60m man, who can 'become like Van Dijk']]></title>
       <description><![CDATA[Jeremy Jacquet will join Liverpool for £60m from Rennes in the summer - but why are the Reds signing him?]]></description>
@@ -38,6 +46,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy05rxgl7epo</guid>
       <pubDate>Tue, 03 Feb 2026 10:12:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e08e/live/f23667e0-00d2-11f1-a266-e3d9153f08c1.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rohl delight at Rangers' signings - and departures]]></title>
+      <description><![CDATA[Danny Rohl believes Rangers have "increased the quality in the squad", even though they have reduced their head count.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c150jn7vq9lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c150jn7vq9lo</guid>
+      <pubDate>Tue, 03 Feb 2026 10:29:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4210/live/8898ab50-00ea-11f1-8974-f3140348ffed.jpg"/>
     </item>
     <item>
       <title><![CDATA[Who is in the relegation fight - and what is needed for survival?]]></title>
@@ -64,22 +80,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f026/live/6b5b2ab0-0070-11f1-b49c-93e7b72bd9b3.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Liverpool's Borggrafe joins Leverkusen on loan]]></title>
-      <description><![CDATA[Liverpool goalkeeper Rafaela Borggrafe joins Bayer Leverkusen on loan for the rest of the 2025-26 season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gv141077xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gv141077xo</guid>
-      <pubDate>Tue, 03 Feb 2026 09:29:03 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af58/live/a5fca120-00df-11f1-86f0-a753a1cb9eea.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Two club-record signings - but are Palace papering over the cracks?]]></title>
-      <description><![CDATA[Crystal Palace end a horrendous January with a rollercoaster day - but are they just papering over the cracks?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly94y766r3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly94y766r3o</guid>
-      <pubDate>Mon, 02 Feb 2026 22:02:50 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d952/live/6fdb3bf0-006d-11f1-b49c-93e7b72bd9b3.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Talbi rocket seals decisive Sunderland win over Burnley]]></title>
       <description><![CDATA[Watch highlights as Sunderland earn a decisive victory over struggling Burnley, capped by an incredible long-range goal from Chemsdine Talbi.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c4g31dqzk8no?at_medium=RSS&amp;at_campaign=rss</link>
@@ -96,12 +96,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f81/live/afbdfaf0-0090-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Rangers buy striker Naderi from Hansa Rostock]]></title>
-      <description><![CDATA[German striker Ryan Naderi joins Rangers from Hansa Rostock, becoming the Ibrox club's fourth winter signing.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce9yeevr4z2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce9yeevr4z2o</guid>
-      <pubDate>Tue, 03 Feb 2026 00:15:41 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1e/live/3d4f08a0-0041-11f1-a18d-b15f01569129.jpg"/>
+      <title><![CDATA[Liverpool's Borggrafe joins Leverkusen on loan]]></title>
+      <description><![CDATA[Liverpool goalkeeper Rafaela Borggrafe joins Bayer Leverkusen on loan for the rest of the 2025-26 season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gv141077xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gv141077xo</guid>
+      <pubDate>Tue, 03 Feb 2026 09:29:03 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af58/live/a5fca120-00df-11f1-86f0-a753a1cb9eea.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Two club-record signings - but are Palace papering over the cracks?]]></title>
+      <description><![CDATA[Crystal Palace end a horrendous January with a rollercoaster day - but are they just papering over the cracks?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly94y766r3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly94y766r3o</guid>
+      <pubDate>Mon, 02 Feb 2026 22:02:50 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d952/live/6fdb3bf0-006d-11f1-b49c-93e7b72bd9b3.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rashford wants to stay at Barca - Tuesday's gossip]]></title>
+      <description><![CDATA[Marcus Rashford is eyeing a permanent Barcelona switch, Raheem Sterling rejects a Bundesliga move, Tottenham miss out on Maghnes Akliouche, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5yvenzg6wyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yvenzg6wyo</guid>
+      <pubDate>Mon, 02 Feb 2026 22:57:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f446/live/7a6931f0-0089-11f1-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
       <title><![CDATA[All the done deals on deadline day in one place]]></title>
@@ -118,22 +134,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y4n80x821o</guid>
       <pubDate>Mon, 02 Feb 2026 21:52:14 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b253/live/dbac9700-0079-11f1-b527-21c46db45f72.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Rashford wants to stay at Barca - Tuesday's gossip]]></title>
-      <description><![CDATA[Marcus Rashford is eyeing a permanent Barcelona switch, Raheem Sterling rejects a Bundesliga move, Tottenham miss out on Maghnes Akliouche, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yvenzg6wyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yvenzg6wyo</guid>
-      <pubDate>Mon, 02 Feb 2026 22:57:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f446/live/7a6931f0-0089-11f1-b7e1-afb6d0884c18.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Is Benzema joining rivals behind Ronaldo's frustration in Saudi Arabia?]]></title>
-      <description><![CDATA[Cristiano Ronaldo's future at Al-Nassr is plunged into doubt after he is left out of their squad for Monday's Saudi Pro League game against Al-Riyadh. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn56d999p91o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn56d999p91o</guid>
-      <pubDate>Mon, 02 Feb 2026 19:12:07 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c66/live/f563e5e0-0029-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
       <title><![CDATA['Unacceptable' - Parker fumes at passive Burnley side]]></title>
@@ -176,12 +176,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dcb/live/b8c76680-002d-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Rangers buy striker Naderi from Hansa Rostock]]></title>
+      <description><![CDATA[German striker Ryan Naderi joins Rangers from Hansa Rostock, becoming the Ibrox club's fourth winter signing.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce9yeevr4z2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce9yeevr4z2o</guid>
+      <pubDate>Tue, 03 Feb 2026 00:15:41 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1e/live/3d4f08a0-0041-11f1-a18d-b15f01569129.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Can you name the line-ups from Chelsea's last away win at Arsenal?]]></title>
       <description><![CDATA[Chelsea must end a run of four years without a win at Arsenal to have any chance of reaching the Carabao Cup final - can you recall who played in their last victorious side at Emirates Stadium?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgqejz30dgzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgqejz30dgzo</guid>
       <pubDate>Tue, 03 Feb 2026 08:30:49 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6d8/live/b771dd50-fd27-11f0-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Is Benzema joining rivals behind Ronaldo's frustration in Saudi Arabia?]]></title>
+      <description><![CDATA[Cristiano Ronaldo's future at Al-Nassr is plunged into doubt after he is left out of their squad for Monday's Saudi Pro League game against Al-Riyadh. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn56d999p91o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn56d999p91o</guid>
+      <pubDate>Mon, 02 Feb 2026 19:12:07 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c66/live/f563e5e0-0029-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Everton sign Chelsea winger George on loan]]></title>
@@ -200,36 +216,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/847f/live/4ef737c0-00d3-11f1-aa82-6f1782137694.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Palace sign Strand Larsen in deal worth up to £48m but McNeil loan off]]></title>
-      <description><![CDATA[Crystal Palace sign striker Jorgen Strand Larsen from Wolves in a club-record deal worth up to £48m.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c62re2gdxqqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62re2gdxqqo</guid>
-      <pubDate>Mon, 02 Feb 2026 21:30:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c51d/live/bdcef140-006c-11f1-b49c-93e7b72bd9b3.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Adamu, Arthur & Mvuka join Celtic on loan]]></title>
       <description><![CDATA[Celtic have signed Austria striker Junior Adamu from Bundesliga club Freiburg, Brentford centre-half Benjamin Arthur and Lorient winger Joel Mvuka, all on loan to the end of the season.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c99kdgge92ko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c99kdgge92ko</guid>
       <pubDate>Tue, 03 Feb 2026 00:40:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ac4/live/92b69980-009a-11f1-a8b8-bdd2c5f9bcad.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Lookman joins Atletico - and will set new record]]></title>
-      <description><![CDATA[Atletico Madrid sign Nigeria forward Ademola Lookman, 28, from Atalanta for £30.3m.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgpy248823o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgpy248823o</guid>
-      <pubDate>Mon, 02 Feb 2026 18:03:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bf0/live/c8ff1750-005f-11f1-9653-b9d6c7314345.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Phillips joins Sheffield United on loan - can he revive career?]]></title>
-      <description><![CDATA[Sheffield United sign Manchester City midfielder Kalvin Phillips on loan for the remainder of the season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwywzz99wwko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwywzz99wwko</guid>
-      <pubDate>Mon, 02 Feb 2026 19:54:34 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9a4/live/10ec2f80-006f-11f1-b49c-93e7b72bd9b3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Solanke scorpion kick helps Spurs fight back against Man City]]></title>
@@ -256,12 +248,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50eb/live/2c1fc2c0-ff9e-11f0-a8b8-bdd2c5f9bcad.jpg"/>
     </item>
     <item>
-      <title><![CDATA[West Ham sign Chelsea defender Disasi on loan]]></title>
-      <description><![CDATA[West Ham sign Chelsea defender Axel Disasi on loan until the end of the season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1m7v1l7glzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1m7v1l7glzo</guid>
-      <pubDate>Mon, 02 Feb 2026 23:42:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a141/live/7d6e1ce0-002e-11f1-a507-573696841dbb.jpg"/>
+      <title><![CDATA[Lookman joins Atletico - and will set new record]]></title>
+      <description><![CDATA[Atletico Madrid sign Nigeria forward Ademola Lookman, 28, from Atalanta for £30.3m.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgpy248823o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgpy248823o</guid>
+      <pubDate>Mon, 02 Feb 2026 18:03:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bf0/live/c8ff1750-005f-11f1-9653-b9d6c7314345.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Phillips joins Sheffield United on loan - can he revive career?]]></title>
+      <description><![CDATA[Sheffield United sign Manchester City midfielder Kalvin Phillips on loan for the remainder of the season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwywzz99wwko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwywzz99wwko</guid>
+      <pubDate>Mon, 02 Feb 2026 19:54:34 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9a4/live/10ec2f80-006f-11f1-b49c-93e7b72bd9b3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Forest sign defender Netz from Monchengladbach]]></title>
@@ -506,14 +506,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2a9/live/257abd90-f5fc-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Rangers squad quality 'increased', says Rohl after winter business]]></title>
-      <description><![CDATA[Danny Rohl believes Rangers have "increased the quality in the squad", even though they have reduced head count.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c150jn7vq9lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c150jn7vq9lo</guid>
-      <pubDate>Tue, 03 Feb 2026 10:29:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4210/live/8898ab50-00ea-11f1-8974-f3140348ffed.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Rangers in talks to end Matondo contract - gossip]]></title>
       <description><![CDATA[Rangers winger could make early exit and more post-transfer deadline day stories.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdx457xg4ywo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -568,6 +560,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07xlzl9892o</guid>
       <pubDate>Sun, 01 Feb 2026 14:27:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4142/live/8348b420-ff72-11f0-bce7-ab44a0df1622.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Quiz: Name 10 most expensive signings by WSL sides]]></title>
+      <description><![CDATA[The WSL transfer window shuts soon, so why not test your knowledge by naming the league's top 10 most expensive signings?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2gv01w1ldo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2gv01w1ldo</guid>
+      <pubDate>Tue, 03 Feb 2026 10:39:05 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6314/live/9900b990-00dd-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Every WSL winter window transfer]]></title>
