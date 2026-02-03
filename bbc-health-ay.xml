@@ -10,11 +10,20 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 02 Feb 2026 23:58:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 02:39:55 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Families with children battling cancer to have travel costs covered]]></title>
+      <description><![CDATA[The government sets aside £10 million a year to help families and young people under 24 access cancer treatment.
+]]></description>
+      <link>https://www.bbc.com/news/articles/c5yve1220xwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yve1220xwo</guid>
+      <pubDate>Tue, 03 Feb 2026 01:35:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd1a/live/f2db9a40-005e-11f1-9653-b9d6c7314345.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Resident doctors vote in favour of more strike action]]></title>
       <description><![CDATA[Members of the British Medical Association have backed more walkouts in the dispute over pay and jobs in England.]]></description>
@@ -215,14 +224,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y229z8m3mo</guid>
       <pubDate>Thu, 22 Jan 2026 15:54:49 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f59/live/a76bc540-f78e-11f0-8415-2b8404a6e040.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How the NHS became the battleground in the trans debate facing workplaces]]></title>
-      <description><![CDATA[What's next for employers and their staff in the aftermath of the Darlington nurses ruling?]]></description>
-      <link>https://www.bbc.com/news/articles/c7v0l25mr2ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c7v0l25mr2ro</guid>
-      <pubDate>Wed, 21 Jan 2026 11:54:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09fd/live/407b8a70-f6bf-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
