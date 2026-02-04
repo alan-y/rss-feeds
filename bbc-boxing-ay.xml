@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/boxing</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 04 Feb 2026 19:10:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 19:53:30 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/boxing/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[I don't have to throw tables - Chisora on facing Wilder]]></title>
+      <description><![CDATA[Deontay Wilder and Derek Chisora strike a friendly tone at the launch news conference for their heavyweight fight in April.]]></description>
+      <link>https://www.bbc.com/sport/boxing/articles/czej7gz6059o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/czej7gz6059o</guid>
+      <pubDate>Wed, 04 Feb 2026 19:25:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8987/live/36113d60-01f9-11f1-956b-671d50219d57.png"/>
+    </item>
     <item>
       <title><![CDATA[Dubois v Harper to headline MVP's first UK event ]]></title>
       <description><![CDATA[MVP come to the UK with a stacked card - with Caroline Dubois, Terri Harper, Chantelle Cameron and Ellie Scotney all in world title fights.]]></description>
@@ -22,6 +30,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/c4gwnexjvgpo</guid>
       <pubDate>Wed, 04 Feb 2026 16:29:15 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bbb/live/514b9d70-01e3-11f1-b7e1-afb6d0884c18.png"/>
+    </item>
+    <item>
+      <title><![CDATA['Rebuild of myself' - Wilder opens up on mental health]]></title>
+      <description><![CDATA[Former world heavyweight champion Deontay Wilder opens up about his mental health struggles, and says he's now "at peace" before his fight against Derek Chisora on 4 April at London's O2 Arena. ]]></description>
+      <link>https://www.bbc.com/sport/boxing/videos/cy05elzlp6zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/videos/cy05elzlp6zo</guid>
+      <pubDate>Wed, 04 Feb 2026 19:06:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06f8/live/515d6e60-01fc-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[Dolan thrilled by world title shot on Paul promotion ]]></title>
@@ -48,14 +64,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/427a/live/5983c830-0131-11f1-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
-      <title><![CDATA[Crocker defence set to take place in Australia]]></title>
-      <description><![CDATA[Lewis Crocker's mandatory defence of his IBF welterweight world title against Liam Paro will take place in Australia.]]></description>
-      <link>https://www.bbc.com/sport/boxing/articles/c7v0p8q9yy7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/c7v0p8q9yy7o</guid>
-      <pubDate>Tue, 03 Feb 2026 21:15:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5200/live/7ca338a0-0127-11f1-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Spooky premonitions' drive unfancied Kelly to top of boxing mountain]]></title>
       <description><![CDATA[Josh Kelly says he was getting "spooky" premonitions during fight week prior to beating Bakhram Murtazaliev for the IBF light-middleweight title.]]></description>
       <link>https://www.bbc.com/sport/boxing/articles/c3r10glrxr5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -72,20 +80,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afff/live/3d93dbc0-00ef-11f1-a8b8-bdd2c5f9bcad.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Crocker defence set to take place in Australia]]></title>
+      <description><![CDATA[Lewis Crocker's mandatory defence of his IBF welterweight world title against Liam Paro will take place in Australia.]]></description>
+      <link>https://www.bbc.com/sport/boxing/articles/c7v0p8q9yy7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/c7v0p8q9yy7o</guid>
+      <pubDate>Tue, 03 Feb 2026 21:15:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5200/live/7ca338a0-0127-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Bloodied Hennessy takes narrow win over Bouttell]]></title>
       <description><![CDATA[Francesca Hennessy stays unbeaten by narrowly defeating Ellie Bouttell in London.]]></description>
       <link>https://www.bbc.com/sport/boxing/videos/cn56nvxvp4lo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/boxing/videos/cn56nvxvp4lo</guid>
       <pubDate>Sat, 31 Jan 2026 23:01:01 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82e2/live/7960bc60-fef9-11f0-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Stevenson wins fourth world title & calls out Benn]]></title>
-      <description><![CDATA[American Shakur Stevenson dominates Teofimo Lopez to secure the WBO light-welterweight belt by unanimous decision at Madison Square Garden.]]></description>
-      <link>https://www.bbc.com/sport/boxing/articles/crle6nxz7nxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/crle6nxz7nxo</guid>
-      <pubDate>Sun, 01 Feb 2026 10:12:40 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1d9/live/dcfc5d20-ff48-11f0-861a-555f9d353c11.jpg"/>
     </item>
     <item>
       <title><![CDATA[Miller hairpiece punched off during fight]]></title>
@@ -96,20 +104,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf78/live/b4f72e10-ff50-11f0-861a-555f9d353c11.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Kraus stops Crighton in second round]]></title>
-      <description><![CDATA[Dutchman Gradus Kraus needs only two rounds to beat Britain's Boris Crighton by stoppage in their light-heavyweight bout in London.]]></description>
-      <link>https://www.bbc.com/sport/boxing/videos/c8d0n39pgd2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/videos/c8d0n39pgd2o</guid>
-      <pubDate>Sat, 31 Jan 2026 20:59:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c55/live/10ecb4c0-fefb-11f0-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Watch every episode]]></title>
       <description><![CDATA[Natasha Jonas and Chris Eubank Jr feature]]></description>
       <link>https://www.bbc.com/sport/boxing/articles/crgy3zy4meyo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/crgy3zy4meyo</guid>
       <pubDate>Sun, 28 Apr 2024 14:22:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65be/live/0a0e42b0-960e-11ef-9260-19e6a950e830.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Kraus stops Crighton in second round]]></title>
+      <description><![CDATA[Dutchman Gradus Kraus needs only two rounds to beat Britain's Boris Crighton by stoppage in their light-heavyweight bout in London.]]></description>
+      <link>https://www.bbc.com/sport/boxing/videos/c8d0n39pgd2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/videos/c8d0n39pgd2o</guid>
+      <pubDate>Sat, 31 Jan 2026 20:59:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c55/live/10ecb4c0-fefb-11f0-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[I'm going to show the world - Hennessy]]></title>
