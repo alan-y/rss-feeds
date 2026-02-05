@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 05 Feb 2026 10:39:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 11:22:42 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[36 UK infants ill after drinking contaminated baby formula]]></title>
+      <description><![CDATA[It comes after some batches made by Nestle and Danone were recalled after being contaminated with a toxin.]]></description>
+      <link>https://www.bbc.com/news/articles/c931rxnwn3lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c931rxnwn3lo</guid>
+      <pubDate>Thu, 05 Feb 2026 11:01:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c87b/live/836c8c60-027e-11f1-853d-351197b9900b.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Period blood test could offer less invasive alternative to cervical screening]]></title>
       <description><![CDATA[Looking for signs of the cancer in a more convenient way could help women access the test and prevent the disease occurring, researchers say.]]></description>
@@ -103,14 +111,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cz9vz249keno</guid>
       <pubDate>Tue, 03 Feb 2026 00:06:49 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a35f/live/7c5ed1e0-0101-11f1-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Could weight-loss jabs be behind rising gallbladder removals?]]></title>
-      <description><![CDATA[Last year, there was a 15% annual increase in the operations and surgeons want more research.]]></description>
-      <link>https://www.bbc.com/news/articles/cm24evgyyzpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cm24evgyyzpo</guid>
-      <pubDate>Fri, 30 Jan 2026 00:03:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b72/live/48c18280-fb8c-11f0-87d6-bd5fe34f0b33.jpg"/>
     </item>
     <item>
       <title><![CDATA[Trust's maternity care 'exemplary', say inspectors]]></title>
@@ -634,6 +634,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43cc/live/0f472f90-a4fd-11f0-b741-177e3e2c2fc7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Could weight-loss jabs be behind rising gallbladder removals?]]></title>
+      <description><![CDATA[Last year, there was a 15% annual increase in the operations and surgeons want more research.]]></description>
+      <link>https://www.bbc.com/news/articles/cm24evgyyzpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cm24evgyyzpo</guid>
+      <pubDate>Fri, 30 Jan 2026 00:03:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b72/live/48c18280-fb8c-11f0-87d6-bd5fe34f0b33.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[What is chickenpox and who can get an NHS vaccine?]]></title>
       <description><![CDATA[The standard NHS childhood vaccination programme will include chickenpox from 2 January 2026.]]></description>
       <link>https://www.bbc.com/news/articles/cn0rnqj52y5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -760,14 +768,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3ejky0dy47o</guid>
       <pubDate>Sun, 15 Sep 2024 00:36:40 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8ba/live/2e1fd6c0-6c40-11ef-b970-9f202720b57a.png"/>
-    </item>
-    <item>
-      <title><![CDATA[The junior doctors' strikes may be over. But is trouble ahead?]]></title>
-      <description><![CDATA[The end of the pay dispute sounded too good to be true. And now some are wondering if it might be.]]></description>
-      <link>https://www.bbc.com/news/articles/c19kdyyxzr3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c19kdyyxzr3o</guid>
-      <pubDate>Fri, 02 Aug 2024 00:43:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35c9/live/101e4910-500a-11ef-aebc-6de4d31bf5cd.png"/>
     </item>
     <item>
       <title><![CDATA[Why are resident doctors striking and how much are they paid?]]></title>
