@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 05 Feb 2026 14:42:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 15:40:04 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,6 +40,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eda/live/9b0a16a0-0268-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Alton Towers to restrict disability pass for people with ADHD and anxiety]]></title>
+      <description><![CDATA[Operator Merlin Entertainments said the pass was no longer working as intended because of increasing demand.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2gwgj4xreo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2gwgj4xreo</guid>
+      <pubDate>Thu, 05 Feb 2026 14:39:00 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dfa/live/69109ae0-0293-11f1-a1c4-c94a3ddf1d51.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Our daughter's cancer symptoms were dismissed because she was a child']]></title>
       <description><![CDATA[Isla Sneddon died in March 2025 aged 17, just six months after she was diagnosed with cancer.]]></description>
       <link>https://www.bbc.com/news/articles/cy8yz3n4ggeo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cpwngvlzgg4o</guid>
       <pubDate>Wed, 04 Feb 2026 00:34:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a3/live/aa8a26a0-012e-11f1-a8b8-bdd2c5f9bcad.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[No-one knows what to expect when you're dying, but hospices are helping me]]></title>
-      <description><![CDATA[Hospices caring for people at the end of their lives are at risk because funding is "unsustainable".]]></description>
-      <link>https://www.bbc.com/news/articles/cddgj450088o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cddgj450088o</guid>
-      <pubDate>Wed, 04 Feb 2026 06:17:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d308/live/a6dc7460-0190-11f1-9182-656f10667613.jpg"/>
     </item>
     <item>
       <title><![CDATA[Families of children with cancer to have travel costs covered]]></title>
@@ -103,6 +103,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yd3x7yreno</guid>
       <pubDate>Tue, 03 Feb 2026 16:00:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7382/live/81ddf1e0-0125-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[No-one knows what to expect when you're dying, but hospices are helping me]]></title>
+      <description><![CDATA[Hospices caring for people at the end of their lives are at risk because funding is "unsustainable".]]></description>
+      <link>https://www.bbc.com/news/articles/cddgj450088o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cddgj450088o</guid>
+      <pubDate>Wed, 04 Feb 2026 06:17:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d308/live/a6dc7460-0190-11f1-9182-656f10667613.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hospital disruption continues after fire]]></title>
@@ -224,14 +232,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c78v118xpyxo</guid>
       <pubDate>Wed, 28 Jan 2026 06:23:30 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4302/live/36634720-fc29-11f0-a47f-d352a7d9988a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I spent £2,000 on one event': Why Gen Z is obsessed with Hyrox]]></title>
-      <description><![CDATA[How young millennials and Generation Z - people in their twenties to early forties - have become obsessed with this fitness craze.]]></description>
-      <link>https://www.bbc.com/news/articles/cj0nmj72v8ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj0nmj72v8ro</guid>
-      <pubDate>Mon, 26 Jan 2026 00:45:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8d7/live/bd1afc30-f216-11f0-8f9d-7304521a922a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
