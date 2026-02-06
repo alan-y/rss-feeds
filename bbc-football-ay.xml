@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 14:03:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 15:03:27 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -37,7 +37,7 @@
       <link>https://www.bbc.com/sport/football/articles/crlel3dyzdzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crlel3dyzdzo</guid>
       <pubDate>Fri, 06 Feb 2026 13:45:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52f2/live/aa12eee0-035f-11f1-b70d-615d82f2045a.jpg"/>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33f1/live/d57283d0-0368-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Casemiro revived his Man Utd career]]></title>
@@ -54,6 +54,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn7j0p61n80o</guid>
       <pubDate>Fri, 06 Feb 2026 10:29:15 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Oxlade-Chamberlain ready for short-term Celtic move, says O'Neill]]></title>
+      <description><![CDATA[Alex Oxlade-Chamberlain will have a medical on Saturday before signing with Celtic for the remainder of the season, says manager Martin O'Neill.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9313gx4d10o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9313gx4d10o</guid>
+      <pubDate>Fri, 06 Feb 2026 14:34:50 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e09/live/b48a2430-035d-11f1-bab5-81d0d0b0abce.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ex-players have 'duty of responsibility' as pundits - Van Dijk]]></title>
@@ -80,14 +88,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb8/live/de829690-033b-11f1-9d05-c7b737bbaef1.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Leicester urged to 'take medicine' and move on after six-point penalty]]></title>
-      <description><![CDATA[Leicester City "should take their medicine" and accept their points penalty for breaking spending rules, says former Foxes striker Matty Fryatt.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1lzlgr0v7yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1lzlgr0v7yo</guid>
-      <pubDate>Fri, 06 Feb 2026 13:47:09 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c3/live/07392330-0353-11f1-8dce-5f79cab4f7bf.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[FPL talking point: Double up on Arsenal defenders]]></title>
       <description><![CDATA[With a desirable set of fixtures, it is time to put three Arsenal players into your Fantasy Premier League team.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c205xpn2n8go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -112,12 +112,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6321/live/7f1b5290-01ed-11f1-9972-d3f265c101c6.png"/>
     </item>
     <item>
+      <title><![CDATA[Leicester urged to 'take medicine and move on' after six-point penalty]]></title>
+      <description><![CDATA[Leicester City "should take their medicine" and accept their points penalty for breaking spending rules, says former Foxes striker Matty Fryatt.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1lzlgr0v7yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1lzlgr0v7yo</guid>
+      <pubDate>Fri, 06 Feb 2026 13:47:09 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c3/live/07392330-0353-11f1-8dce-5f79cab4f7bf.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[All your FPL stats and Premier League team news in one place]]></title>
       <description><![CDATA[Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.]]></description>
       <link>https://www.bbc.com/sport/articles/cx2w2pk5plko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/cx2w2pk5plko</guid>
       <pubDate>Fri, 06 Feb 2026 13:36:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f21/live/e7231920-9917-11f0-af62-91486a511a31.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Aberdeen v Motherwell postponed after heavy rain]]></title>
+      <description><![CDATA[Aberdeen's Scottish Cup fifth-round tie with Motherwell on Saturday evening has been postponed after heavy rain in the north-east.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cql4l54wrl9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cql4l54wrl9o</guid>
+      <pubDate>Fri, 06 Feb 2026 14:22:39 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16e4/live/157503d0-0360-11f1-bab5-81d0d0b0abce.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why Man Utd are taking their time over manager decision]]></title>
@@ -136,28 +152,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a29/live/f2a6e6f0-02d5-11f1-818d-6b893d658ff1.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Arsenal lack of respect behind outburst - Rosenior]]></title>
-      <description><![CDATA[Chelsea boss Liam Rosenior says Arsenal were affecting his side's warm-up prior to the second leg of their Carabao Cup semi-final at Emirates Stadium.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c70121glzrlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70121glzrlo</guid>
-      <pubDate>Thu, 05 Feb 2026 15:36:11 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb49/live/bb8b4f30-02a3-11f1-83c7-d3f8c9b1ecc5.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why is every EFL game kicking off one minute later this weekend?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team explains why matches in all three English Football League divisions are kicking off one minute later than usual this weekend.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdx453d21kgo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdx453d21kgo</guid>
       <pubDate>Fri, 06 Feb 2026 10:02:29 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4226/live/f1061090-0056-11f1-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Celtic chairman calls for unity over fan boycott plans]]></title>
-      <description><![CDATA[Celtic interim chairman Brian Wilson calls for "unity behind the team" amid plans from some fans to boycott Saturday's Scottish Cup match against Dundee.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2gw1zk84eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2gw1zk84eo</guid>
-      <pubDate>Thu, 05 Feb 2026 20:47:32 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2808/live/f5a33d60-02dd-11f1-aed8-6f159d8910de.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why time is running out for Milan's iconic San Siro]]></title>
@@ -212,20 +212,12 @@ But which of his 206 Toon goals stand out? Alan picked his favourites earlier th
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c77/live/d552cd70-02d1-11f1-b5e2-dd58fc65f0f6.png"/>
     </item>
     <item>
-      <title><![CDATA[Same again please Bruno - FPL team of the week]]></title>
-      <description><![CDATA[Bruno Fernandes retains the captain's armband in the FPL team of the week after his 20-point haul in gameweek 24.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp9jgkxdg93o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp9jgkxdg93o</guid>
-      <pubDate>Thu, 05 Feb 2026 09:02:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66bd/live/13ab2a90-0142-11f1-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Free agent Oxlade-Chamberlain close to Celtic move]]></title>
-      <description><![CDATA[Former Arsenal and Liverpool midfielder Alex Oxlade-Chamberlain close to joining Scottish champions Celtic.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c79r2xyq192o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c79r2xyq192o</guid>
-      <pubDate>Thu, 05 Feb 2026 13:17:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3453/live/879d5fa0-0290-11f1-9e0e-291cedfbaca5.jpg"/>
+      <title><![CDATA[Arsenal lack of respect behind outburst - Rosenior]]></title>
+      <description><![CDATA[Chelsea boss Liam Rosenior says Arsenal were affecting his side's warm-up prior to the second leg of their Carabao Cup semi-final at Emirates Stadium.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c70121glzrlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70121glzrlo</guid>
+      <pubDate>Thu, 05 Feb 2026 15:36:11 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb49/live/bb8b4f30-02a3-11f1-83c7-d3f8c9b1ecc5.jpg"/>
     </item>
     <item>
       <title><![CDATA[How to follow the Premier League on the BBC this week]]></title>
@@ -236,12 +228,12 @@ But which of his 206 Toon goals stand out? Alan picked his favourites earlier th
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eea5/live/83709fb0-02ad-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Man Utd prepare to honour Munich disaster victims]]></title>
-      <description><![CDATA[It is impossible to fully understand the magnitude of the  crash that killed 23 people, eight of them Manchester United players, until you work for the club, says women's coach Marc Skinner.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g4npv518eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g4npv518eo</guid>
-      <pubDate>Thu, 05 Feb 2026 15:13:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5114/live/2b6bfd50-0276-11f1-b5e2-dd58fc65f0f6.jpg"/>
+      <title><![CDATA[Same again please Bruno - FPL team of the week]]></title>
+      <description><![CDATA[Bruno Fernandes retains the captain's armband in the FPL team of the week after his 20-point haul in gameweek 24.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp9jgkxdg93o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp9jgkxdg93o</guid>
+      <pubDate>Thu, 05 Feb 2026 09:02:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66bd/live/13ab2a90-0142-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Solanke scorpion kick helps Spurs fight back against Man City]]></title>
@@ -268,12 +260,28 @@ But which of his 206 Toon goals stand out? Alan picked his favourites earlier th
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50eb/live/2c1fc2c0-ff9e-11f0-a8b8-bdd2c5f9bcad.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Man Utd prepare to honour Munich disaster victims]]></title>
+      <description><![CDATA[It is impossible to fully understand the magnitude of the  crash that killed 23 people, eight of them Manchester United players, until you work for the club, says women's coach Marc Skinner.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g4npv518eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g4npv518eo</guid>
+      <pubDate>Thu, 05 Feb 2026 15:13:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5114/live/2b6bfd50-0276-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Are Chelsea-Strasbourg transfer deals bad for football?]]></title>
       <description><![CDATA[Chelsea and Strasbourg have completed 12 transfer deals this summer. Is it out of the ordinary, and might Fifa get involved?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c89qzpqe1qko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c89qzpqe1qko</guid>
       <pubDate>Thu, 05 Feb 2026 12:00:25 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7958/live/0c118790-01e5-11f1-88cc-958b71e0ce18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Celtic chairman calls for unity over fan boycott plans]]></title>
+      <description><![CDATA[Celtic interim chairman Brian Wilson calls for "unity behind the team" amid plans from some fans to boycott Saturday's Scottish Cup match against Dundee.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2gw1zk84eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2gw1zk84eo</guid>
+      <pubDate>Thu, 05 Feb 2026 20:47:32 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2808/live/f5a33d60-02dd-11f1-aed8-6f159d8910de.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why are Real Madrid players training in masks?]]></title>
@@ -308,20 +316,20 @@ But which of his 206 Toon goals stand out? Alan picked his favourites earlier th
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a43/live/fca55ce0-029e-11f1-83c7-d3f8c9b1ecc5.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Is Guardiola right to be angry that Guehi cannot play in Carabao Cup final? ]]></title>
-      <description><![CDATA[Rules prevent Marc Guehi from playing for Manchester City against Arsenal in the Carabao Cup final. Is Pep Guardiola right to be angry about it? ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c98jx9wgjj0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98jx9wgjj0o</guid>
-      <pubDate>Thu, 05 Feb 2026 13:24:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1e1/live/5f6492e0-0297-11f1-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why Szmodics deal signals Derby's Premier League intent]]></title>
       <description><![CDATA[The deadline day signing of forward Sammie Szmodics is proof of Derby ambition to reach the Premier League this season, says Rams CEO Stephen Pearce.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8x901vv4nno?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8x901vv4nno</guid>
       <pubDate>Thu, 05 Feb 2026 12:25:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b5e/live/09751510-0285-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Is Guardiola right to be angry that Guehi cannot play in Carabao Cup final? ]]></title>
+      <description><![CDATA[Rules prevent Marc Guehi from playing for Manchester City against Arsenal in the Carabao Cup final. Is Pep Guardiola right to be angry about it? ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c98jx9wgjj0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98jx9wgjj0o</guid>
+      <pubDate>Thu, 05 Feb 2026 13:24:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1e1/live/5f6492e0-0297-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Horneland a leading candidate for Aberdeen job]]></title>
@@ -354,22 +362,6 @@ But which of his 206 Toon goals stand out? Alan picked his favourites earlier th
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgnxg8wg24o</guid>
       <pubDate>Wed, 04 Feb 2026 17:33:03 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee7f/live/3435eeb0-01ee-11f1-bb50-17f4fe9ab2e3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Cologne youth team break record with 50,000 crowd]]></title>
-      <description><![CDATA[Cologne's Under-19s break the attendance record for a Uefa Youth League match with 50,000 people watching the side take on Inter Milan.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy84ve0kqxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy84ve0kqxo</guid>
-      <pubDate>Thu, 05 Feb 2026 12:42:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8da/live/3c73eab0-028d-11f1-bf01-7719d5c56e6e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[More questions than answers in challenging Newcastle season]]></title>
-      <description><![CDATA[Holders Newcastle United were knocked out of the Carabao Cup by Manchester City on Wednesday night and a challenging season shows no sign of relenting.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c17zkkjnqpno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c17zkkjnqpno</guid>
-      <pubDate>Thu, 05 Feb 2026 00:13:07 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a5/live/04850cf0-0225-11f1-b895-850623d505b7.jpg"/>
     </item>
     <item>
       <title><![CDATA['Stronger, quicker, better, smarter than everyone']]></title>
@@ -532,14 +524,6 @@ But which of his 206 Toon goals stand out? Alan picked his favourites earlier th
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2a9/live/257abd90-f5fc-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What to look out for in Scottish Cup last 16]]></title>
-      <description><![CDATA[Potential giant-killings, players to watch, and how to follow Scottish Cup last-16 weekend on BBC Scotland.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgj2lgkrego?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgj2lgkrego</guid>
-      <pubDate>Fri, 06 Feb 2026 12:24:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5215/live/74d55340-029b-11f1-b7e1-afb6d0884c18.png"/>
-    </item>
-    <item>
       <title><![CDATA[Scotland fans left in limbo over World Cup tickets hold-up]]></title>
       <description><![CDATA[Scotland fans who applied for tickets were told to expect a confirmation email on Thursday - but some are still waiting.]]></description>
       <link>https://www.bbc.com/news/articles/c98p810g55zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -548,12 +532,12 @@ But which of his 206 Toon goals stand out? Alan picked his favourites earlier th
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/941c/live/a23eafc0-0345-11f1-a423-8bf34c43c5e3.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Napoli want extended deal for McTominay - gossip]]></title>
-      <description><![CDATA[Serie A champions seek new deal for their Scottish hero, with Celtic on the brink of signing a big-name free agent...]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3383n787rmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3383n787rmo</guid>
-      <pubDate>Fri, 06 Feb 2026 07:57:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56a7/live/166d03c0-0331-11f1-9972-d3f265c101c6.png"/>
+      <title><![CDATA[What to look out for in Scottish Cup last 16]]></title>
+      <description><![CDATA[Potential giant-killings, players to watch, and how to follow Scottish Cup last-16 weekend on BBC Scotland.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgj2lgkrego?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgj2lgkrego</guid>
+      <pubDate>Fri, 06 Feb 2026 12:24:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5215/live/74d55340-029b-11f1-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
       <title><![CDATA[Barca president unhappy at teen's 'unpleasant' PSG move]]></title>
