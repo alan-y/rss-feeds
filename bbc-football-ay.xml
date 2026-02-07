@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 07 Feb 2026 11:51:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 12:46:03 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -112,30 +112,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c5a/live/b01a64d0-039b-11f1-971d-8f1a32e46db3.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How Casemiro revived his Man Utd career]]></title>
-      <description><![CDATA[Casemiro's Manchester United career looked to be petering out, but the veteran midfielder has found a return to form this season. ]]></description>
-      <link>https://www.bbc.com/sport/articles/cx2gwlymxego?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cx2gwlymxego</guid>
-      <pubDate>Fri, 06 Feb 2026 08:12:37 GMT</pubDate>
-      <media:thumbnail width="240" height="159" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18d6/live/b67e0e50-0344-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Leicester dream torn apart by unprecedented spending' ]]></title>
-      <description><![CDATA[Leicester, Premier League champions a decade ago, face a relegation fight after being docked 10 points for financial rule breaches.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz6y6jy1xdwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz6y6jy1xdwo</guid>
-      <pubDate>Fri, 06 Feb 2026 16:41:22 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/4f8012d0-0370-11f1-b2b0-9334652d5b50.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ronaldo misses second game in a row for Al-Nassr]]></title>
-      <description><![CDATA[Cristiano Ronaldo is left out of the Al-Nassr squad for a second game in a row amid doubts over his future at the Saudi Arabian club. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crlelk5rdelo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crlelk5rdelo</guid>
-      <pubDate>Fri, 06 Feb 2026 20:52:54 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00a5/live/b587b7e0-037a-11f1-87c9-3368cc80f36d.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Fiery scenes in stands halt Bundesliga match]]></title>
       <description><![CDATA[Watch the moment a referee is forced to stop play in the match between Union Berlin and Eintracht Frankfurt in the Bundesliga, after the home fans set off flares in the stands in celebration of their 60th birthday.]]></description>
       <link>https://www.bbc.com/sport/football/videos/clywy36y5z7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -176,6 +152,30 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c9/live/88464190-0116-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How Casemiro revived his Man Utd career]]></title>
+      <description><![CDATA[Casemiro's Manchester United career looked to be petering out, but the veteran midfielder has found a return to form this season. ]]></description>
+      <link>https://www.bbc.com/sport/articles/cx2gwlymxego?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cx2gwlymxego</guid>
+      <pubDate>Fri, 06 Feb 2026 08:12:37 GMT</pubDate>
+      <media:thumbnail width="240" height="159" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18d6/live/b67e0e50-0344-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Leicester dream torn apart by unprecedented spending' ]]></title>
+      <description><![CDATA[Leicester, Premier League champions a decade ago, face a relegation fight after being docked 10 points for financial rule breaches.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz6y6jy1xdwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz6y6jy1xdwo</guid>
+      <pubDate>Fri, 06 Feb 2026 16:41:22 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/4f8012d0-0370-11f1-b2b0-9334652d5b50.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ronaldo misses second game in a row for Al-Nassr]]></title>
+      <description><![CDATA[Cristiano Ronaldo is left out of the Al-Nassr squad for a second game in a row amid doubts over his future at the Saudi Arabian club. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crlelk5rdelo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crlelk5rdelo</guid>
+      <pubDate>Fri, 06 Feb 2026 20:52:54 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00a5/live/b587b7e0-037a-11f1-87c9-3368cc80f36d.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Ex-players have 'duty of responsibility' as pundits - Van Dijk]]></title>
       <description><![CDATA[Former players turned pundits have a "duty of responsibility" to the new generation of footballers when commenting on their performances, Liverpool captain Virgil van Dijk says.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3wzw6we5l4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -206,30 +206,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c205xpn2n8go</guid>
       <pubDate>Fri, 06 Feb 2026 08:40:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad3e/live/e98434d0-0279-11f1-853d-351197b9900b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ex-Villa striker Duran set for sixth club aged 22]]></title>
-      <description><![CDATA[Former Aston Villa striker Jhon Duran is set to join the sixth club of his career at the age of just 22.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp878md787xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp878md787xo</guid>
-      <pubDate>Fri, 06 Feb 2026 11:44:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb8/live/de829690-033b-11f1-9d05-c7b737bbaef1.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Knee injury could scupper Mateta's World Cup 'dream']]></title>
-      <description><![CDATA[Crystal Palace manager Oliver Glasner indicates the injury that scuppered Jean-Philippe Mateta's move to AC Milan could also thwart the striker's "dream" of playing for France at the World Cup, if surgery is needed.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c62v2e5ryr0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62v2e5ryr0o</guid>
-      <pubDate>Fri, 06 Feb 2026 15:34:03 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ee5/live/cbe09e10-036d-11f1-b2b0-9334652d5b50.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Five things in the EFL: Unlikely six-pointers and falls from grace]]></title>
-      <description><![CDATA[BBC Sport takes a look at the intriguing stories continuing to unfold across the EFL this weekend.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c20dqp45nxlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20dqp45nxlo</guid>
-      <pubDate>Fri, 06 Feb 2026 08:01:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6321/live/7f1b5290-01ed-11f1-9972-d3f265c101c6.png"/>
     </item>
     <item>
       <title><![CDATA[Talbi rocket seals decisive Sunderland win over Burnley]]></title>
@@ -278,6 +254,30 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0mk7nknk7xo</guid>
       <pubDate>Sat, 31 Jan 2026 22:33:50 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ef/live/83c841a0-fef4-11f0-a8b8-bdd2c5f9bcad.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ex-Villa striker Duran set for sixth club aged 22]]></title>
+      <description><![CDATA[Former Aston Villa striker Jhon Duran is set to join the sixth club of his career at the age of just 22.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp878md787xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp878md787xo</guid>
+      <pubDate>Fri, 06 Feb 2026 11:44:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb8/live/de829690-033b-11f1-9d05-c7b737bbaef1.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Knee injury could scupper Mateta's World Cup 'dream']]></title>
+      <description><![CDATA[Crystal Palace manager Oliver Glasner indicates the injury that scuppered Jean-Philippe Mateta's move to AC Milan could also thwart the striker's "dream" of playing for France at the World Cup, if surgery is needed.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c62v2e5ryr0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62v2e5ryr0o</guid>
+      <pubDate>Fri, 06 Feb 2026 15:34:03 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ee5/live/cbe09e10-036d-11f1-b2b0-9334652d5b50.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Five things in the EFL: Unlikely six-pointers and falls from grace]]></title>
+      <description><![CDATA[BBC Sport takes a look at the intriguing stories continuing to unfold across the EFL this weekend.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c20dqp45nxlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20dqp45nxlo</guid>
+      <pubDate>Fri, 06 Feb 2026 08:01:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6321/live/7f1b5290-01ed-11f1-9972-d3f265c101c6.png"/>
     </item>
     <item>
       <title><![CDATA[Why is every EFL game kicking off one minute later this weekend?]]></title>
@@ -350,30 +350,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1dkvy56vn3o</guid>
       <pubDate>Thu, 05 Feb 2026 20:36:40 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f9/live/48548db0-02d0-11f1-bc28-e1d66422bd21.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Teenager's Wales dream at risk over citizenship rejection]]></title>
-      <description><![CDATA[Talented young footballer Enzo Romano has been left in limbo over whether he will be able to play for Wales after his application for British citizenship was rejected.]]></description>
-      <link>https://www.bbc.com/news/articles/crlegrwexw0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/crlegrwexw0o</guid>
-      <pubDate>Thu, 05 Feb 2026 19:21:08 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a0/live/32a05880-02c8-11f1-b5e2-dd58fc65f0f6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why Szmodics deal signals Derby's Premier League intent]]></title>
-      <description><![CDATA[The deadline day signing of forward Sammie Szmodics is proof of Derby ambition to reach the Premier League this season, says Rams CEO Stephen Pearce.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8x901vv4nno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8x901vv4nno</guid>
-      <pubDate>Thu, 05 Feb 2026 12:25:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b5e/live/09751510-0285-11f1-b5e2-dd58fc65f0f6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Is Guardiola right to be angry that Guehi cannot play in Carabao Cup final? ]]></title>
-      <description><![CDATA[Rules prevent Marc Guehi from playing for Manchester City against Arsenal in the Carabao Cup final. Is Pep Guardiola right to be angry about it? ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c98jx9wgjj0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98jx9wgjj0o</guid>
-      <pubDate>Thu, 05 Feb 2026 13:24:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1e1/live/5f6492e0-0297-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Penalty rescues point for Union Berlin against 10-man Frankfurt]]></title>
