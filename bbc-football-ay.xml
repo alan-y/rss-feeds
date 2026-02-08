@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 13:43:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 14:27:20 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,28 +48,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ebe/live/63745a90-045f-11f1-9972-d3f265c101c6.png"/>
     </item>
     <item>
-      <title><![CDATA['I'm not doing my job well enough' - but is Howe now under pressure?]]></title>
-      <description><![CDATA[Newcastle boss Eddie Howe admitted he is "not doing my job well enough" after Saturday's defeat by Brentford - but is he under pressure?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgngxy4zyno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgngxy4zyno</guid>
-      <pubDate>Sat, 07 Feb 2026 22:54:13 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d33/live/e44b9020-0478-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Liverpool signing Jacquet injures shoulder]]></title>
       <description><![CDATA[Defender Jeremy Jacquet, who will join Liverpool at the end of the season, injures a shoulder in Rennes' defeat at Lens.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj325e156evo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj325e156evo</guid>
       <pubDate>Sun, 08 Feb 2026 07:56:51 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7608/live/25a040c0-04bf-11f1-a499-f1ea1aa8296c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Cleworth's rise from National League to brink of Premier League]]></title>
-      <description><![CDATA[Max Cleworth becomes the club's leading appearance-maker during Phil Parkinson's tenure in Wrexham's defeat against Millwall.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2lxdw3j7yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2lxdw3j7yo</guid>
-      <pubDate>Sun, 08 Feb 2026 11:16:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25df/live/bff6d7f0-02a9-11f1-83b0-21555a6f44a1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ouattara scores late to give Brentford win over Newcastle]]></title>
@@ -128,6 +112,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b7/live/ec098d20-045b-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
+      <title><![CDATA['I'm not doing my job well enough' - but is Howe now under pressure?]]></title>
+      <description><![CDATA[Newcastle boss Eddie Howe admitted he is "not doing my job well enough" after Saturday's defeat by Brentford - but is he under pressure?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgngxy4zyno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgngxy4zyno</guid>
+      <pubDate>Sat, 07 Feb 2026 22:54:13 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d33/live/e44b9020-0478-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Cleworth's rise from National League to brink of Premier League]]></title>
+      <description><![CDATA[Max Cleworth becomes the club's leading appearance-maker during Phil Parkinson's tenure in Wrexham's defeat against Millwall.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2lxdw3j7yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2lxdw3j7yo</guid>
+      <pubDate>Sun, 08 Feb 2026 11:16:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25df/live/bff6d7f0-02a9-11f1-83b0-21555a6f44a1.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Are West Ham single-handedly making relegation battle interesting?]]></title>
       <description><![CDATA[BBC Sport looks at how things are shaping up as the fight for Premier League survival hots up.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn9z9rdg5e0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -150,14 +150,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c87r7nzxl0zo</guid>
       <pubDate>Sat, 07 Feb 2026 16:56:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86a8/live/2e062d40-0444-11f1-b5e2-dd58fc65f0f6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Celtic 'perfect fit' as Oxlade-Chamberlain signs]]></title>
-      <description><![CDATA[Alex Oxlade-Chamberlain says Celtic is the "perfect fit" for him after joining the Scottish champions on a deal to the summer.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cevnvmpedj8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cevnvmpedj8o</guid>
-      <pubDate>Sat, 07 Feb 2026 16:36:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a69/live/87c05000-0448-11f1-ac32-dfe0213e34da.jpg"/>
     </item>
     <item>
       <title><![CDATA[Positivity key to West Ham's upturn in form - Shearer]]></title>
@@ -200,6 +192,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f35/live/6e789f60-0436-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Celtic 'perfect fit' as Oxlade-Chamberlain signs]]></title>
+      <description><![CDATA[Alex Oxlade-Chamberlain says Celtic is the "perfect fit" for him after joining the Scottish champions on a deal to the summer.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cevnvmpedj8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cevnvmpedj8o</guid>
+      <pubDate>Sat, 07 Feb 2026 16:36:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a69/live/87c05000-0448-11f1-ac32-dfe0213e34da.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Leicester's nightmare week and Millwall push for top two - Sam Parkin's EFL takeaways]]></title>
       <description><![CDATA[EFL pundit Sam Parkin delivers his verdict on the happenings across the EFL, from the promotion battles to the relegation scraps.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx202w8vgrno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -230,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3kr07kqpeo</guid>
       <pubDate>Thu, 05 Feb 2026 20:09:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5284/live/32ff3250-01c0-11f1-9972-d3f265c101c6.png"/>
-    </item>
-    <item>
-      <title><![CDATA[A result that puts Leeds safe, Forest in trouble - and Dyche in doubt?]]></title>
-      <description><![CDATA[After Leeds' win over Nottingham Forest on Friday, BBC Sport looks at what it all means for the Premier League relegation battle.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp9j92l7rd3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp9j92l7rd3o</guid>
-      <pubDate>Fri, 06 Feb 2026 23:57:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8989/live/68a85b20-03af-11f1-9972-d3f265c101c6.png"/>
     </item>
     <item>
       <title><![CDATA[West Brom out of drop zone after draw with Stoke]]></title>
@@ -479,22 +471,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3r1gjzzvxzo</guid>
       <pubDate>Fri, 06 Feb 2026 08:32:43 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c1b/live/588fab00-0330-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd prepare to honour Munich disaster victims]]></title>
-      <description><![CDATA[It is impossible to fully understand the magnitude of the  crash that killed 23 people, eight of them Manchester United players, until you work for the club, says women's coach Marc Skinner.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g4npv518eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g4npv518eo</guid>
-      <pubDate>Thu, 05 Feb 2026 15:13:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5114/live/2b6bfd50-0276-11f1-b5e2-dd58fc65f0f6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ex-England netball boss Neville takes Stockport role]]></title>
-      <description><![CDATA[Former England netball player and head coach Tracey Neville is appointed managing director of the Stockport County Women football team.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn7j0j1ex43o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn7j0j1ex43o</guid>
-      <pubDate>Thu, 05 Feb 2026 14:32:14 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca95/live/b5d19100-029c-11f1-9313-c754e95cbd67.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cages, crushes and stabbings - is European away safety getting worse?]]></title>
