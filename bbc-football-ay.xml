@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 21:56:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 22:27:54 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -32,6 +32,22 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4895/live/64efc830-0529-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Celtic to face Rangers in Scottish Cup quarter-finals]]></title>
+      <description><![CDATA[Rangers host Old Firm rivals Celtic and holders Aberdeen face a potential trip to Dunfermline in the Scottish Cup quarter-finals.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgk58plxgko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgk58plxgko</guid>
+      <pubDate>Sun, 08 Feb 2026 22:12:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b93/live/ea62d130-053b-11f1-aa33-33a74bcc4efb.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
+      <description><![CDATA[After every round of Premier League matches this season Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0j5pd3x0glo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0j5pd3x0glo</guid>
+      <pubDate>Sun, 08 Feb 2026 22:04:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b508/live/0c6a9dd0-0537-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['I know who I am' - Chelsea boss Bompastor defiant after tough week]]></title>
       <description><![CDATA[Chelsea manager Sonia Bompastor has not had many tougher weeks in her managerial career and was defiant following their win at Tottenham.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cjwz3nw5xz2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -46,14 +62,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgrdel2dvqeo</guid>
       <pubDate>Sun, 08 Feb 2026 20:00:10 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcc7/live/f16ecd30-0527-11f1-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Tonali high on Man Utd shortlist - Monday's gossip ]]></title>
-      <description><![CDATA[Sandro Tonali high on Manchester United's shortlist to replace Casrmiro, Liverpool open to letting Federico Chiesa leave, Tottenham do not intend to turn Randal Kolo Muani's loan move permanent, plus more. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crl4rj4zw55o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crl4rj4zw55o</guid>
-      <pubDate>Sun, 08 Feb 2026 21:45:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b05b/live/5a5792d0-052a-11f1-9972-d3f265c101c6.png"/>
     </item>
     <item>
       <title><![CDATA[Smith's versatility and 'contagious' positivity driving Arsenal]]></title>
@@ -104,6 +112,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f20c/live/157e7390-052a-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Tonali high on Man Utd shortlist - Monday's gossip ]]></title>
+      <description><![CDATA[Sandro Tonali high on Manchester United's shortlist to replace Casrmiro, Liverpool open to letting Federico Chiesa leave, Tottenham do not intend to turn Randal Kolo Muani's loan move permanent, plus more. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crl4rj4zw55o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crl4rj4zw55o</guid>
+      <pubDate>Sun, 08 Feb 2026 21:45:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b05b/live/5a5792d0-052a-11f1-9972-d3f265c101c6.png"/>
+    </item>
+    <item>
       <title><![CDATA[The new top-flight Canadian club inspired by Athletic Bilbao]]></title>
       <description><![CDATA[Supra du Quebec kick off their inaugural Canadian Premier League in April and will field only players born or raised in the province.]]></description>
       <link>https://www.bbc.com/sport/articles/cly94d9engpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -112,20 +128,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7627/live/1886a4e0-0345-11f1-9d05-c7b737bbaef1.jpg"/>
     </item>
     <item>
-      <title><![CDATA['I'm not doing my job well enough' - but is Howe now under pressure?]]></title>
-      <description><![CDATA[Newcastle boss Eddie Howe admitted he is "not doing my job well enough" after Saturday's defeat by Brentford - but is he under pressure?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgngxy4zyno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgngxy4zyno</guid>
-      <pubDate>Sat, 07 Feb 2026 22:54:13 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d33/live/e44b9020-0478-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How Ekitike has already become a Liverpool cult hero]]></title>
       <description><![CDATA[Inside the rise of Hugo Ekitike, adapting to life in England, connecting with Florian Wirtz and why he's already a fan favourite.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3r1gwpjn8vo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3r1gwpjn8vo</guid>
       <pubDate>Sun, 08 Feb 2026 06:14:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/768c/live/dd04cd30-035c-11f1-bab5-81d0d0b0abce.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['I'm not doing my job well enough' - but is Howe now under pressure?]]></title>
+      <description><![CDATA[Newcastle boss Eddie Howe admitted he is "not doing my job well enough" after Saturday's defeat by Brentford - but is he under pressure?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgngxy4zyno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgngxy4zyno</guid>
+      <pubDate>Sat, 07 Feb 2026 22:54:13 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d33/live/e44b9020-0478-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cleworth's rise from National League to brink of Premier League]]></title>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj325e156evo</guid>
       <pubDate>Sun, 08 Feb 2026 07:56:51 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7608/live/25a040c0-04bf-11f1-a499-f1ea1aa8296c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How 'irresponsible' captain Romero's week ended in 'perfect storm']]></title>
-      <description><![CDATA[Thomas Frank admits Tottenham captain Cristian Romero's week ended in a "perfect storm" with a red card at Manchester United.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c87r7nzxl0zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c87r7nzxl0zo</guid>
-      <pubDate>Sat, 07 Feb 2026 16:56:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86a8/live/2e062d40-0444-11f1-b5e2-dd58fc65f0f6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Barry-Murphy criticises League One refereeing standards]]></title>
-      <description><![CDATA[Cardiff boss Brian Barry-Murphy says refereeing in League One is "getting gradually worse" following his side's 10-man victory over Rotherham.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce3g1v1qypxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3g1v1qypxo</guid>
-      <pubDate>Sun, 08 Feb 2026 16:03:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3937/live/11c74450-04f0-11f1-8bb6-81a84917ac9a.jpg"/>
     </item>
     <item>
       <title><![CDATA['It hurts me deep' - Cuthbert on Chelsea's form]]></title>
@@ -208,6 +208,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/840d/live/697593e0-0528-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Barry-Murphy criticises League One refereeing standards]]></title>
+      <description><![CDATA[Cardiff boss Brian Barry-Murphy says refereeing in League One is "getting gradually worse" following his side's 10-man victory over Rotherham.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce3g1v1qypxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3g1v1qypxo</guid>
+      <pubDate>Sun, 08 Feb 2026 16:03:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3937/live/11c74450-04f0-11f1-8bb6-81a84917ac9a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How 'irresponsible' captain Romero's week ended in 'perfect storm']]></title>
+      <description><![CDATA[Thomas Frank admits Tottenham captain Cristian Romero's week ended in a "perfect storm" with a red card at Manchester United.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c87r7nzxl0zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c87r7nzxl0zo</guid>
+      <pubDate>Sat, 07 Feb 2026 16:56:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86a8/live/2e062d40-0444-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Unstoppable at his best' - is Palmer in World Cup picture after hat-trick?]]></title>
       <description><![CDATA[By scoring a first-half hat-trick against Wolves on Saturday, Cole Palmer provided a timely reminder of his talent, putting himself firmly in the England conversation.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cjrzrxxpzpqo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -230,14 +246,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj3vp406l82o</guid>
       <pubDate>Sat, 07 Feb 2026 22:35:42 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ede6/live/9916bb70-0473-11f1-8da3-5300ec76e3f3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Celtic 'perfect fit' as Oxlade-Chamberlain signs]]></title>
-      <description><![CDATA[Alex Oxlade-Chamberlain says Celtic is the "perfect fit" for him after joining the Scottish champions on a deal to the summer.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cevnvmpedj8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cevnvmpedj8o</guid>
-      <pubDate>Sat, 07 Feb 2026 16:36:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a69/live/87c05000-0448-11f1-ac32-dfe0213e34da.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sutton's predictions v Gladiators star Apollo]]></title>
