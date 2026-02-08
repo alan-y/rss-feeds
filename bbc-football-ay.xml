@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 06:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 07:10:03 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[How Ekitike has already become a Liverpool cult hero]]></title>
+      <description><![CDATA[Inside the rise of Hugo Ekitike, adapting to life in England, connecting with Florian Wirtz and why he's already a fan favourite.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3r1gwpjn8vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3r1gwpjn8vo</guid>
+      <pubDate>Sun, 08 Feb 2026 06:14:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/768c/live/dd04cd30-035c-11f1-bab5-81d0d0b0abce.jpg"/>
+    </item>
     <item>
       <title><![CDATA['I'm not doing my job well enough' - but is Howe now under pressure?]]></title>
       <description><![CDATA[Newcastle boss Eddie Howe admitted he is "not doing my job well enough" after Saturday's defeat by Brentford - but is he under pressure?]]></description>
@@ -40,12 +48,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa4e/live/3fe48f60-0459-11f1-aeab-c18a9552cb22.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How 'irresponsible' captain Romero's week ended in 'perfect storm']]></title>
-      <description><![CDATA[Thomas Frank admits Tottenham captain Cristian Romero's week ended in a "perfect storm" with a red card at Manchester United.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c87r7nzxl0zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c87r7nzxl0zo</guid>
-      <pubDate>Sat, 07 Feb 2026 16:56:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86a8/live/2e062d40-0444-11f1-b5e2-dd58fc65f0f6.jpg"/>
+      <title><![CDATA[Real Madrid step up Rodri interest - Sunday's gossip]]></title>
+      <description><![CDATA[Real Madrid are stepping up interest in Manchester City midfielder Rodri, Arsenal are among clubs keen on Leon Goretzka and Manchester United and Newcastle target Michael Kayode, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly1yjv0g2mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly1yjv0g2mo</guid>
+      <pubDate>Sat, 07 Feb 2026 21:56:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ebe/live/63745a90-045f-11f1-9972-d3f265c101c6.png"/>
+    </item>
+    <item>
+      <title><![CDATA[The new top-flight Canadian club inspired by Athletic Bilbao]]></title>
+      <description><![CDATA[Supra du Quebec kick off their inaugural Canadian Premier League in April and will field only players born or raised in the province.]]></description>
+      <link>https://www.bbc.com/sport/articles/cly94d9engpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cly94d9engpo</guid>
+      <pubDate>Sun, 08 Feb 2026 06:44:21 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7627/live/1886a4e0-0345-11f1-9d05-c7b737bbaef1.jpg"/>
     </item>
     <item>
       <title><![CDATA[How did Arsenal 'unlock' Sunderland's defence?]]></title>
@@ -56,12 +72,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbf7/live/cae6dc70-0478-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Real Madrid step up Rodri interest - Sunday's gossip]]></title>
-      <description><![CDATA[Real Madrid are stepping up interest in Manchester City midfielder Rodri, Arsenal are among clubs keen on Leon Goretzka and Manchester United and Newcastle target Michael Kayode, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly1yjv0g2mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly1yjv0g2mo</guid>
-      <pubDate>Sat, 07 Feb 2026 21:56:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ebe/live/63745a90-045f-11f1-9972-d3f265c101c6.png"/>
+      <title><![CDATA[How 'irresponsible' captain Romero's week ended in 'perfect storm']]></title>
+      <description><![CDATA[Thomas Frank admits Tottenham captain Cristian Romero's week ended in a "perfect storm" with a red card at Manchester United.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c87r7nzxl0zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c87r7nzxl0zo</guid>
+      <pubDate>Sat, 07 Feb 2026 16:56:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86a8/live/2e062d40-0444-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ouattara scores late to give Brentford win over Newcastle]]></title>
@@ -216,20 +232,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9294/live/3515d0c0-0446-11f1-ac32-dfe0213e34da.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Sutton's predictions v Gladiators star Apollo]]></title>
+      <description><![CDATA[BBC Sport football expert Chris Sutton takes on Gladiators star Apollo and AI with his predictions for this week's Premier League fixtures.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce3kr07kqpeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3kr07kqpeo</guid>
+      <pubDate>Thu, 05 Feb 2026 20:09:47 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5284/live/32ff3250-01c0-11f1-9972-d3f265c101c6.png"/>
+    </item>
+    <item>
       <title><![CDATA[Holders Swifts, Reds, Coleraine & Larne progress in Irish Cup]]></title>
       <description><![CDATA[Holders Dungannon Swifts beat Portadown 2-1 to reach the Irish Cup quarter-finals, while Cliftonville earn a dramatic late win over Glenavon by the same scoreline and Coleraine are extra-time winners over Carrick Rangers.]]></description>
       <link>https://www.bbc.com/sport/articles/cp9j9lg302go?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/cp9j9lg302go</guid>
       <pubDate>Sat, 07 Feb 2026 17:15:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f60/live/0c11de10-0448-11f1-ac32-dfe0213e34da.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Why young British managers need lower-league experience']]></title>
-      <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis explains why he thinks there is a negative reaction to British managers when they get jobs in the Premier League - and the path young coaches should take.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn7j0p61n80o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn7j0p61n80o</guid>
-      <pubDate>Fri, 06 Feb 2026 10:29:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA['I feel at home here' - Carrick hints he wants Man Utd stay]]></title>
@@ -254,22 +270,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c74w4ldv7dzo</guid>
       <pubDate>Fri, 06 Feb 2026 13:07:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4739/live/62bbe610-0359-11f1-bf09-218341647648.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sutton's predictions v Gladiators star Apollo]]></title>
-      <description><![CDATA[BBC Sport football expert Chris Sutton takes on Gladiators star Apollo and AI with his predictions for this week's Premier League fixtures.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce3kr07kqpeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3kr07kqpeo</guid>
-      <pubDate>Thu, 05 Feb 2026 20:09:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5284/live/32ff3250-01c0-11f1-9972-d3f265c101c6.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Putellas' future? Chelsea's quiet window? Emma Sanders Q&A]]></title>
-      <description><![CDATA[BBC Sport reporter Emma Sanders takes fans' questions on the Women's Super League, the transfer window and the future of Alexia Putellas.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3r1gjzzvxzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3r1gjzzvxzo</guid>
-      <pubDate>Fri, 06 Feb 2026 08:32:43 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c1b/live/588fab00-0330-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[I told Gyokeres he would have a big game - Arteta]]></title>
@@ -313,6 +313,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bd9/live/78df66b0-0444-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Why young British managers need lower-league experience']]></title>
+      <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis explains why he thinks there is a negative reaction to British managers when they get jobs in the Premier League - and the path young coaches should take.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn7j0p61n80o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn7j0p61n80o</guid>
+      <pubDate>Fri, 06 Feb 2026 10:29:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Inside Man City's rebuild and plan for life without Guardiola]]></title>
       <description><![CDATA[BBC Sport looks at Manchester City's evolution and why the January window has offered renewed belief.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5y21lkdl78o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -343,14 +351,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj6w3wr9x2lo</guid>
       <pubDate>Sun, 01 Feb 2026 07:50:03 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c43/live/c91a8e50-fe8d-11f0-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Nine siblings and a dog called Zoomer - Wirtz in his own words]]></title>
-      <description><![CDATA[Florian Wirtz sits down with Kelly Somers to talk about his slow start at Anfield, playing padel and making Bundesliga history.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c98prz4296vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98prz4296vo</guid>
-      <pubDate>Sat, 31 Jan 2026 06:31:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdba/live/de1186b0-fdd4-11f0-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[All the done deals on deadline day in one place]]></title>
@@ -487,6 +487,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjrzpng1e8zo</guid>
       <pubDate>Tue, 27 Jan 2026 15:35:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1db/live/6f241660-fb8a-11f0-87d6-bd5fe34f0b33.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Putellas' future? Chelsea's quiet window? Emma Sanders transfers Q&A]]></title>
+      <description><![CDATA[BBC Sport reporter Emma Sanders takes fans' questions on the Women's Super League, the transfer window and the future of Alexia Putellas.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3r1gjzzvxzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3r1gjzzvxzo</guid>
+      <pubDate>Fri, 06 Feb 2026 08:32:43 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c1b/live/588fab00-0330-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man Utd prepare to honour Munich disaster victims]]></title>
