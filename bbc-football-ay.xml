@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 10 Feb 2026 19:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 20:06:53 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -64,14 +64,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc94/live/3fb57150-05d3-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Controlled chaos' as Boro overhaul Coventry at top ]]></title>
-      <description><![CDATA[With 31 points from his 14 games in charge, Kim Hellberg has overseen a 12-point swing for Middlesbrough over previous Championship leaders Coventry City.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpw051lrlqko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpw051lrlqko</guid>
-      <pubDate>Tue, 10 Feb 2026 16:04:23 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bedb/live/2b941ca0-0685-11f1-8eb8-1bf61d08e521.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['I'm a freak of nature' - A day filming with Zlatan Ibrahimovic]]></title>
       <description><![CDATA[Go behind the scenes with former Sweden and AC Milan footballer Zlatan Ibrahimovic, to see how the film for opening of the 2026 Winter Olympics was made.]]></description>
       <link>https://www.bbc.com/sport/videos/cdex00x33ezo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -110,6 +102,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/videos/clyvn1g5m5yo</guid>
       <pubDate>Sun, 08 Feb 2026 23:59:01 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c5/live/ca257540-0549-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Controlled chaos' as Boro overhaul Coventry at top ]]></title>
+      <description><![CDATA[With 31 points from his 14 games in charge, Kim Hellberg has overseen a 12-point swing for Middlesbrough over previous Championship leaders Coventry City.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpw051lrlqko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpw051lrlqko</guid>
+      <pubDate>Tue, 10 Feb 2026 16:04:23 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bedb/live/2b941ca0-0685-11f1-8eb8-1bf61d08e521.jpg"/>
     </item>
     <item>
       <title><![CDATA[Snoop Dogg to attend Swansea game for first time]]></title>
@@ -152,20 +152,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8080/live/c98da290-067c-11f1-9794-9f23a318f722.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Motherwell v Rangers, O'Neill & Nygren in focus]]></title>
-      <description><![CDATA[Fourth-placed Motherwell and second-top Rangers meet in Wednesday's top Scottish Premiership fixture while Celtic's Martin O'Neill and Benjamin Nygren eye milestones against Livingston.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8xyeldvy2xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8xyeldvy2xo</guid>
-      <pubDate>Tue, 10 Feb 2026 14:28:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e5c/live/3907fb20-060a-11f1-b7e1-afb6d0884c18.png"/>
-    </item>
-    <item>
       <title><![CDATA[Can you beat our Premier League top assisters quiz?]]></title>
       <description><![CDATA[The list for most assists in a single Premier League season is so full of legends it inspired us to build this quiz.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cq8480e0pepo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq8480e0pepo</guid>
       <pubDate>Tue, 10 Feb 2026 09:07:03 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8528/live/d48237f0-038a-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Motherwell v Rangers, O'Neill & Nygren in focus]]></title>
+      <description><![CDATA[Fourth-placed Motherwell and second-top Rangers meet in Wednesday's top Scottish Premiership fixture while Celtic's Martin O'Neill and Benjamin Nygren eye milestones against Livingston.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8xyeldvy2xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8xyeldvy2xo</guid>
+      <pubDate>Tue, 10 Feb 2026 14:28:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e5c/live/3907fb20-060a-11f1-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
       <title><![CDATA[How to follow the FA Cup fourth round on the BBC]]></title>
@@ -192,28 +192,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d941/live/7c7cd890-0690-11f1-9d3b-3bc76a5f97e4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Why are Aberdeen taking so long to appoint a manager?]]></title>
-      <description><![CDATA[The club are still working to find Jimmy Thelin's successor, a month after the Swede's exit.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqxdrz91lgjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxdrz91lgjo</guid>
-      <pubDate>Tue, 10 Feb 2026 14:05:39 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01e0/live/4554a160-0684-11f1-8eb8-1bf61d08e521.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Ronaldo to end Saudi strike - Tuesday's gossip]]></title>
       <description><![CDATA[Cristiano Ronaldo is set to return in Saudi Arabia, a change in Barcelona's boardroom might determine whether Marcus Rashford stays in Spain, Zinedene Zidane may be heading back to Real Madrid, plus more.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cjen2qv43vpo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjen2qv43vpo</guid>
       <pubDate>Mon, 09 Feb 2026 22:01:40 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c19e/live/6902a130-0601-11f1-b7e1-afb6d0884c18.png"/>
-    </item>
-    <item>
-      <title><![CDATA[When was the last time Man Utd won five games in a row?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything look at when Manchester United last won five games in a row after a fan went viral for refusing to cut his hair.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0ezdvdnpjyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0ezdvdnpjyo</guid>
-      <pubDate>Tue, 10 Feb 2026 12:51:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d97/live/0dac07c0-9a29-11f0-97f5-bd38218a3641.jpg"/>
     </item>
     <item>
       <title><![CDATA['It's a stonewall foul' - Why Arsenal were lucky to avoid red]]></title>
@@ -264,6 +248,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c595/live/c0850f30-050f-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why are Aberdeen taking so long to appoint a manager?]]></title>
+      <description><![CDATA[The club are still working to find Jimmy Thelin's successor, a month after the Swede's exit.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqxdrz91lgjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxdrz91lgjo</guid>
+      <pubDate>Tue, 10 Feb 2026 14:05:39 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01e0/live/4554a160-0684-11f1-8eb8-1bf61d08e521.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[When was the last time Man Utd won five games in a row?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything look at when Manchester United last won five games in a row after a fan went viral for refusing to cut his hair.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0ezdvdnpjyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0ezdvdnpjyo</guid>
+      <pubDate>Tue, 10 Feb 2026 12:51:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d97/live/0dac07c0-9a29-11f0-97f5-bd38218a3641.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Republic of Ireland to face Qatar & Canada in friendlies]]></title>
       <description><![CDATA[The Republic of Ireland will face Qatar and Canada in summer friendlies in May and June.]]></description>
       <link>https://www.bbc.com/sport/articles/cd6zqx2xlx0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -312,20 +312,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bca0/live/e2b0abd0-069c-11f1-8d5d-7d6caf00f484.png"/>
     </item>
     <item>
-      <title><![CDATA[Romero 'a leader but needs to learn' - Frank]]></title>
-      <description><![CDATA[Tottenham captain Cristian Romero is a "leader" but has more to learn, manager Thomas Frank says following the defender's second sending-off of the season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c70kj0q0vyjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70kj0q0vyjo</guid>
-      <pubDate>Mon, 09 Feb 2026 16:42:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84e5/live/26eb73d0-05cf-11f1-a351-bb43301b14c5.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Five years of Hollywood - Wrexham's transformation]]></title>
       <description><![CDATA[BBC Sport Wales looks at how Wrexham have evolved since being taken over by Ryan Reynolds and Rob McElhenney five years ago.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cq84pyw2gv7o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq84pyw2gv7o</guid>
       <pubDate>Mon, 09 Feb 2026 06:43:45 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf3c/live/05668940-0357-11f1-beff-cb9122db916f.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Romero 'a leader but needs to learn' - Frank]]></title>
+      <description><![CDATA[Tottenham captain Cristian Romero is a "leader" but has more to learn, manager Thomas Frank says following the defender's second sending-off of the season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c70kj0q0vyjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70kj0q0vyjo</guid>
+      <pubDate>Mon, 09 Feb 2026 16:42:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84e5/live/26eb73d0-05cf-11f1-a351-bb43301b14c5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Could Welsh rugby superstar's granddaughter play football for Wales?]]></title>
@@ -358,14 +358,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp878md787xo</guid>
       <pubDate>Mon, 09 Feb 2026 13:22:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb8/live/de829690-033b-11f1-9d05-c7b737bbaef1.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Tottenham in relegation battle, says Rooney]]></title>
-      <description><![CDATA[Tottenham Hotspur are in a relegation battle, says former England captain Wayne Rooney.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn5gr167x3yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn5gr167x3yo</guid>
-      <pubDate>Mon, 09 Feb 2026 06:04:42 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/421d/live/9999aa30-053b-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Ekitike has already become a Liverpool cult hero]]></title>
