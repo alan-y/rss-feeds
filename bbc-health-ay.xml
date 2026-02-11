@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 17:14:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 18:11:51 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -32,14 +32,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b843/live/9bd350c0-069f-11f1-8d5d-7d6caf00f484.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sepsis mistakes killed our daughter - we fear it could happen again]]></title>
-      <description><![CDATA[Grieving parents, former cricketer Steve James and his wife Jane, want better sepsis training to be introduced urgently so no family goes through what they did.]]></description>
-      <link>https://www.bbc.com/news/articles/cx2wzj9dwvzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2wzj9dwvzo</guid>
-      <pubDate>Tue, 10 Feb 2026 12:04:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c8e/live/9812dd30-072a-11f1-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Teen had to tell deaf mum her dad might die]]></title>
       <description><![CDATA[NHS staff in Birmingham used Alan Graham's grandchildren to pass on information, an ombudsman finds.]]></description>
       <link>https://www.bbc.com/news/articles/c5yk9qkwed4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -48,12 +40,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/141d/live/f58c3760-0719-11f1-9aef-bbc0cf892767.png"/>
     </item>
     <item>
-      <title><![CDATA[Could this spider's silk help repair nerves?]]></title>
-      <description><![CDATA[Scientists are developing nerve repairing surgical devices from the silk of spiders.]]></description>
-      <link>https://www.bbc.com/news/articles/ckgngvr2ye1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgngvr2ye1o</guid>
-      <pubDate>Tue, 10 Feb 2026 07:47:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6be2/live/bf36dfa0-0654-11f1-b7e1-afb6d0884c18.jpg"/>
+      <title><![CDATA[UK first as cutting-edge therapy used for 'debilitating' heart condition]]></title>
+      <description><![CDATA[A new treatment being trialled at Belfast’s Royal Victoria Hospital allows more patients to be treated and quicker recovery.]]></description>
+      <link>https://www.bbc.com/news/articles/c9wnky140dko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wnky140dko</guid>
+      <pubDate>Wed, 11 Feb 2026 11:37:54 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e300/live/fbb33020-073d-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sepsis mistakes killed our daughter - we fear it could happen again]]></title>
+      <description><![CDATA[Grieving parents, former cricketer Steve James and his wife Jane, want better sepsis training to be introduced urgently so no family goes through what they did.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2wzj9dwvzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2wzj9dwvzo</guid>
+      <pubDate>Tue, 10 Feb 2026 12:04:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c8e/live/9812dd30-072a-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Using AI for medical advice 'dangerous', study finds]]></title>
