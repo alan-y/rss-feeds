@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 04:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 06:08:04 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -154,14 +154,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379e/live/d80bd7a0-066e-11f1-87d9-7f781b3ca3ad.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Mateta knee injury 'not as bad as feared' ]]></title>
-      <description><![CDATA[The knee injury which scuppered Jean-Philippe Mateta's move to AC Milan last month is "not as bad as feared" and he will not need surgery, says Crystal Palace manager Oliver Glasner.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg1lrvn1lyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg1lrvn1lyo</guid>
-      <pubDate>Tue, 10 Feb 2026 15:56:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c16/live/49587bc0-0697-11f1-9c2e-13936a78ae9c.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[O'Neill hopes for full Celtic allocation at Ibrox]]></title>
       <description><![CDATA[Manager Martin O'Neill hopes Celtic will receive the full ticket allocation available to them for the Scottish Cup tie at Ibrox.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3ew9073ej8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -184,6 +176,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70kz1n1qn8o</guid>
       <pubDate>Tue, 10 Feb 2026 19:07:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7653/live/d30fb7c0-06a1-11f1-8d5d-7d6caf00f484.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Mateta knee injury 'not as bad as feared' ]]></title>
+      <description><![CDATA[The knee injury which scuppered Jean-Philippe Mateta's move to AC Milan last month is "not as bad as feared" and he will not need surgery, says Crystal Palace manager Oliver Glasner.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvg1lrvn1lyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg1lrvn1lyo</guid>
+      <pubDate>Tue, 10 Feb 2026 15:56:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c16/live/49587bc0-0697-11f1-9c2e-13936a78ae9c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sutton's predictions v Ryder Cup star & Arsenal fan Ian Poulter]]></title>
@@ -216,22 +216,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8xyeldvy2xo</guid>
       <pubDate>Tue, 10 Feb 2026 22:42:42 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e5c/live/3907fb20-060a-11f1-b7e1-afb6d0884c18.png"/>
-    </item>
-    <item>
-      <title><![CDATA[How to follow the FA Cup fourth round on the BBC]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team explain how you can watch, listen and follow the FA Cup fourth round.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd0y14gzep1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd0y14gzep1o</guid>
-      <pubDate>Tue, 10 Feb 2026 16:28:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1470/live/b3a935c0-027b-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['You love Kobbie' - Mainoo showing Amorim why so many do]]></title>
-      <description><![CDATA[Why Manchester United midfielder Kobbie Mainoo is proving Ruben Amorim was wrong to keep ignoring him.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg83g4zyllo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg83g4zyllo</guid>
-      <pubDate>Tue, 10 Feb 2026 06:22:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc94/live/3fb57150-05d3-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Nuno disappointed not to hold on for win against Man Utd]]></title>
@@ -282,6 +266,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcc7/live/f16ecd30-0527-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How to follow the FA Cup fourth round on the BBC]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team explain how you can watch, listen and follow the FA Cup fourth round.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd0y14gzep1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd0y14gzep1o</guid>
+      <pubDate>Tue, 10 Feb 2026 16:28:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1470/live/b3a935c0-027b-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['You love Kobbie' - Mainoo showing Amorim why so many do]]></title>
+      <description><![CDATA[Why Manchester United midfielder Kobbie Mainoo is proving Ruben Amorim was wrong to keep ignoring him.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvg83g4zyllo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg83g4zyllo</guid>
+      <pubDate>Tue, 10 Feb 2026 06:22:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc94/live/3fb57150-05d3-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Can you beat our Premier League top assisters quiz?]]></title>
       <description><![CDATA[The list for most assists in a single Premier League season is so full of legends it inspired us to build this quiz.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cq8480e0pepo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -322,22 +322,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01e0/live/4554a160-0684-11f1-8eb8-1bf61d08e521.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Republic of Ireland to face Qatar & Canada in friendlies]]></title>
-      <description><![CDATA[The Republic of Ireland will face Qatar and Canada in summer friendlies in May and June.]]></description>
-      <link>https://www.bbc.com/sport/articles/cd6zqx2xlx0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cd6zqx2xlx0o</guid>
-      <pubDate>Tue, 10 Feb 2026 15:44:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6bd/live/428acdd0-0696-11f1-ba78-fddbc49e3389.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Watford appoint Edward Still as head coach]]></title>
-      <description><![CDATA[Watford appoint Edward Still as head coach following the resignation of Javi Gracia after only three months in charge.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3edqlvqyjyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3edqlvqyjyo</guid>
-      <pubDate>Mon, 09 Feb 2026 16:56:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec11/live/54b1e7e0-05de-11f1-82f0-b5a11f53e1d7.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How does the Nations League work and when is the draw?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team explains how the Uefa Nations League works ahead of the draw for the 2026-27 competition ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c9wnkvqxwg8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -354,6 +338,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5af1/live/e7224160-05d9-11f1-a351-bb43301b14c5.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Republic of Ireland to face Qatar & Canada in friendlies]]></title>
+      <description><![CDATA[The Republic of Ireland will face Qatar and Canada in summer friendlies in May and June.]]></description>
+      <link>https://www.bbc.com/sport/articles/cd6zqx2xlx0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cd6zqx2xlx0o</guid>
+      <pubDate>Tue, 10 Feb 2026 15:44:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6bd/live/428acdd0-0696-11f1-ba78-fddbc49e3389.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Watford appoint Edward Still as head coach]]></title>
+      <description><![CDATA[Watford appoint Edward Still as head coach following the resignation of Javi Gracia after only three months in charge.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3edqlvqyjyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3edqlvqyjyo</guid>
+      <pubDate>Mon, 09 Feb 2026 16:56:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec11/live/54b1e7e0-05de-11f1-82f0-b5a11f53e1d7.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Late goals are destroying Liverpool's season and solution isn't obvious]]></title>
       <description><![CDATA[Why have Liverpool gone from mentality monsters to a side there for the taking?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5y4de19xlwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -368,22 +368,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn71l70dmjlo</guid>
       <pubDate>Mon, 09 Feb 2026 18:13:31 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a092/live/db57b110-05db-11f1-82f0-b5a11f53e1d7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Didn't want the season to end like this' - Grealish has surgery]]></title>
-      <description><![CDATA[Jack Grealish says he "didn't want the season to end like this" after confirming he has had surgery on a foot stress fracture.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdxg991qzldo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdxg991qzldo</guid>
-      <pubDate>Mon, 09 Feb 2026 20:55:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bca0/live/e2b0abd0-069c-11f1-8d5d-7d6caf00f484.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Rosenior 'not bothered' by David Brent and Inbetweeners comparisons]]></title>
-      <description><![CDATA[Chelsea manager Liam Rosenior says he is not "bothered at all" by memes comparing him to tongue-in-cheek television characters.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9dnyyd49p6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9dnyyd49p6o</guid>
-      <pubDate>Mon, 09 Feb 2026 22:33:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdd4/live/f1121e70-05fc-11f1-a99f-cd1f4f5535c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Five years of Hollywood - Wrexham's transformation]]></title>
