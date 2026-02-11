@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 11 Feb 2026 12:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 13:51:57 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -64,20 +64,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0597/live/fed62930-06c8-11f1-9972-d3f265c101c6.png"/>
     </item>
     <item>
-      <title><![CDATA[Are Hearts developing the habit of champions?]]></title>
-      <description><![CDATA[Does Heart of Midlothian's late derby winner against Hibernian suggest they are developing the habit of champions as they go six points clear at the top of the Scottish Premiership?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c62gde0l81ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62gde0l81ro</guid>
-      <pubDate>Wed, 11 Feb 2026 00:55:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/d486e310-06d0-11f1-a088-6db44f8964b4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Carrick's 'Sir Alex' playbook and a happy start at Man Utd]]></title>
       <description><![CDATA[Michael Carrick is happy with his start as Manchester United head coach despite dropping his first points in 1-1 draw at West Ham.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cpv82340kxno?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv82340kxno</guid>
       <pubDate>Wed, 11 Feb 2026 00:30:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8b0/live/fd559fe0-0719-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Dundee Utd-Aberdeen postponed after pitch inspection]]></title>
+      <description><![CDATA[Dundee United's Scottish Premiership game against Aberdeen is postponed because of a waterlogged pitch at Tannadice.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx24y380p4ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx24y380p4ro</guid>
+      <pubDate>Wed, 11 Feb 2026 13:17:46 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d941/live/7c7cd890-0690-11f1-9d3b-3bc76a5f97e4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Will Dyche steer Forest away from danger?]]></title>
@@ -90,12 +90,28 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7268/live/a5e2a710-069e-11f1-8d5d-7d6caf00f484.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Are Hearts developing the habit of champions?]]></title>
+      <description><![CDATA[Does Heart of Midlothian's late derby winner against Hibernian suggest they are developing the habit of champions as they go six points clear at the top of the Scottish Premiership?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c62gde0l81ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62gde0l81ro</guid>
+      <pubDate>Wed, 11 Feb 2026 00:55:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/d486e310-06d0-11f1-a088-6db44f8964b4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Grealish fined £1,000 after running red light]]></title>
       <description><![CDATA[The footballer was caught on camera driving his Lamborghini supercar through the signals in Liverpool. ]]></description>
       <link>https://www.bbc.com/news/articles/cdjmej9v83ko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cdjmej9v83ko</guid>
       <pubDate>Wed, 11 Feb 2026 09:58:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e95/live/69b5c940-072d-11f1-811d-d70cdc846ab3.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Can you name the past 10 permanent Spurs managers?]]></title>
+      <description><![CDATA[Thomas Frank has been sacked by Tottenham after just under eight months in charge - can you name the managers who came before him?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpd8vldvy2xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpd8vldvy2xo</guid>
+      <pubDate>Wed, 11 Feb 2026 12:13:29 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bd5/live/cda705e0-0741-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch Frank's final interview as Spurs boss]]></title>
@@ -106,7 +122,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e79/live/106d75f0-073b-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Frank sacked by Spurs after eight months in charge]]></title>
+      <title><![CDATA[Fearing oblivion, sensing toxicity - Spurs reluctantly sack Frank]]></title>
       <description><![CDATA[Tottenham sack Thomas Frank as head coach after a run of only two wins in 17 Premier League matches.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ckgzqdzz1zdo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgzqdzz1zdo</guid>
@@ -130,12 +146,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0528/live/e702e660-0685-11f1-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
-      <title><![CDATA[Pitch inspection at Tannadice before Dundee Utd-Aberdeen]]></title>
-      <description><![CDATA[Dundee United will carry out a pitch inspection at Tannadice at 13:00 GMT on Wednesday to assess whether the Premiership game against Aberdeen can go ahead.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx24y380p4ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx24y380p4ro</guid>
-      <pubDate>Wed, 11 Feb 2026 11:42:09 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d941/live/7c7cd890-0690-11f1-9d3b-3bc76a5f97e4.jpg"/>
+      <title><![CDATA[How does Frank's record compare to other Tottenham managers?]]></title>
+      <description><![CDATA[Our Ask Me Anything team explore Thomas Frank's records at Tottenham and how they compared to previous Spurs managers.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8jx7jkdrgno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8jx7jkdrgno</guid>
+      <pubDate>Wed, 11 Feb 2026 13:09:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c67f/live/ff706cf0-0742-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Can you name every Women's Champions League winner?]]></title>
@@ -146,28 +162,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6942/live/d86f68f0-0390-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Howe savours 'special connection' with Newcastle fans after win at Spurs]]></title>
-      <description><![CDATA[Eddie Howe savours a "special connection" with fans after Newcastle win on the road at Spurs - in direct contrast to Tottenham's relationship with their manager.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0q3z2gk48xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0q3z2gk48xo</guid>
-      <pubDate>Tue, 10 Feb 2026 23:54:32 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2516/live/28e975c0-06d7-11f1-b284-0b45dbd10896.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How Foxes' capitulation sums up season 'in a nutshell']]></title>
       <description><![CDATA[Leicester City's sensation 4-3 defeat by Southampton, in a game they had led 3-0 at half-time, is described by pundits, players and coaches as "infuriating", "completely unacceptable" and "a capitulation".]]></description>
       <link>https://www.bbc.com/sport/football/articles/c2d1pd8dlp9o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2d1pd8dlp9o</guid>
       <pubDate>Wed, 11 Feb 2026 10:59:22 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a452/live/d0c6b2e0-0735-11f1-a374-c57196a4993e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Birmingham owner Wagner recovering from stroke]]></title>
-      <description><![CDATA[Birmingham City's American chairman Tom Wagner has suffered a stroke, the Championship club have confirmed.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cq8gv2qeqveo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq8gv2qeqveo</guid>
-      <pubDate>Wed, 11 Feb 2026 11:07:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fde/live/1abe9790-0737-11f1-a374-c57196a4993e.jpg"/>
     </item>
     <item>
       <title><![CDATA['Six minutes of madness' - Rosenior on losing two-goal lead]]></title>
@@ -203,12 +203,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d325/live/f42a6370-06d7-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Birmingham owner Wagner recovering from stroke]]></title>
+      <description><![CDATA[Birmingham City's American chairman Tom Wagner has suffered a stroke, the Championship club have confirmed.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cq8gv2qeqveo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq8gv2qeqveo</guid>
+      <pubDate>Wed, 11 Feb 2026 11:07:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fde/live/1abe9790-0737-11f1-a374-c57196a4993e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Has Gyokeres finally found form or are stats misleading?]]></title>
       <description><![CDATA[Arsenal are top of the league, fighting for trophies in four competitions and at the same time £64m striker Viktor Gyokeres looks to be finding his feet in north London.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8d5jezj7y9o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8d5jezj7y9o</guid>
       <pubDate>Tue, 10 Feb 2026 13:33:45 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379e/live/d80bd7a0-066e-11f1-87d9-7f781b3ca3ad.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Howe savours 'special connection' with Newcastle fans after win at Spurs]]></title>
+      <description><![CDATA[Eddie Howe savours a "special connection" with fans after Newcastle win on the road at Spurs - in direct contrast to Tottenham's relationship with their manager.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0q3z2gk48xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0q3z2gk48xo</guid>
+      <pubDate>Tue, 10 Feb 2026 23:54:32 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2516/live/28e975c0-06d7-11f1-b284-0b45dbd10896.jpg"/>
     </item>
     <item>
       <title><![CDATA[Where do iconic football moves originate from?]]></title>
@@ -291,6 +307,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bedb/live/2b941ca0-0685-11f1-8eb8-1bf61d08e521.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How to follow the FA Cup fourth round on the BBC]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team explain how you can watch, listen and follow the FA Cup fourth round.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd0y14gzep1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd0y14gzep1o</guid>
+      <pubDate>Tue, 10 Feb 2026 16:28:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1470/live/b3a935c0-027b-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[O'Neill hopes for full Celtic allocation at Ibrox]]></title>
       <description><![CDATA[Manager Martin O'Neill hopes Celtic will receive the full ticket allocation available to them for the Scottish Cup tie at Ibrox.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3ew9073ej8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -305,14 +329,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c23zkemn5xmo</guid>
       <pubDate>Tue, 10 Feb 2026 17:48:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3604/live/24db9e30-06a1-11f1-8d5d-7d6caf00f484.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How to follow the FA Cup fourth round on the BBC]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team explain how you can watch, listen and follow the FA Cup fourth round.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd0y14gzep1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd0y14gzep1o</guid>
-      <pubDate>Tue, 10 Feb 2026 16:28:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1470/live/b3a935c0-027b-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sutton's predictions v Ryder Cup star & Arsenal fan Ian Poulter]]></title>
@@ -345,14 +361,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjrqd10722xo</guid>
       <pubDate>Tue, 10 Feb 2026 08:12:10 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/204c/live/4dd4bfc0-0510-11f1-95ed-5b98410ce4f4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Rohl heartened by Rangers' mindset shift]]></title>
-      <description><![CDATA[Rangers head coach Danny Rohl believes his side are far better equipped for big matches after seeing a winning mentality develop among his players in recent weeks.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c20zjvlv1w5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20zjvlv1w5o</guid>
-      <pubDate>Tue, 10 Feb 2026 13:02:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8080/live/c98da290-067c-11f1-9794-9f23a318f722.jpg"/>
     </item>
     <item>
       <title><![CDATA['You love Kobbie' - Mainoo showing Amorim why so many do]]></title>
@@ -393,14 +401,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3r1gwpjn8vo</guid>
       <pubDate>Sun, 08 Feb 2026 06:14:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/768c/live/dd04cd30-035c-11f1-bab5-81d0d0b0abce.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Inside Man City's rebuild and plan for life without Guardiola]]></title>
-      <description><![CDATA[BBC Sport looks at Manchester City's evolution and why the January window has offered renewed belief.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5y21lkdl78o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y21lkdl78o</guid>
-      <pubDate>Wed, 04 Feb 2026 16:22:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2c/live/a8c894b0-01d7-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[All February's done deals, including deadline day, in one place]]></title>
