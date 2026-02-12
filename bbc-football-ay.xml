@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 12 Feb 2026 14:46:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 15:52:32 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,6 +48,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e392/live/65fd6f90-0806-11f1-b56b-bf8bb0174edb.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Spurs' Odobert to undergo surgery after rupturing ACL]]></title>
+      <description><![CDATA[Tottenham winger Wilson Odobert will undergo surgery after suffering a ruptured anterior cruciate ligament in his left knee.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cm2xzk0l4xlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2xzk0l4xlo</guid>
+      <pubDate>Thu, 12 Feb 2026 14:58:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccdc/live/c54587c0-0820-11f1-8fdd-d9a354700c27.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Lucky break that changed Alexander-Arnold's Real future]]></title>
       <description><![CDATA[Trent Alexander-Arnold endured a difficult start at Real Madrid but his prospects are looking up - and it might earn him a ticket to the World Cup.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0q3dwkq01go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -57,10 +65,10 @@
     </item>
     <item>
       <title><![CDATA[Ratcliffe sorry language 'offended some' after immigration comments]]></title>
-      <description><![CDATA[The Manchester United co-owner previously claimed the UK had been "colonised" by immigrants. ]]></description>
+      <description><![CDATA[The Manchester United co-owner previously said the UK had been "colonised" by immigrants. ]]></description>
       <link>https://www.bbc.com/news/articles/cd6zvlywz77o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cd6zvlywz77o</guid>
-      <pubDate>Thu, 12 Feb 2026 14:04:48 GMT</pubDate>
+      <pubDate>Thu, 12 Feb 2026 15:36:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ed/live/9a64b860-081a-11f1-8fdd-d9a354700c27.jpg"/>
     </item>
     <item>
@@ -78,14 +86,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp9mz2450m8o</guid>
       <pubDate>Thu, 12 Feb 2026 00:33:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2bc/live/c5b03b70-07a7-11f1-b7e1-afb6d0884c18.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Bayern and Chelsea eye Verbruggen - Thursday's gossip]]></title>
-      <description><![CDATA[Bayern Munich will target Bart Verbruggen, John Stones looks set to leave Manchester City, Atletico Madrid are plotting a move for Marc Cucurella, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0ljppgp0p7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0ljppgp0p7o</guid>
-      <pubDate>Wed, 11 Feb 2026 22:28:51 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09d4/live/bccc5120-0779-11f1-b5e2-dd58fc65f0f6.png"/>
     </item>
     <item>
       <title><![CDATA[Ex-Arsenal midfielder Partey facing two additional rape charges]]></title>
@@ -232,6 +232,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0rjgge50v0o</guid>
       <pubDate>Wed, 11 Feb 2026 23:20:21 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db40/live/2f3939b0-079f-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Bayern and Chelsea eye Verbruggen - Thursday's gossip]]></title>
+      <description><![CDATA[Bayern Munich will target Bart Verbruggen, John Stones looks set to leave Manchester City, Atletico Madrid are plotting a move for Marc Cucurella, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0ljppgp0p7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0ljppgp0p7o</guid>
+      <pubDate>Wed, 11 Feb 2026 22:28:51 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09d4/live/bccc5120-0779-11f1-b5e2-dd58fc65f0f6.png"/>
     </item>
     <item>
       <title><![CDATA[Why Frank at Tottenham was a gamble that ended in bitter failure]]></title>
