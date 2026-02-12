@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 12 Feb 2026 09:49:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 10:44:14 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,6 +40,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8122/live/1160b320-0789-11f1-b2b9-0593a020cf50.jpg"/>
     </item>
     <item>
+      <title><![CDATA['I racked up £145k of debt' - Pharmacists struggling to stay afloat as costs soar]]></title>
+      <description><![CDATA[With costs escalating, pharmacies are making a loss on essential items such as aspirin. ]]></description>
+      <link>https://www.bbc.com/news/articles/c3wzvd5l36yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3wzvd5l36yo</guid>
+      <pubDate>Thu, 12 Feb 2026 06:15:40 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8660/live/c2e52630-07f7-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Doctor who sold stolen PPE on eBay is struck off register]]></title>
       <description><![CDATA[Dr Attiya Sheikh and her husband Omer Sheikh made almost £8,000 from selling personal protective equipment during the covid pandemic.]]></description>
       <link>https://www.bbc.com/news/articles/c9dnlpyl20go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yk9qkwed4o</guid>
       <pubDate>Wed, 11 Feb 2026 06:24:06 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/141d/live/f58c3760-0719-11f1-9aef-bbc0cf892767.png"/>
-    </item>
-    <item>
-      <title><![CDATA[UK first as cutting-edge therapy used for 'debilitating' heart condition]]></title>
-      <description><![CDATA[A new treatment being trialled at Belfast’s Royal Victoria Hospital allows more patients to be treated and quicker recovery.]]></description>
-      <link>https://www.bbc.com/news/articles/c9wnky140dko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9wnky140dko</guid>
-      <pubDate>Wed, 11 Feb 2026 11:37:54 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e300/live/fbb33020-073d-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Using AI for medical advice 'dangerous', study finds]]></title>
