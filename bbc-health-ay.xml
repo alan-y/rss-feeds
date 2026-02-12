@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 12 Feb 2026 08:54:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 09:49:35 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -633,6 +633,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee8/live/1e2ba400-a390-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Bowel cancer: How to check your poo]]></title>
+      <description><![CDATA[It was Dame Deborah James' top advice - but what should you be looking for?]]></description>
+      <link>https://www.bbc.co.uk/news/health-61979220?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/health-61979220</guid>
+      <pubDate>Wed, 29 Jun 2022 13:49:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06FC/production/_125688710_gettyimages-1004905988.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Could weight-loss jabs be behind rising gallbladder removals?]]></title>
       <description><![CDATA[Last year, there was a 15% annual increase in the operations and surgeons want more research.]]></description>
       <link>https://www.bbc.com/news/articles/cm24evgyyzpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -759,14 +767,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y03p4xlx8o</guid>
       <pubDate>Wed, 16 Oct 2024 07:27:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffd8/live/baaa3600-8b01-11ef-8dd9-115a8781b651.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How many of us will end up being diagnosed with ADHD?]]></title>
-      <description><![CDATA[Experts suggest that the number of people with ADHD is actually going to remain steady.]]></description>
-      <link>https://www.bbc.com/news/articles/c3ejky0dy47o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3ejky0dy47o</guid>
-      <pubDate>Sun, 15 Sep 2024 00:36:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8ba/live/2e1fd6c0-6c40-11ef-b970-9f202720b57a.png"/>
     </item>
     <item>
       <title><![CDATA[Why are resident doctors striking and how much are they paid?]]></title>
