@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 12 Feb 2026 12:06:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 13:46:52 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[NHS waiting list at lowest level in three years]]></title>
+      <description><![CDATA[Backlog drops below 7.3m for first time since 2023 in England, but concern over long A&E waits.]]></description>
+      <link>https://www.bbc.com/news/articles/c3dzez1g451o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3dzez1g451o</guid>
+      <pubDate>Thu, 12 Feb 2026 12:27:46 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e370/live/89880010-080b-11f1-b56b-bf8bb0174edb.jpg"/>
+    </item>
     <item>
       <title><![CDATA['His loss is massive': Inquests show spread of deadly synthetic drugs]]></title>
       <description><![CDATA[A BBC investigation shows how nitazene deaths have risen and the illegal drug market is changing.]]></description>
@@ -40,7 +48,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8122/live/1160b320-0789-11f1-b2b9-0593a020cf50.jpg"/>
     </item>
     <item>
-      <title><![CDATA['I racked up £145k of debt' - Pharmacists struggling to stay afloat as costs soar]]></title>
+      <title><![CDATA['I racked up £145k of debt' - pharmacists struggling to stay afloat as costs soar]]></title>
       <description><![CDATA[With costs escalating, pharmacies are making a loss on essential items such as aspirin. ]]></description>
       <link>https://www.bbc.com/news/articles/c3wzvd5l36yo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3wzvd5l36yo</guid>
@@ -223,14 +231,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c9qpr7y718do</guid>
       <pubDate>Sun, 01 Feb 2026 17:42:56 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba0/live/19f8bc80-ff55-11f0-861a-555f9d353c11.png"/>
-    </item>
-    <item>
-      <title><![CDATA[UK launches plan to tackle 'forever chemicals' amid growing concerns]]></title>
-      <description><![CDATA[Increasing testing for PFAS is part of the UK's first ever national plan for tackling the substances.]]></description>
-      <link>https://www.bbc.com/news/articles/cz9vz249keno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cz9vz249keno</guid>
-      <pubDate>Tue, 03 Feb 2026 00:06:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a35f/live/7c5ed1e0-0101-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
@@ -473,6 +473,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0501/live/e1580f10-a81c-11ef-8337-3768b3f6b663.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How to check whether you have bowel cancer]]></title>
+      <description><![CDATA[What are the main symptoms and causes of bowel cancer, and how can you reduce your risk of getting it?]]></description>
+      <link>https://www.bbc.com/news/articles/c8egk985r80o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8egk985r80o</guid>
+      <pubDate>Thu, 12 Feb 2026 10:49:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b030/live/d17ca410-07f3-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Why are fewer people donating their organs?]]></title>
       <description><![CDATA[The number waiting for an organ is at a record high as loved ones increasingly block donations.]]></description>
       <link>https://www.bbc.com/news/articles/cgjw341zj81o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -623,14 +631,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/czxwvr57424o</guid>
       <pubDate>Sat, 11 Oct 2025 01:05:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05fb/live/f899dc60-a5fc-11f0-928c-71dbb8619e94.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Your nose gets colder when you're stressed. These thermal images show the change]]></title>
-      <description><![CDATA[Psychologists subjected a BBC reporter to a carefully designed thermal camera stress test.]]></description>
-      <link>https://www.bbc.com/news/articles/cj076ynnlpgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj076ynnlpgo</guid>
-      <pubDate>Sun, 12 Oct 2025 23:28:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aee8/live/1e2ba400-a390-11f0-928c-71dbb8619e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Could weight-loss jabs be behind rising gallbladder removals?]]></title>
