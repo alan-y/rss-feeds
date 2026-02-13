@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 13 Feb 2026 07:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 08:41:03 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -24,12 +24,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1fb/live/8ce92e00-086f-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Northern Ireland boss O'Neill set to take over at Blackburn]]></title>
+      <description><![CDATA[Northern Ireland manager Michael O'Neill is set to join Championship club Blackburn, initially in a joint role until the end of the season. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clyz2lnd5j1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyz2lnd5j1o</guid>
+      <pubDate>Fri, 13 Feb 2026 07:33:32 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aa4/live/38c19df0-0868-11f1-9711-6bb3c7faafe7.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Arsenal miss chance to restore six-point lead in Brentford draw]]></title>
       <description><![CDATA[Arsenal miss out on the chance to restore their six-point lead at the top of the Premier League in a thrilling 1-1 draw at Brentford.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c78x99lzj88o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c78x99lzj88o</guid>
       <pubDate>Thu, 12 Feb 2026 22:51:06 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3010/live/7b6d0490-0864-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Tottenham target Pulisic - Friday's gossip]]></title>
+      <description><![CDATA[Tottenham are showing interest in Christian Pulisic, Paris St-Germain are preparing a £100m bid for Brighton's Carlos Baleba, and Newcastle United will target a new striker in the summer.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8r1l8v32gro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8r1l8v32gro</guid>
+      <pubDate>Thu, 12 Feb 2026 21:35:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8afc/live/793091d0-0853-11f1-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
       <title><![CDATA[Are football fans booing their team more?]]></title>
@@ -72,22 +88,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7db2/live/b095db90-086b-11f1-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
-      <title><![CDATA[Sterling joins Feyenoord until end of season]]></title>
-      <description><![CDATA[Former Chelsea and Manchester City winger Raheem Sterling joins Dutch club Feyenoord on a deal until the end of the season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c62dlxpqznyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62dlxpqznyo</guid>
-      <pubDate>Thu, 12 Feb 2026 16:43:31 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa4/live/4e855030-0833-11f1-aced-291774efe15a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Nottingham Forest close in on Pereira appointment]]></title>
-      <description><![CDATA[Nottingham Forest close to appointing former Wolves boss Vitor Pereira as their new head coach.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czd857v5mm3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czd857v5mm3o</guid>
-      <pubDate>Thu, 12 Feb 2026 14:21:25 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bafa/live/bbb43f40-081a-11f1-8fdd-d9a354700c27.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[To boo or not to boo? Pundits and fans have their say]]></title>
       <description><![CDATA[Football fans and BBC pundits Danny Murphy, Joe Hart and Wayne Rooney have their say on whether it is OK to boo your own team.]]></description>
       <link>https://www.bbc.com/sport/football/videos/crrx9p2e89wo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -128,20 +128,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18b5/live/19144040-0866-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Sterling joins Feyenoord until end of season]]></title>
+      <description><![CDATA[Former Chelsea and Manchester City winger Raheem Sterling joins Dutch club Feyenoord on a deal until the end of the season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c62dlxpqznyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62dlxpqznyo</guid>
+      <pubDate>Thu, 12 Feb 2026 16:43:31 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa4/live/4e855030-0833-11f1-aced-291774efe15a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Nottingham Forest close in on Pereira appointment]]></title>
+      <description><![CDATA[Nottingham Forest close to appointing former Wolves boss Vitor Pereira as their new head coach.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/czd857v5mm3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czd857v5mm3o</guid>
+      <pubDate>Thu, 12 Feb 2026 14:21:25 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bafa/live/bbb43f40-081a-11f1-8fdd-d9a354700c27.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Bellamy aims high after Wales' Nations League draw]]></title>
       <description><![CDATA[Wales are grouped with Portugal, Denmark and Norway in the Nations League.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3v7l2zq50xo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3v7l2zq50xo</guid>
       <pubDate>Thu, 12 Feb 2026 20:01:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de75/live/34ff9310-084b-11f1-ba49-bb79b430dd38.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Tottenham target Pulisic - Friday's gossip]]></title>
-      <description><![CDATA[Tottenham are showing interest in Christian Pulisic, Paris St-Germain are preparing a £100m bid for Brighton's Carlos Baleba, and Newcastle United will target a new striker in the summer.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8r1l8v32gro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8r1l8v32gro</guid>
-      <pubDate>Thu, 12 Feb 2026 21:35:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8afc/live/793091d0-0853-11f1-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
       <title><![CDATA[Wrexham duo plot downfall of former club Ipswich]]></title>
@@ -176,14 +184,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24b3/live/7c4ff4e0-0840-11f1-a418-9d2f92813770.jpg"/>
     </item>
     <item>
-      <title><![CDATA[NI relish 'competitive' Nations League draw - O'Neill]]></title>
-      <description><![CDATA[Northern Ireland manager Michael O'Neill says "there are no easy games" in the Nations League after being drawn with Hungary, Ukraine and Georgia. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdxgy7lrydeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdxgy7lrydeo</guid>
-      <pubDate>Thu, 12 Feb 2026 20:03:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1b9/live/07b00640-0848-11f1-ba49-bb79b430dd38.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Injured Bellingham a doubt for England friendlies]]></title>
       <description><![CDATA[Jude Bellingham is a doubt for England's March friendlies amid fears from Real Madrid his hamstring injury is worse than first thought.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy4wn9wzvdlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -216,20 +216,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ed/live/9a64b860-081a-11f1-8fdd-d9a354700c27.jpg"/>
     </item>
     <item>
+      <title><![CDATA[NI relish 'competitive' Nations League draw - O'Neill]]></title>
+      <description><![CDATA[Northern Ireland manager Michael O'Neill says "there are no easy games" in the Nations League after being drawn with Hungary, Ukraine and Georgia. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdxgy7lrydeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdxgy7lrydeo</guid>
+      <pubDate>Thu, 12 Feb 2026 20:03:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1b9/live/07b00640-0848-11f1-ba49-bb79b430dd38.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Ex-West Ham forward Antonio in talks with Charlton]]></title>
       <description><![CDATA[Michail Antonio holds initial talks with Charlton Athletic about a possible return to domestic football after his near fatal car crash.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5yrpz16878o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yrpz16878o</guid>
       <pubDate>Thu, 12 Feb 2026 18:48:03 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d092/live/069cb3c0-0843-11f1-a418-9d2f92813770.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Republic of Ireland will fulfil Israel games - FAI]]></title>
-      <description><![CDATA[The Republic of Ireland will fulfil their Nations League fixtures with Israel, says the Football Association of Ireland (FAI).]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3rzxy2dyrlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3rzxy2dyrlo</guid>
-      <pubDate>Thu, 12 Feb 2026 18:15:57 GMT</pubDate>
-      <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc58/live/017e7cd0-083d-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[How 'terrific' Wirtz shone for Liverpool ]]></title>
@@ -281,6 +281,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb01/live/c95b8a90-0833-11f1-aced-291774efe15a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Republic of Ireland will fulfil Israel games - FAI]]></title>
+      <description><![CDATA[The Republic of Ireland will fulfil their Nations League fixtures with Israel, says the Football Association of Ireland (FAI).]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3rzxy2dyrlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3rzxy2dyrlo</guid>
+      <pubDate>Thu, 12 Feb 2026 18:15:57 GMT</pubDate>
+      <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc58/live/017e7cd0-083d-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Spurs' Odobert to have surgery after rupturing ACL]]></title>
       <description><![CDATA[Tottenham winger Wilson Odobert will have surgery after rupturing the anterior cruciate ligament in his left knee, his club confirms.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cm2xzk0l4xlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -311,14 +319,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp32nppjlqko</guid>
       <pubDate>Thu, 12 Feb 2026 17:01:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be10/live/423ef270-0830-11f1-aced-291774efe15a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I didn't hesitate' - Tuchel extends stay in England 'dream job']]></title>
-      <description><![CDATA[Thomas Tuchel commits to two more years as England manager, which will take him through to Euro 2028.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9dnl94750zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9dnl94750zo</guid>
-      <pubDate>Thu, 12 Feb 2026 09:08:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7520/live/9ffcd2b0-07fe-11f1-8981-b35bbe94674f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Another plot twist in Scottish title race for the ages]]></title>
@@ -361,12 +361,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/225f/live/b9cc96f0-077f-11f1-ae85-275d931e5922.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Why the Nations League still matters to World Cup-bound Scotland]]></title>
-      <description><![CDATA[The Nations League does not carry the prestige of other competitions, but Thursday's draw still carries huge importance to Scotland and the Tartan Army.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn0e1xygkylo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0e1xygkylo</guid>
-      <pubDate>Thu, 12 Feb 2026 07:11:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bda3/live/f9b2ec20-0765-11f1-9972-d3f265c101c6.jpg"/>
+      <title><![CDATA['I didn't hesitate' - Tuchel extends stay in England 'dream job']]></title>
+      <description><![CDATA[Thomas Tuchel commits to two more years as England manager, which will take him through to Euro 2028.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9dnl94750zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9dnl94750zo</guid>
+      <pubDate>Thu, 12 Feb 2026 09:08:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7520/live/9ffcd2b0-07fe-11f1-8981-b35bbe94674f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Premier League quiz: Name every manager departure this season]]></title>
@@ -505,6 +505,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e899/live/3ec0f5a0-0838-11f1-9886-2fe6cc4605e8.jpg"/>
     </item>
     <item>
+      <title><![CDATA[O'Neill urges Celtic to buy Saracchi - gossip]]></title>
+      <description><![CDATA[Interim manager Martin O'Neill would like Celtic to buy on-loan left-back Marcelo Saracchi this summer, while Motherwell's Tawanda Maswanhise is quizzed about reported Old Firm interest.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c20l6vy7n9wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20l6vy7n9wo</guid>
+      <pubDate>Fri, 13 Feb 2026 08:04:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aed/live/a59b7ba0-08b1-11f1-b5e2-dd58fc65f0f6.png"/>
+    </item>
+    <item>
       <title><![CDATA[Hamilton docked points for third time this season]]></title>
       <description><![CDATA[Hamilton Academical are hit with a third points penalty this season, which takes them second bottom of Scottish League One.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g7vkwjn2ro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -519,14 +527,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2r7ryggpzo</guid>
       <pubDate>Thu, 12 Feb 2026 16:23:36 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9568/live/5e1efbd0-082f-11f1-b5e2-dd58fc65f0f6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Moller sold to Sandefjord after six months at Dundee Utd]]></title>
-      <description><![CDATA[Dundee United sell striker Nikolaj Moller to Norwegian club Sandefjord less than six months after his arrival for free from Swiss outfit St Gallen.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yqr29ylv9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yqr29ylv9o</guid>
-      <pubDate>Thu, 12 Feb 2026 11:01:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c03/live/ce072400-0801-11f1-8cea-ffb3c81b0978.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ex-Villa striker Duran signs for sixth club aged 22]]></title>
