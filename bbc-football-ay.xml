@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 12 Feb 2026 23:48:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 02:08:32 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Will Arsenal's end-of-season form haunt them again?]]></title>
+      <description><![CDATA[Arsenal are four points clear at the top of the Premier League with 12 games to play - but will recent history repeat itself?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c795zp33qz2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c795zp33qz2o</guid>
+      <pubDate>Fri, 13 Feb 2026 00:21:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1fb/live/8ce92e00-086f-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Arsenal miss chance to restore six-point lead in Brentford draw]]></title>
       <description><![CDATA[Arsenal miss out on the chance to restore their six-point lead at the top of the Premier League in a thrilling 1-1 draw at Brentford.]]></description>
@@ -30,6 +38,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgjz7qln875o</guid>
       <pubDate>Thu, 12 Feb 2026 21:23:30 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4635/live/a74db590-085b-11f1-ba49-bb79b430dd38.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
+      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c89kvz58ypxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c89kvz58ypxo</guid>
+      <pubDate>Thu, 12 Feb 2026 23:58:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7db2/live/b095db90-086b-11f1-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
       <title><![CDATA[Sterling joins Feyenoord until end of season]]></title>
@@ -56,28 +72,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de75/live/34ff9310-084b-11f1-ba49-bb79b430dd38.jpg"/>
     </item>
     <item>
-      <title><![CDATA[England to face Spain and Croatia in Nations League]]></title>
-      <description><![CDATA[England will face Spain, Croatia and the Czech Republic in the 2026-27 Uefa Nations League group stage, while Wales are drawn with holders Portugal.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0j582gg12do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0j582gg12do</guid>
-      <pubDate>Thu, 12 Feb 2026 18:09:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24b3/live/7c4ff4e0-0840-11f1-a418-9d2f92813770.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Sutton's FA Cup fourth-round predictions v Daffy Duck & Porky Pig]]></title>
       <description><![CDATA[BBC Sport football expert Chris Sutton takes on Daffy Duck and Porky Pig - and AI - with his predictions for all 16 FA Cup fourth-round ties.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g84em314mo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g84em314mo</guid>
       <pubDate>Thu, 12 Feb 2026 22:48:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/e3477290-0665-11f1-b5e2-dd58fc65f0f6.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Tottenham are 'not a big club' - Postecoglou]]></title>
-      <description><![CDATA[Former head coach Ange Postecoglou criticises Tottenham's transfer strategy in the wake of Thomas Frank's sacking.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwyx18287k9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyx18287k9o</guid>
-      <pubDate>Thu, 12 Feb 2026 12:24:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0722/live/1b30f9a0-0801-11f1-8cea-ffb3c81b0978.jpg"/>
     </item>
     <item>
       <title><![CDATA[Tottenham target Pulisic - Friday's gossip]]></title>
@@ -129,12 +129,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdc9/live/c71e2450-079c-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Tottenham are 'not a big club' - Postecoglou]]></title>
+      <description><![CDATA[Former head coach Ange Postecoglou criticises Tottenham's transfer strategy in the wake of Thomas Frank's sacking.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwyx18287k9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyx18287k9o</guid>
+      <pubDate>Thu, 12 Feb 2026 12:24:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0722/live/1b30f9a0-0801-11f1-8cea-ffb3c81b0978.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Tuchel deal delights FA - but timing has echoes of Capello decision]]></title>
       <description><![CDATA[The FA is celebrating England head coach Thomas Tuchel's new deal as a coup - but the timing revives memories of its Fabio Capello blunder, says chief football writer Phil McNulty.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c62g4l2r5l8o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62g4l2r5l8o</guid>
       <pubDate>Thu, 12 Feb 2026 16:25:20 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2828/live/51a261f0-0823-11f1-aced-291774efe15a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[England to face Spain and Croatia in Nations League]]></title>
+      <description><![CDATA[England will face Spain, Croatia and the Czech Republic in the 2026-27 Uefa Nations League group stage, while Wales are drawn with holders Portugal.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0j582gg12do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0j582gg12do</guid>
+      <pubDate>Thu, 12 Feb 2026 18:09:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24b3/live/7c4ff4e0-0840-11f1-a418-9d2f92813770.jpg"/>
     </item>
     <item>
       <title><![CDATA[NI relish 'competitive' Nations League draw - O'Neill]]></title>
@@ -153,28 +169,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e43/live/47281600-083e-11f1-a418-9d2f92813770.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ex-West Ham forward Antonio in talks with Charlton]]></title>
-      <description><![CDATA[Michail Antonio holds initial talks with Charlton Athletic about a possible return to domestic football after his near fatal car crash.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yrpz16878o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yrpz16878o</guid>
-      <pubDate>Thu, 12 Feb 2026 18:48:03 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d092/live/069cb3c0-0843-11f1-a418-9d2f92813770.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Injured Bellingham a doubt for England friendlies]]></title>
       <description><![CDATA[Jude Bellingham is a doubt for England's March friendlies amid fears from Real Madrid his hamstring injury is worse than first thought.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy4wn9wzvdlo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy4wn9wzvdlo</guid>
       <pubDate>Thu, 12 Feb 2026 19:10:15 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6391/live/8852daa0-083b-11f1-a418-9d2f92813770.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd fans have say on Ratcliffe's immigration claims]]></title>
-      <description><![CDATA[The billionaire's comments about the UK being "colonised" by immigrants have divided opinion.]]></description>
-      <link>https://www.bbc.com/news/articles/czd85q75m1zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/czd85q75m1zo</guid>
-      <pubDate>Thu, 12 Feb 2026 19:21:38 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3321/live/1f3a8840-0833-11f1-aced-291774efe15a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Did Dyche deserve the sack at Nottingham Forest?]]></title>
@@ -185,12 +185,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e392/live/65fd6f90-0806-11f1-b56b-bf8bb0174edb.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Man Utd fans have say on Ratcliffe's immigration claims]]></title>
+      <description><![CDATA[The billionaire's comments about the UK being "colonised" by immigrants have divided opinion.]]></description>
+      <link>https://www.bbc.com/news/articles/czd85q75m1zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/czd85q75m1zo</guid>
+      <pubDate>Thu, 12 Feb 2026 19:21:38 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3321/live/1f3a8840-0833-11f1-aced-291774efe15a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Ratcliffe sorry language 'offended some' after immigration comments]]></title>
       <description><![CDATA[The Manchester United co-owner previously said the UK had been "colonised" by immigrants. ]]></description>
       <link>https://www.bbc.com/news/articles/cd6zvlywz77o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cd6zvlywz77o</guid>
       <pubDate>Thu, 12 Feb 2026 18:02:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ed/live/9a64b860-081a-11f1-8fdd-d9a354700c27.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ex-West Ham forward Antonio in talks with Charlton]]></title>
+      <description><![CDATA[Michail Antonio holds initial talks with Charlton Athletic about a possible return to domestic football after his near fatal car crash.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5yrpz16878o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yrpz16878o</guid>
+      <pubDate>Thu, 12 Feb 2026 18:48:03 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d092/live/069cb3c0-0843-11f1-a418-9d2f92813770.jpg"/>
     </item>
     <item>
       <title><![CDATA[Republic of Ireland will fulfil Israel games - FAI]]></title>
@@ -223,22 +239,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2xzk0l4xlo</guid>
       <pubDate>Thu, 12 Feb 2026 14:58:49 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccdc/live/c54587c0-0820-11f1-8fdd-d9a354700c27.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Lucky break that changed Alexander-Arnold's Real future]]></title>
-      <description><![CDATA[Trent Alexander-Arnold endured a difficult start at Real Madrid but his prospects are looking up - and it might earn him a ticket to the World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0q3dwkq01go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0q3dwkq01go</guid>
-      <pubDate>Thu, 12 Feb 2026 09:00:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f95/live/2f5d9480-07f5-11f1-bd63-5ba097006cd6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Barnet boss gets nine-game ban for abusing female referee]]></title>
-      <description><![CDATA[Barnet manager Dean Brennan is given a nine-game touchline ban for verbally abusing referee Kirsty Dowle, with reference to gender.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp32nppjlqko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp32nppjlqko</guid>
-      <pubDate>Thu, 12 Feb 2026 17:01:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be10/live/423ef270-0830-11f1-aced-291774efe15a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Haaland ends open-play goal drought as Man City beat Fulham]]></title>
@@ -281,6 +281,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e184/live/546d5420-07a7-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Lucky break that changed Alexander-Arnold's Real future]]></title>
+      <description><![CDATA[Trent Alexander-Arnold endured a difficult start at Real Madrid but his prospects are looking up - and it might earn him a ticket to the World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0q3dwkq01go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0q3dwkq01go</guid>
+      <pubDate>Thu, 12 Feb 2026 09:00:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f95/live/2f5d9480-07f5-11f1-bd63-5ba097006cd6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Barnet boss gets nine-game ban for abusing female referee]]></title>
+      <description><![CDATA[Barnet manager Dean Brennan is given a nine-game touchline ban for verbally abusing referee Kirsty Dowle, with reference to gender.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp32nppjlqko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp32nppjlqko</guid>
+      <pubDate>Thu, 12 Feb 2026 17:01:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be10/live/423ef270-0830-11f1-aced-291774efe15a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['I didn't hesitate' - Tuchel extends stay in England 'dream job']]></title>
       <description><![CDATA[Thomas Tuchel commits to two more years as England manager, which will take him through to Euro 2028.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c9dnl94750zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -321,15 +337,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0669/live/6ad23880-07ab-11f1-9f34-f95ba60a83c9.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Man City 'breathing down Arsenal's neck' as title 'belief' grows]]></title>
-      <description><![CDATA[Pep Guardiola vowed his Manchester City side would "breathe down the neck of Arsenal" as they aim to hunt down the Premier League leaders in this fascinating title race.
-]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c7438z9d983o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7438z9d983o</guid>
-      <pubDate>Wed, 11 Feb 2026 23:13:10 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bb4/live/46b7fe10-0799-11f1-b5e2-dd58fc65f0f6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Will 40-point mark be needed for Premier League survival?]]></title>
       <description><![CDATA[Will the 40-point mark - or thereabouts - be needed to guarantee survival this term, with an in-form West Ham attempting to chase down the sides above them? ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4gjplk9rr7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -354,6 +361,15 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bda3/live/f9b2ec20-0765-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Man City 'breathing down Arsenal's neck' as title 'belief' grows]]></title>
+      <description><![CDATA[Pep Guardiola vowed his Manchester City side would "breathe down the neck of Arsenal" as they aim to hunt down the Premier League leaders in this fascinating title race.
+]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c7438z9d983o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7438z9d983o</guid>
+      <pubDate>Wed, 11 Feb 2026 23:13:10 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bb4/live/46b7fe10-0799-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Premier League quiz: Name every manager departure this season]]></title>
       <description><![CDATA[There've been eight times this season a Premier League club has parted ways with a permanent head coach.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvg5w56pnz9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -362,28 +378,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87f9/live/a2d55700-0812-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Late arrival & incredible comeback - Burnley deepen Palace woes]]></title>
-      <description><![CDATA[The Clarets' remarkable first-half fightback keeps alive their slim hopes of Premier League survival, but where does it leave Crystal Palace?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c626jvne615o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c626jvne615o</guid>
-      <pubDate>Thu, 12 Feb 2026 00:13:56 GMT</pubDate>
-      <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ae0/live/824be1e0-07a7-11f1-b5e2-dd58fc65f0f6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Frank's downfall: Inside his struggle to get players and fans onboard ]]></title>
       <description><![CDATA[Thomas Frank has been sacked as Tottenham manager after just eight months in charge. BBC Sport's Sami Mokbel takes a closer look at his tenure.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgmlv9d3k7no?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgmlv9d3k7no</guid>
       <pubDate>Wed, 11 Feb 2026 19:51:53 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93eb/live/9869ca30-0803-11f1-9972-d3f265c101c6.png"/>
-    </item>
-    <item>
-      <title><![CDATA[From £70 a week to Premier League record 24 years later]]></title>
-      <description><![CDATA[James Milner has equalled the Premier League appearance record, 24 years after making his debut as a 16-year-old.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgvq6xqnl4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgvq6xqnl4o</guid>
-      <pubDate>Wed, 11 Feb 2026 20:01:04 GMT</pubDate>
-      <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d31/live/4e3045e0-0784-11f1-b5e2-dd58fc65f0f6.png"/>
     </item>
     <item>
       <title><![CDATA[Why Frank at Tottenham was a gamble that ended in bitter failure]]></title>
