@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 13 Feb 2026 08:41:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 09:42:44 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,6 +40,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c34/live/9f0e7040-089c-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Can a pulse of electricity to the brain make us less selfish?]]></title>
+      <description><![CDATA[Scientists have discovered how to make people less selfish - slightly and temporarily - by stimulating two areas of the brain.]]></description>
+      <link>https://www.bbc.com/news/articles/c20znqe2yqlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c20znqe2yqlo</guid>
+      <pubDate>Fri, 13 Feb 2026 00:06:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5104/live/f1e86890-081d-11f1-8fdd-d9a354700c27.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['My husband stole £600k for sex and antiques' - drug side effects tearing families apart]]></title>
+      <description><![CDATA[Side effects of a common Parkinson’s medications had devastating consequences on one family, BBC hears.]]></description>
+      <link>https://www.bbc.com/news/articles/clym0g4rlr2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/clym0g4rlr2o</guid>
+      <pubDate>Fri, 13 Feb 2026 06:02:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cec/live/8b8bb8f0-0803-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['His loss is massive': Inquests show spread of deadly synthetic drugs]]></title>
       <description><![CDATA[A BBC investigation shows how nitazene deaths have risen and the illegal drug market is changing.]]></description>
       <link>https://www.bbc.com/news/articles/ce3enqnnpy8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -56,20 +72,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a838/live/7c0b4310-0735-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Medical neglect contributed to mother's death, inquest finds]]></title>
-      <description><![CDATA[A doctor failed to see test results that should have alerted them to Sue Howells's blood clot, an inquest hears.]]></description>
-      <link>https://www.bbc.com/news/articles/czj17dyjnpzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/czj17dyjnpzo</guid>
-      <pubDate>Thu, 12 Feb 2026 18:07:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8122/live/1160b320-0789-11f1-b2b9-0593a020cf50.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['I racked up £145k of debt' - pharmacists struggling to stay afloat as costs soar]]></title>
       <description><![CDATA[With costs escalating, pharmacies are making a loss on essential items such as aspirin. ]]></description>
       <link>https://www.bbc.com/news/articles/c3wzvd5l36yo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3wzvd5l36yo</guid>
       <pubDate>Thu, 12 Feb 2026 16:13:55 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8660/live/c2e52630-07f7-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Medical neglect contributed to mother's death, inquest finds]]></title>
+      <description><![CDATA[A doctor failed to see test results that should have alerted them to Sue Howells's blood clot, an inquest hears.]]></description>
+      <link>https://www.bbc.com/news/articles/czj17dyjnpzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/czj17dyjnpzo</guid>
+      <pubDate>Thu, 12 Feb 2026 18:07:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8122/live/1160b320-0789-11f1-b2b9-0593a020cf50.jpg"/>
     </item>
     <item>
       <title><![CDATA['Families have lost trust over maternity inquiry']]></title>
@@ -215,22 +231,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y2z2v964zo</guid>
       <pubDate>Tue, 03 Feb 2026 06:09:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b926/live/68b7baf0-006e-11f1-b49c-93e7b72bd9b3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Seven million cancers a year are preventable, says report]]></title>
-      <description><![CDATA[Scientists say there is a powerful opportunity to save lives because nearly 40% of cancers are preventable.]]></description>
-      <link>https://www.bbc.com/news/articles/c5yd3x7yreno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yd3x7yreno</guid>
-      <pubDate>Tue, 03 Feb 2026 16:00:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7382/live/81ddf1e0-0125-11f1-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[No-one knows what to expect when you're dying, but hospices are helping me]]></title>
-      <description><![CDATA[Hospices caring for people at the end of their lives are at risk because funding is "unsustainable".]]></description>
-      <link>https://www.bbc.com/news/articles/cddgj450088o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cddgj450088o</guid>
-      <pubDate>Wed, 04 Feb 2026 06:17:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d308/live/a6dc7460-0190-11f1-9182-656f10667613.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
