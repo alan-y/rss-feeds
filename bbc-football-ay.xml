@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 11:52:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 12:45:06 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,30 +48,6 @@
       <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5937/live/2cc31500-06ac-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Intense, aggressive, entertaining' - what will Tudor bring to Spurs?]]></title>
-      <description><![CDATA[After Igor Tudor agrees to take charge of Tottenham for the remainder of the season, BBC Sport takes a look at what supporters can expect to see from his side.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckg13nkvd2eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg13nkvd2eo</guid>
-      <pubDate>Fri, 13 Feb 2026 19:59:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37c6/live/14200270-0903-11f1-aaa8-3d1a2959c828.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Marvellous' Man City set WSL standard in rampant win]]></title>
-      <description><![CDATA['Marvellous' Manchester City set WSL standard in rampant 6-0 win over bottom side Leicester.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crrxwjjqrxeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crrxwjjqrxeo</guid>
-      <pubDate>Fri, 13 Feb 2026 23:10:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b87e/live/8affadd0-097d-11f1-b5e2-dd58fc65f0f6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Greedy' Wrexham dream of adding to 'incredible journey']]></title>
-      <description><![CDATA[Wrexham are dreaming of adding to their "incredible journey" after reaching the FA Cup fifth round for the first time in 29 years with victory over Ipswich Town.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckg13qdv793o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg13qdv793o</guid>
-      <pubDate>Fri, 13 Feb 2026 23:00:24 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d79a/live/97a8c8d0-092f-11f1-b97b-81e791158a06.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Neto scores hat-trick as Chelsea see off Hull in FA Cup]]></title>
       <description><![CDATA[A Pedro Neto hat-trick fires Chelsea through to the FA Cup fifth round with a comfortable win at Championship Hull City.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c1780yxk5r5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -88,12 +64,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7cc/live/70d384b0-092b-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ferguson 'giving Hearts pointers' on Scottish title fight]]></title>
-      <description><![CDATA[Hearts head coach Derek McInnes says he's in regular contact with Sir Alex Ferguson as the league leaders prepare to take on Rangers at Ibrox in a crunch match this weekend.  ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg1m9m4ye2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg1m9m4ye2o</guid>
-      <pubDate>Sat, 14 Feb 2026 08:24:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/330f/live/098df320-08fa-11f1-b5e2-dd58fc65f0f6.jpg"/>
+      <title><![CDATA['Intense, aggressive, entertaining' - what will new boss Tudor bring to Spurs?]]></title>
+      <description><![CDATA[After Igor Tudor agrees to take charge of Tottenham for the remainder of the season, BBC Sport takes a look at what supporters can expect to see from his side.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckg13nkvd2eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg13nkvd2eo</guid>
+      <pubDate>Sat, 14 Feb 2026 12:23:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3faf/live/e840bc50-09a0-11f1-90a0-33c579c60bf0.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Marvellous' Man City set WSL standard in rampant win]]></title>
+      <description><![CDATA['Marvellous' Manchester City set WSL standard in rampant 6-0 win over bottom side Leicester.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crrxwjjqrxeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crrxwjjqrxeo</guid>
+      <pubDate>Fri, 13 Feb 2026 23:10:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b87e/live/8affadd0-097d-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Greedy' Wrexham dream of adding to 'incredible journey']]></title>
+      <description><![CDATA[Wrexham are dreaming of adding to their "incredible journey" after reaching the FA Cup fifth round for the first time in 29 years with victory over Ipswich Town.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckg13qdv793o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg13qdv793o</guid>
+      <pubDate>Fri, 13 Feb 2026 23:00:24 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d79a/live/97a8c8d0-092f-11f1-b97b-81e791158a06.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man City thrash Leicester to move 11 points clear in WSL]]></title>
@@ -137,6 +129,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwyk46gpr1jo</guid>
       <pubDate>Fri, 13 Feb 2026 14:28:06 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/025d/live/08c55120-08e8-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ferguson 'giving Hearts pointers' on Scottish title fight]]></title>
+      <description><![CDATA[Hearts head coach Derek McInnes says he's in regular contact with Sir Alex Ferguson as the league leaders prepare to take on Rangers at Ibrox in a crunch match this weekend.  ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvg1m9m4ye2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg1m9m4ye2o</guid>
+      <pubDate>Sat, 14 Feb 2026 08:24:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/330f/live/098df320-08fa-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Discriminatory chants called 'stain on game' after arrests made at Hull City]]></title>
@@ -227,14 +227,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/972c/live/084d02f0-08df-11f1-961c-5b7d58c0375b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Tudor agrees deal to become Spurs' interim boss]]></title>
-      <description><![CDATA[Igor Tudor agrees a deal to become Tottenham interim head coach until the end of the season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg87wlv7lmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg87wlv7lmo</guid>
-      <pubDate>Fri, 13 Feb 2026 13:49:49 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a82/live/c9969ce0-08e5-11f1-b046-7389c3987914.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Watch: Paton lob seals St Johnstone win at Airdrie]]></title>
       <description><![CDATA[Watch Ruari Paton's solitary goal in St Johnstone's win at Airdrieonians, which moved the Perth side five points clear at the top of the Scottish Championship.]]></description>
       <link>https://www.bbc.com/sport/videos/c0437qvlykgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -265,6 +257,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ce3gyp9g9q0o</guid>
       <pubDate>Fri, 13 Feb 2026 06:29:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7de/live/a1217460-0831-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Tudor agrees deal to become Spurs' interim boss]]></title>
+      <description><![CDATA[Igor Tudor agrees a deal to become Tottenham interim head coach until the end of the season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvg87wlv7lmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg87wlv7lmo</guid>
+      <pubDate>Fri, 13 Feb 2026 13:49:49 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a82/live/c9969ce0-08e5-11f1-b046-7389c3987914.jpg"/>
     </item>
     <item>
       <title><![CDATA[Football must avoid 'microscopic' VAR - Uefa refs' chief]]></title>
@@ -315,14 +315,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6782/live/a516b970-08ec-11f1-94dc-adc7436c6c75.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How poker-face Eustace has transformed Derby in year]]></title>
-      <description><![CDATA[Derby County head coach John Eustace reflects on his first year in the job and looks ahead to what he wants from the Rams.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpv8z7enkn7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv8z7enkn7o</guid>
-      <pubDate>Fri, 13 Feb 2026 11:49:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/482d/live/140a2060-08ca-11f1-aef6-c5b8e6ae55fa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Hull will always have a special place in my heart - Rosenior]]></title>
       <description><![CDATA[Chelsea manager Liam Rosenior sits down with BBC Sport before Friday night's FA Cup fourth-round clash with Hull City - a team he used to both play for and manage.]]></description>
       <link>https://www.bbc.com/sport/football/videos/ckg20388kmno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -362,6 +354,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cpd8v49jg81o</guid>
       <pubDate>Thu, 12 Feb 2026 00:00:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2019/live/03255d00-07a3-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How poker-face Eustace has transformed Derby in year]]></title>
+      <description><![CDATA[Derby County head coach John Eustace reflects on his first year in the job and looks ahead to what he wants from the Rams.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpv8z7enkn7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv8z7enkn7o</guid>
+      <pubDate>Fri, 13 Feb 2026 11:49:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/482d/live/140a2060-08ca-11f1-aef6-c5b8e6ae55fa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Will Arsenal's end-of-season form haunt them again?]]></title>
@@ -410,14 +410,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2ye666jjlo</guid>
       <pubDate>Fri, 13 Feb 2026 11:24:06 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2c3/live/93750260-f624-11f0-a422-4ba8a094a8fa.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Le Tissier & Terland's celebration mocks Man Utd fan]]></title>
-      <description><![CDATA[Manchester United's Elisabeth Terland and Maya Le Tissier playfully mock Frank Ilett by pretending to cut their hair while celebrating a goal.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz9qgg577jeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz9qgg577jeo</guid>
-      <pubDate>Fri, 13 Feb 2026 10:01:18 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5396/live/d99f2f60-08bf-11f1-b197-d9b05591fdc1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Van Dijk scores as Liverpool beat Sunderland to close top-four gap]]></title>
