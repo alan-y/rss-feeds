@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 21:53:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 22:22:15 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -72,14 +72,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8106/live/ffaee9d0-09e5-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Liverpool favourites for Gordon - Sunday's gossip]]></title>
-      <description><![CDATA[Anthony Gordon could be heading back to Merseyside as Mohamed Salah looks set to leave Liverpool, Arsenal target Castello Lukeba, while Manchester United watch Serie A duo.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cev7gw3y97ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cev7gw3y97ro</guid>
-      <pubDate>Sat, 14 Feb 2026 21:40:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c79b/live/7334e680-09ea-11f1-b7e1-afb6d0884c18.png"/>
-    </item>
-    <item>
       <title><![CDATA[Mansfield's Reed scores fabulous free-kick to upset Burnley]]></title>
       <description><![CDATA[Watch Mansfield Town's Louis Reed produce "set-piece sorcery," scoring a sensational free kick to stun Premier League side Burnley and reach the FA Cup fifth round.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cp8rn3v2lmgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -118,6 +110,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c8xypwr02jyo</guid>
       <pubDate>Sat, 14 Feb 2026 17:17:10 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e04f/live/e053db90-09c7-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Liverpool favourites for Gordon - Sunday's gossip]]></title>
+      <description><![CDATA[Anthony Gordon could be heading back to Merseyside as Mohamed Salah looks set to leave Liverpool, Arsenal target Castello Lukeba, while Manchester United watch Serie A duo.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cev7gw3y97ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cev7gw3y97ro</guid>
+      <pubDate>Sat, 14 Feb 2026 21:40:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c79b/live/7334e680-09ea-11f1-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
       <title><![CDATA[Saviour Summerville is West Ham's man of the moment]]></title>
@@ -216,14 +216,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3faf/live/e840bc50-09a0-11f1-90a0-33c579c60bf0.jpg"/>
     </item>
     <item>
-      <title><![CDATA['It was silly from me' - 'brilliant' Delap recovers from error]]></title>
-      <description><![CDATA[Chelsea striker Liam Delap turns in "top" performance in the 4-0 win over Hull City with a hat-trick of assists after missing a sitter.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg3pjqk8d1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg3pjqk8d1o</guid>
-      <pubDate>Fri, 13 Feb 2026 23:42:11 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c866/live/648c3fc0-092c-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Summerville winner helps 10-man West Ham see off Burton]]></title>
       <description><![CDATA[Crysencio Summerville scores his sixth goal in seven games to give West Ham a 1-0 away win over Burton Albion after extra time in the fourth round of the FA Cup.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c3dze2rpmv2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -267,6 +259,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d3b/live/f4d75a00-0900-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
+      <title><![CDATA['It was silly from me' - 'brilliant' Delap recovers from error]]></title>
+      <description><![CDATA[Chelsea striker Liam Delap turns in "top" performance in the 4-0 win over Hull City with a hat-trick of assists after missing a sitter.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvg3pjqk8d1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg3pjqk8d1o</guid>
+      <pubDate>Fri, 13 Feb 2026 23:42:11 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c866/live/648c3fc0-092c-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Pereira signs deal as Forest boss until end of next season]]></title>
       <description><![CDATA[Vitor Pereira has signed a deal until the end of next season to become Nottingham Forest's fourth manager of the campaign. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c9wnrqwzrneo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -305,14 +305,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2d1x3dlrkko</guid>
       <pubDate>Fri, 13 Feb 2026 13:25:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a493/live/c46198b0-08d6-11f1-a3dc-9988f12732f3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Discriminatory chants called 'stain on game' after arrests made at Hull City]]></title>
-      <description><![CDATA[Arrests have been made following incidents of alleged discriminatory chanting during the FA Cup fourth round match between Hull City and Chelsea.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg8748r0w2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg8748r0w2o</guid>
-      <pubDate>Fri, 13 Feb 2026 23:38:12 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b2b/live/792d5b70-092d-11f1-9b8e-358033f9eafe.jpg"/>
     </item>
     <item>
       <title><![CDATA[Africa Cup of Nations 2027 set for June-July slot]]></title>
