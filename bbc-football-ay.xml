@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 15:30:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 15:54:07 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -30,14 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1kgnygm2rko</guid>
       <pubDate>Fri, 13 Feb 2026 22:32:30 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7cc/live/70d384b0-092b-11f1-b5e2-dd58fc65f0f6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Guimaraes set to be out for two months with injury]]></title>
-      <description><![CDATA[Newcastle United captain Bruno Guimaraes is expected to be out for a couple of months after sustaining a hamstring injury.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj320gmz40no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj320gmz40no</guid>
-      <pubDate>Sat, 14 Feb 2026 10:34:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/800b/live/28a34cc0-098f-11f1-af4d-2f3113468e18.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man City thrash Leicester to move 11 points clear in WSL]]></title>
@@ -83,6 +75,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/025d/live/08c55120-08e8-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Guimaraes set to be out for two months with injury]]></title>
+      <description><![CDATA[Newcastle United captain Bruno Guimaraes is expected to be out for a couple of months after sustaining a hamstring injury.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj320gmz40no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj320gmz40no</guid>
+      <pubDate>Sat, 14 Feb 2026 10:34:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/800b/live/28a34cc0-098f-11f1-af4d-2f3113468e18.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Why Villa are still relying on old guard - and can it last?]]></title>
       <description><![CDATA[Aston Villa's old guard have taken the club to new heights - but how long can it last?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c9dny1gjde8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -123,20 +123,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/330f/live/098df320-08fa-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Marvellous' Man City set WSL standard in rampant win]]></title>
-      <description><![CDATA['Marvellous' Manchester City set WSL standard in rampant 6-0 win over bottom side Leicester.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crrxwjjqrxeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crrxwjjqrxeo</guid>
-      <pubDate>Fri, 13 Feb 2026 23:10:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b87e/live/8affadd0-097d-11f1-b5e2-dd58fc65f0f6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Greedy' Wrexham dream of adding to 'incredible journey']]></title>
       <description><![CDATA[Wrexham are dreaming of adding to their "incredible journey" after reaching the FA Cup fifth round for the first time in 29 years with victory over Ipswich Town.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ckg13qdv793o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg13qdv793o</guid>
       <pubDate>Fri, 13 Feb 2026 23:00:24 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d79a/live/97a8c8d0-092f-11f1-b97b-81e791158a06.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Marvellous' Man City set WSL standard in rampant win]]></title>
+      <description><![CDATA['Marvellous' Manchester City set WSL standard in rampant 6-0 win over bottom side Leicester.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crrxwjjqrxeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crrxwjjqrxeo</guid>
+      <pubDate>Fri, 13 Feb 2026 23:10:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b87e/live/8affadd0-097d-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[One manager, two jobs - how will O'Neill's situation work?]]></title>
@@ -169,14 +169,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g0jjxmr00o</guid>
       <pubDate>Fri, 13 Feb 2026 19:01:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4f3/live/89321f30-08cc-11f1-9fa3-3f5df35dc033.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man City, Chelsea & Bayern eye Thiago - Saturday's gossip]]></title>
-      <description><![CDATA[Man City, Chelsea and Bayern Munich retain Igor Thiago interest, Dayot Upamecano dashes Real Madrid & Liverpool hopes, while Real Madrid place Endrick off limits, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx28pgex713o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx28pgex713o</guid>
-      <pubDate>Fri, 13 Feb 2026 22:39:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d5c/live/ededea10-0928-11f1-9972-d3f265c101c6.png"/>
     </item>
     <item>
       <title><![CDATA[Africa Cup of Nations 2027 set for June-July slot]]></title>
@@ -227,6 +219,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/e3477290-0665-11f1-b5e2-dd58fc65f0f6.png"/>
     </item>
     <item>
+      <title><![CDATA[Man City, Chelsea & Bayern eye Thiago - Saturday's gossip]]></title>
+      <description><![CDATA[Man City, Chelsea and Bayern Munich retain Igor Thiago interest, Dayot Upamecano dashes Real Madrid & Liverpool hopes, while Real Madrid place Endrick off limits, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx28pgex713o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx28pgex713o</guid>
+      <pubDate>Fri, 13 Feb 2026 22:39:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d5c/live/ededea10-0928-11f1-9972-d3f265c101c6.png"/>
+    </item>
+    <item>
       <title><![CDATA['I had to put everyone on edge' - how managers make an impact]]></title>
       <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis explains the key things a manager can do before, during and after matches to get the results they want.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c77e4lvk7n1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -257,14 +257,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c75ew7719llo</guid>
       <pubDate>Fri, 13 Feb 2026 13:41:43 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/972c/live/084d02f0-08df-11f1-961c-5b7d58c0375b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Football must avoid 'microscopic' VAR - Uefa refs' chief]]></title>
-      <description><![CDATA[Uefa referees' chief Roberto Rosetti says video assistant review (VAR) is becoming too forensic and handball must be revisited.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn8zlp3gepyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn8zlp3gepyo</guid>
-      <pubDate>Fri, 13 Feb 2026 12:00:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b00/live/52e36510-0831-11f1-9b40-b53268dfba10.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hull will always have a special place in my heart - Rosenior]]></title>
@@ -316,6 +308,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9943/live/637733b0-0823-11f1-aced-291774efe15a.png"/>
     </item>
     <item>
+      <title><![CDATA[Football must avoid 'microscopic' VAR - Uefa refs' chief]]></title>
+      <description><![CDATA[Uefa referees' chief Roberto Rosetti says video assistant review (VAR) is becoming too forensic and handball must be revisited.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn8zlp3gepyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn8zlp3gepyo</guid>
+      <pubDate>Fri, 13 Feb 2026 12:00:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b00/live/52e36510-0831-11f1-9b40-b53268dfba10.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Celtic report £13.2m pre-tax interim profit]]></title>
       <description><![CDATA[Celtic report a pre-tax profit of £13.2m in their interim results for the six months to December.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c93j8kw790qo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -346,14 +346,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2x92l24rpo</guid>
       <pubDate>Fri, 13 Feb 2026 06:20:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7505/live/11462b10-072d-11f1-811d-d70cdc846ab3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How poker-face Eustace has transformed Derby in year]]></title>
-      <description><![CDATA[Derby County head coach John Eustace reflects on his first year in the job and looks ahead to what he wants from the Rams.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpv8z7enkn7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv8z7enkn7o</guid>
-      <pubDate>Fri, 13 Feb 2026 11:49:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/482d/live/140a2060-08ca-11f1-aef6-c5b8e6ae55fa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Will Arsenal's end-of-season form haunt them again?]]></title>
