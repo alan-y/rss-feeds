@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 21:54:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 22:23:08 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -176,14 +176,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e95/live/15838160-0a74-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Benatia leaves Marseille amid 'growing dissatisfaction']]></title>
-      <description><![CDATA[Marseille sporting director Medhi Benatia says he is leaving his role just days after the exit of Roberto de Zerbi as manager of the French club.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn5g7q7lwnvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn5g7q7lwnvo</guid>
-      <pubDate>Sun, 15 Feb 2026 15:15:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5983/live/4a849a30-0a7d-11f1-9f4d-9d8a5378dc79.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Reed & Kevin earn Fulham comeback win at Stoke]]></title>
       <description><![CDATA[Second half goals from Kevin and Harrison Reed helped Fulham beat Stoke City and earn a place in the FA Cup fifth round.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cx2457y27dyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -222,6 +214,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ce3gn1v4rk4o</guid>
       <pubDate>Sat, 14 Feb 2026 21:27:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c989/live/99914df0-09ea-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Benatia leaves Marseille amid 'growing dissatisfaction']]></title>
+      <description><![CDATA[Marseille sporting director Medhi Benatia says he is leaving his role just days after the exit of Roberto de Zerbi as manager of the French club.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn5g7q7lwnvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn5g7q7lwnvo</guid>
+      <pubDate>Sun, 15 Feb 2026 15:15:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5983/live/4a849a30-0a7d-11f1-9f4d-9d8a5378dc79.jpg"/>
     </item>
     <item>
       <title><![CDATA[Brilliant Mansfield pile pressure on Parker - is his time up at Burnley?]]></title>
@@ -312,14 +312,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1d/live/5e699870-09e7-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[A 'very special' FA Cup win and why managing Ronaldo is 'easy']]></title>
-      <description><![CDATA[Portugal manager Roberto Martinez sits down with Kelly Somers to talk about his life in football.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c98gy904nggo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98gy904nggo</guid>
-      <pubDate>Sat, 14 Feb 2026 06:14:07 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d773/live/e119dac0-09b3-11f1-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['What is he doing?' - Villa keeper Bizot shown red card]]></title>
       <description><![CDATA[Aston Villa goalkeeper Marco Bizot is shown a straight red card for a "naughty challenge" on Newcastle United's Jacob Murphy in their FA Cup fourth round tie at Villa Park.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cyv93vy22n4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -360,6 +352,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6474/live/ae2b2660-09da-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
+      <title><![CDATA[A 'very special' FA Cup win and why managing Ronaldo is 'easy']]></title>
+      <description><![CDATA[Portugal manager Roberto Martinez sits down with Kelly Somers to talk about his life in football.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c98gy904nggo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98gy904nggo</guid>
+      <pubDate>Sat, 14 Feb 2026 06:14:07 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d773/live/e119dac0-09b3-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Intense, aggressive, entertaining' - what will new boss Tudor bring to Spurs?]]></title>
       <description><![CDATA[After Igor Tudor agrees to take charge of Tottenham for the remainder of the season, BBC Sport takes a look at what supporters can expect to see from his side.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ckg13nkvd2eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -390,14 +390,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2x92l24rpo</guid>
       <pubDate>Fri, 13 Feb 2026 06:20:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7505/live/11462b10-072d-11f1-811d-d70cdc846ab3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Did Dyche deserve the sack at Nottingham Forest?]]></title>
-      <description><![CDATA[After Sean Dyche's reign lasts just 114 days, Nottingham Forest are on the hunt for a fourth head coach of the season - but was he hard done by?]]></description>
-      <link>https://www.bbc.com/sport/articles/c77e4elpgpro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c77e4elpgpro</guid>
-      <pubDate>Thu, 12 Feb 2026 12:58:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e392/live/65fd6f90-0806-11f1-b56b-bf8bb0174edb.jpg"/>
     </item>
     <item>
       <title><![CDATA[All February's done deals, including deadline day, in one place]]></title>
