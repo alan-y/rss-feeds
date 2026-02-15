@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 22:57:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 23:32:04 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -96,6 +96,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b5a/live/8a4920a0-0a91-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Did the water bottle help or hinder Leeds keeper Perri?]]></title>
+      <description><![CDATA[BBC Sport pundit Paul Robinson discusses Leeds United goalkeeper Lucas Perri's penalty shootout notes on his water bottle after the FA Cup win over Birmingham.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cm2898djkvzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cm2898djkvzo</guid>
+      <pubDate>Sun, 15 Feb 2026 23:19:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a54/live/183d14c0-0ac4-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[James instrumental as Chelsea beat Liverpool]]></title>
       <description><![CDATA[Lauren James is instrumental in Chelsea's 2-0 win over Liverpool as she assists Sjoeke Nusken before scoring her side's second. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/cewz5jx185xo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c15xzkg5k81o</guid>
       <pubDate>Sun, 15 Feb 2026 18:09:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ce/live/688bc950-0a7c-11f1-b5e2-dd58fc65f0f6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Officials need VAR after FA Cup mistakes - Rooney]]></title>
-      <description><![CDATA[Wayne Rooney says "referees need help" after big mistakes were made during an FA Cup weekend with VAR.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cy57k92z152o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy57k92z152o</guid>
-      <pubDate>Sun, 15 Feb 2026 21:09:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf6f/live/70abcdc0-0ab2-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chelsea keen on Murillo - Monday's gossip]]></title>
@@ -168,6 +168,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d379/live/8d04ddf0-09d0-11f1-bfd9-a1813d3ca61e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Brighton v Arsenal postponed because of waterlogged pitch]]></title>
+      <description><![CDATA[Brighton's game at home to Arsenal in the Women's Super League on Sunday is postponed because of a waterlogged pitch. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cedznv6qv1go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cedznv6qv1go</guid>
+      <pubDate>Sun, 15 Feb 2026 13:53:20 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e95/live/15838160-0a74-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Officials need VAR after FA Cup mistakes - Rooney]]></title>
+      <description><![CDATA[Wayne Rooney says "referees need help" after big mistakes were made during an FA Cup weekend with VAR.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cy57k92z152o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy57k92z152o</guid>
+      <pubDate>Sun, 15 Feb 2026 21:09:29 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf6f/live/70abcdc0-0ab2-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Reed & Kevin earn Fulham comeback win at Stoke]]></title>
       <description><![CDATA[Second half goals from Kevin and Harrison Reed helped Fulham beat Stoke City and earn a place in the FA Cup fifth round.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cx2457y27dyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -198,22 +214,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5yg5x9yx3jo</guid>
       <pubDate>Sat, 14 Feb 2026 23:54:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77e0/live/3537e560-09f1-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['One of worst decisions I've ever seen' - Rooney on Digne handball]]></title>
-      <description><![CDATA[Wayne Rooney and Alan Shearer believe referees are "petrified" of making decisions without the "safety net of VAR", after the officials award a free-kick instead of a penalty despite Aston Villa's Lucas Digne handling the ball in the box.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/ce3gn1v4rk4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ce3gn1v4rk4o</guid>
-      <pubDate>Sat, 14 Feb 2026 21:27:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c989/live/99914df0-09ea-11f1-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Brighton v Arsenal postponed because of waterlogged pitch]]></title>
-      <description><![CDATA[Brighton's game at home to Arsenal in the Women's Super League on Sunday is postponed because of a waterlogged pitch. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cedznv6qv1go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cedznv6qv1go</guid>
-      <pubDate>Sun, 15 Feb 2026 13:53:20 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e95/live/15838160-0a74-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[Benatia leaves Marseille amid 'growing dissatisfaction']]></title>
@@ -256,6 +256,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a124/live/6ba32210-09e5-11f1-b981-779c7a5f5cc0.jpg"/>
     </item>
     <item>
+      <title><![CDATA['One of worst decisions I've ever seen' - Rooney on Digne handball]]></title>
+      <description><![CDATA[Wayne Rooney and Alan Shearer believe referees are "petrified" of making decisions without the "safety net of VAR", after the officials award a free-kick instead of a penalty despite Aston Villa's Lucas Digne handling the ball in the box.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/ce3gn1v4rk4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ce3gn1v4rk4o</guid>
+      <pubDate>Sat, 14 Feb 2026 21:27:05 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c989/live/99914df0-09ea-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Alexander-Arnold assists opener as Real Madrid thrash Sociedad]]></title>
       <description><![CDATA[Trent Alexander-Arnold claims an assist on his first start in more than two months as Real Madrid beat Real Sociedad to move top of La Liga.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cn0ey24djjxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -288,14 +296,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cad1/live/e77e17a0-0837-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Mansfield's Reed scores fabulous free-kick to upset Burnley]]></title>
-      <description><![CDATA[Watch Mansfield Town's Louis Reed produce "set-piece sorcery," scoring a sensational free kick to stun Premier League side Burnley and reach the FA Cup fifth round.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cp8rn3v2lmgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cp8rn3v2lmgo</guid>
-      <pubDate>Sat, 14 Feb 2026 17:26:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c25/live/f3cef860-09c9-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[FA Cup winners' medal, Odegaard's armband and Pictionary with Arteta]]></title>
       <description><![CDATA[As his team prepare to face his old club Arsenal, Wigan midfielder Matt Smith tells BBC Sport about his FA Cup final winners' medal and the advice Mikel Arteta gave him before he left. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c87r285p1x7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -310,6 +310,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg1m2nxndgo</guid>
       <pubDate>Sat, 14 Feb 2026 19:25:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1d/live/5e699870-09e7-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Mansfield's Reed scores fabulous free-kick to upset Burnley]]></title>
+      <description><![CDATA[Watch Mansfield Town's Louis Reed produce "set-piece sorcery," scoring a sensational free kick to stun Premier League side Burnley and reach the FA Cup fifth round.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cp8rn3v2lmgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cp8rn3v2lmgo</guid>
+      <pubDate>Sat, 14 Feb 2026 17:26:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c25/live/f3cef860-09c9-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA['What is he doing?' - Villa keeper Bizot shown red card]]></title>
@@ -342,14 +350,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cre07gyd8weo</guid>
       <pubDate>Sat, 14 Feb 2026 19:05:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0381/live/32cae330-09d4-11f1-b5e2-dd58fc65f0f6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Digne should have been sent off for 'dangerous tackle' - Shearer]]></title>
-      <description><![CDATA[Alan Shearer, Wayne Rooney and Dion Dublin discuss if Aston Villa's Lucas Digne should have Aston Villa for a high challenge on Jacob Murphy.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/clyvxygkxndo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/clyvxygkxndo</guid>
-      <pubDate>Sat, 14 Feb 2026 19:43:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6474/live/ae2b2660-09da-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[A 'very special' FA Cup win and why managing Ronaldo is 'easy']]></title>
