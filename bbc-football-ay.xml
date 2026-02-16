@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 13:07:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 14:12:44 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -24,12 +24,29 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68f2/live/b3edb120-0b34-11f1-89e7-89779f9c687a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Is number 10 role the next step for Saka?]]></title>
+      <description><![CDATA[Mikel Arteta gave a glimpse of what could be the next evolution of the Arsenal attack... Bukayo Saka playing as a number 10.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8jx84dm32jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8jx84dm32jo</guid>
+      <pubDate>Mon, 16 Feb 2026 13:40:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8007/live/aa0ff980-0b32-11f1-89e7-89779f9c687a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Matheson on Old Trafford heroics, 'torrid time' as £1m teenager & McLeod death]]></title>
       <description><![CDATA[A 16-year-old Luke Matheson wrote his name in the history books by scoring against Manchester United in 2019. Six years later, he is aiming for more cup heroics with Macclesfield.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvg18xrw2rwo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg18xrw2rwo</guid>
       <pubDate>Mon, 16 Feb 2026 06:58:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8702/live/d1bc24a0-0a91-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Is the Scottish title race the most exciting in Europe?]]></title>
+      <description><![CDATA[Can any other European league rival the drama of Scotland? BBC Sport has picked out the five closest title battles.
+]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3wl8gn95zeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3wl8gn95zeo</guid>
+      <pubDate>Mon, 16 Feb 2026 13:41:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/986f2ce0-0b2e-11f1-a204-b3f033b84443.jpg"/>
     </item>
     <item>
       <title><![CDATA[Lampard fan v Lampard in pivotal game at top of Championship]]></title>
@@ -70,22 +87,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20jpvd300do</guid>
       <pubDate>Mon, 16 Feb 2026 12:08:04 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/761a/live/4ec18d10-0b2c-11f1-a204-b3f033b84443.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Chelsea keen on Murillo - Monday's gossip]]></title>
-      <description><![CDATA[Murillo has suitors in London and on Merseyside, his Nottingham Forest team-mate Morgan Gibbs-White could be heading to Manchester, and Everton remain keen on Fulham's Harry Wilson.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crl4k08e0z4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crl4k08e0z4o</guid>
-      <pubDate>Sun, 15 Feb 2026 20:52:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/527e/live/75af8360-0aae-11f1-b5e2-dd58fc65f0f6.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Celtic spirit reminds O'Neill of glory years]]></title>
-      <description><![CDATA[Interim manager Martin O'Neill says the current side's fighting spirit reminds him of his previous Celtic glory years after their comeback win in Kilmarnock.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ceqv908d5jro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ceqv908d5jro</guid>
-      <pubDate>Sun, 15 Feb 2026 18:53:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c83/live/888b89c0-0a9f-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arsenal put four past Wigan in FA Cup]]></title>
@@ -158,6 +159,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp32wxe0p42o</guid>
       <pubDate>Sun, 15 Feb 2026 18:55:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8df/live/95667240-0a95-11f1-b7e1-afb6d0884c18.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Celtic spirit reminds O'Neill of glory years]]></title>
+      <description><![CDATA[Interim manager Martin O'Neill says the current side's fighting spirit reminds him of his previous Celtic glory years after their comeback win in Kilmarnock.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ceqv908d5jro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ceqv908d5jro</guid>
+      <pubDate>Sun, 15 Feb 2026 18:53:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c83/live/888b89c0-0a9f-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Chelsea keen on Murillo - Monday's gossip]]></title>
+      <description><![CDATA[Murillo has suitors in London and on Merseyside, his Nottingham Forest team-mate Morgan Gibbs-White could be heading to Manchester, and Everton remain keen on Fulham's Harry Wilson.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crl4k08e0z4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crl4k08e0z4o</guid>
+      <pubDate>Sun, 15 Feb 2026 20:52:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/527e/live/75af8360-0aae-11f1-b5e2-dd58fc65f0f6.png"/>
     </item>
     <item>
       <title><![CDATA[Why is there a four-week break in the WSL?]]></title>
@@ -264,14 +281,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5983/live/4a849a30-0a7d-11f1-9f4d-9d8a5378dc79.jpg"/>
     </item>
     <item>
-      <title><![CDATA['I'm buzzing' - Man Utd's Skinner toasts seventh-straight win]]></title>
-      <description><![CDATA[Manchester United are getting the job done when it matters most - and their seven-game winning streak has gone under the radar.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cze0pyjl6jlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cze0pyjl6jlo</guid>
-      <pubDate>Sun, 15 Feb 2026 15:56:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f6b/live/49f1c9e0-0a9a-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['One of worst decisions I've ever seen' - Rooney on Digne handball]]></title>
       <description><![CDATA[Wayne Rooney and Alan Shearer believe referees are "petrified" of making decisions without the "safety net of VAR", after the officials award a free-kick instead of a penalty despite Aston Villa's Lucas Digne handling the ball in the box.]]></description>
       <link>https://www.bbc.com/sport/football/videos/ce3gn1v4rk4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -312,6 +321,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cad1/live/e77e17a0-0837-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
+      <title><![CDATA['I'm buzzing' - Man Utd's Skinner toasts seventh-straight win]]></title>
+      <description><![CDATA[Manchester United are getting the job done when it matters most - and their seven-game winning streak has gone under the radar.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cze0pyjl6jlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cze0pyjl6jlo</guid>
+      <pubDate>Sun, 15 Feb 2026 15:56:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f6b/live/49f1c9e0-0a9a-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Kane reaches 500 goals - what other records could he break?]]></title>
       <description><![CDATA[Bayern Munich striker Harry Kane became the first Englishman to reach 500 career goals on Saturday, but what other records could he break?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c743xp1xw9yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -342,22 +359,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9v0kwpd9z4o</guid>
       <pubDate>Sat, 14 Feb 2026 18:48:15 GMT</pubDate>
       <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7f0/live/85ec3cf0-09d2-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[FA Cup winners' medal, Odegaard's armband and Pictionary with Arteta]]></title>
-      <description><![CDATA[As his team prepare to face his old club Arsenal, Wigan midfielder Matt Smith tells BBC Sport about his FA Cup final winners' medal and the advice Mikel Arteta gave him before he left. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c87r285p1x7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c87r285p1x7o</guid>
-      <pubDate>Sun, 15 Feb 2026 08:16:19 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d5f/live/cbe834d0-feaf-11f0-8431-c5caf4139334.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Not what I expected' - Trafford on Man City back-up role]]></title>
-      <description><![CDATA[James Trafford admits his role as second choice at Manchester City is not what he expected "coming into the season" after the win over Salford City in the FA Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg1m2nxndgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg1m2nxndgo</guid>
-      <pubDate>Sat, 14 Feb 2026 19:25:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1d/live/5e699870-09e7-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Mansfield's Reed scores fabulous free-kick to upset Burnley]]></title>
@@ -398,6 +399,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cre07gyd8weo</guid>
       <pubDate>Sat, 14 Feb 2026 19:05:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0381/live/32cae330-09d4-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[FA Cup winners' medal, Odegaard's armband and Pictionary with Arteta]]></title>
+      <description><![CDATA[As his team prepare to face his old club Arsenal, Wigan midfielder Matt Smith tells BBC Sport about his FA Cup final winners' medal and the advice Mikel Arteta gave him before he left. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c87r285p1x7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c87r285p1x7o</guid>
+      <pubDate>Sun, 15 Feb 2026 08:16:19 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d5f/live/cbe834d0-feaf-11f0-8431-c5caf4139334.jpg"/>
     </item>
     <item>
       <title><![CDATA[A 'very special' FA Cup win and why managing Ronaldo is 'easy']]></title>
@@ -446,14 +455,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy59zrq4ywgo</guid>
       <pubDate>Wed, 04 Feb 2026 14:20:28 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Manager ins and outs - 2025-26 season]]></title>
-      <description><![CDATA[BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3e7jvvx3gqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3e7jvvx3gqo</guid>
-      <pubDate>Mon, 16 Feb 2026 11:41:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab32/live/2024ee20-9b9c-11f0-bdeb-9de9348d5d1d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why are some football shin pads so small?]]></title>
@@ -520,12 +521,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9357/live/23c6d850-fdd9-11f0-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
-      <title><![CDATA[Clarke plans Scotland talks next month - gossip]]></title>
-      <description><![CDATA[Scotland manager reveals plans for talks on future, with Serie A club keen on extending stay of one of his key players...]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqxd9vqndjxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxd9vqndjxo</guid>
-      <pubDate>Mon, 16 Feb 2026 08:08:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29d7/live/67df9670-0b0e-11f1-b5e2-dd58fc65f0f6.png"/>
+      <title><![CDATA[What thrilling week tells us about Premiership title race]]></title>
+      <description><![CDATA[A super Sunday in the Scottish Premiership delivered thrills and spills and leaves the top three covered by just three points.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0mg1mv9n4zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mg1mv9n4zo</guid>
+      <pubDate>Mon, 16 Feb 2026 14:09:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdf7/live/8e721650-0b40-11f1-9972-d3f265c101c6.png"/>
     </item>
     <item>
       <title><![CDATA[Watch: Big wins for Queen's Park, Inverness & East Kilbride]]></title>
@@ -534,6 +535,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cj981w2xp7po</guid>
       <pubDate>Mon, 16 Feb 2026 09:07:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Clarke plans Scotland talks next month - gossip]]></title>
+      <description><![CDATA[Scotland manager reveals plans for talks on future, with Serie A club keen on extending stay of one of his key players...]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqxd9vqndjxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxd9vqndjxo</guid>
+      <pubDate>Mon, 16 Feb 2026 08:08:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29d7/live/67df9670-0b0e-11f1-b5e2-dd58fc65f0f6.png"/>
     </item>
     <item>
       <title><![CDATA[Barcelona withdraw from European Super League project]]></title>
