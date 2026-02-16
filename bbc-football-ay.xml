@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 15:59:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 16:57:22 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -24,7 +24,7 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68f2/live/b3edb120-0b34-11f1-89e7-89779f9c687a.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Golazo!'- why BBC brought back one of football's most iconic intros]]></title>
+      <title><![CDATA['Golazo!'- why one of football's most iconic intros has returned]]></title>
       <description><![CDATA[BBC Sport looks at a feature of Serie A coverage which is delighting fans once more, three decades after the height of its popularity.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c9dn572dn80o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9dn572dn80o</guid>
@@ -81,6 +81,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58cd/live/c0349ca0-0a9e-11f1-a601-cbcab9421925.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Arrests made after discriminatory chants at Hull City]]></title>
+      <description><![CDATA[Arrests have been made following incidents of alleged discriminatory chanting during the FA Cup fourth round match between Hull City and Chelsea.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvg8748r0w2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg8748r0w2o</guid>
+      <pubDate>Mon, 16 Feb 2026 16:38:52 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b2b/live/792d5b70-092d-11f1-9b8e-358033f9eafe.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Ramadan breaks to be used across English football again]]></title>
       <description><![CDATA[Matches will briefly stop during a natural pause in play to allow Muslim players to break their fast - as has been the case since 2021 across English football.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c20jpvd300do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -103,14 +111,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cewzkl9dzj8o</guid>
       <pubDate>Mon, 16 Feb 2026 15:13:49 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ba/live/f1d3be20-0b49-11f1-b5e2-dd58fc65f0f6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What thrilling week tells us about Scottish Premiership title race]]></title>
-      <description><![CDATA[A super Sunday in the Scottish Premiership delivered thrills and spills and leaves the top three covered by just three points.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0mg1mv9n4zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mg1mv9n4zo</guid>
-      <pubDate>Mon, 16 Feb 2026 14:09:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdf7/live/8e721650-0b40-11f1-9972-d3f265c101c6.png"/>
     </item>
     <item>
       <title><![CDATA[Arsenal put four past Wigan in FA Cup]]></title>
@@ -151,6 +151,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cewz5jx185xo</guid>
       <pubDate>Sun, 15 Feb 2026 18:27:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b444/live/d76c0ce0-0a9a-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What thrilling week tells us about Scottish Premiership title race]]></title>
+      <description><![CDATA[A super Sunday in the Scottish Premiership delivered thrills and spills and leaves the top three covered by just three points.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0mg1mv9n4zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mg1mv9n4zo</guid>
+      <pubDate>Mon, 16 Feb 2026 14:09:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdf7/live/8e721650-0b40-11f1-9972-d3f265c101c6.png"/>
     </item>
     <item>
       <title><![CDATA[183 team changes in 14 ties - but does it really matter for the FA Cup?]]></title>
@@ -351,14 +359,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c743xp1xw9yo</guid>
       <pubDate>Sat, 14 Feb 2026 18:33:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d379/live/8d04ddf0-09d0-11f1-bfd9-a1813d3ca61e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Brilliant Mansfield pile pressure on Parker - is his time up at Burnley?]]></title>
-      <description><![CDATA[Burnley manager Scott Parker is under increasing pressure as the Premier League side are dumped out of the FA Cup by League One Mansfield.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy0dnxwxyl0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy0dnxwxyl0o</guid>
-      <pubDate>Sat, 14 Feb 2026 19:35:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a4b/live/b3396350-09d6-11f1-bfd9-a1813d3ca61e.jpg"/>
     </item>
     <item>
       <title><![CDATA[How is Zubimendi helping Arsenal's title push?]]></title>
