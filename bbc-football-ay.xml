@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 08:02:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 09:08:56 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -32,14 +32,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8df/live/95667240-0a95-11f1-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
-      <title><![CDATA[The curious case of Chermiti in Rohl's Rangers revolution]]></title>
-      <description><![CDATA[BBC Scotland looks at Youssef Chermiti's impact for Rangers against Hearts and beyond. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czd8lg0lylpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czd8lg0lylpo</guid>
-      <pubDate>Sun, 15 Feb 2026 20:48:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58cd/live/c0349ca0-0a9e-11f1-a601-cbcab9421925.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Matheson on Old Trafford heroics, 'torrid time' as £1m teenager & McLeod death]]></title>
       <description><![CDATA[A 16-year-old Luke Matheson wrote his name in the history books by scoring against Manchester United in 2019. Six years later, he is aiming for more cup heroics with Macclesfield.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvg18xrw2rwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -48,12 +40,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8702/live/d1bc24a0-0a91-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Celtic spirit reminds O'Neill of glory years]]></title>
-      <description><![CDATA[Interim manager Martin O'Neill says the current side's fighting spirit reminds him of his previous Celtic glory years after their comeback win in Kilmarnock.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ceqv908d5jro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ceqv908d5jro</guid>
-      <pubDate>Sun, 15 Feb 2026 18:53:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c83/live/888b89c0-0a9f-11f1-b5e2-dd58fc65f0f6.jpg"/>
+      <title><![CDATA[The curious case of Chermiti in Rohl's Rangers revolution]]></title>
+      <description><![CDATA[BBC Scotland looks at Youssef Chermiti's impact for Rangers against Hearts and beyond. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/czd8lg0lylpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czd8lg0lylpo</guid>
+      <pubDate>Sun, 15 Feb 2026 20:48:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58cd/live/c0349ca0-0a9e-11f1-a601-cbcab9421925.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chelsea keen on Murillo - Monday's gossip]]></title>
@@ -62,6 +54,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crl4k08e0z4o</guid>
       <pubDate>Sun, 15 Feb 2026 20:52:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/527e/live/75af8360-0aae-11f1-b5e2-dd58fc65f0f6.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Celtic spirit reminds O'Neill of glory years]]></title>
+      <description><![CDATA[Interim manager Martin O'Neill says the current side's fighting spirit reminds him of his previous Celtic glory years after their comeback win in Kilmarnock.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ceqv908d5jro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ceqv908d5jro</guid>
+      <pubDate>Sun, 15 Feb 2026 18:53:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c83/live/888b89c0-0a9f-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
       <title><![CDATA['A throwback' - Wolves beat Grimsby in FA Cup mudbath]]></title>
@@ -86,6 +86,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy9gl5pprljo</guid>
       <pubDate>Sun, 15 Feb 2026 19:16:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6317/live/b0dffb30-0aa0-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Why is there a four-week break in the WSL?]]></title>
+      <description><![CDATA[BBC Sport takes a look at why there is a second hiatus in the Women's Super League so soon after the winter break.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp853d9gg5no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp853d9gg5no</guid>
+      <pubDate>Mon, 16 Feb 2026 08:56:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a3/live/308268d0-0a8f-11f1-8b85-1da9bd0ede97.jpg"/>
     </item>
     <item>
       <title><![CDATA[Can you name every FA Cup winner?]]></title>
@@ -248,14 +256,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a4b/live/b3396350-09d6-11f1-bfd9-a1813d3ca61e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[From 'demoralising' 8-0 defeat to pushing Man City all the way ]]></title>
-      <description><![CDATA[Thirteen months after being embarrassed 8-0 by Manchester City, Salford City produce a performance to make their fans proud.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9v0kwpd9z4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9v0kwpd9z4o</guid>
-      <pubDate>Sat, 14 Feb 2026 18:48:15 GMT</pubDate>
-      <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7f0/live/85ec3cf0-09d2-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['One of worst decisions I've ever seen' - Rooney on Digne handball]]></title>
       <description><![CDATA[Wayne Rooney and Alan Shearer believe referees are "petrified" of making decisions without the "safety net of VAR", after the officials award a free-kick instead of a penalty despite Aston Villa's Lucas Digne handling the ball in the box.]]></description>
       <link>https://www.bbc.com/sport/football/videos/ce3gn1v4rk4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -302,6 +302,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y6xymxxv7o</guid>
       <pubDate>Sat, 14 Feb 2026 20:54:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a124/live/6ba32210-09e5-11f1-b981-779c7a5f5cc0.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[From 'demoralising' 8-0 defeat to pushing Man City all the way ]]></title>
+      <description><![CDATA[Thirteen months after being embarrassed 8-0 by Manchester City, Salford City produce a performance to make their fans proud.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9v0kwpd9z4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9v0kwpd9z4o</guid>
+      <pubDate>Sat, 14 Feb 2026 18:48:15 GMT</pubDate>
+      <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7f0/live/85ec3cf0-09d2-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA['The officials looked petrified' - was Villa Park chaos advert for VAR?]]></title>
@@ -486,6 +494,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1dkydlxpk7o</guid>
       <pubDate>Fri, 30 Jan 2026 14:17:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9357/live/23c6d850-fdd9-11f0-b7e1-afb6d0884c18.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Clarke plans Scotland talks next month - gossip]]></title>
+      <description><![CDATA[Scotland manager reveals plans for talks on future, with Serie A club keen on extending stay of one of his key players...]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqxd9vqndjxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxd9vqndjxo</guid>
+      <pubDate>Mon, 16 Feb 2026 08:08:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29d7/live/67df9670-0b0e-11f1-b5e2-dd58fc65f0f6.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Watch: Big wins for Queen's Park, Inverness & East Kilbride]]></title>
+      <description><![CDATA[Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cj981w2xp7po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cj981w2xp7po</guid>
+      <pubDate>Mon, 16 Feb 2026 09:07:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Barcelona withdraw from European Super League project]]></title>
