@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 08:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 09:47:44 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -136,6 +136,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a54/live/183d14c0-0ac4-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How well do you remember the league phase of the Champions League?]]></title>
+      <description><![CDATA[There was plenty of drama and high-profile clashes in this season's league phase stage of Europe's elite club competition.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2rj2d9yggo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2rj2d9yggo</guid>
+      <pubDate>Tue, 17 Feb 2026 09:09:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3883/live/b5a0beb0-0b3c-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Golazo!'- why one of football's most iconic intros has returned]]></title>
       <description><![CDATA[BBC Sport looks at a feature of Serie A coverage which is delighting fans once more, three decades after the height of its popularity.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c9dn572dn80o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -185,14 +193,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdf7/live/8e721650-0b40-11f1-9972-d3f265c101c6.png"/>
     </item>
     <item>
-      <title><![CDATA[Wounded kings Real will be dangerous - Mourinho]]></title>
-      <description><![CDATA[Jose Mourinho warns his side that the "kings of the Champions League" will be dangerous after Benfica's dramatic win against Real Madrid last month. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg39xezen1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg39xezen1o</guid>
-      <pubDate>Mon, 16 Feb 2026 11:39:18 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6539/live/4e1db680-0b2d-11f1-a204-b3f033b84443.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Ramadan breaks to be used across English football again]]></title>
       <description><![CDATA[Matches will briefly stop during a natural pause in play to allow Muslim players to break their fast - as has been the case since 2021 across English football.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c20jpvd300do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -209,7 +209,15 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58cd/live/c0349ca0-0a9e-11f1-a601-cbcab9421925.jpg"/>
     </item>
     <item>
-      <title><![CDATA[183 team changes in 14 ties - but does it really matter for the FA Cup?]]></title>
+      <title><![CDATA[Wounded kings Real will be dangerous - Mourinho]]></title>
+      <description><![CDATA[Jose Mourinho warns his side that the "kings of the Champions League" will be dangerous after Benfica's dramatic win against Real Madrid last month. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvg39xezen1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg39xezen1o</guid>
+      <pubDate>Mon, 16 Feb 2026 11:39:18 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6539/live/4e1db680-0b2d-11f1-a204-b3f033b84443.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[179 team changes in 14 ties - but does it really matter for the FA Cup?]]></title>
       <description><![CDATA[Does 183 team changes in 14 ties devalue the FA Cup? Chief football writer Phil McNulty insists the cup retains its old magic.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cp32wxe0p42o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp32wxe0p42o</guid>
@@ -223,14 +231,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ceqv908d5jro</guid>
       <pubDate>Sun, 15 Feb 2026 18:53:12 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c83/live/888b89c0-0a9f-11f1-b5e2-dd58fc65f0f6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why is there a four-week break in the WSL?]]></title>
-      <description><![CDATA[BBC Sport takes a look at why there is a second hiatus in the Women's Super League so soon after the winter break.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp853d9gg5no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp853d9gg5no</guid>
-      <pubDate>Mon, 16 Feb 2026 08:56:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/782f/live/7f991080-0b21-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[James instrumental as Chelsea beat Liverpool]]></title>
@@ -279,6 +279,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr5l3q20lj3o</guid>
       <pubDate>Sun, 15 Feb 2026 19:07:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55ea/live/dbccb8d0-0aa3-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Why is there a four-week break in the WSL?]]></title>
+      <description><![CDATA[BBC Sport takes a look at why there is a second hiatus in the Women's Super League so soon after the winter break.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp853d9gg5no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp853d9gg5no</guid>
+      <pubDate>Mon, 16 Feb 2026 08:56:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/782f/live/7f991080-0b21-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[The big VAR debate: with, without or change its scope?]]></title>
@@ -535,14 +543,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2le4gx91go</guid>
       <pubDate>Tue, 17 Feb 2026 07:38:22 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96e5/live/ad6a5260-0bd2-11f1-9972-d3f265c101c6.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Watch: Big wins for Queen's Park, Inverness & East Kilbride]]></title>
-      <description><![CDATA[Watch the best of the action from the weekend's action in the Scottish Championship, League 1 and League 2.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cj981w2xp7po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cj981w2xp7po</guid>
-      <pubDate>Mon, 16 Feb 2026 09:07:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Lyon loan helping 'explosive' Endrick's World Cup 'dream' with Brazil]]></title>
