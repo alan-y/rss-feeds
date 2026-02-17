@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 23:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 23:47:39 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -144,20 +144,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec58/live/aba04650-0c0a-11f1-8fde-154221cb04db.jpg"/>
     </item>
     <item>
-      <title><![CDATA[England legend Carney & tennis great Clijsters part of Birmingham takeover]]></title>
-      <description><![CDATA[Birmingham City's owners take over the women's team, with England legend Karen Carney among the minority investors.  ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c178qvp2q20o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c178qvp2q20o</guid>
-      <pubDate>Tue, 17 Feb 2026 18:35:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c3e/live/b9260640-0c2b-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Toney leaves Premier League door open - Wednesday's gossip]]></title>
       <description><![CDATA[Ivan Toney leaves the door open for a move back to the Premier League, Liverpool have no plans to sell Dominik Szoboszlai, Nick Woltemade is eyeing a move back to the Bundesliga, plus more.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c89kyq9z9pqo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c89kyq9z9pqo</guid>
       <pubDate>Tue, 17 Feb 2026 23:00:25 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f9/live/8b17a430-0c52-11f1-b5e2-dd58fc65f0f6.png"/>
+    </item>
+    <item>
+      <title><![CDATA[England legend Carney & tennis great Clijsters part of Birmingham takeover]]></title>
+      <description><![CDATA[Birmingham City's owners take over the women's team, with England legend Karen Carney among the minority investors.  ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c178qvp2q20o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c178qvp2q20o</guid>
+      <pubDate>Tue, 17 Feb 2026 18:35:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c3e/live/b9260640-0c2b-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is facing a Champions League play-off really that bad?]]></title>
@@ -182,14 +182,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8rvr1m6njo</guid>
       <pubDate>Tue, 17 Feb 2026 15:05:32 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdec/live/00235950-0c11-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ward would support Republic of Ireland players over Israel concerns]]></title>
-      <description><![CDATA[Republic of Ireland women's manager Carla Ward said she would be "supportive" of her players if they had concerns over facing Israel.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy8g3p5jdzdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8g3p5jdzdo</guid>
-      <pubDate>Tue, 17 Feb 2026 14:55:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a052/live/6bf3e120-0c09-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arsenal put four past Wigan in FA Cup]]></title>
@@ -240,6 +232,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ec/live/6cc7b210-0bec-11f1-8d90-772c0d7aea09.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Ward would support Republic of Ireland players over Israel concerns]]></title>
+      <description><![CDATA[Republic of Ireland women's manager Carla Ward said she would be "supportive" of her players if they had concerns over facing Israel.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy8g3p5jdzdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8g3p5jdzdo</guid>
+      <pubDate>Tue, 17 Feb 2026 14:55:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a052/live/6bf3e120-0c09-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Newcastle v Man City again! What is the all-time most played cup tie?]]></title>
       <description><![CDATA[Newcastle United and Manchester City have been drawn together in cup competitions more than any other English clubs this decade.]]></description>
       <link>https://www.bbc.com/sport/articles/c309m1qpy8do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -270,14 +270,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2rj2d9yggo</guid>
       <pubDate>Tue, 17 Feb 2026 09:09:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3883/live/b5a0beb0-0b3c-11f1-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ratcliffe, Man Utd and the immigration comments fallout]]></title>
-      <description><![CDATA[Sports editor Dan Roan analyses the potential fallout of Manchester United co-owner Sir Jim Ratcliffe's comments on immigration.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c309dj3vm7do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c309dj3vm7do</guid>
-      <pubDate>Mon, 16 Feb 2026 12:52:22 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68f2/live/b3edb120-0b34-11f1-89e7-89779f9c687a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Turner orchestrates Man Utd comeback against London City Lionesses]]></title>
@@ -318,6 +310,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c05vl811v5zo</guid>
       <pubDate>Sun, 15 Feb 2026 19:40:42 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6c8/live/1bb58790-0aa1-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ratcliffe, Man Utd and the immigration comments fallout]]></title>
+      <description><![CDATA[Sports editor Dan Roan analyses the potential fallout of Manchester United co-owner Sir Jim Ratcliffe's comments on immigration.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c309dj3vm7do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c309dj3vm7do</guid>
+      <pubDate>Mon, 16 Feb 2026 12:52:22 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68f2/live/b3edb120-0b34-11f1-89e7-89779f9c687a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Republic of Ireland trio return for qualifiers]]></title>
@@ -366,14 +366,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mg1mv9n4zo</guid>
       <pubDate>Mon, 16 Feb 2026 14:09:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdf7/live/8e721650-0b40-11f1-9972-d3f265c101c6.png"/>
-    </item>
-    <item>
-      <title><![CDATA[179 team changes in 14 ties - but does it really matter for the FA Cup?]]></title>
-      <description><![CDATA[Does 183 team changes in 14 ties devalue the FA Cup? Chief football writer Phil McNulty insists the cup retains its old magic.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp32wxe0p42o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp32wxe0p42o</guid>
-      <pubDate>Sun, 15 Feb 2026 18:55:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8df/live/95667240-0a95-11f1-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
       <title><![CDATA[Salah shines as Liverpool comfortably beat Brighton]]></title>
