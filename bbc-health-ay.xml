@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 23:47:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 02:01:27 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Bailiffs used to pursue NHS staff over pay errors]]></title>
+      <description><![CDATA[Thousands of NHS workers were pursued by debt collectors after salary overpayments, the BBC finds.]]></description>
+      <link>https://www.bbc.com/news/articles/cvg59579q16o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg59579q16o</guid>
+      <pubDate>Tue, 17 Feb 2026 01:43:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02cd/live/f5e78f30-0a79-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Measles outbreak could see unvaccinated pupils excluded from schools in north London]]></title>
       <description><![CDATA[Children identified as close contacts of people with the disease could be excluded for three weeks]]></description>
@@ -222,15 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cpwngvlzgg4o</guid>
       <pubDate>Wed, 04 Feb 2026 00:34:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a3/live/aa8a26a0-012e-11f1-a8b8-bdd2c5f9bcad.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Families of children with cancer to have travel costs covered]]></title>
-      <description><![CDATA[The government sets aside £10 million a year to help families and young people under 24 access cancer treatment.
-]]></description>
-      <link>https://www.bbc.com/news/articles/c5yve1220xwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yve1220xwo</guid>
-      <pubDate>Tue, 03 Feb 2026 01:35:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c93/live/ed5d0cb0-00cd-11f1-a8b8-bdd2c5f9bcad.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flu: How are hospitals in your area affected?]]></title>
