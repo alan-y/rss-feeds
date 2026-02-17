@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 21:07:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 21:50:24 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Real Madrid tie at Benfica halted over Vinicius incident]]></title>
+      <description><![CDATA[Real Madrid's Champions League knockout phase play-off tie at Benfica is halted for 10 minutes after Vinicius Junior and his team-mates leave the field.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpv843x1zgzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv843x1zgzo</guid>
+      <pubDate>Tue, 17 Feb 2026 21:31:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"/>
+    </item>
     <item>
       <title><![CDATA[Arsenal make Saka best-paid player with new five-year deal]]></title>
       <description><![CDATA[England winger Bukayo Saka commits his future to Premier League leaders Arsenal by signing a new five-year deal. ]]></description>
@@ -144,20 +152,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66fc/live/65fb72a0-0c0a-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Scotland choose Charlotte as base for World Cup]]></title>
-      <description><![CDATA[Scotland will set up camp at the home of Charlotte FC in North Carolina for the duration of the World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp8rvr1m6njo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8rvr1m6njo</guid>
-      <pubDate>Tue, 17 Feb 2026 15:05:32 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdec/live/00235950-0c11-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Is facing a Champions League play-off really that bad?]]></title>
       <description><![CDATA[The Champions League returns this week and some of Europe's biggest teams will be back in action a lot earlier than they would have hoped.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5y2y7y2pwwo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y2y7y2pwwo</guid>
       <pubDate>Tue, 17 Feb 2026 07:03:24 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f996/live/166225d0-09a9-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Scotland choose Charlotte as base for World Cup]]></title>
+      <description><![CDATA[Scotland will set up camp at the home of Charlotte FC in North Carolina for the duration of the World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp8rvr1m6njo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8rvr1m6njo</guid>
+      <pubDate>Tue, 17 Feb 2026 15:05:32 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdec/live/00235950-0c11-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ward would support Republic of Ireland players over Israel concerns]]></title>
@@ -190,14 +198,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2rj2d9yggo</guid>
       <pubDate>Tue, 17 Feb 2026 09:09:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3883/live/b5a0beb0-0b3c-11f1-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How Robert Duvall became an unlikely Scottish football cult hero ]]></title>
-      <description><![CDATA[Hollywood actor Robert Duvall, who died on Monday, played Scottish football manager Gordon McLeod in 2000 film A Shot at Glory, which also starred former Ranger Striker Ally McCoist.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckg3896875wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg3896875wo</guid>
-      <pubDate>Tue, 17 Feb 2026 14:03:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ec/live/6cc7b210-0bec-11f1-8d90-772c0d7aea09.jpg"/>
     </item>
     <item>
       <title><![CDATA[Leeds beat Birmingham on penalties in FA Cup]]></title>
@@ -238,6 +238,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c15xzkg5k81o</guid>
       <pubDate>Sun, 15 Feb 2026 18:09:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26ce/live/688bc950-0a7c-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How Robert Duvall became an unlikely Scottish football cult hero ]]></title>
+      <description><![CDATA[Hollywood actor Robert Duvall, who died on Monday, played Scottish football manager Gordon McLeod in 2000 film A Shot at Glory, which also starred former Ranger Striker Ally McCoist.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckg3896875wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg3896875wo</guid>
+      <pubDate>Tue, 17 Feb 2026 14:03:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ec/live/6cc7b210-0bec-11f1-8d90-772c0d7aea09.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man Utd consider swoop for Mac Allister - Tuesday's gossip]]></title>
@@ -288,14 +296,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eb7/live/f90e9bd0-0c05-11f1-b629-5b1f327d70c1.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Republic of Ireland trio return for qualifiers]]></title>
-      <description><![CDATA[Courtney Brosnan, Megan Connolly and Leanne Kiernan return to the Republic of Ireland squad for next month's 2027 Women's World Cup qualifiers against France and the Netherlands. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckglzmkn8r3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckglzmkn8r3o</guid>
-      <pubDate>Tue, 17 Feb 2026 12:30:48 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf4/live/ebf88ba0-0bfa-11f1-b726-1d6e709ef554.png"/>
-    </item>
-    <item>
       <title><![CDATA[Officials need VAR after FA Cup mistakes - Rooney]]></title>
       <description><![CDATA[Wayne Rooney says "referees need help" after big mistakes were made during an FA Cup weekend with VAR.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cy57k92z152o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -334,6 +334,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5yg5x9yx3jo</guid>
       <pubDate>Sat, 14 Feb 2026 23:54:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77e0/live/3537e560-09f1-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Republic of Ireland trio return for qualifiers]]></title>
+      <description><![CDATA[Courtney Brosnan, Megan Connolly and Leanne Kiernan return to the Republic of Ireland squad for next month's 2027 Women's World Cup qualifiers against France and the Netherlands. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckglzmkn8r3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckglzmkn8r3o</guid>
+      <pubDate>Tue, 17 Feb 2026 12:30:48 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cf4/live/ebf88ba0-0bfa-11f1-b726-1d6e709ef554.png"/>
     </item>
     <item>
       <title><![CDATA[League One Mansfield to host Arsenal in fifth round - full FA Cup draw]]></title>
@@ -383,14 +391,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2rg0e95k0o</guid>
       <pubDate>Tue, 17 Feb 2026 14:33:06 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65a7/live/35ba27a0-0c08-11f1-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Referee and assistant stood down after FA Cup mistakes]]></title>
-      <description><![CDATA[Referee Chris Kavanagh and his assistant Nick Greenhalgh have not been selected for a Premier League game this weekend.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c15xq3y41v9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c15xq3y41v9o</guid>
-      <pubDate>Mon, 16 Feb 2026 18:01:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aca/live/150e58e0-0b5a-11f1-b472-df9c1c12cffb.jpg"/>
     </item>
     <item>
       <title><![CDATA['One of worst decisions I've ever seen' - Rooney on Digne handball]]></title>
