@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 18 Feb 2026 12:04:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 13:43:46 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,6 +40,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cff/live/5dfc1c50-0c26-11f1-b639-2bb91f8e49a9.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Woman's leg amputated after botched knee op]]></title>
+      <description><![CDATA[The patient was the victim of a "life-changing error" when a drill slipped during  surgery.]]></description>
+      <link>https://www.bbc.com/news/articles/cx28g8y4jqzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx28g8y4jqzo</guid>
+      <pubDate>Wed, 18 Feb 2026 11:21:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9da7/live/49e2c3b0-0c24-11f1-b639-2bb91f8e49a9.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Scotland's supplies of prescription co-codamol limited until June]]></title>
       <description><![CDATA[Some health boards have told people using the painkiller to begin reducing their tablets by one a week.]]></description>
       <link>https://www.bbc.com/news/articles/ce8nvnlmlnmo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cre2pelrpwzo</guid>
       <pubDate>Wed, 18 Feb 2026 01:48:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7191/live/da727020-075a-11f1-925d-919faf925e25.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Intermittent fasting may make little difference to weight loss, review finds]]></title>
-      <description><![CDATA[But researchers say it could still improve someone's overall health through helpful changes to some body functions.]]></description>
-      <link>https://www.bbc.com/news/articles/c4ge7n3pq62o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4ge7n3pq62o</guid>
-      <pubDate>Mon, 16 Feb 2026 13:38:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d3d/live/9a7b75a0-0b44-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Death of the sex drive - and the great debate over whether testosterone can help get it back]]></title>

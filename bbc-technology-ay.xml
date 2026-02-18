@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 18 Feb 2026 12:04:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 13:43:39 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Call of Duty advert banned for trivialising sexual violence]]></title>
+      <description><![CDATA[Activision Blizzard UK Ltd said the ad for Call of Duty: Black Ops 7 was targeted at adults.]]></description>
+      <link>https://www.bbc.com/news/articles/czd831elpz5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/czd831elpz5o</guid>
+      <pubDate>Wed, 18 Feb 2026 11:58:27 GMT</pubDate>
+      <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9511/live/d4e5d6d0-0cc1-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
     <item>
       <title><![CDATA['I do not trust them' - top streamers left concerned by Discord age checks]]></title>
       <description><![CDATA[The platform's plan to roll out global age checks has caused concern in streaming communities.]]></description>
@@ -22,6 +30,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4g8ynpwl8o</guid>
       <pubDate>Wed, 18 Feb 2026 01:47:12 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9013/live/2ce5caf0-0b5c-11f1-addc-a972ce4af6c2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[V&A displays first YouTube video and watchpage]]></title>
+      <description><![CDATA[The original YouTube experience from 2005 has been recreated using internet archives.]]></description>
+      <link>https://www.bbc.com/news/articles/cp324wwn1nxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp324wwn1nxo</guid>
+      <pubDate>Wed, 18 Feb 2026 11:23:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4223/live/69ca7360-0cb7-11f1-b5e2-dd58fc65f0f6.png"/>
     </item>
     <item>
       <title><![CDATA[Reddit's human content wins amid the AI flood]]></title>
@@ -192,14 +208,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgjg98vmzjo</guid>
       <pubDate>Fri, 06 Feb 2026 21:40:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3626/live/16717120-03a0-11f1-bf93-b525d4ae6a21.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[TikTok told to change 'addictive design' by EU or face massive fines]]></title>
-      <description><![CDATA[TikTok says it plans to challenge the "categorically false and entirely meritless" accusations.]]></description>
-      <link>https://www.bbc.com/news/articles/cr7j7n315lmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cr7j7n315lmo</guid>
-      <pubDate>Fri, 06 Feb 2026 13:55:46 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ce4/live/87e7b660-0351-11f1-8dce-5f79cab4f7bf.jpg"/>
     </item>
     <item>
       <title><![CDATA[Get a grip: Robotics firms struggle to develop hands]]></title>
