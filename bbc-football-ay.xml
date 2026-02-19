@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 19 Feb 2026 08:42:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 09:43:58 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,6 +48,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2f1/live/c729ef70-0d13-11f1-89c6-65cc177ba7c1.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How Celtic can overcome Stuttgart in Europa League]]></title>
+      <description><![CDATA[Former Celtic and Stuttgart defender Andreas Hinkel gives BBC Sport Scotland his analysis of the sides' upcoming Europa League tie.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpv8nrdj9dlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv8nrdj9dlo</guid>
+      <pubDate>Thu, 19 Feb 2026 08:41:07 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a91/live/f0cf39e0-08ed-11f1-94dc-adc7436c6c75.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Watch all four Gordon goals against Qarabag]]></title>
       <description><![CDATA[Watch Anthony Gordon's four goals against Qarabag, making him Newcastle's top scorer in the Champions League (10), overtaking Alan Shearer (6).]]></description>
       <link>https://www.bbc.com/sport/football/videos/c4g43rrk41ro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -70,6 +78,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2ryg14yxlo</guid>
       <pubDate>Thu, 19 Feb 2026 07:25:32 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b0/live/8476fec0-08e5-11f1-b046-7389c3987914.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Captain Palmer or Joao Pedro? FPL team of the week]]></title>
+      <description><![CDATA[With Chelsea facing leaky Burnley at Stamford Bridge this week, FPL managers have a tough choice of captain between Cole Palmer and Joao Pedro.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy9ejg5zepo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy9ejg5zepo</guid>
+      <pubDate>Thu, 19 Feb 2026 09:21:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/816b/live/eaee5180-0c50-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[Benfica allege 'defamation campaign' after Vinicius accuses Prestianni of racial abuse]]></title>
@@ -152,22 +168,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9378/live/caa0a930-05cc-11f1-a351-bb43301b14c5.jpg"/>
     </item>
     <item>
-      <title><![CDATA['It hurts a lot' - Coutinho announces Vasco exit]]></title>
-      <description><![CDATA[Phillipe Coutinho says he is leaving boyhood club Vasco da Gama because he is "tired mentally" and his "cycle at the club has ended".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3dzk10ngveo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3dzk10ngveo</guid>
-      <pubDate>Wed, 18 Feb 2026 22:50:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a5a/live/c643a9f0-0d1a-11f1-b15f-59c83b9de5e4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Leicester appoint Rowett until end of season]]></title>
-      <description><![CDATA[Championship strugglers Leicester City confirm former player Gary Rowett as their new manager on a deal until the end of the season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c98q1d35g1ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98q1d35g1ro</guid>
-      <pubDate>Wed, 18 Feb 2026 19:16:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee40/live/9c052820-0cdf-11f1-9aaa-bdef89911abe.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Past Kane & chasing Mbappe - why Gordon is lethal in Europe]]></title>
       <description><![CDATA[BBC Sport pundit Leon Osman says he can see Anthony Gordon scoring more goals in the Champions League if Newcastle United continue to play him up front with Nick Woltemade in behind, after the Englishman scored four goals in his side's 6-1 win over Qarabag in the knockout round play-offs.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cq6q788579no?at_medium=RSS&amp;at_campaign=rss</link>
@@ -216,12 +216,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fdc/live/d9c869b0-0cda-11f1-b054-335fa224f76a.jpg"/>
     </item>
     <item>
+      <title><![CDATA['It hurts a lot' - Coutinho announces Vasco exit]]></title>
+      <description><![CDATA[Phillipe Coutinho says he is leaving boyhood club Vasco da Gama because he is "tired mentally" and his "cycle at the club has ended".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3dzk10ngveo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3dzk10ngveo</guid>
+      <pubDate>Wed, 18 Feb 2026 22:50:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a5a/live/c643a9f0-0d1a-11f1-b15f-59c83b9de5e4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Is England on course for fifth Champions League spot?]]></title>
       <description><![CDATA[Could the Premier League get an extra place in the Champions League again? This is how it looks at the end of the league phases.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj0npqv9rylo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0npqv9rylo</guid>
       <pubDate>Wed, 18 Feb 2026 19:44:11 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93c9/live/5b39a1a0-fc67-11f0-a7b3-13a56b7a31f4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Leicester appoint Rowett until end of season]]></title>
+      <description><![CDATA[Championship strugglers Leicester City confirm former player Gary Rowett as their new manager on a deal until the end of the season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c98q1d35g1ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98q1d35g1ro</guid>
+      <pubDate>Wed, 18 Feb 2026 19:16:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee40/live/9c052820-0cdf-11f1-9aaa-bdef89911abe.jpg"/>
     </item>
     <item>
       <title><![CDATA[Pubs to open late for home nations  World Cup knockout games]]></title>
@@ -247,22 +263,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd6zj22g4vwo</guid>
       <pubDate>Wed, 18 Feb 2026 20:36:13 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d110/live/55caf270-0d04-11f1-9797-cb73f0113553.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hearts must relish pressure of title chance - McInnes]]></title>
-      <description><![CDATA[Hearts head coach Derek McInnes says they have to "relish the opportunity" to win the Scottish Premiership as the pressure rises in the final weeks of the season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gq2z57dgzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gq2z57dgzo</guid>
-      <pubDate>Wed, 18 Feb 2026 12:49:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/791b/live/d13d27e0-0cc6-11f1-8eb2-b590a831a663.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Alleged Vinicius racism shameful but not surprising - Tullis-Joyce]]></title>
-      <description><![CDATA[Manchester United goalkeeper Phallon Tullis-Joyce says it is "shameful but not surprising" that football continues to be blighted by racism.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c80j7yevmr8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80j7yevmr8o</guid>
-      <pubDate>Wed, 18 Feb 2026 16:21:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e8d/live/b4fa0d90-0ce0-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[Real Madrid win against Benfica overshadowed by racist abuse]]></title>
@@ -305,20 +305,36 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f681/live/0dc630a0-0c52-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How to follow the Premier League on the BBC this week]]></title>
+      <description><![CDATA[BBC Sport Ask Me Anything explains how to follow the Premier League on the BBC this weekend.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0kpzljpz6lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kpzljpz6lo</guid>
+      <pubDate>Thu, 19 Feb 2026 08:46:09 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cf5/live/7eaa2ea0-0ccc-11f1-9972-d3f265c101c6.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Alleged Vinicius racism shameful but not surprising - Tullis-Joyce]]></title>
+      <description><![CDATA[Manchester United goalkeeper Phallon Tullis-Joyce says it is "shameful but not surprising" that football continues to be blighted by racism.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c80j7yevmr8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80j7yevmr8o</guid>
+      <pubDate>Wed, 18 Feb 2026 16:21:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e8d/live/b4fa0d90-0ce0-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Hearts must relish pressure of title chance - McInnes]]></title>
+      <description><![CDATA[Hearts head coach Derek McInnes says they have to "relish the opportunity" to win the Scottish Premiership as the pressure rises in the final weeks of the season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gq2z57dgzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gq2z57dgzo</guid>
+      <pubDate>Wed, 18 Feb 2026 12:49:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/791b/live/d13d27e0-0cc6-11f1-8eb2-b590a831a663.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Fishlock to join Wales staff for opening qualifier]]></title>
       <description><![CDATA[Jess Fishlock will join Rhian Wilkinson's coaching staff for part of Wales' international camp in March before leaving to fulfil club commitments with Seattle Reign.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cm2rje9mq23o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2rje9mq23o</guid>
       <pubDate>Wed, 18 Feb 2026 10:00:08 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed66/live/e0d74690-0bef-11f1-abd8-edec2ed37a57.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Arsenal make Saka best-paid player with new five-year deal]]></title>
-      <description><![CDATA[England winger Bukayo Saka commits his future to Premier League leaders Arsenal by signing a new five-year deal. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gje501g51o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gje501g51o</guid>
-      <pubDate>Tue, 17 Feb 2026 14:30:08 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16aa/live/5eaa90a0-ed6d-11f0-88e7-5d06f9172e94.jpg"/>
     </item>
     <item>
       <title><![CDATA[Feyenoord training moved to Belgium for Sterling]]></title>
@@ -335,14 +351,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g40828ngjo</guid>
       <pubDate>Tue, 17 Feb 2026 15:13:08 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/460c/live/2f027d50-0662-11f1-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['We really messed up' - does European football need more balance?]]></title>
-      <description><![CDATA[One set of clubs dominate the Champions League, another win their domestic title every year but cannot compete - does European football have a problem?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgmzylx4004o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgmzylx4004o</guid>
-      <pubDate>Tue, 17 Feb 2026 06:44:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4f4/live/06d51180-d5b1-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Bicycle kicks & set-piece magic - FA Cup fourth round best goals]]></title>
@@ -385,6 +393,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/753f/live/a6790e00-0aac-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
+      <title><![CDATA['We really messed up' - does European football need more balance?]]></title>
+      <description><![CDATA[One set of clubs dominate the Champions League, another win their domestic title every year but cannot compete - does European football have a problem?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgmzylx4004o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgmzylx4004o</guid>
+      <pubDate>Tue, 17 Feb 2026 06:44:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4f4/live/06d51180-d5b1-11f0-a892-01d657345866.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How Robert Duvall became an unlikely Scottish football cult hero ]]></title>
       <description><![CDATA[Hollywood actor Robert Duvall, who died on Monday, played Scottish football manager Gordon McLeod in 2000 film A Shot at Glory, which also starred former Ranger Striker Ally McCoist.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ckg3896875wo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -425,20 +441,36 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e12/live/737a2730-08c9-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
-      <title><![CDATA['A throwback' - Wolves beat Grimsby in FA Cup mudbath]]></title>
-      <description><![CDATA[Premier League Wolves edge League Two Grimsby in an "old school cup tie" which provided an FA Cup "throwback".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c14mnp0z0vro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c14mnp0z0vro</guid>
-      <pubDate>Sun, 15 Feb 2026 18:29:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/902f/live/43f5b940-0a98-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[All February's done deals, including deadline day, in one place]]></title>
       <description><![CDATA[Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy59zrq4ywgo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy59zrq4ywgo</guid>
       <pubDate>Wed, 04 Feb 2026 14:20:28 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who has the most Premier League appearances?]]></title>
+      <description><![CDATA[Our Ask Me Anything Team look at which players have the highest total Premier League appearances.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c14r638r163o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c14r638r163o</guid>
+      <pubDate>Wed, 11 Feb 2026 21:05:45 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b47/live/07834570-078e-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Where do iconic football moves originate from?]]></title>
+      <description><![CDATA[Our Ask Me Anything team explain where the names of iconic football moves come from.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c20g5vq14vyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20g5vq14vyo</guid>
+      <pubDate>Wed, 11 Feb 2026 09:14:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fee/live/d7c0c720-0348-11f1-b5e2-dd58fc65f0f6.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Why is there a four-week break in the WSL?]]></title>
+      <description><![CDATA[BBC Sport takes a look at why there is a second hiatus in the Women's Super League so soon after the winter break.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp853d9gg5no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp853d9gg5no</guid>
+      <pubDate>Mon, 16 Feb 2026 08:56:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/782f/live/7f991080-0b21-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why are some football shin pads so small?]]></title>
@@ -471,46 +503,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgnyzzn90do</guid>
       <pubDate>Mon, 02 Feb 2026 13:27:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bf8/live/6b24e4d0-0036-11f1-a8b8-bdd2c5f9bcad.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How many players are clubs allowed to loan out?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team explain the rules around how many players clubs are allowed to send out on loan]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgpy978z4po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgpy978z4po</guid>
-      <pubDate>Mon, 02 Feb 2026 13:25:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bd0/live/4650f980-0033-11f1-a8b8-bdd2c5f9bcad.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What happens during a football medical?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team explain what is involved in a medical exam when a football player joins a new club.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj4w287qnn4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj4w287qnn4o</guid>
-      <pubDate>Mon, 02 Feb 2026 15:49:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b602/live/21486ca0-000f-11f1-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What is a transfer deal sheet?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team looks at what a transfer deal sheet is and why it is needed for transfers on deadline day.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cev2wkn79p3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cev2wkn79p3o</guid>
-      <pubDate>Mon, 02 Feb 2026 08:35:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c81/live/09f0e6b0-0012-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How much do teams earn for reaching Champions League knockouts?]]></title>
-      <description><![CDATA[Our Ask Me Anything team breaks down how much money Premier League teams have received by advancing to the knockout phase of the competition.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1dkydlxpk7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1dkydlxpk7o</guid>
-      <pubDate>Fri, 30 Jan 2026 14:17:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9357/live/23c6d850-fdd9-11f0-b7e1-afb6d0884c18.png"/>
-    </item>
-    <item>
-      <title><![CDATA[How Celtic can overcome Stuttgart in Europa League]]></title>
-      <description><![CDATA[Former Celtic and Stuttgart defender Andreas Hinkel gives BBC Sport Scotland his analysis of the sides' upcoming Europa League tie.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpv8nrdj9dlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv8nrdj9dlo</guid>
-      <pubDate>Thu, 19 Feb 2026 08:41:07 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a91/live/f0cf39e0-08ed-11f1-94dc-adc7436c6c75.jpg"/>
     </item>
     <item>
       <title><![CDATA[McGinn says VAR  in Scotland is 'a mess' - gossip]]></title>
