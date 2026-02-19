@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 19 Feb 2026 19:38:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 20:03:27 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -56,14 +56,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be6f/live/5236b240-0d7f-11f1-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
-      <title><![CDATA[Leicester appeal against six-point deduction]]></title>
-      <description><![CDATA[Leicester City appeal against a decision to deduct them six points for breaching English Football League financial rules.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c875pw205glo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c875pw205glo</guid>
-      <pubDate>Thu, 19 Feb 2026 16:49:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/821f/live/d399c760-0d88-11f1-ab35-e1029910cb11.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How Szoboszlai became Liverpool's key man]]></title>
       <description><![CDATA[Inside the Hungarian midfielder's season as the main character at Liverpool, his friendship with Mohamed Salah and why the Reds are keen to extend his contract.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cjrq74ryrx7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -78,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3gv7v4j39o</guid>
       <pubDate>Thu, 19 Feb 2026 13:44:14 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64cb/live/0c0ec480-0d82-11f1-a355-f9c151a9e8be.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Chairperson and Drogheda dispute resignation claims over Israel comments]]></title>
-      <description><![CDATA[Drogheda United co-chairperson Joanna Byrne says that the club's board of directors have asked her to resign following her comments about the Republic of Ireland's Nations League games against Israel.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce82g4d6d8no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce82g4d6d8no</guid>
-      <pubDate>Thu, 19 Feb 2026 16:16:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04b6/live/33ef8200-0d82-11f1-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
       <title><![CDATA['Shouldn't be in the game' - Rosenior wants stronger racism penalties]]></title>
@@ -128,6 +112,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3859/live/bf246320-0d25-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Chairperson and Drogheda dispute resignation claims over Israel comments]]></title>
+      <description><![CDATA[Drogheda United co-chairperson Joanna Byrne says that the club's board of directors have asked her to resign following her comments about the Republic of Ireland's Nations League games against Israel.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce82g4d6d8no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce82g4d6d8no</guid>
+      <pubDate>Thu, 19 Feb 2026 16:16:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04b6/live/33ef8200-0d82-11f1-b7e1-afb6d0884c18.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Leicester appeal against six-point deduction]]></title>
+      <description><![CDATA[Leicester City appeal against a decision to deduct them six points for breaching English Football League financial rules.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c875pw205glo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c875pw205glo</guid>
+      <pubDate>Thu, 19 Feb 2026 16:49:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/821f/live/d399c760-0d88-11f1-ab35-e1029910cb11.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Souttar commits future to Rangers]]></title>
       <description><![CDATA[Scotland defender John Souttar signs a new contract with Rangers, keeping him at the Ibrox club until May 2027 and ending speculation over his future.]]></description>
       <link>https://www.bbc.com/sport/football/articles/clyxqe1r8g5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -166,22 +166,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gq2j31xneo</guid>
       <pubDate>Thu, 19 Feb 2026 16:37:59 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c7b/live/5c9168a0-0dae-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Scottish VAR a mess' - McGinn critical of replay use]]></title>
-      <description><![CDATA[Scotland midfielder John McGinn describes VAR as "a mess" as three players are sent off in Aberdeen's Scottish Cup win over Motherwell at Pittodrie.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czj1nw3gnz7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czj1nw3gnz7o</guid>
-      <pubDate>Thu, 19 Feb 2026 10:17:25 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aab/live/5e8ac540-0d7a-11f1-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Bottle word will be used' as Arsenal blow title advantage]]></title>
-      <description><![CDATA[After blowing a two-goal lead to draw against the Premier League's bottom club Wolves, there will be no dodging the questions on whether Arsenal are mentally ready to end their 22-year wait to become champions.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czj1nm9jdy3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czj1nm9jdy3o</guid>
-      <pubDate>Thu, 19 Feb 2026 00:21:00 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e0/live/75d41b00-0d22-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Williams and White react to fans' WSL hot takes]]></title>
@@ -224,20 +208,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b30/live/016ad0f0-0d23-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Bottle word will be used' as Arsenal blow title advantage]]></title>
+      <description><![CDATA[After blowing a two-goal lead to draw against the Premier League's bottom club Wolves, there will be no dodging the questions on whether Arsenal are mentally ready to end their 22-year wait to become champions.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/czj1nm9jdy3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czj1nm9jdy3o</guid>
+      <pubDate>Thu, 19 Feb 2026 00:21:00 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e0/live/75d41b00-0d22-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Scottish VAR a mess' - McGinn critical of replay use]]></title>
+      <description><![CDATA[Scotland midfielder John McGinn describes VAR as "a mess" as three players are sent off in Aberdeen's Scottish Cup win over Motherwell at Pittodrie.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/czj1nw3gnz7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czj1nw3gnz7o</guid>
+      <pubDate>Thu, 19 Feb 2026 10:17:25 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aab/live/5e8ac540-0d7a-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Montemurro on home Asian Cup, WSL pressure & fixing cultures]]></title>
       <description><![CDATA[As a club coach with Arsenal, Juventus and Lyon and an international coach with Australia, Joe Montemurro has experience of pressure from both sides as he talks to BBC Sport.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2ryg14yxlo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2ryg14yxlo</guid>
       <pubDate>Thu, 19 Feb 2026 07:25:32 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b0/live/8476fec0-08e5-11f1-b046-7389c3987914.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Postecoglou rules out Celtic return despite 'amazing experience']]></title>
-      <description><![CDATA[Ange Postecoglou says he would not consider a return to managing Celtic despite the "amazing experience" he enjoyed in Glasgow.]]></description>
-      <link>https://www.bbc.com/sport/articles/cwygnvjzqn0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cwygnvjzqn0o</guid>
-      <pubDate>Thu, 19 Feb 2026 09:58:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1327/live/9f654700-0d77-11f1-b1f2-a50c2c5773ab.jpg"/>
     </item>
     <item>
       <title><![CDATA[From Stoke to the Arctic Circle - 30 years of BBC's Murray behind mic]]></title>
@@ -272,6 +264,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6574/live/862650f0-0d0d-11f1-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
+      <title><![CDATA[Postecoglou rules out Celtic return despite 'amazing experience']]></title>
+      <description><![CDATA[Ange Postecoglou says he would not consider a return to managing Celtic despite the "amazing experience" he enjoyed in Glasgow.]]></description>
+      <link>https://www.bbc.com/sport/articles/cwygnvjzqn0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cwygnvjzqn0o</guid>
+      <pubDate>Thu, 19 Feb 2026 09:58:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1327/live/9f654700-0d77-11f1-b1f2-a50c2c5773ab.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Celtic given full Ibrox stand in Scottish Cup]]></title>
       <description><![CDATA[The sides meet in the quarter-finals at Ibrox next month and Celtic will have a larger ticket allocation than recent derbies in Govan.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8jxe2x4yrno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -286,30 +286,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20z9xqdz2lo</guid>
       <pubDate>Wed, 18 Feb 2026 22:48:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2f1/live/c729ef70-0d13-11f1-89c6-65cc177ba7c1.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ex-Newcastle defender Beye appointed Marseille coach]]></title>
-      <description><![CDATA[Marseille appoint former captain Habib Beye as head coach, a week after his sacking from Ligue 1 side Rennes. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cyv9q5ng2v8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv9q5ng2v8o</guid>
-      <pubDate>Thu, 19 Feb 2026 08:34:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f61/live/e7e82140-0d5f-11f1-a735-c999a8fb3aea.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Benfica allege 'defamation campaign' after Vinicius racism claim]]></title>
-      <description><![CDATA[Benfica claim there is a "defamation campaign" against Gianluca Prestianni as Uefa launch an investigation into claims he racially abused Real Madrid's Vinicius Jr.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx24vnm4dp5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx24vnm4dp5o</guid>
-      <pubDate>Wed, 18 Feb 2026 15:31:31 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d9/live/64670730-0cdf-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['It was down to the victim' - is Uefa's racism protocol working?]]></title>
-      <description><![CDATA[Rather than player welfare, the focus was about racism protocol and process. Did this fail Real Madrid's Vinicius Jr against Benfica?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yjlrx0y5po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yjlrx0y5po</guid>
-      <pubDate>Wed, 18 Feb 2026 17:21:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fdc/live/d9c869b0-0cda-11f1-b054-335fa224f76a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Galatasaray beat Juventus in seven-goal thriller]]></title>
@@ -352,6 +328,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eea3/live/5fac9c90-0c54-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
+      <title><![CDATA['It was down to the victim' - is Uefa's racism protocol working?]]></title>
+      <description><![CDATA[Rather than player welfare, the focus was about racism protocol and process. Did this fail Real Madrid's Vinicius Jr against Benfica?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5yjlrx0y5po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yjlrx0y5po</guid>
+      <pubDate>Wed, 18 Feb 2026 17:21:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fdc/live/d9c869b0-0cda-11f1-b054-335fa224f76a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ex-Newcastle defender Beye appointed Marseille coach]]></title>
+      <description><![CDATA[Marseille appoint former captain Habib Beye as head coach, a week after his sacking from Ligue 1 side Rennes. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cyv9q5ng2v8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv9q5ng2v8o</guid>
+      <pubDate>Thu, 19 Feb 2026 08:34:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f61/live/e7e82140-0d5f-11f1-a735-c999a8fb3aea.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Pubs to open late for home nations  World Cup knockout games]]></title>
       <description><![CDATA[Football fans will be able to enjoy an extra round at the pub thanks to new rules during the men's World Cup.]]></description>
       <link>https://www.bbc.com/news/articles/c8xy814855vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -364,7 +356,7 @@
       <description><![CDATA[Could the Premier League get an extra place in the Champions League again? This is how it looks at the end of the league phases.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj0npqv9rylo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0npqv9rylo</guid>
-      <pubDate>Wed, 18 Feb 2026 19:44:11 GMT</pubDate>
+      <pubDate>Thu, 19 Feb 2026 20:01:16 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93c9/live/5b39a1a0-fc67-11f0-a7b3-13a56b7a31f4.jpg"/>
     </item>
     <item>
@@ -545,6 +537,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/791b/live/d13d27e0-0cc6-11f1-8eb2-b590a831a663.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Real Madrid and Uefa set to end Super League dispute]]></title>
+      <description><![CDATA[Real Madrid and Uefa say they are set to end their legal dispute over the failed European Super League project.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2j44yyvyzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2j44yyvyzo</guid>
+      <pubDate>Wed, 11 Feb 2026 16:13:51 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ce/live/d3095dd0-075f-11f1-b436-5dd3555fd4f7.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Lyon loan helping 'explosive' Endrick's World Cup 'dream' with Brazil]]></title>
       <description><![CDATA[Real Madrid striker Endrick's impact on loan at Lyon has been immediate, and is fuelling the teenager's "dream" of playing for Brazil at the World Cup.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cjrqd10722xo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -575,14 +575,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy84ve0kqxo</guid>
       <pubDate>Thu, 05 Feb 2026 12:42:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8da/live/3c73eab0-028d-11f1-bf01-7719d5c56e6e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ex-Villa striker Duran signs for sixth club aged 22]]></title>
-      <description><![CDATA[Former Aston Villa striker Jhon Duran joins the sixth club of his career at the age of just 22 as he signs for Zenit St Petersburg on loan.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp878md787xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp878md787xo</guid>
-      <pubDate>Mon, 09 Feb 2026 13:22:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb8/live/de829690-033b-11f1-9d05-c7b737bbaef1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Frank's downfall: Inside his struggle to get players and fans onboard ]]></title>
