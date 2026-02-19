@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 19 Feb 2026 20:52:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 21:31:04 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Single vaccine could protect against all coughs, colds and flus, researchers say]]></title>
+      <description><![CDATA[A Stanford University team have tested their nasal spray vaccine in animals but still need to do human clinical trials.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2g8rz7yedo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2g8rz7yedo</guid>
+      <pubDate>Thu, 19 Feb 2026 20:33:55 GMT</pubDate>
+      <media:thumbnail width="240" height="159" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93b9/live/4a4f60e0-0dd4-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Children injured by NHS can claim damages for lifetime lost earnings, court rules]]></title>
       <description><![CDATA[The decision from the Supreme Court, on the case of a child who sustained a brain injury at birth in 2015, could have significant cost implications for the NHS.]]></description>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8yz3n4ggeo</guid>
       <pubDate>Thu, 05 Feb 2026 06:24:25 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56f1/live/a8521310-0201-11f1-b311-a93d45a0b96f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[36 UK infants ill after drinking contaminated baby formula]]></title>
-      <description><![CDATA[It comes after some batches made by Nestle and Danone were recalled after being contaminated with a toxin.]]></description>
-      <link>https://www.bbc.com/news/articles/c931rxnwn3lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c931rxnwn3lo</guid>
-      <pubDate>Thu, 05 Feb 2026 11:01:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41f8/live/bfedb420-05b2-11f1-8336-6d2201ebafb2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sunbed ads spreading harmful misinformation to young people]]></title>
