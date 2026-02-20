@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 19 Feb 2026 23:59:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 02:31:28 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -22,6 +22,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c8jxevd8mdyo</guid>
       <pubDate>Thu, 19 Feb 2026 18:16:43 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15d9/live/12013a90-0db8-11f1-a954-b3152d2d59e8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Nasa boss says Boeing Starliner failure one of worst in its history]]></title>
+      <description><![CDATA[The agency released a critical report that puts the Starliner incident at same mistake level assigned to the fatal Columbia and Challenger shuttle disasters.]]></description>
+      <link>https://www.bbc.com/news/articles/cm2x3nlxg9jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2x3nlxg9jo</guid>
+      <pubDate>Fri, 20 Feb 2026 01:44:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6072/live/29349e70-0dfc-11f1-9840-89181305bedf.jpg"/>
     </item>
     <item>
       <title><![CDATA[SpaceX rocket fireball linked to plume of polluting lithium]]></title>
@@ -48,14 +56,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbed/live/4211c060-0cf0-11f1-a015-553217367293.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Bill Gates pulls out of India's AI summit over Epstein files controversy]]></title>
-      <description><![CDATA[The Gates Foundation said the decision was made to "ensure the focus remains on the summit's key priorities".]]></description>
-      <link>https://www.bbc.com/news/articles/c309qv9zglno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c309qv9zglno</guid>
-      <pubDate>Thu, 19 Feb 2026 08:13:25 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a97/live/efd25a30-0d49-11f1-8a17-c3bd2e006216.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Zuckerberg defends Meta in landmark social media addiction trial]]></title>
       <description><![CDATA[The billionaire boss said he "always" regretted not making faster progress to identify users under 13.]]></description>
       <link>https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -64,12 +64,28 @@
       <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd95/live/86ef3de0-0d1b-11f1-b5e2-dd58fc65f0f6.png"/>
     </item>
     <item>
+      <title><![CDATA[How do you modernise mango farming?]]></title>
+      <description><![CDATA[India's mango farmers are being urged to innovate as climate change makes cultivation "unpredictable".]]></description>
+      <link>https://www.bbc.com/news/articles/c86yl809ld6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c86yl809ld6o</guid>
+      <pubDate>Fri, 20 Feb 2026 00:05:20 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e86/live/f63125d0-065c-11f1-9972-d3f265c101c6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Etsy sells second-hand fashion app Depop to eBay for $1.2bn]]></title>
       <description><![CDATA[The "pre-loved" fashion firm has been sold by Etsy just five years after it bought the firm.]]></description>
       <link>https://www.bbc.com/news/articles/cx240kme2k8o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cx240kme2k8o</guid>
       <pubDate>Thu, 19 Feb 2026 11:07:24 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac2e/live/6f0f21d0-0d30-11f1-b73d-5f7429e28cb8.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Bill Gates pulls out of India's AI summit over Epstein files controversy]]></title>
+      <description><![CDATA[The Gates Foundation said the decision was made to "ensure the focus remains on the summit's key priorities".]]></description>
+      <link>https://www.bbc.com/news/articles/c309qv9zglno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c309qv9zglno</guid>
+      <pubDate>Thu, 19 Feb 2026 08:13:25 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a97/live/efd25a30-0d49-11f1-8a17-c3bd2e006216.jpg"/>
     </item>
     <item>
       <title><![CDATA[Call of Duty advert banned for trivialising sexual violence]]></title>
@@ -105,14 +121,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ef8/live/d681e5e0-0827-11f1-b5e2-dd58fc65f0f6.png"/>
     </item>
     <item>
-      <title><![CDATA[Could Bill Gates and political tussles overshadow AI safety debate in Delhi?]]></title>
-      <description><![CDATA[As global tech leaders meet Delhi, India hopes to level the playing field for countries outside the US and China.]]></description>
-      <link>https://www.bbc.com/news/articles/cr5l6gnen72o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cr5l6gnen72o</guid>
-      <pubDate>Tue, 17 Feb 2026 11:35:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d7c/live/cc610970-0c04-11f1-b629-5b1f327d70c1.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[We will do battle with AI chatbots as we did with Grok, says Starmer]]></title>
       <description><![CDATA[The government's new plans will mean no online platform will get a "free pass" on children's safety on the internet, the prime minister says.]]></description>
       <link>https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -135,6 +143,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c043n0kl71wo</guid>
       <pubDate>Mon, 16 Feb 2026 12:41:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/243e/live/2f158ff0-0b1f-11f1-b2d9-a9bd89759413.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Could Bill Gates and political tussles overshadow AI safety debate in Delhi?]]></title>
+      <description><![CDATA[As global tech leaders meet Delhi, India hopes to level the playing field for countries outside the US and China.]]></description>
+      <link>https://www.bbc.com/news/articles/cr5l6gnen72o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cr5l6gnen72o</guid>
+      <pubDate>Tue, 17 Feb 2026 11:35:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d7c/live/cc610970-0c04-11f1-b629-5b1f327d70c1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Stroke survivors trial new at-home tech: 'It's given me my freedom back']]></title>
