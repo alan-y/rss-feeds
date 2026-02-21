@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 21 Feb 2026 19:40:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 19:55:24 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -139,6 +139,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba2c/live/f686b330-0f4c-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Kane strikes twice to extend Bayern’s Bundesliga lead]]></title>
+      <description><![CDATA[Harry Kane scores twice as Bayern Munich move nine points clear at the top of the Bundesliga table with victory over Eintracht Frankfurt at the Allianz Arena.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c20lwpnk0veo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c20lwpnk0veo</guid>
+      <pubDate>Sat, 21 Feb 2026 19:36:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3938/live/b7b77450-0f5b-11f1-801d-ed3cff6bf876.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Watch: Comedy miss as leaders St Johnstone held by Raith Rovers]]></title>
       <description><![CDATA[Watch as Sam Stanton's shot is cleared off the line by St Johnstone team-mate Josh Fowler during their Scottish Championship game against Raith Rovers.]]></description>
       <link>https://www.bbc.com/sport/videos/cvg89k1g18no?at_medium=RSS&amp;at_campaign=rss</link>
@@ -161,14 +169,6 @@
       <guid isPermaLink="false">https://www.bbc.com/articles/c39wxxnwj7yo</guid>
       <pubDate>Fri, 20 Feb 2026 14:10:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b67a/live/52888440-0e5a-11f1-9120-a910fc22c6ac.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Mourinho 'got it wrong' - McCarthy ]]></title>
-      <description><![CDATA[Former Premier League striker Benni McCarthy says his former manager Jose Mourinho should apologise for his "very wrong" comments after the alleged racial abuse of Vinicius Jr during Real Madrid's 1-0 win against Benfica in the first leg of their Champions League play-off tie.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cm2r66j1737o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cm2r66j1737o</guid>
-      <pubDate>Fri, 20 Feb 2026 13:23:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a305/live/f5c43fb0-0e5e-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wolves set to lose teenager Mane - Saturday's gossip]]></title>
@@ -195,12 +195,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e1c/live/9a9b7a50-0e71-11f1-bdbb-11aff6cb7943.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Bigger does not mean better' - why more matches is not for good of the game]]></title>
-      <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis explains why more matches in a shorter space of time might mean more injuries, and why the expansion of tournaments does not help players or fans.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdjmly2rgp2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjmly2rgp2o</guid>
-      <pubDate>Fri, 20 Feb 2026 08:32:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
+      <title><![CDATA[Mourinho 'got it wrong' - McCarthy ]]></title>
+      <description><![CDATA[Former Premier League striker Benni McCarthy says his former manager Jose Mourinho should apologise for his "very wrong" comments after the alleged racial abuse of Vinicius Jr during Real Madrid's 1-0 win against Benfica in the first leg of their Champions League play-off tie.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cm2r66j1737o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cm2r66j1737o</guid>
+      <pubDate>Fri, 20 Feb 2026 13:23:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a305/live/f5c43fb0-0e5e-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
       <title><![CDATA['It's the ultimate role' - Carrick on Man Utd job]]></title>
@@ -235,12 +235,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3859/live/bf246320-0d25-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Williams and White react to fans' WSL hot takes]]></title>
-      <description><![CDATA[BBC Sport pundits Fara Williams and Ellen White give their opinion on fans' WSL hot takes from Reddit.]]></description>
-      <link>https://www.bbc.com/sport/videos/cde42lzj309o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/videos/cde42lzj309o</guid>
-      <pubDate>Thu, 19 Feb 2026 07:29:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6a4/live/bab45d70-0ce6-11f1-b7e1-afb6d0884c18.jpg"/>
+      <title><![CDATA[Sutton's predictions v Embrace bassist Steve Firth]]></title>
+      <description><![CDATA[BBC Sport football expert Chris Sutton takes on Embrace bassist Steve Firth plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2j8wljzp3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2j8wljzp3o</guid>
+      <pubDate>Thu, 19 Feb 2026 19:16:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be6f/live/5236b240-0d7f-11f1-b7e1-afb6d0884c18.png"/>
+    </item>
+    <item>
+      <title><![CDATA['Bigger does not mean better' - why more matches is not for good of the game]]></title>
+      <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis explains why more matches in a shorter space of time might mean more injuries, and why the expansion of tournaments does not help players or fans.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdjmly2rgp2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjmly2rgp2o</guid>
+      <pubDate>Fri, 20 Feb 2026 08:32:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Mourinho made 'unacceptable, huge mistake' - Kompany]]></title>
@@ -257,14 +265,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62g6zdjzpxo</guid>
       <pubDate>Fri, 20 Feb 2026 18:01:17 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a743/live/e27e5c80-0e84-11f1-a091-35d1a11c7bd2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sutton's predictions v Embrace bassist Steve Firth]]></title>
-      <description><![CDATA[BBC Sport football expert Chris Sutton takes on Embrace bassist Steve Firth plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2j8wljzp3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2j8wljzp3o</guid>
-      <pubDate>Thu, 19 Feb 2026 19:16:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be6f/live/5236b240-0d7f-11f1-b7e1-afb6d0884c18.png"/>
     </item>
     <item>
       <title><![CDATA[Celtic chair urges end to 'debilitating' conflict with fans]]></title>
@@ -291,12 +291,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d185/live/6517fd00-0e66-11f1-ac78-0950755f28c4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Managing Man Utd the 'ultimate role' - Carrick]]></title>
-      <description><![CDATA[Manchester United caretaker manager Michael Carrick speaks to BBC Sport about trusting academy graduate and 'huge talent' Kobbie Mainoo.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ceqvrv29pzvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ceqvrv29pzvo</guid>
-      <pubDate>Fri, 20 Feb 2026 06:11:34 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02ca/live/7d8fc6a0-0dcc-11f1-b7e1-afb6d0884c18.jpg"/>
+      <title><![CDATA[Williams and White react to fans' WSL hot takes]]></title>
+      <description><![CDATA[BBC Sport pundits Fara Williams and Ellen White give their opinion on fans' WSL hot takes from Reddit.]]></description>
+      <link>https://www.bbc.com/sport/videos/cde42lzj309o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/videos/cde42lzj309o</guid>
+      <pubDate>Thu, 19 Feb 2026 07:29:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6a4/live/bab45d70-0ce6-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arsenal were nowhere near our standards - Arteta]]></title>
@@ -337,14 +337,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgjz5dx595vo</guid>
       <pubDate>Tue, 17 Feb 2026 11:15:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ce/live/0dd8a5a0-0bee-11f1-b5e2-dd58fc65f0f6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Own goal helps Brentford end Macclesfield's FA Cup run]]></title>
-      <description><![CDATA[Macclesfield's FA Cup dream ends in cruel fashion as Brentford win 1-0 after an own goal by Sam Heathcote.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c9q544jqqe2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c9q544jqqe2o</guid>
-      <pubDate>Tue, 17 Feb 2026 00:01:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6faf/live/ac738400-0b8a-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[The 20-year-old newspaper column that gave a hint to Man City's new tactics]]></title>
