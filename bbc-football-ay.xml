@@ -10,43 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 21 Feb 2026 16:59:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 17:34:08 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[Milner breaks Premier League appearance record]]></title>
-      <description><![CDATA[Brighton's James Milner starts against Brentford to break the all-time Premier League appearance record of 653.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cjrqdnj2199o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjrqdnj2199o</guid>
-      <pubDate>Sat, 21 Feb 2026 15:47:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9177/live/55a46b60-0f38-11f1-9977-e990726ff5e1.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What's eating Arsenal? North London derby now a test of Gunners' 'bottle']]></title>
-      <description><![CDATA[What's eating Arsenal? Sunday's North London derby is now a test of the Gunners' "bottle", says chief football writer Phil McNulty.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cjwzqn3e193o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjwzqn3e193o</guid>
-      <pubDate>Sat, 21 Feb 2026 07:04:14 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d0e/live/e36f2b50-0e67-11f1-9f23-b3f349b149c7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Losing the dressing room' - what does it mean and how can it happen?]]></title>
-      <description><![CDATA["Losing the dressing room" is now part of football's vocabulary. Chief football writer Phil McNulty asks what it means, how it happens and can it be solved?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy9gvle2n5qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy9gvle2n5qo</guid>
-      <pubDate>Sat, 21 Feb 2026 09:25:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c13e/live/2e3d6b50-0d83-11f1-a355-f9c151a9e8be.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Sacrifices' & celebrations - why Chelsea's Neto is misunderstood]]></title>
-      <description><![CDATA[Pedro Neto has been criticised for lacking a "killer instinct", but the Chelsea winger's shape-shifting role goes some way to explain that.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c80jyejrx0zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80jyejrx0zo</guid>
-      <pubDate>Sat, 21 Feb 2026 08:47:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e73/live/d1c39e40-0d7c-11f1-8e6b-0f78c649f3c2.jpg"/>
-    </item>
     <item>
       <title><![CDATA[Watch: Comedy miss as leaders St Johnstone held by Raith Rovers]]></title>
       <description><![CDATA[Watch as Sam Stanton's shot is cleared off the line by St Johnstone team-mate Josh Fowler during their Scottish Championship game against Raith Rovers.]]></description>
@@ -88,6 +56,38 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd8a/live/dc4f89b0-0d9e-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
+      <title><![CDATA[What's eating Arsenal? North London derby now a test of Gunners' 'bottle']]></title>
+      <description><![CDATA[What's eating Arsenal? Sunday's North London derby is now a test of the Gunners' "bottle", says chief football writer Phil McNulty.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cjwzqn3e193o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjwzqn3e193o</guid>
+      <pubDate>Sat, 21 Feb 2026 07:04:14 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d0e/live/e36f2b50-0e67-11f1-9f23-b3f349b149c7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Milner breaks Premier League appearance record]]></title>
+      <description><![CDATA[Brighton's James Milner starts against Brentford to break the all-time Premier League appearance record of 653.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cjrqdnj2199o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjrqdnj2199o</guid>
+      <pubDate>Sat, 21 Feb 2026 15:47:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9177/live/55a46b60-0f38-11f1-9977-e990726ff5e1.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Sacrifices' & celebrations - why Chelsea's Neto is misunderstood]]></title>
+      <description><![CDATA[Pedro Neto has been criticised for lacking a "killer instinct", but the Chelsea winger's shape-shifting role goes some way to explain that.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c80jyejrx0zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80jyejrx0zo</guid>
+      <pubDate>Sat, 21 Feb 2026 08:47:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e73/live/d1c39e40-0d7c-11f1-8e6b-0f78c649f3c2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Losing the dressing room' - what does it mean and how can it happen?]]></title>
+      <description><![CDATA["Losing the dressing room" is now part of football's vocabulary. Chief football writer Phil McNulty asks what it means, how it happens and can it be solved?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy9gvle2n5qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy9gvle2n5qo</guid>
+      <pubDate>Sat, 21 Feb 2026 09:25:01 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c13e/live/2e3d6b50-0d83-11f1-a355-f9c151a9e8be.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Relegated in February? Why Sheff Wed are on brink of history]]></title>
       <description><![CDATA[Sheffield Wednesday are on the brink of becoming the first team in English Football League history to be relegated in February.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cp81l0krk3wo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -102,70 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy9g0xyl1g9o</guid>
       <pubDate>Sat, 21 Feb 2026 10:59:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a7/live/fd126310-0e71-11f1-9acc-6bf6c7adf476.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Stay humble' - Glasner reacts to fan backlash as future in doubt]]></title>
-      <description><![CDATA[Sources tell BBC Sport that Crystal Palace's board is considering Oliver Glasner's future at the club. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdjm99g32exo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjm99g32exo</guid>
-      <pubDate>Fri, 20 Feb 2026 13:15:55 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7466/live/0d541080-0e58-11f1-9dfd-b903070cb164.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ratcliffe avoids FA charge over immigration comments]]></title>
-      <description><![CDATA[Manchester United co-owner Sir Jim Ratcliffe's claims the UK has been "colonised by immigrants" will not lead to any sanction by the Football Association.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce3gvv3eweko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3gvv3eweko</guid>
-      <pubDate>Fri, 20 Feb 2026 15:39:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c26/live/fcad7c30-0e70-11f1-bdbb-11aff6cb7943.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Mourinho made 'unacceptable, huge mistake' - Kompany]]></title>
-      <description><![CDATA[Bayern Munich boss Vincent Kompany says Jose Mourinho made a "huge mistake" with his "unacceptable" post-match comments after the alleged racial abuse of Real Madrid winger Vinicius Jr. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crl4jx0jw11o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crl4jx0jw11o</guid>
-      <pubDate>Fri, 20 Feb 2026 15:51:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b786/live/412e7c40-0e64-11f1-801d-ed3cff6bf876.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Brazil striker Neymar considering retirement]]></title>
-      <description><![CDATA[Brazil's all-time record goalscorer Neymar says he is considering retiring at the end of the year and admits it will be a "huge challenge" to make his country's World Cup squad.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c62g6zdjzpxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62g6zdjzpxo</guid>
-      <pubDate>Fri, 20 Feb 2026 18:01:17 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a743/live/e27e5c80-0e84-11f1-a091-35d1a11c7bd2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Arsenal exactly where we want to be - Arteta]]></title>
-      <description><![CDATA[Mikel Arteta says Arsenal are "exactly where they want to be" in every competition as the Gunners get ready to face rivals Tottenham after the disappointing draw at Wolves.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy0djw2zwe9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy0djw2zwe9o</guid>
-      <pubDate>Fri, 20 Feb 2026 16:32:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e1c/live/9a9b7a50-0e71-11f1-bdbb-11aff6cb7943.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Celtic chair urges end to 'debilitating' conflict with fans]]></title>
-      <description><![CDATA[Celtic interim chairman Brian Wilson vows to "continue to seek an end to this debilitating and unnecessary atmosphere of conflict" after a fan protest during Thursday's Europa League game left the Scottish champions fearing disciplinary action.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqxdez7wr07o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxdez7wr07o</guid>
-      <pubDate>Fri, 20 Feb 2026 19:21:24 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1219/live/210a0e70-0e91-11f1-8eac-bde92ecc867b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sutton's predictions v Embrace bassist Steve Firth]]></title>
-      <description><![CDATA[BBC Sport football expert Chris Sutton takes on Embrace bassist Steve Firth plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2j8wljzp3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2j8wljzp3o</guid>
-      <pubDate>Thu, 19 Feb 2026 19:16:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be6f/live/5236b240-0d7f-11f1-b7e1-afb6d0884c18.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Werder Bremen cancel US trip over ICE shooting concerns]]></title>
-      <description><![CDATA[German club Werder Bremen cancel a trip to the USA, citing concerns over "unrest" after a government immigration crackdown that left two people dead.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyvgd2227lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyvgd2227lo</guid>
-      <pubDate>Fri, 20 Feb 2026 18:43:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff4/live/4aba6760-0e87-11f1-a091-35d1a11c7bd2.jpg"/>
     </item>
     <item>
       <title><![CDATA['Shouldn't be in the game' - Rosenior wants stronger racism penalties]]></title>
@@ -208,6 +144,30 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfd2/live/b3738b70-0d1e-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Stay humble' - Glasner reacts to fan backlash as future in doubt]]></title>
+      <description><![CDATA[Sources tell BBC Sport that Crystal Palace's board is considering Oliver Glasner's future at the club. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdjm99g32exo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjm99g32exo</guid>
+      <pubDate>Fri, 20 Feb 2026 13:15:55 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7466/live/0d541080-0e58-11f1-9dfd-b903070cb164.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ratcliffe avoids FA charge over immigration comments]]></title>
+      <description><![CDATA[Manchester United co-owner Sir Jim Ratcliffe's claims the UK has been "colonised by immigrants" will not lead to any sanction by the Football Association.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce3gvv3eweko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3gvv3eweko</guid>
+      <pubDate>Fri, 20 Feb 2026 15:39:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c26/live/fcad7c30-0e70-11f1-bdbb-11aff6cb7943.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Mourinho made 'unacceptable, huge mistake' - Kompany]]></title>
+      <description><![CDATA[Bayern Munich boss Vincent Kompany says Jose Mourinho made a "huge mistake" with his "unacceptable" post-match comments after the alleged racial abuse of Real Madrid winger Vinicius Jr. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crl4jx0jw11o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crl4jx0jw11o</guid>
+      <pubDate>Fri, 20 Feb 2026 15:51:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b786/live/412e7c40-0e64-11f1-801d-ed3cff6bf876.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Wolves set to lose teenager Mane - Saturday's gossip]]></title>
       <description><![CDATA[Wolves teenager Mateus Mane looks certain to leave Molineux, Liam Delap is wanted on Merseyside and Casemiro has interest from Europe as well as North and South America.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c23zmp022l1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -216,52 +176,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09cf/live/6c5393e0-0ea7-11f1-801d-ed3cff6bf876.png"/>
     </item>
     <item>
-      <title><![CDATA['Bigger does not mean better' - why more matches is not for good of the game]]></title>
-      <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis explains why more matches in a shorter space of time might mean more injuries, and why the expansion of tournaments does not help players or fans.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdjmly2rgp2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjmly2rgp2o</guid>
-      <pubDate>Fri, 20 Feb 2026 08:32:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
+      <title><![CDATA[Brazil striker Neymar considering retirement]]></title>
+      <description><![CDATA[Brazil's all-time record goalscorer Neymar says he is considering retiring at the end of the year and admits it will be a "huge challenge" to make his country's World Cup squad.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c62g6zdjzpxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62g6zdjzpxo</guid>
+      <pubDate>Fri, 20 Feb 2026 18:01:17 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a743/live/e27e5c80-0e84-11f1-a091-35d1a11c7bd2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sheffield's rival fans working together to break down barriers]]></title>
-      <description><![CDATA[Rainbow Blades founder James Laley and Rainbow Owls chair Chris Ledger are aiming to make football more inclusive on and off the pitch.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgl5x9kdk8zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgl5x9kdk8zo</guid>
-      <pubDate>Sat, 21 Feb 2026 11:27:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0a4/live/05efbd80-0e7b-11f1-aed6-eb0cc10d195f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How do Brentford keep appointing the right managers?]]></title>
-      <description><![CDATA[Keith Andrews is impressing at Brentford in his first season as a manager, but how do the Bees keep getting their appointments so right?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c15x9nlykg2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c15x9nlykg2o</guid>
-      <pubDate>Fri, 20 Feb 2026 08:22:39 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4628/live/4ca94390-0aac-11f1-ae99-1d5a1345a595.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Scotland set to lose second Champions League place]]></title>
-      <description><![CDATA[The Scottish Premiership looks certain to have only one place in the Champions League after next season after the failure of their clubs in European competition this term.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clygvv8kqklo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clygvv8kqklo</guid>
-      <pubDate>Fri, 20 Feb 2026 15:33:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d185/live/6517fd00-0e66-11f1-ac78-0950755f28c4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Managing Man Utd the 'ultimate role' - Carrick]]></title>
-      <description><![CDATA[Manchester United caretaker manager Michael Carrick speaks to BBC Sport about trusting academy graduate and 'huge talent' Kobbie Mainoo.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ceqvrv29pzvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ceqvrv29pzvo</guid>
-      <pubDate>Fri, 20 Feb 2026 06:11:34 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02ca/live/7d8fc6a0-0dcc-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Norwich's Sargent to join Toronto for more than £20m]]></title>
-      <description><![CDATA[Norwich City striker Josh Sargent is set to join Toronto FC in a deal worth more than £20m.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce3g9v9v185o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3g9v9v185o</guid>
-      <pubDate>Fri, 20 Feb 2026 14:23:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b224/live/2daf7460-0e4d-11f1-9189-e7ebb4fb5ccd.jpg"/>
+      <title><![CDATA[Arsenal exactly where we want to be - Arteta]]></title>
+      <description><![CDATA[Mikel Arteta says Arsenal are "exactly where they want to be" in every competition as the Gunners get ready to face rivals Tottenham after the disappointing draw at Wolves.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy0djw2zwe9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy0djw2zwe9o</guid>
+      <pubDate>Fri, 20 Feb 2026 16:32:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e1c/live/9a9b7a50-0e71-11f1-bdbb-11aff6cb7943.jpg"/>
     </item>
     <item>
       <title><![CDATA[Past Kane & chasing Mbappe - why Gordon is lethal in Europe]]></title>
@@ -304,52 +232,60 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6faf/live/ac738400-0b8a-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Sutton's predictions v Embrace bassist Steve Firth]]></title>
+      <description><![CDATA[BBC Sport football expert Chris Sutton takes on Embrace bassist Steve Firth plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2j8wljzp3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2j8wljzp3o</guid>
+      <pubDate>Thu, 19 Feb 2026 19:16:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be6f/live/5236b240-0d7f-11f1-b7e1-afb6d0884c18.png"/>
+    </item>
+    <item>
+      <title><![CDATA['Bigger does not mean better' - why more matches is not for good of the game]]></title>
+      <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis explains why more matches in a shorter space of time might mean more injuries, and why the expansion of tournaments does not help players or fans.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdjmly2rgp2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdjmly2rgp2o</guid>
+      <pubDate>Fri, 20 Feb 2026 08:32:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Celtic chair urges end to 'debilitating' conflict with fans]]></title>
+      <description><![CDATA[Celtic interim chairman Brian Wilson vows to "continue to seek an end to this debilitating and unnecessary atmosphere of conflict" after a fan protest during Thursday's Europa League game left the Scottish champions fearing disciplinary action.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqxdez7wr07o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxdez7wr07o</guid>
+      <pubDate>Fri, 20 Feb 2026 19:21:24 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1219/live/210a0e70-0e91-11f1-8eac-bde92ecc867b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Werder Bremen cancel US trip over ICE shooting concerns]]></title>
+      <description><![CDATA[German club Werder Bremen cancel a trip to the USA, citing concerns over "unrest" after a government immigration crackdown that left two people dead.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clyvgd2227lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyvgd2227lo</guid>
+      <pubDate>Fri, 20 Feb 2026 18:43:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff4/live/4aba6760-0e87-11f1-a091-35d1a11c7bd2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Scotland set to lose second Champions League place]]></title>
+      <description><![CDATA[The Scottish Premiership looks certain to have only one place in the Champions League after next season after the failure of their clubs in European competition this term.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clygvv8kqklo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clygvv8kqklo</guid>
+      <pubDate>Fri, 20 Feb 2026 15:33:05 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d185/live/6517fd00-0e66-11f1-ac78-0950755f28c4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How do Brentford keep appointing the right managers?]]></title>
+      <description><![CDATA[Keith Andrews is impressing at Brentford in his first season as a manager, but how do the Bees keep getting their appointments so right?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c15x9nlykg2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c15x9nlykg2o</guid>
+      <pubDate>Fri, 20 Feb 2026 08:22:39 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4628/live/4ca94390-0aac-11f1-ae99-1d5a1345a595.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Target Liverpool, Brentford & Bournemouth - the FPL talking point]]></title>
       <description><![CDATA[FPL expert Heisenberg and the FPL podcast team assess the Premier League clubs with favourable fixture lists in the next gameweeks.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwy67024kleo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy67024kleo</guid>
       <pubDate>Fri, 20 Feb 2026 08:26:33 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9435/live/e7bd2bf0-0da7-11f1-9fe5-57999fe11004.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Chelsea agree sponsorship deal with AI company IFS]]></title>
-      <description><![CDATA[Chelsea agree a deal with IFS, an AI technology company, to be their shirt sponsor until the end of the season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce3gv2g44peo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3gv2g44peo</guid>
-      <pubDate>Fri, 20 Feb 2026 19:43:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd21/live/fb5e1d30-0e8e-11f1-a4e4-ddad1524d202.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Rangers' Rohl has 'total belief' in tight race]]></title>
-      <description><![CDATA[Danny Rohl has "total" belief Rangers can win the Scottish Premiership but has called on his players to back it up with "consistency".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c89kpg742l4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c89kpg742l4o</guid>
-      <pubDate>Fri, 20 Feb 2026 11:30:00 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b86/live/814c3850-0e4e-11f1-9189-e7ebb4fb5ccd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[McTominay in race to face Atalanta with Napoli live on BBC]]></title>
-      <description><![CDATA[Scott McTominay and Billy Gilmour's chances of a second Italian title in a row could depend on Napoli downing in-form Atalanta on Sunday - and you can watch the action live on the BBC.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yg278yr6po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yg278yr6po</guid>
-      <pubDate>Fri, 20 Feb 2026 16:09:38 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5127/live/2b590c00-0e73-11f1-9acc-6bf6c7adf476.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Celtic v Hibs, Bartley & Chermiti in focus]]></title>
-      <description><![CDATA[Two crucial Sunday contests are in focus as the Scottish Premiership February fixture card starts to run out.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cyv9mm03gyjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv9mm03gyjo</guid>
-      <pubDate>Fri, 20 Feb 2026 15:00:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1381/live/0171bf30-0e6a-11f1-b048-c9424b2cf5fd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Schmeichel in spotlight after night of gloom for Celtic]]></title>
-      <description><![CDATA[BBC Scotland looks at the fallout from Kasper Schmeichel's performance in Celtic' Stuttgart defeat.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyg5yl9k2yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyg5yl9k2yo</guid>
-      <pubDate>Fri, 20 Feb 2026 00:16:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ef/live/54e76a00-0de5-11f1-a8a6-557e1114bd3a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Was Tullis-Joyce's 'tactical injury' a smart move? Fara thinks so]]></title>
