@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 21 Feb 2026 21:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 22:22:37 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -123,14 +123,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e73/live/d1c39e40-0d7c-11f1-8e6b-0f78c649f3c2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Relegated in February? Why Sheff Wed are on brink of history]]></title>
-      <description><![CDATA[Sheffield Wednesday are on the brink of becoming the first team in English Football League history to be relegated in February.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp81l0krk3wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp81l0krk3wo</guid>
-      <pubDate>Sat, 21 Feb 2026 15:31:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/985e/live/13c9d750-0d91-11f1-ab35-e1029910cb11.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[We're so close, we have to keep pushing - Abraham]]></title>
       <description><![CDATA[Aston Villa striker Tammy Abraham tells Final Score "anything can happen" in the Premier League title race and that his side have to keep pushing to get close to Arsenal.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c795qwqx9rdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -171,20 +163,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b67a/live/52888440-0e5a-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Relegated in February? Why Sheff Wed are on brink of history]]></title>
+      <description><![CDATA[Sheffield Wednesday are on the brink of becoming the first team in English Football League history to be relegated in February.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp81l0krk3wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp81l0krk3wo</guid>
+      <pubDate>Sat, 21 Feb 2026 15:31:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/985e/live/13c9d750-0d91-11f1-ab35-e1029910cb11.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Tudor could stay at Tottenham for 'long time' ]]></title>
       <description><![CDATA[Sporting director Johan Lange says Igor Tudor could be given the Tottenham job on a permanent basis if he impresses during the remainder of the season. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy9g0xyl1g9o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy9g0xyl1g9o</guid>
       <pubDate>Sat, 21 Feb 2026 10:59:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47a7/live/fd126310-0e71-11f1-9acc-6bf6c7adf476.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wolves set to lose teenager Mane - Saturday's gossip]]></title>
-      <description><![CDATA[Wolves teenager Mateus Mane looks certain to leave Molineux, Liam Delap is wanted on Merseyside and Casemiro has interest from Europe as well as North and South America.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c23zmp022l1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c23zmp022l1o</guid>
-      <pubDate>Fri, 20 Feb 2026 22:59:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09cf/live/6c5393e0-0ea7-11f1-801d-ed3cff6bf876.png"/>
     </item>
     <item>
       <title><![CDATA['Commitment, honesty & endeavour' fuelling Wrexham]]></title>
@@ -243,6 +235,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e1c/live/9a9b7a50-0e71-11f1-bdbb-11aff6cb7943.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Wolves set to lose teenager Mane - Saturday's gossip]]></title>
+      <description><![CDATA[Wolves teenager Mateus Mane looks certain to leave Molineux, Liam Delap is wanted on Merseyside and Casemiro has interest from Europe as well as North and South America.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c23zmp022l1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c23zmp022l1o</guid>
+      <pubDate>Fri, 20 Feb 2026 22:59:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09cf/live/6c5393e0-0ea7-11f1-801d-ed3cff6bf876.png"/>
+    </item>
+    <item>
       <title><![CDATA[Sutton's predictions v Embrace bassist Steve Firth]]></title>
       <description><![CDATA[BBC Sport football expert Chris Sutton takes on Embrace bassist Steve Firth plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2j8wljzp3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -281,14 +281,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxdez7wr07o</guid>
       <pubDate>Fri, 20 Feb 2026 19:21:24 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1219/live/210a0e70-0e91-11f1-8eac-bde92ecc867b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Werder Bremen cancel US trip over ICE shooting concerns]]></title>
-      <description><![CDATA[German club Werder Bremen cancel a trip to the USA, citing concerns over "unrest" after a government immigration crackdown that left two people dead.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyvgd2227lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyvgd2227lo</guid>
-      <pubDate>Fri, 20 Feb 2026 18:43:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff4/live/4aba6760-0e87-11f1-a091-35d1a11c7bd2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Williams and White react to fans' WSL hot takes]]></title>
@@ -458,6 +450,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cnv6my49jgmo</guid>
       <pubDate>Sat, 21 Feb 2026 20:39:15 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be3b/live/3d540380-0f5c-11f1-8c6e-2da2e1a0e6bb.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rangers to open contract talks with Raskin - gossip]]></title>
+      <description><![CDATA[Rangers plan to extend the terms of influential midfielder as Ibrox defender suffers another injury setback.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0mgrpgkv2eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mgrpgkv2eo</guid>
+      <pubDate>Sat, 21 Feb 2026 08:17:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15ef/live/b5cde380-0efd-11f1-b048-c9424b2cf5fd.png"/>
     </item>
     <item>
       <title><![CDATA[Scotland set to lose second Champions League place]]></title>
