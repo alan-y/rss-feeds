@@ -10,13 +10,13 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 24 Feb 2026 14:48:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 15:57:52 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
-      <title><![CDATA['We can't justify racism because of a goal celebration']]></title>
+      <title><![CDATA['It bothers me that Vinicius' celebration is being used against him']]></title>
       <description><![CDATA[Real Madrid goalkeeper Thibaut Courtois says Vinicius Jr's celebration against Benfica in last week's Champions League tie does not "justify a suspected act of racism".]]></description>
       <link>https://www.bbc.com/sport/football/articles/cze0r6zw2e6o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cze0r6zw2e6o</guid>
@@ -32,11 +32,19 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e62/live/49dfa510-1177-11f1-ba61-2b399c307393.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why Champions League return is crucial to Man Utd]]></title>
+      <description><![CDATA[Up to fourth in the Premier League after Monday's win at Everton, Champions League qualification would be a big boost to Manchester United's finances after two years outside Europe's elite club competition.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cre0v1x8nlvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cre0v1x8nlvo</guid>
+      <pubDate>Tue, 24 Feb 2026 15:19:53 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6709/live/444cad20-118e-11f1-89e5-1f2745badd52.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[PSG's Hakimi to face trial after rape allegation]]></title>
       <description><![CDATA[Paris St-Germain defender Achraf Hakimi says he is set to face trial after an allegation of rape was made against him.]]></description>
       <link>https://www.bbc.com/sport/football/articles/clyxrxj5n8yo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyxrxj5n8yo</guid>
-      <pubDate>Tue, 24 Feb 2026 12:40:35 GMT</pubDate>
+      <pubDate>Tue, 24 Feb 2026 15:35:04 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d82a/live/417d3b70-1178-11f1-ba61-2b399c307393.jpg"/>
     </item>
     <item>
@@ -72,14 +80,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a4b/live/b3eb19c0-116e-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sesko and Lammens allow Man Utd to dream of Champions League]]></title>
-      <description><![CDATA[Striker Benjamin Sesko and goalkeeper Senne Lammens are the key figures as Manchester United gain a hugely valuable Premier League win at Everton.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn0zrgkeg1lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0zrgkeg1lo</guid>
-      <pubDate>Tue, 24 Feb 2026 00:21:00 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd46/live/1e111060-111b-11f1-8b8c-eb59abeadcf7.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Quiz - name every Englishman to score a Champions League hat-trick]]></title>
       <description><![CDATA[In Newcastle's match with Qarabag, a certain winger became the 11th Englishmen to score a Champions League treble.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn5gkzqlpdyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -104,7 +104,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8096/live/262c5920-10bd-11f1-b370-c5751d84f588.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Snoop Dogg and Swansea – the story behind football's unlikeliest link-up]]></title>
+      <title><![CDATA[Snoop Dogg and Swansea - the story behind football's unlikeliest link-up]]></title>
       <description><![CDATA[As Snoop Dogg attends his first Swansea City game, BBC Sport Wales looks at how the sport-loving American rapper became an investor in the Welsh club.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cpw0yzvk1l7o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpw0yzvk1l7o</guid>
@@ -166,6 +166,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpd81d7y901o</guid>
       <pubDate>Mon, 23 Feb 2026 16:32:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bb6/live/caa88930-10d4-11f1-9120-a910fc22c6ac.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sesko and Lammens allow Man Utd to dream of Champions League]]></title>
+      <description><![CDATA[Striker Benjamin Sesko and goalkeeper Senne Lammens are the key figures as Manchester United gain a hugely valuable Premier League win at Everton.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn0zrgkeg1lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0zrgkeg1lo</guid>
+      <pubDate>Tue, 24 Feb 2026 00:21:00 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd46/live/1e111060-111b-11f1-8b8c-eb59abeadcf7.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chelsea to host Spurs - full Women's FA Cup quarter-final draw]]></title>
@@ -240,14 +248,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/426c/live/5a871750-0d7a-11f1-ba5c-7bf79826200c.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Police investigate 'unacceptable' online abuse of Rangers duo]]></title>
-      <description><![CDATA[Police Scotland is investigating after Rangers players Emmanuel Fernandez and Djeidi Gassama shared screenshots of racist abuse aimed at them on their social media accounts after Sunday's match in Livingston.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce823456kmmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce823456kmmo</guid>
-      <pubDate>Mon, 23 Feb 2026 17:01:13 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a06/live/8e35f5b0-1038-11f1-bf1f-0d6276cd82f6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Saka and Timber partnership among 'best in Europe']]></title>
       <description><![CDATA[Match of the Day pundit Danny Murphy looks at how the combination of Bukayo Saka and Jurrien Timber down the right side tormented Tottenham's defence in Arsenal's 4-1 win over their north London rivals.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cy4wn2z2255o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -286,6 +286,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvg14dn3d9go</guid>
       <pubDate>Mon, 23 Feb 2026 00:10:34 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cb0/live/28c8f940-104a-11f1-801d-ed3cff6bf876.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Police investigate 'unacceptable' online abuse of Rangers duo]]></title>
+      <description><![CDATA[Police Scotland is investigating after Rangers players Emmanuel Fernandez and Djeidi Gassama shared screenshots of racist abuse aimed at them on their social media accounts after Sunday's match in Livingston.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce823456kmmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce823456kmmo</guid>
+      <pubDate>Mon, 23 Feb 2026 17:01:13 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a06/live/8e35f5b0-1038-11f1-bf1f-0d6276cd82f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Loftus-Cheek out for around eight weeks with broken jaw]]></title>
@@ -336,14 +344,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b14c/live/0e0d9d90-0ffa-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Chelsea, Arsenal and Man City into Women's FA Cup quarters]]></title>
-      <description><![CDATA[Holders Chelsea edged out Manchester United to reach the quarter-finals of the Women's FA Cup, while Arsenal and Man City cruise through with comfortable wins.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz7gl15xjg5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz7gl15xjg5o</guid>
-      <pubDate>Sun, 22 Feb 2026 19:32:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4d8/live/6bef9710-1009-11f1-ba67-a131cafa2067.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Tudor 'certain' Spurs will stay up despite heavy defeat by Arsenal]]></title>
       <description><![CDATA[Tottenham interim manager Igor Tudor says his side need "to work harder than before" but is confident of avoiding relegation, despite a 4-1 defeat by Arsenal in his first game.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cqlg2epvq5zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -384,6 +384,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4405/live/b6808340-1011-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Chelsea, Arsenal and Man City into Women's FA Cup quarters]]></title>
+      <description><![CDATA[Holders Chelsea edged out Manchester United to reach the quarter-finals of the Women's FA Cup, while Arsenal and Man City cruise through with comfortable wins.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz7gl15xjg5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz7gl15xjg5o</guid>
+      <pubDate>Sun, 22 Feb 2026 19:32:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4d8/live/6bef9710-1009-11f1-ba67-a131cafa2067.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Arsenal pass derby test of nerve as title race looks set to go to wire]]></title>
       <description><![CDATA[Arsenal passed the north London derby test with flying colours as Premier League title race looks likely to go to the wire, says chief football writer Phil McNulty]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2g3gq37xvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -398,14 +406,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx24kgz91wjo</guid>
       <pubDate>Sun, 22 Feb 2026 20:16:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c5f/live/a7493660-102a-11f1-b048-c9424b2cf5fd.png"/>
-    </item>
-    <item>
-      <title><![CDATA['Heist' at Forest boosts Liverpool's top-four hopes]]></title>
-      <description><![CDATA[Liverpool's late 1-0 win at Nottingham Forest puts the Reds firmly in the Champions League hunt after a "robbery" of a victory at the City Ground.]]></description>
-      <link>https://www.bbc.com/sport/articles/c3v7de0zvnyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c3v7de0zvnyo</guid>
-      <pubDate>Sun, 22 Feb 2026 19:16:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9495/live/b07aa310-1019-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
       <title><![CDATA[It's absolutely OK to face fans' criticism - Glasner]]></title>
