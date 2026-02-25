@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 25 Feb 2026 20:34:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 21:06:02 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -80,14 +80,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ed3/live/23c0c780-1256-11f1-989c-0ff32e28c94c.jpg"/>
     </item>
     <item>
-      <title><![CDATA[England to host Ukraine at Everton's Hill Dickinson]]></title>
-      <description><![CDATA[The Lionesses will host Ukraine in their Women's World Cup qualifier at the Hill Dickinson Stadium in June.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckg3en711wzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg3en711wzo</guid>
-      <pubDate>Wed, 25 Feb 2026 11:00:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74dc/live/67d47d40-123d-11f1-8cd0-fb461ac7fcc1.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Newcastle can 'raise game' in Champions League last 16 ]]></title>
       <description><![CDATA[Eddie Howe says Newcastle can "raise their game" and "compete with anybody" after they swept aside Qarabag in the Champions League knockout play-offs to set up a last-16 tie against Barcelona or Chelsea. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/cy57p6g0lkno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -128,6 +120,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4343/live/ee6db840-1106-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
+      <title><![CDATA[England to host Ukraine at Everton's Hill Dickinson]]></title>
+      <description><![CDATA[The Lionesses will host Ukraine in their Women's World Cup qualifier at the Hill Dickinson Stadium in June.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckg3en711wzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg3en711wzo</guid>
+      <pubDate>Wed, 25 Feb 2026 11:00:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74dc/live/67d47d40-123d-11f1-8cd0-fb461ac7fcc1.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[World Cup security concerns over funding freeze]]></title>
       <description><![CDATA[US government officials are warned that there could be "catastrophic" security consequences if cities hosting World Cup matches do not receive funding that has been frozen.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cr730n281g3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -152,20 +152,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d641/live/be8c8390-1241-11f1-87d9-cda4cc68a607.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Injuries to Findlay, Ageu and Gordon hit leaders Hearts]]></title>
-      <description><![CDATA[Scottish Premiership leaders Hearts will be without defender Stuart Findlay for six weeks while record signing Eduardo Ageu will miss the rest of the season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce3g2n1g2nwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3g2n1g2nwo</guid>
-      <pubDate>Wed, 25 Feb 2026 11:02:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fc/live/b786c4c0-1237-11f1-8cd0-fb461ac7fcc1.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Man Utd ruled out signing Osimhen 'because of Afcon' - McCarthy]]></title>
       <description><![CDATA[The Africa Cup of Nations proved to be "a big stumbling block" when Manchester United discussed signing Victor Osimhen, according to former coach Benni McCarthy.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cp8rz2klmv1o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8rz2klmv1o</guid>
       <pubDate>Wed, 25 Feb 2026 14:23:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8a5/live/2b905000-10e1-11f1-b4ca-a9a29eb10e90.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Injuries to Findlay, Ageu and Gordon hit leaders Hearts]]></title>
+      <description><![CDATA[Scottish Premiership leaders Hearts will be without defender Stuart Findlay for six weeks while record signing Eduardo Ageu will miss the rest of the season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce3g2n1g2nwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3g2n1g2nwo</guid>
+      <pubDate>Wed, 25 Feb 2026 11:02:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fc/live/b786c4c0-1237-11f1-8cd0-fb461ac7fcc1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Shrewsbury stand-in role 'a lot of fun' for Hart]]></title>
@@ -198,14 +198,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2rzl8lvmmo</guid>
       <pubDate>Wed, 25 Feb 2026 08:24:15 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1453/live/9b628810-11d8-11f1-be9b-a1c6423fe383.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Can you name the all-time top Champions League goalscorers?]]></title>
-      <description><![CDATA[We want you to name every player who has scored at least 25 goals in the Champions League or the European Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly9lez0313o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly9lez0313o</guid>
-      <pubDate>Mon, 23 Feb 2026 12:52:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e005/live/4ec435d0-10b6-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA[Has Arteta solved the Gyokeres problem?]]></title>
@@ -248,6 +240,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c087/live/83fbc860-1045-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Can you name the all-time top Champions League goalscorers?]]></title>
+      <description><![CDATA[We want you to name every player who has scored at least 25 goals in the Champions League or the European Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly9lez0313o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly9lez0313o</guid>
+      <pubDate>Mon, 23 Feb 2026 12:52:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e005/live/4ec435d0-10b6-11f1-801d-ed3cff6bf876.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Man Utd & Man City eye Forest duo - Wednesday's gossip]]></title>
       <description><![CDATA[Manchester United and Manchester City are interested in signing Nottingham Forest players Morgan Gibbs-White and Elliot Anderson, according to reports.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgqgnpvj4dxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -288,14 +288,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a4b/live/b3eb19c0-116e-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
-      <title><![CDATA['It would be catastrophic' - are Spurs too big to go down?]]></title>
-      <description><![CDATA[Tottenham's heavy north London derby defeat against Arsenal on Sunday just confirmed what everyone already knew - Igor Tudor's team are in serious trouble. BBC Sport assesses their precarious situation, what relegation might bring and asks if they are too big to go down?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx24x48232vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx24x48232vo</guid>
-      <pubDate>Tue, 24 Feb 2026 16:31:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af2c/live/d53aa0d0-1193-11f1-b6a5-03d43da28d6c.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Gyokeres performance 'incredible' - Arteta]]></title>
       <description><![CDATA[Arsenal manager Mikel Arteta is full of praise for Viktor Gyokeres' "outstanding" performance in the Gunners 4-1 win over Tottenham. The Swedish striker bagged a brace to help his side go five points clear at the top of the Premier League.]]></description>
       <link>https://www.bbc.com/sport/football/videos/ckg24dp6knno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -334,6 +326,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/clygvjz1lgpo</guid>
       <pubDate>Sun, 22 Feb 2026 17:14:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1324/live/ce6c8b90-100f-11f1-801d-ed3cff6bf876.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['It would be catastrophic' - are Spurs too big to go down?]]></title>
+      <description><![CDATA[Tottenham's heavy north London derby defeat against Arsenal on Sunday just confirmed what everyone already knew - Igor Tudor's team are in serious trouble. BBC Sport assesses their precarious situation, what relegation might bring and asks if they are too big to go down?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx24x48232vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx24x48232vo</guid>
+      <pubDate>Tue, 24 Feb 2026 16:31:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af2c/live/d53aa0d0-1193-11f1-b6a5-03d43da28d6c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Could seven Premier League clubs qualify for the Champions League?]]></title>
