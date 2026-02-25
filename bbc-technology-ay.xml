@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 25 Feb 2026 10:13:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 11:11:37 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Gucci criticised for 'AI slop' images ahead of major fashion show]]></title>
+      <description><![CDATA[Users of social media - where the marketing campaign has been launched - say it is out of keeping with Gucci's reputation for luxury.]]></description>
+      <link>https://www.bbc.com/news/articles/cjwz6yzn5jqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cjwz6yzn5jqo</guid>
+      <pubDate>Wed, 25 Feb 2026 10:55:39 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1346/live/634a21e0-1237-11f1-b586-1ba1b8fe72ec.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Discord delays age verification plans after user outcry]]></title>
       <description><![CDATA[Users were unhappy about plans for age verification to require facial or ID scans.]]></description>
@@ -112,20 +120,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15d9/live/12013a90-0db8-11f1-a954-b3152d2d59e8.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Asos co-founder dies after Thailand apartment block fall]]></title>
-      <description><![CDATA[Quentin Griffiths co-founded Asos in 2000 and remained a significant shareholder after leaving the firm five years later.]]></description>
-      <link>https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8w0n061ryo</guid>
-      <pubDate>Fri, 20 Feb 2026 14:35:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0a/live/49b53ef0-0e30-11f1-9972-d3f265c101c6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Starmer 'appeasing' big tech firms, says online safety campaigner]]></title>
-      <description><![CDATA[Baroness Kidron tells the BBC the PM has being "late to the party" in regulating social media.]]></description>
-      <link>https://www.bbc.com/news/articles/cdr2gm4y4ygo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdr2gm4y4ygo</guid>
-      <pubDate>Fri, 20 Feb 2026 06:03:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ee/live/3e49a150-0d9f-11f1-8168-03d32f3820eb.jpg"/>
+      <title><![CDATA[SpaceX rocket fireball linked to plume of polluting lithium]]></title>
+      <description><![CDATA[A SpaceX Falcon 9 crashed to Earth last year. Now scientists have measured the pollution it caused.]]></description>
+      <link>https://www.bbc.com/news/articles/cpd8z4eqlxno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cpd8z4eqlxno</guid>
+      <pubDate>Thu, 19 Feb 2026 16:00:42 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62bf/live/05ce5b10-0d84-11f1-a355-f9c151a9e8be.jpg"/>
     </item>
     <item>
       <title><![CDATA[Nasa boss says Boeing Starliner failure one of worst in its history]]></title>
@@ -136,12 +136,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6072/live/29349e70-0dfc-11f1-9840-89181305bedf.jpg"/>
     </item>
     <item>
-      <title><![CDATA[SpaceX rocket fireball linked to plume of polluting lithium]]></title>
-      <description><![CDATA[A SpaceX Falcon 9 crashed to Earth last year. Now scientists have measured the pollution it caused.]]></description>
-      <link>https://www.bbc.com/news/articles/cpd8z4eqlxno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cpd8z4eqlxno</guid>
-      <pubDate>Thu, 19 Feb 2026 16:00:42 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62bf/live/05ce5b10-0d84-11f1-a355-f9c151a9e8be.jpg"/>
+      <title><![CDATA[Starmer 'appeasing' big tech firms, says online safety campaigner]]></title>
+      <description><![CDATA[Baroness Kidron tells the BBC the PM has being "late to the party" in regulating social media.]]></description>
+      <link>https://www.bbc.com/news/articles/cdr2gm4y4ygo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdr2gm4y4ygo</guid>
+      <pubDate>Fri, 20 Feb 2026 06:03:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ee/live/3e49a150-0d9f-11f1-8168-03d32f3820eb.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Asos co-founder dies after Thailand apartment block fall]]></title>
+      <description><![CDATA[Quentin Griffiths co-founded Asos in 2000 and remained a significant shareholder after leaving the firm five years later.]]></description>
+      <link>https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8w0n061ryo</guid>
+      <pubDate>Fri, 20 Feb 2026 14:35:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0a/live/49b53ef0-0e30-11f1-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[The Chinese AI app sending Hollywood into a panic]]></title>
@@ -272,38 +280,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8w968y7p1o</guid>
       <pubDate>Thu, 12 Feb 2026 12:09:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92de/live/67485530-07fd-11f1-8981-b35bbe94674f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Highguard game developer lays off staff just two weeks after release ]]></title>
-      <description><![CDATA[Its trailer got a prime Game Awards slot, but the online shooter has failed to find a large audience.]]></description>
-      <link>https://www.bbc.com/news/articles/cy8ln4l0wq4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8ln4l0wq4o</guid>
-      <pubDate>Thu, 12 Feb 2026 10:19:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/661b/live/13026050-07f9-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[John Wick game starring Keanu Reeves unveiled at PlayStation showcase]]></title>
-      <description><![CDATA[It's not the first time the iconic hitman has appeared in games, but Saber's will be the first voiced by Reeves.]]></description>
-      <link>https://www.bbc.com/news/articles/cp8533g3201o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8533g3201o</guid>
-      <pubDate>Fri, 13 Feb 2026 12:48:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efb3/live/91dff9a0-08df-11f1-961c-5b7d58c0375b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Amazon's Ring ends deal with surveillance firm after backlash]]></title>
-      <description><![CDATA[A Super Bowl advert had sparked new scrutiny of the smart doorbell company's privacy practices.]]></description>
-      <link>https://www.bbc.com/news/articles/cwy8dxz1g7zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy8dxz1g7zo</guid>
-      <pubDate>Fri, 13 Feb 2026 21:09:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/081a/live/ccd2b870-090e-11f1-a882-79e5fd8f6638.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Instagram boss says 16 hours of daily use is 'problematic' not addiction]]></title>
-      <description><![CDATA[Instagram's Adam Mosseri faced questioning about the impact of his platform on minors.  ]]></description>
-      <link>https://www.bbc.com/news/articles/cn71mgmzljlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn71mgmzljlo</guid>
-      <pubDate>Thu, 12 Feb 2026 01:19:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba9b/live/95afd990-076f-11f1-95b3-3990922567a7.jpg"/>
     </item>
     <item>
       <title><![CDATA[Orbital space race heats up in Arctic north]]></title>
