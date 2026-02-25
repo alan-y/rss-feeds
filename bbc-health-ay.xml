@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 25 Feb 2026 16:36:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 17:40:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Sperm swim more quickly in summer, study finds]]></title>
+      <description><![CDATA[Understanding the seasonal patterns of sperm could improve fertility treatments, by optimising the timing of treatment, the reasearchers say. ]]></description>
+      <link>https://www.bbc.com/news/articles/crl45x52ejgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/crl45x52ejgo</guid>
+      <pubDate>Wed, 25 Feb 2026 17:18:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9066/live/fc3a0fe0-1260-11f1-808c-3f897f9a068e.jpg"/>
+    </item>
     <item>
       <title><![CDATA[GPs told to guarantee same-day appointments for urgent cases]]></title>
       <description><![CDATA[New contract will require patients in England to be given immediate appointment if needed.]]></description>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9gd52r4gro</guid>
       <pubDate>Mon, 23 Feb 2026 00:05:01 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f5/live/a8c2a920-0ccb-11f1-8561-df3cc28357d5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Puberty blockers trial paused over concerns from medicines watchdog]]></title>
-      <description><![CDATA[The medicines regulator is suggesting the minimum age limit for trial should be raised to 14.]]></description>
-      <link>https://www.bbc.com/news/articles/cjd9z0p27k5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cjd9z0p27k5o</guid>
-      <pubDate>Sat, 21 Feb 2026 10:51:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb7/live/f8ea21f0-c6fb-11f0-a863-434ee92aa5e3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Multi-cancer blood test missed key goal in NHS trial]]></title>
