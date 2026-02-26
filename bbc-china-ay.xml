@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 05:45:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 06:59:30 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Hong Kong tycoon Jimmy Lai wins appeal against fraud conviction]]></title>
+      <description><![CDATA[The 78-year-old Lai, however, remains detained for a separate national security case.]]></description>
+      <link>https://www.bbc.com/news/articles/c5ykq2ykd6zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ykq2ykd6zo</guid>
+      <pubDate>Thu, 26 Feb 2026 03:41:47 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6f4/live/7540d210-12bc-11f1-b16f-17ab2e428cae.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Father of Hong Kong activist sentenced to eight months in prison]]></title>
+      <description><![CDATA[Kwok Yin-sang is the first family member of an activist to be convicted of a national security offence.]]></description>
+      <link>https://www.bbc.com/news/articles/c3ew7d0e382o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3ew7d0e382o</guid>
+      <pubDate>Thu, 26 Feb 2026 05:44:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8a6/live/5a752870-12c9-11f1-ba7c-59cc261ea864.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Japan to deploy missiles on island near Taiwan by 2031]]></title>
       <description><![CDATA[The remote Yonaguni island lies on the frontlines of self-governing Taiwan's growing tensions with China.]]></description>
@@ -40,20 +56,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3969/live/6edeb5a0-0d75-11f1-b1f2-a50c2c5773ab.jpg"/>
     </item>
     <item>
-      <title><![CDATA[China is hitting Japan where it hurts. Will PM Takaichi give in?]]></title>
-      <description><![CDATA[From recalling pandas to cancelling tourist flights, China continues to retaliate after Takaichi's comments on Taiwan.]]></description>
-      <link>https://www.bbc.com/news/articles/c86y3ndqlxwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c86y3ndqlxwo</guid>
-      <pubDate>Mon, 16 Feb 2026 23:21:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d21b/live/7b084720-0b08-11f1-b8d0-21adbc414b0b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[ByteDance to curb AI video app after Disney legal threat]]></title>
       <description><![CDATA[Videos featuring Spider-Man and other characters which are Disney's intellectual property have gone viral since Seedance's update.]]></description>
       <link>https://www.bbc.com/news/articles/c93wq6xqgy1o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c93wq6xqgy1o</guid>
       <pubDate>Mon, 16 Feb 2026 10:23:02 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f87/live/150ed810-0aec-11f1-88b9-a5144df8a4fa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[China is hitting Japan where it hurts. Will PM Takaichi give in?]]></title>
+      <description><![CDATA[From recalling pandas to cancelling tourist flights, China continues to retaliate after Takaichi's comments on Taiwan.]]></description>
+      <link>https://www.bbc.com/news/articles/c86y3ndqlxwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c86y3ndqlxwo</guid>
+      <pubDate>Mon, 16 Feb 2026 23:21:29 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d21b/live/7b084720-0b08-11f1-b8d0-21adbc414b0b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is this a 'very Chinese time in your life'? The trend boosting China's soft power]]></title>
@@ -86,22 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0504y7p76lo</guid>
       <pubDate>Wed, 04 Feb 2026 05:08:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf0/live/07f92fe0-0187-11f1-a3fd-fdeeb4081d60.png"/>
-    </item>
-    <item>
-      <title><![CDATA[The Chinese planemaker taking on Boeing and Airbus]]></title>
-      <description><![CDATA[Comac's passenger jet is attracting customers in South East Asia where demand for affordable aircraft is growing.]]></description>
-      <link>https://www.bbc.com/news/articles/ce3exl1k247o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3exl1k247o</guid>
-      <pubDate>Tue, 03 Feb 2026 23:04:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5c6/live/29b49160-015a-11f1-ba12-b594244b3536.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Healthcare, visas and whisky: What did UK and China get from Starmer's visit?]]></title>
-      <description><![CDATA[Sir Keir Starmer's visit to China brought agreements on visas, services, healthcare, green tech and finance.]]></description>
-      <link>https://www.bbc.com/news/articles/cm2j04lk83zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2j04lk83zo</guid>
-      <pubDate>Fri, 30 Jan 2026 08:23:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00be/live/b2387e00-fdb5-11f0-8e3f-176b350fc659.jpg"/>
     </item>
   </channel>
 </rss>
