@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 19:32:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 19:58:27 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -200,14 +200,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7d0/live/78e6c460-13d4-11f1-b048-c9424b2cf5fd.png"/>
     </item>
     <item>
-      <title><![CDATA[The £37m cost of Man Utd's past two managerial changes]]></title>
-      <description><![CDATA[Ruben Amorim's 14 months in charge of Manchester United have come at a price, with the club now paying up to £15.9m to sack him, in addition to £11m to hire the Portuguese.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpv812n1w7vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv812n1w7vo</guid>
-      <pubDate>Thu, 26 Feb 2026 22:58:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de0c/live/88d97a00-1363-11f1-af0d-af544dd82419.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Will EFL Cup final affect Premier League title race?]]></title>
       <description><![CDATA[Mark Chapman, Theo Walcott and Chris Sutton discuss the potential impact of the Carabao Cup final on the Premier League title race.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c8r1y1k21nzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -256,6 +248,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8c7/live/68a12be0-13d9-11f1-91d0-352863d13d72.jpg"/>
     </item>
     <item>
+      <title><![CDATA[The £37m cost of Man Utd's past two managerial changes]]></title>
+      <description><![CDATA[Ruben Amorim's 14 months in charge of Manchester United have come at a price, with the club now paying up to £15.9m to sack him, in addition to £11m to hire the Portuguese.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpv812n1w7vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv812n1w7vo</guid>
+      <pubDate>Thu, 26 Feb 2026 22:58:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de0c/live/88d97a00-1363-11f1-af0d-af544dd82419.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[When could Wolves be relegated?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team looks at how soon Wolves can officially be relegated from the Premier League.]]></description>
       <link>https://www.bbc.com/sport/football/articles/clyg15yledeo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -278,14 +278,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8egyyxw1l1o</guid>
       <pubDate>Fri, 27 Feb 2026 17:00:30 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8948/live/492c7520-13fd-11f1-8e3a-e7cecfbdc12f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Out of Europe - now Celtic face critical fortnight]]></title>
-      <description><![CDATA[After exiting the Europa League, Celtic face a season-defining fortnight in the fight for the league and Scottish Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c80jg0v5d95o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80jg0v5d95o</guid>
-      <pubDate>Thu, 26 Feb 2026 21:40:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb81/live/50778a50-1357-11f1-a24b-e9ec85119d46.jpg"/>
     </item>
     <item>
       <title><![CDATA[Saka and Timber partnership among 'best in Europe']]></title>
@@ -432,6 +424,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d2/live/756afa70-132c-11f1-8080-b36026ca95b4.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Out of Europe - now Celtic face critical fortnight]]></title>
+      <description><![CDATA[After exiting the Europa League, Celtic face a season-defining fortnight in the fight for the league and Scottish Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c80jg0v5d95o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80jg0v5d95o</guid>
+      <pubDate>Thu, 26 Feb 2026 21:40:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb81/live/50778a50-1357-11f1-a24b-e9ec85119d46.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Courting controversy and befriending Trump - Fifa's 'unlikely saviour']]></title>
       <description><![CDATA[Gianni Infantino has clashed with unions and European football, but after 10 years as Fifa president he remains in an impregnable position.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwyg5887vp3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -462,14 +462,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly9lez0313o</guid>
       <pubDate>Mon, 23 Feb 2026 12:52:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e005/live/4ec435d0-10b6-11f1-801d-ed3cff6bf876.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Losing the dressing room' - what does it mean and how can it happen?]]></title>
-      <description><![CDATA["Losing the dressing room" is now part of football's vocabulary. Chief football writer Phil McNulty asks what it means, how it happens and can it be solved?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy9gvle2n5qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy9gvle2n5qo</guid>
-      <pubDate>Sat, 21 Feb 2026 09:25:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c13e/live/2e3d6b50-0d83-11f1-a355-f9c151a9e8be.jpg"/>
     </item>
     <item>
       <title><![CDATA[All February's done deals, including deadline day, in one place]]></title>
