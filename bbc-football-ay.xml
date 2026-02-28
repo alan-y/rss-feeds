@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 28 Feb 2026 13:56:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 14:24:24 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,20 +48,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4924/live/ce4091a0-1485-11f1-adc7-3d4265b36882.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Man City & Man Utd set for Anderson battle - Saturday's gossip]]></title>
+      <description><![CDATA[Manchester City and Manchester United want Nottingham Forest's Elliot Anderson, Inter Milan could revisit interest in Liverpool's Curtis Jones, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gjkv8x3dyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gjkv8x3dyo</guid>
+      <pubDate>Fri, 27 Feb 2026 21:26:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/447b/live/37973180-140a-11f1-801d-ed3cff6bf876.png"/>
+    </item>
+    <item>
       <title><![CDATA[Emery's title 'dream' over - but will Villa salvage top-five hopes?]]></title>
       <description><![CDATA[Aston Villa boss Unai Emery concedes his Premier League title "dreams" are over, but will the club salvage their Champions League hopes?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c78x13vvnv5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78x13vvnv5o</guid>
       <pubDate>Fri, 27 Feb 2026 23:55:02 GMT</pubDate>
       <media:thumbnail width="240" height="130" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3512/live/fcafbfe0-1433-11f1-9120-a910fc22c6ac.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Benfica suspend five fans over racist incidents]]></title>
-      <description><![CDATA[Benfica suspend five supporters for racist incidents following the recent Champions League game against Real Madrid.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy6kz692lyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy6kz692lyo</guid>
-      <pubDate>Sat, 28 Feb 2026 08:38:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35ff/live/0ad72c50-147c-11f1-b958-e37187297895.jpg"/>
     </item>
     <item>
       <title><![CDATA[Messi wrestled to ground by pitch invader]]></title>
@@ -78,14 +78,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20lzy1n59lo</guid>
       <pubDate>Fri, 27 Feb 2026 15:18:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68cd/live/e44003f0-1309-11f1-b989-2bdf9643fe72.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Man City & Man Utd set for Anderson battle - Saturday's gossip]]></title>
-      <description><![CDATA[Manchester City and Manchester United want Nottingham Forest's Elliot Anderson, Inter Milan could revisit interest in Liverpool's Curtis Jones, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gjkv8x3dyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gjkv8x3dyo</guid>
-      <pubDate>Fri, 27 Feb 2026 21:26:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/447b/live/37973180-140a-11f1-801d-ed3cff6bf876.png"/>
     </item>
     <item>
       <title><![CDATA[Wolves beat Villa to surpass lowest-ever points record]]></title>
@@ -128,6 +120,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01d2/live/196b32c0-13ff-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Benfica suspend five fans over racist incidents]]></title>
+      <description><![CDATA[Benfica suspend five supporters for racist incidents following the recent Champions League game against Real Madrid.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy6kz692lyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy6kz692lyo</guid>
+      <pubDate>Sat, 28 Feb 2026 08:38:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35ff/live/0ad72c50-147c-11f1-b958-e37187297895.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Chelsea to face holders PSG in Champions League last 16]]></title>
       <description><![CDATA[Chelsea will play holders Paris St-Germain in the Champions League last 16 while Manchester City will face Real Madrid in the knockout stages for a fifth straight season.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c70njrx7enwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -160,20 +160,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/741a/live/15da8330-1405-11f1-8e3a-e7cecfbdc12f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[So much for three-year plan - what is the secret to manager longevity?]]></title>
-      <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis explains why it is so hard for football managers to keep their jobs in the modern game.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckg1lzwegpgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg1lzwegpgo</guid>
-      <pubDate>Fri, 27 Feb 2026 09:48:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Norwich's Sargent completes £20m move to Toronto]]></title>
       <description><![CDATA[Norwich City striker Josh Sargent completes his move to MLS side Toronto FC in a deal worth more than £20m.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c93jk35nzz0o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93jk35nzz0o</guid>
       <pubDate>Fri, 27 Feb 2026 15:10:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f56/live/ca276dc0-1091-11f1-9e15-6d49321af9ff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[So much for three-year plan - what is the secret to manager longevity?]]></title>
+      <description><![CDATA[In his BBC Sport column, ex-Premier League boss Tony Pulis explains why it is so hard for football managers to keep their jobs in the modern game.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckg1lzwegpgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg1lzwegpgo</guid>
+      <pubDate>Fri, 27 Feb 2026 09:48:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Corinthians in talks with ex-Man Utd midfielder Lingard]]></title>
@@ -206,14 +206,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c14mp80157vo</guid>
       <pubDate>Thu, 26 Feb 2026 23:46:44 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0097/live/3c8ea070-1369-11f1-af0d-af544dd82419.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[From Hearts failure to Estoril excitement - the 'most Portuguese Scot there is']]></title>
-      <description><![CDATA[After a forgettable seven months in charge at Hearts in 2017, Scottish manager Ian Cathro is rebuilding his reputation at Estoril.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce94r0x3v55o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce94r0x3v55o</guid>
-      <pubDate>Fri, 27 Feb 2026 07:53:35 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dae/live/1f470660-122e-11f1-8a75-7b501e33d8b5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Emery preaches positivity after loss to bottom side Wolves]]></title>
@@ -256,6 +248,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ca/live/a8f8eab0-1105-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
+      <title><![CDATA[From Hearts failure to Estoril excitement - the 'most Portuguese Scot there is']]></title>
+      <description><![CDATA[After a forgettable seven months in charge at Hearts in 2017, Scottish manager Ian Cathro is rebuilding his reputation at Estoril.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce94r0x3v55o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce94r0x3v55o</guid>
+      <pubDate>Fri, 27 Feb 2026 07:53:35 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dae/live/1f470660-122e-11f1-8a75-7b501e33d8b5.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Exits & borrowed time - things to watch in the EFL]]></title>
       <description><![CDATA[Here are five things to look out for across the English Football League this weekend.]]></description>
       <link>https://www.bbc.com/sport/football/articles/clyvdpy5zm5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -294,14 +294,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ygl7n584xo</guid>
       <pubDate>Fri, 27 Feb 2026 13:04:51 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8c7/live/68a12be0-13d9-11f1-91d0-352863d13d72.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The £37m cost of Man Utd's past two managerial changes]]></title>
-      <description><![CDATA[Ruben Amorim's 14 months in charge of Manchester United have come at a price, with the club now paying up to £15.9m to sack him, in addition to £11m to hire the Portuguese.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpv812n1w7vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv812n1w7vo</guid>
-      <pubDate>Thu, 26 Feb 2026 22:58:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de0c/live/88d97a00-1363-11f1-af0d-af544dd82419.jpg"/>
     </item>
     <item>
       <title><![CDATA[Will EFL Cup final affect Premier League title race?]]></title>
@@ -344,20 +336,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c11/live/46d37600-1044-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
+      <title><![CDATA[The £37m cost of Man Utd's past two managerial changes]]></title>
+      <description><![CDATA[Ruben Amorim's 14 months in charge of Manchester United have come at a price, with the club now paying up to £15.9m to sack him, in addition to £11m to hire the Portuguese.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpv812n1w7vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv812n1w7vo</guid>
+      <pubDate>Thu, 26 Feb 2026 22:58:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de0c/live/88d97a00-1363-11f1-af0d-af544dd82419.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Marathe stands down as Rangers vice-chair ]]></title>
       <description><![CDATA[Paraag Marathe is standing as Rangers' vice-chair, while fellow director Gene Schneur is doing the same because of multi-club ownership rules. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8egyyxw1l1o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8egyyxw1l1o</guid>
       <pubDate>Fri, 27 Feb 2026 17:00:30 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8948/live/492c7520-13fd-11f1-8e3a-e7cecfbdc12f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Fans of richest PL clubs pay £74 per match as ticket revenue soars]]></title>
-      <description><![CDATA[Fans of the Premier League's six wealthiest clubs are paying an average of £74 per ticket for each match they attend, while ticket revenues are soaring, according to data from a new report.]]></description>
-      <link>https://www.bbc.com/sport/articles/c2lrxyw4p02o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c2lrxyw4p02o</guid>
-      <pubDate>Thu, 26 Feb 2026 16:35:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d86/live/bc503a30-1328-11f1-8080-b36026ca95b4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is England on course for fifth Champions League spot?]]></title>
