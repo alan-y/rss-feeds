@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 28 Feb 2026 18:31:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 18:59:18 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -25,8 +25,8 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3804/live/253d2e50-14c7-11f1-8007-5bc8640dd651.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Out of absolutely nothing' - Yamal scores solo stunner]]></title>
-      <description><![CDATA[Lamine Yamal goes on a brilliant solo run before curling an effort into the far corner to score his second goal, enroute to his first career hat-trick in Barcelona's 4-1 win over Villarreal in La Liga.]]></description>
+      <title><![CDATA['Out of absolutely nothing' - Lamine Yamal's solo stunner]]></title>
+      <description><![CDATA[Lamine Yamal goes on a brilliant solo run before curling an effort into the far corner to score his second goal, en route to his first career hat-trick in Barcelona's 4-1 win over Villarreal in La Liga.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cddn50mjy23o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cddn50mjy23o</guid>
       <pubDate>Sat, 28 Feb 2026 18:04:25 GMT</pubDate>
@@ -49,7 +49,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b86/live/bf25c210-14cd-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Yamal scores first career hat-trick as Barcelona see off Villarreal]]></title>
+      <title><![CDATA[Lamine Yamal's first hat-trick as Barcelona hit four]]></title>
       <description><![CDATA[Lamine Yamal puts on a show, scoring the first hat-trick of his career, as Barcelona soundly defeat Villarreal 4-1 to extend their lead at the top of La Liga to four points.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cn9e8xy1x1ro?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn9e8xy1x1ro</guid>
@@ -89,6 +89,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cb6/live/e924abd0-14a5-11f1-ba49-192aeb4ed0cc.jpg"/>
     </item>
     <item>
+      <title><![CDATA['He cares so much about this team' - Damsgaard on Andrews]]></title>
+      <description><![CDATA[Brentford midfielder Mikel Damsgaard praises manager Keith Andrews after the Bees beat Burnley in a thriller at Turf Moor.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c204k70zj8mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c204k70zj8mo</guid>
+      <pubDate>Sat, 28 Feb 2026 18:52:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4791/live/5434f670-14d6-11f1-b048-c9424b2cf5fd.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Slot happy to be on right side of 'important' set-pieces ]]></title>
       <description><![CDATA[Arne Slot is happy that his side are using set-pieces to their advantage, after scoring 3 goals from corners against West Ham, as earlier in the season Liverpool's set-piece record was an issue.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c4g87g714e1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -111,14 +119,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0j5d57x50po</guid>
       <pubDate>Fri, 27 Feb 2026 22:05:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7733/live/f38d2670-1427-11f1-801d-ed3cff6bf876.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wolves beat Villa to surpass lowest-ever points record]]></title>
-      <description><![CDATA[Watch highlights as Wolves dent Aston Villa's Champions League qualification hopes with a 2-0 home win, ensuring they better the worst Premier League points tally set by Derby County.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cm217k34lg2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cm217k34lg2o</guid>
-      <pubDate>Fri, 27 Feb 2026 22:34:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d60/live/1ec109c0-142c-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA[The moment I told my mum I wanted to stop football - and how life changed]]></title>
@@ -177,12 +177,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/741a/live/15da8330-1405-11f1-8e3a-e7cecfbdc12f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Derby points record was 'hanging over our heads' - Edwards]]></title>
-      <description><![CDATA[Wolves head coach Rob Edwards says the prospect of ending the season with fewer points than record-holders Derby County was "hanging over their heads", and believes his side will have more confidence going forward after their 2-0 win over local rivals Aston Villa.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cdr2z6z8dxpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cdr2z6z8dxpo</guid>
-      <pubDate>Fri, 27 Feb 2026 22:50:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47f8/live/bb97a470-142c-11f1-9120-a910fc22c6ac.jpg"/>
+      <title><![CDATA[Wolves beat Villa to surpass lowest-ever points record]]></title>
+      <description><![CDATA[Watch highlights as Wolves dent Aston Villa's Champions League qualification hopes with a 2-0 home win, ensuring they better the worst Premier League points tally set by Derby County.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cm217k34lg2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cm217k34lg2o</guid>
+      <pubDate>Fri, 27 Feb 2026 22:34:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d60/live/1ec109c0-142c-11f1-801d-ed3cff6bf876.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Laser-focused' - is lack of European football helping Man United?]]></title>
+      <description><![CDATA[Manchester United caretaker head coach Michael Carrick says "it's a relief" his side aren't in any European competitions this season, which has allowed them to focus solely on the Premier League with the club unbeaten in six matches in all competitions. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cx2rnne0rp1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2rnne0rp1o</guid>
+      <pubDate>Fri, 27 Feb 2026 17:11:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01d2/live/196b32c0-13ff-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
       <title><![CDATA[Emery preaches positivity after loss to bottom side Wolves]]></title>
@@ -207,14 +215,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ckg1377xy4zo</guid>
       <pubDate>Fri, 27 Feb 2026 10:10:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fa0/live/58ad6580-1331-11f1-b048-c9424b2cf5fd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Newcastle can 'raise game' in Champions League last 16 ]]></title>
-      <description><![CDATA[Eddie Howe says Newcastle can "raise their game" and "compete with anybody" after they swept aside Qarabag in the Champions League knockout play-offs to set up a last-16 tie against Barcelona or Chelsea. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cy57p6g0lkno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy57p6g0lkno</guid>
-      <pubDate>Tue, 24 Feb 2026 23:37:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f97c/live/8feac820-11d9-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sutton's predictions v Oli Fox of Good Neighbours]]></title>
@@ -273,6 +273,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd8f/live/0d8ec410-1280-11f1-b048-c9424b2cf5fd.png"/>
     </item>
     <item>
+      <title><![CDATA[Newcastle can 'raise game' in Champions League last 16 ]]></title>
+      <description><![CDATA[Eddie Howe says Newcastle can "raise their game" and "compete with anybody" after they swept aside Qarabag in the Champions League knockout play-offs to set up a last-16 tie against Barcelona or Chelsea. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cy57p6g0lkno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy57p6g0lkno</guid>
+      <pubDate>Tue, 24 Feb 2026 23:37:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f97c/live/8feac820-11d9-11f1-9120-a910fc22c6ac.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Super-sub Sesko earns Man Utd win at Everton]]></title>
       <description><![CDATA[Watch Premier League highlights as Manchester United earn a narrow win over Everton thanks to a goal from substitute Benjamin Sesko.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cwy953z4vedo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -311,14 +319,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c33j64d608no</guid>
       <pubDate>Tue, 24 Feb 2026 06:08:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a94/live/4e8f3bf0-10de-11f1-9120-a910fc22c6ac.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Everton worthy of more than a defeat - Moyes]]></title>
-      <description><![CDATA[Everton manager David Moyes says his side were "worth more than a defeat" after losing 1-0 to Manchester United in the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cy4wdv9znwyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy4wdv9znwyo</guid>
-      <pubDate>Mon, 23 Feb 2026 22:40:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2a5/live/e5331710-1107-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
       <title><![CDATA[How have Chelsea made biggest loss in English football history?]]></title>
@@ -431,6 +431,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9wnkvqxwg8o</guid>
       <pubDate>Tue, 10 Feb 2026 15:54:25 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1d/live/2ba44fa0-068d-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Celtic & Rangers face double jeopardy in derby like no other]]></title>
+      <description><![CDATA[BBC Scotland chief sportswriter Tom English sets the scene going into a compelling Old Firm spectacle on Sunday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj98yny3m3lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj98yny3m3lo</guid>
+      <pubDate>Sat, 28 Feb 2026 18:37:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/522f/live/e8148570-14d3-11f1-b048-c9424b2cf5fd.png"/>
     </item>
     <item>
       <title><![CDATA[Loftus-Cheek out for around eight weeks with broken jaw]]></title>
