@@ -10,43 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 23:22:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 23:53:28 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[Arsenal beat 10-man Chelsea to extend lead]]></title>
-      <description><![CDATA[Arsenal get an important win in the title race against Chelsea, who had Pedro Neto sent off for a second yellow in a game with three goals scored from corners.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cge85r8xl0go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cge85r8xl0go</guid>
-      <pubDate>Sun, 01 Mar 2026 20:11:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/367f/live/df9498f0-15a9-11f1-801d-ed3cff6bf876.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sesko leads Man Utd to victory against 10-man Crystal Palace]]></title>
-      <description><![CDATA[Benjamin Sesko scores his sixth goal in eight games to help Manchester United secure a comeback victory against Crystal Palace and move up to third in the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c78jzmj1xvro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c78jzmj1xvro</guid>
-      <pubDate>Sun, 01 Mar 2026 20:00:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e93/live/2a054d90-159f-11f1-b048-c9424b2cf5fd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Fulham sink struggling Spurs with incredible Iwobi goal]]></title>
-      <description><![CDATA[Alex Iwobi scores a beautifully-placed goal as Fulham hold off late pressure from Tottenham Hotspur to win 2-1.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c5y59325wq9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5y59325wq9o</guid>
-      <pubDate>Sun, 01 Mar 2026 20:00:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9058/live/bb7a05d0-1596-11f1-b048-c9424b2cf5fd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Forest fall to defeat at Brighton despite Gibbs White stunner]]></title>
-      <description><![CDATA[Brighton beat Nottingham Forest as Danny Welbeck scored his 10th goal of the season, to claim back-to-back wins for the first time since November.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cvg5v33115yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvg5v33115yo</guid>
-      <pubDate>Sun, 01 Mar 2026 20:00:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107e/live/789543e0-1593-11f1-801d-ed3cff6bf876.jpg"/>
-    </item>
     <item>
       <title><![CDATA['Ugly' or 'beautiful'? Set-pieces prove decisive for Arsenal again]]></title>
       <description><![CDATA[Arsenal move five points clear in the Premier League title race but is their reliance on set-pieces an issue?]]></description>
@@ -144,6 +112,62 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb08/live/fce2e5c0-149f-11f1-9359-27f22dae9b43.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Arsenal beat 10-man Chelsea to extend lead]]></title>
+      <description><![CDATA[Arsenal get an important win in the title race against Chelsea, who had Pedro Neto sent off for a second yellow in a game with three goals scored from corners.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cge85r8xl0go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cge85r8xl0go</guid>
+      <pubDate>Sun, 01 Mar 2026 20:11:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/367f/live/df9498f0-15a9-11f1-801d-ed3cff6bf876.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sesko leads Man Utd to victory against 10-man Crystal Palace]]></title>
+      <description><![CDATA[Benjamin Sesko scores his sixth goal in eight games to help Manchester United secure a comeback victory against Crystal Palace and move up to third in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c78jzmj1xvro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c78jzmj1xvro</guid>
+      <pubDate>Sun, 01 Mar 2026 20:00:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e93/live/2a054d90-159f-11f1-b048-c9424b2cf5fd.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Fulham sink struggling Spurs with incredible Iwobi goal]]></title>
+      <description><![CDATA[Alex Iwobi scores a beautifully-placed goal as Fulham hold off late pressure from Tottenham Hotspur to win 2-1.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c5y59325wq9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5y59325wq9o</guid>
+      <pubDate>Sun, 01 Mar 2026 20:00:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9058/live/bb7a05d0-1596-11f1-b048-c9424b2cf5fd.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Forest fall to defeat at Brighton despite Gibbs-White stunner]]></title>
+      <description><![CDATA[Brighton beat Nottingham Forest as Danny Welbeck scored his 10th goal of the season, to claim back-to-back wins for the first time since November.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cvg5v33115yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvg5v33115yo</guid>
+      <pubDate>Sun, 01 Mar 2026 20:00:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107e/live/789543e0-1593-11f1-801d-ed3cff6bf876.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Chelsea could rival Newcastle for Nunez - Monday's gossip]]></title>
+      <description><![CDATA[Chelsea could join the race for Al-Hilal striker Darwin Nunez, Manchester City looking to make a big move for Newcastle United defender Tino Livramento, Crystal Palace determined to hold on to keeper Dean Henderson, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5yj93y4pk3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yj93y4pk3o</guid>
+      <pubDate>Sun, 01 Mar 2026 22:37:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7bc/live/8523afb0-15ad-11f1-b048-c9424b2cf5fd.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Players covering mouths during confrontations should be sent off - Infantino]]></title>
+      <description><![CDATA[Players who cover their mouths when speaking to opponents during confrontations should be sent off, says Gianni Infantino.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvg3q3p3jd7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg3q3p3jd7o</guid>
+      <pubDate>Sun, 01 Mar 2026 18:20:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/c9e37e90-1581-11f1-85e5-f3dff60d76ee.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who will win race for the Champions League?]]></title>
+      <description><![CDATA[England are likely to have five spots in next season's Champions League. With Arsenal and Manchester City set to take two of them, who will claim the others?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp9mkm1pm50o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp9mkm1pm50o</guid>
+      <pubDate>Sun, 01 Mar 2026 21:20:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53a/live/4a9c8a80-15ab-11f1-9120-a910fc22c6ac.png"/>
+    </item>
+    <item>
       <title><![CDATA[I don't like 'home team referee' Bramall - Tudor]]></title>
       <description><![CDATA[Tottenham Hotspur manager Igor Tudor call into doubt the decision-making of referee Thomas Bramall, after the official allowed Fulham's opening goal to stand, and demands greater consistency on fouls given for pushing.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c78x1887nd9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -182,30 +206,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1kgpj73z4jo</guid>
       <pubDate>Sat, 28 Feb 2026 23:54:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f37/live/6240d980-14fb-11f1-9120-a910fc22c6ac.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Chelsea could rival Newcastle for Nunez - Monday's gossip]]></title>
-      <description><![CDATA[Chelsea could join the race for Al-Hilal striker Darwin Nunez, Manchester City looking to make a big move for Newcastle United defender Tino Livramento, Crystal Palace determined to hold on to keeper Dean Henderson, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yj93y4pk3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yj93y4pk3o</guid>
-      <pubDate>Sun, 01 Mar 2026 22:37:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7bc/live/8523afb0-15ad-11f1-b048-c9424b2cf5fd.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Players covering mouths during confrontations should be sent off - Infantino]]></title>
-      <description><![CDATA[Players who cover their mouths when speaking to opponents during confrontations should be sent off, says Gianni Infantino.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg3q3p3jd7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg3q3p3jd7o</guid>
-      <pubDate>Sun, 01 Mar 2026 18:20:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/c9e37e90-1581-11f1-85e5-f3dff60d76ee.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Who will win race for the Champions League?]]></title>
-      <description><![CDATA[England are likely to have five spots in next season's Champions League. With Arsenal and Manchester City set to take two of them, who will claim the others?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp9mkm1pm50o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp9mkm1pm50o</guid>
-      <pubDate>Sun, 01 Mar 2026 21:20:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53a/live/4a9c8a80-15ab-11f1-9120-a910fc22c6ac.png"/>
     </item>
     <item>
       <title><![CDATA[Warnock, 77, back in dugout as Torquay caretaker]]></title>
