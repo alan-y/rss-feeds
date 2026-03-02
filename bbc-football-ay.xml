@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 11:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 12:56:47 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Set-pieces mean Premier League no longer a joy - Slot]]></title>
+      <description><![CDATA[Liverpool manager Arne Slot says his "football heart doesn't like" the reliance on set-pieces in this season's Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gjwm99we8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gjwm99we8o</guid>
+      <pubDate>Mon, 02 Mar 2026 11:59:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d43/live/707182f0-162e-11f1-a039-21c070b88654.jpg"/>
+    </item>
     <item>
       <title><![CDATA[What can players and clubs do about 'AI slop'?]]></title>
       <description><![CDATA[There is an exponential growth of AI 'slop' involving players and football clubs. Is there anything that can be done to stop it?]]></description>
@@ -29,7 +37,7 @@
       <link>https://www.bbc.com/sport/football/articles/cpv87y79zpzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv87y79zpzo</guid>
       <pubDate>Mon, 02 Mar 2026 09:36:54 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b4/live/8bae7e40-161c-11f1-9e51-a16ab1a1a229.jpg"/>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e569/live/bd477290-1635-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
       <title><![CDATA[Was Chermiti's overhead kick best Old Firm goal this century?]]></title>
@@ -88,14 +96,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cef4/live/6a21b0b0-1281-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Hearts & Motherwell the winners after damaging Old Firm stalemate']]></title>
-      <description><![CDATA[BBC Scotland's chief sportswriter Tom English evaluates the impact of Sunday's draw at Ibrox.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgqgzgqweklo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgqgzgqweklo</guid>
-      <pubDate>Sun, 01 Mar 2026 16:38:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6552/live/f2ccffe0-1589-11f1-85e5-f3dff60d76ee.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
       <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cr73ljr0xe0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -134,6 +134,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvg5v33115yo</guid>
       <pubDate>Sun, 01 Mar 2026 20:00:06 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107e/live/789543e0-1593-11f1-801d-ed3cff6bf876.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Hearts & Motherwell the winners after damaging Old Firm stalemate']]></title>
+      <description><![CDATA[BBC Scotland's chief sportswriter Tom English evaluates the impact of Sunday's draw at Ibrox.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgqgzgqweklo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgqgzgqweklo</guid>
+      <pubDate>Sun, 01 Mar 2026 16:38:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6552/live/f2ccffe0-1589-11f1-85e5-f3dff60d76ee.jpg"/>
     </item>
     <item>
       <title><![CDATA[Referee halts La Liga game under racism protocol]]></title>
@@ -176,12 +184,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b639/live/5a0bd750-1592-11f1-b048-c9424b2cf5fd.png"/>
     </item>
     <item>
-      <title><![CDATA[Prestianni's Benfica career 'over' if abuse proven - Mourinho]]></title>
-      <description><![CDATA[Benfica boss Jose Mourinho says Gianluca Prestianni's career under him will be "over" if it is found he racially abused Vinicius Jr.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c99j75gzv43o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c99j75gzv43o</guid>
-      <pubDate>Sun, 01 Mar 2026 20:48:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c063/live/4c8c3540-159a-11f1-a17e-5b11fa1a3307.jpg"/>
+      <title><![CDATA[England given 'reassurances' about Turkey security - Wiegman]]></title>
+      <description><![CDATA[Manager Sarina Wiegman says England have been given "reassurances" that there are no safety concerns about their Women's World Cup qualifier against Ukraine being held in Turkey, as the conflict in the Middle East widens.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/crm8lnwn7vmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/crm8lnwn7vmo</guid>
+      <pubDate>Mon, 02 Mar 2026 12:41:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9065/live/ff425fd0-162f-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA[I don't like 'home team referee' Bramall - Tudor]]></title>
@@ -216,12 +224,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9dd/live/87da4ff0-15c8-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
-      <title><![CDATA['They look all over the shop' - Hart]]></title>
-      <description><![CDATA[Match of the Day pundits Leon Osman and Joe Hart look at how Tottenham Hotspur's disorganisation played a big part in their 2-1 defeat against Fulham.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c9v0j9kdg0go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c9v0j9kdg0go</guid>
-      <pubDate>Mon, 02 Mar 2026 00:11:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ba/live/c547de20-15c8-11f1-801d-ed3cff6bf876.jpg"/>
+      <title><![CDATA[Prestianni's Benfica career 'over' if abuse proven - Mourinho]]></title>
+      <description><![CDATA[Benfica boss Jose Mourinho says Gianluca Prestianni's career under him will be "over" if it is found he racially abused Vinicius Jr.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c99j75gzv43o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c99j75gzv43o</guid>
+      <pubDate>Sun, 01 Mar 2026 20:48:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c063/live/4c8c3540-159a-11f1-a17e-5b11fa1a3307.jpg"/>
     </item>
     <item>
       <title><![CDATA[Forest 'focusing on the present' - but will they stay up? ]]></title>
@@ -248,12 +256,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/c9e37e90-1581-11f1-85e5-f3dff60d76ee.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Warnock, 77, back in dugout as Torquay caretaker]]></title>
-      <description><![CDATA[Neil Warnock is placed in temporary charge of Torquay United after boss Paul Wotton is sacked following Saturday's 5-0 defeat by Chelmsford City.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy9lx2w881o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy9lx2w881o</guid>
-      <pubDate>Sun, 01 Mar 2026 18:16:32 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f9c/live/851b2630-1597-11f1-9199-ed1f26c0ffa2.jpg"/>
+      <title><![CDATA['They look all over the shop' - Hart]]></title>
+      <description><![CDATA[Match of the Day pundits Leon Osman and Joe Hart look at how Tottenham Hotspur's disorganisation played a big part in their 2-1 defeat against Fulham.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c9v0j9kdg0go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c9v0j9kdg0go</guid>
+      <pubDate>Mon, 02 Mar 2026 00:11:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ba/live/c547de20-15c8-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chelsea won't achieve anything with  disciplinary issues - Rosenior]]></title>
@@ -288,12 +296,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f37/live/6240d980-14fb-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Out of absolutely nothing' - Lamine Yamal's solo stunner]]></title>
-      <description><![CDATA[Lamine Yamal goes on a brilliant solo run before curling an effort into the far corner to score his second goal, en route to his first career hat-trick in Barcelona's 4-1 win over Villarreal in La Liga.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cddn50mjy23o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cddn50mjy23o</guid>
-      <pubDate>Sat, 28 Feb 2026 18:04:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1792/live/5185b920-14cf-11f1-b048-c9424b2cf5fd.jpg"/>
+      <title><![CDATA[Warnock, 77, back in dugout as Torquay caretaker]]></title>
+      <description><![CDATA[Neil Warnock is placed in temporary charge of Torquay United after boss Paul Wotton is sacked following Saturday's 5-0 defeat by Chelmsford City.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy9lx2w881o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy9lx2w881o</guid>
+      <pubDate>Sun, 01 Mar 2026 18:16:32 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f9c/live/851b2630-1597-11f1-9199-ed1f26c0ffa2.jpg"/>
     </item>
     <item>
       <title><![CDATA[How do Lionesses solve full-back succession problem?]]></title>
@@ -320,12 +328,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cee3/live/06a6b380-14f4-11f1-801d-ed3cff6bf876.png"/>
     </item>
     <item>
-      <title><![CDATA['Foul starts outside the box' - Glasner disputes Man Utd penalty]]></title>
-      <description><![CDATA[Crystal Palace manager Oliver Glasner says he does not believe the penalty awarded to Manchester United for a foul by Maxence Lacroix, who was shown a red card, should have been awarded.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cp324ld3zr2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cp324ld3zr2o</guid>
-      <pubDate>Sun, 01 Mar 2026 16:52:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fffd/live/f9cc16b0-158d-11f1-801d-ed3cff6bf876.jpg"/>
+      <title><![CDATA['Out of absolutely nothing' - Lamine Yamal's solo stunner]]></title>
+      <description><![CDATA[Lamine Yamal goes on a brilliant solo run before curling an effort into the far corner to score his second goal, en route to his first career hat-trick in Barcelona's 4-1 win over Villarreal in La Liga.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cddn50mjy23o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cddn50mjy23o</guid>
+      <pubDate>Sat, 28 Feb 2026 18:04:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1792/live/5185b920-14cf-11f1-b048-c9424b2cf5fd.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Kane scores twice as Bayern come from behind to beat Dortmund]]></title>
+      <description><![CDATA[Harry Kane scores two second-half goals as Bayern Munich came from behind to beat Borussia Dortmund in a thrilling match and move 11 points clear at the top of the Bundesliga.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cqlgkd044pgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cqlgkd044pgo</guid>
+      <pubDate>Sat, 28 Feb 2026 22:28:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae89/live/1525d520-14f5-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA['World-class save' - how Pickford and Everton thwarted Newcastle]]></title>
@@ -350,14 +366,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c4g5wgjp9x8o</guid>
       <pubDate>Sun, 01 Mar 2026 17:13:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25de/live/c0a03ef0-158f-11f1-801d-ed3cff6bf876.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Guardiola lauds 'complete' Man City performance at Leeds]]></title>
-      <description><![CDATA[Manchester City manager Pep Guardiola says his side's win tonight was an important one in closing the gap with Arsenal, and growing the gap for Champions League qualification.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cn4g04pvk8qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn4g04pvk8qo</guid>
-      <pubDate>Sat, 28 Feb 2026 20:24:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39f7/live/51993bf0-14e1-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
       <title><![CDATA[Boos heard during Ramadan pause at Elland Road]]></title>
@@ -400,14 +408,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8258/live/f18701b0-14e1-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Impossible to ignore Millwall - Aaron McLean's EFL takeaways ]]></title>
-      <description><![CDATA[Final Score EFL pundit Aaron McLean reflects on the highs and lows after Saturday's action.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz7gn30xdrqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz7gn30xdrqo</guid>
-      <pubDate>Sat, 28 Feb 2026 21:18:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f8/live/785fef60-801f-11f0-ab3e-bd52082cd0ae.png"/>
-    </item>
-    <item>
       <title><![CDATA[Sir Alex, 'unbelievable' Braga & Tynecastle keep Hearts on course]]></title>
       <description><![CDATA[With Sir Alex Ferguson a VIP guest, a tireless forward and a raucous support, Hearts take another giant stride towards a momentous title.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c204km38yyzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -416,12 +416,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa35/live/d4f9d920-14c6-11f1-8007-5bc8640dd651.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How one of Europe's best defences has Motherwell in title mix]]></title>
-      <description><![CDATA[BBC Scotland examines Motherwell's incredible defensive record as they move into the Scottish Premiership title mix.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cre03z19r2vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cre03z19r2vo</guid>
-      <pubDate>Sat, 28 Feb 2026 19:53:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e742/live/923e8340-14e6-11f1-928b-9ba417355900.jpg"/>
+      <title><![CDATA[Guardiola lauds 'complete' Man City performance at Leeds]]></title>
+      <description><![CDATA[Manchester City manager Pep Guardiola says his side's win tonight was an important one in closing the gap with Arsenal, and growing the gap for Champions League qualification.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cn4g04pvk8qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn4g04pvk8qo</guid>
+      <pubDate>Sat, 28 Feb 2026 20:24:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39f7/live/51993bf0-14e1-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
       <title><![CDATA[Lamine Yamal's first hat-trick as Barcelona hit four]]></title>
@@ -582,6 +582,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78jell37ezo</guid>
       <pubDate>Mon, 02 Mar 2026 07:42:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a55/live/f4d59c80-160a-11f1-b048-c9424b2cf5fd.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Rangers slip 'unacceptable', Celtic show 'grit', Hearts march on - fan reaction]]></title>
+      <description><![CDATA[Rangers fans feel deflated and Celtic fans buoyant after their 2-2 derby draw, while Heart of Midlothian and Motherwell supporters are another happy bunch as the Scottish Premiership title race heats up further.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8r1mdvvvvvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8r1mdvvvvvo</guid>
+      <pubDate>Mon, 02 Mar 2026 12:37:25 GMT</pubDate>
+      <media:thumbnail width="240" height="142" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/527a/live/858d97d0-162b-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch live Bundesliga games on Friday nights on the BBC]]></title>
