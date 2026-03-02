@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 11:05:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 11:48:49 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -160,14 +160,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03ea/live/7d8376a0-13d7-11f1-9120-a910fc22c6ac.png"/>
     </item>
     <item>
-      <title><![CDATA[Forest 'focusing on the present' - but will they stay up? ]]></title>
-      <description><![CDATA[As Nottingham Forest balance Europa League football with a relegation battle, how likely is it that they will stay above the bottom three and survive this season?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckg8dwjgl0lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg8dwjgl0lo</guid>
-      <pubDate>Sun, 01 Mar 2026 19:35:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fc0/live/60674400-15aa-11f1-9120-a910fc22c6ac.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Messi scores twice in Miami comeback at Orlando]]></title>
       <description><![CDATA[Lionel Messi scores twice as Inter Miami fight back from two goals down to beat Orlando City 4-2 in the Florida derby.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwykw52dp35o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -232,6 +224,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ba/live/c547de20-15c8-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Forest 'focusing on the present' - but will they stay up? ]]></title>
+      <description><![CDATA[As Nottingham Forest balance Europa League football with a relegation battle, how likely is it that they will stay above the bottom three and survive this season?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckg8dwjgl0lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg8dwjgl0lo</guid>
+      <pubDate>Sun, 01 Mar 2026 19:35:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fc0/live/60674400-15aa-11f1-9120-a910fc22c6ac.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Who will win race for the Champions League?]]></title>
       <description><![CDATA[England are likely to have five spots in next season's Champions League. With Arsenal and Manchester City set to take two of them, who will claim the others?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cp9mkm1pm50o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -254,14 +254,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy9lx2w881o</guid>
       <pubDate>Sun, 01 Mar 2026 18:16:32 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f9c/live/851b2630-1597-11f1-9199-ed1f26c0ffa2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How do Lionesses solve full-back succession problem?]]></title>
-      <description><![CDATA[Will the Lionesses find a solution for their full-back problem in time for the 2027 Women's World Cup?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0rjg4gqdkjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0rjg4gqdkjo</guid>
-      <pubDate>Sun, 01 Mar 2026 08:52:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb08/live/fce2e5c0-149f-11f1-9359-27f22dae9b43.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chelsea won't achieve anything with  disciplinary issues - Rosenior]]></title>
@@ -304,6 +296,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1792/live/5185b920-14cf-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How do Lionesses solve full-back succession problem?]]></title>
+      <description><![CDATA[Will the Lionesses find a solution for their full-back problem in time for the 2027 Women's World Cup?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0rjg4gqdkjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0rjg4gqdkjo</guid>
+      <pubDate>Sun, 01 Mar 2026 08:52:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb08/live/fce2e5c0-149f-11f1-9359-27f22dae9b43.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Not fair to fans' - how VAR denied Burnley one of greatest comebacks]]></title>
       <description><![CDATA[Burnley were set to complete one of the greatest Premier League comebacks - until VAR intervened. BBC Sport takes a look at whether the decisions were correct. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdjm83ljpmno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -318,14 +318,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg5nm2n9zzpo</guid>
       <pubDate>Sat, 28 Feb 2026 22:18:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cee3/live/06a6b380-14f4-11f1-801d-ed3cff6bf876.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Boos heard during Ramadan pause at Elland Road]]></title>
-      <description><![CDATA[Boos are heard during a brief break in play to allow players observing Ramadan to break their fast during Saturday's match between Leeds United and Manchester City.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c178x0jppelo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c178x0jppelo</guid>
-      <pubDate>Sat, 28 Feb 2026 21:02:18 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e40c/live/385ace90-14d9-11f1-b106-cbf633dcab7a.jpg"/>
     </item>
     <item>
       <title><![CDATA['Foul starts outside the box' - Glasner disputes Man Utd penalty]]></title>
@@ -368,6 +360,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39f7/live/51993bf0-14e1-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Boos heard during Ramadan pause at Elland Road]]></title>
+      <description><![CDATA[Boos are heard during a brief break in play to allow players observing Ramadan to break their fast during Saturday's match between Leeds United and Manchester City.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c178x0jppelo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c178x0jppelo</guid>
+      <pubDate>Sat, 28 Feb 2026 21:02:18 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e40c/live/385ace90-14d9-11f1-b106-cbf633dcab7a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Kerr scores first international goal in 28 months in Australia win]]></title>
       <description><![CDATA[Sam Kerr scores her first international goal in 28 months as Australia open their Asian Cup campaign with a 1-0 win over the Philippines in Perth.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c70n99nkzeyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -400,6 +400,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8258/live/f18701b0-14e1-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Impossible to ignore Millwall - Aaron McLean's EFL takeaways ]]></title>
+      <description><![CDATA[Final Score EFL pundit Aaron McLean reflects on the highs and lows after Saturday's action.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz7gn30xdrqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz7gn30xdrqo</guid>
+      <pubDate>Sat, 28 Feb 2026 21:18:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f8/live/785fef60-801f-11f0-ab3e-bd52082cd0ae.png"/>
+    </item>
+    <item>
       <title><![CDATA[Sir Alex, 'unbelievable' Braga & Tynecastle keep Hearts on course]]></title>
       <description><![CDATA[With Sir Alex Ferguson a VIP guest, a tireless forward and a raucous support, Hearts take another giant stride towards a momentous title.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c204km38yyzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -414,14 +422,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cre03z19r2vo</guid>
       <pubDate>Sat, 28 Feb 2026 19:53:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e742/live/923e8340-14e6-11f1-928b-9ba417355900.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Impossible to ignore Millwall - Aaron McLean's EFL takeaways ]]></title>
-      <description><![CDATA[Final Score EFL pundit Aaron McLean reflects on the highs and lows after Saturday's action.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz7gn30xdrqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz7gn30xdrqo</guid>
-      <pubDate>Sat, 28 Feb 2026 21:18:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f8/live/785fef60-801f-11f0-ab3e-bd52082cd0ae.png"/>
     </item>
     <item>
       <title><![CDATA[Lamine Yamal's first hat-trick as Barcelona hit four]]></title>
