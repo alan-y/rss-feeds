@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 11:48:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 12:55:44 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[OpenAI changes deal with US military after backlash]]></title>
+      <description><![CDATA[Chief Executive Sam Altman said the group would prohibit the use of its systems to spy on Americans.]]></description>
+      <link>https://www.bbc.com/news/articles/c3rz1nd0egro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rz1nd0egro</guid>
+      <pubDate>Tue, 03 Mar 2026 11:51:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7073/live/0c673370-16f3-11f1-a694-e5c2b699acf9.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Amazon says drones damaged three facilities in UAE and Bahrain]]></title>
       <description><![CDATA[The incidents highlight the vulnerability of key technology infrastructure during military conflicts.]]></description>
@@ -166,6 +174,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cpd8z4eqlxno</guid>
       <pubDate>Thu, 19 Feb 2026 16:00:42 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62bf/live/05ce5b10-0d84-11f1-a355-f9c151a9e8be.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Pokémon at 30: Fans explain what the series means to them]]></title>
+      <description><![CDATA[The massively popular series shows no signs of slowing down as it gears up to celebrate its launch.]]></description>
+      <link>https://www.bbc.com/news/articles/cpw0xw5nqglo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cpw0xw5nqglo</guid>
+      <pubDate>Fri, 27 Feb 2026 15:37:03 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c1/live/4ac658a0-1345-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why you can't get a signal at festivals and sports matches]]></title>
