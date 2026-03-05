@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 04 Mar 2026 23:46:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 02:00:25 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[China sets lowest economic growth target since 1991]]></title>
+      <description><![CDATA[It is the first time the target has been lowered since it was cut to "around 5%" in 2023.]]></description>
+      <link>https://www.bbc.com/news/articles/cqxddwl93qjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cqxddwl93qjo</guid>
+      <pubDate>Thu, 05 Mar 2026 01:58:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e5e/live/602ac8c0-1782-11f1-9827-bd72b93123e6.jpg"/>
+    </item>
     <item>
       <title><![CDATA[What to know about the 'two sessions',  China's biggest political meeting]]></title>
       <description><![CDATA[The carefully choreographed annual meetings signal the priorities of the world's second-largest economy.]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3ew7d0e382o</guid>
       <pubDate>Thu, 26 Feb 2026 05:44:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8a6/live/5a752870-12c9-11f1-ba7c-59cc261ea864.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Japan to deploy missiles on island near Taiwan by 2031]]></title>
-      <description><![CDATA[The remote Yonaguni island lies on the frontlines of self-governing Taiwan's growing tensions with China.]]></description>
-      <link>https://www.bbc.com/news/articles/cd9gj1w2kn1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cd9gj1w2kn1o</guid>
-      <pubDate>Wed, 25 Feb 2026 06:00:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2674/live/a06c4dd0-11f8-11f1-ac81-73be0b86ece0.jpg"/>
     </item>
     <item>
       <title><![CDATA[China is hitting Japan where it hurts. Will PM Takaichi give in?]]></title>
