@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 03:29:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 05:00:52 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['I'm still haunted that he died alone': The last voices of the Covid inquiry]]></title>
+      <description><![CDATA[Bereaved families have the final say as the Covid inquiry completes four years of public hearings.]]></description>
+      <link>https://www.bbc.com/news/articles/c93wxxe9410o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c93wxxe9410o</guid>
+      <pubDate>Fri, 06 Mar 2026 04:52:33 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68f4/live/a262f550-18a9-11f1-b53b-0be1737da31d.jpg"/>
+    </item>
     <item>
       <title><![CDATA['Moment of reckoning' needed in social care, says Louise Casey]]></title>
       <description><![CDATA[The chair of the independent commission on social care recommends introducing a full-time dementia tsar, and new fast-track passport system for people diagnosed with motor neurone disease (MND).]]></description>
@@ -294,14 +302,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c709n49lx9yo</guid>
       <pubDate>Mon, 15 Dec 2025 17:06:00 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52aa/live/46d88450-d9b8-11f0-b051-c9966e31459d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Much of £11bn Covid scheme fraud 'beyond recovery', report says]]></title>
-      <description><![CDATA[The response to the pandemic led to "enormous outlays of public money which exposed it to the risk of fraud and error", a report says.]]></description>
-      <link>https://www.bbc.com/news/articles/c075vjxyx3no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c075vjxyx3no</guid>
-      <pubDate>Tue, 09 Dec 2025 15:48:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deae/live/07c3aef0-d4fb-11f0-9fb5-5f3a3703a365.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why are resident doctors striking and how much are they paid?]]></title>
