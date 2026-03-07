@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 18:59:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 19:29:40 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[Smith fires Wrexham in front against Chelsea]]></title>
-      <description><![CDATA[Wrexham's Sam Smith races past the Chelsea defence to put his side ahead in their FA Cup fifth-round tie.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cy7j2gj80l5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy7j2gj80l5o</guid>
-      <pubDate>Sat, 07 Mar 2026 18:23:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e5/live/f1ccf3d0-1a51-11f1-9120-a910fc22c6ac.jpg"/>
-    </item>
     <item>
       <title><![CDATA['Exceptional' Dowman and Salmon make history as Gunners survive scare]]></title>
       <description><![CDATA[Arsenal needed their big guns to come off the bench to help them past Mansfield, but it was 16-year-olds Max Dowman and Marli Salmon who made history.]]></description>
@@ -30,6 +22,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy0329x8eleo</guid>
       <pubDate>Sat, 07 Mar 2026 16:50:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82ec/live/facd6240-1a3c-11f1-bbcf-6dca17345a4c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Smith fires Wrexham in front against Chelsea]]></title>
+      <description><![CDATA[Wrexham's Sam Smith races past the Chelsea defence to put his side ahead in their FA Cup fifth-round tie.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cy7j2gj80l5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy7j2gj80l5o</guid>
+      <pubDate>Sat, 07 Mar 2026 18:23:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e5/live/f1ccf3d0-1a51-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
       <title><![CDATA['Incredible' Bronze remains England's gold standard]]></title>
@@ -152,14 +152,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6751/live/993f05c0-1a31-11f1-982c-cf4b6f34f92f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Schmeichel has role to play 'on field or not' - Hart]]></title>
-      <description><![CDATA[Kasper Schmeichel can still have "a huge influence" on the Celtic's trophy push challenge despite a challenge to his position, says predecessor Joe Hart.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqxddvqxl3po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxddvqxl3po</guid>
-      <pubDate>Sat, 07 Mar 2026 11:21:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffe9/live/74415b30-1895-11f1-80dc-d74db999dc01.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['We don't know what is a foul' - Nuno wants set-piece review]]></title>
       <description><![CDATA[With increased attention on grappling at corner kicks in the Premier League, West Ham head coach Nuno Espirito Santo wants officials to explain what is and is not a foul.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cdr2mnmll3po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -208,6 +200,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde7/live/53894230-196d-11f1-a1cd-a71e69f1cf89.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Schmeichel has role to play 'on field or not' - Hart]]></title>
+      <description><![CDATA[Kasper Schmeichel can still have "a huge influence" on the Celtic's trophy push challenge despite a challenge to his position, says predecessor Joe Hart.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqxddvqxl3po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxddvqxl3po</guid>
+      <pubDate>Sat, 07 Mar 2026 11:21:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffe9/live/74415b30-1895-11f1-80dc-d74db999dc01.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Mexico to deploy 100,000 security personnel for World Cup]]></title>
       <description><![CDATA[World Cup co-hosts Mexico plan to deploy nearly 100,000 security personnel to protect fans at this summer's tournament, amid ongoing cartel violence in the country.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ce8wjwyjndyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -238,14 +238,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20zg2w7zwwo</guid>
       <pubDate>Fri, 06 Mar 2026 14:51:42 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8951/live/193c78d0-16f8-11f1-a694-e5c2b699acf9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Challenges are Celtic 'wake-up call' - O'Neill]]></title>
-      <description><![CDATA[The possibility of Celtic ending the season without a trophy "should be a wake-up call for the football club", interim manager Martin O'Neill says.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwygvwv59lvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwygvwv59lvo</guid>
-      <pubDate>Fri, 06 Mar 2026 16:39:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c83/live/d6a4cad0-1978-11f1-9156-4356592fc9c8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Did Ramsey deserve to be sent off?]]></title>
@@ -288,6 +280,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0224/live/4ce1fef0-1822-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Challenges are Celtic 'wake-up call' - O'Neill]]></title>
+      <description><![CDATA[The possibility of Celtic ending the season without a trophy "should be a wake-up call for the football club", interim manager Martin O'Neill says.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwygvwv59lvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwygvwv59lvo</guid>
+      <pubDate>Fri, 06 Mar 2026 16:39:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c83/live/d6a4cad0-1978-11f1-9156-4356592fc9c8.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Rangers 'have to' lift silverware, says Rohl ahead of Celtic game]]></title>
       <description><![CDATA[Rangers manager Danny Rohl says Sunday's game with Celtic is a "great opportunity to make a good step towards" winning a trophy.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cjd98y0mmmdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -326,14 +326,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp32lx3ky24o</guid>
       <pubDate>Fri, 06 Mar 2026 17:34:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b807/live/80366190-197d-11f1-9156-4356592fc9c8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Spurs target Freedman in sporting director search]]></title>
-      <description><![CDATA[Tottenham are interested in appointing Dougie Freedman as the club's new sporting director. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cewz7450wyjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cewz7450wyjo</guid>
-      <pubDate>Fri, 06 Mar 2026 13:22:39 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8358/live/af2d83b0-195b-11f1-9a35-7db562c1d2fd.jpg"/>
     </item>
     <item>
       <title><![CDATA['An amazing night' - Howe delight at last-gasp win]]></title>
@@ -502,14 +494,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyg2j5ny2vo</guid>
       <pubDate>Sat, 07 Mar 2026 12:20:15 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/181a/live/1dce6650-1a14-11f1-b048-c9424b2cf5fd.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Napoli keen to secure McTominay future - gossip]]></title>
-      <description><![CDATA[Napoli hope to fend off Premier League interest for Scotland midfielder Scott McTominay, Martin Boyle to end long Hibernian association and Celtic face competition to secure defender on permanent deal.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0e57ev84leo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0e57ev84leo</guid>
-      <pubDate>Sat, 07 Mar 2026 10:13:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0465/live/efcbbd80-1a0d-11f1-b048-c9424b2cf5fd.png"/>
     </item>
     <item>
       <title><![CDATA[Brazil's Rodrygo to miss World Cup with ACL injury]]></title>
