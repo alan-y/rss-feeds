@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/boxing</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 21:52:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 22:22:30 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/boxing/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Olympian Jones earns knockout win on boxing debut]]></title>
+      <description><![CDATA[Double Olympic taekwondo champion Jade Jones marks her boxing debut with a second round knockout win against Egypt Criss in Derby.]]></description>
+      <link>https://www.bbc.com/sport/boxing/articles/cz0g219z9mvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/cz0g219z9mvo</guid>
+      <pubDate>Sat, 07 Mar 2026 21:41:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7eb/live/25cceb20-1a6d-11f1-92c3-4b80fe25ce7a.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Opetaia to lose IBF title if he fights for Zuffa belt]]></title>
       <description><![CDATA[Jai Opetaia is set to lose his IBF cruiserweight title if he goes ahead with a fight for a Zuffa Boxing belt against Brandon Glanton on Sunday.]]></description>
@@ -70,14 +78,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/mixed-martial-arts/articles/ckglenvd8zmo</guid>
       <pubDate>Thu, 05 Mar 2026 20:03:44 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41e0/live/3ed2c3a0-18c5-11f1-ac18-553e110246b1.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I needed a fresh start' - Jones to make boxing debut after taekwondo switch]]></title>
-      <description><![CDATA[Jade Jones says her journey from reaching the pinnacle of taekwondo to being at the bottom of boxing has been a "humbling" one as she prepares for her boxing debut against Egypt Criss on 7 March.]]></description>
-      <link>https://www.bbc.com/sport/articles/c9q5yvvjyvdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c9q5yvvjyvdo</guid>
-      <pubDate>Wed, 04 Mar 2026 06:24:20 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b188/live/bddd8660-1327-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
       <title><![CDATA[Mayweather to fight kickboxer before Pacquiao rematch]]></title>
