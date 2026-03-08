@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 23:23:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 23:54:09 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -72,6 +72,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16db/live/63c79280-1b3b-11f1-9120-a910fc22c6ac.png"/>
     </item>
     <item>
+      <title><![CDATA[Celtic v St Mirren and Falkirk v Dunfermline derby in Scottish Cup semis]]></title>
+      <description><![CDATA[Falkirk and Dunfermline Athletic will meet in a Scottish Cup semi-final derby at Hampden next month, while Celtic will face St Mirren in a repeat of this season's League Cup final.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c14m2dlpvr3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c14m2dlpvr3o</guid>
+      <pubDate>Sun, 08 Mar 2026 21:40:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de21/live/cdacec20-1b33-11f1-801d-ed3cff6bf876.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Leeds ease past Norwich to reach FA Cup quarter-finals]]></title>
       <description><![CDATA[Leeds reach the FA Cup quarter-finals for the first time in over 20 years, after comfortably beating Championship side Norwich 3-0 at Elland Road.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cm21pgy2zpjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -96,28 +104,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3865/live/c6d72ae0-1b11-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Two brilliant headers and a 'Shearer-style' celebration in Port Vale win]]></title>
+      <description><![CDATA[Watch as Ellen White and Glenn Murray dissect two brilliant headers in Port Vale's 1-0 FA Cup win over Sunderland, including an Alan Shearer-inspired celebration from Vale hero Ben Waine.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cn71p35lj7jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn71p35lj7jo</guid>
+      <pubDate>Sun, 08 Mar 2026 23:26:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/82d613f0-1b44-11f1-b048-c9424b2cf5fd.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Marmoush double fires Man City past Newcastle]]></title>
       <description><![CDATA[Omar Marmoush scores twice against Newcastle United for the second time this season as Manchester City come from behind to reach the FA Cup quarter-finals.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cx281k72pkzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx281k72pkzo</guid>
       <pubDate>Sun, 08 Mar 2026 00:01:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a829/live/e642afc0-1a72-11f1-801d-ed3cff6bf876.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Chelsea overcome Wrexham in extra-time FA Cup thriller]]></title>
-      <description><![CDATA[Chelsea come from behind twice to scupper 10-man Wrexham's hopes of a giant-killing in a thrilling FA Cup fifth-round tie.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cvg1zxqj57ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvg1zxqj57ro</guid>
-      <pubDate>Sat, 07 Mar 2026 21:12:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9874/live/5410bca0-1a68-11f1-b048-c9424b2cf5fd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Celtic v St Mirren and Falkirk v Dunfermline derby in Scottish Cup semis]]></title>
-      <description><![CDATA[Falkirk and Dunfermline Athletic will meet in a Scottish Cup semi-final derby at Hampden next month, while Celtic will face St Mirren in a repeat of this season's League Cup final.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c14m2dlpvr3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c14m2dlpvr3o</guid>
-      <pubDate>Sun, 08 Mar 2026 21:40:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de21/live/cdacec20-1b33-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA['When you're with me, you're not bored' - Malard bringing sunshine to Man Utd]]></title>
@@ -224,6 +224,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eca/live/f838be50-1ae4-11f1-af70-e98c0b43db96.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Chelsea overcome Wrexham in extra-time FA Cup thriller]]></title>
+      <description><![CDATA[Chelsea come from behind twice to scupper 10-man Wrexham's hopes of a giant-killing in a thrilling FA Cup fifth-round tie.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cvg1zxqj57ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvg1zxqj57ro</guid>
+      <pubDate>Sat, 07 Mar 2026 21:12:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9874/live/5410bca0-1a68-11f1-b048-c9424b2cf5fd.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Eze stunner spares Arsenal from Mansfield upset]]></title>
       <description><![CDATA[Arsenal's Eberechi Eze comes off the bench to score the winning goal against League One side Mansfield, sending the Gunners through to the FA Cup quarter-finals.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cvg3zlp2rlro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -240,28 +248,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ad/live/d7c0d760-1a63-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Liverpool cruise past Wolves to seal quarter-final spot ]]></title>
+      <description><![CDATA[Liverpool secure a 3–1 victory over Wolverhampton Wanderers at Molineux to advance to the quarter-finals of the FA Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cqj988l5dgyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cqj988l5dgyo</guid>
+      <pubDate>Fri, 06 Mar 2026 22:27:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4a/live/53b88660-19ab-11f1-b048-c9424b2cf5fd.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Smith fires Wrexham in front against Chelsea]]></title>
       <description><![CDATA[Wrexham's Sam Smith races past the Chelsea defence to put his side ahead in their FA Cup fifth-round tie.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cy7j2gj80l5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy7j2gj80l5o</guid>
       <pubDate>Sat, 07 Mar 2026 18:23:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e5/live/f1ccf3d0-1a51-11f1-9120-a910fc22c6ac.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Early goals send Falkirk to Scottish Cup semi-finals]]></title>
-      <description><![CDATA[Two early goals help Falkirk make it by Dundee United to reach the Scottish Cup semi-finals.]]></description>
-      <link>https://www.bbc.com/sport/videos/cn0e8pgjyp8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/videos/cn0e8pgjyp8o</guid>
-      <pubDate>Fri, 06 Mar 2026 22:27:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3384/live/ca84f850-19ab-11f1-9120-a910fc22c6ac.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wrexham owners understand the magic of the FA Cup]]></title>
-      <description><![CDATA[Wrexham's community director Humphrey Ker explains how club owners Ryan Reynolds and Rob McElhenney bought into the "magic of the FA Cup".]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cg4gpk5k2ywo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cg4gpk5k2ywo</guid>
-      <pubDate>Sat, 07 Mar 2026 19:31:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4366/live/06775a20-1a5a-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA['Incredible' Bronze remains England's gold standard]]></title>
@@ -304,12 +304,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82ec/live/facd6240-1a3c-11f1-bbcf-6dca17345a4c.jpg"/>
     </item>
     <item>
-      <title><![CDATA['The reaction was great' - Glasner proud as Palace fight back to beat Spurs]]></title>
-      <description><![CDATA[Crystal Palace manager Oliver Glasner praises his team's reaction as they fight back from a goal down to beat Spurs 3-1 at the Tottenham Hotspur Stadium, with all the goals coming in the first half.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c4g44g7995ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c4g44g7995ro</guid>
-      <pubDate>Thu, 05 Mar 2026 23:02:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b4/live/b1a644f0-18e4-11f1-801d-ed3cff6bf876.jpg"/>
+      <title><![CDATA['I believe more than before' - Tudor positive despite defeat by Palace]]></title>
+      <description><![CDATA[Tottenham Hotspur head coach Igor Tudor believes the club will be able to avoid relegation from the Premier League, insisting "the moment will pass" after watching his side lose 3-1 at home to Crystal Palace to remain one point above the relegation zone.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/czd88dlevv2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/czd88dlevv2o</guid>
+      <pubDate>Thu, 05 Mar 2026 22:54:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eaf/live/45b73cd0-18e5-11f1-b048-c9424b2cf5fd.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Early goals send Falkirk to Scottish Cup semi-finals]]></title>
+      <description><![CDATA[Two early goals help Falkirk make it by Dundee United to reach the Scottish Cup semi-finals.]]></description>
+      <link>https://www.bbc.com/sport/videos/cn0e8pgjyp8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/videos/cn0e8pgjyp8o</guid>
+      <pubDate>Fri, 06 Mar 2026 22:27:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3384/live/ca84f850-19ab-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
       <title><![CDATA[Bayern hammer Monchengladbach to move 14 points clear ]]></title>
@@ -320,28 +328,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20b9/live/ad13eeb0-19ac-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
-      <title><![CDATA['As pure as you can hit it!' Robertson fires Liverpool into lead]]></title>
-      <description><![CDATA[Liverpool left-back Andrew Robertson scores a superb opening goal for his side in their FA Cup fifth round tie against Wolves at Molineux.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cp856pv564no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cp856pv564no</guid>
-      <pubDate>Fri, 06 Mar 2026 22:07:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a255/live/c04036f0-19a8-11f1-801d-ed3cff6bf876.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I believe more than before' - Tudor positive despite defeat by Palace]]></title>
-      <description><![CDATA[Tottenham Hotspur head coach Igor Tudor believes the club will be able to avoid relegation from the Premier League, insisting "the moment will pass" after watching his side lose 3-1 at home to Crystal Palace to remain one point above the relegation zone.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/czd88dlevv2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/czd88dlevv2o</guid>
-      <pubDate>Thu, 05 Mar 2026 22:54:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eaf/live/45b73cd0-18e5-11f1-b048-c9424b2cf5fd.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['We don't know what is a foul' - Nuno wants set-piece review]]></title>
       <description><![CDATA[With increased attention on grappling at corner kicks in the Premier League, West Ham head coach Nuno Espirito Santo wants officials to explain what is and is not a foul.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cdr2mnmll3po?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cdr2mnmll3po</guid>
       <pubDate>Fri, 06 Mar 2026 16:17:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cab3/live/e00b6cc0-1971-11f1-801d-ed3cff6bf876.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['As pure as you can hit it!' Robertson fires Liverpool into lead]]></title>
+      <description><![CDATA[Liverpool left-back Andrew Robertson scores a superb opening goal for his side in their FA Cup fifth round tie against Wolves at Molineux.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cp856pv564no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cp856pv564no</guid>
+      <pubDate>Fri, 06 Mar 2026 22:07:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a255/live/c04036f0-19a8-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA['What happens next, happens' - Lindsay coy on NI future]]></title>
@@ -358,6 +358,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr45pld6v99o</guid>
       <pubDate>Sat, 07 Mar 2026 19:47:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d8/live/bd4be2a0-1a57-11f1-868f-4fb5e9a9e1f8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['The reaction was great' - Glasner proud as Palace fight back to beat Spurs]]></title>
+      <description><![CDATA[Crystal Palace manager Oliver Glasner praises his team's reaction as they fight back from a goal down to beat Spurs 3-1 at the Tottenham Hotspur Stadium, with all the goals coming in the first half.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c4g44g7995ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c4g44g7995ro</guid>
+      <pubDate>Thu, 05 Mar 2026 23:02:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b4/live/b1a644f0-18e4-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA['Don't be so ridiculous' - Richards & Murphy debate Haaland penalty decision]]></title>
@@ -382,14 +390,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwy8g1j20jvo</guid>
       <pubDate>Wed, 04 Mar 2026 23:30:10 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52e1/live/3ebc20e0-1821-11f1-801d-ed3cff6bf876.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Did Ramsey deserve to be sent off?]]></title>
-      <description><![CDATA[Match of the Day pundits Micah Richards and Danny Murphy discuss if Newcastle's Jacob Ramsey's second yellow card for diving was deserved.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cly1134yp37o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cly1134yp37o</guid>
-      <pubDate>Thu, 05 Mar 2026 00:19:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/564f/live/00f38820-1826-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
       <title><![CDATA['We could not be happier' - Nuno proud of West Ham 'fight' after vital win]]></title>
