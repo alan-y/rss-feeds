@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 20:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 20:53:30 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,14 +48,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cdf/live/5f1d45d0-19f2-11f1-a09a-6b5ee70aa99b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Impressive Raducanu into Indian Wells third round]]></title>
-      <description><![CDATA[Emma Raducanu makes an impressive start at Indian Wells as the British number one records a straight-set victory over Russian Anastasia Zakharova.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/clyv01gr0zyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/clyv01gr0zyo</guid>
-      <pubDate>Fri, 06 Mar 2026 21:32:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45d9/live/28b409c0-19a2-11f1-978b-fbdac352fba0.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['No player should have to deal with this' - Udvardy was sent threats and gun photo]]></title>
       <description><![CDATA[Hungary's Panna Udvardy says she was sent "disturbing" messages including a picture of a gun, warning her family would be harmed unless she lost a tennis match.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c9wnqnzq9y8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -78,6 +70,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cn0e8x3p277o</guid>
       <pubDate>Fri, 06 Mar 2026 09:38:04 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d598/live/2b6000e0-18e7-11f1-b048-c9424b2cf5fd.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Impressive Raducanu into Indian Wells third round]]></title>
+      <description><![CDATA[Emma Raducanu makes an impressive start at Indian Wells as the British number one records a straight-set victory over Russian Anastasia Zakharova.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/clyv01gr0zyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/clyv01gr0zyo</guid>
+      <pubDate>Fri, 06 Mar 2026 21:32:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45d9/live/28b409c0-19a2-11f1-978b-fbdac352fba0.jpg"/>
     </item>
     <item>
       <title><![CDATA[Draper cruises to Davis Cup win on return from injury]]></title>
@@ -144,20 +144,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a388/live/153ea320-10a9-11f1-bcca-5de40b00ede7.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ruthless Alcaraz wins Qatar Open inside 50 minutes]]></title>
-      <description><![CDATA[Carlos Alcaraz thrashes Arthur Fils inside 50 minutes to maintain his unbeaten start to 2026 and win the Qatar Open in Doha.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cx28lxv7gedo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cx28lxv7gedo</guid>
-      <pubDate>Sat, 21 Feb 2026 20:12:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a0/live/be19fd00-0f5f-11f1-8c6e-2da2e1a0e6bb.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Boulter secures seventh consecutive WTA win]]></title>
       <description><![CDATA[Britain's Katie Boulter reaches the quarter-finals of the Merida Open in Mexico as Camila Osorio retires with injury.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cj4zy09d8eyo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cj4zy09d8eyo</guid>
       <pubDate>Thu, 26 Feb 2026 13:13:10 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec05/live/35ee4250-12df-11f1-9a23-cd5e0410f014.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ruthless Alcaraz wins Qatar Open inside 50 minutes]]></title>
+      <description><![CDATA[Carlos Alcaraz thrashes Arthur Fils inside 50 minutes to maintain his unbeaten start to 2026 and win the Qatar Open in Doha.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cx28lxv7gedo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cx28lxv7gedo</guid>
+      <pubDate>Sat, 21 Feb 2026 20:12:29 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a0/live/be19fd00-0f5f-11f1-8c6e-2da2e1a0e6bb.jpg"/>
     </item>
     <item>
       <title><![CDATA[Mensik upsets Sinner to reach Qatar semi-finals]]></title>
@@ -174,14 +174,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c1jk56jxkydo</guid>
       <pubDate>Sat, 21 Feb 2026 17:20:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbb5/live/695a0d40-0f47-11f1-9a2a-8fa7cf422a25.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Raducanu beaten by lucky loser in Dubai first round]]></title>
-      <description><![CDATA[British number one Emma Raducanu is knocked out of the Dubai Tennis Championships in the first round by lucky loser Antonia Ruzic.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cpv84y1yn7go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cpv84y1yn7go</guid>
-      <pubDate>Tue, 17 Feb 2026 08:35:57 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0f/live/cb4e0db0-0b52-11f1-b472-df9c1c12cffb.jpg"/>
     </item>
     <item>
       <title><![CDATA[Svitolina beats Gauff in epic to reach Dubai final]]></title>
