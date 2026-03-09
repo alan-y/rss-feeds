@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 12:00:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 13:24:31 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -32,7 +32,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e75/live/d73819f0-1b14-11f1-a489-ff7ad54780bc.jpg"/>
     </item>
     <item>
-      <title><![CDATA[23 players sent off after mass brawl in Brazil]]></title>
+      <title><![CDATA[23 players sent off after mass brawl in Brazil - but it's not a world record]]></title>
       <description><![CDATA["It's regrettable," says former Brazil forward Hulk after becoming one of 23 players are sent off following a mass brawl between Cruzeiro and Atletico Mineiro. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cly2ejpdp43o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly2ejpdp43o</guid>
@@ -64,12 +64,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/058c/live/eaa8cb20-1b45-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Shameful' pitch invasion by Celtic and Rangers fans condemned by police]]></title>
-      <description><![CDATA[Arrests were made with both police officers and fans injured during clashes following Celtic's 4-2 win on penalties.]]></description>
-      <link>https://www.bbc.com/news/articles/cy4w22znlyvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4w22znlyvo</guid>
-      <pubDate>Mon, 09 Mar 2026 11:21:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5de0/live/931ad1a0-1b09-11f1-870b-03d961994130.jpg"/>
+      <title><![CDATA[Can Wolves dream of the Premier League's greatest escape?]]></title>
+      <description><![CDATA[Wolves are bottom of the Premier League, 12 points off safety. But two wins in a row have raised faint hopes that they could survive relegation.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvg3kd75dj5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg3kd75dj5o</guid>
+      <pubDate>Mon, 09 Mar 2026 12:08:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e63/live/57b6ee80-193a-11f1-b98f-d180004a07c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Iraq coach wants World Cup play-off to be postponed]]></title>
@@ -144,6 +144,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7675/live/7778ce90-1afd-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Quiz: How much do you remember from this weekend's FA Cup action?]]></title>
+      <description><![CDATA[Seven of the eight FA Cup fifth-round ties have been played, but were you paying attention? Take on our quiz.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn87krlez1xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn87krlez1xo</guid>
+      <pubDate>Mon, 09 Mar 2026 12:44:12 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b97c/live/a08ee770-1bb0-11f1-9120-a910fc22c6ac.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Shameful' pitch invasion by Celtic and Rangers fans condemned by police]]></title>
+      <description><![CDATA[Arrests were made with both police officers and fans injured during clashes following Celtic's 4-2 win on penalties.]]></description>
+      <link>https://www.bbc.com/news/articles/cy4w22znlyvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4w22znlyvo</guid>
+      <pubDate>Mon, 09 Mar 2026 11:21:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5de0/live/931ad1a0-1b09-11f1-870b-03d961994130.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[When is the FA Cup quarter-final draw?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team looks at the FA Cup's quarter-final draw, ball numbers and prize money on offer.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cqxd1wn0842o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -158,14 +174,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1w5221prjgo</guid>
       <pubDate>Sun, 08 Mar 2026 19:24:17 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a55/live/0a841540-1b09-11f1-870b-03d961994130.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Celtic v St Mirren and Falkirk v Dunfermline derby in Scottish Cup semis]]></title>
-      <description><![CDATA[Falkirk and Dunfermline Athletic will meet in a Scottish Cup semi-final derby at Hampden next month, while Celtic will face St Mirren in a repeat of this season's League Cup final.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c14m2dlpvr3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c14m2dlpvr3o</guid>
-      <pubDate>Sun, 08 Mar 2026 21:40:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de21/live/cdacec20-1b33-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA[Pressure mounts on Tudor as Tottenham lose at home to Palace]]></title>
@@ -208,6 +216,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/560f/live/a7622740-181a-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Falkirk & Dunfermline to meet in semi-final derby]]></title>
+      <description><![CDATA[Falkirk and Dunfermline Athletic will meet in a Scottish Cup semi-final derby at Hampden next month, while Celtic will face St Mirren in a repeat of this season's League Cup final.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c14m2dlpvr3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c14m2dlpvr3o</guid>
+      <pubDate>Sun, 08 Mar 2026 21:40:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de21/live/cdacec20-1b33-11f1-801d-ed3cff6bf876.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Greener Bantams' leading tree-planting scheme with one for every goal scored]]></title>
+      <description><![CDATA[Bradford City plant 154 trees - one for each goal scored by its men's and women's teams last season - at its training ground as part of its commitment to sustainability.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp81p0pzy53o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp81p0pzy53o</guid>
+      <pubDate>Mon, 09 Mar 2026 11:57:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d26/live/cb111d10-1bab-11f1-9120-a910fc22c6ac.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[The race for the Quadruple: Arsenal and Manchester City's battle]]></title>
       <description><![CDATA[With Arsenal and Manchester City still in the running for four trophies, BBC Sport looks at who else has come close to doing the Quadruple.]]></description>
       <link>https://www.bbc.com/sport/articles/c0j56q8jegdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -222,14 +246,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y678er1e2o</guid>
       <pubDate>Sun, 08 Mar 2026 07:11:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39aa/live/bcadf270-0a94-11f1-bcc6-0d256631bfbc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Teenage Oxford United player dies during academy match]]></title>
-      <description><![CDATA[The 15-year-old Oxford United academy player collapsed during a game against Fulham.]]></description>
-      <link>https://www.bbc.com/news/articles/c1jk22rd653o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1jk22rd653o</guid>
-      <pubDate>Sun, 08 Mar 2026 19:12:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72e8/live/97d43c00-1afe-11f1-b293-0994cc1b0c5c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Leeds ease past Norwich to reach FA Cup quarter-finals]]></title>
@@ -272,36 +288,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9874/live/5410bca0-1a68-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Teenage Oxford United player dies during academy match]]></title>
+      <description><![CDATA[The 15-year-old Oxford United academy player collapsed during a game against Fulham.]]></description>
+      <link>https://www.bbc.com/news/articles/c1jk22rd653o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1jk22rd653o</guid>
+      <pubDate>Sun, 08 Mar 2026 19:12:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72e8/live/97d43c00-1afe-11f1-b293-0994cc1b0c5c.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[The anatomy of a corner-kick: how set-pieces reshaped the Premier League]]></title>
       <description><![CDATA[As corner kicks continue to cause chaos in the Premier League, BBC Sport take a closer at why they are becoming so hard to defend.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c24d84y67ydo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c24d84y67ydo</guid>
       <pubDate>Sun, 08 Mar 2026 10:09:25 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01ea/live/24ddfd40-1a2b-11f1-982c-cf4b6f34f92f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I'll go on holiday' - Guardiola fumes as touchline ban looms]]></title>
-      <description><![CDATA[Manchester City boss Pep Guardiola is facing a two-game touchline ban after being booked for the sixth time this season during Saturday's FA Cup win at Newcastle.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g8vr0vqqlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g8vr0vqqlo</guid>
-      <pubDate>Sun, 08 Mar 2026 00:41:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efb3/live/bca477e0-1a7f-11f1-a3ef-05590020f326.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['A tough lesson' - Newcastle get  sobering reminder of gap to top]]></title>
-      <description><![CDATA[Newcastle boss Eddie Howe admits his side were taught a tough lesson in their 3-1 FA Cup fifth-round defeat by Manchester City.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd9gp0xpqd4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9gp0xpqd4o</guid>
-      <pubDate>Sun, 08 Mar 2026 00:31:45 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e5f/live/63137940-1a81-11f1-a15f-41e66011d5aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Salt Lake City awaits Wales if they make World Cup]]></title>
-      <description><![CDATA[If Wales qualify for the 2026 World Cup, they are likely to be based in Salt Lake City, Utah.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy8283kyv2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy8283kyv2o</guid>
-      <pubDate>Sun, 08 Mar 2026 12:55:48 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eca/live/f838be50-1ae4-11f1-af70-e98c0b43db96.jpg"/>
     </item>
     <item>
       <title><![CDATA[Bayern hammer Monchengladbach to move 14 points clear ]]></title>
@@ -344,6 +344,30 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4a/live/53b88660-19ab-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
+      <title><![CDATA['I'll go on holiday' - Guardiola fumes as touchline ban looms]]></title>
+      <description><![CDATA[Manchester City boss Pep Guardiola is facing a two-game touchline ban after being booked for the sixth time this season during Saturday's FA Cup win at Newcastle.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g8vr0vqqlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g8vr0vqqlo</guid>
+      <pubDate>Sun, 08 Mar 2026 00:41:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efb3/live/bca477e0-1a7f-11f1-a3ef-05590020f326.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['A tough lesson' - Newcastle get  sobering reminder of gap to top]]></title>
+      <description><![CDATA[Newcastle boss Eddie Howe admits his side were taught a tough lesson in their 3-1 FA Cup fifth-round defeat by Manchester City.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd9gp0xpqd4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9gp0xpqd4o</guid>
+      <pubDate>Sun, 08 Mar 2026 00:31:45 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e5f/live/63137940-1a81-11f1-a15f-41e66011d5aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Salt Lake City awaits Wales if they make World Cup]]></title>
+      <description><![CDATA[If Wales qualify for the 2026 World Cup, they are likely to be based in Salt Lake City, Utah.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy8283kyv2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy8283kyv2o</guid>
+      <pubDate>Sun, 08 Mar 2026 12:55:48 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eca/live/f838be50-1ae4-11f1-af70-e98c0b43db96.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Incredible' Bronze remains England's gold standard]]></title>
       <description><![CDATA[Lucy Bronze made her 145th senior appearance for England on Saturday. Few have been better performances.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cly2pj43mg4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -358,38 +382,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly2p1ylkm6o</guid>
       <pubDate>Sat, 07 Mar 2026 22:52:06 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdf/live/a36734d0-1aec-11f1-ad8c-c9c790065176.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Risk you take' - Rosenior explains Chelsea rotation]]></title>
-      <description><![CDATA[Chelsea head coach Liam Rosenior defends his heavy squad rotation after his side edged past 10‑man Wrexham to reach the FA Cup quarter‑finals.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd9gpl00y8zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9gpl00y8zo</guid>
-      <pubDate>Sat, 07 Mar 2026 21:58:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfc3/live/193626a0-1a6e-11f1-92c3-4b80fe25ce7a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Exceptional' Dowman and Salmon make history as Gunners survive scare]]></title>
-      <description><![CDATA[Arsenal needed their big guns to come off the bench to help them past Mansfield, but it was 16-year-olds Max Dowman and Marli Salmon who made history.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy0329x8eleo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy0329x8eleo</guid>
-      <pubDate>Sat, 07 Mar 2026 16:50:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82ec/live/facd6240-1a3c-11f1-bbcf-6dca17345a4c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Pigeon stops play - unflappable Gimenez removes intruder ]]></title>
-      <description><![CDATA[A pigeon briefly stopped play during Atletico Madrid's 3-2 win over Real Sociedad - with unflappable defender Jose Gimenez plucking the bird off the pitch and taking it to safety.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy62dpq1x0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy62dpq1x0o</guid>
-      <pubDate>Sat, 07 Mar 2026 20:50:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f9/live/c5bc51d0-1a5d-11f1-868f-4fb5e9a9e1f8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['What happens next, happens' - Lindsay coy on NI future]]></title>
-      <description><![CDATA[Northern Ireland interim manager Kris Lindsay says it is "up to the powers that be" at the Irish FA to decide whether he will be appointed as permanent boss.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn4gpjnejzeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn4gpjnejzeo</guid>
-      <pubDate>Sat, 07 Mar 2026 22:57:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a833/live/1c2d9080-1a75-11f1-9b71-9df916f48db4.jpg"/>
     </item>
     <item>
       <title><![CDATA['As pure as you can hit it!' Robertson fires Liverpool into lead]]></title>
