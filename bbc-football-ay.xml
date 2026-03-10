@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 07:56:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 08:42:59 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -144,7 +144,15 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b35/live/2aadf050-1b97-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Regulator proposals put diversity on subs bench - Kick It Out]]></title>
+      <title><![CDATA[Quiz: One question for each team in the Champions League last 16]]></title>
+      <description><![CDATA[The Champions League is back, but how much do you know about each of the 16 teams still in the competition?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqxd19zgyq0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxd19zgyq0o</guid>
+      <pubDate>Tue, 10 Mar 2026 07:59:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000c/live/13b8d710-1bd9-11f1-9120-a910fc22c6ac.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Regulator proposals 'put diversity on subs bench' - Kick It Out]]></title>
       <description><![CDATA[The head of anti-discrimination body Kick It Out says that initial proposals by English football's independent regulator "put equality, diversity and inclusion  on the subs bench".]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj4zgy21v0jo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj4zgy21v0jo</guid>
@@ -184,20 +192,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c48/live/a6e43ad0-1be2-11f1-9a61-1b759d532334.jpg"/>
     </item>
     <item>
-      <title><![CDATA[23 players sent off after mass brawl in Brazil - but it's not a world record]]></title>
-      <description><![CDATA["It's regrettable," says former Brazil forward Hulk after becoming one of 23 players are sent off following a mass brawl between Cruzeiro and Atletico Mineiro. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly2ejpdp43o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly2ejpdp43o</guid>
-      <pubDate>Mon, 09 Mar 2026 08:59:19 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1e6/live/35c07f70-1b8e-11f1-b048-c9424b2cf5fd.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Will Wolves pull off the Premier League's greatest escape?]]></title>
       <description><![CDATA[Wolves are bottom of the Premier League, 12 points off safety. But two wins in a row have raised faint hopes that they could survive relegation.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvg3kd75dj5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg3kd75dj5o</guid>
       <pubDate>Mon, 09 Mar 2026 12:08:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e63/live/57b6ee80-193a-11f1-b98f-d180004a07c6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[23 players sent off after mass brawl in Brazil - but it's not a world record]]></title>
+      <description><![CDATA["It's regrettable," says former Brazil forward Hulk after becoming one of 23 players are sent off following a mass brawl between Cruzeiro and Atletico Mineiro. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly2ejpdp43o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly2ejpdp43o</guid>
+      <pubDate>Mon, 09 Mar 2026 08:59:19 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1e6/live/35c07f70-1b8e-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
       <title><![CDATA[Nolan sacked as Northampton boss after poor run]]></title>
@@ -230,14 +238,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c743ymjm7k7o</guid>
       <pubDate>Mon, 09 Mar 2026 13:55:14 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c9e/live/8ef01170-1bbe-11f1-801d-ed3cff6bf876.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Quiz: How much do you remember from this weekend's FA Cup action?]]></title>
-      <description><![CDATA[Seven of the eight FA Cup fifth-round ties have been played, but were you paying attention? Take on our quiz.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn87krlez1xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn87krlez1xo</guid>
-      <pubDate>Mon, 09 Mar 2026 12:44:12 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b97c/live/a08ee770-1bb0-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch Celtic beat Rangers on penalties to reach Scottish Cup semis]]></title>
@@ -414,6 +414,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8g22120pdo</guid>
       <pubDate>Sun, 08 Mar 2026 17:58:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e75/live/d73819f0-1b14-11f1-a489-ff7ad54780bc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Quiz: How much do you remember from this weekend's FA Cup action?]]></title>
+      <description><![CDATA[Seven of the eight FA Cup fifth-round ties have been played, but were you paying attention? Take on our quiz.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn87krlez1xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn87krlez1xo</guid>
+      <pubDate>Mon, 09 Mar 2026 12:44:12 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b97c/live/a08ee770-1bb0-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rooney praise an 'incredible tribute' for Wrexham]]></title>
@@ -638,14 +646,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3eww5p1l2qo</guid>
       <pubDate>Wed, 04 Mar 2026 13:26:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37b3/live/3624b010-17cb-11f1-96f2-bf3adf077467.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Mbappe has knee sprain with no surgery planned]]></title>
-      <description><![CDATA[Real Madrid striker Kylian Mbappe is diagnosed with a left knee sprain and will not have surgery at this stage.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj32vx1p2r3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj32vx1p2r3o</guid>
-      <pubDate>Mon, 02 Mar 2026 19:51:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fce/live/19d35320-165f-11f1-b1a8-d97a7a8b24a4.jpg"/>
     </item>
     <item>
       <title><![CDATA['When you're with me, you're not bored' - Malard bringing sunshine to Man Utd]]></title>
