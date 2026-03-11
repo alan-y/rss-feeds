@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 06:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 07:13:51 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[Facebook owner Meta buys 'social media network for AI' Moltbook]]></title>
-      <description><![CDATA[The forum-style app has sparked interest by showing how AI bots interact without human involvement.]]></description>
-      <link>https://www.bbc.com/news/articles/cvg1x788dreo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg1x788dreo</guid>
-      <pubDate>Wed, 11 Mar 2026 05:46:49 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/071b/live/bcddd890-1d0a-11f1-8e9e-c32aff73709a.jpg"/>
-    </item>
     <item>
       <title><![CDATA['Icky and heartbreaking': The $2 per hour worker behind the OnlyFans boom]]></title>
       <description><![CDATA[The BBC talks to a Philippines-based woman paid to pretend to be an OnlyFans star in online chats.]]></description>
@@ -119,6 +111,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gj39zk1k0o</guid>
       <pubDate>Thu, 05 Mar 2026 00:04:26 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e19/live/1b2a5cb0-12f3-11f1-89c0-597e6cfce3ac.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Father claims Google's AI product fuelled son's delusional spiral]]></title>
+      <description><![CDATA[The case is the first wrongful death case against Google over alleged harms caused by Gemini.]]></description>
+      <link>https://www.bbc.com/news/articles/czx44p99457o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/czx44p99457o</guid>
+      <pubDate>Wed, 04 Mar 2026 18:55:45 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0708/live/dc170490-1812-11f1-9154-e1fd43ccfa04.jpg"/>
     </item>
   </channel>
 </rss>
