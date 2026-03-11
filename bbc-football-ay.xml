@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 08:46:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 09:41:24 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -168,14 +168,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856f/live/e7e6c770-1c62-11f1-b8c2-59d98cecc063.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Is England on course for fifth Champions League spot?]]></title>
-      <description><![CDATA[Could the Premier League get an extra place in the Champions League again? This is how it looks at the end of the league phase.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj0npqv9rylo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0npqv9rylo</guid>
-      <pubDate>Tue, 10 Mar 2026 22:49:30 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93c9/live/5b39a1a0-fc67-11f0-a7b3-13a56b7a31f4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Eze stunner features in best goals of FA Cup fifth round]]></title>
       <description><![CDATA[Eberechi Eze's stunning winner for Arsenal against Mansfield and Andy Robertson's fine strike for Liverpool feature in the best of goals of the FA Cup fifth round.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cn715z87l01o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -216,6 +208,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcda/live/c3c778e0-1b1c-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Is England on course for fifth Champions League spot?]]></title>
+      <description><![CDATA[Could the Premier League get an extra place in the Champions League again? This is how it looks at the end of the league phase.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj0npqv9rylo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0npqv9rylo</guid>
+      <pubDate>Tue, 10 Mar 2026 22:49:30 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93c9/live/5b39a1a0-fc67-11f0-a7b3-13a56b7a31f4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Aluko awarded more than £300,000 in Barton libel case]]></title>
       <description><![CDATA[Joey Barton is told to pay Eniola Aluko more than £300,000 over two posts he made in 2024.]]></description>
       <link>https://www.bbc.com/news/articles/c8eg2n83y1eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -240,28 +240,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/826a/live/b8e07b60-1c8a-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Regulator proposals 'put diversity on subs' bench' - Kick It Out]]></title>
-      <description><![CDATA[The head of anti-discrimination body Kick It Out says that initial proposals by English football's independent regulator "put equality, diversity and inclusion  on the subs bench".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj4zgy21v0jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj4zgy21v0jo</guid>
-      <pubDate>Tue, 10 Mar 2026 00:08:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6905/live/87479ba0-1c04-11f1-b048-c9424b2cf5fd.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Quiz: One question for each team in the Champions League last 16]]></title>
       <description><![CDATA[The Champions League is back, but how much do you know about each of the 16 teams still in the competition?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cqxd19zgyq0o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxd19zgyq0o</guid>
       <pubDate>Tue, 10 Mar 2026 07:59:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000c/live/13b8d710-1bd9-11f1-9120-a910fc22c6ac.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How Newcastle United are plotting a course to the WSL]]></title>
-      <description><![CDATA[Newcastle United have risen from the fourth tier to the fringe of the Women's Super League - BBC Sport looks at how they've done it.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c62d43z6q5lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62d43z6q5lo</guid>
-      <pubDate>Tue, 10 Mar 2026 06:48:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d30b/live/cec374a0-1a14-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch: Saints & Hamilton win on the road as Sons stun Spartans]]></title>
@@ -344,6 +328,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/560f/live/a7622740-181a-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Regulator proposals 'put diversity on subs' bench' - Kick It Out]]></title>
+      <description><![CDATA[The head of anti-discrimination body Kick It Out says that initial proposals by English football's independent regulator "put equality, diversity and inclusion  on the subs bench".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj4zgy21v0jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj4zgy21v0jo</guid>
+      <pubDate>Tue, 10 Mar 2026 00:08:05 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6905/live/87479ba0-1c04-11f1-b048-c9424b2cf5fd.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How Newcastle United are plotting a course to the WSL]]></title>
+      <description><![CDATA[Newcastle United have risen from the fourth tier to the fringe of the Women's Super League - BBC Sport looks at how they've done it.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c62d43z6q5lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62d43z6q5lo</guid>
+      <pubDate>Tue, 10 Mar 2026 06:48:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d30b/live/cec374a0-1a14-11f1-801d-ed3cff6bf876.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Is O'Neill's points average enough to win title?]]></title>
       <description><![CDATA[What do the points average of those in charge of the top four in the Scottish Premiership tell us about who may win the title?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdjmmv33e7wo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -366,22 +366,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c05vye161l5o</guid>
       <pubDate>Mon, 09 Mar 2026 20:28:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2b6/live/565642e0-1bf4-11f1-9d6d-1700b9df4d4c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Should lower-ranked teams always play at home in the FA Cup?]]></title>
-      <description><![CDATA[After some superb FA Cup fifth-round ties, BBC Sport looks at whether lower-ranked teams should always get to play at home.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp32xqqpqego?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp32xqqpqego</guid>
-      <pubDate>Mon, 09 Mar 2026 17:29:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08a0/live/477a4f80-1bd8-11f1-801d-ed3cff6bf876.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Will Wolves pull off the Premier League's greatest escape?]]></title>
-      <description><![CDATA[Wolves are bottom of the Premier League, 12 points off safety. But two wins in a row have raised faint hopes that they could survive relegation.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg3kd75dj5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg3kd75dj5o</guid>
-      <pubDate>Mon, 09 Mar 2026 12:08:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e63/live/57b6ee80-193a-11f1-b98f-d180004a07c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chelsea overcome Wrexham in extra-time FA Cup thriller]]></title>
