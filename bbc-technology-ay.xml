@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 22:26:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 22:55:47 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Big Tech backs Anthropic in fight against Trump administration]]></title>
+      <description><![CDATA[A group representing tech giants called government action against Anthropic a "temper tantrum".]]></description>
+      <link>https://www.bbc.com/news/articles/c4g7k7zdd0zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g7k7zdd0zo</guid>
+      <pubDate>Wed, 11 Mar 2026 22:46:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a19c/live/1d200f20-1d9c-11f1-94a7-bf1b298028b4.jpg"/>
+    </item>
     <item>
       <title><![CDATA['Icky and heartbreaking': The $2 per hour worker behind the OnlyFans boom]]></title>
       <description><![CDATA[The BBC talks to a Philippines-based woman paid to pretend to be an OnlyFans star in online chats.]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3ewwlx9e1xo</guid>
       <pubDate>Tue, 10 Mar 2026 00:01:38 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e50/live/f7dc5ff0-1893-11f1-b048-c9424b2cf5fd.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic sues US government for calling it a risk]]></title>
-      <description><![CDATA[The artificial intelligence company has been in a public fight with US government leaders over use of its tools like Claude]]></description>
-      <link>https://www.bbc.com/news/articles/cq571w5vllxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq571w5vllxo</guid>
-      <pubDate>Mon, 09 Mar 2026 21:33:05 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b60e/live/959b25c0-1bcb-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
   </channel>
 </rss>
