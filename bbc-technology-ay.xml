@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 23:55:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 01:55:21 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['Icky and heartbreaking': The $2 per hour worker behind the OnlyFans boom]]></title>
+      <description><![CDATA[The BBC talks to a Philippines-based woman paid to pretend to be an OnlyFans star in online chats.]]></description>
+      <link>https://www.bbc.com/news/articles/cq571g9gd4lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq571g9gd4lo</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7669/live/a33cbbc0-1c94-11f1-8f3c-8366692412b1.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Meta urged to boost oversight of fake AI videos]]></title>
       <description><![CDATA[Meta's advisers say its methods for policing AI videos are inadequate, especially at times of crisis.]]></description>
@@ -111,14 +119,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/czx44p99457o</guid>
       <pubDate>Wed, 04 Mar 2026 18:55:45 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0708/live/dc170490-1812-11f1-9154-e1fd43ccfa04.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Regulator contacts Meta over workers watching intimate AI glasses videos]]></title>
-      <description><![CDATA[Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor.]]></description>
-      <link>https://www.bbc.com/news/articles/c0q33nvj0qpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0q33nvj0qpo</guid>
-      <pubDate>Wed, 04 Mar 2026 16:23:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa98/live/8d1953c0-17db-11f1-992f-8778a9867203.jpg"/>
     </item>
   </channel>
 </rss>
