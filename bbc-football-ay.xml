@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 21:50:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 22:36:47 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -32,11 +32,19 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a253/live/cf1f3e90-1e59-11f1-801d-ed3cff6bf876.png"/>
     </item>
     <item>
+      <title><![CDATA[From best in league to bench - Foden's mysterious loss of form]]></title>
+      <description><![CDATA[Analysing the reasons that playmaker Phil Foden has started only four of Manchester City's past 12 games.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpv8wvz7m4po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv8wvz7m4po</guid>
+      <pubDate>Thu, 12 Mar 2026 18:38:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/654c/live/569cea70-1e05-11f1-9d0d-976629795f41.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Rangers & Celtic react to Old Firm fan disorder]]></title>
       <description><![CDATA[Rangers "unequivocally" condemn Sunday's Old Firm fan disorder, while Celtic say "examples of unacceptable behaviour" must be addressed.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cedz7904ldgo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cedz7904ldgo</guid>
-      <pubDate>Thu, 12 Mar 2026 21:32:24 GMT</pubDate>
+      <pubDate>Thu, 12 Mar 2026 21:59:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d53/live/274cd510-1e36-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
@@ -46,14 +54,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg1x3lrmzko</guid>
       <pubDate>Thu, 12 Mar 2026 00:20:35 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90b7/live/f0488590-1da5-11f1-b048-c9424b2cf5fd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[From best in league to bench - Foden's mysterious loss of form]]></title>
-      <description><![CDATA[Analysing the reasons that playmaker Phil Foden has started only four of Manchester City's past 12 games.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpv8wvz7m4po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv8wvz7m4po</guid>
-      <pubDate>Thu, 12 Mar 2026 18:38:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/654c/live/569cea70-1e05-11f1-9d0d-976629795f41.jpg"/>
     </item>
     <item>
       <title><![CDATA[How the Premier League run-in is shaping up]]></title>
@@ -80,20 +80,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50da/live/dac08180-1e42-11f1-b7fb-092a0008fe58.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Valverde's brilliant first-half hat-trick stuns Man City]]></title>
-      <description><![CDATA[Real Madrid's Federico Valverde scores a first-half hat-trick as the Spanish giants beat Manchester City 3-0 in their Champions League last-16 encounter at the Bernabeu. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cgjzx96jg49o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgjzx96jg49o</guid>
-      <pubDate>Wed, 11 Mar 2026 22:24:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfd4/live/6cf26c50-1d97-11f1-801d-ed3cff6bf876.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Aberdeen announce Robinson as new head coach]]></title>
       <description><![CDATA[Aberdeen end their search for a head coach, with Stephen Robinson leaving Scottish Premiership rivals St Mirren to take over at Pittodrie.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8xynz8ndj4o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8xynz8ndj4o</guid>
       <pubDate>Thu, 12 Mar 2026 10:56:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f607/live/30e93b90-1e04-11f1-b2b0-1752c6d93b6f.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Valverde's brilliant first-half hat-trick stuns Man City]]></title>
+      <description><![CDATA[Real Madrid's Federico Valverde scores a first-half hat-trick as the Spanish giants beat Manchester City 3-0 in their Champions League last-16 encounter at the Bernabeu. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cgjzx96jg49o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgjzx96jg49o</guid>
+      <pubDate>Wed, 11 Mar 2026 22:24:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfd4/live/6cf26c50-1d97-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chelsea crumble late on as PSG score five to take control of tie ]]></title>
@@ -128,14 +128,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2fe/live/4de10050-1d70-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Kinsky chaos as Atletico put five past sorry Spurs in Madrid]]></title>
-      <description><![CDATA[Tottenham's troubles go from bad to worse as they're beaten 5-2 by Atletico Madrid in the first leg of their last 16 tie in the Champions League, with Spurs goalkeeper Antonin Kinsky substituted after just 17 minutes, with his team already 3-0 down at that stage. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c2e4y0lrk2xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c2e4y0lrk2xo</guid>
-      <pubDate>Wed, 11 Mar 2026 21:58:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e820/live/6230cf50-1ccf-11f1-9120-a910fc22c6ac.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Sutton's predictions v YouTuber Angry Ginge]]></title>
       <description><![CDATA[BBC Sport football expert Chris Sutton takes on YouTuber Angry Ginge plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures on Tuesday, Wednesday and Thursday.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj4zg4nvg2zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -153,10 +145,10 @@
     </item>
     <item>
       <title><![CDATA[Spurs extend ticket deadline amid relegation fears]]></title>
-      <description><![CDATA[Relegation-threatened Tottenham give their fans "an extended period" to decide if they want to renew their season tickets amid the "seriousness of the current league position" of their men's team. ]]></description>
+      <description><![CDATA[Relegation-threatened Tottenham give their fans "an extended period" to decide if they want to renew their season tickets amid the "seriousness of the current league position". ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3rz0rw2n8go?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3rz0rw2n8go</guid>
-      <pubDate>Thu, 12 Mar 2026 12:48:36 GMT</pubDate>
+      <pubDate>Thu, 12 Mar 2026 22:12:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ff5/live/d097a2d0-1e0e-11f1-b2b0-1752c6d93b6f.jpg"/>
     </item>
     <item>
@@ -184,12 +176,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c80e/live/31d2d2f0-1d2d-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
-      <title><![CDATA[NI fans' body welcomes Georgia ticket arrangement]]></title>
-      <description><![CDATA[The chairman of the Amalgamation of Official Northern Ireland Supporters Clubs, Gary McAllister, welcomes the ticketing arrangement for fans in September's Nations League game in Georgia.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8r16lld6xvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8r16lld6xvo</guid>
-      <pubDate>Thu, 12 Mar 2026 18:14:06 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e634/live/a6aeb210-1e36-11f1-b7fb-092a0008fe58.jpg"/>
+      <title><![CDATA[England still on course for fifth Champions League spot]]></title>
+      <description><![CDATA[Could the Premier League get an extra place in the Champions League again? This is how it looks at the end of the league phase.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj0npqv9rylo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0npqv9rylo</guid>
+      <pubDate>Thu, 12 Mar 2026 09:47:14 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93c9/live/5b39a1a0-fc67-11f0-a7b3-13a56b7a31f4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Kinsky chaos as Atletico put five past sorry Spurs in Madrid]]></title>
+      <description><![CDATA[Tottenham's troubles go from bad to worse as they're beaten 5-2 by Atletico Madrid in the first leg of their last 16 tie in the Champions League, with Spurs goalkeeper Antonin Kinsky substituted after just 17 minutes, with his team already 3-0 down at that stage. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c2e4y0lrk2xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c2e4y0lrk2xo</guid>
+      <pubDate>Wed, 11 Mar 2026 21:58:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e820/live/6230cf50-1ccf-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
       <title><![CDATA['He's lost the changing room' - Warnock on Tudor]]></title>
@@ -224,12 +224,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f77a/live/52029e10-1d92-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Bayern hit Atalanta for six in first-leg victory ]]></title>
-      <description><![CDATA[Bayern Munich look set to book a place in the quarter-finals of the Champions League following a 6-1 first leg victory over Atalanta in their last-16 tie in Bergamo. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cwyxkzkkygko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwyxkzkkygko</guid>
-      <pubDate>Wed, 11 Mar 2026 21:58:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c60/live/6e855ab0-1cce-11f1-9120-a910fc22c6ac.jpg"/>
+      <title><![CDATA[NI fans' body welcomes Georgia ticket arrangement]]></title>
+      <description><![CDATA[The chairman of the Amalgamation of Official Northern Ireland Supporters Clubs, Gary McAllister, welcomes the ticketing arrangement for fans in September's Nations League game in Georgia.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8r16lld6xvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8r16lld6xvo</guid>
+      <pubDate>Thu, 12 Mar 2026 18:14:06 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e634/live/a6aeb210-1e36-11f1-b7fb-092a0008fe58.jpg"/>
     </item>
     <item>
       <title><![CDATA[Tudor's tactics: Pinpointing how his choices have made things worse]]></title>
@@ -264,14 +264,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26c5/live/5bc00ac0-1e08-11f1-b2b0-1752c6d93b6f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[England still on course for fifth Champions League spot despite last-16 results]]></title>
-      <description><![CDATA[Could the Premier League get an extra place in the Champions League again? This is how it looks at the end of the league phase.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj0npqv9rylo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0npqv9rylo</guid>
-      <pubDate>Thu, 12 Mar 2026 09:47:14 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93c9/live/5b39a1a0-fc67-11f0-a7b3-13a56b7a31f4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Spurs keeper Kinsky thankful for support after 'nightmare']]></title>
       <description><![CDATA[Antonin Kinsky thanks those who have sent messages of support after a "nightmare" display in Spurs' Champions League defeat at Atletico Madrid.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c77egk8ykxxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -280,12 +272,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/778e/live/94468290-1d89-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Spurs owner to leave Tudor future to club executives]]></title>
-      <description><![CDATA[Tottenham owner Enic does not plan to step in and take the decision over Igor Tudor's future out of the hands of the club's executive team despite the manager's poor start.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czx4eg5gk03o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czx4eg5gk03o</guid>
-      <pubDate>Wed, 11 Mar 2026 19:06:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52f/live/d1933260-1d75-11f1-a77a-39b849d4606b.jpg"/>
+      <title><![CDATA['We had Amelia in our hearts' - Oxford boss pays tribute to academy player]]></title>
+      <description><![CDATA[Oxford United boss Matt Bloomfield says the club wanted to "pay their respects in the best possible way" after the passing of academy player Amelia Aplin.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3rz0z1e02jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3rz0z1e02jo</guid>
+      <pubDate>Wed, 11 Mar 2026 22:55:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ab1/live/f26652f0-1d99-11f1-9aff-8f5c72781de8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Bayern hit Atalanta for six in first-leg victory ]]></title>
+      <description><![CDATA[Bayern Munich look set to book a place in the quarter-finals of the Champions League following a 6-1 first leg victory over Atalanta in their last-16 tie in Bergamo. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cwyxkzkkygko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwyxkzkkygko</guid>
+      <pubDate>Wed, 11 Mar 2026 21:58:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c60/live/6e855ab0-1cce-11f1-9120-a910fc22c6ac.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['It's not what we expected' - Guardiola admits Real too good]]></title>
+      <description><![CDATA[Manchester City manager Pep Guardiola says his side "will try" but acknowledges they are going to struggle to produce a second-leg comeback against Real Madrid.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/ceqvew5npj4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ceqvew5npj4o</guid>
+      <pubDate>Wed, 11 Mar 2026 23:13:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b84/live/61a493d0-1d9e-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
       <title><![CDATA[Valverde shines as Haaland continues to struggle - analysis]]></title>
@@ -323,22 +331,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f30/live/cfbd10e0-1cc7-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Inside the stadiums of the future]]></title>
-      <description><![CDATA[How will stadium design change in the next decade, and how will the fan experience inside those stadiums differ?]]></description>
-      <link>https://www.bbc.com/sport/football/videos/clyve32e7l3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/clyve32e7l3o</guid>
-      <pubDate>Tue, 10 Mar 2026 15:30:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b8b/live/e1aab4e0-1c92-11f1-9120-a910fc22c6ac.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['We had Amelia in our hearts' - Oxford boss pays tribute to academy player]]></title>
-      <description><![CDATA[Oxford United boss Matt Bloomfield says the club wanted to "pay their respects in the best possible way" after the passing of academy player Amelia Aplin.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3rz0z1e02jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3rz0z1e02jo</guid>
-      <pubDate>Wed, 11 Mar 2026 22:55:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ab1/live/f26652f0-1d99-11f1-9aff-8f5c72781de8.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Chelsea transfer 'like being new kid at school' - Walsh]]></title>
       <description><![CDATA[England midfielder Keira Walsh says adjusting to life at Chelsea after arriving in January 2025 was the "worst feeling".]]></description>
       <link>https://www.bbc.com/sport/football/articles/crrxxrqpd12o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -369,6 +361,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx28v5qk4lwo</guid>
       <pubDate>Wed, 11 Mar 2026 19:20:23 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/282a/live/01aaa6e0-1d7b-11f1-b048-c9424b2cf5fd.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Could Premier League learn from Kidderminster's answer to corner chaos?]]></title>
+      <description><![CDATA[As Premier League teams look for ways to stop Arsenal's corner-kick dominance, could National League North side Kidderminster have found an answer?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpw0e9l7lvyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpw0e9l7lvyo</guid>
+      <pubDate>Wed, 11 Mar 2026 11:12:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5ac/live/b538d440-1d47-11f1-8a7a-4725a6287ab3.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Inside the stadiums of the future]]></title>
+      <description><![CDATA[How will stadium design change in the next decade, and how will the fan experience inside those stadiums differ?]]></description>
+      <link>https://www.bbc.com/sport/football/videos/clyve32e7l3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/clyve32e7l3o</guid>
+      <pubDate>Tue, 10 Mar 2026 15:30:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b8b/live/e1aab4e0-1c92-11f1-9120-a910fc22c6ac.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ouattara's Panenka saved as Brentford lose to West Ham in penalty shootout]]></title>
