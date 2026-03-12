@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 23:55:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 02:03:24 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[What role has cyber warfare played in Iran?]]></title>
+      <description><![CDATA[Militaries are often cagey about their cyber activities. But the US has hinted at the role it has played.]]></description>
+      <link>https://www.bbc.com/news/articles/c5yr0576ygvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yr0576ygvo</guid>
+      <pubDate>Thu, 12 Mar 2026 00:02:46 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de9f/live/2ee25930-1d6e-11f1-a77a-39b849d4606b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Social media firms asked to toughen up age checks for under-13s]]></title>
+      <description><![CDATA[Instagram, Snapchat, TikTok, YouTube and Roblox are among the platforms UK regulators say aren't putting children's safety at the heart of their products.]]></description>
+      <link>https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn48n18pg1eo</guid>
+      <pubDate>Thu, 12 Mar 2026 00:01:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6646/live/c30da2c0-1d61-11f1-8f98-5df0827ab403.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Big Tech backs Anthropic in fight against Trump administration]]></title>
       <description><![CDATA[A group representing tech giants called government action against Anthropic a "temper tantrum".]]></description>
@@ -54,22 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cp85rpm0lq8o</guid>
       <pubDate>Tue, 10 Mar 2026 17:35:25 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/788c/live/e9513570-1c79-11f1-a7bf-efb6e72f87e6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Family of child injured in Canada school shooting sues OpenAI ]]></title>
-      <description><![CDATA[The family alleges the firm knew the perpetrator was planning a "mass casualty event" but failed to contact the authorities.]]></description>
-      <link>https://www.bbc.com/news/articles/c309y25prnlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c309y25prnlo</guid>
-      <pubDate>Tue, 10 Mar 2026 11:27:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b21a/live/b079eeb0-1c6d-11f1-8206-178b2777dfa1.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[GPS jamming: The invisible battle in the Middle East]]></title>
-      <description><![CDATA[GPS jamming has made navigation hazardous in the Gulf, spurring efforts to develop alternatives.]]></description>
-      <link>https://www.bbc.com/news/articles/c3ewwlx9e1xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3ewwlx9e1xo</guid>
-      <pubDate>Tue, 10 Mar 2026 00:01:38 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e50/live/f7dc5ff0-1893-11f1-b048-c9424b2cf5fd.png"/>
     </item>
   </channel>
 </rss>
