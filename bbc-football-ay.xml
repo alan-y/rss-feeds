@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 14 Mar 2026 18:42:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 19:25:56 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['Something I've never seen in 50 years of watching football']]></title>
+      <description><![CDATA[There was an unusual addition to Chelsea's huddle before their game against Newcastle at Stamford Bridge - referee Paul Tierney.]]></description>
+      <link>https://www.bbc.com/sport/articles/c309eq98q5do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c309eq98q5do</guid>
+      <pubDate>Sat, 14 Mar 2026 18:51:18 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9231/live/f81273d0-1fd5-11f1-b210-872dc007b3ae.jpg"/>
+    </item>
     <item>
       <title><![CDATA['They know where I am' - could Redknapp return to manage Spurs?]]></title>
       <description><![CDATA[Former Tottenham boss Harry Redknapp says the Spurs hierarchy "know where I am" if they decide to replace interim boss Igor Tudor – so could the 79-year-old make a sensational return to management?]]></description>
@@ -32,7 +40,7 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f23/live/eb98c420-1f9d-11f1-968c-f7c713610d57.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Iraola 'frustrated' at wasteful Bournemouth in Burnley draw]]></title>
+      <title><![CDATA[Iraola frustrated by wasteful Bournemouth in Burnley draw]]></title>
       <description><![CDATA[Bournemouth manager Andoni Iraola believes his side had "more than enough chances to score" and criticises the decision not to award striker Evanilson a penalty, as Bournemouth settle for a 0-0 draw with Burnley at Turf Moor.
 
 
@@ -43,7 +51,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6164/live/e3e67730-1fcb-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[A game of 'fine margins' - Parker on Bournemouth draw ]]></title>
+      <title><![CDATA[A game of fine margins - Parker on Bournemouth draw ]]></title>
       <description><![CDATA[Burnley manager Scott Parker says his side remain focused and continue to work hard to avoid relegation, as The Clarets settle for a 0-0 draw at home to Bournemouth in the Premier League.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c1l71838qqqo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1l71838qqqo</guid>
@@ -59,7 +67,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5a5/live/206ab2a0-1fd3-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sunderland showed a 'great mentality' despite Brighton defeat - Le Bris]]></title>
+      <title><![CDATA[Sunderland showed great mentality despite Brighton defeat - Le Bris]]></title>
       <description><![CDATA[Sunderland manager Regis Le Bris hopes his side will "learn alot" from the "relentless" nature of the Premier League, as the Black Cats suffer their third consecutive home defeat, losing 1-0 to Brighton.]]></description>
       <link>https://www.bbc.com/sport/football/videos/ceqve2qnv17o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ceqve2qnv17o</guid>
@@ -105,14 +113,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gj7kxny1no</guid>
       <pubDate>Sat, 14 Mar 2026 09:16:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e4/live/0d504bc0-1ec6-11f1-82a8-07e825302dba.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Tottenham players can cry or fight - Tudor]]></title>
-      <description><![CDATA[Tottenham interim boss Igor Tudor says his players can "cry or fight" as they seek to avoid relegation from the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn8zexlzzl3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn8zexlzzl3o</guid>
-      <pubDate>Fri, 13 Mar 2026 14:18:28 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ba/live/2b5c8db0-1ef6-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sunderland need to stay hungry - director of football Ghisolfi]]></title>
@@ -166,6 +166,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d5c/live/9320c6e0-1d3f-11f1-8a7a-4725a6287ab3.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Tottenham players can cry or fight - Tudor]]></title>
+      <description><![CDATA[Tottenham interim boss Igor Tudor says his players can "cry or fight" as they seek to avoid relegation from the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn8zexlzzl3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn8zexlzzl3o</guid>
+      <pubDate>Fri, 13 Mar 2026 14:18:28 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34ba/live/2b5c8db0-1ef6-11f1-b048-c9424b2cf5fd.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Too good to go down? Ranking shock Premier League relegations]]></title>
       <description><![CDATA[Premier League champions, FA Cup winners and club legends have all suffered the unwanted fate, but which relegated side really was "too good to go down"?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn5gn06ldppo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -196,22 +204,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cnv6nlqg4lyo</guid>
       <pubDate>Fri, 13 Mar 2026 13:09:02 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb9c/live/9a2d20b0-1dde-11f1-b78b-695aa1f5fbef.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Players must believe in your methods - the mentality of winning a relegation battle]]></title>
-      <description><![CDATA[In his BBC Sport column, former Premier League boss Tony Pulis explains how your mindset is as important as your tactics when you are a manager battling relegation. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg37ryx1d5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg37ryx1d5o</guid>
-      <pubDate>Fri, 13 Mar 2026 09:48:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ex-England women's youth player Carr dies aged 35]]></title>
-      <description><![CDATA[The England women's football team pays tribute to former youth player Amy Carr, who has died at the age of 35.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy0dz22l74qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy0dz22l74qo</guid>
-      <pubDate>Fri, 13 Mar 2026 19:38:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2c6/live/fc96be20-985e-11ef-82c3-45a801b7330b.jpg"/>
     </item>
     <item>
       <title><![CDATA['I do what's best for the team' - Guardiola on Real Madrid defeat]]></title>
@@ -273,6 +265,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1246/live/935fb2d0-1cca-11f1-b048-c9424b2cf5fd.png"/>
     </item>
     <item>
+      <title><![CDATA[Players must believe in your methods - the mentality of winning a relegation battle]]></title>
+      <description><![CDATA[In his BBC Sport column, former Premier League boss Tony Pulis explains how your mindset is as important as your tactics when you are a manager battling relegation. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvg37ryx1d5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg37ryx1d5o</guid>
+      <pubDate>Fri, 13 Mar 2026 09:48:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ex-England women's youth player Carr dies aged 35]]></title>
+      <description><![CDATA[The England women's football team pays tribute to former youth player Amy Carr, who has died at the age of 35.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy0dz22l74qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy0dz22l74qo</guid>
+      <pubDate>Fri, 13 Mar 2026 19:38:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2c6/live/fc96be20-985e-11ef-82c3-45a801b7330b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[England's James signs new contract with Chelsea]]></title>
       <description><![CDATA[England forward Lauren James signs a new contract with Chelsea, keeping her at the club until 2030.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgl57390kjlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -303,22 +311,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1e95p9nqxdo</guid>
       <pubDate>Fri, 13 Mar 2026 09:45:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/562f/live/0cc16690-1e34-11f1-b7fb-092a0008fe58.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[No fear - so can Man Utd finally overcome nemesis Chelsea?]]></title>
-      <description><![CDATA[Manchester United have not enjoyed recent finals against Chelsea, but can they finally overcome their nemesis in Sunday's Women's League Cup final?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyz7e5030do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyz7e5030do</guid>
-      <pubDate>Fri, 13 Mar 2026 07:23:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6c/live/cdb5e9f0-1eae-11f1-bf16-4b50505ae39d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The anatomy of a corner-kick: how set-pieces reshaped the Premier League]]></title>
-      <description><![CDATA[As corner kicks continue to cause chaos in the Premier League, BBC Sport take a closer at why they are becoming so hard to defend.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c24d84y67ydo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c24d84y67ydo</guid>
-      <pubDate>Sun, 08 Mar 2026 10:09:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01ea/live/24ddfd40-1a2b-11f1-982c-cf4b6f34f92f.jpg"/>
     </item>
     <item>
       <title><![CDATA['It's not what we expected' - Guardiola admits Real too good]]></title>
@@ -514,6 +506,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy62dpq1x0o</guid>
       <pubDate>Sat, 07 Mar 2026 20:50:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7f9/live/c5bc51d0-1a5d-11f1-868f-4fb5e9a9e1f8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[No fear - so can Man Utd finally overcome nemesis Chelsea?]]></title>
+      <description><![CDATA[Manchester United have not enjoyed recent finals against Chelsea, but can they finally overcome their nemesis in Sunday's Women's League Cup final?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clyz7e5030do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyz7e5030do</guid>
+      <pubDate>Fri, 13 Mar 2026 07:23:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6c/live/cdb5e9f0-1eae-11f1-bf16-4b50505ae39d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Reiten leaves Chelsea after 13 trophies in six years]]></title>
