@@ -10,13 +10,29 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 09:17:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 10:18:10 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
-      <title><![CDATA[People turn to private health care to beat NHS waits, says watchdog]]></title>
+      <title><![CDATA[What are the symptoms of meningitis and is there a vaccine?]]></title>
+      <description><![CDATA[Two people have died following an outbreak of meningitis, including one student at the University of Kent.]]></description>
+      <link>https://www.bbc.com/news/articles/c7432klgyldo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c7432klgyldo</guid>
+      <pubDate>Mon, 16 Mar 2026 10:00:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad7/live/c3d6f270-2120-11f1-97c2-f5f000687aac.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Uni student among two dead in Kent meningitis outbreak]]></title>
+      <description><![CDATA[Eleven people in the Canterbury area are also seriously ill in hospital, the BBC understands.]]></description>
+      <link>https://www.bbc.com/news/articles/cdxg35dv7npo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxg35dv7npo</guid>
+      <pubDate>Sun, 15 Mar 2026 21:50:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c301/live/8017f630-20a6-11f1-b760-7d6278c3d0c0.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Fears of two-tier health system as more turn to private care, says watchdog]]></title>
       <description><![CDATA[The patient watchdog warns of two-tier service as polling shows numbers paying for care is on the rise.]]></description>
       <link>https://www.bbc.com/news/articles/cn4892wnv2zo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4892wnv2zo</guid>
@@ -30,14 +46,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cx24z8rvw1go</guid>
       <pubDate>Mon, 16 Mar 2026 01:13:30 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8bb/live/5ae2e5d0-1e37-11f1-b7fb-092a0008fe58.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Uni student among two dead in Kent meningitis outbreak]]></title>
-      <description><![CDATA[Eleven people in the Canterbury area are also seriously ill in hospital, the BBC understands.]]></description>
-      <link>https://www.bbc.com/news/articles/cdxg35dv7npo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxg35dv7npo</guid>
-      <pubDate>Sun, 15 Mar 2026 21:50:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c301/live/8017f630-20a6-11f1-b760-7d6278c3d0c0.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hundreds of GPs tell BBC they have never refused a fit note for mental health concerns]]></title>
@@ -64,20 +72,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb66/live/c3116580-1e20-11f1-8c74-957f793ca681.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Woman found out she had terminal brain cancer after suitcase fell on her head]]></title>
-      <description><![CDATA[Lauren Macpherson was travelling home from a festival in London when her life changed forever.]]></description>
-      <link>https://www.bbc.com/news/articles/clygqnlpwero?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/clygqnlpwero</guid>
-      <pubDate>Fri, 13 Mar 2026 16:53:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d51d/live/ac5bb620-1e29-11f1-b048-c9424b2cf5fd.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[NHS tracker - are hospital waiting times improving near you?]]></title>
       <description><![CDATA[Use our interactive tracker to see if treatment waits are getting better at your local hospital.]]></description>
       <link>https://www.bbc.com/news/articles/cq53qx2vg6jo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cq53qx2vg6jo</guid>
       <pubDate>Thu, 12 Mar 2026 11:02:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e64/live/1cccf440-5013-11f0-8c47-237c2e4015f5.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Woman found out she had terminal brain cancer after suitcase fell on her head]]></title>
+      <description><![CDATA[Lauren Macpherson was travelling home from a festival in London when her life changed forever.]]></description>
+      <link>https://www.bbc.com/news/articles/clygqnlpwero?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/clygqnlpwero</guid>
+      <pubDate>Fri, 13 Mar 2026 16:53:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d51d/live/ac5bb620-1e29-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
       <title><![CDATA[Woman with rare blood feels 'honoured' to donate]]></title>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg53xp5857o</guid>
       <pubDate>Tue, 24 Feb 2026 00:39:50 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c45e/live/807ee080-115f-11f1-801d-ed3cff6bf876.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[GPs to get £3,000 bonus to maximise  weight loss drug prescriptions]]></title>
-      <description><![CDATA[Bid to improve access to Mounjaro in England, but experts warn eligibility still tightly restricted.]]></description>
-      <link>https://www.bbc.com/news/articles/cddn399l4r9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cddn399l4r9o</guid>
-      <pubDate>Tue, 24 Feb 2026 01:04:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d478/live/b580a190-10e4-11f1-b4ca-a9a29eb10e90.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sunbed ads spreading harmful misinformation to young people]]></title>
