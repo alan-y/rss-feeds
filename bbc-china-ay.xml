@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 23:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 23:39:23 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Chinese retailer rivalling Amazon launches in UK]]></title>
+      <description><![CDATA[Joybuy, which has distribution centres in Luton and Milton Keynes, is entering six European markets.]]></description>
+      <link>https://www.bbc.com/news/articles/ceqv4r3nvy2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ceqv4r3nvy2o</guid>
+      <pubDate>Mon, 16 Mar 2026 13:29:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfb3/live/6cdb7fe0-212f-11f1-b297-95b0a0a8331e.jpg"/>
+    </item>
     <item>
       <title><![CDATA['Tigers and flies': Millions of officials later, why is Xi's corruption purge still going?]]></title>
       <description><![CDATA[Critics say Xi's purges reveal a ruthless drive for absolute loyalty and total control of the military.]]></description>
@@ -48,14 +56,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eec8/live/52db8a60-1dbd-11f1-ab60-99e4924fa43c.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Investing in people': Can China's new push to boost spending revive the economy?]]></title>
-      <description><![CDATA[Beijing has spent decades relying on exports and innovation but that model is now under strain. ]]></description>
-      <link>https://www.bbc.com/news/articles/c70n5xllp1do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c70n5xllp1do</guid>
-      <pubDate>Tue, 10 Mar 2026 23:33:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d39/live/1db20ce0-1c52-11f1-b80c-f108da4b048b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Bodies of two Chinese backpackers found in Australian floodwaters ]]></title>
       <description><![CDATA[The pair had been reported missing on Tuesday after failing to reach their destination.]]></description>
       <link>https://www.bbc.com/news/articles/c2k872k980po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -70,6 +70,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxz8v58xvyo</guid>
       <pubDate>Wed, 11 Mar 2026 03:10:29 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5468/live/eea03330-1ce9-11f1-a042-2b6c5451d7fd.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Investing in people': Can China's new push to boost spending revive the economy?]]></title>
+      <description><![CDATA[Beijing has spent decades relying on exports and innovation but that model is now under strain. ]]></description>
+      <link>https://www.bbc.com/news/articles/c70n5xllp1do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c70n5xllp1do</guid>
+      <pubDate>Tue, 10 Mar 2026 23:33:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d39/live/1db20ce0-1c52-11f1-b80c-f108da4b048b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why is China set to approve a new law promoting 'ethnic unity'?]]></title>
