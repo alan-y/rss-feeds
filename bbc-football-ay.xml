@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 22:32:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 23:01:16 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Tudor gets first Tottenham win but Spurs lose tie against Atletico Madrid]]></title>
+      <description><![CDATA[Tottenham beat Atletico Madrid 3-2 in the second leg of their last 16 tie in the Champions League, securing a first win for manager Igor Tudor but it's not enough to win the tie, as Atletico win 7-5 on aggregate to progress to the quarter finals. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cx2g49094m7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2g49094m7o</guid>
+      <pubDate>Wed, 18 Mar 2026 22:32:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/722a/live/5b7eb0a0-2319-11f1-b297-95b0a0a8331e.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Liverpool ease past Galatasaray to reach quarter-finals]]></title>
       <description><![CDATA[Liverpool beat Galatasaray 4-0 at Anfield to advance 4-1 on aggregate in the last 16 of the Champions League to set up a quarter-final tie against Paris Saint-Germain.]]></description>
@@ -24,12 +32,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17e3/live/87402030-2318-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Newcastle collapse at Nou Camp as Barcelona score seven]]></title>
-      <description><![CDATA[Newcastle undergo a second-half collapse at the Nou Camp as they lose 7-2 on the night and 8-3 on aggregate to Barcelona in the last 16 of the Champions League. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c0q3ykgy9wwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0q3ykgy9wwo</guid>
-      <pubDate>Wed, 18 Mar 2026 21:58:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66bd/live/b77c6420-2304-11f1-934f-036468834728.jpg"/>
+      <title><![CDATA[Is Premier League still on for fifth Champions League spot?]]></title>
+      <description><![CDATA[Could the Premier League get an extra place in the Champions League again? This is how it looks after the last 16.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy9yxw8dy9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy9yxw8dy9o</guid>
+      <pubDate>Wed, 18 Mar 2026 22:38:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb03/live/b14e5090-230e-11f1-adfb-71e745538879.jpg"/>
     </item>
     <item>
       <title><![CDATA[Senegal government alleges corruption after Morocco awarded Afcon title]]></title>
@@ -40,12 +48,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ad3/live/fdca7a50-22bb-11f1-9a45-07ac962dc928.jpg"/>
     </item>
     <item>
-      <title><![CDATA['The longest VAR check in history' - the fallout from shock Afcon decision ]]></title>
-      <description><![CDATA[BBC Sport journalists and pundits look at what happened at the chaotic Afcon final, and what comes next.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c89k911qkp5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c89k911qkp5o</guid>
-      <pubDate>Wed, 18 Mar 2026 15:41:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/587a/live/a0dd1e60-22ca-11f1-b72c-95dabe3e6755.jpg"/>
+      <title><![CDATA[Newcastle collapse at Nou Camp as Barcelona score seven]]></title>
+      <description><![CDATA[Newcastle undergo a second-half collapse at the Nou Camp as they lose 7-2 on the night and 8-3 on aggregate to Barcelona in the last 16 of the Champions League. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c0q3ykgy9wwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0q3ykgy9wwo</guid>
+      <pubDate>Wed, 18 Mar 2026 21:58:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66bd/live/b77c6420-2304-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA[Salah scores 50th Champions League goal with 'vintage' strike ]]></title>
@@ -54,6 +62,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cze0e2r3735o</guid>
       <pubDate>Wed, 18 Mar 2026 22:10:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0276/live/46139590-2315-11f1-b297-95b0a0a8331e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Kane scores twice as Bayern thrash Atalanta to reach quarter-finals]]></title>
+      <description><![CDATA[Harry Kane scores twice to reach 50 Champions League goals, as Bayern Munich beat Atalanta 4-1 in the second leg of their last 16 tie, winning 10-2 on aggregate and setting up a quarter-final against Real Madrid. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c5yjzn2003jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5yjzn2003jo</guid>
+      <pubDate>Wed, 18 Mar 2026 22:36:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abc4/live/29b7f6c0-231a-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
       <title><![CDATA[Real Madrid knock 10-man Man City out of Champions League]]></title>
@@ -72,20 +88,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af6a/live/28a8d4f0-224f-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Eze scores stunner as Arsenal ease past  Bayer Leverkusen ]]></title>
-      <description><![CDATA[Goals from Eberechi Eze and Declan Rice guide Arsenal to a 2-0 win against Bayer Leverkusen in the second leg of their last 16 tie, winning 3-1 on aggregate, to secure a place in the quarter-finals of the Champions League for a third successive season.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cp9mlg18j1do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cp9mlg18j1do</guid>
-      <pubDate>Wed, 18 Mar 2026 21:58:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f926/live/19fccf90-2251-11f1-934f-036468834728.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Kane reaches 50 Champions League goals with 'exceptional' strike against Atalanta]]></title>
-      <description><![CDATA[Watch as Bayern Munich's Harry Kane scores his 50th goal in the Champions League with an "exceptional" strike against Atalanta as the German side win the second leg 4-1, and progress to the quarter-finals 10-2 on aggregate.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cwy8y201zdjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwy8y201zdjo</guid>
-      <pubDate>Wed, 18 Mar 2026 21:58:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a96/live/976ce410-2314-11f1-a79a-77e93010d956.jpg"/>
+      <title><![CDATA['The longest VAR check in history' - the fallout from shock Afcon decision ]]></title>
+      <description><![CDATA[BBC Sport journalists and pundits look at what happened at the chaotic Afcon final, and what comes next.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c89k911qkp5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c89k911qkp5o</guid>
+      <pubDate>Wed, 18 Mar 2026 15:41:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/587a/live/a0dd1e60-22ca-11f1-b72c-95dabe3e6755.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chelsea punishment extremely lenient - ex-Blues executive Purslow]]></title>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy9g9nq9vxlo</guid>
       <pubDate>Wed, 18 Mar 2026 13:00:51 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/215a/live/f2199f70-22b0-11f1-8a6e-abb477324122.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Afcon final chaos - key questions answered]]></title>
-      <description><![CDATA[Our Ask Me Anything team look at why the 2025 Afcon final result has been overturned - and what it means.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd707yj9pgzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd707yj9pgzo</guid>
-      <pubDate>Wed, 18 Mar 2026 12:54:20 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/924c/live/3f99d5a0-22b4-11f1-a79a-77e93010d956.png"/>
     </item>
     <item>
       <title><![CDATA[Pepi set for medical at Fulham before £28.5m move]]></title>
@@ -126,6 +126,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr73792n03po</guid>
       <pubDate>Wed, 18 Mar 2026 07:45:28 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a763/live/4f3d86a0-22a0-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Afcon final chaos - key questions answered]]></title>
+      <description><![CDATA[Our Ask Me Anything team look at why the 2025 Afcon final result has been overturned - and what it means.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd707yj9pgzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd707yj9pgzo</guid>
+      <pubDate>Wed, 18 Mar 2026 12:54:20 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/924c/live/3f99d5a0-22b4-11f1-a79a-77e93010d956.png"/>
     </item>
     <item>
       <title><![CDATA[Why ex-Palace winger Olise is now in Ballon d'Or contention at Bayern]]></title>
@@ -170,14 +178,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38e6/live/6107c9e0-22c8-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Arsenal eye Bayern's Goretzka - Wednesday's gossip]]></title>
-      <description><![CDATA[Arsenal face competition for Bayern Munich's Leon Goretzka, AC Milan look at Republic of Ireland international Troy Parrott, while Brighton look to secure German international Said el Mala, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c20lq03g657o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20lq03g657o</guid>
-      <pubDate>Tue, 17 Mar 2026 23:48:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba60/live/f9bfb500-224e-11f1-934f-036468834728.png"/>
-    </item>
-    <item>
       <title><![CDATA[Fernandez uncertain over his Chelsea future]]></title>
       <description><![CDATA[Enzo Fernandez says he does not know whether he will remain at Chelsea next season following their Champions League exit.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c1kgkmenzn0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -192,6 +192,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy6zl35z0ro</guid>
       <pubDate>Wed, 18 Mar 2026 08:18:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483b/live/a12cbf00-1e2a-11f1-801d-ed3cff6bf876.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Eze scores stunner as Arsenal ease past  Bayer Leverkusen ]]></title>
+      <description><![CDATA[Goals from Eberechi Eze and Declan Rice guide Arsenal to a 2-0 win against Bayer Leverkusen in the second leg of their last 16 tie, winning 3-1 on aggregate, to secure a place in the quarter-finals of the Champions League for a third successive season.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cp9mlg18j1do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cp9mlg18j1do</guid>
+      <pubDate>Wed, 18 Mar 2026 21:58:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f926/live/19fccf90-2251-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Kane reaches 50 Champions League goals with 'exceptional' strike against Atalanta]]></title>
+      <description><![CDATA[Watch as Bayern Munich's Harry Kane scores his 50th goal in the Champions League with an "exceptional" strike against Atalanta as the German side win the second leg 4-1, and progress to the quarter-finals 10-2 on aggregate.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cwy8y201zdjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwy8y201zdjo</guid>
+      <pubDate>Wed, 18 Mar 2026 21:58:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a96/live/976ce410-2314-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
       <title><![CDATA[Five-star Sporting produce brilliant comeback to shock Bodo/Glimt  ]]></title>
@@ -216,22 +232,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ckg2g8l5ve8o</guid>
       <pubDate>Tue, 17 Mar 2026 23:23:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e832/live/d88ff180-2256-11f1-934f-036468834728.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['They've had no break' - Rosenior defends players after PSG defeat]]></title>
-      <description><![CDATA[Chelsea manager Liam Rosenior says his players have "had no break" but insists that is not an excuse as his side were knocked out of the Champions League by Paris St-Germain, with the defending champions winning the second leg of their last 16 tie 3-0 at Stamford Bridge, going through 8-2 on aggregate.  ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cgrzrwqwv7do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgrzrwqwv7do</guid>
-      <pubDate>Tue, 17 Mar 2026 23:13:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7972/live/04cc52e0-2255-11f1-a79a-77e93010d956.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wolves come back from two down to earn draw at Brentford]]></title>
-      <description><![CDATA[Tolu Arokodare scores shortly after coming on to earn Premier League bottom club Wolves a 2-2 draw at Brentford.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c3ewylx2plyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c3ewylx2plyo</guid>
-      <pubDate>Mon, 16 Mar 2026 22:25:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/393d/live/76471b80-2183-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rice 'The Horse' epitomises relentless Arsenal]]></title>
@@ -274,12 +274,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f358/live/3842ec00-221a-11f1-a7da-4b07d7d50798.jpg"/>
     </item>
     <item>
-      <title><![CDATA[England still on course for fifth Champions League spot]]></title>
-      <description><![CDATA[Could the Premier League get an extra place in the Champions League again? This is how it looks at the end of the league phase.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj0npqv9rylo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0npqv9rylo</guid>
-      <pubDate>Tue, 17 Mar 2026 23:36:18 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93c9/live/5b39a1a0-fc67-11f0-a7b3-13a56b7a31f4.jpg"/>
+      <title><![CDATA['They've had no break' - Rosenior defends players after PSG defeat]]></title>
+      <description><![CDATA[Chelsea manager Liam Rosenior says his players have "had no break" but insists that is not an excuse as his side were knocked out of the Champions League by Paris St-Germain, with the defending champions winning the second leg of their last 16 tie 3-0 at Stamford Bridge, going through 8-2 on aggregate.  ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cgrzrwqwv7do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgrzrwqwv7do</guid>
+      <pubDate>Tue, 17 Mar 2026 23:13:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7972/live/04cc52e0-2255-11f1-a79a-77e93010d956.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Wolves come back from two down to earn draw at Brentford]]></title>
+      <description><![CDATA[Tolu Arokodare scores shortly after coming on to earn Premier League bottom club Wolves a 2-2 draw at Brentford.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c3ewylx2plyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c3ewylx2plyo</guid>
+      <pubDate>Mon, 16 Mar 2026 22:25:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/393d/live/76471b80-2183-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chelsea fine 'meaningless if others aren't playing by same rules']]></title>
@@ -304,25 +312,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ckg2mzegd35o</guid>
       <pubDate>Mon, 16 Mar 2026 22:44:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b4f/live/1f7ea0d0-2187-11f1-b297-95b0a0a8331e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Richarlison's injury-time strike earns Spurs a point at Liverpool]]></title>
-      <description><![CDATA[Richarlison's 90th-minute equaliser earns Tottenham Hotspur a 1-1 draw at Liverpool to ease the pressure on interim coach Igor Tudor.
-
-
-]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cx2d386k82eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2d386k82eo</guid>
-      <pubDate>Sun, 15 Mar 2026 20:02:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/529d/live/36bad570-20a6-11f1-801d-ed3cff6bf876.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd stay third with win against lacklustre Villa ]]></title>
-      <description><![CDATA[Goals from Matheus Cunha and Benjamin Sesko help Manchester United fend off an attempted Aston Villa comeback, to win 3-1 at Old Trafford in the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c05vy4v98lyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c05vy4v98lyo</guid>
-      <pubDate>Sun, 15 Mar 2026 20:03:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea7/live/48d2c780-20a2-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
@@ -357,6 +346,25 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a0/live/a2c5a010-1309-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Richarlison's injury-time strike earns Spurs a point at Liverpool]]></title>
+      <description><![CDATA[Richarlison's 90th-minute equaliser earns Tottenham Hotspur a 1-1 draw at Liverpool to ease the pressure on interim coach Igor Tudor.
+
+
+]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cx2d386k82eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2d386k82eo</guid>
+      <pubDate>Sun, 15 Mar 2026 20:02:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/529d/live/36bad570-20a6-11f1-801d-ed3cff6bf876.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Man Utd stay third with win against lacklustre Villa ]]></title>
+      <description><![CDATA[Goals from Matheus Cunha and Benjamin Sesko help Manchester United fend off an attempted Aston Villa comeback, to win 3-1 at Old Trafford in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c05vy4v98lyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c05vy4v98lyo</guid>
+      <pubDate>Sun, 15 Mar 2026 20:03:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ea7/live/48d2c780-20a2-11f1-801d-ed3cff6bf876.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[James stars as Chelsea beat Man Utd in Women's League Cup final]]></title>
       <description><![CDATA[Lauren James gets on the scoresheet to put Chelsea on their way to a 2-0 win over Manchester United in the Women's League Cup Final at Ashton Gate.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cgml0d0xy4po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -379,22 +387,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn48r982v01o</guid>
       <pubDate>Sun, 15 Mar 2026 20:03:02 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdcb/live/c6db1280-20a3-11f1-b048-c9424b2cf5fd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Forest earn point against Fulham to move out of relegation zone]]></title>
-      <description><![CDATA[Nottingham Forest play out a goalless draw with Fulham at the City Ground to move out of the bottom three of the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cx2lw3lwvkzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx2lw3lwvkzo</guid>
-      <pubDate>Sun, 15 Mar 2026 20:02:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1fe/live/0d148fa0-20a5-11f1-9120-a910fc22c6ac.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Fernandes is a joy to watch - Rooney]]></title>
-      <description><![CDATA[Match of the Day pundit Wayne Rooney analyses Bruno Fernandes' crucial role in Manchester United's 3-1 win over Aston Villa at Old Trafford in the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cp32g3p5xvno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cp32g3p5xvno</guid>
-      <pubDate>Sun, 15 Mar 2026 23:49:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed63/live/193ddec0-20c4-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Chelsea signed a star team with hidden payments]]></title>
@@ -547,14 +539,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5nlvmy2rmo</guid>
       <pubDate>Tue, 17 Mar 2026 06:15:46 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ccd/live/e9dccc10-2139-11f1-939b-9fc757948eef.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Man United's Fletcher earns Scotland Under-21 call]]></title>
-      <description><![CDATA[Tyler Fletcher, son of former Scotland captain Darren, has been called up to the under-21 squad ahead of games against Czech Republic and Portugal.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz6eq5e5169o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz6eq5e5169o</guid>
-      <pubDate>Tue, 17 Mar 2026 13:06:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61ed/live/20643380-2203-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
       <title><![CDATA[Humble beginnings, Ronaldo & NBA - how Kvaratskhelia became a star]]></title>
