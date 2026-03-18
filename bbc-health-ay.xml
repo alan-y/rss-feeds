@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 16:40:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 17:41:42 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Why has this meningitis outbreak spread so fast?]]></title>
+      <description><![CDATA[There have been 20 cases since the weekend in one small area of Kent - but this isn't the normal pattern, so what could have happened?]]></description>
+      <link>https://www.bbc.com/news/articles/cqlglkprv0qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cqlglkprv0qo</guid>
+      <pubDate>Wed, 18 Mar 2026 16:34:33 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40be/live/a3ef0cc0-22df-11f1-9c64-25f36d76b36f.jpg"/>
+    </item>
     <item>
       <title><![CDATA[People don't need to buy a meningitis vaccine, Streeting says]]></title>
       <description><![CDATA[Vaccines are being offered to 5,000 students at the University of Kent, where there is a outbreak.]]></description>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cn4892wnv2zo</guid>
       <pubDate>Mon, 16 Mar 2026 00:35:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4390/live/634fe100-1f9a-11f1-925c-7976235b6684.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[One-off £2,000 grant gives care leavers head start, study finds]]></title>
-      <description><![CDATA[Participants were less likely to become homeless or spend time in hospital or prison, researchers say.]]></description>
-      <link>https://www.bbc.com/news/articles/cx24z8rvw1go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx24z8rvw1go</guid>
-      <pubDate>Mon, 16 Mar 2026 01:13:30 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8bb/live/5ae2e5d0-1e37-11f1-b7fb-092a0008fe58.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hundreds of GPs tell BBC they have never refused a fit note for mental health concerns]]></title>
