@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 09:09:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 10:13:28 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[Scotland is about to vote on assisted dying. How would it work?]]></title>
-      <description><![CDATA[The Scottish Parliament will soon decide whether to allow terminally-ill adults to end their lives.]]></description>
-      <link>https://www.bbc.com/news/articles/c8jg9kgz209o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8jg9kgz209o</guid>
-      <pubDate>Tue, 17 Mar 2026 10:17:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0975/live/a7043840-30b9-11f0-96c3-cf669419a2b0.jpg"/>
-    </item>
     <item>
       <title><![CDATA[Why is MenB vaccine not given to teenagers in UK and should they be offered it?]]></title>
       <description><![CDATA[Students and older teens have not been vaccinated against the strain that has caused the outbreak of cases in Kent. ]]></description>
@@ -30,6 +22,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rzg0vg947o</guid>
       <pubDate>Tue, 17 Mar 2026 14:49:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d3/live/04098770-21fa-11f1-9256-9b680459597d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Scotland's assisted dying bill rejected after emotional debate]]></title>
+      <description><![CDATA[Scotland would have become the first part of the UK to legalise the process had MSPs backed the proposals.]]></description>
+      <link>https://www.bbc.com/news/articles/c33j3nd1kvko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c33j3nd1kvko</guid>
+      <pubDate>Wed, 18 Mar 2026 00:04:34 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5eb/live/e568ce70-225d-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
       <title><![CDATA[What are the symptoms of meningitis and is there a vaccine?]]></title>

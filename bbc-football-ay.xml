@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 09:09:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 10:13:28 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -50,14 +50,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2869/live/cd015590-2254-11f1-b6d0-3bb01abdfc34.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Arsenal eye Bayern's Goretzka - Wednesday's gossip]]></title>
-      <description><![CDATA[Arsenal face competition for Bayern Munich's Leon Goretzka, AC Milan look at Republic of Ireland international Troy Parrott, while Brighton look to secure German international Said el Mala, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c20lq03g657o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20lq03g657o</guid>
-      <pubDate>Tue, 17 Mar 2026 23:48:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba60/live/f9bfb500-224e-11f1-934f-036468834728.png"/>
-    </item>
-    <item>
       <title><![CDATA[Have Liverpool lost 'chaotic' edge that made them so feared?]]></title>
       <description><![CDATA[BBC Sport's Umir Irfan looks at why Liverpool have struggled to replicate last season's title-winning form.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c93wr3nwk31o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -72,6 +64,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr73792n03po</guid>
       <pubDate>Wed, 18 Mar 2026 07:45:28 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a763/live/4f3d86a0-22a0-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Arsenal eye Bayern's Goretzka - Wednesday's gossip]]></title>
+      <description><![CDATA[Arsenal face competition for Bayern Munich's Leon Goretzka, AC Milan look at Republic of Ireland international Troy Parrott, while Brighton look to secure German international Said el Mala, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c20lq03g657o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20lq03g657o</guid>
+      <pubDate>Tue, 17 Mar 2026 23:48:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba60/live/f9bfb500-224e-11f1-934f-036468834728.png"/>
     </item>
     <item>
       <title><![CDATA[Bodo/Glimt's fairytale run comes to crashing halt]]></title>
@@ -130,6 +130,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d10e/live/3e676b70-2188-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why Bayern may have to play 16-year-old in goal]]></title>
+      <description><![CDATA[Bayern Munich may hand 16-year-old goalkeeper Leonard Prescott his first-team debut in the Champions League on Wednesday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c75e5nzvvv4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c75e5nzvvv4o</guid>
+      <pubDate>Tue, 17 Mar 2026 17:38:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/785e/live/d03c9d80-221f-11f1-ba1b-c11f35d24abc.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Real Madrid defeat leaves Man City with season-defining run]]></title>
       <description><![CDATA[Manchester City's season stands on the brink following a demoralising Champions League exit at the hands of familiar foes Real Madrid.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3636e11y2yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -162,12 +170,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/090a/live/87042620-21fb-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Why Bayern may have to play 16-year-old in goal]]></title>
-      <description><![CDATA[Bayern Munich may hand 16-year-old goalkeeper Leonard Prescott his first-team debut in the Champions League on Wednesday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c75e5nzvvv4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c75e5nzvvv4o</guid>
-      <pubDate>Tue, 17 Mar 2026 17:38:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/785e/live/d03c9d80-221f-11f1-ba1b-c11f35d24abc.jpg"/>
+      <title><![CDATA[Why does Galatasaray's Osimhen wear a mask?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team explains why Victor Osimhen wears a protective mask after suffering a facial injury five years ago.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cyv9lmz0gq0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv9lmz0gq0o</guid>
+      <pubDate>Wed, 18 Mar 2026 09:38:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b100/live/fa1d9f30-1d3a-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA[Nonsense to say Spurs players don't care - Van de Ven]]></title>
@@ -208,14 +216,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gen28n9e4o</guid>
       <pubDate>Tue, 17 Mar 2026 12:00:27 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65e2/live/b2aced90-214a-11f1-b297-95b0a0a8331e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wales leave captain Ramsey out of World Cup play-off squad]]></title>
-      <description><![CDATA[Captain Aaron Ramsey is left out of the Wales squad for this month's World Cup play-offs, casting further doubt over his future.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwyk0znkdz5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyk0znkdz5o</guid>
-      <pubDate>Tue, 17 Mar 2026 10:30:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e1/live/74abee30-21e8-11f1-a42b-a3f1101f2a6d.jpg"/>
     </item>
     <item>
       <title><![CDATA[If we got away with it we'll take it - Wolves' Edwards]]></title>
@@ -261,6 +261,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab6f/live/3216e5e0-2114-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Wales leave captain Ramsey out of World Cup play-off squad]]></title>
+      <description><![CDATA[Captain Aaron Ramsey is left out of the Wales squad for this month's World Cup play-offs, casting further doubt over his future.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwyk0znkdz5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyk0znkdz5o</guid>
+      <pubDate>Tue, 17 Mar 2026 10:30:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e1/live/74abee30-21e8-11f1-a42b-a3f1101f2a6d.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
       <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvg82rvmgl1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -299,14 +307,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9g12yl111o</guid>
       <pubDate>Tue, 17 Mar 2026 06:11:34 GMT</pubDate>
       <media:thumbnail width="240" height="131" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b39/live/a3500fc0-2141-11f1-934f-036468834728.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Thiago and Rayan receive first Brazil call-ups]]></title>
-      <description><![CDATA[Brentford striker Igor Thiago and Bournemouth winger Rayan receive first call-ups to the Brazil squad for their friendlies with France and Croatia later this month.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8eg0y22w2ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8eg0y22w2ro</guid>
-      <pubDate>Mon, 16 Mar 2026 23:07:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79fc/live/68748730-217a-11f1-a79a-77e93010d956.png"/>
     </item>
     <item>
       <title><![CDATA[Ten-man Leeds earn point at Palace after Calvert-Lewin penalty miss]]></title>
@@ -363,6 +363,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyg15yledeo</guid>
       <pubDate>Tue, 17 Mar 2026 09:59:59 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a0/live/a2c5a010-1309-11f1-801d-ed3cff6bf876.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Thiago and Rayan receive first Brazil call-ups]]></title>
+      <description><![CDATA[Brentford striker Igor Thiago and Bournemouth winger Rayan receive first call-ups to the Brazil squad for their friendlies with France and Croatia later this month.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8eg0y22w2ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8eg0y22w2ro</guid>
+      <pubDate>Mon, 16 Mar 2026 23:07:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79fc/live/68748730-217a-11f1-a79a-77e93010d956.png"/>
     </item>
     <item>
       <title><![CDATA[Falkirk apologise to Dundee United for Sibbald scarf picture]]></title>
