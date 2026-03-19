@@ -10,17 +10,25 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 14:45:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 15:54:00 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
+      <title><![CDATA[Patients harmed as Covid pandemic brought NHS close to collapse, inquiry finds]]></title>
+      <description><![CDATA[Third report into the pandemic says patients and staff were failed as health service only just coped.]]></description>
+      <link>https://www.bbc.com/news/articles/ce8ldyy10z7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8ldyy10z7o</guid>
+      <pubDate>Thu, 19 Mar 2026 14:38:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7bc/live/97233d30-239e-11f1-b790-6d42cdb7b9c3.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Stay at home advice questioned and rules too tough - key findings from Covid report]]></title>
       <description><![CDATA[An NHS close to collapse, patients failed and NHS staff put at risk - what you need to know.]]></description>
       <link>https://www.bbc.com/news/articles/c87wg0lvnxjo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c87wg0lvnxjo</guid>
-      <pubDate>Thu, 19 Mar 2026 14:02:44 GMT</pubDate>
+      <pubDate>Thu, 19 Mar 2026 15:00:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4828/live/057c0ba0-2399-11f1-b790-6d42cdb7b9c3.jpg"/>
     </item>
     <item>
@@ -32,14 +40,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2804/live/dc039100-22f1-11f1-a60b-b951e22b29eb.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Why has this meningitis outbreak spread so fast?]]></title>
-      <description><![CDATA[There have been 20 cases since the weekend in one small area of Kent - but this isn't the normal pattern, so what could have happened?]]></description>
-      <link>https://www.bbc.com/news/articles/cqlglkprv0qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cqlglkprv0qo</guid>
-      <pubDate>Wed, 18 Mar 2026 16:34:33 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40be/live/a3ef0cc0-22df-11f1-9c64-25f36d76b36f.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Better NHS care might have saved 58 babies, BBC finds]]></title>
       <description><![CDATA[There are growing calls for a statutory public inquiry into maternity services in Oxford.]]></description>
       <link>https://www.bbc.com/news/articles/cz9qq8d7l1ko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -48,20 +48,28 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ccd/live/d219c360-b62e-11f0-8c22-1dd3bd1762ee.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What are the symptoms of meningitis and how is it spread?]]></title>
-      <description><![CDATA[Two people have died following an "unpredecented" outbreak of meningitis in Kent. ]]></description>
-      <link>https://www.bbc.com/news/articles/c7432klgyldo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c7432klgyldo</guid>
-      <pubDate>Thu, 19 Mar 2026 09:44:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b66e/live/35af95b0-22c4-11f1-934f-036468834728.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Scotland's assisted dying bill rejected after emotional debate]]></title>
       <description><![CDATA[Scotland would have become the first part of the UK to legalise the process had MSPs backed the proposals.]]></description>
       <link>https://www.bbc.com/news/articles/c33j3nd1kvko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c33j3nd1kvko</guid>
       <pubDate>Wed, 18 Mar 2026 00:04:34 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5eb/live/e568ce70-225d-11f1-a79a-77e93010d956.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What are the symptoms of meningitis and how is it spread?]]></title>
+      <description><![CDATA[Two people have died following an "unpredecented" outbreak of meningitis in Kent. ]]></description>
+      <link>https://www.bbc.com/news/articles/c7432klgyldo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c7432klgyldo</guid>
+      <pubDate>Thu, 19 Mar 2026 15:15:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b66e/live/35af95b0-22c4-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Why has this meningitis outbreak spread so fast?]]></title>
+      <description><![CDATA[There have been 20 cases since the weekend in one small area of Kent - but this isn't the normal pattern, so what could have happened?]]></description>
+      <link>https://www.bbc.com/news/articles/cqlglkprv0qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cqlglkprv0qo</guid>
+      <pubDate>Wed, 18 Mar 2026 16:34:33 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40be/live/a3ef0cc0-22df-11f1-9c64-25f36d76b36f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Judge blocks RFK Jr's changes to US childhood vaccine schedule]]></title>
@@ -208,19 +216,11 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e17/live/291802d0-17cd-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
-      <title><![CDATA[BBC investigation finds 50,000 people waited over 24 hours in A&E corridor care]]></title>
-      <description><![CDATA[Known as "corridor care", patients are lining up on trolleys or sitting on chairs due to a lack of beds.]]></description>
-      <link>https://www.bbc.com/news/articles/cy8lvjn66zxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy8lvjn66zxo</guid>
-      <pubDate>Mon, 02 Mar 2026 06:27:59 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/918d/live/a1ca59a0-13d9-11f1-91d0-352863d13d72.png"/>
-    </item>
-    <item>
       <title><![CDATA[Why is MenB vaccine not given to teenagers in UK and should they be offered it?]]></title>
-      <description><![CDATA[Students and older teens have not been vaccinated against the meningitis strain behind the Kent outbreak.]]></description>
+      <description><![CDATA[Students and older teens are not routinely vaccinated against the meningitis strain behind the Kent outbreak.]]></description>
       <link>https://www.bbc.com/news/articles/c3rzg0vg947o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rzg0vg947o</guid>
-      <pubDate>Thu, 19 Mar 2026 09:57:24 GMT</pubDate>
+      <pubDate>Thu, 19 Mar 2026 15:12:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d3/live/04098770-21fa-11f1-9256-9b680459597d.jpg"/>
     </item>
     <item>
@@ -352,19 +352,11 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c45b/live/fcf8f090-002c-11f1-a8b8-bdd2c5f9bcad.png"/>
     </item>
     <item>
-      <title><![CDATA[Patients harmed as Covid pandemic brought NHS close to collapse, inquiry finds]]></title>
-      <description><![CDATA[Third report into the pandemic says patients and staff were failed as health service only just coped.]]></description>
-      <link>https://www.bbc.com/news/articles/ce8ldyy10z7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8ldyy10z7o</guid>
-      <pubDate>Thu, 19 Mar 2026 14:38:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7bc/live/97233d30-239e-11f1-b790-6d42cdb7b9c3.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[What is the UK Covid inquiry and how does it work?]]></title>
       <description><![CDATA[The third report from the inquiry into the government's handling of the pandemic says the NHS was close to collapse.]]></description>
       <link>https://www.bbc.com/news/articles/cdr3kx6xmp5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cdr3kx6xmp5o</guid>
-      <pubDate>Thu, 19 Mar 2026 12:14:31 GMT</pubDate>
+      <pubDate>Thu, 19 Mar 2026 15:53:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bda/live/d088bf20-5723-11f0-82f9-ffcaa67a8d94.jpg"/>
     </item>
     <item>
