@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 20:36:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 21:08:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -88,22 +88,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c3/live/2f174e90-2392-11f1-9ab7-93c12e0817f9.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Denounce 'abject' Afcon decision - senior Caf member]]></title>
-      <description><![CDATA[Caf executive committee member Augustin Senghor says the decision to strip Senegal of the 2025 Afcon title is "unacceptable, abject and we have to denounce it".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckg1gg5pgl7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg1gg5pgl7o</guid>
-      <pubDate>Thu, 19 Mar 2026 17:12:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d31/live/2faac6b0-236b-11f1-b297-95b0a0a8331e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The 15-year-old Man Utd prodigy still too young to play senior football]]></title>
-      <description><![CDATA[At 15, Manchester United's JJ Gabriel is too young to play in the Premier League but he is already showing clear signs he is a huge talent.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckg8gp88m8xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg8gp88m8xo</guid>
-      <pubDate>Thu, 19 Mar 2026 07:49:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bf3/live/2c6706a0-2319-11f1-934f-036468834728.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Liverpool cruise past Galatasaray to reach quarter-finals]]></title>
       <description><![CDATA[Liverpool beat Galatasaray 4-0 at Anfield to advance 4-1 on aggregate in the last 16 of the Champions League to set up a quarter-final against Paris St-Germain.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c1mjy4z8v9ro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -142,6 +126,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/videos/c5yw88dn1yyo</guid>
       <pubDate>Thu, 19 Mar 2026 11:40:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb32/live/a83d53d0-2385-11f1-a79a-77e93010d956.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[The 15-year-old Man Utd prodigy still too young to play senior football]]></title>
+      <description><![CDATA[At 15, Manchester United's JJ Gabriel is too young to play in the Premier League but he is already showing clear signs he is a huge talent.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckg8gp88m8xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg8gp88m8xo</guid>
+      <pubDate>Thu, 19 Mar 2026 07:49:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bf3/live/2c6706a0-2319-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Denounce 'abject' Afcon decision - senior Caf member]]></title>
+      <description><![CDATA[Caf executive committee member Augustin Senghor says the decision to strip Senegal of the 2025 Afcon title is "unacceptable, abject and we have to denounce it".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckg1gg5pgl7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg1gg5pgl7o</guid>
+      <pubDate>Thu, 19 Mar 2026 17:12:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d31/live/2faac6b0-236b-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Haaland invests in new global chess tour]]></title>
@@ -200,14 +200,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7f6/live/2f22d900-231e-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
-      <title><![CDATA['One of a kind' Messi hits 900 career goals - numbers behind milestone]]></title>
-      <description><![CDATA[After Lionel Messi scored his 900th career goal on Wednesday, BBC Sport looks at the numbers behind the "insane" achievement.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0rj25g225ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0rj25g225ro</guid>
-      <pubDate>Wed, 18 Mar 2026 23:47:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dee/live/599acfd0-23a5-11f1-9699-87c229cb26a0.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Slot needed a performance - and Liverpool delivered one]]></title>
       <description><![CDATA[Despite a difficult domestic campaign, Liverpool produce one of their best displays of the season against Galatasaray in the Champions League.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c99j92p8n5ro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -238,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpv8gxrpwgyo</guid>
       <pubDate>Thu, 19 Mar 2026 09:50:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe9c/live/28415cf0-2054-11f1-801d-ed3cff6bf876.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Lang's surgery for thumb injury 'went well']]></title>
-      <description><![CDATA[Galatasaray midfielder Noa Lang is set to have surgery in Liverpool after suffering a "serious cut" at Anfield.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c7vjvv119d0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7vjvv119d0o</guid>
-      <pubDate>Thu, 19 Mar 2026 11:00:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8055/live/7fe0bf50-2374-11f1-8f74-5f782ec9b448.jpg"/>
     </item>
     <item>
       <title><![CDATA[Salah scores 50th Champions League goal with 'vintage' strike ]]></title>
@@ -288,6 +272,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87dc/live/a6635790-2320-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
+      <title><![CDATA['One of a kind' Messi hits 900 career goals - numbers behind milestone]]></title>
+      <description><![CDATA[After Lionel Messi scored his 900th career goal on Wednesday, BBC Sport looks at the numbers behind the "insane" achievement.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0rj25g225ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0rj25g225ro</guid>
+      <pubDate>Wed, 18 Mar 2026 23:47:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dee/live/599acfd0-23a5-11f1-9699-87c229cb26a0.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Lang's surgery for thumb injury 'went well']]></title>
+      <description><![CDATA[Galatasaray midfielder Noa Lang is set to have surgery in Liverpool after suffering a "serious cut" at Anfield.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c7vjvv119d0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7vjvv119d0o</guid>
+      <pubDate>Thu, 19 Mar 2026 11:00:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8055/live/7fe0bf50-2374-11f1-8f74-5f782ec9b448.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Is Premier League still on for fifth Champions League spot?]]></title>
       <description><![CDATA[Could the Premier League get an extra place in the Champions League again? This is how it looks after the last 16.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwy9yxw8dy9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -310,14 +310,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm21274xn43o</guid>
       <pubDate>Thu, 19 Mar 2026 08:13:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87c0/live/976545c0-22ce-11f1-b72c-95dabe3e6755.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Senegal government alleges corruption over Afcon]]></title>
-      <description><![CDATA[The Senegalese government calls for an "independent international investigation" at the Confederation of African Football after it stripped Senegal of the Africa Cup of Nations title.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwygyq495j8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwygyq495j8o</guid>
-      <pubDate>Wed, 18 Mar 2026 18:50:11 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ad3/live/fdca7a50-22bb-11f1-9a45-07ac962dc928.jpg"/>
     </item>
     <item>
       <title><![CDATA[Real Madrid knock 10-man Man City out of Champions League]]></title>
@@ -360,6 +352,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dc8/live/ba7742c0-2242-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Senegal government alleges corruption over Afcon]]></title>
+      <description><![CDATA[The Senegalese government calls for an "independent international investigation" at the Confederation of African Football after it stripped Senegal of the Africa Cup of Nations title.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwygyq495j8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwygyq495j8o</guid>
+      <pubDate>Wed, 18 Mar 2026 18:50:11 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ad3/live/fdca7a50-22bb-11f1-9a45-07ac962dc928.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Chelsea punishment 'lenient' - ex-Blues exec Purslow]]></title>
       <description><![CDATA[Former Aston Villa chief executive Christian Purslow says Premier League has been "extremely lenient" in its punishment of Chelsea.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy9g9nq9vxlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -382,14 +382,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czr0r4n5zjpo</guid>
       <pubDate>Wed, 18 Mar 2026 16:48:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70e7/live/68d7ed80-22e6-11f1-9c64-25f36d76b36f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Celtic's Schmeichel 'could've played last game']]></title>
-      <description><![CDATA[Celtic goalkeeper Kasper Schmeichel may have played his "last football game" with surgery required on his shoulder but he is eager to "fight" to regain fitness.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cr73792n03po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr73792n03po</guid>
-      <pubDate>Wed, 18 Mar 2026 07:45:28 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a763/live/4f3d86a0-22a0-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man Utd held to goalless draw at West Ham]]></title>
