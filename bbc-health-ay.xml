@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 13:44:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 14:45:35 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Stay at home advice questioned and rules too tough - key findings from Covid report]]></title>
+      <description><![CDATA[An NHS close to collapse, patients failed and NHS staff put at risk - what you need to know.]]></description>
+      <link>https://www.bbc.com/news/articles/c87wg0lvnxjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c87wg0lvnxjo</guid>
+      <pubDate>Thu, 19 Mar 2026 14:02:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4828/live/057c0ba0-2399-11f1-b790-6d42cdb7b9c3.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Health bosses can't confirm meningitis outbreak contained]]></title>
       <description><![CDATA[Health workers across England are urged to look out for signs of infection as thousands have jabs.]]></description>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cz9qq8d7l1ko</guid>
       <pubDate>Thu, 19 Mar 2026 07:47:55 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ccd/live/d219c360-b62e-11f0-8c22-1dd3bd1762ee.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[People don't need to buy a meningitis vaccine, Streeting says]]></title>
-      <description><![CDATA[Vaccines are being offered to 5,000 students at the University of Kent, where there is a outbreak.]]></description>
-      <link>https://www.bbc.com/news/articles/cy9g98g9eexo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy9g98g9eexo</guid>
-      <pubDate>Wed, 18 Mar 2026 14:10:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08f0/live/e7dfa090-22ba-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA[What are the symptoms of meningitis and how is it spread?]]></title>
@@ -352,6 +352,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c45b/live/fcf8f090-002c-11f1-a8b8-bdd2c5f9bcad.png"/>
     </item>
     <item>
+      <title><![CDATA[Patients harmed as Covid pandemic brought NHS close to collapse, inquiry finds]]></title>
+      <description><![CDATA[Third report into the pandemic says patients and staff were failed as health service only just coped.]]></description>
+      <link>https://www.bbc.com/news/articles/ce8ldyy10z7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8ldyy10z7o</guid>
+      <pubDate>Thu, 19 Mar 2026 14:38:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7bc/live/97233d30-239e-11f1-b790-6d42cdb7b9c3.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[What is the UK Covid inquiry and how does it work?]]></title>
       <description><![CDATA[The third report from the inquiry into the government's handling of the pandemic says the NHS was close to collapse.]]></description>
       <link>https://www.bbc.com/news/articles/cdr3kx6xmp5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -374,22 +382,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c98qq8y6235o</guid>
       <pubDate>Thu, 05 Mar 2026 17:04:55 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bced/live/6b8bb060-18b5-11f1-97ba-493bedc7637b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Firm assessing Covid vaccine harm replaced after costs spiral to £48m]]></title>
-      <description><![CDATA[The figure paid to Crawford & Company Adjusters is eight times the original estimate for the work.]]></description>
-      <link>https://www.bbc.com/news/articles/c5yrvyv4zlzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yrvyv4zlzo</guid>
-      <pubDate>Wed, 18 Feb 2026 05:55:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1126/live/e1999d80-0b31-11f1-9972-d3f265c101c6.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Furlough not perfect but prevented mass unemployment, Sunak says]]></title>
-      <description><![CDATA[The former PM, who was chancellor during the crisis, says there was no "playbook" of how to respond to the pandemic.]]></description>
-      <link>https://www.bbc.com/news/articles/c709n49lx9yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c709n49lx9yo</guid>
-      <pubDate>Mon, 15 Dec 2025 17:06:00 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52aa/live/46d88450-d9b8-11f0-b051-c9966e31459d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why are resident doctors striking and how much are they paid?]]></title>
