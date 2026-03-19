@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 10:23:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 11:21:30 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -32,22 +32,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d31/live/2faac6b0-236b-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Slot needed a performance - and Liverpool delivered one]]></title>
-      <description><![CDATA[Despite a difficult domestic campaign, Liverpool produce one of their best displays of the season against Galatasaray in the Champions League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c99j92p8n5ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c99j92p8n5ro</guid>
-      <pubDate>Thu, 19 Mar 2026 00:12:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f3/live/2890d050-2324-11f1-934f-036468834728.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Credit to Tudor - is he turning around Spurs side who looked lost?]]></title>
-      <description><![CDATA[Tottenham can take encouragement in their battle for Premier League survival despite a Champions League exit, writes Phil McNulty.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5y5y8nxl7xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y5y8nxl7xo</guid>
-      <pubDate>Wed, 18 Mar 2026 23:42:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0578/live/99c66370-231f-11f1-b297-95b0a0a8331e.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Who will be England's World Cup number 10? Tuchel's selection dilemmas]]></title>
       <description><![CDATA[The England squad Thomas Tuchel names on Friday will give a big hint about who will be on the plane to the World Cup - so what are the issues he still needs to resolve?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj989ywnwygo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -62,6 +46,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg8gp88m8xo</guid>
       <pubDate>Thu, 19 Mar 2026 07:49:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bf3/live/2c6706a0-2319-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Slot needed a performance - and Liverpool delivered one]]></title>
+      <description><![CDATA[Despite a difficult domestic campaign, Liverpool produce one of their best displays of the season against Galatasaray in the Champions League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c99j92p8n5ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c99j92p8n5ro</guid>
+      <pubDate>Thu, 19 Mar 2026 00:12:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f3/live/2890d050-2324-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Credit to Tudor - is he turning around Spurs side who looked lost?]]></title>
+      <description><![CDATA[Tottenham can take encouragement in their battle for Premier League survival despite a Champions League exit, writes Phil McNulty.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5y5y8nxl7xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y5y8nxl7xo</guid>
+      <pubDate>Wed, 18 Mar 2026 23:42:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0578/live/99c66370-231f-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Liverpool ease past Galatasaray to reach quarter-finals]]></title>
@@ -152,11 +152,11 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bb4/live/f7c1d630-231f-11f1-934f-036468834728.png"/>
     </item>
     <item>
-      <title><![CDATA[Lang to have surgery in Liverpool for 'serious' thumb injury]]></title>
+      <title><![CDATA[Lang's surgery for thumb injury 'went well']]></title>
       <description><![CDATA[Galatasaray midfielder Noa Lang is set to have surgery in Liverpool after suffering a "serious cut" at Anfield.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c7vjvv119d0o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7vjvv119d0o</guid>
-      <pubDate>Thu, 19 Mar 2026 09:40:50 GMT</pubDate>
+      <pubDate>Thu, 19 Mar 2026 11:00:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8055/live/7fe0bf50-2374-11f1-8f74-5f782ec9b448.jpg"/>
     </item>
     <item>
