@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 15:09:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 16:00:28 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -22,6 +22,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2reyjdyjzo</guid>
       <pubDate>Fri, 20 Mar 2026 11:57:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3279/live/1315bbc0-2449-11f1-8350-0b57c2d91bf3.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Publisher cancels horror novel's release over AI claims]]></title>
+      <description><![CDATA[Author Mia Ballard denies having used AI herself when writing the horror story Shy Girl.]]></description>
+      <link>https://www.bbc.com/news/articles/c5y9d44jj24o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y9d44jj24o</guid>
+      <pubDate>Fri, 20 Mar 2026 15:30:58 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/341790a0-2471-11f1-b187-ed35b97acec8.jpg"/>
     </item>
     <item>
       <title><![CDATA[False online posts fuel self-diagnosis, says study]]></title>
@@ -56,20 +64,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25ef/live/bb290ee0-22f8-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Amazon's Alexa has had an AI upgrade. Now she's got more to say]]></title>
-      <description><![CDATA[There has been criticism the Echo has stagnated, while other AI chatbots have become much easier to communicate with.]]></description>
-      <link>https://www.bbc.com/news/articles/c3ewe7v7gpgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3ewe7v7gpgo</guid>
-      <pubDate>Thu, 19 Mar 2026 05:55:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c0/live/7208ab00-22e2-11f1-b297-95b0a0a8331e.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Government backtracks on AI and copyright after outcry from major artists]]></title>
       <description><![CDATA[However, the government's position is now unclear, saying it "no longer has a preferred option" for what to do next.]]></description>
       <link>https://www.bbc.com/news/articles/cvg1gr5v333o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg1gr5v333o</guid>
       <pubDate>Wed, 18 Mar 2026 13:24:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/697e/live/7e30d890-22c8-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Amazon's Alexa has had an AI upgrade. Now she's got more to say]]></title>
+      <description><![CDATA[There has been criticism the Echo has stagnated, while other AI chatbots have become much easier to communicate with.]]></description>
+      <link>https://www.bbc.com/news/articles/c3ewe7v7gpgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3ewe7v7gpgo</guid>
+      <pubDate>Thu, 19 Mar 2026 05:55:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c0/live/7208ab00-22e2-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Quantum pioneers win Turing Award for encryption breakthrough]]></title>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c74721xyd1wo</guid>
       <pubDate>Tue, 17 Mar 2026 00:08:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42cd/live/06b29cc0-215d-11f1-b539-43e5d7f861d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Teens sue Musk's xAI over Grok's pornographic images of them]]></title>
-      <description><![CDATA[Musk's AI chatbot has created millions of fake sexualised images, experts say.]]></description>
-      <link>https://www.bbc.com/news/articles/cgk2lzmm22eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cgk2lzmm22eo</guid>
-      <pubDate>Mon, 16 Mar 2026 21:06:51 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/634d/live/9564f750-216d-11f1-acd4-19401d702267.jpg"/>
     </item>
   </channel>
 </rss>
