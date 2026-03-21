@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 21 Mar 2026 19:40:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 20:25:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -57,6 +57,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3727/live/b00ff610-2530-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Kane & Olise score as Bayern beat Union Berlin]]></title>
+      <description><![CDATA[Bayern Munich put four past Union Berlin, including a goal from Harry Kane that moves him within 10 of the Bundesliga single-season goals record.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c15d3ll2yd9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c15d3ll2yd9o</guid>
+      <pubDate>Sat, 21 Mar 2026 20:07:47 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23ff/live/40ce5c30-2560-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Kelly scores twice as Arsenal thrash West Ham]]></title>
       <description><![CDATA[Watch highlights as Chloe Kelly scores twice as Arsenal beat West Ham 5-0 in the Women's Super League at Emirates Stadium.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cp86lvqr54mo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -79,14 +87,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/crm123703kwo</guid>
       <pubDate>Sat, 21 Mar 2026 19:25:06 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63a8/live/fdccd330-254b-11f1-b297-95b0a0a8331e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Late London City equaliser ends Chelsea's winning run]]></title>
-      <description><![CDATA[Isobel Goodwin scores a late equaliser for London City Lionesses and ends Chelsea's five-game winning run.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cn8djvyq7dyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn8djvyq7dyo</guid>
-      <pubDate>Sat, 21 Mar 2026 18:18:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dc4/live/59f9d0e0-2533-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
       <title><![CDATA[Officiating getting worse because of VAR - Shearer]]></title>
@@ -113,12 +113,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/158a/live/fae2ab50-2379-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Man Utd to make formal complaint over 'astonishing' penalty decisions]]></title>
-      <description><![CDATA[Manchester United are left furious over "astonishing" refereeing decisions as two penalties were given  and one was not in their draw at Bournemouth.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwyd7rklyeyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyd7rklyeyo</guid>
-      <pubDate>Sat, 21 Mar 2026 12:05:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005b/live/6ff6f760-24b6-11f1-934f-036468834728.jpg"/>
+      <title><![CDATA[Late London City equaliser ends Chelsea's winning run]]></title>
+      <description><![CDATA[Isobel Goodwin scores a late equaliser for London City Lionesses and ends Chelsea's five-game winning run.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cn8djvyq7dyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn8djvyq7dyo</guid>
+      <pubDate>Sat, 21 Mar 2026 18:18:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dc4/live/59f9d0e0-2533-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
       <title><![CDATA[Welbeck is irreplaceable for Brighton - Hurzeler]]></title>
@@ -153,12 +153,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b49f/live/5a351d70-22c8-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
-      <title><![CDATA['It was chaos' - referee frustrates Carrick as Bournemouth hold Man Utd]]></title>
-      <description><![CDATA[Manchester United manager Michael Carrick was left frustrated by what he considered to be inconsistent refereeing decisions during his side's 2-2 draw at Bournemouth. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cn4393ex2kzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn4393ex2kzo</guid>
-      <pubDate>Fri, 20 Mar 2026 23:35:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d244/live/c5f95530-24ad-11f1-934f-036468834728.jpg"/>
+      <title><![CDATA[Man Utd to make formal complaint over 'astonishing' penalty decisions]]></title>
+      <description><![CDATA[Manchester United are left furious over "astonishing" refereeing decisions as two penalties were given  and one was not in their draw at Bournemouth.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwyd7rklyeyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyd7rklyeyo</guid>
+      <pubDate>Sat, 21 Mar 2026 12:05:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005b/live/6ff6f760-24b6-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA[Swansea criticise TV coverage of loss to Wrexham with rivals' owners as co-commentators]]></title>
@@ -193,12 +193,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ed4/live/a7c776f0-248a-11f1-934f-036468834728.png"/>
     </item>
     <item>
-      <title><![CDATA[One final experiment? Unpicking Tuchel's latest England squad]]></title>
-      <description><![CDATA[Thomas Tuchel's expanded England squad offers hope to forgotten men but shows problems before the World Cup, writes Phil McNulty.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyrnrgp6k6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyrnrgp6k6o</guid>
-      <pubDate>Fri, 20 Mar 2026 14:52:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7fa/live/64855090-2478-11f1-9ac5-2fb77b4b4b71.jpg"/>
+      <title><![CDATA['It was chaos' - referee frustrates Carrick as Bournemouth hold Man Utd]]></title>
+      <description><![CDATA[Manchester United manager Michael Carrick was left frustrated by what he considered to be inconsistent refereeing decisions during his side's 2-2 draw at Bournemouth. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cn4393ex2kzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn4393ex2kzo</guid>
+      <pubDate>Fri, 20 Mar 2026 23:35:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d244/live/c5f95530-24ad-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA['There isn't much to discuss' - Iraola unfazed by penalty decisions]]></title>
@@ -233,12 +233,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb7/live/af0d6ec0-23b2-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
-      <title><![CDATA[History made as Messi hits 900 goals ]]></title>
-      <description><![CDATA[Lionel Messi's scores his 900th goal in Inter Miami's match against Nashville SC in the Concacaf Champions Cup. The 38-year-old joins Cristiano Ronaldo in reaching the milestone. Watch some of his greatest World Cup goals.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cn0z00ved8jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn0z00ved8jo</guid>
-      <pubDate>Thu, 19 Mar 2026 09:26:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a1/live/4e037030-2375-11f1-a79a-77e93010d956.jpg"/>
+      <title><![CDATA[One final experiment? Unpicking Tuchel's latest England squad]]></title>
+      <description><![CDATA[Thomas Tuchel's expanded England squad offers hope to forgotten men but shows problems before the World Cup, writes Phil McNulty.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clyrnrgp6k6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyrnrgp6k6o</guid>
+      <pubDate>Fri, 20 Mar 2026 14:52:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7fa/live/64855090-2478-11f1-9ac5-2fb77b4b4b71.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man City's Trafford to start final but Arteta opts not to name Arsenal keeper]]></title>
@@ -247,14 +247,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz0e7j5kj5vo</guid>
       <pubDate>Fri, 20 Mar 2026 18:20:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1764/live/63ff1320-2484-11f1-a673-e3b236a15253.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[No contact, no World Cup place? What went wrong for Alexander-Arnold?]]></title>
-      <description><![CDATA[Trent Alexander-Arnold's omission from Thomas Tuchel's biggest England squad is the latest blow to his stop-start international career and casts huge doubt on his hopes of playing at the World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c75knk1gzvgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c75knk1gzvgo</guid>
-      <pubDate>Fri, 20 Mar 2026 15:35:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb47/live/51cbf7c0-2463-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA[Belief, youth and defence - will NI cause Italy upset?]]></title>
@@ -271,6 +263,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gxl0nwrnpo</guid>
       <pubDate>Sat, 21 Mar 2026 13:58:54 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fb/live/b6174af0-252a-11f1-bb95-2dc272eaaadd.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[History made as Messi hits 900 goals ]]></title>
+      <description><![CDATA[Lionel Messi's scores his 900th goal in Inter Miami's match against Nashville SC in the Concacaf Champions Cup. The 38-year-old joins Cristiano Ronaldo in reaching the milestone. Watch some of his greatest World Cup goals.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cn0z00ved8jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn0z00ved8jo</guid>
+      <pubDate>Thu, 19 Mar 2026 09:26:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a1/live/4e037030-2375-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
       <title><![CDATA[Potter, 19, scores on first start as Chelsea beat Brighton]]></title>
@@ -319,14 +319,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgrzrwqwv7do</guid>
       <pubDate>Tue, 17 Mar 2026 23:13:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7972/live/04cc52e0-2255-11f1-a79a-77e93010d956.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wolves come back from two down to earn draw at Brentford]]></title>
-      <description><![CDATA[Tolu Arokodare scores shortly after coming on to earn Premier League bottom club Wolves a 2-2 draw at Brentford.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c3ewylx2plyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c3ewylx2plyo</guid>
-      <pubDate>Mon, 16 Mar 2026 22:25:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/393d/live/76471b80-2183-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA[My plan to overhaul academy system and help young players]]></title>
@@ -441,20 +433,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b47/live/07834570-078e-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why McInnes thinks 'huge underdogs' Hearts will get stronger]]></title>
+      <description><![CDATA[Hearts head coach Derek McInnes says his side "will get stronger" in the final seven games. With players returning to bolster his squad, you can see why.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c62kmdx5edyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62kmdx5edyo</guid>
+      <pubDate>Sat, 21 Mar 2026 20:19:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fa4/live/b7634ac0-255d-11f1-9b6f-5152b35e45f2.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Referee head Collum seeks talks with clubs over 'DOGSO' reds]]></title>
       <description><![CDATA[Scottish head of refereeing Willie Collum wants to discuss red cards where a player has committed denial of a goalscoring opportunity with clubs.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cz67xz4d823o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz67xz4d823o</guid>
       <pubDate>Fri, 20 Mar 2026 22:28:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f46d/live/dfdf5260-24a3-11f1-9573-9907bc8f835c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Rangers propose refereeing standards summit - gossip]]></title>
-      <description><![CDATA[Rangers want talks on refereeing standards, police start planning for title party and Scotland defender attracting transfer interest...]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c98m50n7r97o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98m50n7r97o</guid>
-      <pubDate>Sat, 21 Mar 2026 08:52:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c20/live/e759f5d0-252b-11f1-a79a-77e93010d956.png"/>
     </item>
     <item>
       <title><![CDATA[Laporta re-elected Barcelona president for fourth term]]></title>
