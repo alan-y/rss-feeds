@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 08:54:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 10:01:58 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,7 +40,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e7d/live/99741e50-264c-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Inside the complex mind of Wales boss Bellamy]]></title>
+      <title><![CDATA[Four hours inside Bellamy's office - and the Wales boss' complex mind]]></title>
       <description><![CDATA[Wales boss Craig Bellamy discusses everything from football to Balkan history - and playing Ken and Barbie - in an exclusive, in-depth interview with BBC Sport.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy9g7vrj9qyo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy9g7vrj9qyo</guid>
@@ -56,12 +56,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b282/live/573cdc70-1c6f-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
-      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0krjkl3kn0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0krjkl3kn0o</guid>
-      <pubDate>Sun, 22 Mar 2026 22:08:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc45/live/60256500-263d-11f1-a67d-43e6bd403123.png"/>
+      <title><![CDATA[Man Utd eye Arsenal's Lewis-Skelly - Monday's gossip]]></title>
+      <description><![CDATA[Arsenal defender Myles Lewis-Skelly is on Manchester United's radar, Manchester City midfielder Bernardo Silva has reservations over Barcelona switch, Newcastle midfielder  Bruno Guimaraes has already held talks with Manchester United, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgrly81gegxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgrly81gegxo</guid>
+      <pubDate>Sun, 22 Mar 2026 23:22:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3987/live/c8021f90-2644-11f1-a79a-77e93010d956.png"/>
     </item>
     <item>
       <title><![CDATA[Forest win sinks Tottenham closer to relegation danger]]></title>
@@ -96,8 +96,8 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ff/live/1a49c250-261b-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Crawley Town sack manager Lindsay after winless run]]></title>
-      <description><![CDATA[Crawley Town part company with manager Scott Lindsay after a run of 10 games without a win.]]></description>
+      <title><![CDATA[Crawley Town sack manager Lindsey after winless run]]></title>
+      <description><![CDATA[Crawley Town part company with manager Scott Lindsey after a run of 10 games without a win.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0kr8gkp00ko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kr8gkp00ko</guid>
       <pubDate>Mon, 23 Mar 2026 08:14:40 GMT</pubDate>
@@ -144,6 +144,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/629c/live/5d88dca0-2647-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
+      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0krjkl3kn0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0krjkl3kn0o</guid>
+      <pubDate>Sun, 22 Mar 2026 22:08:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc45/live/60256500-263d-11f1-a67d-43e6bd403123.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Moore revels in 'unbelievable' Rangers loan spell]]></title>
+      <description><![CDATA[Mikey Moore insists he has "loved every single second" of his loan spell at Rangers, with the Tottenham Hotspur forward open to a return next season "if it's right" for the teenager.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd6lv2y5d3po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd6lv2y5d3po</guid>
+      <pubDate>Mon, 23 Mar 2026 09:05:10 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c97/live/f188fa10-2693-11f1-b5dd-c99b06386340.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[What does Celtic's latest loss mean for Scottish Premiership title race?]]></title>
       <description><![CDATA[Perhaps Celtic losing to Dundee United shouldn't have been that surprising.  After all, there's only been one weekend in this astonishing Scottish Premiership season in which the top three have all won.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g5qn7yxe2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -166,14 +182,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn4vzejl0pno</guid>
       <pubDate>Sun, 22 Mar 2026 20:34:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5434/live/95926200-2625-11f1-aad6-2d605a562384.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd eye Arsenal's Lewis-Skelly - Monday's gossip]]></title>
-      <description><![CDATA[Arsenal defender Myles Lewis-Skelly is on Manchester United's radar, Manchester City midfielder Bernardo Silva has reservations over Barcelona switch, Newcastle midfielder  Bruno Guimaraes has already held talks with Manchester United, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgrly81gegxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgrly81gegxo</guid>
-      <pubDate>Sun, 22 Mar 2026 23:22:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3987/live/c8021f90-2644-11f1-a79a-77e93010d956.png"/>
     </item>
     <item>
       <title><![CDATA[First person charged with tailgating after EFL Cup final]]></title>
@@ -289,14 +297,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dd7/live/3118b720-2382-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[NI 'thrive on underdog title' - Spencer ]]></title>
-      <description><![CDATA[Northern Ireland defender Brodie Spencer says being underdogs against Italy "suits us" for Thursday's World Cup play-off semi-final in Bergamo.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cjw803g04yeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjw803g04yeo</guid>
-      <pubDate>Sun, 22 Mar 2026 23:06:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a205/live/1e9f36c0-263c-11f1-ab49-d33bf9f59256.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Unfocused West Ham were not good enough - Nuno]]></title>
       <description><![CDATA[West Ham United manager Nuno Espirito Santo admits Aston Villa were the better team, while his side were unable to find their focus and get comfortable as they lost 2-0 at Villa Park.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c145z27krdzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -335,6 +335,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/crl18dkwk1jo</guid>
       <pubDate>Sat, 21 Mar 2026 18:18:12 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3727/live/b00ff610-2530-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[NI 'thrive on underdog title' - Spencer ]]></title>
+      <description><![CDATA[Northern Ireland defender Brodie Spencer says being underdogs against Italy "suits us" for Thursday's World Cup play-off semi-final in Bergamo.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cjw803g04yeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjw803g04yeo</guid>
+      <pubDate>Sun, 22 Mar 2026 23:06:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a205/live/1e9f36c0-263c-11f1-ab49-d33bf9f59256.jpg"/>
     </item>
     <item>
       <title><![CDATA[Outrun and in decline - are Rosenior's Chelsea near crisis point?]]></title>
