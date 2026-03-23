@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 10:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 11:11:10 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -56,6 +56,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b282/live/573cdc70-1c6f-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Team-mates told to find new clubs after being sent off for on-pitch fight]]></title>
+      <description><![CDATA[Non-league Rushden & Diamonds tell Bruno Andrade and Tyler Winters they are "free to pursue opportunities" elsewhere after an on-pitch fight saw both see red.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c393nxz247lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c393nxz247lo</guid>
+      <pubDate>Mon, 23 Mar 2026 09:53:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bd9/live/ada0bbc0-2699-11f1-808c-67652ea9e2d6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Man Utd eye Arsenal's Lewis-Skelly - Monday's gossip]]></title>
       <description><![CDATA[Arsenal defender Myles Lewis-Skelly is on Manchester United's radar, Manchester City midfielder Bernardo Silva has reservations over Barcelona switch, Newcastle midfielder  Bruno Guimaraes has already held talks with Manchester United, plus more.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cgrly81gegxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgme7p7mkwjo</guid>
       <pubDate>Sun, 22 Mar 2026 20:00:34 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8ff/live/1a49c250-261b-11f1-934f-036468834728.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Crawley Town sack manager Lindsey after winless run]]></title>
-      <description><![CDATA[Crawley Town part company with manager Scott Lindsey after a run of 10 games without a win.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0kr8gkp00ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kr8gkp00ko</guid>
-      <pubDate>Mon, 23 Mar 2026 08:14:40 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e057/live/364e19f0-2685-11f1-a32b-91a6d5286fbb.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watkins ends goal drought as Villa beat West Ham]]></title>
@@ -144,12 +144,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/629c/live/5d88dca0-2647-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Quiz: Can you name every EFL Cup winner?]]></title>
+      <description><![CDATA[This season was the 66th edition of the EFL Cup... but can you name the winners of all 66? Good luck.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gqxlxz00vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gqxlxz00vo</guid>
+      <pubDate>Sun, 22 Mar 2026 20:32:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc4d/live/3d3683d0-262e-11f1-ae2a-67c08f8352fb.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
       <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0krjkl3kn0o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0krjkl3kn0o</guid>
       <pubDate>Sun, 22 Mar 2026 22:08:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc45/live/60256500-263d-11f1-a67d-43e6bd403123.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Crawley Town sack manager Lindsey after winless run]]></title>
+      <description><![CDATA[Crawley Town part company with manager Scott Lindsey after a run of 10 games without a win.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0kr8gkp00ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kr8gkp00ko</guid>
+      <pubDate>Mon, 23 Mar 2026 08:14:40 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e057/live/364e19f0-2685-11f1-a32b-91a6d5286fbb.jpg"/>
     </item>
     <item>
       <title><![CDATA[Moore revels in 'unbelievable' Rangers loan spell]]></title>
@@ -176,14 +192,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7c2/live/373259e0-264d-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Boyhood Man City fan to Wembley winner - O'Reilly's fairytale continues]]></title>
-      <description><![CDATA[Nico O'Reilly will be the pride of Manchester following his man-of-the-match showing in City's brilliant Carabao Cup final victory over Arsenal on Sunday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn4vzejl0pno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn4vzejl0pno</guid>
-      <pubDate>Sun, 22 Mar 2026 20:34:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5434/live/95926200-2625-11f1-aad6-2d605a562384.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[First person charged with tailgating after EFL Cup final]]></title>
       <description><![CDATA[A 27-year-old man becomes the first person in the country to be charged with 'tailgating' after the EFL Cup final at Wembley.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cew72lvk2lyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -192,12 +200,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1be7/live/43710360-2638-11f1-8e8a-2f1145c12064.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ballard set to miss Northern Ireland's Italy play-off]]></title>
-      <description><![CDATA[Dan Ballard is set to miss Northern Ireland's crucial World Cup play-off semi-final against Italy on Thursday because of a hamstring injury.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gxp019w81o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gxp019w81o</guid>
-      <pubDate>Mon, 23 Mar 2026 07:05:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9221/live/c45fa5d0-2683-11f1-a32b-91a6d5286fbb.jpg"/>
+      <title><![CDATA[Boyhood Man City fan to Wembley winner - O'Reilly's fairytale continues]]></title>
+      <description><![CDATA[Nico O'Reilly will be the pride of Manchester following his man-of-the-match showing in City's brilliant Carabao Cup final victory over Arsenal on Sunday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn4vzejl0pno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn4vzejl0pno</guid>
+      <pubDate>Sun, 22 Mar 2026 20:34:47 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5434/live/95926200-2625-11f1-aad6-2d605a562384.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watkins gives Tuchel timely reminder as World Cup hopes still alive]]></title>
@@ -206,6 +214,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg3lxd74zjo</guid>
       <pubDate>Sun, 22 Mar 2026 19:14:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1db/live/809aec50-264d-11f1-b297-95b0a0a8331e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ballard to miss Northern Ireland's Italy play-off]]></title>
+      <description><![CDATA[Dan Ballard will miss Northern Ireland's crucial World Cup play-off semi-final against Italy on Thursday because of a hamstring injury.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gxp019w81o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gxp019w81o</guid>
+      <pubDate>Mon, 23 Mar 2026 10:38:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9221/live/c45fa5d0-2683-11f1-a32b-91a6d5286fbb.jpg"/>
     </item>
     <item>
       <title><![CDATA[Has Dundee Utd win left four teams fighting to avoid play-off?]]></title>
@@ -230,22 +246,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80mr4xjg85o</guid>
       <pubDate>Sun, 22 Mar 2026 17:33:05 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/073e/live/f5beae90-2611-11f1-82b7-571f29d99bc9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Jorginho's criticism of Chappell Roan over daughter's tears goes viral]]></title>
-      <description><![CDATA[Ex-Chelsea and Arsenal midfielder Jorginho goes viral with a social media post alleging singer Chappell Roan's security guard made his daughter cry.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gdryn1ky8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gdryn1ky8o</guid>
-      <pubDate>Sun, 22 Mar 2026 15:06:54 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b621/live/ef40d9b0-25e1-11f1-a79a-77e93010d956.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What is the impact of Leicester's 'gut-wrenching' defeat?]]></title>
-      <description><![CDATA[BBC Sport assesses how damaging Leicester's 2-1 defeat by Aston Villa is for their survival chances in the Women's Super League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqxlrnv53dzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxlrnv53dzo</guid>
-      <pubDate>Sun, 22 Mar 2026 18:05:20 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4263/live/14f60b30-260f-11f1-8e33-75c6f2e0c4bc.jpg"/>
     </item>
     <item>
       <title><![CDATA[Trafford 'sets the tone', while Kepa suffers 'a bad moment' ]]></title>
@@ -289,12 +289,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b747/live/0f932b20-25fe-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Jorginho's criticism of Chappell Roan over daughter's tears goes viral]]></title>
+      <description><![CDATA[Ex-Chelsea and Arsenal midfielder Jorginho goes viral with a social media post alleging singer Chappell Roan's security guard made his daughter cry.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gdryn1ky8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gdryn1ky8o</guid>
+      <pubDate>Sun, 22 Mar 2026 15:06:54 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b621/live/ef40d9b0-25e1-11f1-a79a-77e93010d956.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['They think I just go home and make TikToks - it's not true']]></title>
       <description><![CDATA[Leicester forward Alisha Lehmann  is the most-followed female footballer in the world and says she has learned to cope.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c2lw1172z1qo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2lw1172z1qo</guid>
       <pubDate>Sun, 22 Mar 2026 08:15:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dd7/live/3118b720-2382-11f1-b297-95b0a0a8331e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What is the impact of Leicester's 'gut-wrenching' defeat?]]></title>
+      <description><![CDATA[BBC Sport assesses how damaging Leicester's 2-1 defeat by Aston Villa is for their survival chances in the Women's Super League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqxlrnv53dzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxlrnv53dzo</guid>
+      <pubDate>Sun, 22 Mar 2026 18:05:20 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4263/live/14f60b30-260f-11f1-8e33-75c6f2e0c4bc.jpg"/>
     </item>
     <item>
       <title><![CDATA[Unfocused West Ham were not good enough - Nuno]]></title>
@@ -504,6 +520,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c14r638r163o</guid>
       <pubDate>Wed, 11 Feb 2026 21:05:45 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b47/live/07834570-078e-11f1-b5e2-dd58fc65f0f6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Hearts 'keep believing', Celtic 'toothless', Aberdeen 'in serious trouble' - your views]]></title>
+      <description><![CDATA[A selection of your messages on the weekend action in the Scottish Premiership.]]></description>
+      <link>https://www.bbc.com/sport/articles/cnv8jy16gjqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/cnv8jy16gjqo</guid>
+      <pubDate>Mon, 23 Mar 2026 10:10:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c22f/live/a0ce5100-269e-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
       <title><![CDATA['Bobadilla deal difficult for Celtic' - gossip]]></title>
