@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 20:56:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 21:37:36 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -106,6 +106,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29da/live/13625cb0-26dc-11f1-908d-0f187797fc2f.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Gabriel joins the list as six Arsenal players miss internationals]]></title>
+      <description><![CDATA[Gabriel Magalhaes is the latest of six Arsenal players to become unavailable to play international games in the current window, with injuries hitting the Premier League leaders.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c7478jx102yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7478jx102yo</guid>
+      <pubDate>Mon, 23 Mar 2026 17:03:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d94/live/ff945e90-26d1-11f1-8c58-69fb56a4b058.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Capitulation' - how 'fragile' Tottenham put Tudor under pressure]]></title>
       <description><![CDATA[Kelly Cates, Joe Hart and Danny Murphy discuss how a "fragile" Tottenham "fell apart" against Nottingham Forest, and what this could mean for interim boss Igor Tudor's position.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cwyd9ln0dp2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -162,14 +170,6 @@
       <media:thumbnail width="240" height="137" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2381/live/afdca790-26d1-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Gabriel joins the list as six Arsenal players miss internationals]]></title>
-      <description><![CDATA[Gabriel Magalhaes is the latest of six Arsenal players to become unavailable to play international games in the current window, with injuries hitting the Premier League leaders.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c7478jx102yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7478jx102yo</guid>
-      <pubDate>Mon, 23 Mar 2026 17:03:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d94/live/ff945e90-26d1-11f1-8c58-69fb56a4b058.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Silly' if Clarke not offered new deal - Dalglish]]></title>
       <description><![CDATA[Sir Kenny Dalglish believes the Scottish FA would be "silly" not to offer head coach Steve Clarke a new contract - no matter how the team perform at this summer's World Cup finals.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3ex87d09pdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -202,20 +202,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba15/live/c697c310-26a5-11f1-9a4b-834c9ce445e3.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Taking wildcards, leaving out stars - the art of World Cup squad building]]></title>
-      <description><![CDATA[Managers often get it wrong when it comes to picking World Cup squads - is one packed with stars always the best option?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3rzr1xd4w1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3rzr1xd4w1o</guid>
-      <pubDate>Mon, 23 Mar 2026 07:09:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f88/live/04e56bd0-22e7-11f1-9c64-25f36d76b36f.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Ex-France and West Ham midfielder Payet retires]]></title>
       <description><![CDATA[Former France and West Ham attacking midfielder Dimitri Payet says his retirement from a 20-year professional career "is the end of a beautiful journey".]]></description>
       <link>https://www.bbc.com/sport/football/articles/cre1zn2qr7ro?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cre1zn2qr7ro</guid>
       <pubDate>Mon, 23 Mar 2026 12:27:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213a/live/f6b23610-26b0-11f1-b13a-5bcd17b65474.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Taking wildcards, leaving out stars - the art of World Cup squad building]]></title>
+      <description><![CDATA[Managers often get it wrong when it comes to picking World Cup squads - is one packed with stars always the best option?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3rzr1xd4w1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3rzr1xd4w1o</guid>
+      <pubDate>Mon, 23 Mar 2026 07:09:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f88/live/04e56bd0-22e7-11f1-9c64-25f36d76b36f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
@@ -256,6 +256,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg73g9g7j5ko</guid>
       <pubDate>Sun, 22 Mar 2026 21:12:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e075/live/2e6c6160-262b-11f1-aad6-2d605a562384.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Impossible for him to stay' - what next for Tudor and Tottenham?]]></title>
+      <description><![CDATA[How does boss Igor Tudor survive at Tottenham after another damaging defeat? Nick Mashiter analyses the situation.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2k3dwng90go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2k3dwng90go</guid>
+      <pubDate>Sun, 22 Mar 2026 17:45:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e7d/live/99741e50-264c-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA['Man City would be stupid to let Shaw go!']]></title>
@@ -307,14 +315,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c97/live/f188fa10-2693-11f1-b5dd-c99b06386340.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Impossible for him to stay' - what next for Tudor and Tottenham?]]></title>
-      <description><![CDATA[How does boss Igor Tudor survive at Tottenham after another damaging defeat? Nick Mashiter analyses the situation.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2k3dwng90go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2k3dwng90go</guid>
-      <pubDate>Sun, 22 Mar 2026 17:45:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e7d/live/99741e50-264c-11f1-934f-036468834728.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Guardiola's dance of joy as Man City pile pressure on desolate Arsenal]]></title>
       <description><![CDATA[Manchester City will hope their dominant Carabao Cup final win piles pressure on Arsenal in the Premier League title race, says chief football writer Phil McNulty.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ce35w3ewqxyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -345,6 +345,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd6lqdqjlwzo</guid>
       <pubDate>Sun, 22 Mar 2026 17:08:28 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7c2/live/373259e0-264d-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Watkins gives Tuchel timely reminder as World Cup hopes still alive]]></title>
+      <description><![CDATA[Ollie Watkins is not in Thomas Tuchel's latest England squad, leaving his World Cup hopes in the balance - but scoring for Aston Villa on Sunday might change that.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvg3lxd74zjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg3lxd74zjo</guid>
+      <pubDate>Sun, 22 Mar 2026 19:14:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1db/live/809aec50-264d-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
       <title><![CDATA['Everyone knows Spurs are in a relegation battle']]></title>
@@ -395,14 +403,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1be7/live/43710360-2638-11f1-8e8a-2f1145c12064.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Watkins gives Tuchel timely reminder as World Cup hopes still alive]]></title>
-      <description><![CDATA[Ollie Watkins is not in Thomas Tuchel's latest England squad, leaving his World Cup hopes in the balance - but scoring for Aston Villa on Sunday might change that.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg3lxd74zjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg3lxd74zjo</guid>
-      <pubDate>Sun, 22 Mar 2026 19:14:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1db/live/809aec50-264d-11f1-b297-95b0a0a8331e.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['They think I just go home and make TikToks - it's not true']]></title>
       <description><![CDATA[Leicester forward Alisha Lehmann  is the most-followed female footballer in the world and says she has learned to cope.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c2lw1172z1qo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -433,6 +433,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gdryn1ky8o</guid>
       <pubDate>Sun, 22 Mar 2026 15:06:54 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b621/live/ef40d9b0-25e1-11f1-a79a-77e93010d956.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[NI 'thrive on underdog title' - Spencer ]]></title>
+      <description><![CDATA[Northern Ireland defender Brodie Spencer says being underdogs against Italy "suits us" for Thursday's World Cup play-off semi-final in Bergamo.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cjw803g04yeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjw803g04yeo</guid>
+      <pubDate>Sun, 22 Mar 2026 23:06:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a205/live/1e9f36c0-263c-11f1-ab49-d33bf9f59256.jpg"/>
     </item>
     <item>
       <title><![CDATA['Impressive' derby win means a lot - Le Bris]]></title>
