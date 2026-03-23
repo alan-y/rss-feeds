@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 22:44:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 23:31:39 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Hong Kong government employee denies ordering surveillance of UK dissidents]]></title>
+      <description><![CDATA[Chung Biu "Bill" Yuen says he did not organise a "shadow policing" operation in London.]]></description>
+      <link>https://www.bbc.com/news/articles/c78l934gg0xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c78l934gg0xo</guid>
+      <pubDate>Mon, 23 Mar 2026 21:11:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ee/live/4c311d50-26fb-11f1-8882-999738731502.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[HK police can now demand phone passwords under new national security rules]]></title>
+      <description><![CDATA[Those who do not comply can be jailed for up to a year and fined up to HK$100,000 ($12,700; £9,600).]]></description>
+      <link>https://www.bbc.com/news/articles/ce8j9yj52lro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8j9yj52lro</guid>
+      <pubDate>Mon, 23 Mar 2026 08:06:25 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b2d/live/45166ad0-268c-11f1-82d0-fd391f4a7261.jpg"/>
+    </item>
     <item>
       <title><![CDATA[The Iran war is causing a global energy crisis - can China withstand it?]]></title>
       <description><![CDATA[With oil supply disrupted, Beijing's oil reserves and renewable energy push are being put to the test.]]></description>
@@ -56,14 +72,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/841d/live/09d31a30-21ab-11f1-9bdf-83bdc0466ec5.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Chinese retailer rivalling Amazon launches in UK]]></title>
-      <description><![CDATA[Joybuy, which has distribution centres in Luton and Milton Keynes, is entering six European markets.]]></description>
-      <link>https://www.bbc.com/news/articles/ceqv4r3nvy2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ceqv4r3nvy2o</guid>
-      <pubDate>Mon, 16 Mar 2026 13:29:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfb3/live/6cdb7fe0-212f-11f1-b297-95b0a0a8331e.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Tigers and flies': Millions of officials later, why is Xi's corruption purge still going?]]></title>
       <description><![CDATA[Critics say Xi's purges reveal a ruthless drive for absolute loyalty and total control of the military.]]></description>
       <link>https://www.bbc.com/news/articles/c78xxyyqwe7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -103,14 +111,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c2044vzrdpzo</guid>
       <pubDate>Thu, 05 Mar 2026 23:13:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c4/live/d67046d0-1887-11f1-aff7-a32b6621d3cc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What to know about the 'two sessions',  China's biggest political meeting]]></title>
-      <description><![CDATA[The carefully choreographed annual meetings signal the priorities of the world's second-largest economy.]]></description>
-      <link>https://www.bbc.com/news/articles/c2lrxyke7kro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2lrxyke7kro</guid>
-      <pubDate>Wed, 04 Mar 2026 10:47:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63a9/live/2f144e70-17b7-11f1-b048-c9424b2cf5fd.jpg"/>
     </item>
   </channel>
 </rss>
