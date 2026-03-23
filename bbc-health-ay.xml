@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 15:39:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 16:34:36 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Meningitis outbreak passes peak, says health agency]]></title>
+      <description><![CDATA["We could still see cases continuing to come in, we need to keep an eye on those, the UKHSA says. ]]></description>
+      <link>https://www.bbc.com/news/articles/ckgwrxdldmzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgwrxdldmzo</guid>
+      <pubDate>Mon, 23 Mar 2026 13:31:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/687a/live/d3423e00-26a1-11f1-9a4b-834c9ce445e3.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Scotland becomes first in UK to test newborns for rare genetic condition]]></title>
       <description><![CDATA[Spinal Muscular Atrophy (SMA) causes progressive muscle weakness and, without treatment, can limit life expectancy to just two years.]]></description>
@@ -48,14 +56,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf86/live/a1d6c050-269e-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Five questions that still need answering about the meningitis outbreak]]></title>
-      <description><![CDATA[The size and speed of the outbreak which has now affected 34 people, killing two of them, has been labelled "unprecedented".]]></description>
-      <link>https://www.bbc.com/news/articles/cz783d70x8ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cz783d70x8ro</guid>
-      <pubDate>Sat, 21 Mar 2026 09:50:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b935/live/67574430-2497-11f1-934f-036468834728.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Lab-grown food pipe offers new hope for young patients ]]></title>
       <description><![CDATA[UK scientists have grown fully functioning food pipes and successfully transplanted them into mini pigs, paving the way for human trials. ]]></description>
       <link>https://www.bbc.com/news/articles/c4gdvv8j2j1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -70,6 +70,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c87wg0lvnxjo</guid>
       <pubDate>Thu, 19 Mar 2026 15:00:23 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51c0/live/d770dde0-23bf-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Having coeliac disease aged 9 means I'm normal with a tiny twist']]></title>
+      <description><![CDATA[Nine-year-old Eliza's mum says she was relieved when her daughter was diagnosed with the disease.]]></description>
+      <link>https://www.bbc.com/news/articles/cvgkdxw1v9vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgkdxw1v9vo</guid>
+      <pubDate>Sun, 22 Mar 2026 07:07:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a3/live/466a68a0-2448-11f1-8350-0b57c2d91bf3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Better NHS care might have saved 58 babies, BBC finds]]></title>
@@ -224,15 +232,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7706/live/e7369410-195e-11f1-a1cd-a71e69f1cf89.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Dentists return £900m for not seeing NHS patients]]></title>
-      <description><![CDATA[Sum represents £1 out of every £7 they have been given by NHS as dentists opt to chase private work.]]></description>
-      <link>https://www.bbc.com/news/articles/cpqwwvnp7z8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cpqwwvnp7z8o</guid>
-      <pubDate>Thu, 05 Mar 2026 08:12:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af8d/live/7d022f30-17e9-11f1-9c51-afc92387d880.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Our son loved the outdoors – invisible illness means he now can't walk or talk]]></title>
+      <title><![CDATA[Our son loved the outdoors - invisible illness means he now can't walk or talk]]></title>
       <description><![CDATA[Tomos is one of thousands with ME in Wales, with services described as “a desert” for those most affected.]]></description>
       <link>https://www.bbc.com/news/articles/cpv8e71p3evo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cpv8e71p3evo</guid>
