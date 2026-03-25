@@ -10,17 +10,25 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 17:29:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 18:32:06 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
+      <title><![CDATA[Meta and Google found liable in landmark social media addiction trial]]></title>
+      <description><![CDATA[The verdict marks the end of a five-week trial on the addictive nature of social media platforms.]]></description>
+      <link>https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c747x7gz249o</guid>
+      <pubDate>Wed, 25 Mar 2026 17:45:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a21d/live/fef5c380-1cdf-11f1-b4a6-b1a9fc5003ff.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Apple brings in age checks for UK iPhone users]]></title>
       <description><![CDATA[Customers who do not confirm how old they are or are underage will have web content filters turned on automatically.]]></description>
       <link>https://www.bbc.com/news/articles/c20qwz9xzr9o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c20qwz9xzr9o</guid>
-      <pubDate>Wed, 25 Mar 2026 15:13:47 GMT</pubDate>
+      <pubDate>Wed, 25 Mar 2026 17:41:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08bc/live/2954a6d0-2859-11f1-937e-1d8f354c3b9a.jpg"/>
     </item>
     <item>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y9d44jj24o</guid>
       <pubDate>Fri, 20 Mar 2026 15:30:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/341790a0-2471-11f1-b187-ed35b97acec8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[False online posts fuel self-diagnosis, says study]]></title>
-      <description><![CDATA[Norfolk and Suffolk researchers say the false information about autism and ADHD is most worrying.]]></description>
-      <link>https://www.bbc.com/news/articles/cvg347487dlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg347487dlo</guid>
-      <pubDate>Fri, 20 Mar 2026 06:18:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/907f/live/a14e0790-2399-11f1-b790-6d42cdb7b9c3.jpg"/>
     </item>
   </channel>
 </rss>
