@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 23:49:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 02:05:20 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -80,8 +80,8 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc8b/live/1dd2bb80-279b-11f1-ac4d-5987f4dee3ad.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Russo settles thrilling Champions League first-leg for Arsenal]]></title>
-      <description><![CDATA[Arsenal beat Chelsea in a thrilling Women's Champions League quarter-final first-leg featuring brilliant goals from England internationals Chloe Kelly, Lauren James and Alessia Russo.]]></description>
+      <title><![CDATA[Russo settles thrilling Champions League first leg for Arsenal]]></title>
+      <description><![CDATA[Arsenal beat Chelsea in a thrilling Women's Champions League quarter-final first leg that featured brilliant goals from England internationals Chloe Kelly, Lauren James and Alessia Russo.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c5ywdenzn12o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5ywdenzn12o</guid>
       <pubDate>Tue, 24 Mar 2026 22:23:07 GMT</pubDate>
@@ -120,7 +120,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac8/live/5e32c730-27c6-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Celtic's Schmeichel says shoulder surgery 'went well']]></title>
+      <title><![CDATA[Celtic's Schmeichel says shoulder surgery went well]]></title>
       <description><![CDATA[Celtic goalkeeper Kasper Schmeichel undergoes the first of two planned shoulder surgeries as the veteran looks to salvage his playing career.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cm2renx0egro?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2renx0egro</guid>
@@ -168,20 +168,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e95/live/73142c90-278d-11f1-8c03-f7b8fcd8cabf.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Who can still qualify for the World Cup?]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team explains which countries can still qualify for the World Cup via the European play-offs and intercontinental play-offs.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgrzer5we07o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgrzer5we07o</guid>
-      <pubDate>Tue, 24 Mar 2026 16:08:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/250c/live/83974230-2375-11f1-b297-95b0a0a8331e.png"/>
-    </item>
-    <item>
       <title><![CDATA[Is the three-week Premier League break good for your side?]]></title>
       <description><![CDATA[The Premier League is on a break for almost three weeks as international football takes centre stage, but will it give your club a chance to reset or disrupt momentum?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwyw1q5d35vo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyw1q5d35vo</guid>
       <pubDate>Tue, 24 Mar 2026 08:14:35 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f95a/live/01cc0ba0-26bd-11f1-be99-cb4fcea31c93.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who can still qualify for the World Cup?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team explains which countries can still qualify for the World Cup via the European play-offs and intercontinental play-offs.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgrzer5we07o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgrzer5we07o</guid>
+      <pubDate>Tue, 24 Mar 2026 16:08:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/250c/live/83974230-2375-11f1-b297-95b0a0a8331e.png"/>
     </item>
     <item>
       <title><![CDATA[Complaint filed over World Cup ticket prices]]></title>
@@ -206,14 +206,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgyx5dgwqeo</guid>
       <pubDate>Tue, 24 Mar 2026 06:48:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cc2/live/959cc1b0-eb1e-11f0-b385-5f48925de19a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sexism in football - a problem that isn't going away]]></title>
-      <description><![CDATA[BBC Sport speaks to fans, the police and others to examine how common sexism is in football, why it happens, and what can be done.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz6e07v24wqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz6e07v24wqo</guid>
-      <pubDate>Tue, 24 Mar 2026 06:15:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c67/live/9285e4d0-2763-11f1-8dfa-e79b06fb69fd.jpg"/>
     </item>
     <item>
       <title><![CDATA['Northern Ireland have nothing to fear  but everything to gain']]></title>
@@ -264,6 +256,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/601d/live/76dac5c0-2772-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Is Scotland cap next step on Stewart's 'surreal' journey?]]></title>
+      <description><![CDATA[Barney Stewart was not even a professional footballer 15 months ago. Now he is representing his country and harbours Scottish Cup ambitions with Falkirk.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1450zrpey3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1450zrpey3o</guid>
+      <pubDate>Tue, 24 Mar 2026 20:27:20 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c90/live/57be9a00-27bc-11f1-b297-95b0a0a8331e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sexism in football - a problem that isn't going away]]></title>
+      <description><![CDATA[BBC Sport speaks to fans, the police and others to examine how common sexism is in football, why it happens, and what can be done.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz6e07v24wqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz6e07v24wqo</guid>
+      <pubDate>Tue, 24 Mar 2026 06:15:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c67/live/9285e4d0-2763-11f1-8dfa-e79b06fb69fd.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[EFL play-off finals on Spring Bank Holiday weekend]]></title>
       <description><![CDATA[This season's English Football League play-off finals at Wembley will take place over the Spring Bank Holiday weekend in May.]]></description>
       <link>https://www.bbc.com/sport/football/articles/clyr7n3prkjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -294,14 +302,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg82gkrv47o</guid>
       <pubDate>Tue, 24 Mar 2026 07:10:27 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e709/live/ae800580-2236-11f1-b26d-cd49b90fee82.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The player who tackled cancer - and now wants to take on the world]]></title>
-      <description><![CDATA[Forced to be a fan at Qatar 2022 by a life-threatening illness, Wales midfielder David Brooks is determined to play at the 2026 World Cup finals.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c98mejm5d9zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98mejm5d9zo</guid>
-      <pubDate>Tue, 24 Mar 2026 04:43:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42d8/live/3051be90-26ac-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
       <title><![CDATA[Tuchel clearly doesn't rate Alexander-Arnold - Sutton]]></title>
@@ -362,14 +362,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b984/live/9c37dc40-278b-11f1-8c03-f7b8fcd8cabf.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Is Scotland cap next step on Stewart's 'surreal' journey?]]></title>
-      <description><![CDATA[Barney Stewart was not even a professional footballer 15 months ago. Now he is representing his country and harbours Scottish Cup ambitions with Falkirk.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1450zrpey3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1450zrpey3o</guid>
-      <pubDate>Tue, 24 Mar 2026 20:27:20 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c90/live/57be9a00-27bc-11f1-b297-95b0a0a8331e.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[We must carry winning momentum into Prague - Egan]]></title>
       <description><![CDATA[Republic of Ireland defender John Egan urges his team-mates to "keep riding off the back" of November's last-gasp win away to Hungary when they face the Czech Republic in Thursday's World Cup play-off semi-final [19:45 GMT].]]></description>
       <link>https://www.bbc.com/sport/football/articles/cq6jl0pjgrno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -393,14 +385,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c80mernj7dyo</guid>
       <pubDate>Tue, 24 Mar 2026 09:25:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f6/live/146d0110-2159-11f1-b297-95b0a0a8331e.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Celtic 'manufactured' title race and need five or six wins - McGregor]]></title>
-      <description><![CDATA[Captain Callum McGregor has no doubt Celtic remain in the Scottish title race but says they need "at least five or six" wins from their final seven matches.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0e7nd9ryjqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0e7nd9ryjqo</guid>
-      <pubDate>Mon, 23 Mar 2026 18:27:54 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/82d0e310-26e5-11f1-908d-0f187797fc2f.jpg"/>
     </item>
     <item>
       <title><![CDATA['Man City would be stupid to let Shaw go!']]></title>
@@ -476,20 +460,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b282/live/573cdc70-1c6f-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
+      <title><![CDATA[The player who tackled cancer - and now wants to take on the world]]></title>
+      <description><![CDATA[Forced to be a fan at Qatar 2022 by a life-threatening illness, Wales midfielder David Brooks is determined to play at the 2026 World Cup finals.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c98mejm5d9zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98mejm5d9zo</guid>
+      <pubDate>Tue, 24 Mar 2026 04:43:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42d8/live/3051be90-26ac-11f1-a79a-77e93010d956.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Have Chelsea progressed under Rosenior? Analysing his Blues tenure]]></title>
       <description><![CDATA[Liam Rosenior is facing criticism early in his tenure as Chelsea manager - but is it fair, and are his players on board as they head for the climax to the season?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cg547vpj31zo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg547vpj31zo</guid>
       <pubDate>Mon, 23 Mar 2026 17:21:30 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b55b/live/84290160-26d7-11f1-97e8-e56f64304680.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Guardiola's dance of joy as Man City pile pressure on desolate Arsenal]]></title>
-      <description><![CDATA[Manchester City will hope their dominant Carabao Cup final win piles pressure on Arsenal in the Premier League title race, says chief football writer Phil McNulty.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce35w3ewqxyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce35w3ewqxyo</guid>
-      <pubDate>Sun, 22 Mar 2026 20:41:11 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c0/live/49c6cdc0-262f-11f1-ae2a-67c08f8352fb.jpg"/>
     </item>
     <item>
       <title><![CDATA[The race no-one wants to win - are Everton serious top-five contenders?]]></title>
