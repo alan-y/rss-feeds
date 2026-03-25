@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 25 Mar 2026 09:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 10:11:12 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -96,6 +96,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0b9/live/32e634f0-2784-11f1-9fd3-710deb20c3fa.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Rodri v Zubimendi - the battle for a Spain spot]]></title>
+      <description><![CDATA[Spain have two of the world's best midfielders in Rodri and Martin Zubimendi, but can they play together?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgk0xy02y1ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgk0xy02y1ro</guid>
+      <pubDate>Wed, 25 Mar 2026 09:17:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1074/live/9521eba0-2793-11f1-934f-036468834728.png"/>
+    </item>
+    <item>
       <title><![CDATA[Salah's best goals for Liverpool]]></title>
       <description><![CDATA[Watch some of the standout goals scored by Mohamed Salah for Liverpool. The Egyptian forward has revealed he will leave the club at the end of the season.]]></description>
       <link>https://www.bbc.com/sport/football/videos/ce8leeg8q53o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -136,12 +144,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abd5/live/d29138a0-27c1-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Premier League great Salah will leave lifetime of memories]]></title>
-      <description><![CDATA[Mohamed Salah will leave Liverpool as an all-time great and iconic Premier League figure, says chief football writer Phil McNulty.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0r929g5p5eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0r929g5p5eo</guid>
-      <pubDate>Tue, 24 Mar 2026 20:33:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb3/live/e2f9ec10-2815-11f1-8b0e-17f46c5c847e.jpg"/>
+      <title><![CDATA[Quiz: Which nations have already qualified for 2026 World Cup?]]></title>
+      <description><![CDATA[Northern Ireland, Republic of Ireland and Wales could all still qualify for the tournament.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy8v4j0nn0ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8v4j0nn0ro</guid>
+      <pubDate>Tue, 24 Mar 2026 15:22:45 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf71/live/3fdec350-2795-11f1-aae5-91b882267bc7.jpg"/>
     </item>
     <item>
       <title><![CDATA[Keep Tudor? Go for De Zerbi, Mason or Redknapp? Where do Spurs go next?]]></title>
@@ -152,12 +160,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48ea/live/b4536d20-2796-11f1-b297-95b0a0a8331e.png"/>
     </item>
     <item>
-      <title><![CDATA[Quiz: Which nations have already qualified for 2026 World Cup?]]></title>
-      <description><![CDATA[Northern Ireland, Republic of Ireland and Wales could all still qualify for the tournament.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy8v4j0nn0ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy8v4j0nn0ro</guid>
-      <pubDate>Tue, 24 Mar 2026 15:22:45 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf71/live/3fdec350-2795-11f1-aae5-91b882267bc7.jpg"/>
+      <title><![CDATA[Premier League great Salah will leave lifetime of memories]]></title>
+      <description><![CDATA[Mohamed Salah will leave Liverpool as an all-time great and iconic Premier League figure, says chief football writer Phil McNulty.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0r929g5p5eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0r929g5p5eo</guid>
+      <pubDate>Tue, 24 Mar 2026 20:33:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fb3/live/e2f9ec10-2815-11f1-8b0e-17f46c5c847e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Does running more in a game actually make a difference?]]></title>
@@ -296,14 +304,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/719d/live/48c28f90-2760-11f1-8dfa-e79b06fb69fd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Is Scotland cap next step on Stewart's 'surreal' journey?]]></title>
-      <description><![CDATA[Barney Stewart was not even a professional footballer 15 months ago. Now he is representing his country and harbours Scottish Cup ambitions with Falkirk.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1450zrpey3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1450zrpey3o</guid>
-      <pubDate>Tue, 24 Mar 2026 20:27:20 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c90/live/57be9a00-27bc-11f1-b297-95b0a0a8331e.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Should Raya have started over Arrizabalaga in final?]]></title>
       <description><![CDATA[The Monday Night Club's Rory Smith and Chris Sutton debate whether Arsenal manager Mikel Arteta made the correct decision in starting Kepa Arrizabalaga over David Raya in the Carabao Cup final.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c04xlw60376o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -352,6 +352,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cc2/live/959cc1b0-eb1e-11f0-b385-5f48925de19a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Is Scotland cap next step on Stewart's 'surreal' journey?]]></title>
+      <description><![CDATA[Barney Stewart was not even a professional footballer 15 months ago. Now he is representing his country and harbours Scottish Cup ambitions with Falkirk.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1450zrpey3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1450zrpey3o</guid>
+      <pubDate>Tue, 24 Mar 2026 20:27:20 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c90/live/57be9a00-27bc-11f1-b297-95b0a0a8331e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Northern Ireland have nothing to fear  but everything to gain']]></title>
       <description><![CDATA[In a column for BBC Sport NI, Stuart Dallas says Northern Ireland "have nothing to fear but everything to gain" in their World Cup play-off in Italy.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cew7l1qxd08o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -392,14 +400,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8jkywxr4xko</guid>
       <pubDate>Tue, 24 Mar 2026 00:04:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b30/live/06956e60-271c-11f1-b297-95b0a0a8331e.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Crawley name Kazim-Richards as new head coach]]></title>
-      <description><![CDATA[Crawley Town name former Derby County and Sheffield United forward Colin Kazim-Richards as their new head coach. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8r4jxe1vgzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8r4jxe1vgzo</guid>
-      <pubDate>Tue, 24 Mar 2026 22:36:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b984/live/9c37dc40-278b-11f1-8c03-f7b8fcd8cabf.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wilson's Fulham form 'no surprise to Wales' - Ampadu]]></title>
