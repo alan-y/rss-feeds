@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 15:03:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 15:48:39 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -104,22 +104,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c8/live/e0a3a0a0-2a31-11f1-9f22-756d59381836.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Who was the attacking spark? How England's players rated]]></title>
-      <description><![CDATA[Who impressed for England in Friday's friendly against Uruguay? Alex Howell rates the players.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp84kxzjne2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp84kxzjne2o</guid>
-      <pubDate>Fri, 27 Mar 2026 21:52:43 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca7c/live/fd3a50d0-2a25-11f1-841d-036b1ed79cac.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The remarkable return of Roy Hodgson aged 78]]></title>
-      <description><![CDATA[Roy Hodgson's idea of celebrating 50 years in management is not to sit back reflecting on his career, but instead to return to the dugout at Bristol City.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckg97pgj2q0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg97pgj2q0o</guid>
-      <pubDate>Fri, 27 Mar 2026 13:24:43 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bb4/live/e31fba40-29db-11f1-9def-51999882d8d7.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Wales' World Cup dream ends in pain of penalty shootout]]></title>
       <description><![CDATA[Wales' hopes of reaching the 2026 World Cup are ended by Bosnia-Herzegovina in Cardiff as the away side score a late equaliser before winning on penalties in their play-off semi-final. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/c62jqw8p4zdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -160,12 +144,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0214/live/1e3dd340-2965-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[The remarkable return of Roy Hodgson aged 78]]></title>
+      <description><![CDATA[Roy Hodgson's idea of celebrating 50 years in management is not to sit back reflecting on his career, but instead to return to the dugout at Bristol City.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckg97pgj2q0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg97pgj2q0o</guid>
+      <pubDate>Fri, 27 Mar 2026 13:24:43 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bb4/live/e31fba40-29db-11f1-9def-51999882d8d7.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Big respect' for Coleman as World Cup dream dies]]></title>
       <description><![CDATA[Republic of Ireland boss Heimir Hallgrimsson says he has "big respect" for how veteran defender Seamus Coleman has "given everything" to his country's cause.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c995y8l892do?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c995y8l892do</guid>
       <pubDate>Sat, 28 Mar 2026 08:16:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4daa/live/88cbb390-29fa-11f1-99ef-b5dfea7d5974.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who was the attacking spark? How England's players rated]]></title>
+      <description><![CDATA[Who impressed for England in Friday's friendly against Uruguay? Alex Howell rates the players.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp84kxzjne2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp84kxzjne2o</guid>
+      <pubDate>Fri, 27 Mar 2026 21:52:43 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca7c/live/fd3a50d0-2a25-11f1-841d-036b1ed79cac.jpg"/>
     </item>
     <item>
       <title><![CDATA[Does Chukwuemeka show the demise of the 90-minute player?]]></title>
@@ -176,36 +176,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df2f/live/ba991da0-29cc-11f1-952c-77491ff53aff.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Managing in an international break - and what to do when your star player does not come home]]></title>
-      <description><![CDATA[Tony Pulis explains why international breaks can be an opportunity as well as a problem for managers, and what he did when one of his players did not return on time.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c747mx3eppeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c747mx3eppeo</guid>
-      <pubDate>Fri, 27 Mar 2026 08:18:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Irreplaceable' Salah could play for seven more years - Klopp]]></title>
       <description><![CDATA[Jurgen Klopp says Mohamed Salah could carry on playing until the age of 40 after the forward leaves Liverpool at the end of the season.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdj7d0vv98go?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdj7d0vv98go</guid>
       <pubDate>Fri, 27 Mar 2026 16:58:05 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7f/live/b9f68850-2a09-11f1-b297-95b0a0a8331e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What next for Bellamy and Wales after World Cup agony?]]></title>
-      <description><![CDATA[Wales' failure to qualify for the World Cup raises big issues for the team, head coach Craig Bellamy and the FAW's finances.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c62jqj5jq9xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62jqj5jq9xo</guid>
-      <pubDate>Fri, 27 Mar 2026 12:17:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff00/live/f07f7a40-29bd-11f1-952c-77491ff53aff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Iran protest before friendly remembers victims of deadly school attack]]></title>
-      <description><![CDATA[The Iran men's national football team wore black armbands and held schoolbags as their national anthem played before a match against Nigeria.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1eqz131z37o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1eqz131z37o</guid>
-      <pubDate>Fri, 27 Mar 2026 17:10:15 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c9c/live/aa3fef90-29f1-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
       <title><![CDATA['Stunning, breathtaking, glorious!' James gives Wales lead against Bosnia]]></title>
@@ -250,12 +226,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b42/live/57f69b10-289a-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What next for Northern Ireland as World Cup wait continues?]]></title>
-      <description><![CDATA[Manager Michael O'Neill says he is positive for the future despite a World Cup play-off defeat by Italy in Bergamo, and questions about his own long-term plans.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cr416evkyr9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr416evkyr9o</guid>
-      <pubDate>Fri, 27 Mar 2026 00:21:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3a/live/c3621610-296f-11f1-80ce-dd6cf1f905dd.jpg"/>
+      <title><![CDATA[Managing in an international break - and what to do when your star player does not come home]]></title>
+      <description><![CDATA[Tony Pulis explains why international breaks can be an opportunity as well as a problem for managers, and what he did when one of his players did not return on time.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c747mx3eppeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c747mx3eppeo</guid>
+      <pubDate>Fri, 27 Mar 2026 08:18:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Iran protest before friendly remembers victims of deadly school attack]]></title>
+      <description><![CDATA[The Iran men's national football team wore black armbands and held schoolbags as their national anthem played before a match against Nigeria.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1eqz131z37o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1eqz131z37o</guid>
+      <pubDate>Fri, 27 Mar 2026 17:10:15 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c9c/live/aa3fef90-29f1-11f1-b297-95b0a0a8331e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What next for Bellamy and Wales after World Cup agony?]]></title>
+      <description><![CDATA[Wales' failure to qualify for the World Cup raises big issues for the team, head coach Craig Bellamy and the FAW's finances.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c62jqj5jq9xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62jqj5jq9xo</guid>
+      <pubDate>Fri, 27 Mar 2026 12:17:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff00/live/f07f7a40-29bd-11f1-952c-77491ff53aff.jpg"/>
     </item>
     <item>
       <title><![CDATA[Scotland highs kept me going, says Robertson]]></title>
@@ -266,28 +258,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb8a/live/124af1a0-29ef-11f1-81d4-f1e3c77fafb4.jpg"/>
     </item>
     <item>
+      <title><![CDATA[What next for Northern Ireland as World Cup wait continues?]]></title>
+      <description><![CDATA[Manager Michael O'Neill says he is positive for the future despite a World Cup play-off defeat by Italy in Bergamo, and questions about his own long-term plans.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cr416evkyr9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr416evkyr9o</guid>
+      <pubDate>Fri, 27 Mar 2026 00:21:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3a/live/c3621610-296f-11f1-80ce-dd6cf1f905dd.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Inter Miami name stand after Argentina great Messi]]></title>
       <description><![CDATA[Argentina great Lionel Messi will have a stand named after him by his current club Inter Miami at their new stadium.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cyv14lejy0no?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv14lejy0no</guid>
       <pubDate>Fri, 27 Mar 2026 15:34:42 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0879/live/0dbf6b80-29ee-11f1-81d4-f1e3c77fafb4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Leicester lost £71.1m in Premier League relegation season]]></title>
-      <description><![CDATA[Leicester City report a pre-tax loss of £71.1m from their season back in the Premier League in 2024-25. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c070k00er0no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c070k00er0no</guid>
-      <pubDate>Fri, 27 Mar 2026 16:37:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0841/live/000b6510-29cc-11f1-952c-77491ff53aff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Byfield to keep knocking on door for black bosses]]></title>
-      <description><![CDATA[Walsall head coach Darren Byfield says he will keep "banging the drum" for there to be more black managers in football.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy418ld99x1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy418ld99x1o</guid>
-      <pubDate>Fri, 27 Mar 2026 14:57:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4225/live/e5db4710-29f7-11f1-8f65-5dbc9a6a5bd5.png"/>
     </item>
     <item>
       <title><![CDATA[Barcelona put six past Madrid in quarter-final first leg]]></title>
@@ -573,22 +557,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyd18xxgkeo</guid>
       <pubDate>Fri, 27 Mar 2026 08:02:10 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a06/live/d436cc60-29b0-11f1-bd05-4d2c4ed50be6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Arsenal captain Little signs contract extension]]></title>
-      <description><![CDATA[Arsenal captain Kim Little, 35, signs a one-year contract extension with the club.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0rxqg770rno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0rxqg770rno</guid>
-      <pubDate>Thu, 26 Mar 2026 17:30:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c6/live/3c699fd0-2900-11f1-be8b-2136d1c912ba.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd down but not out - Skinner sure Bayern lead can be overturned]]></title>
-      <description><![CDATA[Manchester United suffered defeat by Bayern Munich in the home leg of their Champions League quarter-final, but manager Marc Skinner refuses to rule them out.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyr7xxx01go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyr7xxx01go</guid>
-      <pubDate>Wed, 25 Mar 2026 23:52:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1efa/live/82c290a0-28a5-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Frank's downfall: Inside his struggle to get players and fans onboard ]]></title>
