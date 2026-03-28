@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 28 Mar 2026 11:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 11:44:40 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -88,14 +88,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e5/live/450c07b0-2a07-11f1-b297-95b0a0a8331e.png"/>
     </item>
     <item>
-      <title><![CDATA[Who was the attacking spark? How England's players rated]]></title>
-      <description><![CDATA[Who impressed for England in Friday's friendly against Uruguay? Alex Howell rates the players.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp84kxzjne2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp84kxzjne2o</guid>
-      <pubDate>Fri, 27 Mar 2026 21:52:43 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca7c/live/fd3a50d0-2a25-11f1-841d-036b1ed79cac.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why there is more riding on Manchester WSL derby than bragging rights]]></title>
       <description><![CDATA[The race for the WSL title and European qualification adds extra spice to Saturday's Manchester derby as United host City at Old Trafford.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c30rdl9l1nzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -104,12 +96,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e2/live/5d42aa00-29b7-11f1-bd05-4d2c4ed50be6.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Big respect' for Coleman as World Cup dream dies]]></title>
-      <description><![CDATA[Republic of Ireland boss Heimir Hallgrimsson says he has "big respect" for how veteran defender Seamus Coleman has "given everything" to his country's cause.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c995y8l892do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c995y8l892do</guid>
-      <pubDate>Sat, 28 Mar 2026 08:16:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4daa/live/88cbb390-29fa-11f1-99ef-b5dfea7d5974.jpg"/>
+      <title><![CDATA[Spurs should not appoint De Zerbi - fans' group]]></title>
+      <description><![CDATA[Tottenham should not appoint former Marseille manager Roberto de Zerbi because of his support for Mason Greenwood, says a women's fans group.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgx88p89deo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgx88p89deo</guid>
+      <pubDate>Sat, 28 Mar 2026 11:33:46 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e04/live/54d95a20-2a8a-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who was the attacking spark? How England's players rated]]></title>
+      <description><![CDATA[Who impressed for England in Friday's friendly against Uruguay? Alex Howell rates the players.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp84kxzjne2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp84kxzjne2o</guid>
+      <pubDate>Fri, 27 Mar 2026 21:52:43 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca7c/live/fd3a50d0-2a25-11f1-841d-036b1ed79cac.jpg"/>
     </item>
     <item>
       <title><![CDATA[The remarkable return of Roy Hodgson aged 78]]></title>
@@ -118,6 +118,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg97pgj2q0o</guid>
       <pubDate>Fri, 27 Mar 2026 13:24:43 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bb4/live/e31fba40-29db-11f1-9def-51999882d8d7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Big respect' for Coleman as World Cup dream dies]]></title>
+      <description><![CDATA[Republic of Ireland boss Heimir Hallgrimsson says he has "big respect" for how veteran defender Seamus Coleman has "given everything" to his country's cause.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c995y8l892do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c995y8l892do</guid>
+      <pubDate>Sat, 28 Mar 2026 08:16:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4daa/live/88cbb390-29fa-11f1-99ef-b5dfea7d5974.jpg"/>
     </item>
     <item>
       <title><![CDATA[Does Chukwuemeka show the demise of the 90-minute player?]]></title>
@@ -142,14 +150,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdj7d0vv98go</guid>
       <pubDate>Fri, 27 Mar 2026 16:58:05 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7f/live/b9f68850-2a09-11f1-b297-95b0a0a8331e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Scotland highs kept me going, says Robertson]]></title>
-      <description><![CDATA[Scotland captain Andy Robertson says playing for his country this season has been important after losing his starting spot at Liverpool.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn89xn74pgjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn89xn74pgjo</guid>
-      <pubDate>Fri, 27 Mar 2026 16:42:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb8a/live/124af1a0-29ef-11f1-81d4-f1e3c77fafb4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wales' World Cup dream ends in pain of penalty shootout]]></title>
@@ -192,6 +192,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0214/live/1e3dd340-2965-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Managing in an international break - and what to do when your star player does not come home]]></title>
+      <description><![CDATA[Tony Pulis explains why international breaks can be an opportunity as well as a problem for managers, and what he did when one of his players did not return on time.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c747mx3eppeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c747mx3eppeo</guid>
+      <pubDate>Fri, 27 Mar 2026 08:18:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Iran protest before friendly remembers victims of deadly school attack]]></title>
       <description><![CDATA[The Iran men's national football team wore black armbands and held schoolbags as their national anthem played before a match against Nigeria.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c1eqz131z37o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -200,12 +208,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c9c/live/aa3fef90-29f1-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Managing in an international break - and what to do when your star player does not come home]]></title>
-      <description><![CDATA[Tony Pulis explains why international breaks can be an opportunity as well as a problem for managers, and what he did when one of his players did not return on time.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c747mx3eppeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c747mx3eppeo</guid>
-      <pubDate>Fri, 27 Mar 2026 08:18:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
+      <title><![CDATA[Scotland highs kept me going, says Robertson]]></title>
+      <description><![CDATA[Scotland captain Andy Robertson says playing for his country this season has been important after losing his starting spot at Liverpool.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn89xn74pgjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn89xn74pgjo</guid>
+      <pubDate>Fri, 27 Mar 2026 16:42:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb8a/live/124af1a0-29ef-11f1-81d4-f1e3c77fafb4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Inter Miami name stand after Argentina great Messi]]></title>
@@ -230,14 +238,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy417p1ekx0o</guid>
       <pubDate>Fri, 27 Mar 2026 06:43:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0b8/live/9b1facc0-29c0-11f1-b297-95b0a0a8331e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Leicester lost £71.1m in Premier League relegation season]]></title>
-      <description><![CDATA[Leicester City report a pre-tax loss of £71.1m from their season back in the Premier League in 2024-25. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c070k00er0no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c070k00er0no</guid>
-      <pubDate>Fri, 27 Mar 2026 16:37:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0841/live/000b6510-29cc-11f1-952c-77491ff53aff.jpg"/>
     </item>
     <item>
       <title><![CDATA['Stunning, breathtaking, glorious!' James gives Wales lead against Bosnia]]></title>
@@ -290,6 +290,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3a/live/c3621610-296f-11f1-80ce-dd6cf1f905dd.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Leicester lost £71.1m in Premier League relegation season]]></title>
+      <description><![CDATA[Leicester City report a pre-tax loss of £71.1m from their season back in the Premier League in 2024-25. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c070k00er0no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c070k00er0no</guid>
+      <pubDate>Fri, 27 Mar 2026 16:37:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0841/live/000b6510-29cc-11f1-952c-77491ff53aff.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[England superfan set to sell house for World Cup trip]]></title>
       <description><![CDATA[England superfan Andy Milne says he is selling a house to fund his trip to watch the Three Lions at the World Cup this summer.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwyv712195po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -320,22 +328,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj940y2vnlno</guid>
       <pubDate>Fri, 27 Mar 2026 16:00:22 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df69/live/317d9890-2916-11f1-8742-11d9a3760e0c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why is Bernabeu hosting Madrid Open tennis stars?]]></title>
-      <description><![CDATA[Real Madrid's Bernabeu stadium will swap its grass pitch for clay courts when it hosts the likes of Carlos Alcaraz during next month's Madrid Open.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c9qdj39943eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c9qdj39943eo</guid>
-      <pubDate>Fri, 27 Mar 2026 13:01:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf14/live/1be45370-29d4-11f1-9def-51999882d8d7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Fenerbahçe to pay for damages after Forest clash]]></title>
-      <description><![CDATA[Fenerbahçe are ordered to to pay for damages caused by its fans during a Europa League tie.]]></description>
-      <link>https://www.bbc.com/news/articles/ceqw9pzq425o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ceqw9pzq425o</guid>
-      <pubDate>Fri, 27 Mar 2026 13:13:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8878/live/c03f6190-29d8-11f1-a0ea-eb2f3cbc1335.jpg"/>
     </item>
     <item>
       <title><![CDATA[Barcelona put six past Madrid in quarter-final first leg]]></title>
