@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 29 Mar 2026 20:40:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 21:04:16 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Our skin is falling off and no-one can tell us why ]]></title>
+      <description><![CDATA[People sharing pictures and accounts on socials of red, inflamed skin have triggered the first UK research into TSW.]]></description>
+      <link>https://www.bbc.com/news/articles/cx26pzpr71ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx26pzpr71ko</guid>
+      <pubDate>Sun, 29 Mar 2026 00:06:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b39f/live/692a8340-2a9a-11f1-934f-036468834728.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Are UK students at risk of more deadly meningitis outbreaks?]]></title>
       <description><![CDATA[The worst seems to be over, but questions remain about why this happened and whether it could happen again.]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8dnxln3y5o</guid>
       <pubDate>Wed, 25 Mar 2026 10:56:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c2b/live/930d70d0-2812-11f1-a79a-77e93010d956.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Young people less satisfied with the NHS - survey]]></title>
-      <description><![CDATA[The survey shows only one in four people are satisfied with the NHS but the figure is even lower in younger age groups. ]]></description>
-      <link>https://www.bbc.com/news/articles/c8x7jd8lnrvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8x7jd8lnrvo</guid>
-      <pubDate>Wed, 25 Mar 2026 12:46:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d44/live/010e39c0-2845-11f1-ac61-c943803d2ed3.jpg"/>
     </item>
     <item>
       <title><![CDATA[NHS dentistry is rotting. Will the plan to fix it work?]]></title>
@@ -230,6 +230,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cly0pn1xn79o</guid>
       <pubDate>Wed, 11 Mar 2026 17:04:41 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b8f/live/53ae1160-1c64-11f1-b8c2-59d98cecc063.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Is screen time always bad and how do I manage it?]]></title>
+      <description><![CDATA[How do you manage screen time, does it have a bad impact and what steps can you take to mitigate the problem?]]></description>
+      <link>https://www.bbc.com/news/articles/crk1e11ek8vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/crk1e11ek8vo</guid>
+      <pubDate>Fri, 27 Mar 2026 22:52:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce6f/live/256d4ba0-29e7-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
       <title><![CDATA[What are the symptoms of meningitis and how is it spread?]]></title>
