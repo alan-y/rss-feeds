@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 29 Mar 2026 10:04:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 10:55:51 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -80,14 +80,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a1/live/9debec40-2838-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Senegal parade Afcon trophy before friendly despite title controversy]]></title>
-      <description><![CDATA[Senegal parade the Africa Cup of Nations trophy before Saturday's friendly match against Peru in Paris - despite being stripped of the title earlier this month.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqxl0gj9787o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxl0gj9787o</guid>
-      <pubDate>Sat, 28 Mar 2026 18:13:22 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b09/live/472d10b0-2abc-11f1-b297-95b0a0a8331e.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Scotland's World Cup build-up begins with narrow Japan loss]]></title>
       <description><![CDATA[Watch the best of the action from Hampden as Junya Ito's 84th-minute strike consigns Scotland to defeat in their first World Cup warm-up friendly.]]></description>
       <link>https://www.bbc.com/sport/videos/c9wqpvjz80no?at_medium=RSS&amp;at_campaign=rss</link>
@@ -102,6 +94,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ceqw98r01elo</guid>
       <pubDate>Sat, 28 Mar 2026 23:30:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d7f/live/e8785280-2adb-11f1-b297-95b0a0a8331e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Senegal parade Afcon trophy before friendly despite title controversy]]></title>
+      <description><![CDATA[Senegal parade the Africa Cup of Nations trophy before Saturday's friendly match against Peru in Paris - despite being stripped of the title earlier this month.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqxl0gj9787o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxl0gj9787o</guid>
+      <pubDate>Sat, 28 Mar 2026 18:13:22 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b09/live/472d10b0-2abc-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
       <title><![CDATA[When football turned to penalties to end 'cruel' system]]></title>
@@ -136,14 +136,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a33/live/e2aed750-2a9c-11f1-888e-d5e7420ac26d.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How do Man City replace captain Silva if he leaves?]]></title>
-      <description><![CDATA[Manchester City could find themselves without the services of their manager and captain next season with the futures of both Pep Guardiola and Bernardo Silva in question beyond this summer.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c77mj3je86yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c77mj3je86yo</guid>
-      <pubDate>Sat, 28 Mar 2026 07:53:38 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60c6/live/be4cafe0-2844-11f1-ac61-c943803d2ed3.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Man City edge closer to WSL title by beating Man Utd]]></title>
       <description><![CDATA[Vivianne Miedema's double helps Manchester City edge closer to the Women's Super League title with a comfortable derby win over neighbours United.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c6246ezkqleo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -176,6 +168,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf51/live/a328e560-2968-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How do Man City replace captain Silva if he leaves?]]></title>
+      <description><![CDATA[Manchester City could find themselves without the services of their manager and captain next season with the futures of both Pep Guardiola and Bernardo Silva in question beyond this summer.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c77mj3je86yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c77mj3je86yo</guid>
+      <pubDate>Sat, 28 Mar 2026 07:53:38 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60c6/live/be4cafe0-2844-11f1-ac61-c943803d2ed3.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Southend and Wealdstone tee up Wembley date in FA Trophy]]></title>
       <description><![CDATA[National League sides Southend and Wealdstone will meet at Wembley in the FA Trophy final after wins over National League North opponents.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g80792y3no?at_medium=RSS&amp;at_campaign=rss</link>
@@ -206,14 +206,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgx88p89deo</guid>
       <pubDate>Sat, 28 Mar 2026 11:33:46 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e04/live/54d95a20-2a8a-11f1-934f-036468834728.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What is Scotland's first-choice defensive pairing?]]></title>
-      <description><![CDATA[His pairing in central defence is one of the key decisions facing Scotland head coach Steve Clarke in Saturday's friendly against Japan, writes Tom English.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckg0xd3nk15o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg0xd3nk15o</guid>
-      <pubDate>Sat, 28 Mar 2026 08:00:36 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb0f/live/c3afc6b0-2908-11f1-8d7b-c7ea0e92917e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Tonali and Kean end Northern Ireland's World Cup dreams]]></title>
@@ -254,6 +246,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cjw84n93plvo</guid>
       <pubDate>Thu, 26 Mar 2026 21:34:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c1a/live/717a28b0-295b-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What is Scotland's first-choice defensive pairing?]]></title>
+      <description><![CDATA[His pairing in central defence is one of the key decisions facing Scotland head coach Steve Clarke in Saturday's friendly against Japan, writes Tom English.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckg0xd3nk15o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg0xd3nk15o</guid>
+      <pubDate>Sat, 28 Mar 2026 08:00:36 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb0f/live/c3afc6b0-2908-11f1-8d7b-c7ea0e92917e.jpg"/>
     </item>
     <item>
       <title><![CDATA[What happened to former Chelsea wonderkid Musonda?]]></title>
@@ -302,14 +302,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c747mx3eppeo</guid>
       <pubDate>Fri, 27 Mar 2026 08:18:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Who was the attacking spark? How England's players rated]]></title>
-      <description><![CDATA[Who impressed for England in Friday's friendly against Uruguay? Alex Howell rates the players.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp84kxzjne2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp84kxzjne2o</guid>
-      <pubDate>Fri, 27 Mar 2026 21:52:43 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca7c/live/fd3a50d0-2a25-11f1-841d-036b1ed79cac.jpg"/>
     </item>
     <item>
       <title><![CDATA[Tonali strike puts Italy ahead against Northern Ireland]]></title>
