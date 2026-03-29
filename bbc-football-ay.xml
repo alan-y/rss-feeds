@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 29 Mar 2026 19:58:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 20:40:28 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,6 +48,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602e/live/51812470-2616-11f1-bb2e-e7449480cfc0.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Bayern wary of Saudi interest in Kane - Monday's gossip]]></title>
+      <description><![CDATA[Bayern Munich wary of Saudi Pro League clubs targeting Harry Kane, Bernardo Silva set to leave Manchester City, Inter Miami start talks with Manchester United's Casemiro, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwykg07e994o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwykg07e994o</guid>
+      <pubDate>Sun, 29 Mar 2026 20:32:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48b0/live/bf018ed0-2ba3-11f1-b297-95b0a0a8331e.png"/>
+    </item>
+    <item>
       <title><![CDATA[Ex-England and Spurs striker Defoe named Woking boss]]></title>
       <description><![CDATA[National League side Woking appoint former Tottenham and England striker Jermain Defoe as their new head coach.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cde52ng3r11o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -72,14 +80,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8630/live/0ec0cb70-2929-11f1-934f-036468834728.png"/>
     </item>
     <item>
-      <title><![CDATA[Caf general secretary resigns amid Afcon final fallout]]></title>
-      <description><![CDATA[Veron Mosengo-Omba, a controversial figure, leaves at a turbulent time for African football.]]></description>
-      <link>https://www.bbc.com/news/articles/cx2w8d1q70vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2w8d1q70vo</guid>
-      <pubDate>Sun, 29 Mar 2026 13:53:17 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b2/live/8fe83090-2b76-11f1-915e-076b1d4be1dd.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Tudor's five Premier League games as Spurs boss ]]></title>
       <description><![CDATA[BBC Sport takes a look back at Igor Tudor's five Premier League games in charge as Tottenham Hotspur boss.
 
@@ -99,20 +99,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce8b/live/e24dcac0-2acc-11f1-b824-0d5a31700528.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Caf general secretary resigns amid Afcon final fallout]]></title>
+      <description><![CDATA[Veron Mosengo-Omba, a controversial figure, leaves at a turbulent time for African football.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2w8d1q70vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2w8d1q70vo</guid>
+      <pubDate>Sun, 29 Mar 2026 13:53:17 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b2/live/8fe83090-2b76-11f1-915e-076b1d4be1dd.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[England's Kearns reveals she has had a miscarriage]]></title>
+      <description><![CDATA[England international Missy Bo Kearns says "the past weeks have been filled with a kind of sadness that's hard to explain" as she reveals she has had a miscarriage.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpd5zqp8wxzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpd5zqp8wxzo</guid>
+      <pubDate>Sun, 29 Mar 2026 20:13:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a93/live/c8942c50-2ba8-11f1-960f-c9f955486e0a.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Were England players really 'playing for themselves' - and what next?]]></title>
       <description><![CDATA[Did England manager Thomas Tuchel judge this international break correctly by naming such a large squad? Or was it a missed opportunity?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwyxe764gv0o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyxe764gv0o</guid>
       <pubDate>Sat, 28 Mar 2026 20:01:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfab/live/db770f30-2a96-11f1-a79a-77e93010d956.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Newcastle still keen on Trafford - Sunday's gossip]]></title>
-      <description><![CDATA[Manchester City's James Trafford remains a potential target for Newcastle, Real Madrid are among the clubs interested in Crystal Palace's Adam Wharton, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2vep99y2qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2vep99y2qo</guid>
-      <pubDate>Sat, 28 Mar 2026 22:00:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2faa/live/9cb069c0-2acf-11f1-b297-95b0a0a8331e.png"/>
     </item>
     <item>
       <title><![CDATA[Chelsea leave it late to win seven-goal thriller over Villa]]></title>
@@ -195,14 +203,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fac/live/82d06720-2b75-11f1-915e-076b1d4be1dd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Man City 'handling pressure' of WSL title race with 'statement' win]]></title>
-      <description><![CDATA[Manchester City's manager Andree Jeglertz says he "enjoyed" his side's performance in a dominating win at Manchester United that edges them closer to a first WSL title in a decade.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3v6wdg6dq2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3v6wdg6dq2o</guid>
-      <pubDate>Sat, 28 Mar 2026 17:53:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9611/live/db1d6bc0-2abd-11f1-99e5-379faec384f8.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[England players will support White - Henderson]]></title>
       <description><![CDATA[Jordan Henderson says England players will support Ben White after the Arsenal defender was booed by fans at Wembley in Friday's 1-1 draw with Uruguay.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cd0rnndx7vxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -259,6 +259,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f4e/live/4dd6e3e0-2905-11f1-8d7b-c7ea0e92917e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Man City 'handling pressure' of WSL title race with 'statement' win]]></title>
+      <description><![CDATA[Manchester City's manager Andree Jeglertz says he "enjoyed" his side's performance in a dominating win at Manchester United that edges them closer to a first WSL title in a decade.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3v6wdg6dq2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3v6wdg6dq2o</guid>
+      <pubDate>Sat, 28 Mar 2026 17:53:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9611/live/db1d6bc0-2abd-11f1-99e5-379faec384f8.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[If these were the Tuchel trials, Foden - among others - failed]]></title>
       <description><![CDATA[After another subdued performance in an England shirt, has Phil Foden wasted his last chance to make their World Cup squad?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4gj9qq8d5ko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -281,14 +289,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy813e05je9o</guid>
       <pubDate>Sat, 28 Mar 2026 12:00:41 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a33/live/e2aed750-2a9c-11f1-888e-d5e7420ac26d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Senegal parade Afcon trophy before friendly despite title controversy]]></title>
-      <description><![CDATA[Senegal parade the Africa Cup of Nations trophy before Saturday's friendly match against Peru in Paris - despite being stripped of the title earlier this month.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqxl0gj9787o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxl0gj9787o</guid>
-      <pubDate>Sat, 28 Mar 2026 18:13:22 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b09/live/472d10b0-2abc-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Brunt critical of 'ridiculous' Wales friendly]]></title>
@@ -410,6 +410,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff00/live/f07f7a40-29bd-11f1-952c-77491ff53aff.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Senegal parade Afcon trophy before friendly despite title controversy]]></title>
+      <description><![CDATA[Senegal parade the Africa Cup of Nations trophy before Saturday's friendly match against Peru in Paris - despite being stripped of the title earlier this month.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqxl0gj9787o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxl0gj9787o</guid>
+      <pubDate>Sat, 28 Mar 2026 18:13:22 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b09/live/472d10b0-2abc-11f1-b297-95b0a0a8331e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Does Chukwuemeka show the demise of the 90-minute player?]]></title>
       <description><![CDATA[Is former Aston Villa and Chelsea midfielder Carney Chukwuemeka, who has made 97 senior appearances across all competitions without playing a full 90 minutes, an exception or becoming the norm?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cq8wkyyv43ko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -424,14 +432,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg3g2gkw3po</guid>
       <pubDate>Thu, 26 Mar 2026 09:00:08 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc93/live/ff698890-26d2-11f1-b297-95b0a0a8331e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Saudi Pro League, the US or Europe - what are Salah's options?]]></title>
-      <description><![CDATA[Liverpool reporter Aadam Patel analyses what Mohamed Salah's next move might be following the forward's announcement that he is to leave the club this summer. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c86ew5d52d9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c86ew5d52d9o</guid>
-      <pubDate>Wed, 25 Mar 2026 14:50:13 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3de4/live/c8f06f40-2849-11f1-923f-8be7c886ebd4.jpg"/>
     </item>
     <item>
       <title><![CDATA[£123 for a child's England kit - have prices gone too far?]]></title>
@@ -560,14 +560,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm21274xn43o</guid>
       <pubDate>Thu, 19 Mar 2026 08:13:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87c0/live/976545c0-22ce-11f1-b72c-95dabe3e6755.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Arsenal captain Little signs contract extension]]></title>
-      <description><![CDATA[Arsenal captain Kim Little, 35, signs a one-year contract extension with the club.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0rxqg770rno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0rxqg770rno</guid>
-      <pubDate>Thu, 26 Mar 2026 17:30:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c6/live/3c699fd0-2900-11f1-be8b-2136d1c912ba.jpg"/>
     </item>
     <item>
       <title><![CDATA[Frank's downfall: Inside his struggle to get players and fans onboard ]]></title>
