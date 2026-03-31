@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 21:08:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 21:57:54 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Tech giant Oracle makes 'significant' job cuts]]></title>
+      <description><![CDATA[Oracle executives recently said the use of AI tools was allowing smaller engineering teams to do more work.]]></description>
+      <link>https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cm296jzzl9yo</guid>
+      <pubDate>Tue, 31 Mar 2026 21:50:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b56c/live/b36c93b0-2d35-11f1-a79a-77e93010d956.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Social media firms must better enforce Australia under-16 ban, watchdog says]]></title>
       <description><![CDATA[Regulator eSafety says it has concerns about how Facebook, Instagram, Snapchat, TikTok and YouTube are complying with the ban.]]></description>
