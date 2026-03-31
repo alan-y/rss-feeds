@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 17:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 18:37:34 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Tottenham Supporters' Trust says it cannot support De Zerbi appointment]]></title>
+      <description><![CDATA[Opposition to the appointment of new manager Roberto de Zerbi is growing among official Tottenham fans' groups, because of the Italian's controversial support of Mason Greenwood.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0mjrnr4ld3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mjrnr4ld3o</guid>
+      <pubDate>Tue, 31 Mar 2026 16:28:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc80/live/3c7c2830-2cf7-11f1-b960-35ed0ba67153.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Seven games to save Tottenham's season - De Zerbi becomes Spurs boss]]></title>
       <description><![CDATA[Roberto de Zerbi is appointed Tottenham's third boss of the season - with a clear objective for the next two months.]]></description>
@@ -22,14 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yjgd1dj8vo</guid>
       <pubDate>Tue, 31 Mar 2026 16:02:10 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e2/live/0a910dc0-2c45-11f1-86ea-7b38ea33820f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Tottenham Supporters' Trust says it cannot support De Zerbi appointment]]></title>
-      <description><![CDATA[A Tottenham fan who has threatened to stop attending matches said it would be "unforgivable" to name Roberto de Zerbi as the club's new manager.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0mjrnr4ld3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mjrnr4ld3o</guid>
-      <pubDate>Tue, 31 Mar 2026 16:28:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc80/live/3c7c2830-2cf7-11f1-b960-35ed0ba67153.jpg"/>
     </item>
     <item>
       <title><![CDATA['I like surprises' - Wiegman calls up 17-year-old Parkinson ]]></title>
@@ -72,20 +72,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4530/live/2c836ca0-2cfb-11f1-b960-35ed0ba67153.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ranking the 10 most exciting wingers in the world]]></title>
-      <description><![CDATA[Few things in football are more exciting than an in-form wide man, but who are the most exciting in the world right night?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg0wgy2ve7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg0wgy2ve7o</guid>
-      <pubDate>Tue, 31 Mar 2026 05:13:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e38/live/430fa280-28f6-11f1-b297-95b0a0a8331e.png"/>
-    </item>
-    <item>
       <title><![CDATA[Barcelona move difficult to turn down - Cucurella]]></title>
       <description><![CDATA[Chelsea defender Marc Cucurella says it would be "hard to turn down" an offer to return to his former club Barcelona.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8dlgd8562yo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8dlgd8562yo</guid>
       <pubDate>Tue, 31 Mar 2026 11:01:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdaf/live/6dff3ca0-2ce6-11f1-bdf5-ddbf94ae98c3.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ranking the 10 most exciting wingers in the world]]></title>
+      <description><![CDATA[Few things in football are more exciting than an in-form wide man, but who are the most exciting in the world right night?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvg0wgy2ve7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg0wgy2ve7o</guid>
+      <pubDate>Tue, 31 Mar 2026 05:13:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e38/live/430fa280-28f6-11f1-b297-95b0a0a8331e.png"/>
     </item>
     <item>
       <title><![CDATA[Concerns raised about Blackburn boss O'Neill's dual role]]></title>
@@ -96,44 +96,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee38/live/1d85de20-2cf8-11f1-b960-35ed0ba67153.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Kosovo in euphoria as they dream of World Cup history]]></title>
-      <description><![CDATA[Having gained independence in 2008, Kosovo are one game away from qualifying for the World Cup and sparking "the biggest celebrations ever seen in Pristina".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c33lzryg2rpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c33lzryg2rpo</guid>
-      <pubDate>Tue, 31 Mar 2026 05:00:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d850/live/170bb960-2c31-11f1-b8c9-f5058c0aec9a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Can you name the past 10 permanent Spurs managers?]]></title>
       <description><![CDATA[Tottenham have announced the appointment of Roberto De Zerbi as their new head coach.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cpd8vldvy2xo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpd8vldvy2xo</guid>
       <pubDate>Tue, 31 Mar 2026 16:09:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/522f/live/e9554d30-2d19-11f1-ba67-f7b8dbc6a466.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why innovative Canadian league is trialling daylight offside rule]]></title>
-      <description><![CDATA[BBC Sport looks at why the Canadian Premier League is trialling Arsene Wenger's 'daylight' offside rule in 2026.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd9vqn81zxjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9vqn81zxjo</guid>
-      <pubDate>Tue, 31 Mar 2026 07:06:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c2/live/48474d80-28ff-11f1-934f-036468834728.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[England-Japan water breaks to mimic World Cup conditions]]></title>
-      <description><![CDATA[There will be two water breaks during England's friendly against Japan as Thomas Tuchel's side attempt to mirror World Cup conditions.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy3j4r421yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy3j4r421yo</guid>
-      <pubDate>Tue, 31 Mar 2026 16:14:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59b8/live/4583fdf0-2d14-11f1-a79a-77e93010d956.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Vitek's viral moments & progress at Bristol City]]></title>
-      <description><![CDATA[In an extensive interview, Radek Vitek talks Manchester United, Bristol City, dealing with crosses and an extraordinary triple save.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c62lx9kln98o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62lx9kln98o</guid>
-      <pubDate>Tue, 31 Mar 2026 11:00:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddf8/live/5a85d300-2b6f-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wiegman on 'speechless' Parkinson's England call-up]]></title>
@@ -179,6 +147,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45ea/live/92635c00-2b71-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why innovative Canadian league is trialling daylight offside rule]]></title>
+      <description><![CDATA[BBC Sport looks at why the Canadian Premier League is trialling Arsene Wenger's 'daylight' offside rule in 2026.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd9vqn81zxjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9vqn81zxjo</guid>
+      <pubDate>Tue, 31 Mar 2026 07:06:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c2/live/48474d80-28ff-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Are Scotland really going to name 55 players in World Cup squad?]]></title>
       <description><![CDATA[Steve Clarke has disclosed he must submit a provisional 55-man Scotland squad for the World Cup. But what does that actually mean?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwykwedjj88o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -187,20 +163,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ee/live/4c1c4a30-2cf8-11f1-b960-35ed0ba67153.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Wales v Northern Ireland - the match nobody wants]]></title>
-      <description><![CDATA[Wales host Northern Ireland in a friendly in Cardiff on Tuesday because both teams lost their World Cup play-off semi-finals on Thursday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwyvnrqd3zxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyvnrqd3zxo</guid>
-      <pubDate>Tue, 31 Mar 2026 03:41:10 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6e/live/4ff7bb40-2c2a-11f1-8768-1105331460e6.png"/>
+      <title><![CDATA[England-Japan water breaks to mimic World Cup conditions]]></title>
+      <description><![CDATA[There will be two water breaks during England's friendly against Japan as Thomas Tuchel's side attempt to mirror World Cup conditions.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy3j4r421yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy3j4r421yo</guid>
+      <pubDate>Tue, 31 Mar 2026 16:14:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59b8/live/4583fdf0-2d14-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Who are the Japan players England should look out for?]]></title>
-      <description><![CDATA[England face Japan in their next friendly match as they continue their preparations for the World Cup this summer. BBC Sport takes a look at the Japanese players to look out for.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgldy0p024ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgldy0p024ro</guid>
-      <pubDate>Tue, 31 Mar 2026 05:31:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2855/live/4f4ffd10-2b7b-11f1-a79a-77e93010d956.png"/>
+      <title><![CDATA[Vitek's viral moments & progress at Bristol City]]></title>
+      <description><![CDATA[In an extensive interview, Radek Vitek talks Manchester United, Bristol City, dealing with crosses and an extraordinary triple save.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c62lx9kln98o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62lx9kln98o</guid>
+      <pubDate>Tue, 31 Mar 2026 11:00:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddf8/live/5a85d300-2b6f-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ghana sack manager Addo, 72 days before World Cup]]></title>
@@ -225,14 +201,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gqpkl5k84o</guid>
       <pubDate>Tue, 31 Mar 2026 10:50:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e67/live/8d8fcb10-2d0a-11f1-ba67-f7b8dbc6a466.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Five Euro 2028 tickets 'cost same as World Cup parking space']]></title>
-      <description><![CDATA[Uefa is to expected to broadly freeze prices at Euro 2028 - meaning supporters would be able to buy five tickets for the cost of one parking space at a World Cup stadium this summer.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwyd0pzmv0jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyd0pzmv0jo</guid>
-      <pubDate>Mon, 30 Mar 2026 16:12:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f7b/live/a1d503d0-2c4a-11f1-b979-37139b7cb8c6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Brighton condemn Leicester City to seventh-straight league loss]]></title>
@@ -273,6 +241,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ceqw98r01elo</guid>
       <pubDate>Sat, 28 Mar 2026 23:30:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d7f/live/e8785280-2adb-11f1-b297-95b0a0a8331e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Five Euro 2028 tickets 'cost same as World Cup parking space']]></title>
+      <description><![CDATA[Uefa is to expected to broadly freeze prices at Euro 2028 - meaning supporters would be able to buy five tickets for the cost of one parking space at a World Cup stadium this summer.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwyd0pzmv0jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyd0pzmv0jo</guid>
+      <pubDate>Mon, 30 Mar 2026 16:12:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f7b/live/a1d503d0-2c4a-11f1-b979-37139b7cb8c6.jpg"/>
     </item>
     <item>
       <title><![CDATA['This is bigger than football' - DR Congo bid to end 52-year World Cup wait]]></title>
@@ -321,14 +297,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0le09jx59do</guid>
       <pubDate>Mon, 30 Mar 2026 17:47:10 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74e1/live/d4496830-2c5c-11f1-862e-73ba828c2693.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Shades of Gascoigne - the rise of England's Anderson]]></title>
-      <description><![CDATA[Four years ago Elliot Anderson was helping Bristol Rovers to League Two promotion - this summer he could be a key player for England at the World Cup. BBC Sport charts his rise.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpqxdr3gzxvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpqxdr3gzxvo</guid>
-      <pubDate>Mon, 30 Mar 2026 05:07:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faf2/live/2ac9f150-2c41-11f1-88b9-4987f82331d9.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man City edge closer to WSL title by beating Man Utd]]></title>
@@ -429,6 +397,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e23/live/cb965160-288a-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Shades of Gascoigne - the rise of England's Anderson]]></title>
+      <description><![CDATA[Four years ago Elliot Anderson was helping Bristol Rovers to League Two promotion - this summer he could be a key player for England at the World Cup. BBC Sport charts his rise.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpqxdr3gzxvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpqxdr3gzxvo</guid>
+      <pubDate>Mon, 30 Mar 2026 05:07:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faf2/live/2ac9f150-2c41-11f1-88b9-4987f82331d9.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Premier League quiz: Name every manager departure this season]]></title>
       <description><![CDATA[A  Premier League club has parted ways with a permanent head coach on nine occasions this season - can you name them all?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvg5w56pnz9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -467,14 +443,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg97pgj2q0o</guid>
       <pubDate>Fri, 27 Mar 2026 13:24:43 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bb4/live/e31fba40-29db-11f1-9def-51999882d8d7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Like being stabbed in stomach' - Everton's Snoeijs on endometriosis]]></title>
-      <description><![CDATA[Everton forward Katja Snoeijs explains her journey to getting a diagnosis of endometriosis.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg3g2gkw3po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg3g2gkw3po</guid>
-      <pubDate>Thu, 26 Mar 2026 09:00:08 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc93/live/ff698890-26d2-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
       <title><![CDATA[All February and March's done deals, including deadline day]]></title>
@@ -563,14 +531,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cedeydj28eno</guid>
       <pubDate>Tue, 31 Mar 2026 09:34:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfac/live/a75f8750-2ce3-11f1-bdf5-ddbf94ae98c3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How to follow Ivory Coast v Scotland on BBC TV, radio & online]]></title>
-      <description><![CDATA[The details of the BBC's television, radio and digital coverage of Tuesday's friendly between Scotland and the Ivory Coast.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c05dnj7n7dzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c05dnj7n7dzo</guid>
-      <pubDate>Mon, 30 Mar 2026 11:02:50 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44e4/live/f572fc20-2b8e-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Lang's surgery for thumb injury 'went well']]></title>
