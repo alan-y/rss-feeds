@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 12:39:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 14:16:02 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Claude Code users hitting usage limits 'way faster than expected']]></title>
+      <description><![CDATA[Anthropic, the company behind the AI coding assistant, said it was fixing a problem blocking users.]]></description>
+      <link>https://www.bbc.com/news/articles/ce8l2q5yq51o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8l2q5yq51o</guid>
+      <pubDate>Wed, 01 Apr 2026 11:59:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/195d/live/bef0b6a0-2dab-11f1-b297-95b0a0a8331e.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Mass robotaxi malfunction halts traffic in Chinese city]]></title>
       <description><![CDATA[Baidu has not responded to a request for comment about the outage, which affected at least 100 cars.]]></description>
@@ -105,14 +113,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvg4p02lvd0o</guid>
       <pubDate>Fri, 27 Mar 2026 00:44:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f956/live/979a6b50-2978-11f1-a79a-77e93010d956.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Elon Musk's X advertising boycott lawsuit dismissed by US judge]]></title>
-      <description><![CDATA[US District Judge Jane Boyle said the company had failed to show it had suffered any harm under federal competition laws.]]></description>
-      <link>https://www.bbc.com/news/articles/c05dlm0l0jgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c05dlm0l0jgo</guid>
-      <pubDate>Thu, 26 Mar 2026 17:29:13 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a734/live/95be3b70-292f-11f1-b930-6bf1eac08e0d.jpg"/>
     </item>
   </channel>
 </rss>
