@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 01 Apr 2026 09:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 10:39:41 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[BBC Sport's McNulty picks his World Cup England squad - do you agree?]]></title>
+      <description><![CDATA[BBC Sport chief football writer Phil McNulty picks his 26-man England World Cup squad.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c995p9kdm3mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c995p9kdm3mo</guid>
+      <pubDate>Wed, 01 Apr 2026 10:01:16 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/470b/live/04edb620-2ce0-11f1-b9b6-edf30202fd70.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Failed experiment as England get grim glimpse of life without Kane]]></title>
       <description><![CDATA[England's World Cup hopes rest on captain Harry Kane after a grim taste of life without him in the defeat against Japan at Wembley, says chief football writer Phil McNulty.]]></description>
@@ -70,14 +78,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgew2gn0xvo</guid>
       <pubDate>Wed, 01 Apr 2026 06:26:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6599/live/81ad9760-2b88-11f1-b297-95b0a0a8331e.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Three top-20 teams played, no wins. Should Tuchel be concerned?]]></title>
-      <description><![CDATA[England have not beaten a side ranked in the top 20 under Tuchel and head into the World Cup with questions about their performance. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8jkgg73kgdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8jkgg73kgdo</guid>
-      <pubDate>Tue, 31 Mar 2026 23:00:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fb7/live/63b2d6e0-2da3-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA[Spanish police investigating racist chants]]></title>
@@ -160,6 +160,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8d2/live/01af4d30-2d52-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Three top-20 teams played, no wins. Should Tuchel be concerned?]]></title>
+      <description><![CDATA[England have not beaten a side ranked in the top 20 under Tuchel and head into the World Cup with questions about their performance. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8jkgg73kgdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8jkgg73kgdo</guid>
+      <pubDate>Tue, 31 Mar 2026 23:00:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fb7/live/63b2d6e0-2da3-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Who is a certain starter? How England's players rated against Japan]]></title>
       <description><![CDATA[Who impressed for England in Tuesday's friendly against Japan? Alex Howell rates the players.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c895p7epg3eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -198,14 +206,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98kp14d889o</guid>
       <pubDate>Tue, 31 Mar 2026 22:15:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecca/live/fbba3e40-2d4b-11f1-8ac7-a101b1a2933c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I like surprises' - Wiegman calls up 17-year-old Parkinson ]]></title>
-      <description><![CDATA[England manager Sarina Wiegman names Erica Meg Parkinson as a surprise inclusion in her 23-player squad.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cyv1qv55p17o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv1qv55p17o</guid>
-      <pubDate>Tue, 31 Mar 2026 12:54:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d51/live/ac0b5f50-2ce7-11f1-bdf5-ddbf94ae98c3.jpg"/>
     </item>
     <item>
       <title><![CDATA['That's world class' - pundits analyse Russo's hat-trick vs Tottenham]]></title>
@@ -259,20 +259,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c2/live/48474d80-28ff-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
+      <title><![CDATA['I like surprises' - Wiegman calls up 17-year-old Parkinson ]]></title>
+      <description><![CDATA[England manager Sarina Wiegman names Erica Meg Parkinson as a surprise inclusion in her 23-player squad.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cyv1qv55p17o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv1qv55p17o</guid>
+      <pubDate>Tue, 31 Mar 2026 12:54:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d51/live/ac0b5f50-2ce7-11f1-bdf5-ddbf94ae98c3.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['I put players first' - O'Neill disappointed with concerns]]></title>
       <description><![CDATA[Northern Ireland manager Michael O'Neill says he is "disappointed" by clubs who raised concerns with the EFL about his dual role with Blackburn Rovers.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c1krv48k702o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1krv48k702o</guid>
       <pubDate>Tue, 31 Mar 2026 22:20:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0cd/live/995dad90-2d46-11f1-9d06-9fd6b940097f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Parrott rues missed chances in North Macedonia draw]]></title>
-      <description><![CDATA[Republic of Ireland's Troy Parrott says he "wasn't good enough in front of goal" during their goalless friendly with North Macedonia at the Aviva Stadium.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy7150m65l6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy7150m65l6o</guid>
-      <pubDate>Tue, 31 Mar 2026 22:28:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c8c/live/29ee2280-2d4d-11f1-8ac7-a101b1a2933c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch: Brown's last Ayr game as Championship leaders also stumble]]></title>
@@ -371,6 +371,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03da/live/869aa530-296a-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Parrott rues missed chances in North Macedonia draw]]></title>
+      <description><![CDATA[Republic of Ireland's Troy Parrott says he "wasn't good enough in front of goal" during their goalless friendly with North Macedonia at the Aviva Stadium.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy7150m65l6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy7150m65l6o</guid>
+      <pubDate>Tue, 31 Mar 2026 22:28:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c8c/live/29ee2280-2d4d-11f1-8ac7-a101b1a2933c.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Iran will play World Cup games in US - Infantino]]></title>
       <description><![CDATA[Fifa president Gianni Infantino says Iran will play their World Cup games in the United States as planned.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cz0edm2r950o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -393,14 +401,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg0wgy2ve7o</guid>
       <pubDate>Tue, 31 Mar 2026 05:13:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e38/live/430fa280-28f6-11f1-b297-95b0a0a8331e.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Are Scotland really going to name 55 players in World Cup squad?]]></title>
-      <description><![CDATA[Steve Clarke has disclosed he must submit a provisional 55-man Scotland squad for the World Cup. But what does that actually mean?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwykwedjj88o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwykwedjj88o</guid>
-      <pubDate>Tue, 31 Mar 2026 15:07:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ee/live/4c1c4a30-2cf8-11f1-b960-35ed0ba67153.jpg"/>
     </item>
     <item>
       <title><![CDATA[Shades of Gascoigne - the rise of England's Anderson]]></title>
@@ -521,6 +521,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwywd7lrpg9o</guid>
       <pubDate>Wed, 01 Apr 2026 07:00:45 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78f3/live/62c43220-2d98-11f1-934f-036468834728.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Are Scotland really going to name 55 players in World Cup squad?]]></title>
+      <description><![CDATA[Steve Clarke has disclosed he must submit a provisional 55-man Scotland squad for the World Cup. But what does that actually mean?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwykwedjj88o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwykwedjj88o</guid>
+      <pubDate>Tue, 31 Mar 2026 15:07:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ee/live/4c1c4a30-2cf8-11f1-b960-35ed0ba67153.jpg"/>
     </item>
     <item>
       <title><![CDATA[Lang's surgery for thumb injury 'went well']]></title>
