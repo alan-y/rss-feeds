@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 06:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 07:43:35 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,6 +40,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b6d/live/a23d5e10-2db4-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Who uses academy players most in Premier League - and does it matter?]]></title>
+      <description><![CDATA[As Max Dowman becomes the latest academy product to make an impact in the Premier League, BBC Sport looks at who uses their youngsters most.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn081g8x520o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn081g8x520o</guid>
+      <pubDate>Thu, 02 Apr 2026 06:59:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c83d/live/6321f620-2c72-11f1-b9ce-87cd7deab432.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How Arsenal are building something 'special' in Europe]]></title>
       <description><![CDATA[Arsenal had their fairytale ending in Europe last season - but can they produce something magical again?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4gj2yx97w2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -56,14 +64,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6b7/live/ddee0490-2db5-11f1-b692-3b8b8cac9c96.jpg"/>
     </item>
     <item>
-      <title><![CDATA[BBC Sport's McNulty picks his England World Cup squad - do you agree?]]></title>
-      <description><![CDATA[BBC Sport chief football writer Phil McNulty picks his 26-man England World Cup squad - do you agree?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c995p9kdm3mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c995p9kdm3mo</guid>
-      <pubDate>Wed, 01 Apr 2026 10:01:16 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/470b/live/04edb620-2ce0-11f1-b9b6-edf30202fd70.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Foden not guaranteed World Cup squad spot - Tuchel]]></title>
       <description><![CDATA[Manchester City midfielder Phil Foden's is not guaranteed a place in England's squad for the 2026 World Cup, says manager Thomas Tuchel.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cp86d7j2g7vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -72,12 +72,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/826d/live/0eb85a40-2dfb-11f1-bcc3-17208151de09.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Captain Donnarumma vows to restore Italy after heartbreak]]></title>
-      <description><![CDATA[Italy captain Gianluigi Donnarumma says he "cried because of the enormous sadness" of not being able to lead the national side to the 2026 World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2ev313pld3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2ev313pld3o</guid>
-      <pubDate>Wed, 01 Apr 2026 17:00:00 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf34/live/13cdeb30-2dec-11f1-934f-036468834728.jpg"/>
+      <title><![CDATA[BBC Sport's McNulty picks his England World Cup squad - do you agree?]]></title>
+      <description><![CDATA[BBC Sport chief football writer Phil McNulty picks his 26-man England World Cup squad - do you agree?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c995p9kdm3mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c995p9kdm3mo</guid>
+      <pubDate>Wed, 01 Apr 2026 10:01:16 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/470b/live/04edb620-2ce0-11f1-b9b6-edf30202fd70.jpg"/>
     </item>
     <item>
       <title><![CDATA[Everton interested in Stones return - Thursday's gossip]]></title>
@@ -152,6 +152,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b55/live/99b31c40-2c64-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Captain Donnarumma vows to restore Italy after heartbreak]]></title>
+      <description><![CDATA[Italy captain Gianluigi Donnarumma says he "cried because of the enormous sadness" of not being able to lead the national side to the 2026 World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2ev313pld3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2ev313pld3o</guid>
+      <pubDate>Wed, 01 Apr 2026 17:00:00 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf34/live/13cdeb30-2dec-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Who were Scotland's winners and losers from international break?]]></title>
       <description><![CDATA[After a friendly defeats by Japan and Ivory Coast, which Scotland players are the winners and losers of the international break?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c6249z0zw4po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -190,14 +198,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c070185ygpno</guid>
       <pubDate>Tue, 31 Mar 2026 22:42:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a100/live/e594de70-2d48-11f1-8ac7-a101b1a2933c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Lewandowski misses out on World Cup - who else won't be there?]]></title>
-      <description><![CDATA[The World Cup includes 48 nations, but there are still a number of top players who have missed out on qualification.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn89z009kv3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn89z009kv3o</guid>
-      <pubDate>Tue, 31 Mar 2026 22:41:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0724/live/cd6b7140-2d45-11f1-9d06-9fd6b940097f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man arrested on suspicion of racially abusing Sunderland's Geertruida]]></title>
@@ -262,6 +262,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yjgd1dj8vo</guid>
       <pubDate>Tue, 31 Mar 2026 16:02:10 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e2/live/0a910dc0-2c45-11f1-86ea-7b38ea33820f.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Lewandowski misses out on World Cup - who else won't be there?]]></title>
+      <description><![CDATA[The World Cup includes 48 nations, but there are still a number of top players who have missed out on qualification.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn89z009kv3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn89z009kv3o</guid>
+      <pubDate>Tue, 31 Mar 2026 22:41:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0724/live/cd6b7140-2d45-11f1-9d06-9fd6b940097f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wrexham ready 'to get going again' in promotion bid]]></title>
@@ -523,12 +531,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c877/live/abff63e0-211f-11f1-9120-a910fc22c6ac.png"/>
     </item>
     <item>
-      <title><![CDATA[Scotland coach Clarke's contract talks on hold - gossip]]></title>
-      <description><![CDATA[Scotland coach Steve Clarke's contract talks on hold as Hibernian look into longer Dan Barlaser stay.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwywd7lrpg9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwywd7lrpg9o</guid>
-      <pubDate>Wed, 01 Apr 2026 07:00:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78f3/live/62c43220-2d98-11f1-934f-036468834728.png"/>
+      <title><![CDATA[Kilmarnock's Watson being watched by Bologna - gossip]]></title>
+      <description><![CDATA[Reported Serie A interest in Kilmarnock midfielder as Rangers are linked with an international goalkeeper...]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2elk2xpk3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2elk2xpk3o</guid>
+      <pubDate>Thu, 02 Apr 2026 07:11:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1645/live/cfdbd780-2e62-11f1-934f-036468834728.png"/>
     </item>
     <item>
       <title><![CDATA[Are Scotland really going to name 55 players in World Cup squad?]]></title>
