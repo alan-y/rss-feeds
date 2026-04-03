@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 17:55:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 18:44:50 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -54,14 +54,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cevk0mn93ejo</guid>
       <pubDate>Fri, 03 Apr 2026 13:04:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4a8/live/a3f1bb50-2f55-11f1-b471-73a11a0c1806.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hurtling towards relegation - but can Port Vale shock Chelsea in FA Cup?]]></title>
-      <description><![CDATA[Six thousand Port Vale fans will travel to Chelsea on Saturday to cheer on the struggling League One side in the quarter-finals of the FA Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cm2x22jgrkno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2x22jgrkno</guid>
-      <pubDate>Fri, 03 Apr 2026 07:59:53 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cff/live/6c4a84b0-2b5a-11f1-8c3a-a5a96d0e4227.jpg"/>
     </item>
     <item>
       <title><![CDATA[What De Zerbi needs to do to turn Tottenham around]]></title>
@@ -112,6 +104,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a020/live/bb6e7270-2e13-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Hurtling towards relegation - but can Port Vale shock Chelsea in FA Cup?]]></title>
+      <description><![CDATA[Six thousand Port Vale fans will travel to Chelsea on Saturday to cheer on the struggling League One side in the quarter-finals of the FA Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cm2x22jgrkno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2x22jgrkno</guid>
+      <pubDate>Fri, 03 Apr 2026 07:59:53 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cff/live/6c4a84b0-2b5a-11f1-8c3a-a5a96d0e4227.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Will Aberdeen be relegated for first time ever?]]></title>
       <description><![CDATA[With seven games of the Scottish Premiership to go, Aberdeen are in serious danger of finishing in the relegation play-off spot. Do they have what it takes to stay up?]]></description>
       <link>https://www.bbc.com/sport/football/articles/czxrwq4e25do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -128,28 +128,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ec/live/12ceec60-2dd9-11f1-934f-036468834728.png"/>
     </item>
     <item>
-      <title><![CDATA[McInnes focused on wins not psychology in title race]]></title>
-      <description><![CDATA[Hearts manager Derek McInnes sees no psychological advantage in any team playing before their Scottish Premiership title rivals as Rangers have a chance to knock the leaders off top spot.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cyv1jlrdr12o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv1jlrdr12o</guid>
-      <pubDate>Fri, 03 Apr 2026 14:52:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b189/live/f9bf86b0-2f6f-11f1-8612-f1cd1152f88c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Uncapped Chambers named in McArdle's first NI squad]]></title>
-      <description><![CDATA[Uncapped striker Cora Chambers is included in new Northern Ireland boss Michael McArdle's first squad for their April World Cup qualifying double-header against Malta.]]></description>
-      <link>https://www.bbc.com/sport/articles/c2k3q7y7p5ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c2k3q7y7p5ko</guid>
-      <pubDate>Fri, 03 Apr 2026 10:23:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fce/live/96a8ff30-2f46-11f1-91cb-cd1f5e51ebfd.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Rak-Sakyi strike helps Stoke ease past brave Owls ]]></title>
       <description><![CDATA[Goals in either half from Jesurun Rak-Sakyi and Lamine Cisse help Stoke City to victory over Sheffield Wednesday.]]></description>
       <link>https://www.bbc.co.ukundefined/?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.ukundefined/</guid>
       <pubDate>Fri, 03 Apr 2026 16:54:00 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d57/live/940c1e50-2f74-11f1-8612-f1cd1152f88c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[McInnes focused on wins not psychology in title race]]></title>
+      <description><![CDATA[Hearts manager Derek McInnes sees no psychological advantage in any team playing before their Scottish Premiership title rivals as Rangers have a chance to knock the leaders off top spot.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cyv1jlrdr12o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv1jlrdr12o</guid>
+      <pubDate>Fri, 03 Apr 2026 14:52:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b189/live/f9bf86b0-2f6f-11f1-8612-f1cd1152f88c.jpg"/>
     </item>
     <item>
       <title><![CDATA[The 'Swiss Leicester' closing on their first title]]></title>
@@ -176,28 +168,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76d5/live/1951ba70-2d31-11f1-8c7a-d7713554a96a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Rohl demands Rangers remain hunters in title chase]]></title>
-      <description><![CDATA[Head coach Danny Rohl wants Rangers to retain the mindset of "hunters" in the three-way battle for the Scottish Premiership title, even if his side go top this weekend.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5y80zr2p2qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y80zr2p2qo</guid>
-      <pubDate>Fri, 03 Apr 2026 10:56:57 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7c7/live/4bdf4660-2f57-11f1-a79a-77e93010d956.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Rogers open to leaving Aston Villa - Friday gossip]]></title>
       <description><![CDATA[Morgan Rogers open to leaving Aston Villa, RB Leipzig put £87m price tag on Yan Diomande and Saudi Pro League stepping up pursuit of Mohamed Salah, plus more. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj40e5q488ro?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj40e5q488ro</guid>
       <pubDate>Thu, 02 Apr 2026 22:31:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34fb/live/074cb430-2ee2-11f1-9530-059c42714b24.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd's Lacey, 18, knocking at first-team door]]></title>
-      <description><![CDATA[Manchester United's 18-year-old forward Shea Lacey is tipped for big things as he pushes for a first-team spot.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz0e91dyxyjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz0e91dyxyjo</guid>
-      <pubDate>Fri, 03 Apr 2026 08:00:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9bb/live/7ec66370-2e9d-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Bayern strike late to knock Manchester United out of Champions League]]></title>
@@ -248,6 +224,30 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2345/live/462d3e80-2e8e-11f1-bf7c-65962cff9746.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Uncapped Chambers named in McArdle's first NI squad]]></title>
+      <description><![CDATA[Uncapped striker Cora Chambers is included in new Northern Ireland boss Michael McArdle's first squad for their April World Cup qualifying double-header against Malta.]]></description>
+      <link>https://www.bbc.com/sport/articles/c2k3q7y7p5ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c2k3q7y7p5ko</guid>
+      <pubDate>Fri, 03 Apr 2026 10:23:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fce/live/96a8ff30-2f46-11f1-91cb-cd1f5e51ebfd.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rohl demands Rangers remain hunters in title chase]]></title>
+      <description><![CDATA[Head coach Danny Rohl wants Rangers to retain the mindset of "hunters" in the three-way battle for the Scottish Premiership title, even if his side go top this weekend.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5y80zr2p2qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y80zr2p2qo</guid>
+      <pubDate>Fri, 03 Apr 2026 10:56:57 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7c7/live/4bdf4660-2f57-11f1-a79a-77e93010d956.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Man Utd's Lacey, 18, knocking at first-team door]]></title>
+      <description><![CDATA[Manchester United's 18-year-old forward Shea Lacey is tipped for big things as he pushes for a first-team spot.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz0e91dyxyjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz0e91dyxyjo</guid>
+      <pubDate>Fri, 03 Apr 2026 08:00:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9bb/live/7ec66370-2e9d-11f1-b297-95b0a0a8331e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Is Scottish Premiership title race set for fresh twist?]]></title>
       <description><![CDATA[After a two-week break from the carnage, what's next in one of the most gripping title fights in Europe?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4gx2m9z87jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -262,22 +262,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyvq3gqwpyo</guid>
       <pubDate>Thu, 02 Apr 2026 17:26:32 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f2f/live/9f76d740-2eb5-11f1-a1dd-1bb91a29c2db.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The Championship run-in: 24 key questions for 24 clubs]]></title>
-      <description><![CDATA[BBC Sport breaks down the main storylines and talking points as the Championship enters the final section of the 2025-26 season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gdxndkpr7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gdxndkpr7o</guid>
-      <pubDate>Thu, 02 Apr 2026 17:09:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f67/live/c1b59ed0-2db2-11f1-927b-f98ec5617a78.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Who uses academy players most in Premier League - and does it matter?]]></title>
-      <description><![CDATA[As Max Dowman becomes the latest academy product to make an impact in the Premier League, BBC Sport looks at who uses their youngsters most.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn081g8x520o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn081g8x520o</guid>
-      <pubDate>Thu, 02 Apr 2026 06:59:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c83d/live/6321f620-2c72-11f1-b9ce-87cd7deab432.jpg"/>
     </item>
     <item>
       <title><![CDATA[Highlights: Wales draw 1-1 with Northern Ireland]]></title>
@@ -379,6 +363,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e4b/live/fde00ed0-2ab6-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Who uses academy players most in Premier League - and does it matter?]]></title>
+      <description><![CDATA[As Max Dowman becomes the latest academy product to make an impact in the Premier League, BBC Sport looks at who uses their youngsters most.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn081g8x520o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn081g8x520o</guid>
+      <pubDate>Thu, 02 Apr 2026 06:59:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c83d/live/6321f620-2c72-11f1-b9ce-87cd7deab432.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[The Championship run-in: 24 key questions for 24 clubs]]></title>
+      <description><![CDATA[BBC Sport breaks down the main storylines and talking points as the Championship enters the final section of the 2025-26 season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gdxndkpr7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gdxndkpr7o</guid>
+      <pubDate>Thu, 02 Apr 2026 17:09:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f67/live/c1b59ed0-2db2-11f1-927b-f98ec5617a78.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[FA warns player strain could damage England's trophy hopes]]></title>
       <description><![CDATA[Fixture congestion and its impact on player welfare could hinder England's hopes in future World Cups and devalue competitions like the FA Cup, says the Football Association. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c5ywkqk1pj3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -395,28 +395,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeaa/live/37c0c3d0-2f38-11f1-bf2c-fd91bf9d4122.jpg"/>
     </item>
     <item>
-      <title><![CDATA[From shame to pride - inside Europe's most exciting league]]></title>
-      <description><![CDATA[Poland's top flight has become Europe's most exciting league. Guillem Balague looks at how they have achieved it.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvglvnvgg22o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvglvnvgg22o</guid>
-      <pubDate>Thu, 02 Apr 2026 18:01:24 GMT</pubDate>
-      <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6d/live/d6fe3660-2db9-11f1-934f-036468834728.png"/>
-    </item>
-    <item>
       <title><![CDATA[Kerr's uncertain future - should Chelsea keep striker?]]></title>
       <description><![CDATA[The future of Chelsea striker Sam Kerr remains uncertain - but would it be a wise decision to let her leave on a free transfer this summer?]]></description>
       <link>https://www.bbc.com/sport/football/articles/clyxle697vpo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyxle697vpo</guid>
       <pubDate>Thu, 02 Apr 2026 13:26:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6edf/live/153ce210-2e7c-11f1-b354-072591b4ef8e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Game 'killer' or 'fairer' - does the Championship need VAR?]]></title>
-      <description><![CDATA[BBC Sport examines the arguments for and against and the thoughts across the Championship over the contentious issues of whether to bring in VAR.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx288ypvyq5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx288ypvyq5o</guid>
-      <pubDate>Thu, 02 Apr 2026 13:45:55 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70c7/live/80950fc0-26d8-11f1-9c9b-b12a8fefa770.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is success crucial? BBC Sport experts pick their player of the season]]></title>
@@ -457,14 +441,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy51r9pdr5ro</guid>
       <pubDate>Wed, 01 Apr 2026 08:32:01 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/803c/live/121bdd40-2c5e-11f1-862e-73ba828c2693.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Who were Scotland's winners and losers from international break?]]></title>
-      <description><![CDATA[After a friendly defeats by Japan and Ivory Coast, which Scotland players are the winners and losers of the international break?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c6249z0zw4po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c6249z0zw4po</guid>
-      <pubDate>Wed, 01 Apr 2026 11:39:16 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7572/live/38f41670-2d45-11f1-9d06-9fd6b940097f.jpg"/>
     </item>
     <item>
       <title><![CDATA[All February and March's done deals, including deadline day]]></title>
