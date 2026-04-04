@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 19:57:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 20:36:58 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,12 +40,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce71/live/fbb802d0-3055-11f1-908b-93cc749a44cd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Haaland hat-trick sinks lacklustre Liverpool]]></title>
-      <description><![CDATA[Manchester City's Erling Haaland scores a hat-trick in the 4-0 victory against Liverpool, which sends Pep Guardiola's side to the FA Cup semi-finals for an eighth successive season.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cwyv5qj43e9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwyv5qj43e9o</guid>
-      <pubDate>Sat, 04 Apr 2026 15:32:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ce/live/12ad4bb0-302b-11f1-934f-036468834728.jpg"/>
+      <title><![CDATA[White error as Stewart gives Southampton shock lead over Arsenal]]></title>
+      <description><![CDATA[Ross Stewart capitalises on a "misjudgement" by Ben White to give Southampton a shock lead against Premier League leaders Arsenal in the FA Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c393dzjl0p8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c393dzjl0p8o</guid>
+      <pubDate>Sat, 04 Apr 2026 20:03:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e55/live/e2488670-3065-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ex-England defender Trippier to leave Newcastle]]></title>
@@ -78,6 +78,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yvl42y4xeo</guid>
       <pubDate>Fri, 03 Apr 2026 21:30:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5931/live/55f752d0-2fa4-11f1-a84d-a70cf943ddbd.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Haaland hat-trick sinks lacklustre Liverpool]]></title>
+      <description><![CDATA[Manchester City's Erling Haaland scores a hat-trick in the 4-0 victory against Liverpool, which sends Pep Guardiola's side to the FA Cup semi-finals for an eighth successive season.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cwyv5qj43e9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwyv5qj43e9o</guid>
+      <pubDate>Sat, 04 Apr 2026 15:32:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ce/live/12ad4bb0-302b-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chelsea thrash Port Vale 7-0 to reach FA Cup semi-final]]></title>
@@ -116,14 +124,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/crm14d209xko</guid>
       <pubDate>Sat, 04 Apr 2026 17:36:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/689d/live/98f448b0-304c-11f1-a79a-77e93010d956.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Bayern Munich's stunning comeback in 99th minute]]></title>
-      <description><![CDATA[Bundesliga leaders Bayern Munich came back from two goals down to clinch a victory over Freiburg thanks to Lennart Karl's 99th-minute winner.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cqxlgqg03dro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cqxlgqg03dro</guid>
-      <pubDate>Sat, 04 Apr 2026 18:52:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2ba/live/f4e07130-3051-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
       <title><![CDATA[How former Liverpool prospect found love for football again]]></title>
@@ -174,6 +174,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52be/live/66ca3400-2f9b-11f1-8f10-5f361bcce640.png"/>
     </item>
     <item>
+      <title><![CDATA[Bayern Munich's stunning comeback in 99th minute]]></title>
+      <description><![CDATA[Bundesliga leaders Bayern Munich came back from two goals down to clinch a victory over Freiburg thanks to Lennart Karl's 99th-minute winner.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cqxlgqg03dro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cqxlgqg03dro</guid>
+      <pubDate>Sat, 04 Apr 2026 18:52:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2ba/live/f4e07130-3051-11f1-b297-95b0a0a8331e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Fernandez sanctioned to protect culture - Rosenior]]></title>
       <description><![CDATA[Chelsea head coach Liam Rosenior says "the door is not closed" for Enzo Fernandez, despite dropping him for the next two games and saying that he "crossed a line" with comments he made about his future.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cvg06y4mmlgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -204,14 +212,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwy3j7wr161o</guid>
       <pubDate>Wed, 01 Apr 2026 22:41:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf0/live/edd59bf0-2e1b-11f1-a79a-77e93010d956.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['My players don't deserve this' - Bompastor furious after hair pull]]></title>
-      <description><![CDATA[Chelsea manager Sonia Bompastor says her players "deserve better" after she was sent off during her side's 1-0 win against Arsenal in the second leg of their Champions League quarter-final, in a match which saw Katie McCabe appear to pull the hair of Chelsea's Alyssa Thompson.]]></description>
-      <link>https://www.bbc.com/sport/videos/cdrm58d8gmvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/videos/cdrm58d8gmvo</guid>
-      <pubDate>Wed, 01 Apr 2026 22:05:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a020/live/bb6e7270-2e13-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sutton's FA Cup predictions v boxer Richard Riakporhe]]></title>
@@ -254,12 +254,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5608/live/62c4b010-3045-11f1-934f-036468834728.png"/>
     </item>
     <item>
-      <title><![CDATA[Bayern strike late to knock Manchester United out of Champions League]]></title>
-      <description><![CDATA[Manchester United go out of the Women's Champions League as Bayern Munich score two late goals in the second leg of their quarter-final to win 2-1 on the night and 5-3 on aggregate.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cew7dpdvqego?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cew7dpdvqego</guid>
-      <pubDate>Wed, 01 Apr 2026 20:01:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bdf/live/a74b7350-2e05-11f1-934f-036468834728.jpg"/>
+      <title><![CDATA['My players don't deserve this' - Bompastor furious after hair pull]]></title>
+      <description><![CDATA[Chelsea manager Sonia Bompastor says her players "deserve better" after she was sent off during her side's 1-0 win against Arsenal in the second leg of their Champions League quarter-final, in a match which saw Katie McCabe appear to pull the hair of Chelsea's Alyssa Thompson.]]></description>
+      <link>https://www.bbc.com/sport/videos/cdrm58d8gmvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/videos/cdrm58d8gmvo</guid>
+      <pubDate>Wed, 01 Apr 2026 22:05:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a020/live/bb6e7270-2e13-11f1-a79a-77e93010d956.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['You can't be doing that' - pundits react to McCabe hair pull]]></title>
+      <description><![CDATA[BBC Sport pundits Ellen White and Steph Houghton react to Katie McCabe's hair pull on Alyssa Thompson as Chelsea beat Arsenal 1-0 in the second leg of their Champions League quarter-final, but lose the tie 3-2 on aggregate. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cje4750ydp2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cje4750ydp2o</guid>
+      <pubDate>Wed, 01 Apr 2026 21:52:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5059/live/53ecf310-2e13-11f1-b297-95b0a0a8331e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Little wants more Champions League success as Arsenal reach final four]]></title>
@@ -326,23 +334,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08b1/live/906ca5c0-2c19-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Tudor's five Premier League games as Spurs boss ]]></title>
-      <description><![CDATA[BBC Sport takes a look back at Igor Tudor's five Premier League games in charge as Tottenham Hotspur boss.
-
-
-]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cx24l2dvp2qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx24l2dvp2qo</guid>
-      <pubDate>Sun, 29 Mar 2026 14:40:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cfd/live/32becfa0-27ac-11f1-a79a-77e93010d956.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Brighton condemn Leicester City to seventh-straight league loss]]></title>
-      <description><![CDATA[A lone goal from Brighton's Kiko Seike is enough to condemn Leicester City to a seventh-straight loss in the WSL while Albion move up to sixth.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/crl1k6zgdg9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/crl1k6zgdg9o</guid>
-      <pubDate>Sun, 29 Mar 2026 20:41:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ba/live/0c6cee30-2b8b-11f1-a79a-77e93010d956.jpg"/>
+      <title><![CDATA[Chelsea leave it late to win seven-goal thriller over Villa]]></title>
+      <description><![CDATA[Chelsea secure a vital three points as they beat Aston Villa 4-3 to go second in the league table and get back on track for Champions League qualification.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cz67pz09y4xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cz67pz09y4xo</guid>
+      <pubDate>Sun, 29 Mar 2026 16:59:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45ea/live/92635c00-2b71-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is Scottish Premiership title race set for fresh twist?]]></title>
