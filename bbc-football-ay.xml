@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 05 Apr 2026 16:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 16:56:10 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,14 +48,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fddc/live/5826ece0-307c-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Win no fluke, says Shearer, as Eckert's Saints target Wembley treble]]></title>
-      <description><![CDATA[Fifty years after their one and only FA Cup success, underdogs Southampton are again stunning top-flight opposition - and doing so in style.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c747d3ypngjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c747d3ypngjo</guid>
-      <pubDate>Sat, 04 Apr 2026 23:24:18 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba7/live/b0c7b490-3079-11f1-8038-bfb73b0c90e5.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Walcott & Richards criticise Arsenal over FA Cup exit]]></title>
       <description><![CDATA[BBC Sport pundits Theo Walcott and Micah Richards analyse Arsenal's performance in the loss to Southampton.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c5ywpgw29pdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -70,6 +62,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c145g7z4xm0o</guid>
       <pubDate>Sat, 04 Apr 2026 16:21:50 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6013/live/210c8da0-304a-11f1-bcfc-dda6bbc21b25.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Win no fluke, says Shearer, as Eckert's Saints target Wembley treble]]></title>
+      <description><![CDATA[Fifty years after their one and only FA Cup success, underdogs Southampton are again stunning top-flight opposition - and doing so in style.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c747d3ypngjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c747d3ypngjo</guid>
+      <pubDate>Sat, 04 Apr 2026 23:24:18 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba7/live/b0c7b490-3079-11f1-8038-bfb73b0c90e5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Liverpool's FA Cup capitulation ramps up pressure on Slot]]></title>
@@ -144,14 +144,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d5e/live/f8cb0ad0-2f3e-11f1-91cb-cd1f5e51ebfd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ex-Chelsea player Oscar retires with heart issue]]></title>
-      <description><![CDATA[Former Chelsea and Brazil midfielder Oscar retires after being diagnosed with a heart condition.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c79jl729223o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c79jl729223o</guid>
-      <pubDate>Sat, 04 Apr 2026 17:44:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee09/live/0a229400-bfa6-11f0-9311-a751aa0ffda1.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Haaland hat-trick sinks lacklustre Liverpool]]></title>
       <description><![CDATA[Manchester City's Erling Haaland scores a hat-trick in the 4-0 victory against Liverpool, which sends Pep Guardiola's side to the FA Cup semi-finals for an eighth successive season.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cwyv5qj43e9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -220,6 +212,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czxrwq4e25do</guid>
       <pubDate>Sat, 04 Apr 2026 18:47:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5608/live/62c4b010-3045-11f1-934f-036468834728.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Ex-Chelsea player Oscar retires with heart issue]]></title>
+      <description><![CDATA[Former Chelsea and Brazil midfielder Oscar retires after being diagnosed with a heart condition.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c79jl729223o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c79jl729223o</guid>
+      <pubDate>Sat, 04 Apr 2026 17:44:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee09/live/0a229400-bfa6-11f0-9311-a751aa0ffda1.jpg"/>
     </item>
     <item>
       <title><![CDATA[What De Zerbi needs to do to turn Tottenham around]]></title>
@@ -340,14 +340,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gx2m9z87jo</guid>
       <pubDate>Thu, 02 Apr 2026 14:51:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4067/live/3904d470-2ea7-11f1-a79a-77e93010d956.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Gattuso leaves Italy role - who could replace him?]]></title>
-      <description><![CDATA[Manager Gennaro Gattuso and Italy agree to "mutually terminate" his contract after their failure to qualify for a third successive World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cevk0mn93ejo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cevk0mn93ejo</guid>
-      <pubDate>Fri, 03 Apr 2026 13:04:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4a8/live/a3f1bb50-2f55-11f1-b471-73a11a0c1806.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wrexham back in top six as Parkinson to send dossier to head of referees]]></title>
@@ -565,6 +557,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/cjw8ngj60j5o</guid>
       <pubDate>Sat, 04 Apr 2026 09:10:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c84/live/2f900f30-2f52-11f1-b471-73a11a0c1806.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What is Russo's best position?]]></title>
+      <description><![CDATA[Arsenal's Alessia Russo has excelled as a number nine and a number 10 this season, but where is she most effective?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9qdgd92w97o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9qdgd92w97o</guid>
+      <pubDate>Mon, 23 Mar 2026 13:51:57 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a4/live/70440200-268f-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA[When football turned to penalties to end 'cruel' system]]></title>
