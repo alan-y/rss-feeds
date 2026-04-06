@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 20:36:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 21:21:29 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Arteta calls for perspective as Arsenal look to avoid slump]]></title>
+      <description><![CDATA[Arsenal boss Mikel Arteta wants his side to channel the pain of back-to-back defeats when they take on Sporting in the Champions League quarter-finals.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c77md5mp475o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c77md5mp475o</guid>
+      <pubDate>Mon, 06 Apr 2026 20:43:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c9/live/6e9298a0-31ec-11f1-93a6-c31808c77aa4.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Bayern face waiting game on 'very special' Kane]]></title>
       <description><![CDATA[Bayern Munich are waiting on the fitness of "very special" Harry Kane to see if he can lead their challenge to overcome Real Madrid in the Champions League quarter-final.]]></description>
@@ -22,14 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2rzp8lrzdo</guid>
       <pubDate>Mon, 06 Apr 2026 19:13:48 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3934/live/99b912a0-31e9-11f1-8794-099b3bc3f94e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Arsenal's Rice and Gabriel train before Lisbon trip]]></title>
-      <description><![CDATA[Arsenal's Declan Rice and Gabriel return to training before the Champions League meeting with Sporting after injury absences.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj0v7nqm13do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0v7nqm13do</guid>
-      <pubDate>Mon, 06 Apr 2026 13:27:46 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d70a/live/36973a20-31b8-11f1-a6f3-7585f035235e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ranking football's greatest one-club men]]></title>
@@ -48,12 +48,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07bb/live/94e9e940-31e7-11f1-8794-099b3bc3f94e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Why Rangers could bypass qualifiers and reach Champions League]]></title>
-      <description><![CDATA[Rangers could benefit in next season's Champions League - if they win the Scottish Premiership - should Olympiakos fail to win the Greek title.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj40yl5rz91o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj40yl5rz91o</guid>
-      <pubDate>Mon, 06 Apr 2026 15:41:23 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5259/live/23073e50-31cd-11f1-974c-b10fb48f7e20.jpg"/>
+      <title><![CDATA[Arsenal's Rice and Gabriel train before Lisbon trip]]></title>
+      <description><![CDATA[Arsenal's Declan Rice and Gabriel return to training before the Champions League meeting with Sporting after injury absences.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj0v7nqm13do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0v7nqm13do</guid>
+      <pubDate>Mon, 06 Apr 2026 13:27:46 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d70a/live/36973a20-31b8-11f1-a6f3-7585f035235e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Leeds beat West Ham on penalties in thriller to reach FA Cup semis]]></title>
@@ -104,20 +104,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbfa/live/45ea7ae0-1d50-11f1-a00b-6f91831af046.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why Rangers could bypass qualifiers and reach Champions League]]></title>
+      <description><![CDATA[Rangers could benefit in next season's Champions League - if they win the Scottish Premiership - should Olympiakos fail to win the Greek title.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj40yl5rz91o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj40yl5rz91o</guid>
+      <pubDate>Mon, 06 Apr 2026 15:41:23 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5259/live/23073e50-31cd-11f1-974c-b10fb48f7e20.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Lijnders hints at Man City departure for  Silva]]></title>
       <description><![CDATA[Manchester City assistant manager Pep Lijnders hints that midfielder Bernardo Silva could be leaving in the summer.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c1krz9kxrdvo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1krz9kxrdvo</guid>
       <pubDate>Sun, 05 Apr 2026 21:30:40 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef1/live/c2c5cfd0-31a3-11f1-934f-036468834728.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Leeds 'greedy to go to the next step' as Wembley awaits]]></title>
-      <description><![CDATA[After a 39-year absence, Leeds are back in the FA Cup semi-finals, with supporters dreaming of a major trophy after a dramatic win over West Ham.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly9x7755w0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly9x7755w0o</guid>
-      <pubDate>Sun, 05 Apr 2026 22:02:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee3/live/beff7870-3134-11f1-8b28-677834599469.jpg"/>
     </item>
     <item>
       <title><![CDATA[Seven Eritrean players fail to return home after international match]]></title>
@@ -134,14 +134,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg92wqjrpeo</guid>
       <pubDate>Sun, 05 Apr 2026 21:21:29 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c5d/live/d06fcdf0-3132-11f1-a79a-77e93010d956.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Leeds draw Chelsea, Man City face Southampton in FA Cup semis]]></title>
-      <description><![CDATA[Leeds United will play Chelsea at Wembley after reaching the FA Cup semi-finals for the first time in almost four decades, while Manchester City take on Southampton.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g6j43yzy5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g6j43yzy5o</guid>
-      <pubDate>Sun, 05 Apr 2026 18:58:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee2/live/a57cfe30-3121-11f1-b5dc-b3661fbf84ea.jpg"/>
     </item>
     <item>
       <title><![CDATA['Fancy footwork' - Tanaka puts Leeds ahead against West Ham ]]></title>
@@ -192,6 +184,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ff/live/48931b20-3124-11f1-806c-8f5b2321746a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Leeds 'greedy to go to the next step' as Wembley awaits]]></title>
+      <description><![CDATA[After a 39-year absence, Leeds are back in the FA Cup semi-finals, with supporters dreaming of a major trophy after a dramatic win over West Ham.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly9x7755w0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly9x7755w0o</guid>
+      <pubDate>Sun, 05 Apr 2026 22:02:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee3/live/beff7870-3134-11f1-8b28-677834599469.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Liverpool 'gave up' in FA Cup exit - Van Dijk]]></title>
       <description><![CDATA[Liverpool captain Virgil van Dijk apologises to the supporters and says his side "gave up" during their 4-0 FA Cup quarter-final defeat by Manchester City.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cz670q6583jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -200,12 +200,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fc8/live/f74b4580-30e7-11f1-b519-432a7775734e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Quiz: Name every team to reach an FA Cup semi-final in the 2020s]]></title>
-      <description><![CDATA[In total, 14 teams have reached the FA Cup's final four since 2020. Can you name them all?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5y7q49zxydo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y7q49zxydo</guid>
-      <pubDate>Mon, 06 Apr 2026 09:22:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9355/live/298273d0-313c-11f1-819d-c96a4978551d.jpg"/>
+      <title><![CDATA[Leeds draw Chelsea, Man City face Southampton in FA Cup semis]]></title>
+      <description><![CDATA[Leeds United will play Chelsea at Wembley after reaching the FA Cup semi-finals for the first time in almost four decades, while Manchester City take on Southampton.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g6j43yzy5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g6j43yzy5o</guid>
+      <pubDate>Sun, 05 Apr 2026 18:58:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee2/live/a57cfe30-3121-11f1-b5dc-b3661fbf84ea.jpg"/>
     </item>
     <item>
       <title><![CDATA[Was 11 minutes of stoppage time at West Ham excessive?]]></title>
@@ -286,14 +286,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg0350nlwzo</guid>
       <pubDate>Sun, 05 Apr 2026 05:16:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fddc/live/5826ece0-307c-11f1-a79a-77e93010d956.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[From shame to pride - inside Europe's most exciting league]]></title>
-      <description><![CDATA[Poland's top flight has become Europe's most exciting league. Guillem Balague looks at how they have achieved it.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvglvnvgg22o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvglvnvgg22o</guid>
-      <pubDate>Thu, 02 Apr 2026 18:01:24 GMT</pubDate>
-      <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6d/live/d6fe3660-2db9-11f1-934f-036468834728.png"/>
     </item>
     <item>
       <title><![CDATA[How former Liverpool prospect found love for football again]]></title>
