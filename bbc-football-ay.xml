@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 10:33:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 11:31:29 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Ranking football's greatest one-club men]]></title>
+      <description><![CDATA[From Francesco Totti to Matthew Le Tissier, one-club men share a rare and special bond with the fans - we've ranked the top 10 here.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqxl2w1r7rwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxl2w1r7rwo</guid>
+      <pubDate>Mon, 06 Apr 2026 05:15:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91a5/live/2cd28e00-2e6f-11f1-934f-036468834728.png"/>
+    </item>
     <item>
       <title><![CDATA[Lijnders hints at Man City departure for  Silva]]></title>
       <description><![CDATA[Manchester City assistant manager Pep Lijnders hints that midfielder Bernardo Silva could be leaving in the summer.]]></description>
@@ -32,20 +40,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee3/live/beff7870-3134-11f1-8b28-677834599469.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ranking football's greatest one-club men]]></title>
-      <description><![CDATA[From Francesco Totti to Matthew Le Tissier, one-club men share a rare and special bond with the fans - we've ranked the top 10 here.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqxl2w1r7rwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqxl2w1r7rwo</guid>
-      <pubDate>Mon, 06 Apr 2026 05:15:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91a5/live/2cd28e00-2e6f-11f1-934f-036468834728.png"/>
-    </item>
-    <item>
       <title><![CDATA[Was 11 minutes of stoppage time at West Ham excessive?]]></title>
       <description><![CDATA[There were 11 minutes of stoppage time at the end of the second half of West Ham's FA Cup quarter-final against Leeds - but was that an excessive or an explainable amount of added time?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvge47evx0no?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvge47evx0no</guid>
       <pubDate>Sun, 05 Apr 2026 21:16:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/828f/live/ebd66d20-3127-11f1-92ba-d7f1365cb894.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Leeds beat West Ham on penalties in thriller to reach FA Cup semis]]></title>
+      <description><![CDATA[Leeds United survive West Ham's fightback from 2-0 down to 2-2 as a penalty shootout victory sends the West Yorkshire side to their first FA Cup semi-final since 1987.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c3r3vd42vrzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c3r3vd42vrzo</guid>
+      <pubDate>Sun, 05 Apr 2026 20:35:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/863d/live/39464c70-3127-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is the Championship heading for financial 'catastrophe'?]]></title>
@@ -72,14 +80,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9355/live/298273d0-313c-11f1-819d-c96a4978551d.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Leeds beat West Ham on penalties in thriller to reach FA Cup semis]]></title>
-      <description><![CDATA[Leeds United survive West Ham's fightback from 2-0 down to 2-2 as a penalty shootout victory sends the West Yorkshire side to their first FA Cup semi-final since 1987.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c3r3vd42vrzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c3r3vd42vrzo</guid>
-      <pubDate>Sun, 05 Apr 2026 20:35:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/863d/live/39464c70-3127-11f1-934f-036468834728.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['We're still top of the league' - McInnes reminds doubters]]></title>
       <description><![CDATA[Hearts head coach Derek McInnes remains defiant despite a title slip up at Livingston.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0krn8ke53ko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -88,20 +88,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/171b/live/b934afd0-3118-11f1-b4eb-f70081c45e1f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Man Utd look to offload Ugarte - Monday gossip]]></title>
-      <description><![CDATA[Manchester United look to sell Uruguayan midfielder, Real Madrid forward sparks Premier League interest, Liverpool eye swap deal, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg92wqjrpeo</guid>
-      <pubDate>Sun, 05 Apr 2026 21:21:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c5d/live/d06fcdf0-3132-11f1-a79a-77e93010d956.png"/>
-    </item>
-    <item>
       <title><![CDATA[O'Neill hails Celtic spirit as they stay in title hunt]]></title>
       <description><![CDATA[Celtic interim manager Martin O'Neill hails his team's spirit after they battle to a crucial victory in the Scottish Premiership at Dundee.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c93e0gxp1zyo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93e0gxp1zyo</guid>
       <pubDate>Sun, 05 Apr 2026 20:36:03 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ff/live/48931b20-3124-11f1-806c-8f5b2321746a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Man Utd look to offload Ugarte - Monday gossip]]></title>
+      <description><![CDATA[Manchester United look to sell Uruguayan midfielder, Real Madrid forward sparks Premier League interest, Liverpool eye swap deal, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckg92wqjrpeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckg92wqjrpeo</guid>
+      <pubDate>Sun, 05 Apr 2026 21:21:29 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c5d/live/d06fcdf0-3132-11f1-a79a-77e93010d956.png"/>
     </item>
     <item>
       <title><![CDATA[Liverpool 'gave up' in FA Cup exit - Van Dijk]]></title>
@@ -192,14 +192,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6f/live/76ebfe00-319d-11f1-a86f-cd77a2acada3.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Liverpool's FA Cup capitulation ramps up pressure on Slot]]></title>
-      <description><![CDATA[Nobody would have believed that 12 months on from Liverpool's title win, a fanbase so united behind its team and its manager would be, at best, apathetic as to whether Arne Slot remains in the job.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crk1zl0ll1zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crk1zl0ll1zo</guid>
-      <pubDate>Sat, 04 Apr 2026 17:43:14 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd42/live/dc0bd840-3040-11f1-934f-036468834728.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Leeds never do it the easy way - Farke ]]></title>
       <description><![CDATA[Leeds United manager Daniel Farke says his side "never do it the easy way" after letting go of a two-goal lead against West Ham before beating the London side on penalties to reach their first FA Cup final since 1987.]]></description>
       <link>https://www.bbc.com/sport/football/videos/czexwn45p7zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -238,6 +230,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwyj0ewx348o</guid>
       <pubDate>Sat, 04 Apr 2026 21:42:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbfc/live/3487b200-306e-11f1-b297-95b0a0a8331e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Liverpool's FA Cup capitulation ramps up pressure on Slot]]></title>
+      <description><![CDATA[Nobody would have believed that 12 months on from Liverpool's title win, a fanbase so united behind its team and its manager would be, at best, apathetic as to whether Arne Slot remains in the job.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crk1zl0ll1zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crk1zl0ll1zo</guid>
+      <pubDate>Sat, 04 Apr 2026 17:43:14 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd42/live/dc0bd840-3040-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why Falkirk's boss could be manager of year in Scotland - again]]></title>
