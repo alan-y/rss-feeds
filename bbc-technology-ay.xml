@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 11:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 12:05:18 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[OpenAI encourages firms to trial four-day weeks to adapt to AI era]]></title>
+      <description><![CDATA[The ChatGPT-maker said its early policy ideas aim to prompt discussions about action needed as AI systems become more capable.]]></description>
+      <link>https://www.bbc.com/news/articles/c8x71ejrp92o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8x71ejrp92o</guid>
+      <pubDate>Tue, 07 Apr 2026 11:55:47 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7854/live/619d5ad0-3279-11f1-b6b5-c5856fa3f77a.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Businesses scramble to get noticed by AI search]]></title>
       <description><![CDATA[Firms are changing the way they present information on their websites, so they get noticed by AI.]]></description>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cm296jzzl9yo</guid>
       <pubDate>Wed, 01 Apr 2026 07:09:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b56c/live/b36c93b0-2d35-11f1-a79a-77e93010d956.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Social media firms must better enforce Australia under-16 ban, watchdog says]]></title>
-      <description><![CDATA[Regulator eSafety says it has concerns about how Facebook, Instagram, Snapchat, TikTok and YouTube are complying with the ban.]]></description>
-      <link>https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy4181pkxl2o</guid>
-      <pubDate>Tue, 31 Mar 2026 02:00:24 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c5/live/07ca5ef0-2c8d-11f1-8df6-2d506a26a9e8.jpg"/>
     </item>
   </channel>
 </rss>
