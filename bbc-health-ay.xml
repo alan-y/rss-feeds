@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 07 Apr 2026 14:03:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 15:48:36 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -400,14 +400,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08d9/live/29cc3c10-283e-11f1-ac61-c943803d2ed3.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sculpting jaws, giving scores: Inside the world of looksmaxxing]]></title>
-      <description><![CDATA[Growing numbers of young men are going to great lengths to achieve what they see as the perfect face.]]></description>
-      <link>https://www.bbc.com/news/articles/cx28z4zypkno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx28z4zypkno</guid>
-      <pubDate>Sun, 15 Mar 2026 00:01:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c02/live/23d953e0-1fd0-11f1-801d-ed3cff6bf876.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[What is the UK Covid inquiry and how does it work?]]></title>
       <description><![CDATA[The third report from the inquiry into the government's handling of the pandemic says the NHS was close to collapse.]]></description>
       <link>https://www.bbc.com/news/articles/cdr3kx6xmp5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -441,14 +433,14 @@
     </item>
     <item>
       <title><![CDATA['We will end up with an NHS without doctors']]></title>
-      <description><![CDATA[Dr Melissa Ryan, who works at Lincoln County Hospital, is among dozens of doctors striking over pay.]]></description>
+      <description><![CDATA[Dr Melissa Ryan, who works at Lincoln County Hospital, is among the doctors striking over pay.]]></description>
       <link>https://www.bbc.com/news/articles/c93ex72x70ro?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c93ex72x70ro</guid>
-      <pubDate>Tue, 07 Apr 2026 12:58:28 GMT</pubDate>
+      <pubDate>Tue, 07 Apr 2026 14:42:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fe/live/59a9f8f0-3275-11f1-a1dc-4b5910268ba2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Patients warned about limited A&E unit during strike]]></title>
+      <title><![CDATA[Strike reduces A&E unit to minor injuries service]]></title>
       <description><![CDATA[Resident doctors across England are striking for six days as part of an ongoing pay dispute.]]></description>
       <link>https://www.bbc.com/news/articles/cj37zm08dr4o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cj37zm08dr4o</guid>
