@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 14:50:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 16:13:55 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Leicester lose appeal against points deduction]]></title>
+      <description><![CDATA[Leicester City lose their appeal against their six-point deduction for breaching EFL financial rules.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0mjx7wexnvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0mjx7wexnvo</guid>
+      <pubDate>Wed, 08 Apr 2026 15:31:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c24/live/5c3653d0-335f-11f1-b7b4-87efdc434f2b.jpg"/>
+    </item>
     <item>
       <title><![CDATA[How 11 Premier League teams could qualify for Europe]]></title>
       <description><![CDATA[Eleven Premier League teams in Europe? It sounds preposterous, but it is not as far fetched as it seems.]]></description>
@@ -24,28 +32,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12fd/live/0187ba90-333d-11f1-9f60-37eac42daa69.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Raya? Neuer? Maignan? Who are world's best goalkeepers?]]></title>
+      <description><![CDATA[David Raya and Manuel Neuer dazzled in the Champions League this week - but are they among the world's best goalkeepers?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c705jn7jw06o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c705jn7jw06o</guid>
+      <pubDate>Wed, 08 Apr 2026 14:54:55 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f6d/live/b2286bb0-335b-11f1-8079-85791470d942.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Dropping Fernandez - a sign of Rosenior's authority or a big risk?]]></title>
       <description><![CDATA[Enzo Fernandez has given Chelsea boss Liam Rosenior the first major internal disciplinary issue of his brief tenure at Stamford Bridge - BBC Sport analyses the situation.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwywk1yx772o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwywk1yx772o</guid>
       <pubDate>Wed, 08 Apr 2026 11:01:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d03/live/2f1726e0-328d-11f1-9fac-89e41bab67f2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Alexander-Arnold fails to ease Tuchel concerns as Kane stars]]></title>
-      <description><![CDATA[Thomas Tuchel's doubts about Trent Alexander-Arnold and reliance on Harry Kane are confirmed on the England manager's Madrid mission. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp38dlkl7eko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp38dlkl7eko</guid>
-      <pubDate>Tue, 07 Apr 2026 23:04:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bc6/live/ab126fc0-32ce-11f1-8126-b55de2929b39.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[World's best keeper? Raya helps Arsenal get back on track]]></title>
-      <description><![CDATA[David Raya is the best goalkeeper in the world, according to his Arsenal team-mates - and the Spaniard played a key role in his side's 1-0 win at Sporting.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgldp4gjqlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgldp4gjqlo</guid>
-      <pubDate>Tue, 07 Apr 2026 23:09:15 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d46/live/e8f40330-32d3-11f1-8348-5d38a9e4945d.jpg"/>
     </item>
     <item>
       <title><![CDATA['We've become quite experienced in negativity']]></title>
@@ -64,14 +64,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cec/live/4a06a7f0-334b-11f1-9d5c-8ba507d7dbde.jpg"/>
     </item>
     <item>
-      <title><![CDATA[McInnes happy to play Hearts' title deciders in a car park]]></title>
-      <description><![CDATA[Heart of Midlothian head coach Derek McInnes would be happy to "play them in a car park" as he responds to complaints from some fans about the fixtures for the final five games of the Scottish Premiership season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cg4030nvww1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg4030nvww1o</guid>
-      <pubDate>Wed, 08 Apr 2026 11:03:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b03a/live/3c0c8810-333a-11f1-bf11-9546df991775.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why La Liga teams will play in retro shirts this weekend]]></title>
       <description><![CDATA[Our Ask Me Anything team explain why many La Liga sides will be playing their next matches wearing retro kits.]]></description>
       <link>https://www.bbc.com/sport/articles/c98gx75eyl1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -86,6 +78,30 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyg0d2v5gyo</guid>
       <pubDate>Wed, 08 Apr 2026 09:34:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/921b/live/57298da0-328b-11f1-9fac-89e41bab67f2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Alexander-Arnold fails to ease Tuchel concerns as Kane stars]]></title>
+      <description><![CDATA[Thomas Tuchel's doubts about Trent Alexander-Arnold and reliance on Harry Kane are confirmed on the England manager's Madrid mission. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp38dlkl7eko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp38dlkl7eko</guid>
+      <pubDate>Tue, 07 Apr 2026 23:04:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bc6/live/ab126fc0-32ce-11f1-8126-b55de2929b39.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[World's best keeper? Raya helps Arsenal get back on track]]></title>
+      <description><![CDATA[David Raya is the best goalkeeper in the world, according to his Arsenal team-mates - and the Spaniard played a key role in his side's 1-0 win at Sporting.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgldp4gjqlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgldp4gjqlo</guid>
+      <pubDate>Tue, 07 Apr 2026 23:09:15 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d46/live/e8f40330-32d3-11f1-8348-5d38a9e4945d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[McInnes happy to play Hearts' title deciders in a car park]]></title>
+      <description><![CDATA[Heart of Midlothian head coach Derek McInnes would be happy to "play them in a car park" as he responds to complaints from some fans about the fixtures for the final five games of the Scottish Premiership season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cg4030nvww1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg4030nvww1o</guid>
+      <pubDate>Wed, 08 Apr 2026 11:03:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b03a/live/3c0c8810-333a-11f1-bf11-9546df991775.jpg"/>
     </item>
     <item>
       <title><![CDATA[How the Red Arrows have helped Lincoln soar]]></title>
@@ -118,14 +134,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gv3zre8m5o</guid>
       <pubDate>Tue, 07 Apr 2026 22:00:21 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef84/live/a7c485a0-32c0-11f1-934f-036468834728.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Neil, Lampard, Jakirovic & Hellberg up for manager award]]></title>
-      <description><![CDATA[Frank Lampard, Alex Neil, Sergej Jakirovic and Kim Hellberg are shortlisted for the EFL manager of the season award.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn430g52z9jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn430g52z9jo</guid>
-      <pubDate>Wed, 08 Apr 2026 09:29:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed44/live/5adbf8f0-3328-11f1-b297-95b0a0a8331e.png"/>
     </item>
     <item>
       <title><![CDATA[Hearts and Celtic given potential final-day title decider]]></title>
@@ -195,6 +203,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e160/live/d2bf4290-bc0a-11f0-8456-eff94716b162.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Neil, Lampard, Jakirovic & Hellberg up for manager award]]></title>
+      <description><![CDATA[Frank Lampard, Alex Neil, Sergej Jakirovic and Kim Hellberg are shortlisted for the EFL manager of the season award.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn430g52z9jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn430g52z9jo</guid>
+      <pubDate>Wed, 08 Apr 2026 09:29:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed44/live/5adbf8f0-3328-11f1-b297-95b0a0a8331e.png"/>
+    </item>
+    <item>
       <title><![CDATA[Beauty forged in pain: Ramsey, Wales' 'best midfielder ever']]></title>
       <description><![CDATA[Aaron Ramsey will be remembered as a great after overcoming shattering setbacks to become a brilliant midfielder for Wales and Arsenal.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cj9r4gjewmno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -209,14 +225,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly92470le8o</guid>
       <pubDate>Tue, 07 Apr 2026 12:30:17 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3921/live/52e97a20-3263-11f1-bdf9-bf5479a63eec.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Nobody should be priced out' - why Liverpool protests matter to rival fans]]></title>
-      <description><![CDATA[Liverpool supporters' action against ticket price rises should be supported by rivals, according to the FSA]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cq6jzlqy59no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq6jzlqy59no</guid>
-      <pubDate>Tue, 07 Apr 2026 12:49:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc7/live/7238ff60-3270-11f1-bb4e-4184fb6a2e77.jpg"/>
     </item>
     <item>
       <title><![CDATA[Lijnders on replacing 'unique' Silva]]></title>
@@ -291,12 +299,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9776/live/b4fd1f80-32ab-11f1-a335-4b4a52c0a693.jpg"/>
     </item>
     <item>
-      <title><![CDATA[54 years, 48 leagues, 2,000 grounds - the ultimate football odyssey]]></title>
-      <description><![CDATA[BBC Sport travels with the UK's ultimate groundhopper to the final match of a decades-long, history-making journey.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqj920d1wndo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqj920d1wndo</guid>
-      <pubDate>Tue, 07 Apr 2026 05:06:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e8c/live/03817bb0-3261-11f1-bdf9-bf5479a63eec.jpg"/>
+      <title><![CDATA['Nobody should be priced out' - why Liverpool protests matter to rival fans]]></title>
+      <description><![CDATA[Liverpool supporters' action against ticket price rises should be supported by rivals, according to the FSA]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cq6jzlqy59no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq6jzlqy59no</guid>
+      <pubDate>Tue, 07 Apr 2026 12:49:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc7/live/7238ff60-3270-11f1-bb4e-4184fb6a2e77.jpg"/>
     </item>
     <item>
       <title><![CDATA[West Ham 'must react' after 'tough' loss to Leeds - Nuno]]></title>
@@ -387,20 +395,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07bb/live/94e9e940-31e7-11f1-8794-099b3bc3f94e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[54 years, 48 leagues, 2,000 grounds - the ultimate football odyssey]]></title>
+      <description><![CDATA[BBC Sport travels with the UK's ultimate groundhopper to the final match of a decades-long, history-making journey.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqj920d1wndo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqj920d1wndo</guid>
+      <pubDate>Tue, 07 Apr 2026 05:06:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e8c/live/03817bb0-3261-11f1-bdf9-bf5479a63eec.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Coventry edge ever closer - but who will join them in Premier League?]]></title>
       <description><![CDATA[As Coventry edge ever closer to ending their 25-year wait for Premier League football, who is best placed to join them?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cddqmlzz34qo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cddqmlzz34qo</guid>
       <pubDate>Mon, 06 Apr 2026 22:26:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/903d/live/1cb0ed00-31fd-11f1-b297-95b0a0a8331e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Quiz: Every team to reach a Women's FA Cup semi-final in 2020s]]></title>
-      <description><![CDATA[In total, 12 teams have reached the Women's FA Cup semi-finals since 2020. Can you name them all?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce846rn5888o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce846rn5888o</guid>
-      <pubDate>Tue, 07 Apr 2026 07:05:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63b6/live/7dc9d260-31bb-11f1-a6f3-7585f035235e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is the Championship heading for financial 'catastrophe'?]]></title>
@@ -433,22 +441,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj402p5ezylo</guid>
       <pubDate>Fri, 03 Apr 2026 06:15:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Kerr's uncertain future - should Chelsea keep striker?]]></title>
-      <description><![CDATA[The future of Chelsea striker Sam Kerr remains uncertain - but would it be a wise decision to let her leave on a free transfer this summer?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyxle697vpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyxle697vpo</guid>
-      <pubDate>Thu, 02 Apr 2026 13:26:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6edf/live/153ce210-2e7c-11f1-b354-072591b4ef8e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The World Cup line-up is complete - here's what you need to know]]></title>
-      <description><![CDATA[The final six nations have qualified for the 2026 World Cup - this is your essential lowdown on the expanded edition of the tournament.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3exv0820e4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3exv0820e4o</guid>
-      <pubDate>Wed, 01 Apr 2026 05:57:22 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f015/live/d2e52270-2c4a-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA[All February and March's done deals, including deadline day]]></title>
@@ -514,6 +506,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd031n4d9dxo</guid>
       <pubDate>Mon, 16 Mar 2026 10:30:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c877/live/abff63e0-211f-11f1-9120-a910fc22c6ac.png"/>
+    </item>
+    <item>
+      <title><![CDATA[What do fans of top three make of Premiership split?]]></title>
+      <description><![CDATA[Fans of Heart of Midlothian, Rangers and Celtic react with some apprehension to the post-split fixtures in the three-way Scottish title race.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn78e1rz3llo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn78e1rz3llo</guid>
+      <pubDate>Wed, 08 Apr 2026 15:56:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d83d/live/6bbfd3a0-332b-11f1-b297-95b0a0a8331e.png"/>
     </item>
     <item>
       <title><![CDATA[First Scotland call for Weir as Eddie withdraws]]></title>
