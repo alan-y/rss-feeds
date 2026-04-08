@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 08 Apr 2026 11:54:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 13:18:21 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -440,6 +440,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bced/live/6b8bb060-18b5-11f1-97ba-493bedc7637b.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Month of worry' over doctor strike surgery delay]]></title>
+      <description><![CDATA[The strike further delays Tom Lawson's gastric bypass surgery after a more than three-year wait.]]></description>
+      <link>https://www.bbc.com/news/articles/crr1e1lgj7qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/crr1e1lgj7qo</guid>
+      <pubDate>Wed, 08 Apr 2026 12:32:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba4/live/60a6aa40-3333-11f1-8873-2d60fc58e0b0.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Strike reduces A&E unit to minor injuries service]]></title>
       <description><![CDATA[Resident doctors across England are striking for six days as part of an ongoing pay dispute.]]></description>
       <link>https://www.bbc.com/news/articles/cj37zm08dr4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -462,14 +470,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5ywl5wy180o</guid>
       <pubDate>Tue, 07 Apr 2026 12:35:34 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cb2/live/8905e9d0-3273-11f1-b297-95b0a0a8331e.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Why are resident doctors striking and how much are they paid?]]></title>
-      <description><![CDATA[Resident doctors in England are striking between 7 and 13 April, the 15th walkout in a long-running dispute.]]></description>
-      <link>https://www.bbc.com/news/articles/cn0qyl4ljjko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0qyl4ljjko</guid>
-      <pubDate>Tue, 07 Apr 2026 08:40:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8359/live/8e09a2a0-3273-11f1-934f-036468834728.jpg"/>
     </item>
   </channel>
 </rss>
