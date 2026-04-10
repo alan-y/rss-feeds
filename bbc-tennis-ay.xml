@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 15:52:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 16:50:20 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Sinner sets up Zverev semi-final at Monte Carlo]]></title>
+      <description><![CDATA[Jannik Sinner cruises past Felix Auger-Aliassime to set up a semi-final with Alexander Zverev in the Monte Carlo Masters. ]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c5yvjy7grvvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c5yvjy7grvvo</guid>
+      <pubDate>Fri, 10 Apr 2026 15:50:15 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43a5/live/206189c0-34ee-11f1-9d5c-8ba507d7dbde.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Stojsavljevic, 17, wins as GB take charge in BJK Cup]]></title>
       <description><![CDATA[Teenager Mika Stojsavljevic stuns Talia Gibson, ranked more than 200 places above her, in straight sets as Great Britain take a 2-0 lead over Australia in the Billie Jean King Cup.]]></description>
@@ -48,14 +56,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e506/live/96b53310-334a-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sinner & Alcaraz open clay-court seasons with wins]]></title>
-      <description><![CDATA[Jannik Sinner and Carlos Alcaraz continued their tussle for the world number one spot as they opened their clay-court seasons with commanding second-round wins at the Monte Carlo Masters.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/czex6ppn63eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/czex6ppn63eo</guid>
-      <pubDate>Tue, 07 Apr 2026 14:45:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f855/live/1d371fa0-328f-11f1-a79a-77e93010d956.png"/>
-    </item>
-    <item>
       <title><![CDATA[Boulter suffers first-round exit to Ruse in Austria]]></title>
       <description><![CDATA[Britain's Katie Boulter suffers a first-round defeat to Romania's Elena-Gabriela Ruse at the Upper Austria Ladies Linz Open.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c2lwxyv1v80o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -70,6 +70,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cde5rn76j44o</guid>
       <pubDate>Sun, 05 Apr 2026 15:22:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b023/live/551a1d70-30fd-11f1-85f0-7fe7dd4a9b2b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sinner & Alcaraz open clay-court seasons with wins]]></title>
+      <description><![CDATA[Jannik Sinner and Carlos Alcaraz continued their tussle for the world number one spot as they opened their clay-court seasons with commanding second-round wins at the Monte Carlo Masters.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/czex6ppn63eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/czex6ppn63eo</guid>
+      <pubDate>Tue, 07 Apr 2026 14:45:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f855/live/1d371fa0-328f-11f1-a79a-77e93010d956.png"/>
     </item>
     <item>
       <title><![CDATA[Pegula retains Charleston title for second 2026 win]]></title>
