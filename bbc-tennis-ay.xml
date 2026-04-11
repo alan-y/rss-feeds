@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 16:57:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 17:35:04 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Alcaraz faces Sinner in Monte Carlo final]]></title>
+      <description><![CDATA[Defending champion Carlos Alcaraz will face Jannik Sinner in the final of the Monte Carlo Masters, with the winner taking the world number one spot.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c77mkkgk4mvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c77mkkgk4mvo</guid>
+      <pubDate>Sat, 11 Apr 2026 17:20:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b60/live/a3c27ec0-35c8-11f1-879d-1b2f5c3919b8.png"/>
+    </item>
     <item>
       <title><![CDATA[Dart and Burrage send GB to BJK Cup finals]]></title>
       <description><![CDATA[Harriet Dart and Jodie Burrage win the decisive doubles to send Great Britain through to the Billie Jean King Cup finals with victory against Australia.]]></description>
@@ -22,14 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cge0zgrz0ezo</guid>
       <pubDate>Sat, 11 Apr 2026 08:53:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58b2/live/df3ed070-3569-11f1-bb09-df6eda711785.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sinner sets up Zverev semi-final at Monte Carlo]]></title>
-      <description><![CDATA[Jannik Sinner cruises past Felix Auger-Aliassime to set up a semi-final with Alexander Zverev in the Monte Carlo Masters. ]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c5yvjy7grvvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c5yvjy7grvvo</guid>
-      <pubDate>Fri, 10 Apr 2026 15:50:15 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43a5/live/206189c0-34ee-11f1-9d5c-8ba507d7dbde.jpg"/>
     </item>
     <item>
       <title><![CDATA[Stojsavljevic, 17, wins as GB take charge in BJK Cup]]></title>
@@ -40,12 +40,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/431f/live/9cfd0220-349e-11f1-ac58-6937fff2ecfb.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sinner into last eight after 37-set record snapped]]></title>
-      <description><![CDATA[Jannik Sinner drops a set at an ATP Masters event for the first time in 186 days but he reaches the Monte Carlo quarter-finals.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c3r37peerpgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c3r37peerpgo</guid>
-      <pubDate>Thu, 09 Apr 2026 16:52:31 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/270e/live/014171a0-3420-11f1-aa50-fd39c44a0779.jpg"/>
+      <title><![CDATA[Sinner sets up Zverev semi-final at Monte Carlo]]></title>
+      <description><![CDATA[Jannik Sinner cruises past Felix Auger-Aliassime to set up a semi-final with Alexander Zverev in the Monte Carlo Masters. ]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c5yvjy7grvvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c5yvjy7grvvo</guid>
+      <pubDate>Fri, 10 Apr 2026 15:50:15 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43a5/live/206189c0-34ee-11f1-9d5c-8ba507d7dbde.jpg"/>
     </item>
     <item>
       <title><![CDATA[Medvedev destroys racquet in 6-0 6-0 loss]]></title>
@@ -54,6 +54,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cp9v7p34223o</guid>
       <pubDate>Wed, 08 Apr 2026 13:15:29 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e506/live/96b53310-334a-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sinner into last eight after 37-set record snapped]]></title>
+      <description><![CDATA[Jannik Sinner drops a set at an ATP Masters event for the first time in 186 days but he reaches the Monte Carlo quarter-finals.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c3r37peerpgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c3r37peerpgo</guid>
+      <pubDate>Thu, 09 Apr 2026 16:52:31 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/270e/live/014171a0-3420-11f1-aa50-fd39c44a0779.jpg"/>
     </item>
     <item>
       <title><![CDATA[Boulter suffers first-round exit to Ruse in Austria]]></title>
@@ -96,20 +104,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5050/live/22358690-2e84-11f1-98e7-6b639170d418.png"/>
     </item>
     <item>
-      <title><![CDATA[Raducanu pulls out of another tournament after illness]]></title>
-      <description><![CDATA[Emma Raducanu delays the start of her clay-court season as she continues to recover from a viral illness, according to her representatives.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c1krvp12eg3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c1krvp12eg3o</guid>
-      <pubDate>Wed, 01 Apr 2026 09:07:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ce/live/aad7e520-2da7-11f1-8469-3bd0a3d7fbf1.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Weekly sports quiz: What is the 'Sunshine Double'?]]></title>
       <description><![CDATA[How much attention have you paid to what's happened in the world of sport over the past seven days?]]></description>
       <link>https://www.bbc.com/sport/articles/cre191qy7vzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/cre191qy7vzo</guid>
       <pubDate>Thu, 02 Apr 2026 06:11:27 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f51/live/4a850a80-2dcb-11f1-91d2-f9f3a172f846.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Raducanu pulls out of another tournament after illness]]></title>
+      <description><![CDATA[Emma Raducanu delays the start of her clay-court season as she continues to recover from a viral illness, according to her representatives.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c1krvp12eg3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c1krvp12eg3o</guid>
+      <pubDate>Wed, 01 Apr 2026 09:07:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ce/live/aad7e520-2da7-11f1-8469-3bd0a3d7fbf1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sinner raises Alcaraz stakes with historic 'Sunshine Double']]></title>
@@ -150,14 +158,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c9qdj39943eo</guid>
       <pubDate>Fri, 27 Mar 2026 13:01:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf14/live/1be45370-29d4-11f1-9def-51999882d8d7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Gauff to face Sabalenka in her first Miami Open final]]></title>
-      <description><![CDATA[American Coco Gauff cruises past 13th seed Karolina Muchova in straight sets to reach her first Miami Open final, where world number one Aryna Sabalenka awaits.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c5yv7knpz72o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c5yv7knpz72o</guid>
-      <pubDate>Thu, 26 Mar 2026 21:16:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b7a/live/6a3e1ad0-2955-11f1-98c5-01603f6fa96c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rybakina battles past Pegula to reach Miami semis]]></title>
