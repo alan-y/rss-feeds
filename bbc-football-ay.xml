@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 11:58:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 13:10:57 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -64,20 +64,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9d/live/6fffd1f0-3415-11f1-9d5c-8ba507d7dbde.png"/>
     </item>
     <item>
-      <title><![CDATA[Nike investigating issue with World Cup kits]]></title>
-      <description><![CDATA[Sportswear giant Nike is investigating a design issue with the shirts set to be worn by several teams - including England - at this summer's World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2evp8283wgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2evp8283wgo</guid>
-      <pubDate>Fri, 10 Apr 2026 18:40:21 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb76/live/28107120-3509-11f1-ba51-4930b617bc5b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Sutton's predictions v boxing promoter & Arsenal fan Frank Warren]]></title>
       <description><![CDATA[Chris Sutton takes on boxing promoter Frank Warren plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwyj5w47zlwo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyj5w47zlwo</guid>
       <pubDate>Thu, 09 Apr 2026 15:48:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dd8/live/c33b8a60-3377-11f1-9d5c-8ba507d7dbde.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Nike investigating issue with World Cup kits]]></title>
+      <description><![CDATA[Sportswear giant Nike is investigating a design issue with the shirts set to be worn by several teams - including England - at this summer's World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2evp8283wgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2evp8283wgo</guid>
+      <pubDate>Fri, 10 Apr 2026 18:40:21 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb76/live/28107120-3509-11f1-ba51-4930b617bc5b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Guardiola would 'love' Silva to stay at Man City]]></title>
@@ -94,22 +94,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c70drp00yyqo</guid>
       <pubDate>Fri, 10 Apr 2026 14:14:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b16/live/f61ca2b0-34db-11f1-8b19-2d247cb32ea4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What's next in captivating Scottish Premiership title race?]]></title>
-      <description><![CDATA[Hearts host Motherwell, Celtic welcome St Mirren and Rangers travel to Falkirk in the latest instalment of the fascinating Scottish Premiership title race.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy017dy18lwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy017dy18lwo</guid>
-      <pubDate>Fri, 10 Apr 2026 08:15:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b049/live/a35b4be0-3430-11f1-9d5c-8ba507d7dbde.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Consultant leads review into Old Firm cup disorder]]></title>
-      <description><![CDATA[Sports event consultant Mark Blackbourne will lead the Scottish FA's investigation into the disorder that followed the Scottish Cup quarter-final between Rangers and Celtic in March.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cg40n6xk0y9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg40n6xk0y9o</guid>
-      <pubDate>Fri, 10 Apr 2026 14:31:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d53/live/274cd510-1e36-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA[West Ham thrash Wolves to move out of relegation zone]]></title>
@@ -158,6 +142,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz78np0yjego</guid>
       <pubDate>Fri, 10 Apr 2026 12:19:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aec/live/9f254ca0-34db-11f1-8b19-2d247cb32ea4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Consultant leads review into Old Firm cup disorder]]></title>
+      <description><![CDATA[Sports event consultant Mark Blackbourne will lead the Scottish FA's investigation into the disorder that followed the Scottish Cup quarter-final between Rangers and Celtic in March.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cg40n6xk0y9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg40n6xk0y9o</guid>
+      <pubDate>Fri, 10 Apr 2026 14:31:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d53/live/274cd510-1e36-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is Fernandes' own goal the worst of all time?]]></title>
@@ -288,14 +280,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c2a/live/b3e488c0-350a-11f1-ba51-4930b617bc5b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Premier League must protect teams in Europe - Pereira]]></title>
-      <description><![CDATA[Nottingham Forest boss Vitor Pereira has urged the Premier League to protect teams playing in Europe by easing their schedules. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8x7d9g4q52o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8x7d9g4q52o</guid>
-      <pubDate>Fri, 10 Apr 2026 21:30:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b65a/live/70425890-346a-11f1-ba95-73124ae63a2c.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Did quadruple ambition set bar too high for Arsenal?]]></title>
       <description><![CDATA[Monday Night Club's Rory Smith explains why the quadruple was too much for Arsenal.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cly92d144ejo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -352,20 +336,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55d/live/11a7ec40-34a2-11f1-ac58-6937fff2ecfb.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Premier League must protect teams in Europe - Pereira]]></title>
+      <description><![CDATA[Nottingham Forest boss Vitor Pereira has urged the Premier League to protect teams playing in Europe by easing their schedules. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c8x7d9g4q52o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8x7d9g4q52o</guid>
+      <pubDate>Fri, 10 Apr 2026 21:30:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b65a/live/70425890-346a-11f1-ba95-73124ae63a2c.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How Lens embraced underdog status to become PSG's title rivals]]></title>
       <description><![CDATA[Lens have pushed PSG closer than anyone in Ligue 1 this season and, with the sides still to meet again, still hold an outside shot at the title. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdxdeyrgze4o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdxdeyrgze4o</guid>
       <pubDate>Fri, 10 Apr 2026 08:36:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27f1/live/c27a7780-342b-11f1-a207-8b959fccb503.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Egypt goalkeeper banned for striking referee]]></title>
-      <description><![CDATA[Al-Ahly goalkeeper Mohamed El-Shenawy banned for four games for striking a referee on the head following an Egyptian Pro League match.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c8jkw2n3z1yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8jkw2n3z1yo</guid>
-      <pubDate>Fri, 10 Apr 2026 07:21:19 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61d7/live/14bdd340-34ac-11f1-a676-6ff4dfb1e8ec.jpg"/>
     </item>
     <item>
       <title><![CDATA[How to follow the Premier League on the BBC this weekend]]></title>
@@ -503,6 +487,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd031n4d9dxo</guid>
       <pubDate>Mon, 16 Mar 2026 10:30:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c877/live/abff63e0-211f-11f1-9120-a910fc22c6ac.png"/>
+    </item>
+    <item>
+      <title><![CDATA[What's next in captivating Premiership title race?]]></title>
+      <description><![CDATA[Hearts host Motherwell, Celtic welcome St Mirren and Rangers travel to Falkirk in the latest instalment of the fascinating Scottish Premiership title race.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy017dy18lwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy017dy18lwo</guid>
+      <pubDate>Fri, 10 Apr 2026 08:15:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b049/live/a35b4be0-3430-11f1-9d5c-8ba507d7dbde.png"/>
     </item>
     <item>
       <title><![CDATA[English clubs eye move for Celtic's Nygren - gossip]]></title>
