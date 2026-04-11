@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 09:38:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 10:08:02 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[West Ham have fresh hope - but Spurs now in uncharted territory]]></title>
-      <description><![CDATA[West Ham's thumping win over Wolves not only boosts their own Premier League survival hopes, but plunges Tottenham into the drop zone - and to new depths.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cr71jvrpp5ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr71jvrpp5ro</guid>
-      <pubDate>Fri, 10 Apr 2026 23:23:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/febe/live/d1fde4b0-3527-11f1-9d5c-8ba507d7dbde.jpg"/>
-    </item>
     <item>
       <title><![CDATA[Could Guardiola's best and Arteta's worst month decide title?]]></title>
       <description><![CDATA[As the Premier League season approaches its finale, April could be the defining month for leaders Arsenal and closest challengers Manchester City. BBC Sport looks at the stats to explain why.]]></description>
@@ -32,20 +24,28 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/113d/live/180bfcd0-33fc-11f1-a4ee-f9cebb92412a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[De Zerbi 'not surprised' by reaction to Greenwood comments]]></title>
-      <description><![CDATA[Tottenham manager Roberto de Zerbi says he was "not surprised" by the reaction from supporters over comments he made about Mason Greenwood.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cdxde1g4dvqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdxde1g4dvqo</guid>
-      <pubDate>Fri, 10 Apr 2026 21:30:38 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf26/live/95e0c390-34e0-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[A tough season, playing angry, and messaging Michael Owen]]></title>
       <description><![CDATA[Ollie Watkins speaks to Kelly Somers about Aston Villa, England and his World Cup dream.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c87w429w3j5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c87w429w3j5o</guid>
       <pubDate>Sat, 11 Apr 2026 05:06:33 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8185/live/0c8a03f0-335e-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[West Ham have fresh hope - but Spurs now in uncharted territory]]></title>
+      <description><![CDATA[West Ham's thumping win over Wolves not only boosts their own Premier League survival hopes, but plunges Tottenham into the drop zone - and to new depths.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cr71jvrpp5ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr71jvrpp5ro</guid>
+      <pubDate>Fri, 10 Apr 2026 23:23:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/febe/live/d1fde4b0-3527-11f1-9d5c-8ba507d7dbde.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[De Zerbi 'not surprised' by reaction to Greenwood comments]]></title>
+      <description><![CDATA[Tottenham manager Roberto de Zerbi says he was "not surprised" by the reaction from supporters over comments he made about Mason Greenwood.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cdxde1g4dvqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdxde1g4dvqo</guid>
+      <pubDate>Fri, 10 Apr 2026 21:30:38 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf26/live/95e0c390-34e0-11f1-8606-05fe34b06e1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fernandez sorry but will miss Man City - Rosenior]]></title>
@@ -80,20 +80,28 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0328/live/cff1c4d0-34d6-11f1-9217-6f53ad8323f7.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Consultant leads review into Old Firm cup disorder]]></title>
-      <description><![CDATA[Sports event consultant Mark Blackbourne will lead the Scottish FA's investigation into the disorder that followed the Scottish Cup quarter-final between Rangers and Celtic in March.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cg40n6xk0y9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg40n6xk0y9o</guid>
-      <pubDate>Fri, 10 Apr 2026 14:31:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d53/live/274cd510-1e36-11f1-801d-ed3cff6bf876.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Sutton's predictions v boxing promoter & Arsenal fan Frank Warren]]></title>
       <description><![CDATA[Chris Sutton takes on boxing promoter Frank Warren plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cwyj5w47zlwo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwyj5w47zlwo</guid>
       <pubDate>Thu, 09 Apr 2026 15:48:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dd8/live/c33b8a60-3377-11f1-9d5c-8ba507d7dbde.png"/>
+    </item>
+    <item>
+      <title><![CDATA[What's next in captivating Scottish Premiership title race?]]></title>
+      <description><![CDATA[Hearts host Motherwell, Celtic welcome St Mirren and Rangers travel to Falkirk in the latest instalment of the fascinating Scottish Premiership title race.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy017dy18lwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy017dy18lwo</guid>
+      <pubDate>Fri, 10 Apr 2026 08:15:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b049/live/a35b4be0-3430-11f1-9d5c-8ba507d7dbde.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Consultant leads review into Old Firm cup disorder]]></title>
+      <description><![CDATA[Sports event consultant Mark Blackbourne will lead the Scottish FA's investigation into the disorder that followed the Scottish Cup quarter-final between Rangers and Celtic in March.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cg40n6xk0y9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg40n6xk0y9o</guid>
+      <pubDate>Fri, 10 Apr 2026 14:31:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d53/live/274cd510-1e36-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is Fernandes' own goal the worst of all time?]]></title>
@@ -118,22 +126,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgx9633e81o</guid>
       <pubDate>Fri, 10 Apr 2026 09:20:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a13/live/9b002410-34c7-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Spurs lead race for Robertson - Saturday's gossip]]></title>
-      <description><![CDATA[Tottenham in pole position to sign Andy Robertson, Manchester City in talks for Morten Hjulmand, Arsenal monitoring Anthony Gordon and Kees Smit attracting Premier League interest. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yw9y4x4geo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yw9y4x4geo</guid>
-      <pubDate>Fri, 10 Apr 2026 21:36:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e2e/live/ac8eb5b0-3522-11f1-9d5c-8ba507d7dbde.png"/>
-    </item>
-    <item>
-      <title><![CDATA[We asked fans of Premier League clubs how they are feeling - find out the results]]></title>
-      <description><![CDATA[As the Premier League returns after a three-week hiatus, we asked fans how they are feeling about their club.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz78np0yjego?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz78np0yjego</guid>
-      <pubDate>Fri, 10 Apr 2026 12:19:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aec/live/9f254ca0-34db-11f1-8b19-2d247cb32ea4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Green Brigade return may boost title bid - O'Neill]]></title>
@@ -184,12 +176,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c4e/live/29c945e0-3523-11f1-8606-05fe34b06e1b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What's next in captivating Scottish Premiership title race?]]></title>
-      <description><![CDATA[Hearts host Motherwell, Celtic welcome St Mirren and Rangers travel to Falkirk in the latest instalment of the fascinating Scottish Premiership title race.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy017dy18lwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy017dy18lwo</guid>
-      <pubDate>Fri, 10 Apr 2026 08:15:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b049/live/a35b4be0-3430-11f1-9d5c-8ba507d7dbde.png"/>
+      <title><![CDATA[We asked fans of Premier League clubs how they are feeling - find out the results]]></title>
+      <description><![CDATA[As the Premier League returns after a three-week hiatus, we asked fans how they are feeling about their club.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz78np0yjego?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz78np0yjego</guid>
+      <pubDate>Fri, 10 Apr 2026 12:19:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aec/live/9f254ca0-34db-11f1-8b19-2d247cb32ea4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Spurs lead race for Robertson - Saturday's gossip]]></title>
+      <description><![CDATA[Tottenham in pole position to sign Andy Robertson, Manchester City in talks for Morten Hjulmand, Arsenal monitoring Anthony Gordon and Kees Smit attracting Premier League interest. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5yw9y4x4geo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yw9y4x4geo</guid>
+      <pubDate>Fri, 10 Apr 2026 21:36:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e2e/live/ac8eb5b0-3522-11f1-9d5c-8ba507d7dbde.png"/>
     </item>
     <item>
       <title><![CDATA[What are European stakes for Scottish clubs this time?]]></title>
@@ -200,12 +200,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93b8/live/53d7f2b0-342d-11f1-a207-8b959fccb503.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Liverpool to sign Germany forward Endemann in July]]></title>
-      <description><![CDATA[Liverpool have reached an agreement to sign Germany international Vivien Endemann upon the expiry of her contract at Wolfsburg.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gd4nj0nkno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gd4nj0nkno</guid>
-      <pubDate>Fri, 10 Apr 2026 14:00:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/987d/live/a1f95dc0-34e7-11f1-bce2-613d63bea84f.jpg"/>
+      <title><![CDATA[New faces pushing Wales - and why game in Wrexham is so important]]></title>
+      <description><![CDATA[In her debut BBC Sport column, Rhiannon Roberts discusses Wales' World Cup qualifying double-header with Albania, the changing of the guard within the squad, and excitement at playing for her country in Wrexham.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgekdxnzndo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgekdxnzndo</guid>
+      <pubDate>Sat, 11 Apr 2026 09:37:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/392f/live/a144b520-3526-11f1-9d5c-8ba507d7dbde.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Naderi injury serious, says Rangers boss Rohl]]></title>
+      <description><![CDATA[Ryan Naderi's muscle injury is "serious", says Rangers head coach Danny Rohl, who has had more positive news about Tuur Rommens.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crr1k4wzr2ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crr1k4wzr2ko</guid>
+      <pubDate>Fri, 10 Apr 2026 10:19:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6129/live/4d2e07e0-34c5-11f1-b079-8d85ad9c406e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Spalletti signs new Juventus contract amid Italy links]]></title>
@@ -214,14 +222,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gvkg7e8mro</guid>
       <pubDate>Fri, 10 Apr 2026 15:42:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/205b/live/8f2c4850-34f2-11f1-955f-add91a6f90f4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wales' Ingle back to best after injury woe]]></title>
-      <description><![CDATA[Midfielder Sophie Ingle bids to continue her impressive return season during Wales' World Cup qualifying double header against Albania.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpwjkq4exxko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwjkq4exxko</guid>
-      <pubDate>Fri, 10 Apr 2026 17:39:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c09/live/35580be0-3504-11f1-b057-1d9fee7490d8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Littler v Rooney in nine-dart challenge]]></title>
@@ -280,12 +280,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08b/live/35d69260-b98c-11f0-aa13-0b0479f6f42a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Naderi injury serious, says Rangers boss Rohl]]></title>
-      <description><![CDATA[Ryan Naderi's muscle injury is "serious", says Rangers head coach Danny Rohl, who has had more positive news about Tuur Rommens.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crr1k4wzr2ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crr1k4wzr2ko</guid>
-      <pubDate>Fri, 10 Apr 2026 10:19:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6129/live/4d2e07e0-34c5-11f1-b079-8d85ad9c406e.jpg"/>
+      <title><![CDATA[Liverpool to sign Germany forward Endemann in July]]></title>
+      <description><![CDATA[Liverpool have reached an agreement to sign Germany international Vivien Endemann upon the expiry of her contract at Wolfsburg.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gd4nj0nkno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gd4nj0nkno</guid>
+      <pubDate>Fri, 10 Apr 2026 14:00:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/987d/live/a1f95dc0-34e7-11f1-bce2-613d63bea84f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Egypt goalkeeper banned for striking referee]]></title>
@@ -296,6 +296,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61d7/live/14bdd340-34ac-11f1-a676-6ff4dfb1e8ec.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Moore ready to influence Wrexham's run-in after injury]]></title>
+      <description><![CDATA[Kieffer Moore says he is ready to make an impact in Wrexham's Championship run-in after recovering from injury and lauds retired Wales team-mate Aaron Ramsey.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce9m1kygpxlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce9m1kygpxlo</guid>
+      <pubDate>Sat, 11 Apr 2026 09:05:36 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c2a/live/b3e488c0-350a-11f1-ba51-4930b617bc5b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How Lens embraced underdog status to become PSG's title rivals]]></title>
       <description><![CDATA[Lens have pushed PSG closer than anyone in Ligue 1 this season and, with the sides still to meet again, still hold an outside shot at the title. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdxdeyrgze4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -304,20 +312,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27f1/live/c27a7780-342b-11f1-a207-8b959fccb503.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Hungry' Watkins is man on mission - but will Tuchel take notice?]]></title>
-      <description><![CDATA[Ollie Watkins' response to being dropped by England has been nothing short of emphatic, with two strikes in Bologna adding to his goal against West Ham before the international break.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2rdd3pv7eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2rdd3pv7eo</guid>
-      <pubDate>Thu, 09 Apr 2026 22:53:12 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fb/live/da8200d0-345a-11f1-9d5c-8ba507d7dbde.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Premier League must protect teams in Europe - Pereira]]></title>
       <description><![CDATA[Nottingham Forest boss Vitor Pereira has urged the Premier League to protect teams playing in Europe by easing their schedules. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8x7d9g4q52o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8x7d9g4q52o</guid>
       <pubDate>Fri, 10 Apr 2026 21:30:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b65a/live/70425890-346a-11f1-ba95-73124ae63a2c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Wales' Ingle back to best after injury woe]]></title>
+      <description><![CDATA[Midfielder Sophie Ingle bids to continue her impressive return season during Wales' World Cup qualifying double header against Albania.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpwjkq4exxko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwjkq4exxko</guid>
+      <pubDate>Fri, 10 Apr 2026 17:39:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c09/live/35580be0-3504-11f1-b057-1d9fee7490d8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Did quadruple ambition set bar too high for Arsenal?]]></title>
@@ -376,6 +384,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55d/live/11a7ec40-34a2-11f1-ac58-6937fff2ecfb.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Hungry' Watkins is man on mission - but will Tuchel take notice?]]></title>
+      <description><![CDATA[Ollie Watkins' response to being dropped by England has been nothing short of emphatic, with two strikes in Bologna adding to his goal against West Ham before the international break.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cx2rdd3pv7eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2rdd3pv7eo</guid>
+      <pubDate>Thu, 09 Apr 2026 22:53:12 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fb/live/da8200d0-345a-11f1-9d5c-8ba507d7dbde.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Arsenal's big summer - Arteta contract, £100m for Nwaneri and Lewis-Skelly]]></title>
       <description><![CDATA[Whatever happens this season, Arsenal are facing some big decisions in the summer over Mikel Arteta's contract and their transfer moves.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn78kdymmvpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -390,14 +406,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czxrgze6nxpo</guid>
       <pubDate>Fri, 10 Apr 2026 11:31:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b540/live/abd3c790-34c9-11f1-b1bc-6552e008ea48.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Maguire on his major lows and belief he is still one of world's best]]></title>
-      <description><![CDATA[Manchester United defender Harry Maguire on how his mum defended him in his lowest moments, his return to form, new contract and bright future]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cg4036peyq7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg4036peyq7o</guid>
-      <pubDate>Thu, 09 Apr 2026 11:00:26 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d50f/live/928f0d90-338d-11f1-9d5c-8ba507d7dbde.jpg"/>
     </item>
     <item>
       <title><![CDATA[KSI targets Premier League for Dagenham - but not as manager]]></title>
@@ -416,12 +424,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/110c/live/ab6a81b0-3409-11f1-8606-05fe34b06e1b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Barcelona complain to Uefa about VAR in Atletico loss]]></title>
-      <description><![CDATA[Barcelona submit a complaint to Uefa over a "grave lack of VAR intervention" during their Champions League defeat by Atletico Madrid on Wednesday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cr41dq4pywxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr41dq4pywxo</guid>
-      <pubDate>Thu, 09 Apr 2026 19:28:57 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97d2/live/4d2b5090-3448-11f1-acfc-bb3dca3045bc.jpg"/>
+      <title><![CDATA[Maguire on his major lows and belief he is still one of world's best]]></title>
+      <description><![CDATA[Manchester United defender Harry Maguire on how his mum defended him in his lowest moments, his return to form, new contract and bright future]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cg4036peyq7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg4036peyq7o</guid>
+      <pubDate>Thu, 09 Apr 2026 11:00:26 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d50f/live/928f0d90-338d-11f1-9d5c-8ba507d7dbde.jpg"/>
     </item>
     <item>
       <title><![CDATA[Seven games to go - how will De Zerbi try to save Spurs?]]></title>
@@ -446,14 +454,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyg0d2v5gyo</guid>
       <pubDate>Wed, 08 Apr 2026 09:34:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/921b/live/57298da0-328b-11f1-9fac-89e41bab67f2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Dropping Fernandez - a sign of Rosenior's authority or a big risk?]]></title>
-      <description><![CDATA[Enzo Fernandez has given Chelsea boss Liam Rosenior the first major internal disciplinary issue of his brief tenure at Stamford Bridge - BBC Sport analyses the situation.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwywk1yx772o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwywk1yx772o</guid>
-      <pubDate>Wed, 08 Apr 2026 11:01:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d03/live/2f1726e0-328d-11f1-9fac-89e41bab67f2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Back Haaland and Semenyo to shine at Chelsea - FPL team of the week]]></title>
