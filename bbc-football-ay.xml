@@ -10,46 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 22:31:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 23:04:28 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[Teenager Ngumoha scores as Liverpool beat Fulham]]></title>
-      <description><![CDATA[Rio Ngumoha and Mohamed Salah both score in Liverpool's 2-0 victory over Fulham at Anfield.
-
-
-]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cq59y9ld0e6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cq59y9ld0e6o</guid>
-      <pubDate>Sat, 11 Apr 2026 19:40:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adf6/live/816a4a60-35dc-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Scott nets the winner as Bournemouth stun Arsenal]]></title>
-      <description><![CDATA[Arsenal's title hopes take a hit as Bournemouth win 2-1 at the Emirates with goals from Junior Kroupi and Alex Scott. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cj94r81vl1zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cj94r81vl1zo</guid>
-      <pubDate>Sat, 11 Apr 2026 19:00:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/660f/live/bc011a40-35ce-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Dewsbury-Hall scores late equaliser as Everton draw at Brentford]]></title>
-      <description><![CDATA[Kiernan Dewsbury-Hall scores a late equaliser as Everton rescue a point at Brentford after coming from behind twice.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/ce8jewlrgr8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ce8jewlrgr8o</guid>
-      <pubDate>Sat, 11 Apr 2026 19:06:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c6/live/b9dd12b0-35d7-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wieffer scores twice as Brighton beat Burnley]]></title>
-      <description><![CDATA[Mats Wieffer scores twice to earn Brighton a third consecutive win with a 2-0 victory at Burnley. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c98mpqp5202o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c98mpqp5202o</guid>
-      <pubDate>Sat, 11 Apr 2026 19:03:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b135/live/398e6c10-35d4-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
     <item>
       <title><![CDATA['Big punch in the face' - could Arsenal really blow title from here?]]></title>
       <description><![CDATA[Nine points clear with six games to play - could Arsenal still really blow the Premier League title from that position?]]></description>
@@ -91,12 +56,63 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/129f/live/ab986330-35f0-11f1-879d-1b2f5c3919b8.png"/>
     </item>
     <item>
+      <title><![CDATA[Scott nets the winner as Bournemouth stun Arsenal]]></title>
+      <description><![CDATA[Arsenal's title hopes take a hit as Bournemouth win 2-1 at the Emirates with goals from Junior Kroupi and Alex Scott. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cj94r81vl1zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cj94r81vl1zo</guid>
+      <pubDate>Sat, 11 Apr 2026 19:00:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/660f/live/bc011a40-35ce-11f1-8606-05fe34b06e1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Teenager Ngumoha scores as Liverpool beat Fulham]]></title>
+      <description><![CDATA[Rio Ngumoha and Mohamed Salah both score in Liverpool's 2-0 victory over Fulham at Anfield.
+
+
+]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cq59y9ld0e6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cq59y9ld0e6o</guid>
+      <pubDate>Sat, 11 Apr 2026 19:40:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adf6/live/816a4a60-35dc-11f1-8606-05fe34b06e1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Dewsbury-Hall scores late equaliser as Everton draw at Brentford]]></title>
+      <description><![CDATA[Kiernan Dewsbury-Hall scores a late equaliser as Everton rescue a point at Brentford after coming from behind twice.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/ce8jewlrgr8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ce8jewlrgr8o</guid>
+      <pubDate>Sat, 11 Apr 2026 19:06:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c6/live/b9dd12b0-35d7-11f1-8606-05fe34b06e1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Wieffer scores twice as Brighton beat Burnley]]></title>
+      <description><![CDATA[Mats Wieffer scores twice to earn Brighton a third consecutive win with a 2-0 victory at Burnley. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c98mpqp5202o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c98mpqp5202o</guid>
+      <pubDate>Sat, 11 Apr 2026 19:03:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b135/live/398e6c10-35d4-11f1-8606-05fe34b06e1b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[A tough season, playing angry, and messaging Michael Owen]]></title>
       <description><![CDATA[Ollie Watkins speaks to Kelly Somers about Aston Villa, England and his World Cup dream.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c87w429w3j5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c87w429w3j5o</guid>
       <pubDate>Sat, 11 Apr 2026 05:06:33 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8185/live/0c8a03f0-335e-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Weak, vulnerable, and very, very nervous' - Shearer on Arsenal]]></title>
+      <description><![CDATA[Match of the Day pundits Alan Shearer and Danny Murphy look at how a "nervous" Arsenal side dropped points in the title race with a 2-1 home defeat to Bournemouth. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cy81y21x054o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy81y21x054o</guid>
+      <pubDate>Sat, 11 Apr 2026 22:57:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9317/live/1992c450-35f3-11f1-8606-05fe34b06e1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['He brings an energy' - Should Ngumoha start against PSG?]]></title>
+      <description><![CDATA[Alan Shearer and Danny Murphy debate whether 17-year-old Rio Ngumoha should start for Liverpool in their Champions League quarter-final second leg against PSG, after starring and scoring in the Reds' 2-0 win over Fulham. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c2ev120pmpjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c2ev120pmpjo</guid>
+      <pubDate>Sat, 11 Apr 2026 22:57:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/611e/live/b8c812b0-35f7-11f1-9d5c-8ba507d7dbde.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ngumoha getting 'stronger and stronger' - Slot]]></title>
@@ -107,36 +123,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83ed/live/1c958660-35da-11f1-9d5c-8ba507d7dbde.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Everything he does is impressive - Shearer lauds Igor Thiago]]></title>
+      <description><![CDATA[Match of the Day's Alan Shearer analyses the performance of Brentford's Igor Thiago, as the Brazilian striker took his Premier League tally to 21 goals with a brace in his side's 2-2 draw with Everton. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/ceqwzpdnqljo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ceqwzpdnqljo</guid>
+      <pubDate>Sat, 11 Apr 2026 22:57:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48e/live/34643c80-35f5-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Fulham 'cannot repeat' first-half display - Silva]]></title>
       <description><![CDATA[Fulham manager Marco Silva criticises his sides first-half display, after conceding twice in four minutes against Liverpool. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/crr1n151jjro?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/crr1n151jjro</guid>
       <pubDate>Sat, 11 Apr 2026 19:58:40 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2976/live/d3a2ae40-35db-11f1-9d5c-8ba507d7dbde.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['A big punch on the face' - Arteta]]></title>
-      <description><![CDATA[Arsenal manager Mikel Arteta describes the 2-1 defeat at home to Bournemouth as "a big punch on the face" as they drop points in the Premier League title race. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cd7jz4d7d9vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cd7jz4d7d9vo</guid>
-      <pubDate>Sat, 11 Apr 2026 14:27:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/909f/live/fd1a1fe0-35b0-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Everything is possible' - Wieffer on Brighton's European hopes]]></title>
-      <description><![CDATA[Mats Wieffer believes Brighton can make a push for European qualification after scoring his first career double in the win over Burnley.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c895qqn7lk5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c895qqn7lk5o</guid>
-      <pubDate>Sat, 11 Apr 2026 17:12:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef9a/live/d3c76ef0-35c8-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Rather Europe chase than relegation scrap - Moyes]]></title>
-      <description><![CDATA[Everton manager David Moyes says he's happier that his side are chasing a spot in Europe rather than fighting relegation, as they get a late equaliser against fellow European hopefuls Brentford.  ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cvg4rrzlp28o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvg4rrzlp28o</guid>
-      <pubDate>Sat, 11 Apr 2026 17:02:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb6f/live/3fc9f480-35c7-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ipswich looking good but Foxes look doomed - Aaron McLean's EFL takeaways]]></title>
@@ -163,6 +163,30 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9d/live/6fffd1f0-3415-11f1-9d5c-8ba507d7dbde.png"/>
     </item>
     <item>
+      <title><![CDATA['A big punch on the face' - Arteta]]></title>
+      <description><![CDATA[Arsenal manager Mikel Arteta describes the 2-1 defeat at home to Bournemouth as "a big punch on the face" as they drop points in the Premier League title race. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cd7jz4d7d9vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cd7jz4d7d9vo</guid>
+      <pubDate>Sat, 11 Apr 2026 14:27:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/909f/live/fd1a1fe0-35b0-11f1-8606-05fe34b06e1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Everything is possible' - Wieffer on Brighton's European hopes]]></title>
+      <description><![CDATA[Mats Wieffer believes Brighton can make a push for European qualification after scoring his first career double in the win over Burnley.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c895qqn7lk5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c895qqn7lk5o</guid>
+      <pubDate>Sat, 11 Apr 2026 17:12:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef9a/live/d3c76ef0-35c8-11f1-8606-05fe34b06e1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rather Europe chase than relegation scrap - Moyes]]></title>
+      <description><![CDATA[Everton manager David Moyes says he's happier that his side are chasing a spot in Europe rather than fighting relegation, as they get a late equaliser against fellow European hopefuls Brentford.  ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cvg4rrzlp28o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvg4rrzlp28o</guid>
+      <pubDate>Sat, 11 Apr 2026 17:02:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb6f/live/3fc9f480-35c7-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['We don't want to talk about Europe' - Hurzeler]]></title>
       <description><![CDATA[Brighton manager Fabian Hurzeler played down his sides chances of finishing in a European spot after they won a third straight game with a 2-0 victory over Burnley. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/c7vq002dypro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -185,30 +209,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ce8lgnd40m3o</guid>
       <pubDate>Sat, 11 Apr 2026 17:43:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f07/live/491290b0-35cc-11f1-9d5c-8ba507d7dbde.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Time for Man City players to smell blood - Sutton]]></title>
-      <description><![CDATA[The Final Score pundits react to Arsenal's loss to Bournemouth.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cn0wyynrwkqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn0wyynrwkqo</guid>
-      <pubDate>Sat, 11 Apr 2026 17:18:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/137b/live/1a2a6280-35c9-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Scott 'amazing' for months - Iraola]]></title>
-      <description><![CDATA[Bournemouth manager Andoni Iraola is full of praise for Alex Scott, whose winning goal seals a 2-1 win against Premier League leaders Arsenal at the Emirates. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cvgkxq0qp7eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvgkxq0qp7eo</guid>
-      <pubDate>Sat, 11 Apr 2026 14:17:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d16/live/f327a7c0-35ae-11f1-9d5c-8ba507d7dbde.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[West Ham thrash Wolves to move out of relegation zone]]></title>
-      <description><![CDATA[Taty Castellanos and Konstantinos Mavropanos both score twice as West Ham beat Wolves to move out of the relegation zone in the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c33l8ej03dxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c33l8ej03dxo</guid>
-      <pubDate>Fri, 10 Apr 2026 21:34:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7316/live/e8405120-3524-11f1-8606-05fe34b06e1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sutton's predictions v boxing promoter & Arsenal fan Frank Warren]]></title>
@@ -243,12 +243,36 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf26/live/95e0c390-34e0-11f1-8606-05fe34b06e1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Time for Man City players to smell blood - Sutton]]></title>
+      <description><![CDATA[The Final Score pundits react to Arsenal's loss to Bournemouth.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cn0wyynrwkqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn0wyynrwkqo</guid>
+      <pubDate>Sat, 11 Apr 2026 17:18:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/137b/live/1a2a6280-35c9-11f1-8606-05fe34b06e1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[West Ham thrash Wolves to move out of relegation zone]]></title>
+      <description><![CDATA[Taty Castellanos and Konstantinos Mavropanos both score twice as West Ham beat Wolves to move out of the relegation zone in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c33l8ej03dxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c33l8ej03dxo</guid>
+      <pubDate>Fri, 10 Apr 2026 21:34:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7316/live/e8405120-3524-11f1-8606-05fe34b06e1b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Augsburg miss late penalty in tense  Hoffenheim draw]]></title>
       <description><![CDATA[Augsburg's Alexis Claude-Maurice misses a late penalty in an eventful draw with Champions League hopefuls Hoffenheim.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cj37v01vdy2o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cj37v01vdy2o</guid>
       <pubDate>Fri, 10 Apr 2026 22:21:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/478f/live/2176e500-3528-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[This season my toughest moment - Watkins]]></title>
+      <description><![CDATA[Aston Villa and England striker Ollie Watkins opens up on his struggles to recapture his form from previous seasons.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cge054lj31yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cge054lj31yo</guid>
+      <pubDate>Sat, 11 Apr 2026 05:01:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d66/live/89ba6ba0-3406-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
       <title><![CDATA['It will be smiles' - Nuno on moving out of relegation zone]]></title>
@@ -265,30 +289,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cjd8jl8ke5ko</guid>
       <pubDate>Fri, 10 Apr 2026 21:50:22 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c4e/live/29c945e0-3523-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Littler v Rooney in nine-dart challenge]]></title>
-      <description><![CDATA[Darts world number one Luke Littler takes on Wayne Rooney in a nine-dart challenge.]]></description>
-      <link>https://www.bbc.com/sport/videos/c05d8nq34m7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/videos/c05d8nq34m7o</guid>
-      <pubDate>Fri, 10 Apr 2026 05:17:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e02/live/aeca6e30-340c-11f1-9d5c-8ba507d7dbde.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Watch Connolly goal as Queen's Park add to Ross County misery]]></title>
-      <description><![CDATA[Watch Aidan Connolly's first-half headed goal that was enough to give Queen's Park a 1-0 win over Ross County to move up to fifth in the Scottish Championship and leave the visitors two points adrift at the foot of the table.]]></description>
-      <link>https://www.bbc.com/sport/videos/c04x1lx1l4po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/videos/c04x1lx1l4po</guid>
-      <pubDate>Fri, 10 Apr 2026 21:15:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a24a/live/8d3f92b0-3522-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The 'unique style' De Zerbi hopes will save Spurs]]></title>
-      <description><![CDATA[BBC Sport's tactics correspondent Umir Irfan breaks down what Roberto de Zerbi will try to implement at Tottenham.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cjw8yqzwe4do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cjw8yqzwe4do</guid>
-      <pubDate>Thu, 09 Apr 2026 14:01:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eed3/live/0684c1f0-3414-11f1-8606-05fe34b06e1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[We asked fans of Premier League clubs how they are feeling - find out the results]]></title>
