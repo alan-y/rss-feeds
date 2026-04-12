@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 12 Apr 2026 20:04:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 20:55:36 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Streeting denies changing pay deal for resident doctors]]></title>
+      <description><![CDATA[A current six-day strike in England is set to end at 06:59 on Monday. ]]></description>
+      <link>https://www.bbc.com/news/articles/cddqn72l1n9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cddqn72l1n9o</guid>
+      <pubDate>Sun, 12 Apr 2026 13:49:48 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1698/live/d22e2ab0-365f-11f1-abac-374b30aeab76.jpg"/>
+    </item>
     <item>
       <title><![CDATA[New light shed on who benefits most from weight-loss jabs]]></title>
       <description><![CDATA[People who carry variations in two genes linked to appetite and digestion can lose more weight when taking drugs to treat obesity, research suggests.]]></description>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cqlglkprv0qo</guid>
       <pubDate>Wed, 18 Mar 2026 16:34:33 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40be/live/a3ef0cc0-22df-11f1-9c64-25f36d76b36f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hospital waiting lists in Wales see record drop ]]></title>
-      <description><![CDATA[Wait times for planned care are falling but diagnostic and cancers waits are up, latest figures indicate.]]></description>
-      <link>https://www.bbc.com/news/articles/cew7llpqdyko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cew7llpqdyko</guid>
-      <pubDate>Thu, 19 Mar 2026 16:14:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ce/live/4578dff0-0d8f-11f1-b5e2-dd58fc65f0f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why the benefit used by more than 8 million people may not be fit for the future]]></title>
