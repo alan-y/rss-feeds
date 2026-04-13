@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 06:13:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 08:24:43 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[Dancer with MND performs on stage again through digital avatar]]></title>
-      <description><![CDATA[Breanna Olson said brainwave tech was able to re-establish the expression and connection she felt had gone.]]></description>
-      <link>https://www.bbc.com/news/articles/cgqkz5lzvnwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cgqkz5lzvnwo</guid>
-      <pubDate>Fri, 10 Apr 2026 13:13:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f25/live/d71ac610-34bf-11f1-8bf0-3fa0c850deba.jpg"/>
-    </item>
     <item>
       <title><![CDATA[Meta pulls Facebook ads recruiting for social media addiction lawsuits]]></title>
       <description><![CDATA[The Facebook owner recently lost a landmark social media addiction trial in California]]></description>
@@ -30,6 +22,22 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/czjw0zgz9zyo</guid>
       <pubDate>Fri, 10 Apr 2026 15:44:12 GMT</pubDate>
       <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8906/live/b0f9e660-34d2-11f1-8606-05fe34b06e1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI boss Sam Altman's home targeted with Molotov cocktail]]></title>
+      <description><![CDATA[San Francisco police have arrested a 20-year-old suspect after a perimeter gate was set alight.]]></description>
+      <link>https://www.bbc.com/news/articles/czx91rdxpyeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/czx91rdxpyeo</guid>
+      <pubDate>Fri, 10 Apr 2026 21:01:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e01/live/6a868a60-351a-11f1-80c8-2fd40df6e72e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Dancer with MND performs on stage again through digital avatar]]></title>
+      <description><![CDATA[Breanna Olson said brainwave tech was able to re-establish the expression and connection she felt had gone.]]></description>
+      <link>https://www.bbc.com/news/articles/cgqkz5lzvnwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cgqkz5lzvnwo</guid>
+      <pubDate>Fri, 10 Apr 2026 13:13:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f25/live/d71ac610-34bf-11f1-8bf0-3fa0c850deba.jpg"/>
     </item>
     <item>
       <title><![CDATA[White House staff told not to place bets on prediction markets]]></title>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c70n2rjgxeyo</guid>
       <pubDate>Mon, 06 Apr 2026 23:20:52 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a9d/live/5122ab50-21e5-11f1-934f-036468834728.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[China is winning one AI race, the US another - but either might pull ahead]]></title>
-      <description><![CDATA[Both sides don't want to let their rival dominate. And the competition may yet be transformed further.]]></description>
-      <link>https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c145enxln0go</guid>
-      <pubDate>Tue, 07 Apr 2026 05:13:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f108/live/c25cbac0-2ea3-11f1-b297-95b0a0a8331e.png"/>
     </item>
   </channel>
 </rss>
