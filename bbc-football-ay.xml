@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 20:14:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 21:10:37 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Man Utd's Martinez sent off for hair-pull - is three-match ban justified? ]]></title>
+      <description><![CDATA[Manchester United defender Lisandro Martinez is sent off after 56 minutes for pulling the hair of Leeds United striker Dominic Calvert-Lewin at Old Trafford. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c145mdge2gdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c145mdge2gdo</guid>
+      <pubDate>Mon, 13 Apr 2026 20:39:35 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16e8/live/d6824940-3775-11f1-b023-c3d1c5398968.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Spurs captain Romero out for rest of season with injury]]></title>
       <description><![CDATA[Tottenham captain Cristian Romero is set to miss the rest of the season with the knee injury he sustained in their 1-0 defeat at Sunderland.]]></description>
@@ -46,6 +54,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0ljk11e390o</guid>
       <pubDate>Mon, 13 Apr 2026 12:22:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f318/live/22499280-35d1-11f1-9d5c-8ba507d7dbde.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Arsenal and Chelsea chase Hall - Tuesday's gossip]]></title>
+      <description><![CDATA[Newcastle left-back Lewis Hall is a target for Chelsea and Arsenal, Liverpool and Manchester United eye RB Leipzig defender David Raum, Brighton goalkeeper Bart Verbruggen considers his future, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c070j2klg9mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c070j2klg9mo</guid>
+      <pubDate>Mon, 13 Apr 2026 20:41:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0919/live/e6fad470-3777-11f1-ac9e-b5fedd8a8c94.png"/>
     </item>
     <item>
       <title><![CDATA[Sunderland condemn racist abuse of Brobbey]]></title>
@@ -88,14 +104,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b254/live/8eaecc00-3744-11f1-b669-c509fb2e8e1e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[We have complied with financial rules - West Brom]]></title>
-      <description><![CDATA[West Bromwich Albion insist they have "fully complied" with EFL's profit and sustainability rules after reports they could face a points deduction]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cjd8997l1zno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjd8997l1zno</guid>
-      <pubDate>Mon, 13 Apr 2026 13:39:03 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b2/live/ffe9cc70-3736-11f1-ba17-d34f2bc9d6da.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Man City have psychological edge over Arsenal - Rooney]]></title>
       <description><![CDATA[Wayne Rooney says Manchester City have the psychological edge over leaders Arsenal in the Premier League title race.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cde54lry1pyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -104,20 +112,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3637/live/c6405280-3733-11f1-8606-05fe34b06e1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[We have complied with financial rules - West Brom]]></title>
+      <description><![CDATA[West Bromwich Albion insist they have "fully complied" with EFL's profit and sustainability rules after reports they could face a points deduction]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cjd8997l1zno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjd8997l1zno</guid>
+      <pubDate>Mon, 13 Apr 2026 13:39:03 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b2/live/ffe9cc70-3736-11f1-ba17-d34f2bc9d6da.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Will Romero's tears become the enduring image of Tottenham's season?]]></title>
       <description><![CDATA[Cristian Romero's tears at Sunderland could prove the lasting image of Tottenham's season if it ends with relegation, writes Phil McNulty.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ce8lnjd7n4po?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8lnjd7n4po</guid>
       <pubDate>Sun, 12 Apr 2026 17:35:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7826/live/993a11b0-3696-11f1-879d-1b2f5c3919b8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Newcastle want Man Utd's Ugarte - Monday's gossip]]></title>
-      <description><![CDATA[Newcastle want Manchester United's Manuel Ugarte, Liverpool face a battle with Chelsea for Eli Junior Kroupi, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c30r9p98z6qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c30r9p98z6qo</guid>
-      <pubDate>Sun, 12 Apr 2026 20:22:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d7/live/392f92e0-3687-11f1-879d-1b2f5c3919b8.png"/>
     </item>
     <item>
       <title><![CDATA[Ghanaian footballer killed after armed attackers open fire at team bus]]></title>
@@ -142,14 +150,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq8wg4w4xqxo</guid>
       <pubDate>Mon, 13 Apr 2026 15:12:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2adb/live/22e7e520-3720-11f1-872e-dbe4122cf753.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Will thrilling Scottish title race be decided on goal difference?]]></title>
-      <description><![CDATA[Rangers' 6-3 win over Falkirk extends the Ibrox side's advantage over leaders Heart of Midlothian and Celtic should the Scottish Premiership title be decided on goal difference.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyxgvq0lyro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyxgvq0lyro</guid>
-      <pubDate>Sun, 12 Apr 2026 16:57:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83b3/live/0e5b3e40-368f-11f1-879d-1b2f5c3919b8.png"/>
     </item>
     <item>
       <title><![CDATA[Man City v Arsenal - winner takes all?]]></title>
@@ -200,6 +200,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c8/live/278b5820-36b5-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Will thrilling Scottish title race be decided on goal difference?]]></title>
+      <description><![CDATA[Rangers' 6-3 win over Falkirk extends the Ibrox side's advantage over leaders Heart of Midlothian and Celtic should the Scottish Premiership title be decided on goal difference.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clyxgvq0lyro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyxgvq0lyro</guid>
+      <pubDate>Sun, 12 Apr 2026 16:57:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83b3/live/0e5b3e40-368f-11f1-879d-1b2f5c3919b8.png"/>
+    </item>
+    <item>
       <title><![CDATA[Andreatta '500% sure' Scotland will reach major finals]]></title>
       <description><![CDATA[Head coach Melissa Andreatta is "500% sure" her squad will be the ones to take Scotland to a first women's major tournament since 2019, even if it is not next summer's World Cup in Brazil.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c248dm5l0g8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -230,14 +238,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8jkxkvm1k9o</guid>
       <pubDate>Mon, 13 Apr 2026 14:12:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d721/live/e5d7c820-373e-11f1-b3bd-89f011397f28.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[NI 'hungry' for success five years after history]]></title>
-      <description><![CDATA[Defender Rebecca McKenna says Northern Ireland are "hungry" to make more history, five years on from their historic Euro 2022 qualification.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp382pg20l1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp382pg20l1o</guid>
-      <pubDate>Mon, 13 Apr 2026 19:04:44 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dace/live/053dee60-3767-11f1-a7e9-a1f2253df567.jpg"/>
     </item>
     <item>
       <title><![CDATA[Title race over if Man City don't beat Arsenal - Guardiola]]></title>
@@ -288,6 +288,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f2d/live/09df14e0-36a3-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
+      <title><![CDATA[NI 'hungry' for success five years after history]]></title>
+      <description><![CDATA[Defender Rebecca McKenna says Northern Ireland are "hungry" to make more history, five years on from their historic Euro 2022 qualification.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp382pg20l1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp382pg20l1o</guid>
+      <pubDate>Mon, 13 Apr 2026 19:04:44 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dace/live/053dee60-3767-11f1-a7e9-a1f2253df567.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[What is going on with Garnacho?]]></title>
       <description><![CDATA[Alejandro Garnacho is struggling to stand out at Chelsea - so can the £40m signing from Manchester United still realise his potential at Stamford Bridge?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8x71741kkdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -310,22 +318,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78lxd8vj04o</guid>
       <pubDate>Sun, 12 Apr 2026 14:12:17 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70a5/live/1d303750-36ac-11f1-9b8e-c37059cf554d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Four months and counting - De Ligt's wait for Man Utd return goes on]]></title>
-      <description><![CDATA[Manchester United defender Matthijs de Ligt has been out for over four months with a back injury and still doesn't know when he will return.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj60w61z4lzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj60w61z4lzo</guid>
-      <pubDate>Sun, 12 Apr 2026 12:32:56 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bca/live/b7dc9d70-3648-11f1-879d-1b2f5c3919b8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Union Berlin appoint first female boss in Europe's top men's leagues]]></title>
-      <description><![CDATA[Marie-Louise Eta becomes the first woman appointed to manage a men's team in one of Europe's top five leagues as she is named interim head coach of Bundesliga side Union Berlin.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cq59yvy6v0eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq59yvy6v0eo</guid>
-      <pubDate>Sun, 12 Apr 2026 07:37:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95eb/live/661f3a20-3642-11f1-9e53-c1f9d2562c19.jpg"/>
     </item>
     <item>
       <title><![CDATA[Top 10 is a good target for Sunderland - Le Bris]]></title>
@@ -376,6 +368,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48e/live/34643c80-35f5-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Four months and counting - De Ligt's wait for Man Utd return goes on]]></title>
+      <description><![CDATA[Manchester United defender Matthijs de Ligt has been out for over four months with a back injury and still doesn't know when he will return.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj60w61z4lzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj60w61z4lzo</guid>
+      <pubDate>Sun, 12 Apr 2026 12:32:56 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bca/live/b7dc9d70-3648-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Big punch in the face' - could Arsenal really blow title from here?]]></title>
       <description><![CDATA[Nine points clear with six games to play - could Arsenal still really blow the Premier League title from that position?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g5v6552l2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -392,12 +392,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b495/live/cfef02d0-35e0-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Farke says FA Cup buzz can lift Leeds for relegation fight]]></title>
-      <description><![CDATA[Leeds United head coach Daniel Farke dismisses suggestions the FA Cup could distract his side from their Premier League relegation battle, as they prepare to face Manchester United.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c93e13ed7wlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93e13ed7wlo</guid>
-      <pubDate>Sun, 12 Apr 2026 09:38:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e9/live/e0c8a1b0-364e-11f1-837e-77d669b4895f.jpg"/>
+      <title><![CDATA[Union Berlin appoint first female boss in Europe's top men's leagues]]></title>
+      <description><![CDATA[Marie-Louise Eta becomes the first woman appointed to manage a men's team in one of Europe's top five leagues as she is named interim head coach of Bundesliga side Union Berlin.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cq59yvy6v0eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq59yvy6v0eo</guid>
+      <pubDate>Sun, 12 Apr 2026 07:37:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95eb/live/661f3a20-3642-11f1-9e53-c1f9d2562c19.jpg"/>
     </item>
     <item>
       <title><![CDATA[It makes English football unique - why the Football League is important too]]></title>
