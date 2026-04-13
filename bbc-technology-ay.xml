@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 10:20:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 11:46:20 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[GTA-maker Rockstar Games hacked again but downplays impact]]></title>
+      <description><![CDATA[The incident marks the second time the games giant has been hacked by young, English-speaking hackers.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2dg5g1le7o</guid>
+      <pubDate>Mon, 13 Apr 2026 10:20:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c29/live/fbde8390-3719-11f1-a6bd-75d9eff58887.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Meta pulls Facebook ads recruiting for social media addiction lawsuits]]></title>
       <description><![CDATA[The Facebook owner recently lost a landmark social media addiction trial in California]]></description>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c8x71ejrp92o</guid>
       <pubDate>Tue, 07 Apr 2026 11:55:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7854/live/619d5ad0-3279-11f1-b6b5-c5856fa3f77a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Businesses scramble to get noticed by AI search]]></title>
-      <description><![CDATA[Firms are changing the way they present information on their websites, so they get noticed by AI.]]></description>
-      <link>https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c70n2rjgxeyo</guid>
-      <pubDate>Mon, 06 Apr 2026 23:20:52 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a9d/live/5122ab50-21e5-11f1-934f-036468834728.jpg"/>
     </item>
   </channel>
 </rss>
