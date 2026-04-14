@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 06:00:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 08:11:25 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Doctors' strikes can have surprising benefits - but are they sustainable?]]></title>
+      <description><![CDATA[Some hospital trusts tell the BBC previous action has seen shorter waits, faster decisions and calmer corridors.]]></description>
+      <link>https://www.bbc.com/news/articles/cp3l2pygnlyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3l2pygnlyo</guid>
+      <pubDate>Mon, 13 Apr 2026 23:06:45 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e71/live/33e4db60-374a-11f1-8a34-6b2c37f4bef9.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Is the bite of the false widow spider dangerous?]]></title>
       <description><![CDATA[Experts say noble false widow spiders could be to blame for an increase in bites being treated in hospital. ]]></description>
@@ -22,6 +30,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyvg1jyry0o</guid>
       <pubDate>Mon, 13 Apr 2026 13:41:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cca6/live/3434e540-374c-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming]]></title>
+      <description><![CDATA[Footage shows staff in Pakistan injecting without gloves and reusing syringes, but the hospital boss refuses to acknowledge it is genuine.]]></description>
+      <link>https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/clyrd818gd2o</guid>
+      <pubDate>Mon, 13 Apr 2026 23:27:45 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96a9/live/d0bea210-3423-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Nurse wins settlement in trans pronouns dispute]]></title>
@@ -56,14 +72,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3914/live/ff412930-34ed-11f1-be84-6f37fe66395b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[New light shed on who benefits most from weight-loss jabs]]></title>
-      <description><![CDATA[People who carry variations in two genes linked to appetite and digestion can lose more weight when taking drugs to treat obesity, research suggests.]]></description>
-      <link>https://www.bbc.com/news/articles/cn5317dkqnxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn5317dkqnxo</guid>
-      <pubDate>Wed, 08 Apr 2026 15:07:19 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5498/live/0b6626c0-3345-11f1-9f60-37eac42daa69.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[I've been a sex educator for six years. Why did I start doubting my contraception choices?]]></title>
       <description><![CDATA[Misinformation about contraception has been spreading on social media, alongside the "very real frustrations" of women complaining about side effects.]]></description>
       <link>https://www.bbc.com/news/articles/cwyvw9pgjveo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -78,6 +86,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cx24njzzkgjo</guid>
       <pubDate>Fri, 10 Apr 2026 05:11:43 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb67/live/3e359f50-329a-11f1-8cba-9df81803c83c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[New light shed on who benefits most from weight-loss jabs]]></title>
+      <description><![CDATA[People who carry variations in two genes linked to appetite and digestion can lose more weight when taking drugs to treat obesity, research suggests.]]></description>
+      <link>https://www.bbc.com/news/articles/cn5317dkqnxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn5317dkqnxo</guid>
+      <pubDate>Wed, 08 Apr 2026 15:07:19 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5498/live/0b6626c0-3345-11f1-9f60-37eac42daa69.jpg"/>
     </item>
     <item>
       <title><![CDATA['Two weeks will make such a difference': UK first as NI brings in miscarriage leave ]]></title>
@@ -142,94 +158,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c74v5jd5zkjo</guid>
       <pubDate>Tue, 31 Mar 2026 04:54:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eabf/live/36bef6c0-278e-11f1-a79a-77e93010d956.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Our skin is falling off and no-one can tell us why ]]></title>
-      <description><![CDATA[People sharing pictures and accounts on socials of red, inflamed skin have triggered the first UK research into TSW.]]></description>
-      <link>https://www.bbc.com/news/articles/cx26pzpr71ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx26pzpr71ko</guid>
-      <pubDate>Sun, 29 Mar 2026 00:06:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b39f/live/692a8340-2a9a-11f1-934f-036468834728.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The man who wants to bring human composting to the UK]]></title>
-      <description><![CDATA[Human composting is when a body placed in a sealed vessel containing organic matter turns into soil.]]></description>
-      <link>https://www.bbc.com/news/articles/cvgjgnwdjrzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgjgnwdjrzo</guid>
-      <pubDate>Tue, 31 Mar 2026 05:25:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b9/live/ad6a61d0-2ce1-11f1-b297-95b0a0a8331e.png"/>
-    </item>
-    <item>
-      <title><![CDATA['I nearly broke trying to help my partner with addiction issues']]></title>
-      <description><![CDATA[Claire Harkin believes the experiences of people who are supporting loved ones with an addiction can be overlooked. ]]></description>
-      <link>https://www.bbc.com/news/articles/c4g0xxkkn2jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g0xxkkn2jo</guid>
-      <pubDate>Sun, 29 Mar 2026 23:02:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fb7/live/ca6a9790-2756-11f1-8c91-ade014b07da0.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Our daughter battled Meningitis B despite being vaccinated in 'very rare' case]]></title>
-      <description><![CDATA[After Noa-Rose became critically ill, the four-year-old spent two weeks fighting for her life. ]]></description>
-      <link>https://www.bbc.com/news/articles/c3ex3j0w53yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3ex3j0w53yo</guid>
-      <pubDate>Fri, 27 Mar 2026 06:04:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3792/live/505bec90-29bf-11f1-952c-77491ff53aff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Screen time for under-fives should be limited to one hour a day, parents told]]></title>
-      <description><![CDATA[New government guidance also suggests children under-two should not be watching screens alone.]]></description>
-      <link>https://www.bbc.com/news/articles/c1d936n7445o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1d936n7445o</guid>
-      <pubDate>Fri, 27 Mar 2026 18:15:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2173/live/dfb962c0-29a4-11f1-934f-036468834728.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[UK's transplant system was world-leading - now it lags behind other Western nations]]></title>
-      <description><![CDATA[The UK has failed to keep pace with the rest of the world. Can it regain its status, and how?]]></description>
-      <link>https://www.bbc.com/news/articles/clyrj8rz6jno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/clyrj8rz6jno</guid>
-      <pubDate>Tue, 24 Mar 2026 06:00:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab9c/live/aa015340-26ac-11f1-934f-036468834728.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Hospital waited two days before raising alarm about meningitis outbreak]]></title>
-      <description><![CDATA[Experts say the wait was indefensible and possibly delayed identification of the outbreak.]]></description>
-      <link>https://www.bbc.com/news/articles/cp8dnxln3y5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp8dnxln3y5o</guid>
-      <pubDate>Wed, 25 Mar 2026 10:56:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c2b/live/930d70d0-2812-11f1-a79a-77e93010d956.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Meningitis outbreak passes peak, says health agency]]></title>
-      <description><![CDATA["We could still see cases continuing to come in, we need to keep an eye on those, the UKHSA says. ]]></description>
-      <link>https://www.bbc.com/news/articles/ckgwrxdldmzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgwrxdldmzo</guid>
-      <pubDate>Mon, 23 Mar 2026 13:31:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/687a/live/d3423e00-26a1-11f1-9a4b-834c9ce445e3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Cuba's mothers-to-be prepare to give birth in a country plunged into darkness]]></title>
-      <description><![CDATA[Two pregnant women tell the BBC's Will Grant of their hopes and fears as their nation is mired in crisis.]]></description>
-      <link>https://www.bbc.com/news/articles/cn53we5vll5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn53we5vll5o</guid>
-      <pubDate>Tue, 24 Mar 2026 05:58:19 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85de/live/705676c0-26ca-11f1-a4d4-99b68c75b55c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Streeting praises response to meningitis outbreak]]></title>
-      <description><![CDATA[Wes Streeting praises the "Herculean efforts" to protect people from the Kent meningitis outbreak.]]></description>
-      <link>https://www.bbc.com/news/articles/cwydl214dplo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwydl214dplo</guid>
-      <pubDate>Sun, 22 Mar 2026 18:59:17 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c3/live/4bd2cb60-2624-11f1-aad6-2d605a562384.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[I spent five months in a mother and baby mental health unit - here's what I want mums to know]]></title>
-      <description><![CDATA[Sofii Lewis was diagnosed with postpartum psychosis tendencies and OCD after giving birth.]]></description>
-      <link>https://www.bbc.com/news/articles/c5yve15lvgko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yve15lvgko</guid>
-      <pubDate>Sun, 22 Mar 2026 07:09:49 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf86/live/a1d6c050-269e-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why the benefit used by more than 8 million people may not be fit for the future]]></title>
@@ -440,12 +368,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bced/live/6b8bb060-18b5-11f1-97ba-493bedc7637b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Doctors' strikes can have surprising benefits - but are they sustainable?]]></title>
-      <description><![CDATA[Some hospital trusts tell the BBC previous action has seen shorter waits, faster decisions and calmer corridors.]]></description>
-      <link>https://www.bbc.com/news/articles/cp3l2pygnlyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3l2pygnlyo</guid>
-      <pubDate>Mon, 13 Apr 2026 23:06:45 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e71/live/33e4db60-374a-11f1-8a34-6b2c37f4bef9.jpg"/>
+      <title><![CDATA[Why did resident doctors go on strike and how much are they paid?]]></title>
+      <description><![CDATA[Resident doctors in England have returned to work after the 15th walkout in a long-running dispute.]]></description>
+      <link>https://www.bbc.com/news/articles/cn0qyl4ljjko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0qyl4ljjko</guid>
+      <pubDate>Tue, 14 Apr 2026 07:04:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8359/live/8e09a2a0-3273-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA['Doctors strikes' and 'paw prints in space']]></title>
@@ -454,14 +382,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0krp1e7lkmo</guid>
       <pubDate>Sun, 12 Apr 2026 06:12:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ede7/live/53554ba0-3421-11f1-aa50-fd39c44a0779.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why are resident doctors striking and how much are they paid?]]></title>
-      <description><![CDATA[Resident doctors in England are striking between 7 and 13 April, the 15th walkout in a long-running dispute.]]></description>
-      <link>https://www.bbc.com/news/articles/cn0qyl4ljjko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0qyl4ljjko</guid>
-      <pubDate>Wed, 08 Apr 2026 13:22:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8359/live/8e09a2a0-3273-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA['Month of worry' over doctor strike surgery delay]]></title>
