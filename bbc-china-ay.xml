@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 03:45:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 06:00:25 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Founder of China's Evergrande pleads guilty to fraud]]></title>
+      <description><![CDATA[Evergrande was once China's biggest real estate firm, with a stock market valuation of more than $50bn.]]></description>
+      <link>https://www.bbc.com/news/articles/cn788ymy5gno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn788ymy5gno</guid>
+      <pubDate>Tue, 14 Apr 2026 05:19:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/358d/live/5d844720-37be-11f1-b977-e9b0bfcbd7b4.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Chinese researcher's death after questioning in US prompts anger in Beijing]]></title>
       <description><![CDATA[The semiconductor researcher was found dead after “hostile questioning” by US law enforcement.]]></description>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c05dpr1m71go</guid>
       <pubDate>Thu, 26 Mar 2026 07:34:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dba/live/26022b50-2968-11f1-961e-d160a99d7710.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[China dials back on fuel price hikes to 'reduce burden' on drivers]]></title>
-      <description><![CDATA[It comes as countries across the region are taking various measures to weather the soaring cost of fuel.]]></description>
-      <link>https://www.bbc.com/news/articles/cwyvxejqyx4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyvxejqyx4o</guid>
-      <pubDate>Tue, 24 Mar 2026 05:56:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0703/live/0cf7f410-2741-11f1-9af6-5dbbd29883a0.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why was a £1.5bn Chinese plan to invest in a Highland yard blocked?]]></title>
