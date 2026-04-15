@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 11:30:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 12:42:57 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Booking.com customers warned of 'reservation hijacking' after hack]]></title>
+      <description><![CDATA[The travel platform said it had changed Pins to protect customers but would not say how many were affected.]]></description>
+      <link>https://www.bbc.com/news/articles/cly00jnnxypo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly00jnnxypo</guid>
+      <pubDate>Wed, 15 Apr 2026 12:05:58 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b80a/live/cc534330-38b9-11f1-883f-2b010a576163.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Google to punish sites that trap people in with back button tricks]]></title>
       <description><![CDATA[The tech giant said it will punish sites that block back button navigation from June.]]></description>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cgld65x396go</guid>
       <pubDate>Fri, 10 Apr 2026 02:32:27 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/8014eb80-3487-11f1-9bc8-f978f899d2ab.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Amazon to end support for older Kindles, prompting user outcry]]></title>
-      <description><![CDATA[The move means owners of Kindles released before 2013 will be unable to download new e-books.]]></description>
-      <link>https://www.bbc.com/news/articles/c98k91yy4z4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c98k91yy4z4o</guid>
-      <pubDate>Thu, 09 Apr 2026 13:12:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53f/live/6fcfaf50-3417-11f1-9fad-db21ae1095d5.jpg"/>
     </item>
   </channel>
 </rss>
