@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 16:04:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 17:35:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -30,6 +30,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c05dd2yj3z3o</guid>
       <pubDate>Wed, 15 Apr 2026 10:02:19 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/c3f2a8f0-38a7-11f1-bd3c-df67f5a99d2a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Snapchat owner cuts 1,000 jobs as says AI will reduce repetitive work]]></title>
+      <description><![CDATA[The Snapchat owner is laying off around 16% of staff and withdrawn hundreds of open job roles.]]></description>
+      <link>https://www.bbc.com/news/articles/cdxdd0z2w11o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdxdd0z2w11o</guid>
+      <pubDate>Wed, 15 Apr 2026 15:15:13 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/6d5c6c90-38d1-11f1-897a-bdd15f22bdb0.jpg"/>
     </item>
     <item>
       <title><![CDATA[Palantir defends its record as MPs demand more scrutiny of data use]]></title>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cgqkz5lzvnwo</guid>
       <pubDate>Fri, 10 Apr 2026 13:13:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f25/live/d71ac610-34bf-11f1-8bf0-3fa0c850deba.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[White House staff told not to place bets on prediction markets]]></title>
-      <description><![CDATA[The gambling platforms have grown in popularity, with some users making wagers on conflicts.]]></description>
-      <link>https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cgld65x396go</guid>
-      <pubDate>Fri, 10 Apr 2026 02:32:27 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/8014eb80-3487-11f1-9bc8-f978f899d2ab.jpg"/>
     </item>
   </channel>
 </rss>
