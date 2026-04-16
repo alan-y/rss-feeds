@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 03:49:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 06:01:07 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -312,6 +312,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bd7/live/9c3165f0-2933-11f1-b930-6bf1eac08e0d.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Wellbeing garden opens to combat isolation]]></title>
+      <description><![CDATA[The outdoor area at Yarm Wellness will officially open to the public on Saturday.]]></description>
+      <link>https://www.bbc.com/news/articles/c1l9967yq9mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1l9967yq9mo</guid>
+      <pubDate>Thu, 16 Apr 2026 05:07:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc39/live/2c6fb5d0-38e9-11f1-af88-bb55454ebba2.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Researchers look into island's health benefits]]></title>
       <description><![CDATA[The team aims to find out what it is about the Isle of Wight that makes people feel better.]]></description>
       <link>https://www.bbc.com/news/articles/c5yvpr21mnno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -334,14 +342,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gx92jedw2o</guid>
       <pubDate>Sat, 28 Mar 2026 16:06:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca2/live/687af220-29c5-11f1-952c-77491ff53aff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Jersey's wellbeing score is below UK and France]]></title>
-      <description><![CDATA[Jersey's wellbeing score is below UK and France in survey of data from  41 countries.]]></description>
-      <link>https://www.bbc.com/news/articles/c3r3q789w8ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3r3q789w8ro</guid>
-      <pubDate>Thu, 26 Mar 2026 08:58:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08d9/live/29cc3c10-283e-11f1-ac61-c943803d2ed3.jpg"/>
     </item>
     <item>
       <title><![CDATA[What is the UK Covid inquiry and how does it work?]]></title>
