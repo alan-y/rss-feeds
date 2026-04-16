@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 12:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 14:16:54 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Covid jabs huge success, but work needed on trust in vaccines - key findings from Covid report]]></title>
+      <description><![CDATA[Immunisation saved hundreds of thousands of UK lives, but vaccine hesitancy remains an issue. ]]></description>
+      <link>https://www.bbc.com/news/articles/ce3dp52l70zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3dp52l70zo</guid>
+      <pubDate>Thu, 16 Apr 2026 13:02:12 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe9/live/e5355750-3993-11f1-afdb-63f82099d974.png"/>
+    </item>
     <item>
       <title><![CDATA[Breakthrough £90,000 Alzheimer's drugs unlikely to benefit patients, report suggests]]></title>
       <description><![CDATA[A major review has provoked a backlash after concluding the medicines provide too little benefit to be noticed.]]></description>
@@ -30,6 +38,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cdr3kx6xmp5o</guid>
       <pubDate>Thu, 16 Apr 2026 11:20:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bda/live/d088bf20-5723-11f0-82f9-ffcaa67a8d94.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Senior midwife appointed to maternity inquiry]]></title>
+      <description><![CDATA[Senior midwife Donna Ockenden will review maternity services in Sussex after a campaign by families.]]></description>
+      <link>https://www.bbc.com/news/articles/cjd887rmk8jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cjd887rmk8jo</guid>
+      <pubDate>Wed, 15 Apr 2026 18:03:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6268/live/2ee2ad70-38f0-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Don't feel like exercising? Maybe it's the wrong time of day for you]]></title>
@@ -48,6 +64,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9991/live/c07337e0-3351-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
+      <title><![CDATA[NHS tracker - are hospital waiting times improving near you?]]></title>
+      <description><![CDATA[Use our interactive tracker to see if treatment waits are getting better at your local hospital.]]></description>
+      <link>https://www.bbc.com/news/articles/cq53qx2vg6jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq53qx2vg6jo</guid>
+      <pubDate>Thu, 16 Apr 2026 10:00:58 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e64/live/1cccf440-5013-11f0-8c47-237c2e4015f5.png"/>
+    </item>
+    <item>
       <title><![CDATA['I'm not being listened to' - new health plan launched as women say they are still ignored]]></title>
       <description><![CDATA[New plans to improve healthcare for women and girls have been set out, but will they change anything?]]></description>
       <link>https://www.bbc.com/news/articles/cm2kke1jn8xo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -62,14 +86,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c145ej273evo</guid>
       <pubDate>Wed, 15 Apr 2026 05:57:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/921a/live/69e7cd20-38ae-11f1-b3ad-57205c387169.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[NHS tracker - are hospital waiting times improving near you?]]></title>
-      <description><![CDATA[Use our interactive tracker to see if treatment waits are getting better at your local hospital.]]></description>
-      <link>https://www.bbc.com/news/articles/cq53qx2vg6jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq53qx2vg6jo</guid>
-      <pubDate>Thu, 16 Apr 2026 10:00:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e64/live/1cccf440-5013-11f0-8c47-237c2e4015f5.png"/>
     </item>
     <item>
       <title><![CDATA[Is the bite of the false widow spider dangerous?]]></title>
@@ -374,14 +390,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c93wxxe9410o</guid>
       <pubDate>Fri, 06 Mar 2026 04:52:33 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68f4/live/a262f550-18a9-11f1-b53b-0be1737da31d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Covid inquiry chair defends £200m cost and four-year process on final day]]></title>
-      <description><![CDATA[Baroness Heather Hallett said completing the hearings in under four years was an achievement but critics have questioned its cost.]]></description>
-      <link>https://www.bbc.com/news/articles/c98qq8y6235o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c98qq8y6235o</guid>
-      <pubDate>Thu, 05 Mar 2026 17:04:55 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bced/live/6b8bb060-18b5-11f1-97ba-493bedc7637b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why did resident doctors go on strike and how much are they paid?]]></title>
