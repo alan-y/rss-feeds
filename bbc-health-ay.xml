@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 08:15:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 09:50:40 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -24,12 +24,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6af/live/0b7ceb50-39a1-11f1-818c-6f173b5082f5.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Vaccines a huge success, but public trust must be earned - key findings from Covid report]]></title>
-      <description><![CDATA[Immunisation saved hundreds of thousands of UK lives, but vaccine hesitancy remains an issue. ]]></description>
-      <link>https://www.bbc.com/news/articles/ce3dp52l70zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3dp52l70zo</guid>
-      <pubDate>Thu, 16 Apr 2026 13:02:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1c/live/c1be81a0-39a9-11f1-879d-1b2f5c3919b8.jpg"/>
+      <title><![CDATA['I didn't think I needed to be here' says woman with diabetes and depression]]></title>
+      <description><![CDATA[People with diabetes are twice as likely to have depression, a charity backing tailored support says.]]></description>
+      <link>https://www.bbc.com/news/articles/c3wlpw3l03qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3wlpw3l03qo</guid>
+      <pubDate>Fri, 17 Apr 2026 07:50:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a32c/live/6db245e0-37ee-11f1-879d-1b2f5c3919b8.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Lawmakers clash with RFK Jr as he shifts focus away from vaccines]]></title>
+      <description><![CDATA[During a three-hour hearing, the US health secretary tried to focus on chronic disease while being pressed on vaccines. ]]></description>
+      <link>https://www.bbc.com/news/articles/c30r2v68lg8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c30r2v68lg8o</guid>
+      <pubDate>Thu, 16 Apr 2026 17:55:15 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f4/live/f65c4f50-39b3-11f1-8897-e7b75af1cf66.jpg"/>
     </item>
     <item>
       <title><![CDATA[Breakthrough £90,000 Alzheimer's drugs unlikely to benefit patients, report suggests]]></title>
@@ -350,6 +358,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gx92jedw2o</guid>
       <pubDate>Sat, 28 Mar 2026 16:06:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca2/live/687af220-29c5-11f1-952c-77491ff53aff.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Vaccines a huge success, but public trust must be earned - key findings from Covid report]]></title>
+      <description><![CDATA[Immunisation saved hundreds of thousands of UK lives, but vaccine hesitancy remains an issue. ]]></description>
+      <link>https://www.bbc.com/news/articles/ce3dp52l70zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3dp52l70zo</guid>
+      <pubDate>Thu, 16 Apr 2026 13:02:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1c/live/c1be81a0-39a9-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Stay at home advice questioned and rules too tough - key findings from Covid report]]></title>
