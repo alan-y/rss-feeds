@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 09:00:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 09:55:01 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,20 +48,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bede/live/469456a0-3803-11f1-879d-1b2f5c3919b8.png"/>
     </item>
     <item>
-      <title><![CDATA[How Coventry earned Premier League return after 25 years]]></title>
-      <description><![CDATA[After a quarter of a century out of the Premier League, groundshares and administration, Frank Lampard has led Coventry City back to the top flight.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy814339170o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy814339170o</guid>
-      <pubDate>Fri, 17 Apr 2026 21:08:52 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa87/live/e5723990-3aa1-11f1-8adf-2b9a8c4a4695.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Carrick leaves door open for Rashford return]]></title>
       <description><![CDATA[Michael Carrick says there has been no decision made on the Manchester United future of Marcus Rashford, who has spent the season on loan at Barcelona.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c070yn2vlezo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c070yn2vlezo</guid>
       <pubDate>Fri, 17 Apr 2026 21:30:29 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eb4/live/4a3f2440-3a76-11f1-8606-05fe34b06e1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How Coventry earned Premier League return after 25 years]]></title>
+      <description><![CDATA[After a quarter of a century out of the Premier League, groundshares and administration, Frank Lampard has led Coventry City back to the top flight.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy814339170o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy814339170o</guid>
+      <pubDate>Fri, 17 Apr 2026 21:08:52 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa87/live/e5723990-3aa1-11f1-8adf-2b9a8c4a4695.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chelsea midfielder Palmer denies Man Utd links]]></title>
@@ -88,16 +88,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d209/live/15bf8160-3a76-11f1-a60d-fbe629a6a3c1.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Coventry promotion special and unique - Lampard]]></title>
-      <description><![CDATA[Coventry City boss Frank Lampard calls his side's promotion back to the Premier League after 25 years away a "unique" achievement.
-
-]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c7vqyz3l300o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7vqyz3l300o</guid>
-      <pubDate>Fri, 17 Apr 2026 22:49:51 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da75/live/6da64a40-3aa7-11f1-9480-e5fcbe143b8e.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[One of Arsenal's greatest unsung heroes - Keown's tribute to Manninger]]></title>
       <description><![CDATA[Former Arsenal defender Martin Keown pays tribute to his old friend and former Gunners team-mate Alex Manninger, who has died at the age of 48.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ckgxpklxj5wo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -112,6 +102,16 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gj0gd45wyo</guid>
       <pubDate>Fri, 17 Apr 2026 15:42:28 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/021c/live/e414e260-3a73-11f1-8606-05fe34b06e1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Coventry promotion special and unique - Lampard]]></title>
+      <description><![CDATA[Coventry City boss Frank Lampard calls his side's promotion back to the Premier League after 25 years away a "unique" achievement.
+
+]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c7vqyz3l300o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c7vqyz3l300o</guid>
+      <pubDate>Fri, 17 Apr 2026 22:49:51 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da75/live/6da64a40-3aa7-11f1-9480-e5fcbe143b8e.jpg"/>
     </item>
     <item>
       <title><![CDATA[What does the Saudi Arabia PIF's change in approach mean for Newcastle?]]></title>
@@ -151,7 +151,7 @@
       <link>https://www.bbc.com/sport/football/articles/cq8w13v9vyno?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq8w13v9vyno</guid>
       <pubDate>Sat, 18 Apr 2026 08:55:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"/>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5718/live/782ac460-3b05-11f1-874b-f17c73d2ecbd.jpg"/>
     </item>
     <item>
       <title><![CDATA[Leicester need something special to beat drop - Rowett]]></title>
@@ -160,14 +160,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgez4ly32xo</guid>
       <pubDate>Fri, 17 Apr 2026 11:00:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30c9/live/889251f0-3a3e-11f1-b1e8-5db69eb84a31.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Website part-owned by Boehly offers Chelsea FA Cup tickets for £1,705]]></title>
-      <description><![CDATA[A US-based website linked to Todd Boehly is selling Chelsea tickets at inflated prices, leaving the club's fans angry.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cd0rp1gzld7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd0rp1gzld7o</guid>
-      <pubDate>Fri, 17 Apr 2026 15:06:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4e7/live/27273710-3a42-11f1-a743-c960ad2c2c95.jpg"/>
     </item>
     <item>
       <title><![CDATA[Guardiola proud to be challenging Arsenal for title]]></title>
@@ -208,6 +200,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g55ywqnlgo</guid>
       <pubDate>Wed, 15 Apr 2026 10:12:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c342/live/9f475670-38b3-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Website part-owned by Boehly offers Chelsea FA Cup tickets for £1,705]]></title>
+      <description><![CDATA[A US-based website linked to Todd Boehly is selling Chelsea tickets at inflated prices, leaving the club's fans angry.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cd0rp1gzld7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd0rp1gzld7o</guid>
+      <pubDate>Fri, 17 Apr 2026 15:06:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4e7/live/27273710-3a42-11f1-a743-c960ad2c2c95.jpg"/>
     </item>
     <item>
       <title><![CDATA[The rollercoaster race for second spot - who's going up with Coventry?]]></title>
@@ -258,14 +258,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9339/live/fbb0f4f0-3a7c-11f1-8606-05fe34b06e1b.png"/>
     </item>
     <item>
-      <title><![CDATA[Scotland carry no burden in chase for World Cup spot]]></title>
-      <description><![CDATA[Scotland head coach Melissa Andreatta insists the squad do not feel burdened by missing out on previous major finals and have created a "perfect storm" in their quest to reach next year's World Cup in Brazil.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly0e2kjzz2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly0e2kjzz2o</guid>
-      <pubDate>Fri, 17 Apr 2026 18:19:40 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c9/live/a4bb4860-3a83-11f1-9157-e54b6d0cd265.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['It's make or break for him' - is it silverware or the sack for Arteta? ]]></title>
       <description><![CDATA[Speaking on the Monday Night Club, former Premier League striker and BBC Sport pundit Chris Sutton says Arsenal head coach Mikel Arteta must win the Premier League or the Champions League this season or risk losing his job at the Emirates.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c4g669ql8zjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -314,6 +306,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/765f/live/0fc6e340-3a60-11f1-bab3-e3881342f552.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Scotland carry no burden in chase for World Cup spot]]></title>
+      <description><![CDATA[Scotland head coach Melissa Andreatta insists the squad do not feel burdened by missing out on previous major finals and have created a "perfect storm" in their quest to reach next year's World Cup in Brazil.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly0e2kjzz2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly0e2kjzz2o</guid>
+      <pubDate>Fri, 17 Apr 2026 18:19:40 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c9/live/a4bb4860-3a83-11f1-9157-e54b6d0cd265.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[All your FPL stats and Premier League team news in one place]]></title>
       <description><![CDATA[Every key bit of Premier League team news and the most important Fantasy Premier League statistics - all in one place.]]></description>
       <link>https://www.bbc.com/sport/articles/cvg3zkzn0zdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -344,14 +344,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx24ky8qlvwo</guid>
       <pubDate>Fri, 17 Apr 2026 18:53:45 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccac/live/4a84fa50-3a8b-11f1-b7a0-978d05a9e26f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Silva appeal against ban and fine partially upheld]]></title>
-      <description><![CDATA[Fulham boss Marco Silva's appeal against a one-match touchline ban and £90,000 fine is partially upheld by an independent appeal board.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1j72j222ggo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1j72j222ggo</guid>
-      <pubDate>Fri, 17 Apr 2026 13:16:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ab0/live/0fc58080-3a5c-11f1-b0fd-19d0757b0008.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man City v Arsenal - winner takes all?]]></title>
@@ -410,6 +402,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a8/live/a9ba2810-36c6-11f1-9d5c-8ba507d7dbde.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Silva appeal against ban and fine partially upheld]]></title>
+      <description><![CDATA[Fulham boss Marco Silva's appeal against a one-match touchline ban and £90,000 fine is partially upheld by an independent appeal board.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1j72j222ggo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1j72j222ggo</guid>
+      <pubDate>Fri, 17 Apr 2026 13:16:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ab0/live/0fc58080-3a5c-11f1-b0fd-19d0757b0008.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Spectacular European nights the new normal for Villa under Emery]]></title>
       <description><![CDATA[Ten years ago, Aston Villa were relegated to English football's second tier for the first time since 1987. Now they are in their second European semi-final in three seasons. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3ex2w04kd0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -448,14 +448,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3ex27zkjp1o</guid>
       <pubDate>Fri, 17 Apr 2026 07:51:09 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/612d/live/7b1ec470-39af-11f1-8897-e7b75af1cf66.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The girl from Barry who grew up to be world class]]></title>
-      <description><![CDATA[Sophie Ingle is poised for another landmark in a stellar career as Wales go to Albania in Women's World Cup qualifying. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cql7p6lvne4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cql7p6lvne4o</guid>
-      <pubDate>Fri, 17 Apr 2026 03:55:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccb6/live/5dc7e830-3a21-11f1-8606-05fe34b06e1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arsenal limp to semis but Arteta wanted fire - does style matter?]]></title>
@@ -641,6 +633,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn53pqedz76o</guid>
       <pubDate>Thu, 16 Apr 2026 15:45:58 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/823c/live/4c4feba0-39a1-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[The girl from Barry who grew up to be world class]]></title>
+      <description><![CDATA[Sophie Ingle is poised for another landmark in a stellar career as Wales go to Albania in Women's World Cup qualifying. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cql7p6lvne4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cql7p6lvne4o</guid>
+      <pubDate>Fri, 17 Apr 2026 03:55:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccb6/live/5dc7e830-3a21-11f1-8606-05fe34b06e1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[When football turned to penalties to end 'cruel' system]]></title>
