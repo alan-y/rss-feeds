@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 11:54:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 12:59:43 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -88,14 +88,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a8/live/c333ea00-3b5e-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Can Leeds feel safe from relegation after back-to-back wins?]]></title>
-      <description><![CDATA[Leeds United are eight points above the Premier League drop zone after back-to-back wins - so can they feel safe from relegation?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cr4171dw46go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr4171dw46go</guid>
-      <pubDate>Sat, 18 Apr 2026 20:19:25 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a075/live/9cae19e0-3b64-11f1-9d5c-8ba507d7dbde.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Rutter scores late equaliser to deny Spurs crucial win]]></title>
       <description><![CDATA[Tottenham remain in the bottom three and are denied their first Premier League victory since December as Georginio Rutter scores a late equaliser for Brighton as the two sides draw 2-2 at the Tottenham Hotspur Stadium. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/cr41772xd92o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -136,12 +128,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1943/live/b864d3b0-3b3f-11f1-8606-05fe34b06e1b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Four months on, all change as Celtic & St Mirren meet at Hampden again]]></title>
-      <description><![CDATA[St Mirren are hoping for another shock cup win over Celtic, but this time things could be different.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj944xwm3mjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj944xwm3mjo</guid>
-      <pubDate>Sat, 18 Apr 2026 15:27:37 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d756/live/c5238e30-3b20-11f1-bdd4-fdf1a2a9ebde.jpg"/>
+      <title><![CDATA[Can Leeds feel safe from relegation after back-to-back wins?]]></title>
+      <description><![CDATA[Leeds United are eight points above the Premier League drop zone after back-to-back wins - so can they feel safe from relegation?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cr4171dw46go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr4171dw46go</guid>
+      <pubDate>Sat, 18 Apr 2026 20:19:25 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a075/live/9cae19e0-3b64-11f1-9d5c-8ba507d7dbde.jpg"/>
     </item>
     <item>
       <title><![CDATA[Iraola bowing out in style - where will he go next?]]></title>
@@ -513,6 +505,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83a7/live/66626130-3b72-11f1-ab39-c5c00e0197a3.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Linlithgow Rose miss out on pyramid play-offs over licence, setting up Brora v Edinburgh final]]></title>
+      <description><![CDATA[Linlithgow Rose "are not eligible to participate in" this season's SPFL pyramid play-offs, meaning Brora Rangers will take on Edinburgh City in the final.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g5xwwzjwyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g5xwwzjwyo</guid>
+      <pubDate>Sun, 19 Apr 2026 11:54:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/c4ff3d40-3be4-11f1-af99-09f8d46ff99f.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Rangers to demand £20m for Fernandez - gossip]]></title>
       <description><![CDATA[Rangers will demand a big fee for centre-back Emmanuel Fernandez this summer, while Celtic will need to make a sizeabe offer to lure a potential manager.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cy51d4dxkz4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -535,14 +535,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cpqx3wgvww4o</guid>
       <pubDate>Sat, 18 Apr 2026 15:34:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b3d/live/1aacba00-3b3c-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Watch: Scots take point from tense qualifier in Belgium]]></title>
-      <description><![CDATA[Scotland and Belgium cannot be separated in a tense Women's World Cup qualifying match.]]></description>
-      <link>https://www.bbc.com/sport/videos/c203yyexng2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/videos/c203yyexng2o</guid>
-      <pubDate>Sat, 18 Apr 2026 20:55:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856e/live/49cb3dd0-3b68-11f1-9d5c-8ba507d7dbde.jpg"/>
     </item>
     <item>
       <title><![CDATA[FC Basel postpone fixture after stadium fire]]></title>
