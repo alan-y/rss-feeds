@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 15:56:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 16:40:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -56,6 +56,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb98/live/018bece0-3bdb-11f1-bd0a-bfa622de7eb7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Wild celebrations to verge of tears -  time running out for Spurs]]></title>
+      <description><![CDATA[Scenes of celebration turned to bitter disappointment as Tottenham's hopes of avoiding relegation from the Premier League were dealt a devastating blow against Brighton.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c1l9yyp28peo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1l9yyp28peo</guid>
+      <pubDate>Sat, 18 Apr 2026 22:14:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccc3/live/f9c657f0-3bb9-11f1-b909-5fca5a802d88.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Rutter scores late equaliser to deny Spurs crucial win]]></title>
       <description><![CDATA[Tottenham remain in the bottom three and are denied their first Premier League victory since December as Georginio Rutter scores a late equaliser for Brighton as the two sides draw 2-2 at the Tottenham Hotspur Stadium. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/cr41772xd92o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c705y5893pyo</guid>
       <pubDate>Sat, 18 Apr 2026 21:29:28 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1943/live/b864d3b0-3b3f-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wild celebrations to verge of tears -  time running out for Spurs]]></title>
-      <description><![CDATA[Scenes of celebration turned to bitter disappointment as Tottenham's hopes of avoiding relegation from the Premier League were dealt a devastating blow against Brighton.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c1l9yyp28peo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1l9yyp28peo</guid>
-      <pubDate>Sat, 18 Apr 2026 22:14:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccc3/live/f9c657f0-3bb9-11f1-b909-5fca5a802d88.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Hampton's heroics bailed out Lionesses in win against Iceland]]></title>
@@ -144,12 +144,36 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f24/live/b9147100-3bb5-11f1-b909-5fca5a802d88.jpg"/>
     </item>
     <item>
+      <title><![CDATA[The Welshman who influenced Europe's coaching elite]]></title>
+      <description><![CDATA[Osian Roberts shaped the coaching careers of Thierry Henry, Cesc Fabregas and Mikel Arteta and is now a key part of Italian side Como's rise.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c78ry1r21m0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78ry1r21m0o</guid>
+      <pubDate>Sun, 19 Apr 2026 06:23:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a407/live/45e7db40-3a7a-11f1-9d5c-8ba507d7dbde.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Derby win for the fans after tough season - Slot]]></title>
+      <description><![CDATA[Liverpool manager Arne Slot says his side's late derby victory against Everton is "definitely a day for the fans to be happy about" after The Reds' recent quarter-final defeats in the FA Cup and Champions League.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cq596gepv6wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cq596gepv6wo</guid>
+      <pubDate>Sun, 19 Apr 2026 15:58:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eb8/live/e9187d90-3c07-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[First 'daylight' offside goal scored in Canadian Premier League]]></title>
       <description><![CDATA[Pacific FC forward Alejandro Diaz scores against Halifax Wanderers in the Canadian Premier League, the first instance of a "daylight offside" situation resulting in a goal. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/cly0j2d7713o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cly0j2d7713o</guid>
       <pubDate>Sun, 19 Apr 2026 10:30:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9760/live/5dbb47a0-3bda-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['I need a day off!' - Emery on rollercoaster Villa win]]></title>
+      <description><![CDATA[Aston Villa manager Unai Emery praises his side's display of "heart and passion" to beat Sunderland 4-3, despite losing some focus in allowing Sunderland to score twice in quick succession to equalise.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cvgkw8dzz89o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvgkw8dzz89o</guid>
+      <pubDate>Sun, 19 Apr 2026 15:54:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6254/live/55da0d60-3c06-11f1-9d5c-8ba507d7dbde.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Porro let Tottenham down in defensive areas against Brighton]]></title>
@@ -166,30 +190,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c2d8yyl002yo</guid>
       <pubDate>Sat, 18 Apr 2026 19:38:28 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9617/live/a0cdfc00-3b5c-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Carrick 'not getting carried away' in pursuit of Champions League place]]></title>
-      <description><![CDATA[Manchester United manager Michael Carrick says his side "won't get carried away" in their pursuit of a Champions League place after they beat Chelsea 1-0 at Stamford Bridge to open up a 10-point gap to sixth place. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cwyx0jg803lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwyx0jg803lo</guid>
-      <pubDate>Sat, 18 Apr 2026 21:54:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca87/live/375d0e10-3b6f-11f1-9d5c-8ba507d7dbde.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Heaven impresses amid Man Utd centre-back crisis]]></title>
-      <description><![CDATA[Match of the Day pundits Ashely Williams and Joe Hart analyse Ayden Heaven's performance against Chelsea after the young defender played a key role in Manchester United's win alongside strong performances from other senior players.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cnv89lyz357o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cnv89lyz357o</guid>
-      <pubDate>Sat, 18 Apr 2026 23:09:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9de6/live/749e5090-3b79-11f1-879d-1b2f5c3919b8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The Welshman who influenced Europe's coaching elite]]></title>
-      <description><![CDATA[Osian Roberts shaped the coaching careers of Thierry Henry, Cesc Fabregas and Mikel Arteta and is now a key part of Italian side Como's rise.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c78ry1r21m0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78ry1r21m0o</guid>
-      <pubDate>Sun, 19 Apr 2026 06:23:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a407/live/45e7db40-3a7a-11f1-9d5c-8ba507d7dbde.png"/>
     </item>
     <item>
       <title><![CDATA[FA probes alleged discriminatory remark to referee]]></title>
@@ -232,6 +232,30 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a6f/live/9d947020-3b41-11f1-9e4f-cdab8de3fb0a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Can Coventry keep Lampard? - Sam Parkin's EFL takeaways]]></title>
+      <description><![CDATA[BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including whether Coventry can hold on to Frank Lampard.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cq591yj6l3lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq591yj6l3lo</guid>
+      <pubDate>Sat, 18 Apr 2026 19:58:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/2d4a1790-801e-11f0-ab3e-bd52082cd0ae.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Carrick 'not getting carried away' in pursuit of Champions League place]]></title>
+      <description><![CDATA[Manchester United manager Michael Carrick says his side "won't get carried away" in their pursuit of a Champions League place after they beat Chelsea 1-0 at Stamford Bridge to open up a 10-point gap to sixth place. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cwyx0jg803lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwyx0jg803lo</guid>
+      <pubDate>Sat, 18 Apr 2026 21:54:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca87/live/375d0e10-3b6f-11f1-9d5c-8ba507d7dbde.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Heaven impresses amid Man Utd centre-back crisis]]></title>
+      <description><![CDATA[Match of the Day pundits Ashely Williams and Joe Hart analyse Ayden Heaven's performance against Chelsea after the young defender played a key role in Manchester United's win alongside strong performances from other senior players.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cnv89lyz357o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cnv89lyz357o</guid>
+      <pubDate>Sat, 18 Apr 2026 23:09:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9de6/live/749e5090-3b79-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Any small mistake we make is being punished - Rosenior]]></title>
       <description><![CDATA[Chelsea manager Liam Rosenior was rueful of his sides mistakes, as they suffered a fourth straight Premier League defeat after being beaten 1-0 by Manchester United at Stamford Bridge.  ]]></description>
       <link>https://www.bbc.com/sport/football/videos/c62k1xg37kno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -254,30 +278,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/crm1010g0m2o</guid>
       <pubDate>Sat, 18 Apr 2026 17:20:10 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8425/live/2237a700-3b49-11f1-879d-1b2f5c3919b8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Bournemouth running 'that extra yard harder' for departing Iraola - Tavernier]]></title>
-      <description><![CDATA[Bournemouth midfielder Marcus Tavernier tells the Final Score team that Cherries boss Andoni Iraola's impending departure makes them want to work even harder for him.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c0q9y939lqdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0q9y939lqdo</guid>
-      <pubDate>Sat, 18 Apr 2026 17:08:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2ac/live/455f5b30-3b47-11f1-9d5c-8ba507d7dbde.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Newcastle fans' frustrations 'really hurts' - Howe]]></title>
-      <description><![CDATA[Newcastle manager Eddie Howe says he is 'hurt' to hear the fans voice their frustrations following their 2-1 defeat to Bournemouth at St. James' Park. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c4gvyvkk2v9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c4gvyvkk2v9o</guid>
-      <pubDate>Sat, 18 Apr 2026 17:01:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/723a/live/8ea9a220-3b45-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Can Coventry keep Lampard? - Sam Parkin's EFL takeaways]]></title>
-      <description><![CDATA[BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including whether Coventry can hold on to Frank Lampard.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cq591yj6l3lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cq591yj6l3lo</guid>
-      <pubDate>Sat, 18 Apr 2026 19:58:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/2d4a1790-801e-11f0-ab3e-bd52082cd0ae.png"/>
     </item>
     <item>
       <title><![CDATA[Wilkinson pleased as Wales find a way to win]]></title>
@@ -304,12 +304,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5212/live/9a0f6e20-3a3b-11f1-826b-272fcb9e69bd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[I knew news of my departure would not rock players - Iraola]]></title>
-      <description><![CDATA[Bournemouth manager Andoni Iraola says he trusts his players to continue playing hard despite the recent news of his departure at the end of the season, as they beat Newcastle 2-1 at St. James' Park. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c33lyl60gj6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c33lyl60gj6o</guid>
-      <pubDate>Sat, 18 Apr 2026 16:51:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2d2/live/c1296840-3b43-11f1-9d5c-8ba507d7dbde.jpg"/>
+      <title><![CDATA[What did we learn from McArdle's first two games in charge?]]></title>
+      <description><![CDATA[Following two impressive wins against Malta, BBC Sport NI looks at what we've learnt from Michael McArdle's first two games in charge.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn8dqqlq0qxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn8dqqlq0qxo</guid>
+      <pubDate>Sat, 18 Apr 2026 21:27:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bff/live/59ef59b0-3b65-11f1-8926-95b031f2fc7a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Bournemouth running 'that extra yard harder' for departing Iraola - Tavernier]]></title>
+      <description><![CDATA[Bournemouth midfielder Marcus Tavernier tells the Final Score team that Cherries boss Andoni Iraola's impending departure makes them want to work even harder for him.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c0q9y939lqdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0q9y939lqdo</guid>
+      <pubDate>Sat, 18 Apr 2026 17:08:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2ac/live/455f5b30-3b47-11f1-9d5c-8ba507d7dbde.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Newcastle fans' frustrations 'really hurts' - Howe]]></title>
+      <description><![CDATA[Newcastle manager Eddie Howe says he is 'hurt' to hear the fans voice their frustrations following their 2-1 defeat to Bournemouth at St. James' Park. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c4gvyvkk2v9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c4gvyvkk2v9o</guid>
+      <pubDate>Sat, 18 Apr 2026 17:01:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/723a/live/8ea9a220-3b45-11f1-8606-05fe34b06e1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Leeds still need more points for safety - Farke]]></title>
@@ -318,6 +334,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cdxkdkk3v3po</guid>
       <pubDate>Sat, 18 Apr 2026 17:10:29 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c55/live/15c51e40-3b48-11f1-9d5c-8ba507d7dbde.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[We know we can play better - Hurzeler]]></title>
+      <description><![CDATA[Brighton manager Fabian Hurzeler says his side is capable of playing better despite being happy with the effort his team showed during their 2-2 draw with Tottenham. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cwyjkk31z2jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwyjkk31z2jo</guid>
+      <pubDate>Sat, 18 Apr 2026 19:38:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1197/live/0e33e220-3b5b-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Guardiola proud to be challenging Arsenal for title]]></title>
@@ -342,22 +366,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/crk11gx1ej0o</guid>
       <pubDate>Wed, 15 Apr 2026 18:10:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac14/live/9320f340-38f1-11f1-879d-1b2f5c3919b8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I wasn't surprised' - Slot critical of overturned Liverpool penalty]]></title>
-      <description><![CDATA[Liverpool boss Arne Slot believes the penalty that was overturned by VAR in his side's Champions League second-leg defeat by PSG would "usually" have been given, but says the Reds have had bad luck with refereeing decisions this season.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c4g887g0zjxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c4g887g0zjxo</guid>
-      <pubDate>Tue, 14 Apr 2026 22:23:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e91e/live/1ae488c0-3850-11f1-9d5c-8ba507d7dbde.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Scotland score in stoppage time to salvage draw with Belgium]]></title>
-      <description><![CDATA[Watch the highlights as Scotland score in stoppage time to salvage a World Cup qualification draw with Belgium.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g55ywqnlgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g55ywqnlgo</guid>
-      <pubDate>Wed, 15 Apr 2026 10:12:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c342/live/9f475670-38b3-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
       <title><![CDATA['Proper Irish performance' - Ward on Poland win]]></title>
@@ -551,14 +559,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgj0d8dz5dgo</guid>
       <pubDate>Tue, 07 Apr 2026 20:39:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8260/live/f7470000-32b9-11f1-8551-ebe7c5dd79d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What did we learn from McArdle's first two games in charge?]]></title>
-      <description><![CDATA[Following two impressive wins against Malta, BBC Sport NI looks at what we've learnt from Michael McArdle's first two games in charge.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn8dqqlq0qxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn8dqqlq0qxo</guid>
-      <pubDate>Sat, 18 Apr 2026 21:27:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bff/live/59ef59b0-3b65-11f1-8926-95b031f2fc7a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Can you name every Women's World Cup host?]]></title>
