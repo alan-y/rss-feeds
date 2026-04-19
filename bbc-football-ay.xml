@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 23:08:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 23:55:09 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,6 +48,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2f4/live/7bb27390-3c0d-11f1-891c-affae8f95aa5.jpg"/>
     </item>
     <item>
+      <title><![CDATA['By chance or choice, they have clicked' - why Man City will be champions]]></title>
+      <description><![CDATA[Match of the Day pundit Danny Murphy explains why he thinks Manchester City will beat Arsenal to the Premier League title.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5y7vwnvegzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y7vwnvegzo</guid>
+      <pubDate>Sun, 19 Apr 2026 22:41:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e383/live/1455a120-3c37-11f1-8606-05fe34b06e1b.png"/>
+    </item>
+    <item>
       <title><![CDATA[Record-breaking Bayern win Bundesliga - now for the Treble]]></title>
       <description><![CDATA[Free-scoring Bayern Munich swept to the German title for the 35th time. Now their sights turn towards completing the Treble.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cq8wpln78eqo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -70,14 +78,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c33l0vl5xyzo</guid>
       <pubDate>Sun, 19 Apr 2026 21:53:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d47f/live/f99f3130-3c17-11f1-8606-05fe34b06e1b.png"/>
-    </item>
-    <item>
-      <title><![CDATA['By chance or choice, they have clicked' - why Man City will be champions]]></title>
-      <description><![CDATA[Match of the Day pundit Danny Murphy explains why he thinks Manchester City will beat Arsenal to the Premier League title.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5y7vwnvegzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y7vwnvegzo</guid>
-      <pubDate>Sun, 19 Apr 2026 22:41:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e383/live/1455a120-3c37-11f1-8606-05fe34b06e1b.png"/>
     </item>
     <item>
       <title><![CDATA[Champions League almost sewn up but race for Europe tighter than ever]]></title>
@@ -168,12 +168,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ce/live/e725b870-3bbe-11f1-8a14-19337d79de52.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How Haaland and Gabriel went head-to-head in an 'old school battle']]></title>
+      <description><![CDATA[Match of the Day pundits Wayne Rooney and Danny Murphy discuss how "two top players" in Erling Haaland and Gabriel went head-to-head in Manchester City's 2-1 victory against Arsenal.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cr71k9gpj5lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cr71k9gpj5lo</guid>
+      <pubDate>Sun, 19 Apr 2026 23:06:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ca/live/ab9b5a00-3c3e-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Bayern beat Stuttgart to seal 35th Bundesliga title]]></title>
       <description><![CDATA[Bayern Munich come from behind to secure a 4-2 victory against Stuttgart and win their 35th German Bundesliga title with four games to spare.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cy81mnzyl9go?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cy81mnzyl9go</guid>
       <pubDate>Sun, 19 Apr 2026 20:08:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a2/live/02cd8640-3c2b-11f1-9d5c-8ba507d7dbde.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rooney and Murphy predict Premier League title outcome]]></title>
+      <description><![CDATA[Match of the Day pundits Wayne Rooney and Danny Murphy discuss Arsenal and Manchester City's remaining fixtures in the Premier League title race and have their say on who they think will lift this year's trophy.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c98mvj79d6zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c98mvj79d6zo</guid>
+      <pubDate>Sun, 19 Apr 2026 22:53:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4df4/live/dd7ae120-3c3f-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arteta rues missed Arsenal chances in loss at Man City]]></title>
@@ -184,28 +200,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dcc/live/c48b9970-3c1c-11f1-9d5c-8ba507d7dbde.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Watch: Celtic put six past St Mirren to reach final]]></title>
-      <description><![CDATA[Celtic net six goals to St Mirren's two and set up a return to Hampden in the Scottish Cup final against Dunfermline Athletic.]]></description>
-      <link>https://www.bbc.com/sport/videos/c87wnp4dpl3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/videos/c87wnp4dpl3o</guid>
-      <pubDate>Sun, 19 Apr 2026 17:40:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d31/live/cea28320-3c16-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['We're not top yet' - Guardiola cautious despite win]]></title>
-      <description><![CDATA[Manchester City manager Pep Guardiola says his side are still not top of the league and their remaining fixtures are going to be "so difficult" after The Blues beat league leaders Arsenal to go three points behind with a game in hand.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cnv8nqqj29lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cnv8nqqj29lo</guid>
-      <pubDate>Sun, 19 Apr 2026 18:23:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f69/live/5b5cd4b0-3c1b-11f1-879d-1b2f5c3919b8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Rooney and Murphy predict Premier League title outcome]]></title>
-      <description><![CDATA[Match of the Day pundits Wayne Rooney and Danny Murphy discuss Arsenal and Manchester City's remaining fixtures in the Premier League title race and have their say on who they think will lift this year's trophy.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c98mvj79d6zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c98mvj79d6zo</guid>
-      <pubDate>Sun, 19 Apr 2026 22:53:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4df4/live/dd7ae120-3c3f-11f1-879d-1b2f5c3919b8.jpg"/>
+      <title><![CDATA[How Liverpool's improved creative play helped them beat Everton]]></title>
+      <description><![CDATA[Match of the Day pundit Danny Murphy analyses how Liverpool's performance "got better" from a "creative" and "footballing aspect" as The Reds secured a 2-1 victory at Everton in the Merseyside Derby.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c2d8kj0jk3do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c2d8kj0jk3do</guid>
+      <pubDate>Sun, 19 Apr 2026 23:02:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb73/live/ec42d620-3c41-11f1-8606-05fe34b06e1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Protests and another costly loss - pressure mounts on Rosenior's Chelsea]]></title>
@@ -240,6 +240,30 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72f5/live/69fcdc20-3b69-11f1-82d7-e5c9d3ef5ba2.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Watch: Celtic put six past St Mirren to reach final]]></title>
+      <description><![CDATA[Celtic net six goals to St Mirren's two and set up a return to Hampden in the Scottish Cup final against Dunfermline Athletic.]]></description>
+      <link>https://www.bbc.com/sport/videos/c87wnp4dpl3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/videos/c87wnp4dpl3o</guid>
+      <pubDate>Sun, 19 Apr 2026 17:40:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d31/live/cea28320-3c16-11f1-8606-05fe34b06e1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['We're not top yet' - Guardiola cautious despite win]]></title>
+      <description><![CDATA[Manchester City manager Pep Guardiola says his side are still not top of the league and their remaining fixtures are going to be "so difficult" after The Blues beat league leaders Arsenal to go three points behind with a game in hand.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cnv8nqqj29lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cnv8nqqj29lo</guid>
+      <pubDate>Sun, 19 Apr 2026 18:23:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f69/live/5b5cd4b0-3c1b-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How Gibbs-White made a 'huge difference' in Forest's win against Burnley]]></title>
+      <description><![CDATA[Match of the Day pundit Danny Murphy discusses how Vítor Pereira's half-time changes "benefitted" Morgan Gibbs-White as the England international made a "huge difference" in Nottingham Forest's 4-1 comeback victory against Burnley.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/ce9m73djz5xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ce9m73djz5xo</guid>
+      <pubDate>Sun, 19 Apr 2026 23:06:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb16/live/bd35efa0-3c43-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[First 'daylight' offside goal scored in Canadian Premier League]]></title>
       <description><![CDATA[Pacific FC forward Alejandro Diaz scores against Halifax Wanderers in the Canadian Premier League, the first instance of a "daylight offside" situation resulting in a goal. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/cly0j2d7713o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -254,30 +278,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cq596gepv6wo</guid>
       <pubDate>Sun, 19 Apr 2026 15:58:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eb8/live/e9187d90-3c07-11f1-879d-1b2f5c3919b8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I need a day off!' - Emery on rollercoaster Villa win]]></title>
-      <description><![CDATA[Aston Villa manager Unai Emery praises his side's display of "heart and passion" to beat Sunderland 4-3, despite losing some focus in allowing Sunderland to score twice in quick succession to equalise.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cvgkw8dzz89o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvgkw8dzz89o</guid>
-      <pubDate>Sun, 19 Apr 2026 15:54:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6254/live/55da0d60-3c06-11f1-9d5c-8ba507d7dbde.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How Porro let Tottenham down in defensive areas against Brighton]]></title>
-      <description><![CDATA[Match of the Day pundit Ashley Williams praises Pedro Porro's attacking play but thinks he needs to do more defensively with his team in a relegation battle.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cm2k0gjnx0eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cm2k0gjnx0eo</guid>
-      <pubDate>Sat, 18 Apr 2026 23:00:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2886/live/bd6b6a80-3b72-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[We need to find a solution to win games - De Zerbi]]></title>
-      <description><![CDATA[Tottenham manager Roberto De Zerbi believes his side deserved to win, as Spurs were denied their first win in the league since December after conceding a late equaliser to draw 2-2 with Brighton at the Tottenham Hotspur Stadium. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c2d8yyl002yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c2d8yyl002yo</guid>
-      <pubDate>Sat, 18 Apr 2026 19:38:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9617/live/a0cdfc00-3b5c-11f1-8606-05fe34b06e1b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wild celebrations to verge of tears -  time running out for Spurs]]></title>
@@ -328,6 +328,22 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d13/live/e917be70-3c00-11f1-808b-d530aa7a4025.jpg"/>
     </item>
     <item>
+      <title><![CDATA['I need a day off!' - Emery on rollercoaster Villa win]]></title>
+      <description><![CDATA[Aston Villa manager Unai Emery praises his side's display of "heart and passion" to beat Sunderland 4-3, despite losing some focus in allowing Sunderland to score twice in quick succession to equalise.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cvgkw8dzz89o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvgkw8dzz89o</guid>
+      <pubDate>Sun, 19 Apr 2026 15:54:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6254/live/55da0d60-3c06-11f1-9d5c-8ba507d7dbde.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How Porro let Tottenham down in defensive areas against Brighton]]></title>
+      <description><![CDATA[Match of the Day pundit Ashley Williams praises Pedro Porro's attacking play but thinks he needs to do more defensively with his team in a relegation battle.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cm2k0gjnx0eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cm2k0gjnx0eo</guid>
+      <pubDate>Sat, 18 Apr 2026 23:00:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2886/live/bd6b6a80-3b72-11f1-8606-05fe34b06e1b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Carrick 'not getting carried away' in pursuit of Champions League place]]></title>
       <description><![CDATA[Manchester United manager Michael Carrick says his side "won't get carried away" in their pursuit of a Champions League place after they beat Chelsea 1-0 at Stamford Bridge to open up a 10-point gap to sixth place. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/cwyx0jg803lo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -344,6 +360,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9de6/live/749e5090-3b79-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Any small mistake we make is being punished - Rosenior]]></title>
+      <description><![CDATA[Chelsea manager Liam Rosenior was rueful of his sides mistakes, as they suffered a fourth straight Premier League defeat after being beaten 1-0 by Manchester United at Stamford Bridge.  ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c62k1xg37kno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c62k1xg37kno</guid>
+      <pubDate>Sat, 18 Apr 2026 21:54:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c01/live/a6cd9140-3b6d-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Leeds, Forest, West Ham or Spurs - who will be relegated?]]></title>
       <description><![CDATA[Match of the Day pundits Ashely Williams and Joe Hart look at the remaining fixtures the four teams in the Premier League relegation battle have before the end of the season.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cddqljq88plo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -358,30 +382,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/crm1010g0m2o</guid>
       <pubDate>Sat, 18 Apr 2026 17:20:10 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8425/live/2237a700-3b49-11f1-879d-1b2f5c3919b8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Bournemouth running 'that extra yard harder' for departing Iraola - Tavernier]]></title>
-      <description><![CDATA[Bournemouth midfielder Marcus Tavernier tells the Final Score team that Cherries boss Andoni Iraola's impending departure makes them want to work even harder for him.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c0q9y939lqdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0q9y939lqdo</guid>
-      <pubDate>Sat, 18 Apr 2026 17:08:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2ac/live/455f5b30-3b47-11f1-9d5c-8ba507d7dbde.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Newcastle fans' frustrations 'really hurts' - Howe]]></title>
-      <description><![CDATA[Newcastle manager Eddie Howe says he is 'hurt' to hear the fans voice their frustrations following their 2-1 defeat to Bournemouth at St. James' Park. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c4gvyvkk2v9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c4gvyvkk2v9o</guid>
-      <pubDate>Sat, 18 Apr 2026 17:01:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/723a/live/8ea9a220-3b45-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[I knew news of my departure would not rock players - Iraola]]></title>
-      <description><![CDATA[Bournemouth manager Andoni Iraola says he trusts his players to continue playing hard despite the recent news of his departure at the end of the season, as they beat Newcastle 2-1 at St. James' Park. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c33lyl60gj6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c33lyl60gj6o</guid>
-      <pubDate>Sat, 18 Apr 2026 16:51:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2d2/live/c1296840-3b43-11f1-9d5c-8ba507d7dbde.jpg"/>
     </item>
     <item>
       <title><![CDATA[Iraola bowing out in style - where will he go next?]]></title>
