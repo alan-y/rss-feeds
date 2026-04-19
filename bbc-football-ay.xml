@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 12:59:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 14:02:20 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -80,14 +80,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5ce/live/e725b870-3bbe-11f1-8a14-19337d79de52.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Howe's biggest Newcastle challenge yet as questions grow on his future]]></title>
-      <description><![CDATA[Newcastle are languishing in 14th place in the Premier League following defeat by Bournemouth. Will manager Eddie Howe turn it around?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c203y3ykv6no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c203y3ykv6no</guid>
-      <pubDate>Sat, 18 Apr 2026 19:43:02 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a8/live/c333ea00-3b5e-11f1-879d-1b2f5c3919b8.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Rutter scores late equaliser to deny Spurs crucial win]]></title>
       <description><![CDATA[Tottenham remain in the bottom three and are denied their first Premier League victory since December as Georginio Rutter scores a late equaliser for Brighton as the two sides draw 2-2 at the Tottenham Hotspur Stadium. ]]></description>
       <link>https://www.bbc.com/sport/football/videos/cr41772xd92o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -128,6 +120,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1943/live/b864d3b0-3b3f-11f1-8606-05fe34b06e1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Howe's biggest Newcastle challenge yet as questions grow on his future]]></title>
+      <description><![CDATA[Newcastle are languishing in 14th place in the Premier League following defeat by Bournemouth. Will manager Eddie Howe turn it around?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c203y3ykv6no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c203y3ykv6no</guid>
+      <pubDate>Sat, 18 Apr 2026 19:43:02 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a8/live/c333ea00-3b5e-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Can Leeds feel safe from relegation after back-to-back wins?]]></title>
       <description><![CDATA[Leeds United are eight points above the Premier League drop zone after back-to-back wins - so can they feel safe from relegation?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cr4171dw46go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -158,14 +158,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78ry1r21m0o</guid>
       <pubDate>Sun, 19 Apr 2026 06:23:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a407/live/45e7db40-3a7a-11f1-9d5c-8ba507d7dbde.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Goalscoring keeper Bycroft has 'incredible eye for goal']]></title>
-      <description><![CDATA[How Exeter City's goalscoring keeper Jack Bycroft has 'an incredible eye for a goal'. .]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj40gpe4x2do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj40gpe4x2do</guid>
-      <pubDate>Sun, 19 Apr 2026 07:57:55 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf07/live/8c94edc0-3b57-11f1-8926-95b031f2fc7a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Bayern keen on Villa's Rogers - Sunday's gossip ]]></title>
@@ -214,6 +206,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cnv89lyz357o</guid>
       <pubDate>Sat, 18 Apr 2026 23:09:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9de6/live/749e5090-3b79-11f1-879d-1b2f5c3919b8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Goalscoring keeper Bycroft has 'incredible eye for goal']]></title>
+      <description><![CDATA[How Exeter City's goalscoring keeper Jack Bycroft has 'an incredible eye for a goal'. .]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj40gpe4x2do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj40gpe4x2do</guid>
+      <pubDate>Sun, 19 Apr 2026 07:57:55 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf07/live/8c94edc0-3b57-11f1-8926-95b031f2fc7a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Game: Answer our prompts to get a Man City v Arsenal prediction]]></title>
