@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 22:34:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 23:08:10 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Health visitors call for limits on 'impossible' 1,000-family caseloads]]></title>
+      <description><![CDATA[BBC analysis shows the number of health visitors in England has almost halved in the last 10 years.]]></description>
+      <link>https://www.bbc.com/news/articles/ce8lp0pz3y9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8lp0pz3y9o</guid>
+      <pubDate>Sun, 19 Apr 2026 23:00:05 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/984d/live/c42d7810-39a4-11f1-990c-ebf66a8167aa.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Should you really trust health advice from an AI chatbot?]]></title>
       <description><![CDATA[Abi has had very mixed results when asking a chatbot for guidance about her health issues.]]></description>
@@ -214,14 +222,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gvd994x15o</guid>
       <pubDate>Thu, 02 Apr 2026 15:53:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbda/live/ae6bd910-2e9e-11f1-90b9-6ffcd881a7dc.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Fewer heat-related deaths in 2025 despite warmest summer]]></title>
-      <description><![CDATA[Summer 2025 was the warmest UK summer on record, with four heatwaves, a top temperature of nearly 38C and a mean temperature of 16.1C]]></description>
-      <link>https://www.bbc.com/news/articles/cy91xqxn2jdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy91xqxn2jdo</guid>
-      <pubDate>Thu, 02 Apr 2026 11:08:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f3/live/ee980650-2e83-11f1-98e7-6b639170d418.png"/>
     </item>
     <item>
       <title><![CDATA[Why did resident doctors go on strike and how much are they paid?]]></title>
