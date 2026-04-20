@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 20 Apr 2026 05:28:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 07:30:28 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -256,6 +256,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31b0/live/3ac64500-4c12-11f0-9800-55e1c62425e5.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why and how is US blockading Iranian ports in Strait of Hormuz?]]></title>
+      <description><![CDATA[Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice? ]]></description>
+      <link>https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yv6xr6me3o</guid>
+      <pubDate>Mon, 20 Apr 2026 06:46:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe35/live/e73e6920-3c85-11f1-8606-05fe34b06e1b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Fuel rations and free buses: How countries have responded to rising oil prices]]></title>
       <description><![CDATA[Governments around the world have introduced measures to limit the impact of price increases.]]></description>
       <link>https://www.bbc.com/news/articles/cjr9yr73xyeo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -278,14 +286,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cm24evgyyzpo</guid>
       <pubDate>Fri, 30 Jan 2026 00:03:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b72/live/48c18280-fb8c-11f0-87d6-bd5fe34f0b33.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What is chickenpox and who can get an NHS vaccine?]]></title>
-      <description><![CDATA[The standard NHS childhood vaccination programme will include chickenpox from 2 January 2026.]]></description>
-      <link>https://www.bbc.com/news/articles/cn0rnqj52y5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0rnqj52y5o</guid>
-      <pubDate>Fri, 02 Jan 2026 00:31:12 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4209/live/2447a060-826f-11f0-a832-3d1a9236e27e.jpg"/>
     </item>
     <item>
       <title><![CDATA['My lonely start to adulthood with endometriosis']]></title>
