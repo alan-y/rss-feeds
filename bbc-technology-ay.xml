@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 20 Apr 2026 19:36:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 20:24:56 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Blue Origin rocket grounded after satellite 'mishap']]></title>
+      <description><![CDATA[The firm founded by Amazon billionaire Jeff Bezos is investigating the failed launch.]]></description>
+      <link>https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cjr9vwz48npo</guid>
+      <pubDate>Mon, 20 Apr 2026 19:56:11 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8600/live/da78ea80-3ce9-11f1-861e-13bf35e4cbcb.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Elon Musk snubs interview summons by French prosecutors amid X probe]]></title>
       <description><![CDATA[The Paris prosecutor's office told the BBC it had "taken note of the absence of the people summoned".]]></description>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cj94y9r0p10o</guid>
       <pubDate>Mon, 13 Apr 2026 12:19:13 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cda/live/cc5ced30-34f5-11f1-955f-add91a6f90f4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI boss Sam Altman's home targeted with Molotov cocktail]]></title>
-      <description><![CDATA[San Francisco police have arrested a 20-year-old suspect after a perimeter gate was set alight.]]></description>
-      <link>https://www.bbc.com/news/articles/czx91rdxpyeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/czx91rdxpyeo</guid>
-      <pubDate>Fri, 10 Apr 2026 21:01:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e01/live/6a868a60-351a-11f1-80c8-2fd40df6e72e.jpg"/>
     </item>
   </channel>
 </rss>
