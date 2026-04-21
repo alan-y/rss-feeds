@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 06:23:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 08:20:51 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Surgeon's mesh surgery cost £20m in compensation]]></title>
+      <description><![CDATA[The NHS confirms it has paid millions to patients injured in operations involving Tony Dixon.]]></description>
+      <link>https://www.bbc.com/news/articles/cdrmv48d43jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdrmv48d43jo</guid>
+      <pubDate>Mon, 20 Apr 2026 15:32:21 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/070d/live/ca108dd0-44fa-11ef-b9f5-adf0805847e7.png"/>
+    </item>
     <item>
       <title><![CDATA[Health visitors call for limits on 'impossible' 1,000-family caseloads]]></title>
       <description><![CDATA[BBC analysis shows the number of health visitors in England has almost halved in the last 10 years.]]></description>
@@ -62,6 +70,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3wlpw3l03qo</guid>
       <pubDate>Fri, 17 Apr 2026 10:47:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a32c/live/6db245e0-37ee-11f1-879d-1b2f5c3919b8.png"/>
+    </item>
+    <item>
+      <title><![CDATA['He worked his little socks off' - mum's anger at NHS recruitment freeze]]></title>
+      <description><![CDATA[The mother of a physiotherapy graduate says she is heartbroken to see him working in Starbucks. ]]></description>
+      <link>https://www.bbc.com/news/articles/c2488mn4r4po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c2488mn4r4po</guid>
+      <pubDate>Tue, 21 Apr 2026 05:17:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2758/live/5c1cac50-3d5a-11f1-a7f7-c90fc0a93ea1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Three young people contract meningitis in Weymouth]]></title>
@@ -168,14 +184,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e87/live/73884f90-37fe-11f1-9200-b31cdeb07b99.jpg"/>
     </item>
     <item>
-      <title><![CDATA['I was kicked out of bar because of my wheelchair']]></title>
-      <description><![CDATA[Maddie Haining, 18, says she was told she was a safety risk and escorted out of a Manchester nightspot.]]></description>
-      <link>https://www.bbc.com/news/articles/c04xx7wkg4xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c04xx7wkg4xo</guid>
-      <pubDate>Tue, 14 Apr 2026 13:17:11 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e4/live/217d8930-37f0-11f1-bf98-335695df34d3.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Deep-fried food banned in new plans for school dinners]]></title>
       <description><![CDATA[Schools are being told to cut down on sugary desserts, and provide more vegetables and whole grains.]]></description>
       <link>https://www.bbc.com/news/articles/c624vezv52do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -208,20 +216,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5498/live/0b6626c0-3345-11f1-9f60-37eac42daa69.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Two weeks will make such a difference': UK first as NI brings in miscarriage leave ]]></title>
-      <description><![CDATA[Northern Ireland becomes first part of UK to bring in legal entitlement for parents affected by miscarriage at any stage of a pregnancy to have paid leave. ]]></description>
-      <link>https://www.bbc.com/news/articles/c9d4g24y5x8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c9d4g24y5x8o</guid>
-      <pubDate>Mon, 06 Apr 2026 09:10:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/945e/live/51451d60-2f4c-11f1-b471-73a11a0c1806.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Incontinence problems leave me 'leaking while competing']]></title>
-      <description><![CDATA[Aimee Oliver never imagined that giving birth would ultimately cause her to need surgery for incontinence.]]></description>
-      <link>https://www.bbc.com/news/articles/c1mk3kp8jd1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1mk3kp8jd1o</guid>
-      <pubDate>Thu, 09 Apr 2026 13:19:03 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a37/live/471d1160-339f-11f1-9131-499a632400d5.jpg"/>
+      <title><![CDATA[Fewer heat-related deaths in 2025 despite warmest summer]]></title>
+      <description><![CDATA[Summer 2025 was the warmest UK summer on record, with four heatwaves, a top temperature of nearly 38C and a mean temperature of 16.1C]]></description>
+      <link>https://www.bbc.com/news/articles/cy91xqxn2jdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy91xqxn2jdo</guid>
+      <pubDate>Thu, 02 Apr 2026 11:08:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f3/live/ee980650-2e83-11f1-98e7-6b639170d418.png"/>
     </item>
     <item>
       <title><![CDATA[Why did resident doctors go on strike and how much are they paid?]]></title>
