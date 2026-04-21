@@ -10,13 +10,21 @@
       <link>https://www.bbc.co.uk/sport/boxing</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 08:20:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 09:55:01 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/boxing/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
-      <title><![CDATA[British light-heavyweight Whittaker stops Suarez in Liverpool]]></title>
+      <title><![CDATA[Okolie fails doping test before Yoka fight]]></title>
+      <description><![CDATA[British boxer Lawrence Okolie says he hopes "sense prevails" after failing a doping test before his heavyweight fight against Tony Yoka.]]></description>
+      <link>https://www.bbc.com/sport/boxing/articles/c17vjqv5n5zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/c17vjqv5n5zo</guid>
+      <pubDate>Tue, 21 Apr 2026 09:48:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9a8/live/f0e45af0-3d63-11f1-a7f7-c90fc0a93ea1.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Whittaker gets another quick knockout - what next?]]></title>
       <description><![CDATA[British light-heavyweight Ben Whittaker produces a brilliant first-round knockout against Argentina's Braian Suarez in Liverpool.]]></description>
       <link>https://www.bbc.com/sport/boxing/articles/c0mj2el3p1no?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/c0mj2el3p1no</guid>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/cn533ng0e7qo</guid>
       <pubDate>Wed, 15 Apr 2026 12:19:45 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e54/live/3a256bb0-3994-11f1-afdb-63f82099d974.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Glasgow rematch can change life for family - Collins]]></title>
-      <description><![CDATA[Nathaniel Collins says he is fighting for his family's future in Friday's WBC world eliminator with Cristobal Lorente in Glasgow.]]></description>
-      <link>https://www.bbc.com/sport/boxing/articles/cpwjpy7een2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/cpwjpy7een2o</guid>
-      <pubDate>Thu, 16 Apr 2026 13:46:43 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c18/live/2af39f10-3997-11f1-beab-29de4b5cb0de.jpg"/>
     </item>
     <item>
       <title><![CDATA[British title win would be 'dream' for Barney-Smith]]></title>
@@ -96,20 +96,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39b8/live/8af044c0-3741-11f1-b669-c509fb2e8e1e.jpg"/>
     </item>
     <item>
-      <title><![CDATA['I've signed, he hasn't' - Fury only interested in Joshua fight]]></title>
-      <description><![CDATA[Tyson Fury says the only fight he is now interested in taking on is against fellow Briton Anthony Joshua.]]></description>
-      <link>https://www.bbc.com/sport/boxing/videos/cvg3j5kxngdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/videos/cvg3j5kxngdo</guid>
-      <pubDate>Sun, 12 Apr 2026 00:47:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b98c/live/1c5c49f0-3606-11f1-9d5c-8ba507d7dbde.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Watch every episode]]></title>
       <description><![CDATA[Natasha Jonas and Chris Eubank Jr feature]]></description>
       <link>https://www.bbc.com/sport/boxing/articles/crgy3zy4meyo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/crgy3zy4meyo</guid>
       <pubDate>Sun, 28 Apr 2024 14:22:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65be/live/0a0e42b0-960e-11ef-9260-19e6a950e830.png"/>
+    </item>
+    <item>
+      <title><![CDATA['I've signed, he hasn't' - Fury only interested in Joshua fight]]></title>
+      <description><![CDATA[Tyson Fury says the only fight he is now interested in taking on is against fellow Briton Anthony Joshua.]]></description>
+      <link>https://www.bbc.com/sport/boxing/videos/cvg3j5kxngdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/videos/cvg3j5kxngdo</guid>
+      <pubDate>Sun, 12 Apr 2026 00:47:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b98c/live/1c5c49f0-3606-11f1-9d5c-8ba507d7dbde.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fury challenges Joshua after comeback win against Makhmudov]]></title>
