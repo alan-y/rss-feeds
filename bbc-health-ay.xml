@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 22:24:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 23:21:20 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -360,6 +360,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca2/live/687af220-29c5-11f1-952c-77491ff53aff.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Bird flu vaccine trial against potential pandemic strain begins]]></title>
+      <description><![CDATA[The jab targets the H5N1 flu strain which has caused devastating infections in bird populations worldwide, but has yet to spread between humans.]]></description>
+      <link>https://www.bbc.com/news/articles/cy41z0yj8mjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy41z0yj8mjo</guid>
+      <pubDate>Tue, 21 Apr 2026 23:00:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e51/live/21b43310-3da2-11f1-b377-d7765ac78768.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Rollout of Covid vaccines extraordinary feat - inquiry report]]></title>
       <description><![CDATA[Covid vaccines saved hundreds of thousands of lives, but a small minority harmed need better support, says report.]]></description>
       <link>https://www.bbc.com/news/articles/cp8dpjx1yvmo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -382,14 +390,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c87wg0lvnxjo</guid>
       <pubDate>Thu, 19 Mar 2026 15:00:23 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51c0/live/d770dde0-23bf-11f1-934f-036468834728.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Patients harmed as Covid pandemic brought NHS close to collapse, inquiry finds]]></title>
-      <description><![CDATA[Third report into the pandemic says patients and staff were failed as health service only just coped.]]></description>
-      <link>https://www.bbc.com/news/articles/ce8ldyy10z7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8ldyy10z7o</guid>
-      <pubDate>Thu, 19 Mar 2026 14:38:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7bc/live/97233d30-239e-11f1-b790-6d42cdb7b9c3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Doctors' strikes can have surprising benefits - but are they sustainable?]]></title>
