@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 09:55:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 11:04:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Anthropic investigating claim of unauthorised access to Mythos AI tool]]></title>
+      <description><![CDATA[The AI company has said the model is too dangerous to release publicly because of its hacking capabilities.]]></description>
+      <link>https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy41zejp9pko</guid>
+      <pubDate>Wed, 22 Apr 2026 10:13:35 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe06/live/9b78f4a0-3e2a-11f1-8ba5-cfdd8d3337ac.jpg"/>
+    </item>
     <item>
       <title><![CDATA[UK gaming icon Peter Molyneux on AI, his final creation and a changing industry]]></title>
       <description><![CDATA[The creator of iconic series such as Fable says Masters of Albion will be the last game he makes.]]></description>
@@ -30,14 +38,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvglyklz49jo</guid>
       <pubDate>Tue, 21 Apr 2026 22:47:56 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c11/live/f3193ce0-3dd2-11f1-a40d-95806278e3fd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[AI hacking tools like Mythos can be 'net positive' says top cyber official]]></title>
-      <description><![CDATA[The head of the National Cyber Security Centre says frontier AI tools can be a force for good - if kept out of the wrong hands.]]></description>
-      <link>https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy41zejp9pko</guid>
-      <pubDate>Tue, 21 Apr 2026 21:43:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b11/live/a8955660-3d85-11f1-b36e-e38d844afc06.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ofcom investigating Telegram over child sexual abuse material concerns]]></title>

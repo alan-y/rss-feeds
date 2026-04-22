@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 09:55:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 11:04:14 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Hay fever misery does last longer - here is how to cope]]></title>
+      <description><![CDATA[Symptoms are lasting for up to two weeks longer than in the 1990s, according to a major report - so what can you do about the pollen bomb?]]></description>
+      <link>https://www.bbc.com/news/articles/cqj8kk0z0l5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cqj8kk0z0l5o</guid>
+      <pubDate>Wed, 22 Apr 2026 10:41:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a38b/live/8d648210-3e31-11f1-9a72-9fbb6d1baa1e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Bird flu vaccine trial against potential pandemic strain begins]]></title>
+      <description><![CDATA[The jab targets the H5N1 flu strain which has caused devastating infections in bird populations worldwide, but has yet to spread between humans.]]></description>
+      <link>https://www.bbc.com/news/articles/cy41z0yj8mjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy41z0yj8mjo</guid>
+      <pubDate>Tue, 21 Apr 2026 23:00:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e51/live/21b43310-3da2-11f1-b377-d7765ac78768.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Smoking ban for people born after 2008 in the UK agreed]]></title>
       <description><![CDATA[The "landmark" legislation aims to stop anyone born after 1 January 2009 from taking up smoking to create a smoke-free generation. ]]></description>
@@ -40,28 +56,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/070d/live/ca108dd0-44fa-11ef-b9f5-adf0805847e7.png"/>
     </item>
     <item>
-      <title><![CDATA[Health visitors call for limits on 'impossible' 1,000-family caseloads]]></title>
-      <description><![CDATA[BBC analysis shows the number of health visitors in England has almost halved in the last 10 years.]]></description>
-      <link>https://www.bbc.com/news/articles/ce8lp0pz3y9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8lp0pz3y9o</guid>
-      <pubDate>Mon, 20 Apr 2026 11:08:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/984d/live/c42d7810-39a4-11f1-990c-ebf66a8167aa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Should you really trust health advice from an AI chatbot?]]></title>
       <description><![CDATA[Abi has had very mixed results when asking a chatbot for guidance about her health issues.]]></description>
       <link>https://www.bbc.com/news/articles/clyepyy82kxo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/clyepyy82kxo</guid>
       <pubDate>Sat, 18 Apr 2026 23:04:43 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbcd/live/93df4d00-3a6c-11f1-9368-ddaac8cf7f1d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Pregnancy vaccine reduces baby hospital admissions for RSV by 80%]]></title>
-      <description><![CDATA[A study confirms the vaccine gives excellent protection for babies against life-threatening chest infections.]]></description>
-      <link>https://www.bbc.com/news/articles/c4g84nxwz8wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g84nxwz8wo</guid>
-      <pubDate>Fri, 17 Apr 2026 23:35:23 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad0/live/9f4a1170-3a67-11f1-88e7-17b97289f7a3.jpg"/>
     </item>
     <item>
       <title><![CDATA['I'm the lucky one' - more than one in three young men now live with their parents]]></title>
@@ -358,14 +358,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gx92jedw2o</guid>
       <pubDate>Sat, 28 Mar 2026 16:06:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca2/live/687af220-29c5-11f1-952c-77491ff53aff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Bird flu vaccine trial against potential pandemic strain begins]]></title>
-      <description><![CDATA[The jab targets the H5N1 flu strain which has caused devastating infections in bird populations worldwide, but has yet to spread between humans.]]></description>
-      <link>https://www.bbc.com/news/articles/cy41z0yj8mjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy41z0yj8mjo</guid>
-      <pubDate>Tue, 21 Apr 2026 23:00:08 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e51/live/21b43310-3da2-11f1-b377-d7765ac78768.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rollout of Covid vaccines extraordinary feat - inquiry report]]></title>
