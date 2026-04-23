@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 07:11:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 09:06:18 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,6 +40,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/523f/live/756f3500-3d01-11f1-9d5c-8ba507d7dbde.png"/>
     </item>
     <item>
+      <title><![CDATA[How to follow the FA Cup semi-finals on the BBC]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team explain how you can watch, listen and follow the FA Cup semi-finals.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gqpkl5k84o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gqpkl5k84o</guid>
+      <pubDate>Thu, 23 Apr 2026 08:29:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d673/live/e50c1580-3e56-11f1-ac78-2112837ce2aa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Hapless Chelsea owners have built a monument to chaos and decline]]></title>
       <description><![CDATA[Chelsea owners BlueCo have built a monument to chaos and decline at Stamford Bridge, says BBC Sport chief football writer Phil McNulty.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c2k3ed1glp1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -54,14 +62,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yv4n5lp8xo</guid>
       <pubDate>Wed, 22 Apr 2026 20:58:36 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d45c/live/60e059f0-3e8e-11f1-93dd-c79ff08bbda8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How are leaders Hearts handling title pressure?]]></title>
-      <description><![CDATA[With five games to go Hearts are still top of the Scottish Premiership. So how are the unlikely league leaders handling the heat with five games to go?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyelj6e3l5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyelj6e3l5o</guid>
-      <pubDate>Wed, 22 Apr 2026 17:55:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c54/live/e236cc10-3e6f-11f1-8f78-2b3776d2d1d0.jpg"/>
     </item>
     <item>
       <title><![CDATA[PSG make Fernandes approach - Thursday's gossip]]></title>
@@ -112,12 +112,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4892/live/5fc15bc0-3e96-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Captain Salah one last time? FPL team of the week]]></title>
-      <description><![CDATA[With six teams blanking this week, it is a time to look to an old FPL hero and put your faith in Mohamed Salah to score for a fourth-straight start.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cew79nkyn1wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cew79nkyn1wo</guid>
-      <pubDate>Thu, 23 Apr 2026 06:40:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fdd/live/be7b5f00-3e53-11f1-ac78-2112837ce2aa.jpg"/>
+      <title><![CDATA[How are leaders Hearts handling title pressure?]]></title>
+      <description><![CDATA[With five games to go Hearts are still top of the Scottish Premiership. So how are the unlikely league leaders handling the heat with five games to go?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clyelj6e3l5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyelj6e3l5o</guid>
+      <pubDate>Wed, 22 Apr 2026 17:55:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c54/live/e236cc10-3e6f-11f1-8f78-2b3776d2d1d0.jpg"/>
     </item>
     <item>
       <title><![CDATA[50 days until World Cup - pick your favourite kits ]]></title>
@@ -128,12 +128,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cac/live/4a20fb60-3d8b-11f1-ac78-2112837ce2aa.png"/>
     </item>
     <item>
-      <title><![CDATA[Tottenham advertise sport psychologist roles ]]></title>
-      <description><![CDATA[Tottenham are looking to appoint a lead psychologist for their men's first team after head coach Roberto de Zerbi said they need to "change the mentality".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cew79v5rjjwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cew79v5rjjwo</guid>
-      <pubDate>Wed, 22 Apr 2026 13:55:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c1d/live/cd989cc0-3e51-11f1-9679-171672b01c6d.jpg"/>
+      <title><![CDATA['Turning football into rubble' - fury over VAR ruling]]></title>
+      <description><![CDATA[A referee has to be escorted off the pitch by police after a controversial VAR decision in the Asian Champions League semi-finals sparks fury.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3v640gp71zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3v640gp71zo</guid>
+      <pubDate>Wed, 22 Apr 2026 11:15:37 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b75c/live/5d2ea8c0-3e2f-11f1-8ba5-cfdd8d3337ac.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rangers captain Tavernier to leave in summer after 11 years]]></title>
@@ -160,20 +160,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d255/live/9d8cb210-3e2d-11f1-8ba5-cfdd8d3337ac.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Turning football into rubble' - fury over VAR ruling]]></title>
-      <description><![CDATA[A referee has to be escorted off the pitch by police after a controversial VAR decision in the Asian Champions League semi-finals sparks fury.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3v640gp71zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3v640gp71zo</guid>
-      <pubDate>Wed, 22 Apr 2026 11:15:37 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b75c/live/5d2ea8c0-3e2f-11f1-8ba5-cfdd8d3337ac.jpg"/>
+      <title><![CDATA[Estevao's World Cup hopes in doubt after hamstring injury]]></title>
+      <description><![CDATA[Chelsea winger Estevao could miss Brazil's World Cup campaign after suffering a season-ending hamstring strain. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn4vk4717vdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn4vk4717vdo</guid>
+      <pubDate>Wed, 22 Apr 2026 15:43:15 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31d6/live/2879c870-3e58-11f1-abcc-9f66f747ddba.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Spain defender Batlle close to agreeing Arsenal move]]></title>
-      <description><![CDATA[Spain defender Ona Batlle is close to agreeing a move to Arsenal as a free agent in the summer.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c937e402z5xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c937e402z5xo</guid>
-      <pubDate>Wed, 22 Apr 2026 09:24:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce8/live/abd784a0-3e2b-11f1-8ba5-cfdd8d3337ac.jpg"/>
+      <title><![CDATA[Football quiz: Name every winner of Championship]]></title>
+      <description><![CDATA[Premier League-bound Coventry City have secured the Championship title. Can you name every winner from the past 22 seasons?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9wq441ld50o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9wq441ld50o</guid>
+      <pubDate>Wed, 22 Apr 2026 10:06:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4c6/live/9ab886a0-3e31-11f1-9a72-9fbb6d1baa1e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Brighton beat Chelsea in Rosenior's final match in charge]]></title>
@@ -224,28 +224,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a900/live/94ba15f0-3e38-11f1-929e-dd2b5d4dae7a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Spain defender Batlle close to agreeing Arsenal move]]></title>
+      <description><![CDATA[Spain defender Ona Batlle is close to agreeing a move to Arsenal as a free agent in the summer.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c937e402z5xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c937e402z5xo</guid>
+      <pubDate>Wed, 22 Apr 2026 09:24:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce8/live/abd784a0-3e2b-11f1-8ba5-cfdd8d3337ac.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Wrexham's reluctant hero who refuses to celebrate ]]></title>
       <description><![CDATA[He may not celebrate, but Josh Windass is giving fans plenty to shout about as Wrexham bid for a Championship play-off place. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cd9v41nn5d2o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9v41nn5d2o</guid>
       <pubDate>Thu, 23 Apr 2026 03:24:34 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c284/live/4863b7c0-3e4b-11f1-bb02-b7764f8dd2b3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Estevao's World Cup hopes in doubt after hamstring injury]]></title>
-      <description><![CDATA[Chelsea winger Estevao could miss Brazil's World Cup campaign after suffering a season-ending hamstring strain. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn4vk4717vdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn4vk4717vdo</guid>
-      <pubDate>Wed, 22 Apr 2026 15:43:15 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31d6/live/2879c870-3e58-11f1-abcc-9f66f747ddba.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Football quiz: Name every winner of Championship]]></title>
-      <description><![CDATA[Premier League-bound Coventry City have secured the Championship title. Can you name every winner from the past 22 seasons?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9wq441ld50o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9wq441ld50o</guid>
-      <pubDate>Wed, 22 Apr 2026 10:06:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4c6/live/9ab886a0-3e31-11f1-9a72-9fbb6d1baa1e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fernandes would win Ballon d'Or at Man City - Pogba]]></title>
@@ -262,6 +254,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy01ze1k5gyo</guid>
       <pubDate>Wed, 22 Apr 2026 13:24:26 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1fd/live/c641c2a0-3e45-11f1-bb02-b7764f8dd2b3.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Chelsea to play all WSL games at Stamford Bridge]]></title>
+      <description><![CDATA[Chelsea say switching all their women's games to Stamford Bridge reaffirms an "ambition and intent" to become "the biggest women's sports club in the world".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clyrk1xe64zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyrk1xe64zo</guid>
+      <pubDate>Wed, 22 Apr 2026 07:41:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3ec/live/49f114b0-3e2e-11f1-8ba5-cfdd8d3337ac.jpg"/>
     </item>
     <item>
       <title><![CDATA['Most enjoyable season since Wright years' - how Saints stormed to title]]></title>
@@ -350,14 +350,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cr5108dzlero</guid>
       <pubDate>Wed, 22 Apr 2026 08:10:15 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaae/live/8f8be930-3e21-11f1-bd52-e755d604ece4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Chelsea to play all WSL games at Stamford Bridge]]></title>
-      <description><![CDATA[Chelsea say switching all their women's games to Stamford Bridge reaffirms an "ambition and intent" to become "the biggest women's sports club in the world".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyrk1xe64zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyrk1xe64zo</guid>
-      <pubDate>Wed, 22 Apr 2026 07:41:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3ec/live/49f114b0-3e2e-11f1-8ba5-cfdd8d3337ac.jpg"/>
     </item>
     <item>
       <title><![CDATA[Lingard becomes first British scorer in Brazilian cup]]></title>
@@ -538,6 +530,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8260/live/f7470000-32b9-11f1-8551-ebe7c5dd79d2.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Ipswich Women take big step towards safety]]></title>
+      <description><![CDATA[Interim boss David Wright hails the improvement by Ipswich Women after they beat Sheffield United to boost their hopes of avoiding relegation.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/czx9jeq1lxqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czx9jeq1lxqo</guid>
+      <pubDate>Thu, 23 Apr 2026 08:28:27 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3896/live/808c48b0-3eeb-11f1-a821-9161fbfb806d.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Brentford to host World Sevens as six WSL teams confirm participation  ]]></title>
       <description><![CDATA[Aston Villa, Manchester United, Tottenham Hotspur and West Ham will compete in this year's Women's World Sevens tournament, which will be hosted by Brentford's Gtech Community Stadium.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx24p9xp7lxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -560,14 +560,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdrm7gvn2yro</guid>
       <pubDate>Tue, 21 Apr 2026 12:00:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d97a/live/f461a030-3d76-11f1-903b-f1312705e0c9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Bailie ready for 30th and final season at Glentoran]]></title>
-      <description><![CDATA[Glentoran defender Kelly Bailie reflects on her 30-year association with the club as she prepares for her final season as a player before retirement.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy4wve1e1xjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy4wve1e1xjo</guid>
-      <pubDate>Tue, 21 Apr 2026 07:05:35 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f2/live/b2aa6da0-0da3-11f1-917e-133342cfe2a1.jpg"/>
     </item>
     <item>
       <title><![CDATA[When football turned to penalties to end 'cruel' system]]></title>
