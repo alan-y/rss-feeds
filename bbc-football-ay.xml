@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 24 Apr 2026 22:05:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 23:01:40 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[All eyes on Spurs & West Ham? 'Unbelievable' Forest edge towards safety]]></title>
+      <description><![CDATA[After Nottingham Forest's stunning win at Sunderland, is the Premier League relegation battle now a two-horse race?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c30rgm097vyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c30rgm097vyo</guid>
+      <pubDate>Fri, 24 Apr 2026 22:29:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9729/live/99ebb6a0-4027-11f1-ac78-2112837ce2aa.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Why I stayed at 'struggling' Man Utd and didn't think we'd be third now - Fernandes]]></title>
       <description><![CDATA[Manchester United captain Bruno Fernandes speaks to club legend Wayne Rooney in a wide-ranging interview.]]></description>
@@ -64,6 +72,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25ba/live/bac52720-3ffb-11f1-a269-2b0eab1d0b0e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Sutton's predictions v Race Across the World podcast's Alfie Watts]]></title>
+      <description><![CDATA[Chris Sutton takes on Race Across the World podcast travel expert Alfie Watts plus the BBC readers and AI with his predictions for this weekend's fixtures.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gxd39xyr0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gxd39xyr0o</guid>
+      <pubDate>Thu, 23 Apr 2026 14:22:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6880/live/46d26dd0-3da5-11f1-b55d-0f258dce1735.png"/>
+    </item>
+    <item>
       <title><![CDATA[How Lineker and Neville became rival media moguls]]></title>
       <description><![CDATA[BBC sports editor Dan Roan examines how Gary Lineker and Gary Neville became two of the biggest players in a rapidly changing media industry.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cm293m3mr7zo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -78,22 +94,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cyv1rdz32ego</guid>
       <pubDate>Fri, 24 Apr 2026 11:47:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f5/live/8d30efd0-3fae-11f1-ac78-2112837ce2aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Brobbey should have been sent off against Spurs - panel]]></title>
-      <description><![CDATA[Sunderland's Brian Brobbey should have been sent off for two yellow-card offences against Tottenham, a Premier League panel has ruled.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqj85lrgv70o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqj85lrgv70o</guid>
-      <pubDate>Fri, 24 Apr 2026 10:24:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/331c/live/cac385a0-3fc3-11f1-b61b-1d0ccf7b6022.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sutton's predictions v Race Across the World podcast's Alfie Watts]]></title>
-      <description><![CDATA[Chris Sutton takes on Race Across the World podcast travel expert Alfie Watts plus the BBC readers and AI with his predictions for this weekend's fixtures.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gxd39xyr0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gxd39xyr0o</guid>
-      <pubDate>Thu, 23 Apr 2026 14:22:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6880/live/46d26dd0-3da5-11f1-b55d-0f258dce1735.png"/>
     </item>
     <item>
       <title><![CDATA[Hearts, Rangers, Celtic - who will lead Premiership by end of Sunday?]]></title>
@@ -112,36 +112,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84a3/live/acf6e620-3fd2-11f1-ac78-2112837ce2aa.png"/>
     </item>
     <item>
+      <title><![CDATA[Brobbey should have been sent off against Spurs - panel]]></title>
+      <description><![CDATA[Sunderland's Brian Brobbey should have been sent off for two yellow-card offences against Tottenham, a Premier League panel has ruled.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqj85lrgv70o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqj85lrgv70o</guid>
+      <pubDate>Fri, 24 Apr 2026 10:24:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/331c/live/cac385a0-3fc3-11f1-b61b-1d0ccf7b6022.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Ex-Brighton boss Hughton reveals cancer diagnosis]]></title>
       <description><![CDATA[Former Brighton and Newcastle manager Chris Hughton reveals he was treated for prostate cancer last year.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c9370qyd5pno?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9370qyd5pno</guid>
       <pubDate>Fri, 24 Apr 2026 15:47:16 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e09/live/568b13f0-3fe2-11f1-ba10-1ba751bf6e79.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Five things in the EFL: penultimate peril and jittery jeopardy]]></title>
-      <description><![CDATA[Here are five things to look out for across the EFL in this penultimate weekend of the regular season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5ywnkd7yxxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ywnkd7yxxo</guid>
-      <pubDate>Fri, 24 Apr 2026 09:51:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/597b/live/338bd290-3f24-11f1-b55d-0f258dce1735.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Former Nigeria striker Eneramo dies during match]]></title>
-      <description><![CDATA[Michael Eneramo, who won 10 caps for the Super Eagles, dies aged 40 after suffering a suspected cardiac arrest during a friendly game.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c05d3zd1npjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c05d3zd1npjo</guid>
-      <pubDate>Fri, 24 Apr 2026 15:10:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c52/live/4875a1e0-3fe7-11f1-8822-8b5e0ff935ca.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Rangers fans face ban for derby amid dispute with Celtic]]></title>
-      <description><![CDATA[Rangers ask the Scottish Professional Football League to step in after Celtic refused to give away fans any tickets to the final Old Firm derby of the season unless the Ibrox club's Union Bears ultras group is banned.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cde519lgd2no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cde519lgd2no</guid>
-      <pubDate>Fri, 24 Apr 2026 17:08:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/461a/live/69edd280-3fff-11f1-b11d-6552be9f85b2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Forest stun Sunderland to boost survival hopes]]></title>
@@ -168,6 +152,70 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11d7/live/5daf7a20-3ff3-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
     <item>
+      <title><![CDATA['It isn't enough' - Pereira insists still work to be done]]></title>
+      <description><![CDATA[Nottingham Forest Head Coach Vitor Pereira praises his side following a destructive 5-0 win over Sunderland, but insists that they still need 'more points' in their quest to avoid relegation.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c2lw5z4e28qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c2lw5z4e28qo</guid>
+      <pubDate>Fri, 24 Apr 2026 22:14:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2832/live/e0158e40-4026-11f1-bd52-e755d604ece4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Le Bris reacts to 'painful' defeat ]]></title>
+      <description><![CDATA[Sunderland boss Regis Le Bris bemoans his sides "slow start" following a 5-0 defeat at the hands of relegation-threatened Nottingham Forest. He describes the loss as "painful", as his sides home form continues to slip.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c5yv1gy2zz5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5yv1gy2zz5o</guid>
+      <pubDate>Fri, 24 Apr 2026 22:21:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72c9/live/55d5a3d0-4028-11f1-b55d-0f258dce1735.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Five things in the EFL: penultimate peril and jittery jeopardy]]></title>
+      <description><![CDATA[Here are five things to look out for across the EFL in this penultimate weekend of the regular season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5ywnkd7yxxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ywnkd7yxxo</guid>
+      <pubDate>Fri, 24 Apr 2026 09:51:58 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/597b/live/338bd290-3f24-11f1-b55d-0f258dce1735.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Former Nigeria striker Eneramo dies during match]]></title>
+      <description><![CDATA[Michael Eneramo, who won 10 caps for the Super Eagles, dies aged 40 after suffering a suspected cardiac arrest during a friendly game.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c05d3zd1npjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c05d3zd1npjo</guid>
+      <pubDate>Fri, 24 Apr 2026 15:10:01 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c52/live/4875a1e0-3fe7-11f1-8822-8b5e0ff935ca.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What next in battle to avoid Premiership play-off?]]></title>
+      <description><![CDATA[Livingston could go down as soon as this weekend, but how is the battle to avoid the Premiership relegation play-off shaping up?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c747p1m3ggjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c747p1m3ggjo</guid>
+      <pubDate>Fri, 24 Apr 2026 16:15:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/562a/live/07a863a0-3f47-11f1-b55d-0f258dce1735.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Rangers fans face ban for derby amid dispute with Celtic]]></title>
+      <description><![CDATA[Rangers ask the Scottish Professional Football League to step in after Celtic refused to give away fans any tickets to the final Old Firm derby of the season unless the Ibrox club's Union Bears ultras group is banned.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cde519lgd2no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cde519lgd2no</guid>
+      <pubDate>Fri, 24 Apr 2026 17:08:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/461a/live/69edd280-3fff-11f1-b11d-6552be9f85b2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Millwall consider legal action over badge on KKK image]]></title>
+      <description><![CDATA[Millwall consider taking legal action after Westminster City Council used the club's badge on an illustration of a Ku Klux Klan member.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cly60en2z94o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly60en2z94o</guid>
+      <pubDate>Fri, 24 Apr 2026 08:14:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a49/live/d2a7e7a0-3fac-11f1-a537-e57c67c94c0a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Man Utd hopeful of Toone return at Spurs]]></title>
+      <description><![CDATA[Manchester United midfielder Ella Toone will train on Friday and could return after four months out with injury at Tottenham on Sunday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3exleekeyjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3exleekeyjo</guid>
+      <pubDate>Fri, 24 Apr 2026 09:38:11 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cba1/live/3cd2d6f0-3fbf-11f1-bd52-e755d604ece4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['I try to stay happy' - Trafford on tricky start to life at Man City]]></title>
       <description><![CDATA[Manchester City goalkeeper James Trafford says he has not had "the best possible outcome" since joining the club.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cpwjj94ylk5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -182,54 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c33lk6dx4pyo</guid>
       <pubDate>Wed, 22 Apr 2026 21:30:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f31/live/33237310-3e90-11f1-b55d-0f258dce1735.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What next in battle to avoid Premiership play-off?]]></title>
-      <description><![CDATA[Livingston could go down as soon as this weekend, but how is the battle to avoid the Premiership relegation play-off shaping up?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c747p1m3ggjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c747p1m3ggjo</guid>
-      <pubDate>Fri, 24 Apr 2026 16:15:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/562a/live/07a863a0-3f47-11f1-b55d-0f258dce1735.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Millwall consider legal action over badge on KKK image]]></title>
-      <description><![CDATA[Millwall consider taking legal action after Westminster City Council used the club's badge on an illustration of a Ku Klux Klan member.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cly60en2z94o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cly60en2z94o</guid>
-      <pubDate>Fri, 24 Apr 2026 08:14:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a49/live/d2a7e7a0-3fac-11f1-a537-e57c67c94c0a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Artist to sue Sunderland over away kit design]]></title>
-      <description><![CDATA[An artist is planning legal action against Sunderland, claiming they reproduced an image of one of his sculptures on their away kit without his permission.]]></description>
-      <link>https://www.bbc.com/news/articles/c78rpr01v1yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c78rpr01v1yo</guid>
-      <pubDate>Fri, 24 Apr 2026 10:37:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa71/live/59ac51f0-3fb2-11f1-b61b-1d0ccf7b6022.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd hopeful of Toone return at Spurs]]></title>
-      <description><![CDATA[Manchester United midfielder Ella Toone will train on Friday and could return after four months out with injury at Tottenham on Sunday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3exleekeyjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3exleekeyjo</guid>
-      <pubDate>Fri, 24 Apr 2026 09:38:11 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cba1/live/3cd2d6f0-3fbf-11f1-bd52-e755d604ece4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[US rights groups urge caution for World Cup visitors]]></title>
-      <description><![CDATA[More than 120 organisations issue a travel advisory for visitors to this summer's World Cup, warning of potential threats to their human rights.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce3d69wngevo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3d69wngevo</guid>
-      <pubDate>Fri, 24 Apr 2026 21:07:49 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd57/live/0df340d0-3fa7-11f1-b7fe-5bf54e67de0f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Howe 'looks forward' to talks with Newcastle owners]]></title>
-      <description><![CDATA[Head coach Eddie Howe says he is looking forward to sitting down with Newcastle United's owners next week to "express things from my perspective".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czredr28g08o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czredr28g08o</guid>
-      <pubDate>Fri, 24 Apr 2026 10:06:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fef/live/f98ed6a0-3fbe-11f1-b61b-1d0ccf7b6022.jpg"/>
     </item>
     <item>
       <title><![CDATA[Leeds score late to earn draw at Bournemouth]]></title>
@@ -256,20 +256,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5a2/live/77da23f0-3e95-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Farke delighted with hard-fought point at Bournemouth]]></title>
-      <description><![CDATA[Leeds United manager Daniel Farke is full of praise for the "mentality" of his side as Sean Longstaff's 97th-minute goal earned his side a "hard-fought" point away at Bournemouth.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c62kj6zrn63o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c62kj6zrn63o</guid>
-      <pubDate>Wed, 22 Apr 2026 22:01:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4892/live/5fc15bc0-3e96-11f1-ac78-2112837ce2aa.jpg"/>
+      <title><![CDATA[US rights groups urge caution for World Cup visitors]]></title>
+      <description><![CDATA[More than 120 organisations issue a travel advisory for visitors to this summer's World Cup, warning of potential threats to their human rights.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce3d69wngevo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3d69wngevo</guid>
+      <pubDate>Fri, 24 Apr 2026 21:07:49 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd57/live/0df340d0-3fa7-11f1-b7fe-5bf54e67de0f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Brighton beat Chelsea in Rosenior's final match in charge]]></title>
-      <description><![CDATA[Brighton ease to a comfortable 3-0 win over Chelsea thanks to goals from Ferdi Kadioglu, Jack Hinshelwood and Danny Welbeck.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cz90zkz4pe7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cz90zkz4pe7o</guid>
-      <pubDate>Tue, 21 Apr 2026 21:30:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaef/live/0b381d60-3dc3-11f1-bd52-e755d604ece4.jpg"/>
+      <title><![CDATA[Artist to sue Sunderland over away kit design]]></title>
+      <description><![CDATA[An artist is planning legal action against Sunderland, claiming they reproduced an image of one of his sculptures on their away kit without his permission.]]></description>
+      <link>https://www.bbc.com/news/articles/c78rpr01v1yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c78rpr01v1yo</guid>
+      <pubDate>Fri, 24 Apr 2026 10:37:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa71/live/59ac51f0-3fb2-11f1-b61b-1d0ccf7b6022.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Howe 'looks forward' to talks with Newcastle owners]]></title>
+      <description><![CDATA[Head coach Eddie Howe says he is looking forward to sitting down with Newcastle United's owners next week to "express things from my perspective".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/czredr28g08o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czredr28g08o</guid>
+      <pubDate>Fri, 24 Apr 2026 10:06:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fef/live/f98ed6a0-3fbe-11f1-b61b-1d0ccf7b6022.jpg"/>
     </item>
     <item>
       <title><![CDATA[Season has been big learning experience - Trafford]]></title>
@@ -296,14 +304,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9741/live/e4e21070-3fe4-11f1-ba72-3dd058cb149f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Why Wrexham's global fanbase is about more than fame and glory]]></title>
-      <description><![CDATA[They have famous owners and have been successful on and off the pitch, but what else is attracting football fans worldwide to Wrexham?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy413x14gmlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy413x14gmlo</guid>
-      <pubDate>Fri, 24 Apr 2026 06:10:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c213/live/a9f8c5c0-3f2c-11f1-b9c3-8be9c0df6b27.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Retiring kit woman honoured with giant tifo banner]]></title>
       <description><![CDATA[Go Ahead Eagles reveal a huge tifo for retiring kit woman Carla Whittie who has been at the club for 28 years. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/cevkrj9vgn7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -312,20 +312,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/190e/live/1f101c20-3fc6-11f1-8315-775f5525a4f0.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Big clubs and big names - a summer of managerial upheaval awaits]]></title>
-      <description><![CDATA[BBC Sport senior football correspondent Sami Mokbel analyses a summer that promises plenty of change in the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp8dgjyy714o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8dgjyy714o</guid>
-      <pubDate>Thu, 23 Apr 2026 16:00:08 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7df8/live/bf2128f0-3f24-11f1-80a9-03674e4a073c.jpg"/>
+      <title><![CDATA[Farke delighted with hard-fought point at Bournemouth]]></title>
+      <description><![CDATA[Leeds United manager Daniel Farke is full of praise for the "mentality" of his side as Sean Longstaff's 97th-minute goal earned his side a "hard-fought" point away at Bournemouth.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c62kj6zrn63o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c62kj6zrn63o</guid>
+      <pubDate>Wed, 22 Apr 2026 22:01:47 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4892/live/5fc15bc0-3e96-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Rosenior's last post-match interview as Chelsea head coach]]></title>
-      <description><![CDATA[Chelsea head coach Liam Rosenior says his side's 3-0 defeat away at Brighton was "unacceptable" from everyone involved and that things need to change.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cz90zk8x5lgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cz90zk8x5lgo</guid>
-      <pubDate>Tue, 21 Apr 2026 21:42:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f45/live/4b17b8d0-3dca-11f1-b55d-0f258dce1735.jpg"/>
+      <title><![CDATA[Brighton beat Chelsea in Rosenior's final match in charge]]></title>
+      <description><![CDATA[Brighton ease to a comfortable 3-0 win over Chelsea thanks to goals from Ferdi Kadioglu, Jack Hinshelwood and Danny Welbeck.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cz90zkz4pe7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cz90zkz4pe7o</guid>
+      <pubDate>Tue, 21 Apr 2026 21:30:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaef/live/0b381d60-3dc3-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Burnley must come back stronger after 'relentless' season - Parker]]></title>
@@ -334,6 +334,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c705dxkwpglo</guid>
       <pubDate>Wed, 22 Apr 2026 21:48:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f4e/live/d3d4f6a0-3e93-11f1-b55d-0f258dce1735.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['People can say whatever stupid things they want' - Guardiola on celebrations]]></title>
+      <description><![CDATA[Manchester City manager Pep Guardiola says his players can "celebrate however you want" in response to criticism from some pundits for his side's reaction to beating Arsenal on Sunday.]]></description>
+      <link>https://www.bbc.com/sport/videos/c1mkvpe5lkpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/videos/c1mkvpe5lkpo</guid>
+      <pubDate>Tue, 21 Apr 2026 21:40:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9493/live/b18c2b40-3d99-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watch the goals and celebrations as St Johnstone clinch title]]></title>
@@ -360,28 +368,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06bb/live/ffdc2ad0-3d6b-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[West Ham earn valuable point at London rivals Crystal Palace]]></title>
-      <description><![CDATA[West Ham edge a point clearer of the relegation zone as they share a goalless draw with Crystal Palace at Selhurst Park.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cwyw492veqqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwyw492veqqo</guid>
-      <pubDate>Mon, 20 Apr 2026 21:24:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9978/live/0e909ea0-3cfc-11f1-879d-1b2f5c3919b8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Who is Iraola successor Rose?]]></title>
-      <description><![CDATA[German football journalist Constantin Eckner provides the background on Bournemouth's incoming head coach Marco Rose.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cz0ez392k4zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cz0ez392k4zo</guid>
-      <pubDate>Tue, 21 Apr 2026 10:26:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07f1/live/f0700790-3d5e-11f1-8606-05fe34b06e1b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How to follow the FA Cup semi-finals on the BBC]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team explain how you can watch, listen and follow the FA Cup semi-finals.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4gqpkl5k84o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gqpkl5k84o</guid>
       <pubDate>Thu, 23 Apr 2026 08:29:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d673/live/e50c1580-3e56-11f1-ac78-2112837ce2aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Why Wrexham's global fanbase is about more than fame and glory]]></title>
+      <description><![CDATA[They have famous owners and have been successful on and off the pitch, but what else is attracting football fans worldwide to Wrexham?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy413x14gmlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy413x14gmlo</guid>
+      <pubDate>Fri, 24 Apr 2026 06:10:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c213/live/a9f8c5c0-3f2c-11f1-b9c3-8be9c0df6b27.jpg"/>
     </item>
     <item>
       <title><![CDATA['Arsenal have been trying to nick 1-0 wins' - do they need mindset change?]]></title>
@@ -416,12 +416,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60f3/live/1a14c830-3f4c-11f1-ac78-2112837ce2aa.png"/>
     </item>
     <item>
-      <title><![CDATA[How do Premier League managerial changes compare to other seasons?]]></title>
-      <description><![CDATA[There have been 10 managerial changes in the Premier League in 2025-26 - but how does that compare to previous years]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yvn8zn4dpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yvn8zn4dpo</guid>
-      <pubDate>Thu, 23 Apr 2026 12:37:40 GMT</pubDate>
-      <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182b/live/a7ad0400-3f0b-11f1-bd52-e755d604ece4.jpg"/>
+      <title><![CDATA[Big clubs and big names - a summer of managerial upheaval awaits]]></title>
+      <description><![CDATA[BBC Sport senior football correspondent Sami Mokbel analyses a summer that promises plenty of change in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp8dgjyy714o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8dgjyy714o</guid>
+      <pubDate>Thu, 23 Apr 2026 16:00:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7df8/live/bf2128f0-3f24-11f1-80a9-03674e4a073c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Leicester 'face £70m black hole' after disastrous football-on-credit-card gamble]]></title>
@@ -463,14 +463,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c145vyjypevo</guid>
       <pubDate>Wed, 22 Apr 2026 08:23:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cac/live/4a20fb60-3d8b-11f1-ac78-2112837ce2aa.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Two down, one to go - who will join Burnley & Wolves?]]></title>
-      <description><![CDATA[With Wolves and Burnley now relegated, BBC Sport looks at which side is most likely to join them in the Championship next season.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx2wz72v341o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx2wz72v341o</guid>
-      <pubDate>Wed, 22 Apr 2026 23:18:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/523f/live/756f3500-3d01-11f1-9d5c-8ba507d7dbde.png"/>
     </item>
     <item>
       <title><![CDATA[All done deals since February, including deadline day]]></title>
