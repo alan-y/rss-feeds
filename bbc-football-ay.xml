@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 19:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 19:57:27 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Three goals, eight chaotic minutes - how day of relegation drama unfolded]]></title>
+      <description><![CDATA[On a day of twists and turns, Tottenham and West Ham both picked up crucial wins in their fight to avoid relegation.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g4nyjzg9do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g4nyjzg9do</guid>
+      <pubDate>Sat, 25 Apr 2026 19:05:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c881/live/ef84f120-40c8-11f1-8142-39fa2cacf9a1.png"/>
+    </item>
     <item>
       <title><![CDATA[Has Salah played last Liverpool game? Slot says 'wait and see']]></title>
       <description><![CDATA[Liverpool will have to "wait and see" whether Mohamed Salah has played his final game for the club, says manager Arne Slot.]]></description>
@@ -80,14 +88,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ec/live/b591a250-40d8-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Three goals, eight chaotic minutes - how day of relegation drama unfolded]]></title>
-      <description><![CDATA[On a day of twists and turns, Tottenham and West Ham both picked up crucial wins in their fight to avoid relegation.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g4nyjzg9do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g4nyjzg9do</guid>
-      <pubDate>Sat, 25 Apr 2026 19:05:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c881/live/ef84f120-40c8-11f1-8142-39fa2cacf9a1.png"/>
-    </item>
-    <item>
       <title><![CDATA[A long time coming but something to build on - Isak's landmark goal]]></title>
       <description><![CDATA[Will Alexander Isak's first Liverpool Premier League goal at Anfield prove a turning point for the £125m signing?]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4gvny935yno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -120,12 +120,39 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58c/live/b8318910-40ad-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Performance in Arsenal defeat gives Newcastle hope - Howe]]></title>
+      <description><![CDATA[Eddie Howe describes his side's performance as a "big step forward" despite Newcastle United suffering a 1-0 defeat to Arsenal at the Emirates Stadium in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cr71g3ny427o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cr71g3ny427o</guid>
+      <pubDate>Sat, 25 Apr 2026 19:49:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec88/live/84e91060-40de-11f1-b55d-0f258dce1735.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Analysis: Azaz & Gonzalez score semi-final screamers]]></title>
+      <description><![CDATA[Kelly Cates, Wayne Rooney, Thero Walcott and Micah Richards break down stunning strikes by Finn Azaz and Nico Gonzales in Manchester City's 2-1 FA Cup semi-final win over Southampton.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c0le3rw0ejro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0le3rw0ejro</guid>
+      <pubDate>Sat, 25 Apr 2026 19:35:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e232/live/6d2d4730-40dd-11f1-b55d-0f258dce1735.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Unstoppable' Gonzalez strike completes Man City comeback]]></title>
       <description><![CDATA[Manchester City's Nico Gonzalez produces a "magnificent strike" to put his side 2-1 ahead against Southampton in the FA Cup semi-final.]]></description>
       <link>https://www.bbc.com/sport/football/videos/ckg0veqpwwxo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ckg0veqpwwxo</guid>
       <pubDate>Sat, 25 Apr 2026 18:15:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa1d/live/719b29a0-40d2-11f1-b55d-0f258dce1735.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Kett equalises before red card as Bayern and Barcelona draw first leg]]></title>
+      <description><![CDATA[Franziska Kett goes from hero to villain for Bayern Munich after following up her crucial equaliser with a straight red card, as the German champions draw 1-1 with Barcelona in the first leg of their Women's Champions League semi-final. 
+
+
+]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cvgk2w90817o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvgk2w90817o</guid>
+      <pubDate>Sat, 25 Apr 2026 19:17:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f180/live/bae0f830-40da-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
       <title><![CDATA[Brighton shock Man City as leaders fail to close in on WSL title]]></title>
@@ -144,22 +171,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90bb/live/2ce90970-40c9-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Victory over Wolves important for Spurs' mentality - De Zerbi]]></title>
-      <description><![CDATA[Tottenham Hotspur manager Roberto De Zerbi praises his side's "attitude and spirit" but admits his side "didn't play well" in the second half, as they picked up their first Premier League win since December with a 1-0 victory away at Wolves.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/ckgx5329xnno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/ckgx5329xnno</guid>
-      <pubDate>Sat, 25 Apr 2026 17:02:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd14/live/e3e31b50-40c6-11f1-bd52-e755d604ece4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why is Kelly not an automatic starter for Arsenal or England?]]></title>
-      <description><![CDATA[BBC Sport discusses why Lionesses hero Chloe Kelly is not guaranteed a spot for club or country.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0q9vx180njo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0q9vx180njo</guid>
-      <pubDate>Sat, 25 Apr 2026 05:37:18 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0051/live/b8873b10-4069-11f1-af10-f9a705946513.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Liverpool not a team that 'pretends' to be injured - Slot]]></title>
       <description><![CDATA[Arne Slot criticises the referee's decision not to stop play for goalkeeper Freddie Woodman going down with an injury, resulting in a Crystal Palace goal, during Liverpool's 3-1 win at Anfield in the Premier League.]]></description>
       <link>https://www.bbc.com/sport/football/videos/clyjk3m7jxgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -174,6 +185,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c8dlv0v44dro</guid>
       <pubDate>Sat, 25 Apr 2026 17:07:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5294/live/181cbf10-40c8-11f1-bd52-e755d604ece4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Referee right to award Palace controversial goal - Glasner]]></title>
+      <description><![CDATA[Oliver Glasner believes the referee was right not to stop play when Liverpool goalkeeper Freddie Woodman went down with a knee injury as Daniel Munoz scored for Crystal Palace, arguing it could set a precedent if play is stopped every time a goalkeeper goes down with an apparent injury.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c8dlv0zgvl4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c8dlv0zgvl4o</guid>
+      <pubDate>Sat, 25 Apr 2026 17:10:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/361e/live/fdead050-40c7-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Spurs loss 'difficult one to take' - Edwards]]></title>
@@ -192,28 +211,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f691/live/d0a48f20-40c0-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Silva delight at Fulham's 'massive' win over Aston Villa]]></title>
-      <description><![CDATA[Marco Silva believes his side put in a "very good" performance to defeat a "top quality" Aston Villa side 1-0 at Craven Cottage in the Premier League. ]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cdj71n03n0do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cdj71n03n0do</guid>
-      <pubDate>Sat, 25 Apr 2026 14:22:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cfb/live/1323a180-40b0-11f1-bd52-e755d604ece4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Villa were not 'clinical' against Fulham - Emery]]></title>
-      <description><![CDATA[Aston Villa manager Unai Emery says his side had "good chances" to score against Fulham but were not "clinical" enough to convert them as The Villains lost 1-0 at Craven Cottage.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cp38ez07q12o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cp38ez07q12o</guid>
-      <pubDate>Sat, 25 Apr 2026 14:26:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6345/live/0b1dafc0-40b1-11f1-bd52-e755d604ece4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Forest stun Sunderland to boost survival hopes]]></title>
-      <description><![CDATA[Nottingham Forest take a huge step towards Premier League survival, beating Sunderland 5-0 to go eight points clear of the bottom three.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c77m2nge048o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c77m2nge048o</guid>
-      <pubDate>Fri, 24 Apr 2026 21:44:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d16a/live/9bcb0550-4024-11f1-b55d-0f258dce1735.jpg"/>
+      <title><![CDATA[Why is Kelly not an automatic starter for Arsenal or England?]]></title>
+      <description><![CDATA[BBC Sport discusses why Lionesses hero Chloe Kelly is not guaranteed a spot for club or country.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0q9vx180njo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0q9vx180njo</guid>
+      <pubDate>Sat, 25 Apr 2026 05:37:18 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0051/live/b8873b10-4069-11f1-af10-f9a705946513.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Guardiola found his best Man City XI]]></title>
@@ -232,20 +235,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d8/live/2ec35680-3fff-11f1-b11d-6552be9f85b2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How Lineker and Neville became rival media moguls]]></title>
-      <description><![CDATA[BBC sports editor Dan Roan examines how Gary Lineker and Gary Neville became two of the biggest players in a rapidly changing media industry.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cm293m3mr7zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm293m3mr7zo</guid>
-      <pubDate>Fri, 24 Apr 2026 09:21:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddc3/live/6a37b090-3fae-11f1-ac78-2112837ce2aa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Ramsey's marathon in memory of 'amazing' young boy]]></title>
       <description><![CDATA[Aaron Ramsey has only just retired but is running the London Marathon in memory of his friend Ceri's "amazing" son Hugh, who died of a rare cancer aged six.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c20q5990ny9o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20q5990ny9o</guid>
       <pubDate>Sat, 25 Apr 2026 04:47:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a2/live/f77204f0-401d-11f1-9293-852e61b4f7c8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How Lineker and Neville became rival media moguls]]></title>
+      <description><![CDATA[BBC sports editor Dan Roan examines how Gary Lineker and Gary Neville became two of the biggest players in a rapidly changing media industry.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cm293m3mr7zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm293m3mr7zo</guid>
+      <pubDate>Fri, 24 Apr 2026 09:21:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddc3/live/6a37b090-3fae-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sutton's predictions v Race Across the World podcast's Alfie Watts]]></title>
@@ -278,6 +281,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c239jkx0g02o</guid>
       <pubDate>Fri, 24 Apr 2026 12:53:42 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a32/live/550f50c0-3fdf-11f1-ba72-3dd058cb149f.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ex-Brighton boss Hughton reveals cancer diagnosis]]></title>
+      <description><![CDATA[Former Brighton and Newcastle manager Chris Hughton reveals he was treated for prostate cancer last year.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9370qyd5pno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9370qyd5pno</guid>
+      <pubDate>Fri, 24 Apr 2026 15:47:16 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e09/live/568b13f0-3fe2-11f1-ba10-1ba751bf6e79.jpg"/>
     </item>
     <item>
       <title><![CDATA[The remarkable rise of Chelsea's little-known interim boss]]></title>
@@ -383,6 +394,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/cpdy58d300zo</guid>
       <pubDate>Thu, 26 Mar 2026 08:32:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cbf/live/93632120-28f2-11f1-934f-036468834728.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Aberdeen on brink of safety - what next for Robinson?]]></title>
+      <description><![CDATA[Aberdeen's win over Kilmarnock moved them to the brink of safety. After an upturn in resilience and results, what next for new boss Stephen Robinson?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g8nj042y1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g8nj042y1o</guid>
+      <pubDate>Sat, 25 Apr 2026 19:51:05 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7a5/live/e63591a0-40d8-11f1-b316-3766e147ab87.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rangers fans face ban for derby amid dispute with Celtic]]></title>
