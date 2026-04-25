@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 11:07:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 11:56:39 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[All eyes on Spurs & West Ham? 'Unbelievable' Forest edge towards safety]]></title>
-      <description><![CDATA[After Nottingham Forest's stunning win at Sunderland, is the Premier League relegation battle now a two-horse race?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c30rgm097vyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c30rgm097vyo</guid>
-      <pubDate>Fri, 24 Apr 2026 22:29:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9729/live/99ebb6a0-4027-11f1-ac78-2112837ce2aa.jpg"/>
-    </item>
     <item>
       <title><![CDATA[How Guardiola found his best Man City XI]]></title>
       <description><![CDATA[Manchester City are finishing the season strongly - having looked at one stage as if the Premier League title may elude them. Here's how Pep Guardiola went through many systems to find his best team.]]></description>
@@ -38,6 +30,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g8j49dgnxo</guid>
       <pubDate>Sat, 25 Apr 2026 07:25:21 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc4e/live/62fa1b00-4077-11f1-80b8-756a74a8efeb.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[All eyes on Spurs & West Ham? 'Unbelievable' Forest edge towards safety]]></title>
+      <description><![CDATA[After Nottingham Forest's stunning win at Sunderland, is the Premier League relegation battle now a two-horse race?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c30rgm097vyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c30rgm097vyo</guid>
+      <pubDate>Fri, 24 Apr 2026 22:29:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9729/live/99ebb6a0-4027-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ramsey's marathon in memory of 'amazing' young boy]]></title>
@@ -72,20 +72,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0142/live/52b7ef00-3e39-11f1-929e-dd2b5d4dae7a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Why I stayed at 'struggling' Man Utd and didn't think we'd be third now - Fernandes]]></title>
-      <description><![CDATA[Manchester United captain Bruno Fernandes speaks to club legend Wayne Rooney in a wide-ranging interview.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0rxl475x8jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0rxl475x8jo</guid>
-      <pubDate>Fri, 24 Apr 2026 17:01:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d8/live/2ec35680-3fff-11f1-b11d-6552be9f85b2.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Sutton's predictions v Race Across the World podcast's Alfie Watts]]></title>
       <description><![CDATA[Chris Sutton takes on Race Across the World podcast travel expert Alfie Watts plus the BBC readers and AI with his predictions for this weekend's fixtures.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4gxd39xyr0o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gxd39xyr0o</guid>
       <pubDate>Thu, 23 Apr 2026 14:22:22 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6880/live/46d26dd0-3da5-11f1-b55d-0f258dce1735.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Why I stayed at 'struggling' Man Utd and didn't think we'd be third now - Fernandes]]></title>
+      <description><![CDATA[Manchester United captain Bruno Fernandes speaks to club legend Wayne Rooney in a wide-ranging interview.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0rxl475x8jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0rxl475x8jo</guid>
+      <pubDate>Fri, 24 Apr 2026 17:01:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d8/live/2ec35680-3fff-11f1-b11d-6552be9f85b2.jpg"/>
     </item>
     <item>
       <title><![CDATA[The remarkable rise of Chelsea's little-known interim boss]]></title>
@@ -368,14 +368,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa71/live/59ac51f0-3fb2-11f1-b61b-1d0ccf7b6022.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Season has been big learning experience - Trafford]]></title>
-      <description><![CDATA[Goalkeeper James Trafford says this season has been a "big learning experience" and his move to Manchester City "hasn't been the best possible outcome".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cje4j4e8dz7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cje4j4e8dz7o</guid>
-      <pubDate>Fri, 24 Apr 2026 05:06:06 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2ec/live/3a36b740-3ca9-11f1-8e26-931170ebc0de.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Any Celtic boss would back new deals for trio - O'Neill ]]></title>
       <description><![CDATA[Interim manager Martin O'Neill thinks whoever takes permanent control this summer would be happy that Liam Scales, Luke McCowan and James Forrest have been handed new deals.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cr51g41mjnqo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -511,14 +503,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1eqwpg8j30o</guid>
       <pubDate>Fri, 24 Apr 2026 10:48:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a26/live/7c8f8440-3fca-11f1-b420-d1e4d9e88a70.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What is Scotland's most iconic goal? This week - McLean v McGinn]]></title>
-      <description><![CDATA[Vote to find out what goal will be crowned Scotland's greatest.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c98qv7455e9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98qv7455e9o</guid>
-      <pubDate>Fri, 24 Apr 2026 08:54:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0745/live/fc694250-23dc-11f1-8afd-2d0cf3dc7503.jpg"/>
     </item>
     <item>
       <title><![CDATA[FC Basel postpone fixture after stadium fire]]></title>
