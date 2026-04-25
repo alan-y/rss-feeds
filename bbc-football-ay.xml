@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 14:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 15:04:00 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -32,14 +32,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd3b/live/02b76b10-3d7c-11f1-bfda-3be022b870c2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Could Spurs fans take solace from a season in the Championship?]]></title>
-      <description><![CDATA[Tottenham Hotspur fans will not want to contemplate relegation - but if the worst should happen, they may take solace from a season in the Championship.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c20377veepro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20377veepro</guid>
-      <pubDate>Sat, 25 Apr 2026 05:54:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0142/live/52b7ef00-3e39-11f1-929e-dd2b5d4dae7a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How Newcastle's 'bullies' became too nice]]></title>
       <description><![CDATA[How Eddie Howe's Newcastle have gone from regularly ruffling feathers to losing 15 Premier League games this season.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g8j49dgnxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -56,20 +48,28 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0051/live/b8873b10-4069-11f1-af10-f9a705946513.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ramsey's marathon in memory of 'amazing' young boy]]></title>
-      <description><![CDATA[Aaron Ramsey has only just retired but is running the London Marathon in memory of his friend Ceri's "amazing" son Hugh, who died of a rare cancer aged six.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c20q5990ny9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20q5990ny9o</guid>
-      <pubDate>Sat, 25 Apr 2026 04:47:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a2/live/f77204f0-401d-11f1-9293-852e61b4f7c8.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[FA Cup game: Answer our prompts for a Man City v Southampton prediction]]></title>
       <description><![CDATA[Answer our seven simple questions and get a prediction from the BBC Sport supercomputer for Saturday's FA Cup semi-final between Manchester City and Southampton.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8jkzv3xmn1o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8jkzv3xmn1o</guid>
       <pubDate>Sat, 25 Apr 2026 07:48:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1c6/live/8f1a5e00-3f66-11f1-bd52-e755d604ece4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Silva delight at Fulham's 'massive' win over Aston Villa]]></title>
+      <description><![CDATA[Marco Silva believes his side put in a "very good" performance to defeat a "top quality" Aston Villa side 1-0 at Craven Cottage in the Premier League. ]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cdj71n03n0do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cdj71n03n0do</guid>
+      <pubDate>Sat, 25 Apr 2026 14:22:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cfb/live/1323a180-40b0-11f1-bd52-e755d604ece4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Villa were not 'clinical' against Fulham - Emery]]></title>
+      <description><![CDATA[Aston Villa manager Unai Emery says his side had "good chances" to score against Fulham but were not "clinical" enough to convert them as The Villains lost 1-0 at Craven Cottage.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cp38ez07q12o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cp38ez07q12o</guid>
+      <pubDate>Sat, 25 Apr 2026 14:26:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6345/live/0b1dafc0-40b1-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Forest stun Sunderland to boost survival hopes]]></title>
@@ -96,28 +96,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11d7/live/5daf7a20-3ff3-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA['It isn't enough' - Pereira insists still work to be done]]></title>
-      <description><![CDATA[Nottingham Forest Head Coach Vitor Pereira praises his side following a destructive 5-0 win over Sunderland, but insists that they still need 'more points' in their quest to avoid relegation.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c2lw5z4e28qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c2lw5z4e28qo</guid>
-      <pubDate>Fri, 24 Apr 2026 22:14:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2832/live/e0158e40-4026-11f1-bd52-e755d604ece4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Le Bris reacts to 'painful' defeat ]]></title>
-      <description><![CDATA[Sunderland boss Regis Le Bris bemoans his sides "slow start" following a 5-0 defeat at the hands of relegation-threatened Nottingham Forest. He describes the loss as "painful", as his sides home form continues to slip.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c5yv1gy2zz5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5yv1gy2zz5o</guid>
-      <pubDate>Fri, 24 Apr 2026 22:21:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72c9/live/55d5a3d0-4028-11f1-b55d-0f258dce1735.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Hearts, Rangers, Celtic - who will lead Premiership by end of Sunday?]]></title>
       <description><![CDATA[Three teams separated by three points with just five games to go. After an epic season, the Scottish Premiership split is finally here.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn783mg6mj4o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn783mg6mj4o</guid>
       <pubDate>Fri, 24 Apr 2026 14:20:11 GMT</pubDate>
       <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed6e/live/f9b1fc40-3e90-11f1-bd52-e755d604ece4.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Ramsey's marathon in memory of 'amazing' young boy]]></title>
+      <description><![CDATA[Aaron Ramsey has only just retired but is running the London Marathon in memory of his friend Ceri's "amazing" son Hugh, who died of a rare cancer aged six.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c20q5990ny9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20q5990ny9o</guid>
+      <pubDate>Sat, 25 Apr 2026 04:47:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a2/live/f77204f0-401d-11f1-9293-852e61b4f7c8.jpg"/>
     </item>
     <item>
       <title><![CDATA[All eyes on Spurs & West Ham? 'Unbelievable' Forest edge towards safety]]></title>
@@ -160,12 +152,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9171/live/9be193e0-3f0e-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Rogers open to European move - Saturday's gossip]]></title>
-      <description><![CDATA[Morgan Rogers is open to a European move, Manuel Akanji is set to make his Inter Milan move permanent and Manchester City are confident of signing Elliot Anderson.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp8d3xm7x41o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8d3xm7x41o</guid>
-      <pubDate>Fri, 24 Apr 2026 21:52:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a0a/live/f62a69c0-401d-11f1-b55d-0f258dce1735.png"/>
+      <title><![CDATA['It isn't enough' - Pereira insists still work to be done]]></title>
+      <description><![CDATA[Nottingham Forest Head Coach Vitor Pereira praises his side following a destructive 5-0 win over Sunderland, but insists that they still need 'more points' in their quest to avoid relegation.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c2lw5z4e28qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c2lw5z4e28qo</guid>
+      <pubDate>Fri, 24 Apr 2026 22:14:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2832/live/e0158e40-4026-11f1-bd52-e755d604ece4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Le Bris reacts to 'painful' defeat ]]></title>
+      <description><![CDATA[Sunderland boss Regis Le Bris bemoans his sides "slow start" following a 5-0 defeat at the hands of relegation-threatened Nottingham Forest. He describes the loss as "painful", as his sides home form continues to slip.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c5yv1gy2zz5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c5yv1gy2zz5o</guid>
+      <pubDate>Fri, 24 Apr 2026 22:21:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72c9/live/55d5a3d0-4028-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
       <title><![CDATA['I try to stay happy' - Trafford on tricky start to life at Man City]]></title>
@@ -192,20 +192,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04c3/live/9ac22c80-3e92-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Man City focusing on winning 'all five games' in title run-in - Guardiola]]></title>
-      <description><![CDATA[Manchester City manager Pep Guardiola says his side is focusing on winning "all fives games" during the title run-in, after their 1-0 win against Burnley in the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cjr9x18y9vxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cjr9x18y9vxo</guid>
-      <pubDate>Wed, 22 Apr 2026 21:47:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc07/live/4e5ed0a0-3e92-11f1-ac78-2112837ce2aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Iraola frustrated after Leeds' equaliser was not ruled out for offside]]></title>
-      <description><![CDATA[Bournemouth boss Andoni Iraola is frustrated with the decision to not rule out Sean Longstaff's 97th-minute equaliser for Leeds as a player was "offside in front of his goalkeeper".]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cvg4y067qmlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvg4y067qmlo</guid>
-      <pubDate>Wed, 22 Apr 2026 22:01:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5a2/live/77da23f0-3e95-11f1-bd52-e755d604ece4.jpg"/>
+      <title><![CDATA[Rogers open to European move - Saturday's gossip]]></title>
+      <description><![CDATA[Morgan Rogers is open to a European move, Manuel Akanji is set to make his Inter Milan move permanent and Manchester City are confident of signing Elliot Anderson.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp8d3xm7x41o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp8d3xm7x41o</guid>
+      <pubDate>Fri, 24 Apr 2026 21:52:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a0a/live/f62a69c0-401d-11f1-b55d-0f258dce1735.png"/>
     </item>
     <item>
       <title><![CDATA[Why Wembley is special, for FA Cup semi-finals too]]></title>
@@ -224,14 +216,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddc3/live/6a37b090-3fae-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ex-Brighton boss Hughton reveals cancer diagnosis]]></title>
-      <description><![CDATA[Former Brighton and Newcastle manager Chris Hughton reveals he was treated for prostate cancer last year.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c9370qyd5pno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9370qyd5pno</guid>
-      <pubDate>Fri, 24 Apr 2026 15:47:16 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e09/live/568b13f0-3fe2-11f1-ba10-1ba751bf6e79.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How to follow the FA Cup semi-finals on the BBC]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team explain how you can watch, listen and follow the FA Cup semi-finals.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4gqpkl5k84o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -248,12 +232,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25ba/live/bac52720-3ffb-11f1-a269-2b0eab1d0b0e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Farke delighted with hard-fought point at Bournemouth]]></title>
-      <description><![CDATA[Leeds United manager Daniel Farke is full of praise for the "mentality" of his side as Sean Longstaff's 97th-minute goal earned his side a "hard-fought" point away at Bournemouth.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c62kj6zrn63o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c62kj6zrn63o</guid>
-      <pubDate>Wed, 22 Apr 2026 22:01:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4892/live/5fc15bc0-3e96-11f1-ac78-2112837ce2aa.jpg"/>
+      <title><![CDATA[Man City focusing on winning 'all five games' in title run-in - Guardiola]]></title>
+      <description><![CDATA[Manchester City manager Pep Guardiola says his side is focusing on winning "all fives games" during the title run-in, after their 1-0 win against Burnley in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cjr9x18y9vxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cjr9x18y9vxo</guid>
+      <pubDate>Wed, 22 Apr 2026 21:47:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc07/live/4e5ed0a0-3e92-11f1-ac78-2112837ce2aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Iraola frustrated after Leeds' equaliser was not ruled out for offside]]></title>
+      <description><![CDATA[Bournemouth boss Andoni Iraola is frustrated with the decision to not rule out Sean Longstaff's 97th-minute equaliser for Leeds as a player was "offside in front of his goalkeeper".]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cvg4y067qmlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvg4y067qmlo</guid>
+      <pubDate>Wed, 22 Apr 2026 22:01:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5a2/live/77da23f0-3e95-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Brighton beat Chelsea in Rosenior's final match in charge]]></title>
@@ -262,6 +254,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cz90zkz4pe7o</guid>
       <pubDate>Tue, 21 Apr 2026 21:30:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaef/live/0b381d60-3dc3-11f1-bd52-e755d604ece4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rosenior's last post-match interview as Chelsea head coach]]></title>
+      <description><![CDATA[Chelsea head coach Liam Rosenior says his side's 3-0 defeat away at Brighton was "unacceptable" from everyone involved and that things need to change.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cz90zk8x5lgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cz90zk8x5lgo</guid>
+      <pubDate>Tue, 21 Apr 2026 21:42:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f45/live/4b17b8d0-3dca-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
       <title><![CDATA[Burnley must come back stronger after 'relentless' season - Parker]]></title>
@@ -288,28 +288,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63e7/live/575f2800-3dcd-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Brighton 'dominated' game in win over Chelsea - Hurzeler]]></title>
-      <description><![CDATA[Brighton boss Fabian Hurzeler says he was impressed by the "intensity" of his side as they cruised to a dominant 3-0 win over Chelsea to boost their European hopes.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cwyxzgzq7dxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cwyxzgzq7dxo</guid>
-      <pubDate>Tue, 21 Apr 2026 21:42:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d00/live/8cb8c970-3dc8-11f1-b55d-0f258dce1735.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Can Arsenal's season be compared to McIlroy's 2025 Masters?]]></title>
-      <description><![CDATA[The Monday Night Club debate whether Arsenal's season is comparable to McIlroy's 2025 Masters.]]></description>
-      <link>https://www.bbc.com/sport/videos/c0q9xnn0324o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/videos/c0q9xnn0324o</guid>
-      <pubDate>Tue, 21 Apr 2026 10:31:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06bb/live/ffdc2ad0-3d6b-11f1-ac78-2112837ce2aa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Who will win the title? Reporters, fans and pundits make their predictions]]></title>
       <description><![CDATA[Will it be Manchester City or Arsenal for the Premier League title? BBC Sport gets pundits, reporters and fans to predict each of their remaining fixtures - and who will win the league.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn0w49y475wo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0w49y475wo</guid>
       <pubDate>Fri, 24 Apr 2026 05:48:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4387/live/249d4e80-3f3d-11f1-b23e-977dc8cd7ec8.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ex-Brighton boss Hughton reveals cancer diagnosis]]></title>
+      <description><![CDATA[Former Brighton and Newcastle manager Chris Hughton reveals he was treated for prostate cancer last year.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9370qyd5pno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9370qyd5pno</guid>
+      <pubDate>Fri, 24 Apr 2026 15:47:16 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e09/live/568b13f0-3fe2-11f1-ba10-1ba751bf6e79.jpg"/>
     </item>
     <item>
       <title><![CDATA[Prestianni gets six-match ban for homophobic conduct]]></title>
