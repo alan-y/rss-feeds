@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 26 Apr 2026 09:37:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 10:27:31 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[A long time coming but something to build on - Isak's landmark goal]]></title>
+      <description><![CDATA[Will Alexander Isak's first Liverpool Premier League goal at Anfield prove a turning point for the £125m signing?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gvny935yno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gvny935yno</guid>
+      <pubDate>Sun, 26 Apr 2026 10:05:28 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c290/live/ee29b070-40d4-11f1-bc1e-cd04b01930d9.jpg"/>
+    </item>
     <item>
       <title><![CDATA['It's not done' - Arsenal back up Rice's words with crucial win]]></title>
       <description><![CDATA[Arsenal deliver on Declan Rice's promise that the Premier League title race is "not done" with an important win over Newcastle.]]></description>
@@ -40,14 +48,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c881/live/ef84f120-40c8-11f1-8142-39fa2cacf9a1.png"/>
     </item>
     <item>
-      <title><![CDATA[Has Salah played last Liverpool game? Slot says 'wait and see']]></title>
-      <description><![CDATA[Liverpool will have to "wait and see" whether Mohamed Salah has played his final game for the club, says manager Arne Slot.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce3d9e20v9po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3d9e20v9po</guid>
-      <pubDate>Sat, 25 Apr 2026 17:22:44 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cce/live/8d14dba0-40c7-11f1-9af5-0bf991029b02.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why being in an FA Cup semi-final means so much to Leeds fans]]></title>
       <description><![CDATA[BBC Sport looks at why the FA Cup semi-final against Chelsea means so much to long-suffering Leeds United fans.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cqj85821kreo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -62,14 +62,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg3x59yxr3o</guid>
       <pubDate>Sun, 26 Apr 2026 07:10:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c37/live/0f6e5b50-40a8-11f1-bd52-e755d604ece4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Could 'outstanding' Maeda's return to form give Celtic title edge?]]></title>
-      <description><![CDATA[Celtic forward Daizen Maeda is recapturing his best form as Celtic look to pip Hearts and Rangers to the Scottish Premiership title.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c93ervqxx6xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93ervqxx6xo</guid>
-      <pubDate>Sat, 25 Apr 2026 21:12:31 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/1b73af40-40e9-11f1-a082-d7855cb345fe.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man City beat Southampton to reach FA Cup final]]></title>
@@ -120,60 +112,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c8b/live/1feacb30-40b7-11f1-9af5-0bf991029b02.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Could 'outstanding' Maeda's return to form give Celtic title edge?]]></title>
+      <description><![CDATA[Celtic forward Daizen Maeda is recapturing his best form as Celtic look to pip Hearts and Rangers to the Scottish Premiership title.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c93ervqxx6xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c93ervqxx6xo</guid>
+      <pubDate>Sat, 25 Apr 2026 21:12:31 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/1b73af40-40e9-11f1-a082-d7855cb345fe.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Has Salah played last Liverpool game? Slot says 'wait and see']]></title>
+      <description><![CDATA[Liverpool will have to "wait and see" whether Mohamed Salah has played his final game for the club, says manager Arne Slot.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce3d9e20v9po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3d9e20v9po</guid>
+      <pubDate>Sat, 25 Apr 2026 17:22:44 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cce/live/8d14dba0-40c7-11f1-9af5-0bf991029b02.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Kinsky's save, Palhinha's relief and - finally - a Tottenham win]]></title>
       <description><![CDATA[Tottenham end their long wait for a Premier League win with victory at Wolves - lifting their survival hopes in the process.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cvg424zgpz8o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg424zgpz8o</guid>
       <pubDate>Sat, 25 Apr 2026 18:14:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84a9/live/b1afb590-40ca-11f1-bd52-e755d604ece4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What's on the line as WSL reaches business end?]]></title>
-      <description><![CDATA[BBC Sport analyses the state of play in the Women's Super League with only a handful of games to go and the title, European qualification, relegation and promotion still to be decided.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c393gwl8mzko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c393gwl8mzko</guid>
-      <pubDate>Sun, 26 Apr 2026 07:54:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1801/live/bfe6d1b0-40cb-11f1-b55d-0f258dce1735.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Chelsea team news leaks 'need to stop' - McFarlane]]></title>
-      <description><![CDATA[Chelsea interim boss Calum McFarlane says team news leaks "need to stop" but insists the issue has been "addressed" as they prepare for their FA Cup semi-final against Leeds.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp38e8z3wnyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp38e8z3wnyo</guid>
-      <pubDate>Sat, 25 Apr 2026 21:59:49 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22a/live/89cb2a80-40a9-11f1-9cb2-cda518707cb6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Arsenal in talks with Araujo - Sunday's gossip]]></title>
-      <description><![CDATA[Arsenal have started moving for Maxi Araujo, Manchester United are planning a squad overhaul and Ederson is on the Red Devils' shortlist.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce8l9lp72jgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8l9lp72jgo</guid>
-      <pubDate>Sat, 25 Apr 2026 20:22:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/244f/live/173dee70-40e1-11f1-ac78-2112837ce2aa.png"/>
-    </item>
-    <item>
-      <title><![CDATA[FA Cup game: Create a Chelsea v Leeds prediction by answering our prompts]]></title>
-      <description><![CDATA[Answer our seven simple questions and get a prediction from the BBC Sport supercomputer for Saturday's FA Cup semi-final between Chelsea and Leeds.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c895z3w88e5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c895z3w88e5o</guid>
-      <pubDate>Sun, 26 Apr 2026 06:51:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9598/live/cb4644f0-4099-11f1-ac78-2112837ce2aa.png"/>
-    </item>
-    <item>
-      <title><![CDATA[A long time coming but something to build on - Isak's landmark goal]]></title>
-      <description><![CDATA[Will Alexander Isak's first Liverpool Premier League goal at Anfield prove a turning point for the £125m signing?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gvny935yno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gvny935yno</guid>
-      <pubDate>Sat, 25 Apr 2026 18:34:04 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c290/live/ee29b070-40d4-11f1-bc1e-cd04b01930d9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Aberdeen on brink of safety - what next for Robinson?]]></title>
-      <description><![CDATA[Aberdeen's win over Kilmarnock moved them to the brink of safety. After an upturn in resilience and results, what next for new boss Stephen Robinson?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g8nj042y1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g8nj042y1o</guid>
-      <pubDate>Sat, 25 Apr 2026 19:51:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7a5/live/e63591a0-40d8-11f1-b316-3766e147ab87.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why is Kelly not an automatic starter for Arsenal or England?]]></title>
@@ -184,12 +144,44 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0051/live/b8873b10-4069-11f1-af10-f9a705946513.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Jeglertz not worried by Man City title wobble - should he be?]]></title>
-      <description><![CDATA[Manchester City head coach Andree Jeglertz brushes off a setback in his team's WSL title pursuit, but Arsenal could soon be breathing down their necks.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c625p5me6z2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c625p5me6z2o</guid>
-      <pubDate>Sat, 25 Apr 2026 17:22:15 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19b6/live/d350c790-40b9-11f1-9af5-0bf991029b02.jpg"/>
+      <title><![CDATA[Chelsea team news leaks 'need to stop' - McFarlane]]></title>
+      <description><![CDATA[Chelsea interim boss Calum McFarlane says team news leaks "need to stop" but insists the issue has been "addressed" as they prepare for their FA Cup semi-final against Leeds.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp38e8z3wnyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp38e8z3wnyo</guid>
+      <pubDate>Sat, 25 Apr 2026 21:59:49 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22a/live/89cb2a80-40a9-11f1-9cb2-cda518707cb6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[FA Cup game: Create a Chelsea v Leeds prediction by answering our prompts]]></title>
+      <description><![CDATA[Answer our seven simple questions and get a prediction from the BBC Sport supercomputer for Saturday's FA Cup semi-final between Chelsea and Leeds.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c895z3w88e5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c895z3w88e5o</guid>
+      <pubDate>Sun, 26 Apr 2026 06:51:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9598/live/cb4644f0-4099-11f1-ac78-2112837ce2aa.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Arsenal in talks with Araujo - Sunday's gossip]]></title>
+      <description><![CDATA[Arsenal have started moving for Maxi Araujo, Manchester United are planning a squad overhaul and Ederson is on the Red Devils' shortlist.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce8l9lp72jgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8l9lp72jgo</guid>
+      <pubDate>Sat, 25 Apr 2026 20:22:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/244f/live/173dee70-40e1-11f1-ac78-2112837ce2aa.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Ups, downs and the race for Europe]]></title>
+      <description><![CDATA[All you need to know about promotion, relegation and qualification for Europe in England and Scotland's top men's football leagues, and the Women's Super League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4gq030l414o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gq030l414o</guid>
+      <pubDate>Sat, 25 Apr 2026 16:22:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34cb/live/ae48e890-3aa3-11f1-9480-e5fcbe143b8e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Aberdeen on brink of safety - what next for Robinson?]]></title>
+      <description><![CDATA[Aberdeen's win over Kilmarnock moved them to the brink of safety. After an upturn in resilience and results, what next for new boss Stephen Robinson?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g8nj042y1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g8nj042y1o</guid>
+      <pubDate>Sat, 25 Apr 2026 19:51:05 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7a5/live/e63591a0-40d8-11f1-b316-3766e147ab87.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sessegnon strike helps Fulham sink Villa]]></title>
@@ -232,12 +224,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec88/live/84e91060-40de-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ramsey's marathon in memory of 'amazing' young boy]]></title>
-      <description><![CDATA[Aaron Ramsey has only just retired but is running the London Marathon in memory of his friend Ceri's "amazing" son Hugh, who died of a rare cancer aged six.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c20q5990ny9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20q5990ny9o</guid>
-      <pubDate>Sat, 25 Apr 2026 04:47:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a2/live/f77204f0-401d-11f1-9293-852e61b4f7c8.jpg"/>
+      <title><![CDATA[What's on the line as WSL reaches business end?]]></title>
+      <description><![CDATA[BBC Sport analyses the state of play in the Women's Super League with only a handful of games to go and the title, European qualification, relegation and promotion still to be decided.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c393gwl8mzko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c393gwl8mzko</guid>
+      <pubDate>Sun, 26 Apr 2026 07:54:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1801/live/bfe6d1b0-40cb-11f1-b55d-0f258dce1735.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Jeglertz not worried by Man City title wobble - should he be?]]></title>
+      <description><![CDATA[Manchester City head coach Andree Jeglertz brushes off a setback in his team's WSL title pursuit, but Arsenal could soon be breathing down their necks.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c625p5me6z2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c625p5me6z2o</guid>
+      <pubDate>Sat, 25 Apr 2026 17:22:15 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19b6/live/d350c790-40b9-11f1-9af5-0bf991029b02.jpg"/>
     </item>
     <item>
       <title><![CDATA[Oxford relegated after two years in Championship]]></title>
@@ -302,14 +302,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c8dlv0v44dro</guid>
       <pubDate>Sat, 25 Apr 2026 17:07:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5294/live/181cbf10-40c8-11f1-bd52-e755d604ece4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ups, downs and the race for Europe]]></title>
-      <description><![CDATA[All you need to know about promotion, relegation and qualification for Europe in England and Scotland's top men's football leagues, and the Women's Super League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4gq030l414o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4gq030l414o</guid>
-      <pubDate>Sat, 25 Apr 2026 16:22:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34cb/live/ae48e890-3aa3-11f1-9480-e5fcbe143b8e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sutton's predictions v Race Across the World podcast's Alfie Watts]]></title>
@@ -471,14 +463,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgj0d8dz5dgo</guid>
       <pubDate>Tue, 07 Apr 2026 20:39:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8260/live/f7470000-32b9-11f1-8551-ebe7c5dd79d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd hopeful of Toone return at Spurs]]></title>
-      <description><![CDATA[Manchester United midfielder Ella Toone will train on Friday and could return after four months out with injury at Tottenham on Sunday.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3exleekeyjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3exleekeyjo</guid>
-      <pubDate>Fri, 24 Apr 2026 09:38:11 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cba1/live/3cd2d6f0-3fbf-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
       <title><![CDATA[When football turned to penalties to end 'cruel' system]]></title>
