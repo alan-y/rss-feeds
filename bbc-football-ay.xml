@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 26 Apr 2026 10:27:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 11:25:11 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -56,14 +56,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc12/live/898dddf0-40aa-11f1-9cb2-cda518707cb6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Quiet confidence, then tears - but 'unsinkable' Coventry are back]]></title>
-      <description><![CDATA[BBC Sport speaks to three teenagers who were in the crowd when Coventry were relegated from the top flight in 2001.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvg3x59yxr3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg3x59yxr3o</guid>
-      <pubDate>Sun, 26 Apr 2026 07:10:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c37/live/0f6e5b50-40a8-11f1-bd52-e755d604ece4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Man City beat Southampton to reach FA Cup final]]></title>
       <description><![CDATA[Manchester City score two goals in five minutes to secure a late comeback victory against Southampton and reach their fourth FA Cup final in a row.]]></description>
       <link>https://www.bbc.com/sport/football/videos/c1kr9l2xy07o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -104,14 +96,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ec/live/b591a250-40d8-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Their day, until it wasn't - the title decider that had it all]]></title>
-      <description><![CDATA[Two goals in stoppage time and pitch invasions by both sets of fans. The last day of the National League season lived up to its billing.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c62kpkm1l80o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62kpkm1l80o</guid>
-      <pubDate>Sat, 25 Apr 2026 16:18:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c8b/live/1feacb30-40b7-11f1-9af5-0bf991029b02.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Could 'outstanding' Maeda's return to form give Celtic title edge?]]></title>
       <description><![CDATA[Celtic forward Daizen Maeda is recapturing his best form as Celtic look to pip Hearts and Rangers to the Scottish Premiership title.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c93ervqxx6xo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -120,12 +104,28 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/1b73af40-40e9-11f1-a082-d7855cb345fe.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Their day, until it wasn't - the title decider that had it all]]></title>
+      <description><![CDATA[Two goals in stoppage time and pitch invasions by both sets of fans. The last day of the National League season lived up to its billing.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c62kpkm1l80o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62kpkm1l80o</guid>
+      <pubDate>Sat, 25 Apr 2026 16:18:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c8b/live/1feacb30-40b7-11f1-9af5-0bf991029b02.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Has Salah played last Liverpool game? Slot says 'wait and see']]></title>
       <description><![CDATA[Liverpool will have to "wait and see" whether Mohamed Salah has played his final game for the club, says manager Arne Slot.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ce3d9e20v9po?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3d9e20v9po</guid>
       <pubDate>Sat, 25 Apr 2026 17:22:44 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cce/live/8d14dba0-40c7-11f1-9af5-0bf991029b02.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Quiet confidence, then tears - but 'unsinkable' Coventry are back]]></title>
+      <description><![CDATA[BBC Sport speaks to three teenagers who were in the crowd when Coventry were relegated from the top flight in 2001.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvg3x59yxr3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvg3x59yxr3o</guid>
+      <pubDate>Sun, 26 Apr 2026 07:10:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c37/live/0f6e5b50-40a8-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Kinsky's save, Palhinha's relief and - finally - a Tottenham win]]></title>
