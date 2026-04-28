@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 04:09:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 06:47:12 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[The Chinese sports brand taking on Nike and Adidas]]></title>
+      <description><![CDATA[Now one of the biggest sportswear firms, Anta's rise follows a playbook adopted by many Chinese giants.]]></description>
+      <link>https://www.bbc.com/news/articles/c87r2d850q4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c87r2d850q4o</guid>
+      <pubDate>Mon, 27 Apr 2026 07:09:42 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/258b/live/1d2ef320-3f91-11f1-803a-036a9bbb46d5.jpg"/>
+    </item>
     <item>
       <title><![CDATA[China weathered Trump's tariffs - but the Iran war is taking a toll]]></title>
       <description><![CDATA[The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.]]></description>
@@ -40,20 +48,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00a0/live/a3779360-3e29-11f1-8ba5-cfdd8d3337ac.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Art on trial - a sculptor's arrest highlights new extremes for censorship in China]]></title>
-      <description><![CDATA[Gao Zhen is being retroactively punished for 15 year-old-works, in a case that has alarmed rights groups.]]></description>
-      <link>https://www.bbc.com/news/articles/cddqpr7z74yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cddqpr7z74yo</guid>
-      <pubDate>Sun, 19 Apr 2026 22:53:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5312/live/d2315560-3bf9-11f1-808b-d530aa7a4025.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Chinese carmaker patents voice-controlled 'in-vehicle toilet']]></title>
       <description><![CDATA[Seres' plans show how stiff competition in the EV space is putting pressure on carmakers to innovate.]]></description>
       <link>https://www.bbc.com/news/articles/c1l92yv4mydo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c1l92yv4mydo</guid>
       <pubDate>Fri, 17 Apr 2026 06:35:57 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a0/live/1b561a10-3a23-11f1-a008-0b28622386db.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Art on trial - a sculptor's arrest highlights new extremes for censorship in China]]></title>
+      <description><![CDATA[Gao Zhen is being retroactively punished for 15 year-old-works, in a case that has alarmed rights groups.]]></description>
+      <link>https://www.bbc.com/news/articles/cddqpr7z74yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cddqpr7z74yo</guid>
+      <pubDate>Sun, 19 Apr 2026 22:53:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5312/live/d2315560-3bf9-11f1-808b-d530aa7a4025.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why was a £1.5bn Chinese plan to invest in a Highland yard blocked?]]></title>
@@ -78,14 +86,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cyv9lzn0816o</guid>
       <pubDate>Wed, 18 Mar 2026 23:31:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c02e/live/fa99e260-2290-11f1-a268-8f21a3f62cfd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Tigers and flies': Millions of officials later, why is Xi's corruption purge still going?]]></title>
-      <description><![CDATA[Critics say Xi's purges reveal a ruthless drive for absolute loyalty and total control of the military.]]></description>
-      <link>https://www.bbc.com/news/articles/c78xxyyqwe7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c78xxyyqwe7o</guid>
-      <pubDate>Fri, 13 Mar 2026 23:08:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12ea/live/99535ca0-1f09-11f1-801d-ed3cff6bf876.jpg"/>
     </item>
   </channel>
 </rss>
