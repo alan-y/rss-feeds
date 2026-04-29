@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 16:57:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:12:22 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Liverpool expect Salah return before end of season]]></title>
+      <description><![CDATA[Liverpool expect Mohamed Salah to return from injury before the end of the season after he was forced off against Crystal Palace on Saturday.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crlp8npylnpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crlp8npylnpo</guid>
+      <pubDate>Wed, 29 Apr 2026 17:57:25 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eef/live/e4166140-43f0-11f1-9113-1988573e8ff7.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Chelsea's Mudryk appeals against four-year FA ban]]></title>
       <description><![CDATA[Chelsea winger Mykhailo Mudryk takes his fight against a Football Association drugs ban to the Court of Arbitration for Sport.]]></description>
@@ -36,7 +44,7 @@
       <description><![CDATA[Real Zaragoza goalkeeper Esteban Andrada is banned for 13 matches after punching a Huesca player in the face.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c3r2ldyw92yo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3r2ldyw92yo</guid>
-      <pubDate>Wed, 29 Apr 2026 14:17:22 GMT</pubDate>
+      <pubDate>Wed, 29 Apr 2026 18:05:06 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95d0/live/e0e03820-43d2-11f1-9af4-8da083d1de21.jpg"/>
     </item>
     <item>
@@ -88,30 +96,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8108/live/f18a0990-4331-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[The Man Utd kids tipped to shine in pre-season]]></title>
-      <description><![CDATA[Which Manchester United youngsters are most likely to be pushing for inclusion on their pre-season tour in July?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqjplgg7kywo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqjplgg7kywo</guid>
-      <pubDate>Wed, 29 Apr 2026 07:00:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2047/live/53ac2a50-432c-11f1-ac78-2112837ce2aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why Mourinho could be Real's 'ultimate wildcard']]></title>
-      <description><![CDATA[With Real Madrid out of the Champions League, and falling behind in La Liga, noise around manager Alvaro Arbeloa's future is unsurprisingly increasing. Could Jose Mourinho be the answer?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy02ny5dxjgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy02ny5dxjgo</guid>
-      <pubDate>Tue, 28 Apr 2026 18:20:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/793b/live/535380d0-431d-11f1-89cc-ff708b4a3776.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Can Griezmann end his Atletico love story in style?]]></title>
-      <description><![CDATA[Antoine Griezmann's long love affair with Atletico Madrid is drawing to a close, but can the Frenchman bid farewell by securing the Champions League?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c202l6yxvmxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c202l6yxvmxo</guid>
-      <pubDate>Wed, 29 Apr 2026 05:07:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e116/live/27e8d0b0-4306-11f1-8d32-27ce5a537ca2.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[All I want to do is help as much as I can - Grealish]]></title>
       <description><![CDATA[England midfielder Jack Grealish speaks to Joe Wilson about extending his Special Olympics GB ambassador role and what it means to him.]]></description>
       <link>https://www.bbc.com/sport/football/articles/ce9pzdk9npko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -152,6 +136,30 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0410/live/c9fd2160-4281-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Can Griezmann end his Atletico love story in style?]]></title>
+      <description><![CDATA[Antoine Griezmann's long love affair with Atletico Madrid is drawing to a close, but can the Frenchman bid farewell by securing the Champions League?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c202l6yxvmxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c202l6yxvmxo</guid>
+      <pubDate>Wed, 29 Apr 2026 05:07:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e116/live/27e8d0b0-4306-11f1-8d32-27ce5a537ca2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[The Man Utd kids tipped to shine in pre-season]]></title>
+      <description><![CDATA[Which Manchester United youngsters are most likely to be pushing for inclusion on their pre-season tour in July?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqjplgg7kywo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqjplgg7kywo</guid>
+      <pubDate>Wed, 29 Apr 2026 07:00:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2047/live/53ac2a50-432c-11f1-ac78-2112837ce2aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Why Mourinho could be Real's 'ultimate wildcard']]></title>
+      <description><![CDATA[With Real Madrid out of the Champions League, and falling behind in La Liga, noise around manager Alvaro Arbeloa's future is unsurprisingly increasing. Could Jose Mourinho be the answer?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy02ny5dxjgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy02ny5dxjgo</guid>
+      <pubDate>Tue, 28 Apr 2026 18:20:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/793b/live/535380d0-431d-11f1-89cc-ff708b4a3776.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Afghanistan women can return to competition]]></title>
       <description><![CDATA[Afghanistan women will become a "symbol of resilience" after Fifa approved their return to international competition, says former captain Khalida Popal.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c74rlepjdrgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -174,30 +182,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgrpjzxvx4ko</guid>
       <pubDate>Tue, 28 Apr 2026 21:55:18 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fda1/live/12696020-434b-11f1-8621-6956c7a268ce.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man City left frustrated by fixture pile-up]]></title>
-      <description><![CDATA[Manchester City face a fixture pile-up of four games in 11 days next month after the Premier League confirmed the rescheduled dates for two of their key matches in the race for the title.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cm2pn84y1r3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2pn84y1r3o</guid>
-      <pubDate>Tue, 28 Apr 2026 15:26:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/611b/live/16ad7870-4309-11f1-bca5-158773f8e356.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Will Vipotnik be the next big Championship exit?  ]]></title>
-      <description><![CDATA[The future of Zan Vipotnik looks set to be the transfer storyline of the summer at Swansea City, with the Welsh club expecting interest in their star striker. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5ye5k6zxn5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5ye5k6zxn5o</guid>
-      <pubDate>Tue, 28 Apr 2026 14:21:33 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e06f/live/e0d03e30-4304-11f1-8f44-65d2172cbb44.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Players who cover mouths face red card at World Cup]]></title>
-      <description><![CDATA[Players who cover their mouths when speaking to opponents during confrontations should be sent off, says Gianni Infantino.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c202rgdlqxqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c202rgdlqxqo</guid>
-      <pubDate>Tue, 28 Apr 2026 19:09:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a04/live/13af5700-4332-11f1-b41f-6d23471e6e69.jpg"/>
     </item>
     <item>
       <title><![CDATA[Andrews 'bitterly disappointed' after Brentford lose at Man Utd]]></title>
@@ -240,20 +224,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d40/live/abc60cb0-4192-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Man City left frustrated by fixture pile-up]]></title>
+      <description><![CDATA[Manchester City face a fixture pile-up of four games in 11 days next month after the Premier League confirmed the rescheduled dates for two of their key matches in the race for the title.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cm2pn84y1r3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2pn84y1r3o</guid>
+      <pubDate>Tue, 28 Apr 2026 15:26:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/611b/live/16ad7870-4309-11f1-bca5-158773f8e356.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Players who cover mouths face red card at World Cup]]></title>
+      <description><![CDATA[Players who cover their mouths when speaking to opponents during confrontations should be sent off, says Gianni Infantino.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c202rgdlqxqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c202rgdlqxqo</guid>
+      <pubDate>Tue, 28 Apr 2026 19:09:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a04/live/13af5700-4332-11f1-b41f-6d23471e6e69.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Rangers have more chance of title than Celtic - Sutton]]></title>
       <description><![CDATA[Former Celtic striker Chris Sutton believes arch-rivals Rangers have more chance of winning the Scottish Premiership this season than the Parkhead club. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c152gw55e40o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c152gw55e40o</guid>
       <pubDate>Tue, 28 Apr 2026 12:07:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b47/live/3b9f1500-42f8-11f1-ac78-2112837ce2aa.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Why visit of Newcastle's Saudi owners is being talked about]]></title>
-      <description><![CDATA[Newcastle United's owners and executives are convening this week to plot the club's future.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgwgp107d0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgwgp107d0o</guid>
-      <pubDate>Tue, 28 Apr 2026 08:32:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6361/live/b6ddd830-42d7-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Tactical stoppages need clamping down on - Murphy]]></title>
@@ -310,6 +302,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c1kr9l2xy07o</guid>
       <pubDate>Sat, 25 Apr 2026 19:00:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee47/live/e6f89380-40d8-11f1-ac78-2112837ce2aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Why visit of Newcastle's Saudi owners is being talked about]]></title>
+      <description><![CDATA[Newcastle United's owners and executives are convening this week to plot the club's future.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgwgp107d0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgwgp107d0o</guid>
+      <pubDate>Tue, 28 Apr 2026 08:32:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6361/live/b6ddd830-42d7-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Reign ease concerns over Wales legend Fishlock]]></title>
@@ -382,22 +382,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqjpl4zj0ezo</guid>
       <pubDate>Tue, 28 Apr 2026 07:31:10 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeb0/live/f3a9fa70-42d0-11f1-9cf2-2b2a184d3db3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Who's next for Premier League relegation? ]]></title>
-      <description><![CDATA[BBC Sport's Ask Me Anything team looks at the Premier League relegation battle.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yxm85vn0do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yxm85vn0do</guid>
-      <pubDate>Wed, 29 Apr 2026 09:02:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b815/live/3011bf90-3d7a-11f1-bd52-e755d604ece4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Arsenal defender Catley signs new contract]]></title>
-      <description><![CDATA[Arsenal and Australia defender Steph Catley signs a new contract with the Women's Super League club. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c172ggye84do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c172ggye84do</guid>
-      <pubDate>Tue, 28 Apr 2026 09:01:28 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0bf/live/4df056a0-42e0-11f1-a889-2784bcc3471b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Making history and facing Neymar - Lingard on life in Brazil]]></title>
@@ -569,12 +553,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8260/live/f7470000-32b9-11f1-8551-ebe7c5dd79d2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Champions League at risk for Man Utd so what next for Skinner?]]></title>
-      <description><![CDATA[Securing Women's Champions League football for next season is now out of Manchester United's hands - so where does that leave manager Marc Skinner?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgeg7zd0yyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgeg7zd0yyo</guid>
-      <pubDate>Mon, 27 Apr 2026 14:33:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7944/live/6ee35e50-421f-11f1-827d-0530974dfb93.jpg"/>
+      <title><![CDATA[Arsenal defender Catley signs new contract]]></title>
+      <description><![CDATA[Arsenal and Australia defender Steph Catley signs a new contract with the Women's Super League club. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c172ggye84do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c172ggye84do</guid>
+      <pubDate>Tue, 28 Apr 2026 09:01:28 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0bf/live/4df056a0-42e0-11f1-a889-2784bcc3471b.jpg"/>
     </item>
     <item>
       <title><![CDATA[When football turned to penalties to end 'cruel' system]]></title>
