@@ -10,18 +10,26 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 30 Apr 2026 12:57:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 15:11:41 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[OpenAI tells ChatGPT models to stop talking about goblins]]></title>
+      <description><![CDATA[The AI firm said that unlike previous model bugs, this issue "crept in subtly".]]></description>
+      <link>https://www.bbc.com/news/articles/c5y9wen5z8ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y9wen5z8ro</guid>
+      <pubDate>Thu, 30 Apr 2026 13:28:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59f6/live/c5f91930-448d-11f1-a489-415d5f34146a.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Meta in row after workers who say they saw smart glasses users having sex lose jobs]]></title>
       <description><![CDATA[Meta and its subcontractor disagree over why over 1000 Kenya-based workers were made redundant.]]></description>
       <link>https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y7yvgy0w6o</guid>
       <pubDate>Thu, 30 Apr 2026 08:59:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6037/live/f8d385c0-4307-11f1-8d32-27ce5a537ca2.jpg"/>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef60/live/2404fb20-4498-11f1-b4a4-6ff2bccf200b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony]]></title>
@@ -114,14 +122,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cq6je7e80r7o</guid>
       <pubDate>Fri, 24 Apr 2026 22:45:28 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec15/live/307f0f70-402f-11f1-8291-7d925c845158.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[UK cyber chiefs say it's time to ditch passwords for passkeys - what are they?]]></title>
-      <description><![CDATA[Passwords have long been the default way we secure accounts online but the NCSC has said passkeys are a better option.]]></description>
-      <link>https://www.bbc.com/news/articles/cq8wnzly5j5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq8wnzly5j5o</guid>
-      <pubDate>Fri, 24 Apr 2026 14:40:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7683/live/03337050-3fd6-11f1-aec8-9b10f844369d.jpg"/>
     </item>
   </channel>
 </rss>
