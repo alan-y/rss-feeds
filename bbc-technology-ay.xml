@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 30 Apr 2026 16:50:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 18:09:25 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Twitch streamer hit by car live on camera - 'It felt like slow motion']]></title>
+      <description><![CDATA[Isaiah Thomas, known as hmblzayy, was walking a 3,000-mile challenge when he was hit]]></description>
+      <link>https://www.bbc.com/news/articles/cn8pjz2qwego?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8pjz2qwego</guid>
+      <pubDate>Thu, 30 Apr 2026 17:24:25 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f84/live/95b66210-44a0-11f1-9b4f-919a6264e39f.png"/>
+    </item>
     <item>
       <title><![CDATA[OpenAI tells ChatGPT models to stop talking about goblins]]></title>
       <description><![CDATA[The AI firm said that unlike previous model bugs, the issue "crept in subtly".]]></description>
@@ -113,15 +121,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gjkj7975po</guid>
       <pubDate>Sat, 25 Apr 2026 01:18:33 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61d7/live/ab8ccad0-3d8d-11f1-92be-b5fcda70efcc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account]]></title>
-      <description><![CDATA[Sam Altman on Thursday wrote a brief letter of apology to the people of Tumbler Ridge, Canada in the wake of a January mass shooting.
-]]></description>
-      <link>https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq6je7e80r7o</guid>
-      <pubDate>Fri, 24 Apr 2026 22:45:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec15/live/307f0f70-402f-11f1-8291-7d925c845158.jpg"/>
     </item>
   </channel>
 </rss>
