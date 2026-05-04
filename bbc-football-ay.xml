@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 04 May 2026 12:06:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 14:33:40 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -56,14 +56,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f76/live/546a37b0-47a1-11f1-a815-8703cc282724.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Davide Ancelotti: My dad, my tactics and Brazil's World Cup prospects]]></title>
-      <description><![CDATA[Brazil assistant manager Davide Ancelotti sits down with BBC Sport's tactics expert Umir Irfan to discuss his coaching philosophy, inspirations and ideals.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clyp3y9lwjdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyp3y9lwjdo</guid>
-      <pubDate>Mon, 04 May 2026 06:31:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d558/live/95fecbe0-43d3-11f1-bd52-e755d604ece4.png"/>
-    </item>
-    <item>
       <title><![CDATA[A huge night for Spurs - but who are favourites to go down?]]></title>
       <description><![CDATA[Tottenham's 2-1 win at Aston Villa moved them out of the Premier League relegation zone - but who are now the favourites to go down?]]></description>
       <link>https://www.bbc.com/sport/football/articles/cpdpnjjlp18o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -86,6 +78,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78q6n3z8e5o</guid>
       <pubDate>Sun, 03 May 2026 16:40:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad25/live/ce136d90-470e-11f1-8bd0-c9ca96b627c7.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Quiz: Name every Man Utd goalscorer against Liverpool since 2010]]></title>
+      <description><![CDATA[From 2010 to the present day, there have been 23 players who have scored for Manchester United against Liverpool in the Premier League. Can you name them all in our quiz?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c62674j09gdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62674j09gdo</guid>
+      <pubDate>Mon, 04 May 2026 10:41:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34d5/live/f3c9c730-47a1-11f1-a815-8703cc282724.jpg"/>
     </item>
     <item>
       <title><![CDATA[Spurs out of relegation zone with Villa win]]></title>
@@ -128,12 +128,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f48/live/2aec14f0-4740-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Quiz: Name every Man Utd goalscorer against Liverpool since 2010]]></title>
-      <description><![CDATA[From 2010 to the present day, there have been 23 players who have scored for Manchester United against Liverpool in the Premier League. Can you name them all in our quiz?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c62674j09gdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62674j09gdo</guid>
-      <pubDate>Mon, 04 May 2026 10:41:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34d5/live/f3c9c730-47a1-11f1-a815-8703cc282724.jpg"/>
+      <title><![CDATA[Davide Ancelotti: My dad, my tactics and Brazil's World Cup prospects]]></title>
+      <description><![CDATA[Brazil assistant manager Davide Ancelotti sits down with BBC Sport's tactics expert Umir Irfan to discuss his coaching philosophy, inspirations and ideals.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clyp3y9lwjdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clyp3y9lwjdo</guid>
+      <pubDate>Mon, 04 May 2026 06:31:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d558/live/95fecbe0-43d3-11f1-bd52-e755d604ece4.png"/>
     </item>
     <item>
       <title><![CDATA[Manager Marcelino to leave Villarreal]]></title>
@@ -154,14 +154,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c88f/live/71436690-477e-11f1-ac78-2112837ce2aa.png"/>
     </item>
     <item>
-      <title><![CDATA[Slot's VAR fury but loss highlights Liverpool issues]]></title>
-      <description><![CDATA[Liverpool manager Arne Slot was furious that Manchester United's second goal was allowed, but also highlighted issues with his own side after the 3-2 defeat.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c242nrvy17vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c242nrvy17vo</guid>
-      <pubDate>Sun, 03 May 2026 19:07:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2cc/live/043e8240-472a-11f1-bd4d-e9da5e2b6722.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[North Korean side to make rare trip to South Korea]]></title>
       <description><![CDATA[A team of North Korean footballers will make a rare visit to South Korea later this month.
 
@@ -180,6 +172,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7127/live/21045890-46f9-11f1-9217-a5b6a670d3f7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Slot's VAR fury but loss highlights Liverpool issues]]></title>
+      <description><![CDATA[Liverpool manager Arne Slot was furious that Manchester United's second goal was allowed, but also highlighted issues with his own side after the 3-2 defeat.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c242nrvy17vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c242nrvy17vo</guid>
+      <pubDate>Sun, 03 May 2026 19:07:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2cc/live/043e8240-472a-11f1-bd4d-e9da5e2b6722.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Ferguson taken to hospital as precaution before Man Utd v Liverpool]]></title>
       <description><![CDATA[Sir Alex Ferguson is taken to hospital after falling unwell at Old Trafford shortly before Manchester United's Premier League match with Liverpool on Sunday.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c0r2nvpvylxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -188,28 +188,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc64/live/27c200f0-46fa-11f1-9217-a5b6a670d3f7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Juventus target Man City's Reijnders - Monday's gossip]]></title>
+      <description><![CDATA[Juventus target Man City's Tijjani Reijnders, Newcastle hope to retain striker Will Osula, Crystal Palace and Chelsea eye Bournemouth boss Andoni Iraola, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgzpnzv997o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgzpnzv997o</guid>
+      <pubDate>Sun, 03 May 2026 21:51:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32f4/live/0fe50010-4739-11f1-ac78-2112837ce2aa.png"/>
+    </item>
+    <item>
       <title><![CDATA[What would it cost England and Scotland fans to go to World Cup?]]></title>
       <description><![CDATA[High ticket prices, expensive accommodation and train fares way above normal rates. If you want to book a World Cup trip now, this is what it would cost.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cpwp81jz7vdo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwp81jz7vdo</guid>
       <pubDate>Sun, 03 May 2026 05:54:25 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac3b/live/020c0c20-46cd-11f1-ac5d-7f11fd490a20.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Howe set to stay in charge of Newcastle after summit]]></title>
-      <description><![CDATA[Head coach Eddie Howe looks set to lead Newcastle into next season after talks with the club's Saudi Arabian leadership.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c362exz0p98o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c362exz0p98o</guid>
-      <pubDate>Sun, 03 May 2026 15:37:10 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/207b/live/776a5930-46fb-11f1-9217-a5b6a670d3f7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Carrick secures Champions League - what are Man Utd waiting for? ]]></title>
-      <description><![CDATA[Unless Manchester United appoint Luis Enrique, it is hard to think of an acceptable alternative to giving Michael Carrick the job on a permanent basis, writes Simon Stone.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2e2xjyeyk7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2e2xjyeyk7o</guid>
-      <pubDate>Sun, 03 May 2026 19:19:50 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9897/live/f7ea8890-4729-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Should Sesko goal have been ruled out?]]></title>
@@ -252,12 +244,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b25/live/160f1bd0-470a-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Juventus target Man City's Reijnders - Monday's gossip]]></title>
-      <description><![CDATA[Juventus target Man City's Tijjani Reijnders, Newcastle hope to retain striker Will Osula, Crystal Palace and Chelsea eye Bournemouth boss Andoni Iraola, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgzpnzv997o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgzpnzv997o</guid>
-      <pubDate>Sun, 03 May 2026 21:51:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32f4/live/0fe50010-4739-11f1-ac78-2112837ce2aa.png"/>
+      <title><![CDATA[Carrick secures Champions League - what are Man Utd waiting for? ]]></title>
+      <description><![CDATA[Unless Manchester United appoint Luis Enrique, it is hard to think of an acceptable alternative to giving Michael Carrick the job on a permanent basis, writes Simon Stone.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2e2xjyeyk7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2e2xjyeyk7o</guid>
+      <pubDate>Sun, 03 May 2026 19:19:50 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9897/live/f7ea8890-4729-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Forget Spurs... relegated Barrow are kings of chaos  ]]></title>
@@ -300,12 +292,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dba/live/e7992150-470f-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Three red cards for hair pulling in 2026 - is it time to change law?]]></title>
-      <description><![CDATA[Sunderland defender Dan Ballard becomes the third player to be sent off for pulling an opponent's hair in the Premier League this season. Is it time to change the law?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cgkp15ejk5lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgkp15ejk5lo</guid>
-      <pubDate>Sat, 02 May 2026 20:41:27 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b69e/live/27575450-4662-11f1-9c0f-b53a8d1debf3.jpg"/>
+      <title><![CDATA['I've never been part of a game like it' - how the play-off shootout unfolded  ]]></title>
+      <description><![CDATA[BBC Sport takes a look at how the three-way race for the final Championship play-off spot unfolded between Hull City, Wrexham and Derby County.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5y7xw0625do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y7xw0625do</guid>
+      <pubDate>Sat, 02 May 2026 17:52:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/135d/live/b3e01c20-4646-11f1-891c-cf9f2bee9693.png"/>
     </item>
     <item>
       <title><![CDATA[Is it advantage Arsenal in dramatic title race?]]></title>
