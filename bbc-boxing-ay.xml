@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/boxing</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 05 May 2026 08:30:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 10:23:32 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/boxing/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -22,6 +22,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/ckgp1e2npdgo</guid>
       <pubDate>Sun, 03 May 2026 11:09:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f754/live/309be280-470f-11f1-ac78-2112837ce2aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Wardley v Dubois - all you need to know]]></title>
+      <description><![CDATA[All you need to know about Fabio Wardley's world title defence against Daniel Dubois on Saturday in Manchester.]]></description>
+      <link>https://www.bbc.com/sport/boxing/articles/c070l7y3gypo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/c070l7y3gypo</guid>
+      <pubDate>Tue, 05 May 2026 09:21:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8af/live/0e08e900-3e65-11f1-98c6-738b5ff2738a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Classy Inoue beats Nakatani to remain undisputed]]></title>
@@ -56,14 +64,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5cc/live/ed9e90a0-4307-11f1-8d32-27ce5a537ca2.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Joshua warm-up defeat would scupper Fury fight']]></title>
-      <description><![CDATA[The long-awaited showdown between Tyson Fury and Anthony Joshua will not happen if Joshua loses his July warm-up bout, says promoter Frank Warren.]]></description>
-      <link>https://www.bbc.com/sport/boxing/articles/c1l25l3zlm0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/c1l25l3zlm0o</guid>
-      <pubDate>Wed, 29 Apr 2026 13:03:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffd2/live/beffd430-43d8-11f1-bd52-e755d604ece4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why Joshua's interim bout adds jeopardy to Fury fight]]></title>
       <description><![CDATA[Promoter Frank Warren says Anthony Joshua's proposed fight with Tyson Fury would be in doubt if Joshua loses to Albania's Kristian Prenga in July.]]></description>
       <link>https://www.bbc.com/sport/boxing/videos/cz62wx5wl30o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -80,20 +80,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffa3/live/f6fa7530-43a5-11f1-9b98-5f1154df905f.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Joshua warm-up defeat would scupper Fury fight']]></title>
+      <description><![CDATA[The long-awaited showdown between Tyson Fury and Anthony Joshua will not happen if Joshua loses his July warm-up bout, says promoter Frank Warren.]]></description>
+      <link>https://www.bbc.com/sport/boxing/articles/c1l25l3zlm0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/c1l25l3zlm0o</guid>
+      <pubDate>Wed, 29 Apr 2026 13:03:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffd2/live/beffd430-43d8-11f1-bd52-e755d604ece4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Billam-Smith headlines Zuffa's UK debut show in June]]></title>
       <description><![CDATA[Former world cruiserweight champion Chris Billam-Smith will headline Zuffa Boxing's first show in the UK against Canadian Ryan Rozicki. ]]></description>
       <link>https://www.bbc.com/sport/boxing/articles/c0m200nd3lmo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/c0m200nd3lmo</guid>
       <pubDate>Wed, 29 Apr 2026 15:49:45 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26b6/live/51118430-43da-11f1-a133-a9dbeae5d5f3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Joshua signs deal to fight Fury - Hearn]]></title>
-      <description><![CDATA[Former heavyweight world champion Anthony Joshua has signed to fight Tyson Fury but will first have a warm-up fight against Kristian Prenga in Riyadh on 25 July.]]></description>
-      <link>https://www.bbc.com/sport/boxing/articles/cj373dln1llo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/cj373dln1llo</guid>
-      <pubDate>Mon, 27 Apr 2026 13:17:40 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2967/live/894d34e0-423e-11f1-8d69-c381592aaa8c.jpg"/>
     </item>
     <item>
       <title><![CDATA['The world lost Ricky Hatton, but he was just Dad to me']]></title>
