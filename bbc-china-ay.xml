@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 05 May 2026 00:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 03:53:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Explosion at China fireworks factory kills 21 people]]></title>
+      <description><![CDATA[A blast at a fireworks factory in Hunan province has killed 21 people and injured 61, state media report.]]></description>
+      <link>https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c70vqwengxno</guid>
+      <pubDate>Tue, 05 May 2026 03:30:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f1e/live/c47dcee0-4832-11f1-a015-7171d6e89aef.jpg"/>
+    </item>
     <item>
       <title><![CDATA[China scraps tariffs for all but one African nation]]></title>
       <description><![CDATA[The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.]]></description>
@@ -30,14 +38,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4gv4dvngygo</guid>
       <pubDate>Thu, 30 Apr 2026 05:45:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f08/live/5a122fc0-4480-11f1-bd52-e755d604ece4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The Chinese sports brand taking on Nike and Adidas]]></title>
-      <description><![CDATA[Now one of the biggest sportswear firms, Anta's rise follows a playbook adopted by many Chinese giants.]]></description>
-      <link>https://www.bbc.com/news/articles/c87r2d850q4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c87r2d850q4o</guid>
-      <pubDate>Mon, 27 Apr 2026 07:09:42 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/258b/live/1d2ef320-3f91-11f1-803a-036a9bbb46d5.jpg"/>
     </item>
     <item>
       <title><![CDATA[China weathered Trump's tariffs - but the Iran war is taking a toll]]></title>
@@ -62,6 +62,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c1l92yv4mydo</guid>
       <pubDate>Fri, 17 Apr 2026 06:35:57 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a0/live/1b561a10-3a23-11f1-a008-0b28622386db.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[The Chinese sports brand taking on Nike and Adidas]]></title>
+      <description><![CDATA[Now one of the biggest sportswear firms, Anta's rise follows a playbook adopted by many Chinese giants.]]></description>
+      <link>https://www.bbc.com/news/articles/c87r2d850q4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c87r2d850q4o</guid>
+      <pubDate>Mon, 27 Apr 2026 07:09:42 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/258b/live/1d2ef320-3f91-11f1-803a-036a9bbb46d5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hotpot, bubble tea and sportswear: China's new exports take on the world]]></title>
