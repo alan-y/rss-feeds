@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 05 May 2026 15:55:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 18:10:13 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Everton fan arrested for alleged Semenyo racist abuse]]></title>
+      <description><![CDATA[An Everton fan is arrested by Merseyside Police during his side's match with Manchester City for allegedly racially abusing Antoine Semenyo.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cedpnxqwg29o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cedpnxqwg29o</guid>
+      <pubDate>Tue, 05 May 2026 16:24:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/641e/live/b8fb3e40-489b-11f1-9d2b-c9f441ed383e.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Foden reaches agreement over new Man City deal]]></title>
       <description><![CDATA[England midfielder Phil Foden reaches an agreement in principle over a new four-year deal at Manchester City.]]></description>
@@ -80,14 +88,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ebc/live/f722fe80-4808-11f1-bd52-e755d604ece4.png"/>
     </item>
     <item>
-      <title><![CDATA['Pure theatre puts Hearts on cusp of title fairytale']]></title>
-      <description><![CDATA[BBC Scotland chief sports writer Tom English sums up the chaos and cacophony of Hearts' win over Rangers at Tynecastle.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgpxd82203o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgpxd82203o</guid>
-      <pubDate>Mon, 04 May 2026 20:09:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/248c/live/371f01c0-47f3-11f1-b55d-0f258dce1735.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why Premier League title is Arsenal's to lose after Man City slip]]></title>
       <description><![CDATA[Mark Chapman, Charlie Adam, Shay Given and Rory Smith discuss Manchester City’s 3-3 draw at Everton, focusing on how dropped points could impact their Premier League title challenge.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cgep7rl0qp8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -102,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c2k2dd79wyxo</guid>
       <pubDate>Mon, 04 May 2026 21:56:30 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e98/live/be3e6290-4802-11f1-ac78-2112837ce2aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Caption this' - Ferdinand and Carragher's social spat]]></title>
-      <description><![CDATA[Rio Ferdinand and Jamie Carragher may have been team-mates for England - but there is clearly no love lost between the former centre-backs based on a social media spat.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clypz9rr412o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clypz9rr412o</guid>
-      <pubDate>Tue, 05 May 2026 11:34:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b77/live/740d4930-4874-11f1-b010-8f8612d9ae2e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Nottingham Forest boost survival hopes with win over Chelsea]]></title>
@@ -152,6 +144,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a50a/live/b0f6a090-47e2-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Caption this' - Ferdinand and Carragher's social spat]]></title>
+      <description><![CDATA[Rio Ferdinand and Jamie Carragher may have been team-mates for England - but there is clearly no love lost between the former centre-backs based on a social media spat.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clypz9rr412o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clypz9rr412o</guid>
+      <pubDate>Tue, 05 May 2026 11:34:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b77/live/740d4930-4874-11f1-b010-8f8612d9ae2e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Pure theatre puts Hearts on cusp of title fairytale']]></title>
+      <description><![CDATA[BBC Scotland chief sports writer Tom English sums up the chaos and cacophony of Hearts' win over Rangers at Tynecastle.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgpxd82203o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgpxd82203o</guid>
+      <pubDate>Mon, 04 May 2026 20:09:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/248c/live/371f01c0-47f3-11f1-b55d-0f258dce1735.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Forest hopeful of Gibbs-White fitness for Europa tie]]></title>
       <description><![CDATA[Morgan Gibbs-White might need a "miracle" to be ready for Nottingham Forest's Europa League semi-final second leg - but his head coach Vitor Pereira is hopeful.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8jv81ry299o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -188,7 +196,7 @@
       <description><![CDATA[Footballer Dujon Sterling has also been fined after crashing his car while almost three times over the drink driving limit.]]></description>
       <link>https://www.bbc.com/news/articles/c707kj6k367o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c707kj6k367o</guid>
-      <pubDate>Tue, 05 May 2026 13:42:43 GMT</pubDate>
+      <pubDate>Tue, 05 May 2026 17:17:25 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3779/live/3bf629e0-4883-11f1-96b8-b5080add422e.jpg"/>
     </item>
     <item>
@@ -206,22 +214,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdep979dy18o</guid>
       <pubDate>Mon, 04 May 2026 21:33:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c53/live/0d1fec90-47fd-11f1-ac78-2112837ce2aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Juventus make Alisson top target - Tuesday's gossip]]></title>
-      <description><![CDATA[Juventus make Liverpool's Alisson their top target, Real Madrid eye Aston Villa boss Unai Emery, Man Utd want West Ham's Mateus Fernandes, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgzr2p49xzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgzr2p49xzo</guid>
-      <pubDate>Mon, 04 May 2026 21:16:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78d4/live/52015190-47ef-11f1-bd52-e755d604ece4.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Seven new faces named in Republic of Ireland squad]]></title>
-      <description><![CDATA[Benfica attacker Jaden Umeh is one of seven new players named by Republic of Ireland head coach Heimir Hallgrimsson for this month's friendly against Grenada.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz62p99nn15o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz62p99nn15o</guid>
-      <pubDate>Tue, 05 May 2026 10:57:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e4/live/af9f8480-4870-11f1-b010-8f8612d9ae2e.jpg"/>
     </item>
     <item>
       <title><![CDATA['Massively disappointing' - McFarlane reflects on loss to Forest]]></title>
@@ -262,6 +254,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cvgznj2678wo</guid>
       <pubDate>Sun, 03 May 2026 23:11:12 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feb2/live/793ac2e0-473c-11f1-ac78-2112837ce2aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Juventus make Alisson top target - Tuesday's gossip]]></title>
+      <description><![CDATA[Juventus make Liverpool's Alisson their top target, Real Madrid eye Aston Villa boss Unai Emery, Man Utd want West Ham's Mateus Fernandes, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgzr2p49xzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgzr2p49xzo</guid>
+      <pubDate>Mon, 04 May 2026 21:16:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78d4/live/52015190-47ef-11f1-bd52-e755d604ece4.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Seven new faces named in Republic of Ireland squad]]></title>
+      <description><![CDATA[Benfica attacker Jaden Umeh is one of seven new players named by Republic of Ireland head coach Heimir Hallgrimsson for this month's friendly against Grenada.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz62p99nn15o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz62p99nn15o</guid>
+      <pubDate>Tue, 05 May 2026 10:57:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e4/live/af9f8480-4870-11f1-b010-8f8612d9ae2e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Will a fit Saka prove key to Arsenal's season finale?]]></title>
@@ -330,12 +338,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f16/live/1fb26470-47ba-11f1-afe8-8f96a4407135.jpg"/>
     </item>
     <item>
-      <title><![CDATA[The battle for sixth... and why teams might need to lose on final day]]></title>
-      <description><![CDATA[As the Premier League's battle for European places hots up, BBC Sport assesses the situation - and some very strange potential quirks in the race.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpqp9eqwe72o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpqp9eqwe72o</guid>
-      <pubDate>Sun, 03 May 2026 16:39:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7127/live/21045890-46f9-11f1-9217-a5b6a670d3f7.jpg"/>
+      <title><![CDATA['Premflix' and tourist fans - future of football predictions]]></title>
+      <description><![CDATA[Former broadcasting executive Neil Duncanson and author Alex Fynn, who made remarkably accurate predictions about football's future in 1994, discuss what the game will look like in 10 years' time.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn4vpezd2jpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn4vpezd2jpo</guid>
+      <pubDate>Mon, 04 May 2026 05:37:01 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac3/live/a1ca17e0-4473-11f1-b545-b533bcf4cad2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hume reflects on 'whirlwind' rise after award win]]></title>
@@ -354,20 +362,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6bf/live/90aa5f10-47c5-11f1-b707-6773b978b74d.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Premflix' and tourist fans - future of football predictions]]></title>
-      <description><![CDATA[Former broadcasting executive Neil Duncanson and author Alex Fynn, who made remarkably accurate predictions about football's future in 1994, discuss what the game will look like in 10 years' time.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn4vpezd2jpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn4vpezd2jpo</guid>
-      <pubDate>Mon, 04 May 2026 05:37:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac3/live/a1ca17e0-4473-11f1-b545-b533bcf4cad2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What would it cost England and Scotland fans to go to World Cup?]]></title>
-      <description><![CDATA[High ticket prices, expensive accommodation and train fares way above normal rates. If you want to book a World Cup trip now, this is what it would cost.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cpwp81jz7vdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpwp81jz7vdo</guid>
-      <pubDate>Sun, 03 May 2026 05:54:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac3b/live/020c0c20-46cd-11f1-ac5d-7f11fd490a20.jpg"/>
+      <title><![CDATA[The battle for sixth... and why teams might need to lose on final day]]></title>
+      <description><![CDATA[As the Premier League's battle for European places hots up, BBC Sport assesses the situation - and some very strange potential quirks in the race.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cpqp9eqwe72o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cpqp9eqwe72o</guid>
+      <pubDate>Sun, 03 May 2026 16:39:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7127/live/21045890-46f9-11f1-9217-a5b6a670d3f7.jpg"/>
     </item>
     <item>
       <title><![CDATA[Carrick secures Champions League - what are Man Utd waiting for? ]]></title>
@@ -384,14 +384,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgpw5ye21jo</guid>
       <pubDate>Sat, 02 May 2026 17:17:27 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aae1/live/dcfaf000-4635-11f1-b14f-8905f097c360.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I've never been part of a game like it' - how the play-off shootout unfolded  ]]></title>
-      <description><![CDATA[BBC Sport takes a look at how the three-way race for the final Championship play-off spot unfolded between Hull City, Wrexham and Derby County.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5y7xw0625do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y7xw0625do</guid>
-      <pubDate>Sat, 02 May 2026 17:52:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/135d/live/b3e01c20-4646-11f1-891c-cf9f2bee9693.png"/>
     </item>
     <item>
       <title><![CDATA['We got police escort to Vardy's party' - Leicester's 5,000-1 title win 10 years on]]></title>
@@ -547,14 +539,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx216122kv1o</guid>
       <pubDate>Mon, 04 May 2026 05:58:28 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dac2/live/4ed075b0-477b-11f1-8974-416488edfc45.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Holders Rangers beat Montrose to set up Old Firm cup final]]></title>
-      <description><![CDATA[Holders Rangers make it to their fourth consecutive Women's Scottish Cup final - where they will face rivals Celtic - after a 2-0 victory over brave Montrose at Hampden.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy029x8xzp3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy029x8xzp3o</guid>
-      <pubDate>Sun, 03 May 2026 14:34:55 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dba/live/e7992150-470f-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
       <title><![CDATA[When football turned to penalties to end 'cruel' system]]></title>
