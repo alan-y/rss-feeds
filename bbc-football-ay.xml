@@ -10,27 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 05 May 2026 18:10:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 18:56:46 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[Everton fan arrested for alleged Semenyo racist abuse]]></title>
-      <description><![CDATA[An Everton fan is arrested by Merseyside Police during his side's match with Manchester City for allegedly racially abusing Antoine Semenyo.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cedpnxqwg29o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cedpnxqwg29o</guid>
-      <pubDate>Tue, 05 May 2026 16:24:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/641e/live/b8fb3e40-489b-11f1-9d2b-c9f441ed383e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Foden reaches agreement over new Man City deal]]></title>
-      <description><![CDATA[England midfielder Phil Foden reaches an agreement in principle over a new four-year deal at Manchester City.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgpxlvk0ngo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgpxlvk0ngo</guid>
-      <pubDate>Tue, 05 May 2026 13:59:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e62/live/73763820-485a-11f1-9db4-19df36ab272c.jpg"/>
-    </item>
     <item>
       <title><![CDATA[Is Gibbs-White favourite to start as England's number 10 at World Cup?]]></title>
       <description><![CDATA[Morgan Gibbs-White has enjoyed an impressive resurgence in 2026, so is the Nottingham Forest attacking midfielder now the leading contender for the number 10 role with England at the World Cup?]]></description>
@@ -40,12 +24,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a7/live/12b32d30-4897-11f1-891e-47c72be732a7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Everton fan arrested for alleged Semenyo racist abuse]]></title>
+      <description><![CDATA[An Everton fan is arrested by Merseyside Police during his side's match with Manchester City for allegedly racially abusing Antoine Semenyo.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cedpnxqwg29o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cedpnxqwg29o</guid>
+      <pubDate>Tue, 05 May 2026 16:24:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/641e/live/b8fb3e40-489b-11f1-9d2b-c9f441ed383e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[What now for Rohl's Rangers as title hopes fade?]]></title>
       <description><![CDATA[Rangers' Scottish Premiership title challenge has been undone by two damaging defeats by Motherwell and Hearts. What now for Danny Rohl and his players?]]></description>
       <link>https://www.bbc.com/sport/football/articles/ceqp9nw8yy8o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ceqp9nw8yy8o</guid>
       <pubDate>Tue, 05 May 2026 07:23:22 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc97/live/ea12a690-47f0-11f1-a5a5-9ff681d5bd63.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Foden reaches agreement over new Man City deal]]></title>
+      <description><![CDATA[England midfielder Phil Foden reaches an agreement in principle over a new four-year deal at Manchester City.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgpxlvk0ngo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgpxlvk0ngo</guid>
+      <pubDate>Tue, 05 May 2026 13:59:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e62/live/73763820-485a-11f1-9db4-19df36ab272c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Derry says debut a 'dream come true' despite injury]]></title>
@@ -136,14 +136,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af38/live/b526c670-47c6-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[We changed the players but kept the spirit - Pereira]]></title>
-      <description><![CDATA[Nottingham Forest manager Vitor Pereira says his side is "special" after beating Chelsea 3-1 and boosting their hopes of survival in the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c794dwn3ddeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c794dwn3ddeo</guid>
-      <pubDate>Mon, 04 May 2026 17:56:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a50a/live/b0f6a090-47e2-11f1-bd52-e755d604ece4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['Caption this' - Ferdinand and Carragher's social spat]]></title>
       <description><![CDATA[Rio Ferdinand and Jamie Carragher may have been team-mates for England - but there is clearly no love lost between the former centre-backs based on a social media spat.]]></description>
       <link>https://www.bbc.com/sport/football/articles/clypz9rr412o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -164,7 +156,7 @@
       <description><![CDATA[Morgan Gibbs-White might need a "miracle" to be ready for Nottingham Forest's Europa League semi-final second leg - but his head coach Vitor Pereira is hopeful.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c8jv81ry299o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8jv81ry299o</guid>
-      <pubDate>Tue, 05 May 2026 08:11:48 GMT</pubDate>
+      <pubDate>Tue, 05 May 2026 18:23:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f22/live/884a5640-4851-11f1-9db4-19df36ab272c.jpg"/>
     </item>
     <item>
@@ -214,6 +206,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdep979dy18o</guid>
       <pubDate>Mon, 04 May 2026 21:33:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c53/live/0d1fec90-47fd-11f1-ac78-2112837ce2aa.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[We changed the players but kept the spirit - Pereira]]></title>
+      <description><![CDATA[Nottingham Forest manager Vitor Pereira says his side is "special" after beating Chelsea 3-1 and boosting their hopes of survival in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c794dwn3ddeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c794dwn3ddeo</guid>
+      <pubDate>Mon, 04 May 2026 17:56:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a50a/live/b0f6a090-47e2-11f1-bd52-e755d604ece4.jpg"/>
     </item>
     <item>
       <title><![CDATA['Massively disappointing' - McFarlane reflects on loss to Forest]]></title>
@@ -489,14 +489,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/articles/cwywx3w06x7o</guid>
       <pubDate>Tue, 05 May 2026 11:56:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f93/live/76172620-4878-11f1-b010-8f8612d9ae2e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Familiar foes Dunfermline & Arbroath enter play-off arena - watch on BBC]]></title>
-      <description><![CDATA[Dunfermline and Arbroath go head-to-head in the first leg of the Scottish Premiership play-off quarter-final, with the match live on BBC platforms.]]></description>
-      <link>https://www.bbc.com/sport/articles/c62d7j712pgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/articles/c62d7j712pgo</guid>
-      <pubDate>Tue, 05 May 2026 07:08:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d73/live/bf6a7260-47f5-11f1-bd52-e755d604ece4.png"/>
     </item>
     <item>
       <title><![CDATA[FC Basel postpone fixture after stadium fire]]></title>
