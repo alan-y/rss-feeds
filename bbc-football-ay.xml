@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 05 May 2026 23:13:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 00:07:22 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[The league is the dream - but is this Arsenal's moment in Europe?]]></title>
+      <description><![CDATA[All the talk has been about Arsenal's Premier League title challenge - but is this now the Gunners' time to conquer Europe?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj0p2p60vl2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0p2p60vl2o</guid>
+      <pubDate>Tue, 05 May 2026 23:29:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/670f/live/8ad0b8f0-48d3-11f1-ac78-2112837ce2aa.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Is Gibbs-White favourite to start as England's number 10 at World Cup?]]></title>
       <description><![CDATA[Morgan Gibbs-White has enjoyed an impressive resurgence in 2026, so is the Nottingham Forest attacking midfielder now the leading contender for the number 10 role with England at the World Cup?]]></description>
@@ -86,14 +94,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn0p19vzvz1o</guid>
       <pubDate>Tue, 05 May 2026 20:04:32 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4f/live/24ec8d50-48bc-11f1-bd52-e755d604ece4.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
-      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cwy21xwnz10o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy21xwnz10o</guid>
-      <pubDate>Mon, 04 May 2026 23:14:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ebc/live/f722fe80-4808-11f1-bd52-e755d604ece4.png"/>
     </item>
     <item>
       <title><![CDATA[Arteta pays tribute to Arsenal players & fans after 'incredible night']]></title>
@@ -176,20 +176,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d7f/live/3a1917d0-4807-11f1-a9a1-affc76d1cd39.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Who has made Troy's Premier League team of the week?]]></title>
+      <description><![CDATA[After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cwy21xwnz10o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cwy21xwnz10o</guid>
+      <pubDate>Mon, 04 May 2026 23:14:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ebc/live/f722fe80-4808-11f1-bd52-e755d604ece4.png"/>
+    </item>
+    <item>
       <title><![CDATA[Man City reject Man Utd FA Youth Cup final venue offer]]></title>
       <description><![CDATA[Manchester City will host their FA Youth Cup final with Manchester United at their 7,000-capacity Joie Stadium - rather than at Etihad Stadium.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cjepxdpd5exo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cjepxdpd5exo</guid>
       <pubDate>Tue, 05 May 2026 12:42:55 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6003/live/c90f2d50-4873-11f1-bd52-e755d604ece4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Champions League quiz: How well do you remember last week's first legs?]]></title>
-      <description><![CDATA[There was a goalfest in Paris and VAR drama in Madrid, but how closely were you paying attention?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3w28p681xzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3w28p681xzo</guid>
-      <pubDate>Tue, 05 May 2026 07:21:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5ef/live/76f8bdb0-47e2-11f1-b55d-0f258dce1735.png"/>
     </item>
     <item>
       <title><![CDATA[Rangers' Sterling banned from road after drink driving crash]]></title>
@@ -206,14 +206,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c86en84x5wlo</guid>
       <pubDate>Mon, 04 May 2026 17:56:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93bc/live/7374c810-47d7-11f1-906e-5bd3c4d4c16e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Seven new faces named in Republic of Ireland squad]]></title>
-      <description><![CDATA[Benfica attacker Jaden Umeh is one of seven new players named by Republic of Ireland head coach Heimir Hallgrimsson for this month's friendly against Grenada.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz62p99nn15o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz62p99nn15o</guid>
-      <pubDate>Tue, 05 May 2026 10:57:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e4/live/af9f8480-4870-11f1-b010-8f8612d9ae2e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Moyes disappointed to only take point against Man City]]></title>
@@ -264,20 +256,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b803/live/68ddc940-472a-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Seven new faces named in Republic of Ireland squad]]></title>
+      <description><![CDATA[Benfica attacker Jaden Umeh is one of seven new players named by Republic of Ireland head coach Heimir Hallgrimsson for this month's friendly against Grenada.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz62p99nn15o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz62p99nn15o</guid>
+      <pubDate>Tue, 05 May 2026 10:57:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e4/live/af9f8480-4870-11f1-b010-8f8612d9ae2e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Has 'diamond' Shankland delivered his biggest moment for Hearts?]]></title>
       <description><![CDATA[Lawrence Shankland is hailed as a "diamond of a player" after his superb winning goal against Rangers moved Hearts a step closer to a historic league title.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cdep979dy18o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdep979dy18o</guid>
       <pubDate>Mon, 04 May 2026 21:33:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c53/live/0d1fec90-47fd-11f1-ac78-2112837ce2aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Will a fit Saka prove key to Arsenal's season finale?]]></title>
-      <description><![CDATA[With Bukayo Saka back from injury for Arsenal, could he prove the difference-maker in the finale to the Gunners' season?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cm2pl2qzjn1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cm2pl2qzjn1o</guid>
-      <pubDate>Mon, 04 May 2026 19:31:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d991/live/9d72d030-47eb-11f1-8705-d33d7ad46ebe.jpg"/>
     </item>
     <item>
       <title><![CDATA[Terzic agrees to become new coach of Athletic Club]]></title>
