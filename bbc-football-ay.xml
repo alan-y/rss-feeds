@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 08 May 2026 00:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 03:56:09 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -58,6 +58,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3879/live/3426dcf0-4a4f-11f1-ac76-69efd0e705cd.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Sutton's predictions v boxing world champion Fabio Wardley]]></title>
+      <description><![CDATA[Chris Sutton takes on world champion boxer Fabio Wardley plus the BBC readers and AI with his predictions for this weekend's fixtures.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/czr2m1463npo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czr2m1463npo</guid>
+      <pubDate>Thu, 07 May 2026 15:18:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2e/live/6d90bfd0-49e4-11f1-b55d-0f258dce1735.png"/>
+    </item>
+    <item>
       <title><![CDATA[Chelsea favourites to sign Shaw as Man City exit nears]]></title>
       <description><![CDATA[Chelsea are favourites to sign striker Khadija Shaw on a free contract as an exit from Manchester City nears this summer.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c142jm21kk5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -72,14 +80,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cdxpq70grzlo</guid>
       <pubDate>Thu, 07 May 2026 18:53:49 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08ee/live/9204fa20-4a43-11f1-987f-67d7398c79db.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sutton's predictions v boxing world champion Fabio Wardley]]></title>
-      <description><![CDATA[Chris Sutton takes on world champion boxer Fabio Wardley plus the BBC readers and AI with his predictions for this weekend's fixtures.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/czr2m1463npo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/czr2m1463npo</guid>
-      <pubDate>Thu, 07 May 2026 15:18:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2e/live/6d90bfd0-49e4-11f1-b55d-0f258dce1735.png"/>
     </item>
     <item>
       <title><![CDATA[Arsenal draw at Brighton gives Man City WSL title]]></title>
@@ -330,14 +330,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcf5/live/e52e9420-4937-11f1-bd52-e755d604ece4.png"/>
     </item>
     <item>
-      <title><![CDATA[Inside Man City's WSL title-winning season]]></title>
-      <description><![CDATA[Manchester City have won a first Women's Super League title in 10 years - but how did they achieve it?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2lrzd4x02vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2lrzd4x02vo</guid>
-      <pubDate>Wed, 06 May 2026 20:47:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e2/live/62490d00-4997-11f1-b55d-0f258dce1735.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Villa's Staniforth 'at ease' with decision to retire]]></title>
       <description><![CDATA[Aston Villa midfielder and former England international Lucy Staniforth did not hesitate when she made the decision to retire from football at the end of the season.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cp3pw8v0qzno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -537,6 +529,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgj0d8dz5dgo</guid>
       <pubDate>Tue, 07 Apr 2026 20:39:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8260/live/f7470000-32b9-11f1-8551-ebe7c5dd79d2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Inside Man City's WSL title-winning season]]></title>
+      <description><![CDATA[Manchester City have won a first Women's Super League title in 10 years - but how did they achieve it?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2lrzd4x02vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2lrzd4x02vo</guid>
+      <pubDate>Wed, 06 May 2026 20:47:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e2/live/62490d00-4997-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
       <title><![CDATA[When football turned to penalties to end 'cruel' system]]></title>
