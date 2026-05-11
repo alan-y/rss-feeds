@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 11 May 2026 14:07:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 17:05:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[How are countries responding to hantavirus?]]></title>
+      <description><![CDATA[The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks.]]></description>
+      <link>https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g8318v4yzo</guid>
+      <pubDate>Mon, 11 May 2026 15:28:28 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5922/live/40585c40-4d49-11f1-8d15-c7bc28bbe41c.jpg"/>
+    </item>
     <item>
       <title><![CDATA[How worried should we be about hantavirus?]]></title>
       <description><![CDATA[Passengers potentially exposed to hantavirus are being repatriated, so what is the risk to the wider public?]]></description>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g9drqn2l3o</guid>
       <pubDate>Fri, 01 May 2026 10:54:52 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5a3/live/38c2ec60-4543-11f1-be1a-bdd45fc37339.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Amazing' moment for communities given right to buy for the first time]]></title>
-      <description><![CDATA[Ministers say the new law in England gives power to local people who want to help others. ]]></description>
-      <link>https://www.bbc.com/news/articles/clypwyzk71po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/clypwyzk71po</guid>
-      <pubDate>Thu, 30 Apr 2026 08:00:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55ee/live/72e83b70-43e5-11f1-9113-1988573e8ff7.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hantavirus survivor says sickness was like 'hell on earth']]></title>
