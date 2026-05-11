@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 11 May 2026 20:56:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 22:07:11 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[How are countries responding to hantavirus?]]></title>
+      <description><![CDATA[The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks.]]></description>
+      <link>https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g8318v4yzo</guid>
+      <pubDate>Mon, 11 May 2026 21:21:11 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5922/live/40585c40-4d49-11f1-8d15-c7bc28bbe41c.jpg"/>
+    </item>
     <item>
       <title><![CDATA[UK alcohol deaths fall for first time since Covid pandemic]]></title>
       <description><![CDATA[Experts say the “modest reduction” is “not cause for complacency”, with calls to redouble efforts to slash deaths further.]]></description>
@@ -22,14 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3v2dxg79w2o</guid>
       <pubDate>Mon, 11 May 2026 17:52:44 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a815/live/7b753f80-4d50-11f1-9077-cb5f00d3274a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How are countries responding to hantavirus?]]></title>
-      <description><![CDATA[The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks.]]></description>
-      <link>https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g8318v4yzo</guid>
-      <pubDate>Mon, 11 May 2026 15:28:28 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5922/live/40585c40-4d49-11f1-8d15-c7bc28bbe41c.jpg"/>
     </item>
     <item>
       <title><![CDATA[How worried should we be about hantavirus?]]></title>
