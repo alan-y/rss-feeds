@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 12 May 2026 22:11:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 23:31:43 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Daily pill to help keep weight off after stopping obesity jabs]]></title>
+      <description><![CDATA[The tablet - orforglipron - is available in the US and could soon launch in the UK. ]]></description>
+      <link>https://www.bbc.com/news/articles/cwy2e9wlvjxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy2e9wlvjxo</guid>
+      <pubDate>Tue, 12 May 2026 23:06:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b3/live/55c5d990-4d53-11f1-a556-3191549e7ed9.jpg"/>
+    </item>
     <item>
       <title><![CDATA[How worried should we be about hantavirus?]]></title>
       <description><![CDATA[Passengers potentially exposed to hantavirus are being repatriated, so what is the risk to the wider public?]]></description>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cp9vp0ld1leo</guid>
       <pubDate>Sat, 02 May 2026 23:10:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27ff/live/edf82250-4578-11f1-bd52-e755d604ece4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The struggle to get hold of medication in England is set to get worse  ]]></title>
-      <description><![CDATA[People living with conditions include heart problems, stroke risks, eye infections and bipolar are unable to get hold of the drugs they rely on. ]]></description>
-      <link>https://www.bbc.com/news/articles/c202jqn3jzro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c202jqn3jzro</guid>
-      <pubDate>Fri, 01 May 2026 11:33:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/831c/live/ce7e3080-4551-11f1-b55d-0f258dce1735.png"/>
     </item>
     <item>
       <title><![CDATA[Hantavirus survivor says sickness was like 'hell on earth']]></title>
