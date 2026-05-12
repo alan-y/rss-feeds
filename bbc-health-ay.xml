@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 12 May 2026 10:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 12:25:23 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[How worried should we be about hantavirus?]]></title>
+      <description><![CDATA[Passengers potentially exposed to hantavirus are being repatriated, so what is the risk to the wider public?]]></description>
+      <link>https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c98r199e195o</guid>
+      <pubDate>Tue, 12 May 2026 10:01:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7617/live/0a92d310-4d21-11f1-894d-1b54d8c2d924.jpg"/>
+    </item>
     <item>
       <title><![CDATA[How are countries responding to hantavirus?]]></title>
       <description><![CDATA[The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks.]]></description>
@@ -22,14 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g8318v4yzo</guid>
       <pubDate>Tue, 12 May 2026 08:51:41 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5922/live/40585c40-4d49-11f1-8d15-c7bc28bbe41c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How worried should we be about hantavirus?]]></title>
-      <description><![CDATA[Passengers potentially exposed to hantavirus are being repatriated, so what is the risk to the wider public?]]></description>
-      <link>https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c98r199e195o</guid>
-      <pubDate>Mon, 11 May 2026 23:25:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7617/live/0a92d310-4d21-11f1-894d-1b54d8c2d924.jpg"/>
     </item>
     <item>
       <title><![CDATA[UK alcohol deaths fall for first time since Covid pandemic]]></title>
@@ -200,6 +200,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b72/live/48c18280-fb8c-11f0-87d6-bd5fe34f0b33.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Women-only mental health crisis house to open in town]]></title>
+      <description><![CDATA[Swindon's new mental health support facility for women will be an "alternative" to hospitalisation.]]></description>
+      <link>https://www.bbc.com/news/articles/cjrpl5l00l0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cjrpl5l00l0o</guid>
+      <pubDate>Tue, 12 May 2026 10:13:02 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e06/live/5c685660-4de4-11f1-9cc8-93479330ab4b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['We have to respond to women's health needs more easily']]></title>
       <description><![CDATA[Groups in Liverpool are trying to remedy the historical under-resourcing of women's healthcare.]]></description>
       <link>https://www.bbc.com/news/articles/c893g74p4v7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3v2k16vd17o</guid>
       <pubDate>Thu, 30 Apr 2026 17:28:10 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d681/live/5c147950-4489-11f1-86f6-afbce44c0b18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Women can wait years for an endometriosis diagnosis. New tech could change that]]></title>
-      <description><![CDATA[A new scan technique could spot areas of endometriosis missed by conventional scans, scientists say.]]></description>
-      <link>https://www.bbc.com/news/articles/clyplwvgxjvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/clyplwvgxjvo</guid>
-      <pubDate>Thu, 30 Apr 2026 00:08:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a852/live/6c3989f0-4462-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Mums' choir leader 'baffled' by park fee structure]]></title>
