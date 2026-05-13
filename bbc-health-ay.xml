@@ -10,21 +10,37 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 13 May 2026 08:20:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 11:01:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
+      <title><![CDATA[Posh sandwich has more salt than nearly five cheeseburgers]]></title>
+      <description><![CDATA[Action on Salt & Sugar said people should not be exposed to a "hidden health risk every time they buy lunch".]]></description>
+      <link>https://www.bbc.com/news/articles/c4g4l54g2ppo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g4l54g2ppo</guid>
+      <pubDate>Wed, 13 May 2026 10:57:35 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7632/live/437a1180-4eb0-11f1-a4e8-2309d38aa073.png"/>
+    </item>
+    <item>
+      <title><![CDATA[MPs call for sunbed advertising ban to help prevent skin cancer]]></title>
+      <description><![CDATA[A report by a cross-party group of MPs has found the majority of skin cancer cases are preventable.]]></description>
+      <link>https://www.bbc.com/news/articles/c142g8567xko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c142g8567xko</guid>
+      <pubDate>Wed, 13 May 2026 10:37:30 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b688/live/a3966ed0-4eb8-11f1-ab8c-f3e46050b8be.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How are countries responding to hantavirus?]]></title>
       <description><![CDATA[The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks.]]></description>
       <link>https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g8318v4yzo</guid>
-      <pubDate>Wed, 13 May 2026 08:09:54 GMT</pubDate>
+      <pubDate>Wed, 13 May 2026 08:36:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af91/live/3f1a7440-4e29-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Patients of retired dentist warned of bloodborne viruses, including HIV]]></title>
+      <title><![CDATA[Sydney dentist's patients warned of viruses including HIV]]></title>
       <description><![CDATA[Authorities urged patients to get tested due to "poor infection control practices" at the Australian clinic.]]></description>
       <link>https://www.bbc.com/news/articles/cvgzegw72jlo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgzegw72jlo</guid>
@@ -102,22 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8pypvjx1ko</guid>
       <pubDate>Wed, 06 May 2026 10:32:59 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cdc/live/63d64150-4916-11f1-bd52-e755d604ece4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hantavirus may have spread between passengers on cruise ship, WHO says]]></title>
-      <description><![CDATA[Two cases of the virus, which rarely spreads between humans, have been confirmed on the ship, and three people have died.]]></description>
-      <link>https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2p186gyp2o</guid>
-      <pubDate>Tue, 05 May 2026 16:38:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6224/live/70793b40-489b-11f1-ac78-2112837ce2aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[NHS cancer jab could save patients hours in hospital]]></title>
-      <description><![CDATA[Thousands of patients will be offered a new injectable form of an immunotherapy drug that takes minutes.]]></description>
-      <link>https://www.bbc.com/news/articles/cx214vld41ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx214vld41ko</guid>
-      <pubDate>Sun, 03 May 2026 23:10:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afd2/live/a296b0b0-44b5-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hantavirus survivor says sickness was like 'hell on earth']]></title>
@@ -334,6 +334,13 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/clyrzrp0x5go</guid>
       <pubDate>Wed, 08 Apr 2026 10:56:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6538/live/e8a44600-3356-11f1-9d5c-8ba507d7dbde.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Watch Morning Live here]]></title>
+      <description><![CDATA[Watch Morning Live here]]></description>
+      <link>https://www.bbc.com/videos/c9d30yxd2jjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/videos/c9d30yxd2jjo</guid>
+      <pubDate>Wed, 13 May 2026 08:28:19 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[Concern 'dangerous' performance enhancers are being sold online]]></title>

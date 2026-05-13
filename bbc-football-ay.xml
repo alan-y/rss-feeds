@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 13 May 2026 08:20:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 11:01:14 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -160,12 +160,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d104/live/0f76ebe0-4e53-11f1-9fd6-f58d0ab7d5e8.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Carragher joins local club Marine as adviser]]></title>
+      <description><![CDATA[Jamie Carragher joins National League North club Marine FC to help out in an advisory capacity.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2k2zdjx1kxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2k2zdjx1kxo</guid>
+      <pubDate>Wed, 13 May 2026 08:09:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/077e/live/971d1c30-4e9f-11f1-8afc-5fc3c33cbd56.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[World's first international football stadium given protected status ]]></title>
       <description><![CDATA[The first Hampden Park is designated a scheduled monument in recognition of its place in football history.]]></description>
       <link>https://www.bbc.com/news/articles/cn5pkl1pwe6o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cn5pkl1pwe6o</guid>
-      <pubDate>Wed, 13 May 2026 05:04:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c19/live/0bfb4350-ab68-11f0-a19b-5d425ca9e3e9.png"/>
+      <pubDate>Wed, 13 May 2026 08:52:20 GMT</pubDate>
+      <media:thumbnail width="240" height="164" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1105/live/4522b210-4ea8-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
       <title><![CDATA[Quiz: Name every club Mourinho has managed]]></title>
@@ -208,14 +216,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f264/live/068777c0-4e44-11f1-ae62-ab9d6bf96137.jpg"/>
     </item>
     <item>
-      <title><![CDATA[It's West Ham or Spurs - how relegation fight is shaping up]]></title>
-      <description><![CDATA[With two games remaining of the Premier League season, Tottenham and West Ham are the two horses left in the race to avoid relegation. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5y0kp74gyeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y0kp74gyeo</guid>
-      <pubDate>Tue, 12 May 2026 12:46:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9981/live/58309060-4df5-11f1-bd52-e755d604ece4.png"/>
-    </item>
-    <item>
       <title><![CDATA[Messi remains top MLS earner with salary of £18.5m]]></title>
       <description><![CDATA[Lionel Messi remains the highest-paid player in Major League Soccer with an annual base salary of $25m (£18.5m) - more than double that of the North American league's next-highest earner.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cewp0rzldx0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -232,12 +232,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb46/live/4bdaa8e0-3280-11f1-9fac-89e41bab67f2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Bale more 'complete' than Ronaldo - Casemiro]]></title>
-      <description><![CDATA[Manchester United's former Real Madrid midfielder Casemiro says Cristiano Ronaldo is the greatest footballer he has played with - but that Gareth Bale is the "most complete".]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clypn7pp35xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clypn7pp35xo</guid>
-      <pubDate>Tue, 12 May 2026 16:56:23 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/831a/live/87014ce0-4e22-11f1-a6a1-c1a2c5a4cd39.jpg"/>
+      <title><![CDATA[It's West Ham or Spurs - how relegation fight is shaping up]]></title>
+      <description><![CDATA[With two games remaining of the Premier League season, Tottenham and West Ham are the two horses left in the race to avoid relegation. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5y0kp74gyeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5y0kp74gyeo</guid>
+      <pubDate>Tue, 12 May 2026 12:46:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9981/live/58309060-4df5-11f1-bd52-e755d604ece4.png"/>
     </item>
     <item>
       <title><![CDATA[Forty years of the EFL play-offs - choose your favourite memories]]></title>
@@ -248,12 +248,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f694/live/cabd1070-2c50-11f1-824a-573867676f63.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Advocaat, 78, set for World Cup record after Curacao return]]></title>
-      <description><![CDATA[Dick Advocaat makes a surprise return as Curacao's head coach after his successor Fred Rutten resigned just a month out from their World Cup debut.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g82zl84z2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g82zl84z2o</guid>
-      <pubDate>Mon, 11 May 2026 18:00:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b40d/live/78af8010-4d61-11f1-940e-cbf9737b8b8f.jpg"/>
+      <title><![CDATA[Bale more 'complete' than Ronaldo - Casemiro]]></title>
+      <description><![CDATA[Manchester United's former Real Madrid midfielder Casemiro says Cristiano Ronaldo is the greatest footballer he has played with - but that Gareth Bale is the "most complete".]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clypn7pp35xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clypn7pp35xo</guid>
+      <pubDate>Tue, 12 May 2026 16:56:23 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/831a/live/87014ce0-4e22-11f1-a6a1-c1a2c5a4cd39.jpg"/>
     </item>
     <item>
       <title><![CDATA[O'Neill turns down Blackburn job to remain with NI]]></title>
@@ -262,14 +262,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd7p80ny5l3o</guid>
       <pubDate>Tue, 12 May 2026 14:36:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c81/live/a00b2dd0-4e0b-11f1-841e-93875f0f6355.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Isak and Gyokeres named in Sweden World Cup squad]]></title>
-      <description><![CDATA[Arsenal striker Viktor Gyokeres and Liverpool forward Alexander Isak are named in Sweden's World Cup squad.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3r29z5yz79o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3r29z5yz79o</guid>
-      <pubDate>Tue, 12 May 2026 16:11:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc51/live/5f58b000-4e1a-11f1-823b-0da99605cfd0.png"/>
     </item>
     <item>
       <title><![CDATA[Barcelona manager Flick agrees new contract]]></title>
@@ -286,14 +278,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cd9p75gjkzdo</guid>
       <pubDate>Tue, 12 May 2026 20:20:33 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7c7/live/afe36ea0-4e3f-11f1-ae62-ab9d6bf96137.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Superhuman' managers shouldn't have to ask for help - Beard's family on loss]]></title>
-      <description><![CDATA[The family of former WSL manager Matt Beard tell BBC Sport about the emotional burden of football management, and the changes they want to see.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c2lwqyd7z72o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2lwqyd7z72o</guid>
-      <pubDate>Tue, 12 May 2026 05:18:49 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02c1/live/b369afd0-3cd3-11f1-b70e-8b700ed60efa.jpg"/>
     </item>
     <item>
       <title><![CDATA[Farke proud of 'resilient' Leeds after Spurs draw]]></title>
@@ -352,20 +336,36 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2e1/live/21ce67a0-4c91-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Advocaat, 78, set for World Cup record after Curacao return]]></title>
+      <description><![CDATA[Dick Advocaat makes a surprise return as Curacao's head coach after his successor Fred Rutten resigned just a month out from their World Cup debut.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g82zl84z2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g82zl84z2o</guid>
+      <pubDate>Mon, 11 May 2026 18:00:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b40d/live/78af8010-4d61-11f1-940e-cbf9737b8b8f.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Isak and Gyokeres named in Sweden World Cup squad]]></title>
+      <description><![CDATA[Arsenal striker Viktor Gyokeres and Liverpool forward Alexander Isak are named in Sweden's World Cup squad.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3r29z5yz79o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3r29z5yz79o</guid>
+      <pubDate>Tue, 12 May 2026 16:11:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc51/live/5f58b000-4e1a-11f1-823b-0da99605cfd0.png"/>
+    </item>
+    <item>
+      <title><![CDATA['Superhuman' managers shouldn't have to ask for help - Beard's family on loss]]></title>
+      <description><![CDATA[The family of former WSL manager Matt Beard tell BBC Sport about the emotional burden of football management, and the changes they want to see.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c2lwqyd7z72o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c2lwqyd7z72o</guid>
+      <pubDate>Tue, 12 May 2026 05:18:49 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02c1/live/b369afd0-3cd3-11f1-b70e-8b700ed60efa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[What is Scotland's most iconic goal? This time - Griffiths v Gemmill]]></title>
       <description><![CDATA[Vote to find out what goal will be crowned Scotland's greatest.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c98qv7455e9o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98qv7455e9o</guid>
       <pubDate>Tue, 12 May 2026 09:04:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0745/live/fc694250-23dc-11f1-8afd-2d0cf3dc7503.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Southampton ask for more time over spying claims]]></title>
-      <description><![CDATA[Southampton request more time to conduct an internal review after being charged with spying on Championship play-off rivals Middlesbrough.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx21kpmdj97o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx21kpmdj97o</guid>
-      <pubDate>Tue, 12 May 2026 10:08:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/072e/live/40fab020-4de0-11f1-9cc8-93479330ab4b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Slavia Prague fined £357,000 after derby abandoned]]></title>
@@ -390,14 +390,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx210lez2d4o</guid>
       <pubDate>Tue, 12 May 2026 10:36:12 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b00/live/a85a4ea0-4deb-11f1-9cc8-93479330ab4b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How to follow the Premier League on the BBC this weekend]]></title>
-      <description><![CDATA[BBC Sport Ask Me Anything explains how to follow the Premier League on the BBC this weekend.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0kpzljpz6lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0kpzljpz6lo</guid>
-      <pubDate>Tue, 12 May 2026 14:23:29 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd4e/live/1e1fd4e0-4e0d-11f1-b55d-0f258dce1735.png"/>
     </item>
     <item>
       <title><![CDATA[The summer a golden generation lost its shine]]></title>

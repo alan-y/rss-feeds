@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 13 May 2026 08:20:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 11:01:21 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -49,14 +49,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ce3/live/b238cdf0-15e4-11f1-b7f0-993273cb922a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Crowds cheer China's new snooker star on return from championship win]]></title>
-      <description><![CDATA[Wu Yize, 22, receives a rock star's welcome after becoming second-youngest player to win a world title.]]></description>
-      <link>https://www.bbc.com/news/articles/c62ex9ykl53o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c62ex9ykl53o</guid>
-      <pubDate>Thu, 07 May 2026 20:59:43 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/770e/live/d56143c0-4a4b-11f1-ac78-2112837ce2aa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[China announces suspended death sentences for former defence ministers]]></title>
       <description><![CDATA[The announcement follows recent ousting of several top officials in China's military.]]></description>
       <link>https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -73,6 +65,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceb6/live/9bdc5540-4839-11f1-bdd2-d3ff34c9beb8.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Crowds cheer China's new snooker star on return from championship win]]></title>
+      <description><![CDATA[Wu Yize, 22, receives a rock star's welcome after becoming second-youngest player to win a world title.]]></description>
+      <link>https://www.bbc.com/news/articles/c62ex9ykl53o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c62ex9ykl53o</guid>
+      <pubDate>Thu, 07 May 2026 20:59:43 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/770e/live/d56143c0-4a4b-11f1-ac78-2112837ce2aa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[China weathered Trump's tariffs - but the Iran war is taking a toll]]></title>
       <description><![CDATA[The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.]]></description>
       <link>https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -87,14 +87,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c87r2d850q4o</guid>
       <pubDate>Mon, 27 Apr 2026 07:09:42 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/258b/live/1d2ef320-3f91-11f1-803a-036a9bbb46d5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hotpot, bubble tea and sportswear: China's new exports take on the world]]></title>
-      <description><![CDATA[Made in China used to mean cheap, mass-produced goods but a new wave of Chinese brands is emerging.]]></description>
-      <link>https://www.bbc.com/news/articles/crr1ln1575lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/crr1ln1575lo</guid>
-      <pubDate>Tue, 21 Apr 2026 22:10:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be5d/live/66c7b110-3e43-11f1-b55d-0f258dce1735.jpg"/>
     </item>
   </channel>
 </rss>
