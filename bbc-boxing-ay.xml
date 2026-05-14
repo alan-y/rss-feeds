@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/boxing</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 14 May 2026 20:18:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 21:39:39 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/boxing/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -88,14 +88,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aacc/live/0010c510-4b72-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ngannou or MMA? Paul targets boxing return this year]]></title>
-      <description><![CDATA[Jake Paul wants to box at cruiserweight before the end of the year but has not ruled out a heavyweight fight against Francis Ngannou, his business partner says.]]></description>
-      <link>https://www.bbc.com/sport/boxing/articles/cn9pv48lz9do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/boxing/articles/cn9pv48lz9do</guid>
-      <pubDate>Fri, 08 May 2026 15:50:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe4/live/9f9ded60-4a37-11f1-a70d-c72ff4101914.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Watch every episode]]></title>
       <description><![CDATA[Natasha Jonas and Chris Eubank Jr feature]]></description>
       <link>https://www.bbc.com/sport/boxing/articles/crgy3zy4meyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -128,7 +120,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ec/live/97a3c1f0-43d6-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Anthony Joshua comeback 'from the deepest of lows']]></title>
+      <title><![CDATA[Joshua comeback 'from the deepest of lows']]></title>
       <description><![CDATA[Eddie Hearn talks to BBC Sport about Anthony Joshua's return to the ring.]]></description>
       <link>https://www.bbc.com/sport/boxing/videos/c3r2q435qq8o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/boxing/videos/c3r2q435qq8o</guid>
