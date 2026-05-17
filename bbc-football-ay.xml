@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 17 May 2026 22:10:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 23:13:57 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -96,22 +96,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88b7/live/73faf120-5221-11f1-b682-cf91850925ea.jpg"/>
     </item>
     <item>
-      <title><![CDATA['I'm really proud of the players' - Howe]]></title>
-      <description><![CDATA[Eddie Howe praises the attitude of his "unbelievable group of players who played with real pride", as Newcastle beat West Ham United 3-1 at St James' Park in the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c0k2zx5vmd8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0k2zx5vmd8o</guid>
-      <pubDate>Sun, 17 May 2026 19:58:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1405/live/38b42140-5226-11f1-b682-cf91850925ea.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[West Ham in for 'tough week' after bad performance - Nuno]]></title>
-      <description><![CDATA[Nuno Espirito Santo shares his thoughts on West Ham's "bad performance" against Newcastle United.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cn9p213ypl1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn9p213ypl1o</guid>
-      <pubDate>Sun, 17 May 2026 19:43:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d80/live/7f379c80-5223-11f1-8b8c-6d33e1d5abb6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Fernandes equals assist record as Man Utd beat Forest]]></title>
       <description><![CDATA[Bruno Fernandes earns his 20th Premier League assist of the season, equalling the record set by Kevin De Bruyne and Thierry Henry, as Manchester United defeat Nottingham Forest 3-2 in their final home game of the campaign at Old Trafford.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cn8p59e3dz4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -126,6 +110,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c072pz447geo</guid>
       <pubDate>Sun, 17 May 2026 19:01:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfe9/live/16b1c620-521b-11f1-8b8c-6d33e1d5abb6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Should Cunha's goal have been disallowed?]]></title>
+      <description><![CDATA[BBC Sport pundits Mark Schwarzer and Dion Dublin believe Bryan Mbeumo using his arm to trap the ball to his side to help better control Diego Dalot's cross in the build-up to Matheus Cunha's goal, gave Manchester United an "unfair advantage" in their 3-2 win over Nottingham Forest in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cx21d135v7ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx21d135v7ro</guid>
+      <pubDate>Sun, 17 May 2026 22:58:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4676/live/9a7d9480-523d-11f1-8b8c-6d33e1d5abb6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Outtara double rescues home draw for Brentford against Palace]]></title>
+      <description><![CDATA[Dango Outtara scores twice to earn Brentford a 2-2 draw at home to Crystal Palace in the Premier League, as Keith Andrews' side stay in the hunt for European football.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c0r27zk8x2eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0r27zk8x2eo</guid>
+      <pubDate>Sun, 17 May 2026 19:04:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96a/live/406ce4c0-5222-11f1-8b8c-6d33e1d5abb6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Celtic apologise to Hearts over pitch invasion]]></title>
@@ -216,12 +216,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a85/live/3ccb7ee0-51d1-11f1-b6f7-630f2f175a13.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Outtara double rescues home draw for Brentford against Palace]]></title>
-      <description><![CDATA[Dango Outtara scores twice to earn Brentford a 2-2 draw at home to Crystal Palace in the Premier League, as Keith Andrews' side stay in the hunt for European football.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c0r27zk8x2eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0r27zk8x2eo</guid>
-      <pubDate>Sun, 17 May 2026 19:04:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96a/live/406ce4c0-5222-11f1-8b8c-6d33e1d5abb6.jpg"/>
+      <title><![CDATA[Melia receives first Republic of Ireland call-up]]></title>
+      <description><![CDATA[Tottenham Hotspurs striker Mason Melia receives his first senior call-up to the Republic of Ireland squad for their upcoming friendlies against Qatar and Canada.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c23211zn4x7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c23211zn4x7o</guid>
+      <pubDate>Sun, 17 May 2026 13:15:15 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c6/live/d946acf0-51ee-11f1-86f6-35d8fdccc492.jpg"/>
     </item>
     <item>
       <title><![CDATA[Late Leeds winner deals blow to Brighton's Europa League hopes]]></title>
@@ -230,6 +230,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cg4pxk4dwp7o</guid>
       <pubDate>Sun, 17 May 2026 19:06:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/babb/live/5e5102e0-521e-11f1-b682-cf91850925ea.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How 'poor' West Ham were 'torn apart' by Newcastle]]></title>
+      <description><![CDATA[BBC Sport pundits Mark Schwarzer and Dion Dublin analyse how Newcastle United were able to exploit large spaces between West Ham's back three, in their 3-1 win at St James' Park in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cx214112594o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cx214112594o</guid>
+      <pubDate>Sun, 17 May 2026 23:02:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/effd/live/fdc058c0-523d-11f1-b682-cf91850925ea.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fulham held to draw at bottom side Wolves]]></title>
@@ -246,6 +254,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c4g9wr0er8jo</guid>
       <pubDate>Sun, 17 May 2026 16:11:06 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42e4/live/63d17250-5209-11f1-8b8c-6d33e1d5abb6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[West Ham in for 'tough week' after bad performance - Nuno]]></title>
+      <description><![CDATA[Nuno Espirito Santo shares his thoughts on West Ham's "bad performance" against Newcastle United.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/cn9p213ypl1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn9p213ypl1o</guid>
+      <pubDate>Sun, 17 May 2026 19:43:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d80/live/7f379c80-5223-11f1-8b8c-6d33e1d5abb6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['I'm really proud of the players' - Howe]]></title>
+      <description><![CDATA[Eddie Howe praises the attitude of his "unbelievable group of players who played with real pride", as Newcastle beat West Ham United 3-1 at St James' Park in the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c0k2zx5vmd8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c0k2zx5vmd8o</guid>
+      <pubDate>Sun, 17 May 2026 19:58:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1405/live/38b42140-5226-11f1-b682-cf91850925ea.jpg"/>
     </item>
     <item>
       <title><![CDATA[Palace will play 'strongest team' but 'manage minutes' against Arsenal - Glasner]]></title>
@@ -273,30 +297,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/czj2mndm4n4o</guid>
       <pubDate>Sun, 17 May 2026 17:10:34 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/d5a0fa80-520f-11f1-89a3-d1f559421220.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Today is a beautiful day' - Casemiro]]></title>
-      <description><![CDATA[Manchester United's Casemiro reflects on his time with the club after their win against Nottingham Forest.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/c93xdvl898lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c93xdvl898lo</guid>
-      <pubDate>Sun, 17 May 2026 15:52:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c195/live/f3ea2ac0-5205-11f1-89a3-d1f559421220.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Late winner a deserved ending for Leeds - Farke]]></title>
-      <description><![CDATA[Daniel Farke says his side earned themselves a "hard-fought win," as Dominic Calvert-Lewin's 96th minute goal gives Leeds United a 1-0 victory over Brighton at Elland Road in the Premier League.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cgrp9gjy7dno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cgrp9gjy7dno</guid>
-      <pubDate>Sun, 17 May 2026 17:24:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff7/live/4b4efcc0-5213-11f1-8b8c-6d33e1d5abb6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Melia receives first Republic of Ireland call-up]]></title>
-      <description><![CDATA[Tottenham Hotspurs striker Mason Melia receives his first senior call-up to the Republic of Ireland squad for their upcoming friendlies against Qatar and Canada.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c23211zn4x7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c23211zn4x7o</guid>
-      <pubDate>Sun, 17 May 2026 13:15:15 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c6/live/d946acf0-51ee-11f1-86f6-35d8fdccc492.jpg"/>
     </item>
     <item>
       <title><![CDATA[What Man City's FA Cup win means for Premier League places in Europe]]></title>
@@ -337,6 +337,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg5pe5dp3n8o</guid>
       <pubDate>Sat, 16 May 2026 16:29:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4b1/live/03952570-5147-11f1-b682-cf91850925ea.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Liverpool must return to heavy metal football - Salah]]></title>
+      <description><![CDATA[Mohamed Salah says Liverpool must return to being a "heavy metal attacking team that opponents fear" after trophyless season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g0kg9kg7ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g0kg9kg7ro</guid>
+      <pubDate>Sat, 16 May 2026 17:04:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/144e/live/afce2bf0-513f-11f1-9c8f-0feb9c43091f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Truth stranger than fiction as O'Neill leads Celtic from hostility to happiness]]></title>
