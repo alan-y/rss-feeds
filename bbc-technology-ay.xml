@@ -10,26 +10,26 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 18 May 2026 20:04:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 21:40:53 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
-      <title><![CDATA[Elon Musk just lost another lawsuit. Will he keep fighting?]]></title>
-      <description><![CDATA[Musk's loss against OpenAI is the latest in a string of courtroom defeats.]]></description>
-      <link>https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cqlpz4w6v13o</guid>
-      <pubDate>Mon, 18 May 2026 19:24:05 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5291/live/227907c0-52ed-11f1-b2aa-4dd7163d2cb4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Musk loses OpenAI court battle after jury finds he waited too long to sue]]></title>
       <description><![CDATA[Jurors spent weeks hearing about Musk's claim that Altman had "stolen a charity."]]></description>
       <link>https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cewpyv79pw1o</guid>
-      <pubDate>Mon, 18 May 2026 19:18:58 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 20:59:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c706/live/03fe60e0-52ef-11f1-89a3-d1f559421220.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Elon Musk just lost another lawsuit. Will he keep fighting?]]></title>
+      <description><![CDATA[Musk's loss against OpenAI is the latest in a string of courtroom defeats.]]></description>
+      <link>https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cqlpz4w6v13o</guid>
+      <pubDate>Mon, 18 May 2026 20:44:57 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5291/live/227907c0-52ed-11f1-b2aa-4dd7163d2cb4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Instant AI answers can trivialise human intelligence, warns Royal Observatory]]></title>
