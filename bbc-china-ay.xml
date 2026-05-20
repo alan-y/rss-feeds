@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 20 May 2026 01:34:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 05:50:00 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[China confirms it will buy 200 Boeing jets after Trump-Xi summit]]></title>
+      <description><![CDATA[The two sides will also work towards an extension to the tariffs truce they agreed in October, China's Commerce Ministry said.]]></description>
+      <link>https://www.bbc.com/news/articles/c98rjydlgp4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c98rjydlgp4o</guid>
+      <pubDate>Wed, 20 May 2026 04:59:40 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d222/live/242aab80-5402-11f1-bfc7-2fa927195bf0.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Taiwan insists it is independent after Trump warning]]></title>
       <description><![CDATA[Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.]]></description>
@@ -48,15 +56,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebd/live/de3634e0-4de5-11f1-9cc8-93479330ab4b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Trump's China visit set to test fragile truce]]></title>
-      <description><![CDATA[The first US presidential visit to China in almost 10 years will test a fragile tariff truce.
-]]></description>
-      <link>https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rz75rgn8zo</guid>
-      <pubDate>Mon, 11 May 2026 09:26:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ce3/live/b238cdf0-15e4-11f1-b7f0-993273cb922a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[China announces suspended death sentences for former defence ministers]]></title>
       <description><![CDATA[The announcement follows recent ousting of several top officials in China's military.]]></description>
       <link>https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -65,20 +64,21 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92e4/live/bd58af30-49ff-11f1-a9e7-0f8f590f205b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Deadly China plane crash was caused by fuel cut-off, says report]]></title>
-      <description><![CDATA[The Boeing 737 plane crashed into a Chinese hillside in 2022, killing all 132 people on board.]]></description>
-      <link>https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgpy223y9go</guid>
-      <pubDate>Tue, 05 May 2026 04:25:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceb6/live/9bdc5540-4839-11f1-bdd2-d3ff34c9beb8.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[A decade on, Trump returns to a stronger and more assertive China]]></title>
       <description><![CDATA[Beijing is arguably the most powerful competitor the US has confronted in its history, one analyst says.]]></description>
       <link>https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2py6l78dxo</guid>
       <pubDate>Tue, 12 May 2026 22:07:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a764/live/ecd6a5e0-4e01-11f1-aa37-6b8846c2f74e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Trump's China visit set to test fragile truce]]></title>
+      <description><![CDATA[The first US presidential visit to China in almost 10 years will test a fragile tariff truce.
+]]></description>
+      <link>https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rz75rgn8zo</guid>
+      <pubDate>Mon, 11 May 2026 09:26:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ce3/live/b238cdf0-15e4-11f1-b7f0-993273cb922a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Crowds cheer China's new snooker star on return from championship win]]></title>
