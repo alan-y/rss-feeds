@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 21 May 2026 17:07:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 19:20:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Toilets and changing rooms must be used on basis of biological sex, guidance confirms]]></title>
+      <description><![CDATA[The guidance was published on Thursday following the landmark Supreme Court ruling last year. ]]></description>
+      <link>https://www.bbc.com/news/articles/c0e2rj3zj02o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0e2rj3zj02o</guid>
+      <pubDate>Thu, 21 May 2026 18:30:20 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c3e/live/366a7130-550c-11f1-89a3-d1f559421220.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Gonorrhoea and syphilis hit record levels in Europe]]></title>
       <description><![CDATA[STIs have surged thanks to record cases and gaps in testing and prevention, a health agency reports.]]></description>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3r2p70jdy7o</guid>
       <pubDate>Mon, 11 May 2026 03:29:58 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a28c/live/532e8af0-4ca5-11f1-a52e-37ef6facf99b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What is hantavirus and how does it spread? ]]></title>
-      <description><![CDATA[The Andes strain of the virus, which can rarely be passed from person to person,  has been found among passengers of a cruise ship.]]></description>
-      <link>https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c8r8j1l6j0go</guid>
-      <pubDate>Sun, 10 May 2026 16:22:20 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9b6/live/e5da45c0-477c-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why illegal children's homes are being paid up to £2m per child by councils]]></title>
