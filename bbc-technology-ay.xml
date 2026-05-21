@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 21 May 2026 19:20:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 21:02:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Meta settles social media addiction case with US school district]]></title>
+      <description><![CDATA[The trial had been set as a test case for 1200 other school districts making similar claims.]]></description>
+      <link>https://www.bbc.com/news/articles/cgepze483pqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cgepze483pqo</guid>
+      <pubDate>Thu, 21 May 2026 20:34:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dae/live/cf277fa0-5546-11f1-89a3-d1f559421220.jpg"/>
+    </item>
     <item>
       <title><![CDATA[TikTok and YouTube 'not safe enough' for kids, says Ofcom]]></title>
       <description><![CDATA[YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features.]]></description>
@@ -113,14 +121,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cg7pj8p5mv4o</guid>
       <pubDate>Fri, 15 May 2026 05:03:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61c3/live/5604dcc0-5024-11f1-8b8c-6d33e1d5abb6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Inside the secretive and lucrative world of orchid breeding]]></title>
-      <description><![CDATA[It can take a decade to bring a new orchid to market, so breeders keep their hi-tech processes secret.]]></description>
-      <link>https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cly039rr2mgo</guid>
-      <pubDate>Thu, 14 May 2026 23:03:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b721/live/63993a20-502e-11f1-8b8c-6d33e1d5abb6.jpg"/>
     </item>
   </channel>
 </rss>
