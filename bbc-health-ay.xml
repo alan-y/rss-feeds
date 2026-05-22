@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 22 May 2026 11:19:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 13:40:24 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[UK scientists developing new Ebola vaccine that could be ready in months]]></title>
+      <description><![CDATA[The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet. ]]></description>
+      <link>https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy82gkr7xzlo</guid>
+      <pubDate>Fri, 22 May 2026 12:56:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61c5/live/41f2fd20-55d3-11f1-9a5f-8f70d4bfa4fc.jpg"/>
+    </item>
     <item>
       <title><![CDATA[The tragedy of the 'invisible killer' of the young]]></title>
       <description><![CDATA[Bereaved families are calling for a national cardiac screening programme for over-14s]]></description>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cwy2e9wlvjxo</guid>
       <pubDate>Tue, 12 May 2026 23:06:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b3/live/55c5d990-4d53-11f1-a556-3191549e7ed9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How worried should we be about hantavirus?]]></title>
-      <description><![CDATA[Passengers potentially exposed to hantavirus are being repatriated, so what is the risk to the wider public?]]></description>
-      <link>https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c98r199e195o</guid>
-      <pubDate>Tue, 12 May 2026 10:01:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7617/live/0a92d310-4d21-11f1-894d-1b54d8c2d924.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why illegal children's homes are being paid up to £2m per child by councils]]></title>
