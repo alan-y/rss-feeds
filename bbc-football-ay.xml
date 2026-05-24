@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 24 May 2026 20:54:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 21:55:48 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -64,14 +64,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5363/live/f4942850-5795-11f1-85d6-97cd1565aacc.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Iraola signs off after writing new Bournemouth chapter]]></title>
-      <description><![CDATA[Andoni Iraola leaves Bournemouth having taken the Cherries into Europe. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgpx3y0pwjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgpx3y0pwjo</guid>
-      <pubDate>Sun, 24 May 2026 18:54:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3793/live/113f0880-57a5-11f1-8b8c-6d33e1d5abb6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Spurs secure Premier League survival with win over Everton]]></title>
       <description><![CDATA[Joao Palhinha's goal just before half time helps Tottenham overcome Everton to secure the result they needed to ensure Premier League survival on a day of nerve-shredding tension.]]></description>
       <link>https://www.bbc.com/sport/football/videos/cqjp24l5w89o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -118,6 +110,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c8r842g0pkzo</guid>
       <pubDate>Sun, 24 May 2026 20:42:39 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93aa/live/fd129c10-57ad-11f1-8b8c-6d33e1d5abb6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Iraola signs off after writing new Bournemouth chapter]]></title>
+      <description><![CDATA[Andoni Iraola leaves Bournemouth having taken the Cherries into Europe. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgpx3y0pwjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgpx3y0pwjo</guid>
+      <pubDate>Sun, 24 May 2026 18:54:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3793/live/113f0880-57a5-11f1-8b8c-6d33e1d5abb6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Conte to leave Napoli a year after winning Serie A]]></title>
@@ -200,13 +200,23 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad7a/live/74fe8590-579f-11f1-89a3-d1f559421220.jpg"/>
     </item>
     <item>
-      <title><![CDATA[I'm leaving with an incredible sense of peace - Guardiola]]></title>
-      <description><![CDATA[Manchester City boss Pep Guardiola's says that he feels "so much love" for the club
-in his final post-match interview following their 2-1 defeat at home to Aston Villa.]]></description>
-      <link>https://www.bbc.com/sport/football/videos/cn7pjv0ememo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/cn7pjv0ememo</guid>
-      <pubDate>Sun, 24 May 2026 19:47:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/063b/live/9d1303a0-57a7-11f1-8b8c-6d33e1d5abb6.jpg"/>
+      <title><![CDATA[Arteta reflects on 'incredible' level of commitment from his team this season]]></title>
+      <description><![CDATA[Mikel Arteta talks to Match of the Day's Kelly Cates about the "incredible" moment they had after they beat Crystal Palace and lifted the Premier League trophy.
+
+
+]]></description>
+      <link>https://www.bbc.com/sport/football/videos/c4g8vpx16dzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/videos/c4g8vpx16dzo</guid>
+      <pubDate>Sun, 24 May 2026 21:18:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba5f/live/99a5b660-57b4-11f1-8b8c-6d33e1d5abb6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[From amateurs to SWPL champions - how Olid transformed Hearts]]></title>
+      <description><![CDATA[Eva Olid led Hearts to the Scottish Women's Premier League title, but she departs now after a five-year transformation of the team.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgzk33xr4xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgzk33xr4xo</guid>
+      <pubDate>Sun, 24 May 2026 17:16:32 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed31/live/472163f0-578a-11f1-89a3-d1f559421220.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rangers agree deal for Hearts captain Shankland]]></title>
@@ -225,6 +235,30 @@ in his final post-match interview following their 2-1 defeat at home to Aston Vi
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6afe/live/e616b860-54f7-11f1-b682-cf91850925ea.png"/>
     </item>
     <item>
+      <title><![CDATA[Como qualify for Champions League for first time]]></title>
+      <description><![CDATA[Cesc Fabregas's Como qualify for the Champions League for the first time in their history with a 4-1 victory over 10-man Cremonese on the final day of the Serie A season.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce8p4jj3d06o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce8p4jj3d06o</guid>
+      <pubDate>Sun, 24 May 2026 21:48:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ae2/live/242bd4c0-57b7-11f1-8b90-4f371746fc22.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Mamelodi Sundowns win African Champions League title]]></title>
+      <description><![CDATA[South Africa's Mamelodi Sundowns clinch their second African Champions League title with a 2-1 aggregate win over Moroccan club AS FAR in the final.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c9q351v43dxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c9q351v43dxo</guid>
+      <pubDate>Sun, 24 May 2026 21:43:25 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ea8/live/66d49490-57b9-11f1-873d-9f299cc3e3b9.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Could history be rewritten? Guardiola, Man City and the 115 charges]]></title>
+      <description><![CDATA[With Pep Guardiola leaving Manchester City at the end of this season, how do the club's 115 Premier League charges for alleged financial rule breaches potentially affect his legacy at Etihad Stadium?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn7pkjjdy30o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn7pkjjdy30o</guid>
+      <pubDate>Fri, 22 May 2026 15:10:16 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57c1/live/2724f9d0-5380-11f1-8fe6-7f20a4dd7854.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Saying goodbye to Football Focus after 52 years]]></title>
       <description><![CDATA[After Football Focus broadcasts its final episode after 52 years on the air, former presenters and pundits reminisce about the good times. ]]></description>
       <link>https://www.bbc.com/sport/football/articles/c4g0jep1z80o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -239,30 +273,6 @@ in his final post-match interview following their 2-1 defeat at home to Aston Vi
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgpe8krnkro</guid>
       <pubDate>Sat, 23 May 2026 20:05:39 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee3a/live/7b22bae0-56e1-11f1-ac8a-55a283d57d05.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What does WSL relegation mean for Leicester City?]]></title>
-      <description><![CDATA[After a five-year stay in the WSL, Leicester City were relegated on Saturday - so what does the future of the club look like?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c62602g79gzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62602g79gzo</guid>
-      <pubDate>Sun, 24 May 2026 06:29:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b93/live/2235b6b0-56de-11f1-9c2a-839816af04f1.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Iran says World Cup base moved to Mexico from US]]></title>
-      <description><![CDATA[Iran says Fifa has approved the country's World Cup training base being switched from the United States to Mexico.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cx21e47e214o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx21e47e214o</guid>
-      <pubDate>Sun, 24 May 2026 09:51:42 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3ee/live/2e0ee630-574e-11f1-b268-5d2e1e4da2c8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Could history be rewritten? Guardiola, Man City and the 115 charges]]></title>
-      <description><![CDATA[With Pep Guardiola leaving Manchester City at the end of this season, how do the club's 115 Premier League charges for alleged financial rule breaches potentially affect his legacy at Etihad Stadium?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn7pkjjdy30o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn7pkjjdy30o</guid>
-      <pubDate>Fri, 22 May 2026 15:10:16 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57c1/live/2724f9d0-5380-11f1-8fe6-7f20a4dd7854.jpg"/>
     </item>
     <item>
       <title><![CDATA[From Chelsea relegation to £200m game - how play-offs have evolved]]></title>
@@ -281,28 +291,12 @@ in his final post-match interview following their 2-1 defeat at home to Aston Vi
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dcb/live/2ff85320-505d-11f1-a134-4964cefd6efe.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What is Scotland's most iconic goal? This time - McLean v Gemmill]]></title>
-      <description><![CDATA[Vote to find out what goal will be crowned Scotland's greatest.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c98qv7455e9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c98qv7455e9o</guid>
-      <pubDate>Fri, 22 May 2026 08:34:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0745/live/fc694250-23dc-11f1-8afd-2d0cf3dc7503.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Ultimate image for Saudi Arabia's football poster boy: Ronaldo wins title]]></title>
       <description><![CDATA[Cristiano Ronaldo wins his first league title with Al-Nassr after three years in Saudi Arabia.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c232g9lpdpgo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c232g9lpdpgo</guid>
       <pubDate>Thu, 21 May 2026 21:25:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61f9/live/e3510710-5557-11f1-b427-e5f9d829c03e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Stories, scheduling & spectacle - five takeaways from 2025-26 WSL]]></title>
-      <description><![CDATA[With the 2025-26 season in the books, BBC Sport answers five pertinent questions from the Women's Super League.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c07284m2eypo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c07284m2eypo</guid>
-      <pubDate>Mon, 18 May 2026 05:40:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/7c802d60-5212-11f1-89a3-d1f559421220.png"/>
     </item>
     <item>
       <title><![CDATA[All done deals since February, including deadline day]]></title>
@@ -325,7 +319,7 @@ in his final post-match interview following their 2-1 defeat at home to Aston Vi
       <description><![CDATA[BBC Sport's Ask Me Anything team explains which teams have already qualified for the 2026-27 edition of the Champions League.]]></description>
       <link>https://www.bbc.com/sport/football/articles/crl177pxrl4o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crl177pxrl4o</guid>
-      <pubDate>Sun, 24 May 2026 18:09:32 GMT</pubDate>
+      <pubDate>Sun, 24 May 2026 21:01:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7b6/live/1614eaa0-5791-11f1-89a3-d1f559421220.jpg"/>
     </item>
     <item>
@@ -369,20 +363,20 @@ in his final post-match interview following their 2-1 defeat at home to Aston Vi
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53cd/live/8eaae2f0-4d12-11f1-8bc5-29e986c81a72.jpg"/>
     </item>
     <item>
-      <title><![CDATA[From amateurs to SWPL champions - how Olid transformed Hearts]]></title>
-      <description><![CDATA[Eva Olid led Hearts to the Scottish Women's Premier League title, but she departs now after a five-year transformation of the team.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgzk33xr4xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgzk33xr4xo</guid>
-      <pubDate>Sun, 24 May 2026 17:16:32 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed31/live/472163f0-578a-11f1-89a3-d1f559421220.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Hull's Wembley hero McBurnie - a striker Scotland can do without?]]></title>
       <description><![CDATA[Hull City striker Oli McBurnie sends a message to Scotland boss Steve Clarke with his Championship play-off final winner after being omitted from the World Cup.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c78ql9vp00no?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c78ql9vp00no</guid>
       <pubDate>Sat, 23 May 2026 19:46:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ff3/live/7cf883c0-56ca-11f1-8061-9f414900f587.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What does WSL relegation mean for Leicester City?]]></title>
+      <description><![CDATA[After a five-year stay in the WSL, Leicester City were relegated on Saturday - so what does the future of the club look like?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c62602g79gzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62602g79gzo</guid>
+      <pubDate>Sun, 24 May 2026 06:29:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b93/live/2235b6b0-56de-11f1-9c2a-839816af04f1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Whitehouse's penalty masterclass sends Charlton into WSL]]></title>
