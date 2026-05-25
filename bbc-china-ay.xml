@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 25 May 2026 04:55:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 08:55:55 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Anger grows after China's deadliest coal mining disaster in years]]></title>
+      <description><![CDATA[On China's tightly-controlled internet, people are calling for justice and questioning how this happened.  ]]></description>
+      <link>https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c893543gn20o</guid>
+      <pubDate>Mon, 25 May 2026 08:00:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ed1/live/7ab063d0-580f-11f1-be4f-892ca05ec266.jpg"/>
+    </item>
     <item>
       <title><![CDATA[At least 82 killed in Chinese coal mine explosion]]></title>
       <description><![CDATA[The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.]]></description>
@@ -48,20 +56,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b3f/live/fab5e450-513f-11f1-b682-cf91850925ea.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How the Trump-Xi summit could set superpower relations for many years to come]]></title>
-      <description><![CDATA[Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?]]></description>
-      <link>https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ceqprgen1nyo</guid>
-      <pubDate>Tue, 12 May 2026 20:11:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1d/live/92cf9410-4ddb-11f1-ac78-2112837ce2aa.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Mayor of Californian city resigns over Chinese agent charge]]></title>
       <description><![CDATA[Eileen Wang could face up to 10 years in prison following the Department of Justice allegations.]]></description>
       <link>https://www.bbc.com/news/articles/cvgz87vmj65o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgz87vmj65o</guid>
       <pubDate>Tue, 12 May 2026 11:03:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebd/live/de3634e0-4de5-11f1-9cc8-93479330ab4b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How the Trump-Xi summit could set superpower relations for many years to come]]></title>
+      <description><![CDATA[Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?]]></description>
+      <link>https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ceqprgen1nyo</guid>
+      <pubDate>Tue, 12 May 2026 20:11:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee1d/live/92cf9410-4ddb-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
     <item>
       <title><![CDATA[A decade on, Trump returns to a stronger and more assertive China]]></title>
@@ -87,14 +95,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c62ex9ykl53o</guid>
       <pubDate>Thu, 07 May 2026 20:59:43 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/770e/live/d56143c0-4a4b-11f1-ac78-2112837ce2aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[China weathered Trump's tariffs - but the Iran war is taking a toll]]></title>
-      <description><![CDATA[The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.]]></description>
-      <link>https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0ep28drllo</guid>
-      <pubDate>Wed, 22 Apr 2026 21:23:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/411e/live/38447e10-3e73-11f1-b55d-0f258dce1735.jpg"/>
     </item>
   </channel>
 </rss>
