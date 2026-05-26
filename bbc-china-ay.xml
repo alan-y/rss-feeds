@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 26 May 2026 05:49:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 09:53:49 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[China executes man for murdering prominent gaming tycoon]]></title>
+      <description><![CDATA[The court said the man poisoned the tycoon for sidelining him after he helped secure a deal with Netflix for the 3 Body Problem.]]></description>
+      <link>https://www.bbc.com/news/articles/cg5ppg50gplo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5ppg50gplo</guid>
+      <pubDate>Tue, 26 May 2026 08:55:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f404/live/6a72cc70-58d6-11f1-8b8c-6d33e1d5abb6.png"/>
+    </item>
     <item>
       <title><![CDATA[Anger grows after China's deadliest coal mining disaster in years]]></title>
       <description><![CDATA[On China's tightly-controlled internet, people are calling for justice and questioning how this happened.  ]]></description>
@@ -30,14 +38,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c5y0ve18qlko</guid>
       <pubDate>Sun, 24 May 2026 03:18:38 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7d9/live/d56919b0-5685-11f1-afe6-09264f8da456.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Xi basks in spotlight as he hosts Putin days after Trump]]></title>
-      <description><![CDATA[Two presidential visits days apart is how Xi Jinping wants the world to see him: talking to everyone, tied to no-one.]]></description>
-      <link>https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cjep12qx3xjo</guid>
-      <pubDate>Wed, 20 May 2026 11:42:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d09d/live/432fc630-544f-11f1-b682-cf91850925ea.jpg"/>
     </item>
     <item>
       <title><![CDATA[China confirms it will buy 200 Boeing jets after Trump-Xi summit]]></title>
@@ -64,6 +64,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebd/live/de3634e0-4de5-11f1-9cc8-93479330ab4b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Xi basks in spotlight as he hosts Putin days after Trump]]></title>
+      <description><![CDATA[Two presidential visits days apart is how Xi Jinping wants the world to see him: talking to everyone, tied to no-one.]]></description>
+      <link>https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cjep12qx3xjo</guid>
+      <pubDate>Wed, 20 May 2026 11:42:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d09d/live/432fc630-544f-11f1-b682-cf91850925ea.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How the Trump-Xi summit could set superpower relations for many years to come]]></title>
       <description><![CDATA[Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?]]></description>
       <link>https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -87,14 +95,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rz75rgn8zo</guid>
       <pubDate>Mon, 11 May 2026 09:26:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ce3/live/b238cdf0-15e4-11f1-b7f0-993273cb922a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Crowds cheer China's new snooker star on return from championship win]]></title>
-      <description><![CDATA[Wu Yize, 22, receives a rock star's welcome after becoming second-youngest player to win a world title.]]></description>
-      <link>https://www.bbc.com/news/articles/c62ex9ykl53o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c62ex9ykl53o</guid>
-      <pubDate>Thu, 07 May 2026 20:59:43 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/770e/live/d56143c0-4a4b-11f1-ac78-2112837ce2aa.jpg"/>
     </item>
   </channel>
 </rss>
