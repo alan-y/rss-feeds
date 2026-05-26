@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 26 May 2026 21:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 22:42:02 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['We knew somebody would die': Teenage patients 'ignored' before fatal NHS trust failures]]></title>
+      <description><![CDATA[Mental health patients say nobody listened to their concerns about a north-east England trust.]]></description>
+      <link>https://www.bbc.com/news/articles/c995yr1520ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c995yr1520ko</guid>
+      <pubDate>Tue, 26 May 2026 21:18:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b07/live/5feb8980-2920-11f1-a79a-77e93010d956.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Australia confirms first diphtheria death amid worst outbreak in decades]]></title>
       <description><![CDATA[Most cases are in the Northern Territory with some also in Western Australia, South Australia and Queensland.]]></description>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c142g8567xko</guid>
       <pubDate>Wed, 13 May 2026 10:37:30 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb31/live/60aa58e0-4ec0-11f1-ac78-2112837ce2aa.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How are countries responding to hantavirus?]]></title>
-      <description><![CDATA[The UK, US and EU are asking all citizens returning home from the virus-hit MV Hondius to self-isolate for about six weeks.]]></description>
-      <link>https://www.bbc.com/news/articles/c4g8318v4yzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g8318v4yzo</guid>
-      <pubDate>Wed, 13 May 2026 08:36:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af91/live/3f1a7440-4e29-11f1-b55d-0f258dce1735.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why illegal children's homes are being paid up to £2m per child by councils]]></title>
