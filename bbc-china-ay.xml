@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 27 May 2026 08:37:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 15:51:21 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[South Korea detains dissident who fled China in rubber boat]]></title>
+      <description><![CDATA[Dong Guangping, an activist and former police officer, spent hours at sea before reaching Korean waters.]]></description>
+      <link>https://www.bbc.com/news/articles/c87q2pdwpw3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c87q2pdwpw3o</guid>
+      <pubDate>Wed, 27 May 2026 11:12:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85fc/live/0d30d4e0-59b6-11f1-8ac0-d5b819ddbb8d.png"/>
+    </item>
     <item>
       <title><![CDATA[China executes man for poisoning billionaire gaming tycoon]]></title>
       <description><![CDATA[The court said the man poisoned the tycoon for sidelining him after he helped secure a deal with Netflix for the 3 Body Problem.]]></description>
@@ -56,20 +64,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b3f/live/fab5e450-513f-11f1-b682-cf91850925ea.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Mayor of Californian city resigns over Chinese agent charge]]></title>
-      <description><![CDATA[Eileen Wang could face up to 10 years in prison following the Department of Justice allegations.]]></description>
-      <link>https://www.bbc.com/news/articles/cvgz87vmj65o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgz87vmj65o</guid>
-      <pubDate>Tue, 12 May 2026 11:03:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ebd/live/de3634e0-4de5-11f1-9cc8-93479330ab4b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Xi basks in spotlight as he hosts Putin days after Trump]]></title>
       <description><![CDATA[Two presidential visits days apart is how Xi Jinping wants the world to see him: talking to everyone, tied to no-one.]]></description>
       <link>https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cjep12qx3xjo</guid>
       <pubDate>Wed, 20 May 2026 11:42:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d09d/live/432fc630-544f-11f1-b682-cf91850925ea.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Trump told Taiwan not to 'go independent' - but does it want to? ]]></title>
+      <description><![CDATA[Taiwan independence is the reddest of red lines for China, which claims the island as its own.]]></description>
+      <link>https://www.bbc.com/news/articles/clyp9mk3mrgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/clyp9mk3mrgo</guid>
+      <pubDate>Tue, 19 May 2026 02:41:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d378/live/bc531bf0-5348-11f1-b682-cf91850925ea.jpg"/>
     </item>
     <item>
       <title><![CDATA[How the Trump-Xi summit could set superpower relations for many years to come]]></title>
@@ -86,15 +94,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2py6l78dxo</guid>
       <pubDate>Tue, 12 May 2026 22:07:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a764/live/ecd6a5e0-4e01-11f1-aa37-6b8846c2f74e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Trump's China visit set to test fragile truce]]></title>
-      <description><![CDATA[The first US presidential visit to China in almost 10 years will test a fragile tariff truce.
-]]></description>
-      <link>https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c3rz75rgn8zo</guid>
-      <pubDate>Mon, 11 May 2026 09:26:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ce3/live/b238cdf0-15e4-11f1-b7f0-993273cb922a.jpg"/>
     </item>
   </channel>
 </rss>
