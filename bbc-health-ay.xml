@@ -10,18 +10,26 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 27 May 2026 15:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 18:25:49 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['It's not a nice world to bring children into': Births fall to the lowest level in 50 years]]></title>
+      <description><![CDATA[Live births in England and Wales are at their lowest since 1977, while the age of first-time mothers has also risen.]]></description>
+      <link>https://www.bbc.com/news/articles/cvgzdq23xpgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgzdq23xpgo</guid>
+      <pubDate>Wed, 27 May 2026 16:45:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6ea/live/3b9f4af0-59d4-11f1-b682-cf91850925ea.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Resident doctors in England to strike for 16th time over pay]]></title>
       <description><![CDATA[British Medical Association resident doctor members in England announce new strike for four days from 15 June.]]></description>
       <link>https://www.bbc.com/news/articles/c8xw2vvlxeko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c8xw2vvlxeko</guid>
       <pubDate>Wed, 27 May 2026 15:16:45 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebad/live/9502b470-59d3-11f1-a86d-8bf9558fa476.jpg"/>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c3/live/0e0f69b0-59e5-11f1-b67e-59b55f58b612.jpg"/>
     </item>
     <item>
       <title><![CDATA['We knew somebody would die': Teenage patients 'ignored' before fatal NHS trust failures]]></title>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgzv0j19vvo</guid>
       <pubDate>Thu, 14 May 2026 14:26:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e27e/live/46846e70-4f78-11f1-9bf8-a147799c023a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Posh sandwich has more salt than nearly five cheeseburgers]]></title>
-      <description><![CDATA[Action on Salt & Sugar said people should not be exposed to a "hidden health risk every time they buy lunch".]]></description>
-      <link>https://www.bbc.com/news/articles/c4g4l54g2ppo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g4l54g2ppo</guid>
-      <pubDate>Wed, 13 May 2026 10:57:35 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7632/live/437a1180-4eb0-11f1-a4e8-2309d38aa073.png"/>
     </item>
     <item>
       <title><![CDATA[Hundreds of children die within months as measles cases soar in Bangladesh]]></title>
