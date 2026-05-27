@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 26 May 2026 22:42:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 00:02:50 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA[Man City ahead of Man Utd in race for Anderson]]></title>
-      <description><![CDATA[Manchester City are leading the race to sign Elliot Anderson, with the Nottingham Forest midfielder preferring a move to Etihad Stadium instead of rivals Manchester United.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cj0ppgdlll7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0ppgdlll7o</guid>
-      <pubDate>Tue, 26 May 2026 15:20:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ec/live/8eeccbc0-5938-11f1-869b-2bb2bbc8687d.jpg"/>
-    </item>
     <item>
       <title><![CDATA[Foden a 'victim' of football's packed schedule]]></title>
       <description><![CDATA[Manchester City midfielder Phil Foden is a "victim" of football's packed fixture schedule after being left out of England's World Cup squad, says the chief executive of the PFA.]]></description>
@@ -38,6 +30,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c809948rmzlo</guid>
       <pubDate>Tue, 26 May 2026 18:03:08 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5480/live/71597570-592b-11f1-ac5a-ebb7f5c63280.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Man City ahead of Man Utd in race for Anderson]]></title>
+      <description><![CDATA[Manchester City are leading the race to sign Elliot Anderson, with the Nottingham Forest midfielder preferring a move to Etihad Stadium instead of rivals Manchester United.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cj0ppgdlll7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj0ppgdlll7o</guid>
+      <pubDate>Tue, 26 May 2026 15:20:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ec/live/8eeccbc0-5938-11f1-869b-2bb2bbc8687d.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Coventry's Lampard named LMA manager of the year]]></title>
+      <description><![CDATA[Frank Lampard is named the League Managers Association manager of the year after guiding Coventry back to the Premier League.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp3pp3xzw8ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp3pp3xzw8ko</guid>
+      <pubDate>Tue, 26 May 2026 22:51:38 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ca/live/fd08f8d0-5952-11f1-8b8c-6d33e1d5abb6.jpg"/>
     </item>
     <item>
       <title><![CDATA[London City pursuing Putellas after Barca exit]]></title>
@@ -78,14 +86,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62dde3m70no</guid>
       <pubDate>Tue, 26 May 2026 21:09:24 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b136/live/65c729d0-5946-11f1-b682-cf91850925ea.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Rated - Liverpool's six signings from record summer spree]]></title>
-      <description><![CDATA[BBC Sport assesses the impact made by Liverpool's six signings last summer that totalled a record £415m.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy0222wlqpqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy0222wlqpqo</guid>
-      <pubDate>Tue, 26 May 2026 12:40:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/860b/live/dd5ad440-5902-11f1-a656-5bf9ca1d9342.jpg"/>
     </item>
     <item>
       <title><![CDATA[The big VAR debrief - did it deny Bournemouth Champions League spot?]]></title>
@@ -160,6 +160,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2e/live/63f83c00-58df-11f1-8b2d-156acf4541ac.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Rated - Liverpool's six signings from record summer spree]]></title>
+      <description><![CDATA[BBC Sport assesses the impact made by Liverpool's six signings last summer that totalled a record £415m.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy0222wlqpqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy0222wlqpqo</guid>
+      <pubDate>Tue, 26 May 2026 12:40:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/860b/live/dd5ad440-5902-11f1-a656-5bf9ca1d9342.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['He showed why good managers need time' - who are this season's over-achievers?]]></title>
       <description><![CDATA[Tony Pulis explains which Premier League managers have impressed him this season and, down the divisions, who else stands out.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c2d27lw7ywjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -190,14 +198,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c20223n3k4yo</guid>
       <pubDate>Tue, 26 May 2026 11:41:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a51/live/39b35950-58eb-11f1-8409-e1d7d8df4ed8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Partey in preliminary Ghana squad for World Cup]]></title>
-      <description><![CDATA[Former Arsenal midfielder Thomas Partey has been named in Ghana's preliminary squad for the World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cp9ppezl4v1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp9ppezl4v1o</guid>
-      <pubDate>Tue, 26 May 2026 14:52:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/459d/live/79f639b0-590e-11f1-8d34-d7341b720fc6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fernandes breaks Premier League record as Man Utd beat Brighton]]></title>
@@ -280,6 +280,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/2f90d850-55fb-11f1-9773-43c89bcb1e91.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Partey in preliminary Ghana squad for World Cup]]></title>
+      <description><![CDATA[Former Arsenal midfielder Thomas Partey has been named in Ghana's preliminary squad for the World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cp9ppezl4v1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cp9ppezl4v1o</guid>
+      <pubDate>Tue, 26 May 2026 14:52:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/459d/live/79f639b0-590e-11f1-8d34-d7341b720fc6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[More than 200 managers & coaches lost jobs this season, says LMA]]></title>
       <description><![CDATA[Over 200 managers and coaches lost their jobs last season in English football in a "hire and fire culture" which "undermines the profession",  says League Manager's Association (LMA) chief Richard Bevan]]></description>
       <link>https://www.bbc.com/sport/football/articles/c23229xlprko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -312,14 +320,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e1/live/d9563260-58f6-11f1-afe0-d7f70885c2dd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Rookie manager Clark makes famous dad his assistant]]></title>
-      <description><![CDATA[Nicky Clark appoints his father Sandy as an assistant as the former Rangers and Dundee United striker starts his first management job with Queen of the South.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crkpp8p4zg6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crkpp8p4zg6o</guid>
-      <pubDate>Tue, 26 May 2026 08:28:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e635/live/8107a500-58db-11f1-a182-6b602140f589.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Man Utd captain Fernandes takes on Keane over 'lie']]></title>
       <description><![CDATA[Manchester United captain Bruno Fernandes accuses Roy Keane of putting "words in my mouth" and says he has asked for the phone number of the club legend to set him straight.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cn9ppv3lq4lo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -344,6 +344,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92af/live/689c43d0-593b-11f1-b682-cf91850925ea.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Rookie manager Clark makes famous dad his assistant]]></title>
+      <description><![CDATA[Nicky Clark appoints his father Sandy as an assistant as the former Rangers and Dundee United striker starts his first management job with Queen of the South.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crkpp8p4zg6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crkpp8p4zg6o</guid>
+      <pubDate>Tue, 26 May 2026 08:28:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e635/live/8107a500-58db-11f1-a182-6b602140f589.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Which side were remarkable? Who were a shambles? Phil McNulty's season review]]></title>
       <description><![CDATA[BBC Sport chief football writer Phil McNulty reviews every team's Premier League - and looks back at his pre-season predictions.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx2136mx2m2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -358,14 +366,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c74rrwj9gdzo</guid>
       <pubDate>Tue, 26 May 2026 07:14:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5748/live/d064e0f0-58d0-11f1-90e2-edf2febf1e9d.png"/>
-    </item>
-    <item>
-      <title><![CDATA[McTominay backs 'great man' Clarke for Scotland stay]]></title>
-      <description><![CDATA[Scotland midfielder Scott McTominay "would love that" if Steve Clarke agrees a new contract to extend his stay as head coach beyond this summer's World Cup.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ce9ppnj9zv7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce9ppnj9zv7o</guid>
-      <pubDate>Tue, 26 May 2026 06:24:51 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d610/live/68539b90-584a-11f1-8b8c-6d33e1d5abb6.jpg"/>
     </item>
     <item>
       <title><![CDATA[World Cup: Every squad as they are announced]]></title>
@@ -478,6 +478,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cje144nwejzo</guid>
       <pubDate>Thu, 14 May 2026 13:51:29 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bec/live/95ccf660-faa9-11f0-b5f7-49f0357294ff.png"/>
+    </item>
+    <item>
+      <title><![CDATA[McTominay backs 'great man' Clarke for Scotland stay]]></title>
+      <description><![CDATA[Scotland midfielder Scott McTominay "would love that" if Steve Clarke agrees a new contract to extend his stay as head coach beyond this summer's World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce9ppnj9zv7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce9ppnj9zv7o</guid>
+      <pubDate>Tue, 26 May 2026 06:24:51 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d610/live/68539b90-584a-11f1-8b8c-6d33e1d5abb6.jpg"/>
     </item>
     <item>
       <title><![CDATA['Outstanding leader' Shinnie's exit to Caley Thistle confirmed]]></title>
