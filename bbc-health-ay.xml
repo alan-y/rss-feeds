@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 28 May 2026 06:59:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 11:00:39 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Prostate cancer screening only for "a few thousand" high risk men]]></title>
+      <description><![CDATA[Only men with a dangerous genetic variant and a family history of cancer should be offered screening, say UK advisors.]]></description>
+      <link>https://www.bbc.com/news/articles/cn0pvxe5jgzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn0pvxe5jgzo</guid>
+      <pubDate>Thu, 28 May 2026 11:00:15 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e3/live/128b5b40-59ed-11f1-b956-f5c74e0d8137.jpg"/>
+    </item>
     <item>
       <title><![CDATA['It's not a nice world to bring children into': Births fall to the lowest level in 50 years]]></title>
       <description><![CDATA[Live births in England and Wales are at their lowest since 1977, while the age of first-time mothers has also risen.]]></description>
@@ -112,14 +120,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ec/live/35918490-5162-11f1-89a3-d1f559421220.jpg"/>
     </item>
     <item>
-      <title><![CDATA['We're right on track,' says Streeting as key target for hospital waiting times hit]]></title>
-      <description><![CDATA[Government his its interim target of 65% of patients in England being treated within 18 weeks.]]></description>
-      <link>https://www.bbc.com/news/articles/cvgzv0j19vvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgzv0j19vvo</guid>
-      <pubDate>Thu, 14 May 2026 14:26:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e27e/live/46846e70-4f78-11f1-9bf8-a147799c023a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Hundreds of children die within months as measles cases soar in Bangladesh]]></title>
       <description><![CDATA[The country has recorded more than 60,000 suspected cases of measles in just over two months.]]></description>
       <link>https://www.bbc.com/news/articles/cwy2d5d7wn5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -160,6 +160,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e38/live/2dd6cba0-4a1b-11f1-a7ce-b934bcb15ff4.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Prostate cancer screening: What you need to know]]></title>
+      <description><![CDATA[Everything you need to know about the decision on who should be screened for prostate cancer.]]></description>
+      <link>https://www.bbc.com/news/articles/cvgrenp0942o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cvgrenp0942o</guid>
+      <pubDate>Wed, 03 Dec 2025 09:47:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb69/live/870fd830-cc83-11f0-9fb5-5f3a3703a365.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What does hot weather do to the body?]]></title>
+      <description><![CDATA[Hot weather during the summer can affect anyone, but some people run a greater risk of serious harm.]]></description>
+      <link>https://www.bbc.com/news/articles/cy7n6m7y6yvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy7n6m7y6yvo</guid>
+      <pubDate>Thu, 28 May 2026 09:03:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31b0/live/3ac64500-4c12-11f0-9800-55e1c62425e5.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Why are resident doctors striking and how much are they paid?]]></title>
       <description><![CDATA[In June, resident doctors in England will walk out for the 16th time in a long-running dispute over pay.]]></description>
       <link>https://www.bbc.com/news/articles/cn0qyl4ljjko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -183,22 +199,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/ckgl51jjp3jo</guid>
       <pubDate>Mon, 25 May 2026 07:53:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe17/live/a3996890-4b8c-11f0-8efc-193ffd471116.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What does hot weather do to the body?]]></title>
-      <description><![CDATA[Hot weather during the summer can affect anyone, but some people run a greater risk of serious harm.]]></description>
-      <link>https://www.bbc.com/news/articles/cy7n6m7y6yvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy7n6m7y6yvo</guid>
-      <pubDate>Wed, 20 May 2026 09:13:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31b0/live/3ac64500-4c12-11f0-9800-55e1c62425e5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What are the symptoms of meningitis and is there a vaccine?]]></title>
-      <description><![CDATA[A college student has died and two people are being treated after cases of meningitis in Reading, Berkshire.]]></description>
-      <link>https://www.bbc.com/news/articles/c7432klgyldo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c7432klgyldo</guid>
-      <pubDate>Fri, 15 May 2026 09:59:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b66e/live/35af95b0-22c4-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
       <title><![CDATA[PCOS name change 'more representative of condition']]></title>
@@ -345,6 +345,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6538/live/e8a44600-3356-11f1-9d5c-8ba507d7dbde.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why the gut is known as the second brain]]></title>
+      <description><![CDATA[Your gut doesn't just respond to your brain - it helps shape your emotions. Professor of Biomolecular Medicine Jon Swann explains why.]]></description>
+      <link>https://www.bbc.com/videos/czd2emq6y0eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/videos/czd2emq6y0eo</guid>
+      <pubDate>Thu, 28 May 2026 09:33:05 GMT</pubDate>
+      <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a196/live/74eb1540-5a6b-11f1-89a3-d1f559421220.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['When I was 14 I thought I was dying']]></title>
       <description><![CDATA[BBC Radio Sheffield presenter Ellie Colton's symptoms of endometriosis started when she was a young teenager. But she wasn't diagnosed until she was 24.]]></description>
       <link>https://www.bbc.com/videos/cwy20qvrnr5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -359,14 +367,6 @@
       <guid isPermaLink="false">https://www.bbc.com/videos/clyp9djzvwzo</guid>
       <pubDate>Wed, 27 May 2026 08:43:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24fb/live/57237cb0-59a7-11f1-b682-cf91850925ea.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Should you eat local yoghurt on holiday to prevent an upset stomach?]]></title>
-      <description><![CDATA[You might have heard the tip that eating local yoghurt as soon as your arrive on holiday can help your gut adjust to the new environment. But is it actually true?]]></description>
-      <link>https://www.bbc.com/videos/cpqpy0w5n12o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/videos/cpqpy0w5n12o</guid>
-      <pubDate>Thu, 21 May 2026 13:28:55 GMT</pubDate>
-      <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98fc/live/318b12d0-5518-11f1-89a3-d1f559421220.jpg"/>
     </item>
   </channel>
 </rss>
