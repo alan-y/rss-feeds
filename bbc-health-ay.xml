@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 30 May 2026 10:54:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 12:04:15 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -359,14 +359,6 @@
       <guid isPermaLink="false">https://www.bbc.com/videos/cwy20qvrnr5o</guid>
       <pubDate>Wed, 27 May 2026 13:43:23 GMT</pubDate>
       <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f468/live/90d1c6e0-59d1-11f1-b682-cf91850925ea.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Endometriosis: 'I thought I was dying']]></title>
-      <description><![CDATA[The BBC's Ellie Colton shares her experience of living with endometriosis - and meets a scientist hoping to cut the length of time it takes to be diagnosed with a simple new test. ]]></description>
-      <link>https://www.bbc.com/videos/clyp9djzvwzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/videos/clyp9djzvwzo</guid>
-      <pubDate>Wed, 27 May 2026 08:43:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24fb/live/57237cb0-59a7-11f1-b682-cf91850925ea.jpg"/>
     </item>
   </channel>
 </rss>
