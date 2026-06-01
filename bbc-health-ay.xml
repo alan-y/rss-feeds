@@ -10,13 +10,21 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 12:45:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 18:37:02 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
-      <title><![CDATA['Don't be too kind': Maternity staff used offensive terms to refer to patients]]></title>
+      <title><![CDATA[Three Ebola vaccines in development amid growing outbreak fears]]></title>
+      <description><![CDATA[IAVI, Moderna and the University of Oxford are all working on new vaccines. ]]></description>
+      <link>https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cn8pw93929wo</guid>
+      <pubDate>Mon, 01 Jun 2026 14:30:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f543/live/06c00c80-5db1-11f1-8132-9508271dd882.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Don't be too kind': Maternity staff used offensive terms to refer to pregnant women]]></title>
       <description><![CDATA[BBC Panorama has seen documents and spoken to former midwives from Nottingham University Hospitals NHS Trust.]]></description>
       <link>https://www.bbc.com/news/articles/c152y8j4gljo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c152y8j4gljo</guid>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cr7p30m1dn1o</guid>
       <pubDate>Fri, 22 May 2026 16:23:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecdf/live/73886470-55eb-11f1-8b8c-6d33e1d5abb6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[UK scientists developing Ebola vaccine that could be ready for trials in months]]></title>
-      <description><![CDATA[The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet. ]]></description>
-      <link>https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy82gkr7xzlo</guid>
-      <pubDate>Fri, 22 May 2026 15:03:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61c5/live/41f2fd20-55d3-11f1-9a5f-8f70d4bfa4fc.jpg"/>
     </item>
     <item>
       <title><![CDATA['I forgot what it's like to be outside': Intensive care ward opens on rooftop]]></title>
@@ -351,14 +351,6 @@
       <guid isPermaLink="false">https://www.bbc.com/videos/czd2emq6y0eo</guid>
       <pubDate>Thu, 28 May 2026 09:33:05 GMT</pubDate>
       <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a196/live/74eb1540-5a6b-11f1-89a3-d1f559421220.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['When I was 14 I thought I was dying']]></title>
-      <description><![CDATA[BBC Radio Sheffield presenter Ellie Colton's symptoms of endometriosis started when she was a young teenager. But she wasn't diagnosed until she was 24.]]></description>
-      <link>https://www.bbc.com/videos/cwy20qvrnr5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/videos/cwy20qvrnr5o</guid>
-      <pubDate>Wed, 27 May 2026 13:43:23 GMT</pubDate>
-      <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f468/live/90d1c6e0-59d1-11f1-b682-cf91850925ea.jpg"/>
     </item>
   </channel>
 </rss>
