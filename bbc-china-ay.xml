@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 02:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 07:00:02 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[China cracks down on 'ghost kitchens' in food delivery apps]]></title>
+      <description><![CDATA["Ghost kitchens", which are listed on apps but have no physical stores, have raised food safety fears.]]></description>
+      <link>https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj4p7zglq5no</guid>
+      <pubDate>Tue, 02 Jun 2026 05:56:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8187/live/9ae7af80-5e47-11f1-bc28-25fe0a327fe4.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days]]></title>
       <description><![CDATA[China's worst coal mining disaster in 15 years comes amid an ambitious pivot towards green energy.]]></description>
@@ -55,14 +63,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c87q2pdwpw3o</guid>
       <pubDate>Wed, 27 May 2026 11:12:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85fc/live/0d30d4e0-59b6-11f1-8ac0-d5b819ddbb8d.png"/>
-    </item>
-    <item>
-      <title><![CDATA[China executes man for poisoning billionaire gaming tycoon]]></title>
-      <description><![CDATA[The court said the man poisoned the tycoon for sidelining him after he helped secure a deal with Netflix for the 3 Body Problem.]]></description>
-      <link>https://www.bbc.com/news/articles/cg5ppg50gplo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cg5ppg50gplo</guid>
-      <pubDate>Tue, 26 May 2026 08:55:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f404/live/6a72cc70-58d6-11f1-8b8c-6d33e1d5abb6.png"/>
     </item>
     <item>
       <title><![CDATA[Xi basks in spotlight as he hosts Putin days after Trump]]></title>
