@@ -10,17 +10,17 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 10:14:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 15:07:22 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
-      <title><![CDATA[Could lifting weights actually help you live longer?]]></title>
-      <description><![CDATA[Regular weight training can significantly reduce the risk of early death, research suggests.]]></description>
+      <title><![CDATA[Can two hours of strength training a week reduce the risk of dying early?]]></title>
+      <description><![CDATA[Regular weight training can help you keep fit and strengthen muscles to live longer, research suggests.]]></description>
       <link>https://www.bbc.com/news/articles/c0r2lekenlpo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r2lekenlpo</guid>
-      <pubDate>Tue, 02 Jun 2026 23:44:13 GMT</pubDate>
+      <pubDate>Wed, 03 Jun 2026 11:52:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/103b/live/36d46c10-5f1c-11f1-b682-cf91850925ea.jpg"/>
     </item>
     <item>
@@ -225,14 +225,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d4c/live/5c47a330-536f-11f1-b319-63ed6ac90e5f.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Adenomyosis may be invisible, its impact is not']]></title>
-      <description><![CDATA[One in 10 women live with adenomyosis yet sufferers say their pain is often dismissed.]]></description>
-      <link>https://www.bbc.com/news/articles/cx21vgz77rgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx21vgz77rgo</guid>
-      <pubDate>Wed, 20 May 2026 05:10:39 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f115/live/ec680ba0-544e-11f1-bc99-1d37de959855.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Excessive social media 'negatively impacts wellbeing']]></title>
       <description><![CDATA[The World Happiness Reports finds the more time spent on social media the greater loss of wellbeing.]]></description>
       <link>https://www.bbc.com/news/articles/cgmp493wpj0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -343,14 +335,6 @@
       <guid isPermaLink="false">https://www.bbc.com/videos/c1m217rxnl8o</guid>
       <pubDate>Fri, 29 May 2026 15:25:06 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89d1/live/4d079d20-5b72-11f1-b682-cf91850925ea.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Why the gut is known as the second brain]]></title>
-      <description><![CDATA[Your gut doesn't just respond to your brain - it helps shape your emotions. Professor of Biomolecular Medicine Jon Swann explains why.]]></description>
-      <link>https://www.bbc.com/videos/czd2emq6y0eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/videos/czd2emq6y0eo</guid>
-      <pubDate>Thu, 28 May 2026 09:33:05 GMT</pubDate>
-      <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a196/live/74eb1540-5a6b-11f1-89a3-d1f559421220.jpg"/>
     </item>
   </channel>
 </rss>
