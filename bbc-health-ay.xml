@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 22:11:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 00:04:05 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Could lifting weights actually help you live longer?]]></title>
+      <description><![CDATA[Regular weight training can significantly reduce the risk of early death, research suggests.]]></description>
+      <link>https://www.bbc.com/news/articles/c0r2lekenlpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0r2lekenlpo</guid>
+      <pubDate>Tue, 02 Jun 2026 23:44:13 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/296e/live/e8328490-5e9c-11f1-be30-5d712cf191bd.jpg"/>
+    </item>
     <item>
       <title><![CDATA[More black men to benefit from prostate cancer screening trial]]></title>
       <description><![CDATA[Experts are trying to find the best way to screen for prostate cancer, since blood tests alone are not accurate enough for most men.]]></description>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c8xw2vvlxeko</guid>
       <pubDate>Wed, 27 May 2026 15:16:45 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c3/live/0e0f69b0-59e5-11f1-b67e-59b55f58b612.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['We knew somebody would die': Teenage patients 'ignored' before fatal NHS trust failures]]></title>
-      <description><![CDATA[Mental health patients say nobody listened to their concerns about a north-east England trust.]]></description>
-      <link>https://www.bbc.com/news/articles/c995yr1520ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c995yr1520ko</guid>
-      <pubDate>Tue, 26 May 2026 21:18:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b07/live/5feb8980-2920-11f1-a79a-77e93010d956.jpg"/>
     </item>
     <item>
       <title><![CDATA['I forgot what it's like to be outside': Intensive care ward opens on rooftop]]></title>
