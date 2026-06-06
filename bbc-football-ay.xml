@@ -10,14 +10,14 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 15:43:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 17:12:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
       <title><![CDATA[Sullivan steps down at West Ham in wake of historical allegations]]></title>
-      <description><![CDATA[West Ham United co-owner David Sullivan steps down from his position as joint chairman and director of the club.]]></description>
+      <description><![CDATA[West Ham United co-owner David Sullivan steps down as joint chairman of the club with immediate effect following a joint investigation by BBC Panorama and the Times newspaper into his behaviour.]]></description>
       <link>https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clypyk2e7vyo</guid>
       <pubDate>Sat, 06 Jun 2026 14:51:58 GMT</pubDate>
@@ -48,6 +48,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/367c0230-60e5-11f1-82ca-1380a42b6773.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Arsenal approach PSG defender Mbemba]]></title>
+      <description><![CDATA[Arsenal make an approach to sign teenage Paris St-Germain defender Emmanuel Mbemba on a free transfer this summer.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g8g4lz8r0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g8g4lz8r0o</guid>
+      <pubDate>Sat, 06 Jun 2026 15:51:51 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4236/live/dd8fb4b0-61ba-11f1-bd2b-bf85d34aede9.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Spain expose England's flaws in painful defeat]]></title>
       <description><![CDATA[England just needed to avoid defeat against Spain - instead they suffered their heaviest loss in 17 years, but it is not time to panic yet.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c33230637gno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -70,14 +78,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cj4pre1z242o</guid>
       <pubDate>Sat, 06 Jun 2026 07:24:02 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d5d/live/dc609f00-5f53-11f1-b658-099eb92ce9d6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Which World Cup team are you? Take our quiz]]></title>
-      <description><![CDATA[Whether you're a neutral in need of a team to support or just fancy following a second side, BBC Sport has got you covered.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/ckgpy79y53eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgpy79y53eo</guid>
-      <pubDate>Sat, 06 Jun 2026 06:52:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dbf/live/1d79ba80-4eb5-11f1-ac78-2112837ce2aa.png"/>
     </item>
     <item>
       <title><![CDATA[Tuchel will not let Tampa pitch affect selection]]></title>
@@ -104,20 +104,52 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de59/live/4501e9e0-614f-11f1-89a3-d1f559421220.jpg"/>
     </item>
     <item>
-      <title><![CDATA[McLeish given St Mirren chance - how have young Premieship coaches fared?]]></title>
-      <description><![CDATA[St Mirren have chosen youth over experience in sticking with interim manager Craig McLeish in the long term, but how have other young managers fared in the Scottish Premiership?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/clypyg751kdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clypyg751kdo</guid>
-      <pubDate>Sat, 06 Jun 2026 07:38:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc26/live/b0d7a9d0-60ef-11f1-a1a9-f9b22d7f0b50.jpg"/>
+      <title><![CDATA[How to follow the World Cup on the BBC]]></title>
+      <description><![CDATA[The biggest World Cup in history starts on 11 June and there are more ways to follow it on the BBC than ever before.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c62dy77g8e8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62dy77g8e8o</guid>
+      <pubDate>Tue, 02 Jun 2026 05:33:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e49b/live/35e96df0-5daa-11f1-89a3-d1f559421220.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Mowbray returns as Blackburn head coach]]></title>
-      <description><![CDATA[Blackburn Rovers appoint Tony Mowbray as their new head coach for a second spell in charge.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cg5p53y02r7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg5p53y02r7o</guid>
-      <pubDate>Fri, 05 Jun 2026 19:49:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c58/live/682ae2f0-6113-11f1-99e4-a11735b72dcc.jpg"/>
+      <title><![CDATA[How to watch the World Cup on the BBC and ITV]]></title>
+      <description><![CDATA[The BBC will broadcast Scotland's first World Cup match since 1998, when they take on Haiti on 14 June, plus their final group match against Brazil and England's group match against Ghana.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cgjnd28w56po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cgjnd28w56po</guid>
+      <pubDate>Wed, 10 Dec 2025 11:02:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a09/live/8d12b1c0-d5a8-11f0-8ba2-0920210c8b30.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[World Cup 2026: All 48 squads confirmed ]]></title>
+      <description><![CDATA[All 48 confirmed squads for the 2026 World Cup in the US, Canada and Mexico.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cvgz43lgn15o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgz43lgn15o</guid>
+      <pubDate>Tue, 02 Jun 2026 12:43:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7774/live/90206170-53a0-11f1-89a3-d1f559421220.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Download your World Cup 2026 wallchart]]></title>
+      <description><![CDATA[Get your essential piece of kit now by downloading the Fifa World Cup 2026 wallchart. ]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c4g51wd9px6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g51wd9px6o</guid>
+      <pubDate>Tue, 02 Jun 2026 11:06:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e2d/live/34955c50-5e7e-11f1-8b8c-6d33e1d5abb6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Which World Cup team are you? Take our quiz]]></title>
+      <description><![CDATA[Whether you're a neutral in need of a team to support or just fancy following a second side, BBC Sport has got you covered.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ckgpy79y53eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ckgpy79y53eo</guid>
+      <pubDate>Sat, 06 Jun 2026 06:52:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dbf/live/1d79ba80-4eb5-11f1-ac78-2112837ce2aa.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Will transfers be a distraction for England at World Cup?]]></title>
+      <description><![CDATA[England's World Cup campaign is also in the middle of a busy summer transfer window, but how much of a distraction is it?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/crlpglx66z9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crlpglx66z9o</guid>
+      <pubDate>Fri, 05 Jun 2026 21:25:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1551/live/8b4a4050-602d-11f1-8b8c-6d33e1d5abb6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Paraguay star Enciso injured in World Cup warm-up]]></title>
@@ -128,6 +160,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a36/live/fb50dd20-6198-11f1-80e4-07386a28f8fd.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Fifa clarifies water bottle stadium rule]]></title>
+      <description><![CDATA[Fifa says fans will be able to bring sealed disposable water bottles into World Cup stadiums following criticism over a decision to ban reusable bottles.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c79490e8g37o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c79490e8g37o</guid>
+      <pubDate>Fri, 05 Jun 2026 23:10:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/a0b5e3d0-6132-11f1-89a3-d1f559421220.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[The story of Norway's Viking World Cup photoshoot]]></title>
       <description><![CDATA[Renowned British photographer David Yarrow tells BBC Sport what inspired his viral Norway World Cup send-off photo.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cjdpd18xx5lo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -136,20 +176,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d64/live/cd846d50-60d3-11f1-b808-9f0a293e0062.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Advantage Scotland as they await Cuthbert injury news]]></title>
-      <description><![CDATA[Scotland stay top of their World Cup qualifying group on goal difference from Belgium amid fears of a serious injury to key midfielder Erin Cuthbert.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3929el74pzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3929el74pzo</guid>
-      <pubDate>Fri, 05 Jun 2026 22:00:44 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c7/live/eba26d40-6129-11f1-8626-2999b75ce973.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wales not good enough in Montenegro - Wilkinson]]></title>
-      <description><![CDATA[Having been denied a second goal, Wales were left with red faces when Jasna Djokovic levelled late on.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c3v2v245d17o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3v2v245d17o</guid>
-      <pubDate>Fri, 05 Jun 2026 20:04:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1211/live/b8e26570-610d-11f1-89a3-d1f559421220.jpg"/>
+      <title><![CDATA[How thunderstorms and lightning could impact games at World Cup]]></title>
+      <description><![CDATA[With several host cities in peak thunderstorm season there is a high chance that some World Cup games could be disrupted. Here is how and why.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cqjpjgqe42ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqjpjgqe42ro</guid>
+      <pubDate>Fri, 05 Jun 2026 15:33:23 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daf9/live/b2a9ef40-60e3-11f1-82ca-1380a42b6773.jpg"/>
     </item>
     <item>
       <title><![CDATA['The things that forge them are similar' - the origins of Messi & Ronaldo]]></title>
@@ -192,12 +224,52 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d050/live/82cae000-6006-11f1-88e1-8920f3bb90a6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Will transfers be a distraction for England at World Cup?]]></title>
-      <description><![CDATA[England's World Cup campaign is also in the middle of a busy summer transfer window, but how much of a distraction is it?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/crlpglx66z9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/crlpglx66z9o</guid>
-      <pubDate>Fri, 05 Jun 2026 21:25:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1551/live/8b4a4050-602d-11f1-8b8c-6d33e1d5abb6.jpg"/>
+      <title><![CDATA[Advantage Scotland as they await Cuthbert injury news]]></title>
+      <description><![CDATA[Scotland stay top of their World Cup qualifying group on goal difference from Belgium amid fears of a serious injury to key midfielder Erin Cuthbert.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3929el74pzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3929el74pzo</guid>
+      <pubDate>Fri, 05 Jun 2026 22:00:44 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c7/live/eba26d40-6129-11f1-8626-2999b75ce973.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Germany forward Karl ruled out of World Cup]]></title>
+      <description><![CDATA[Germany forward Lennart Karl is ruled out of the 2026 World Cup with a thigh injury.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cz020zdklmmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz020zdklmmo</guid>
+      <pubDate>Fri, 05 Jun 2026 23:04:51 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf5/live/03caafb0-6132-11f1-8250-9b8ef0ee255e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Why is Fifa giving clubs $355m during the World Cup?]]></title>
+      <description><![CDATA[BBC Sport's Ask Me Anything team explains why clubs are being given a share of $355m by Fifa for having players involved in the 2026 World Cup.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c893ndl18y9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c893ndl18y9o</guid>
+      <pubDate>Fri, 05 Jun 2026 15:54:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a012/live/11757050-60f1-11f1-89a3-d1f559421220.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[McLeish given St Mirren chance - how have young Premiership coaches fared?]]></title>
+      <description><![CDATA[St Mirren have chosen youth over experience in sticking with interim manager Craig McLeish in the long term, but how have other young managers fared in the Scottish Premiership?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/clypyg751kdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/clypyg751kdo</guid>
+      <pubDate>Sat, 06 Jun 2026 07:38:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc26/live/b0d7a9d0-60ef-11f1-a1a9-f9b22d7f0b50.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Mowbray returns as Blackburn head coach]]></title>
+      <description><![CDATA[Blackburn Rovers appoint Tony Mowbray as their new head coach for a second spell in charge.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cg5p53y02r7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cg5p53y02r7o</guid>
+      <pubDate>Fri, 05 Jun 2026 19:49:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c58/live/682ae2f0-6113-11f1-99e4-a11735b72dcc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Macclesfield FC co-owner suspended following arrest]]></title>
+      <description><![CDATA[Robert Smethurst, 48, has been "temporarily relieved of his duties", the National League North club said.]]></description>
+      <link>https://www.bbc.com/news/articles/cq812yyd19jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cq812yyd19jo</guid>
+      <pubDate>Sat, 06 Jun 2026 16:37:11 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a21/live/aa18ebc0-61b9-11f1-bd2b-bf85d34aede9.png"/>
     </item>
     <item>
       <title><![CDATA[Bayern Munich interested in Liverpool winger Ngumoha]]></title>
@@ -208,44 +280,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf9f/live/dd4aff10-6100-11f1-ae0d-afcc10479766.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How thunderstorms and lightning could impact games at World Cup]]></title>
-      <description><![CDATA[With several host cities in peak thunderstorm season there is a high chance that some World Cup games could be disrupted. Here is how and why.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cqjpjgqe42ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cqjpjgqe42ro</guid>
-      <pubDate>Fri, 05 Jun 2026 15:33:23 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daf9/live/b2a9ef40-60e3-11f1-82ca-1380a42b6773.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Fifa demands fans pay after ticketing error offered free World Cup tickets]]></title>
-      <description><![CDATA[Fifa says fans who were mistakenly given free tickets to World Cup group stage matches in Toronto must pay for them within seven days or lose the seats.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cy828v7r5ydo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy828v7r5ydo</guid>
-      <pubDate>Fri, 05 Jun 2026 09:10:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/11b21080-60b7-11f1-9b5a-5531746793c9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Real Madrid plan Olise bid - Saturday's gossip]]></title>
-      <description><![CDATA[Real Madrid are lining up a £130m move for Bayern Munich winger Michael Olise, Arne Slot turns down Fulham after being sacked by Liverpool, Newcastle United are close to making their first summer signing, plus more.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c87q758zgl5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c87q758zgl5o</guid>
-      <pubDate>Fri, 05 Jun 2026 20:48:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0607/live/79c55d10-610e-11f1-8b8c-6d33e1d5abb6.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Fifa clarifies water bottle stadium rule]]></title>
-      <description><![CDATA[Fifa says fans will be able to bring sealed disposable water bottles into World Cup stadiums following criticism over a decision to ban reusable bottles.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c79490e8g37o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c79490e8g37o</guid>
-      <pubDate>Fri, 05 Jun 2026 23:10:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/a0b5e3d0-6132-11f1-89a3-d1f559421220.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Germany forward Karl ruled out of World Cup]]></title>
-      <description><![CDATA[Germany forward Lennart Karl is ruled out of the 2026 World Cup with a thigh injury.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cz020zdklmmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cz020zdklmmo</guid>
-      <pubDate>Fri, 05 Jun 2026 23:04:51 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf5/live/03caafb0-6132-11f1-8250-9b8ef0ee255e.jpg"/>
+      <title><![CDATA[Wales aim to right their wrongs against the Czechs]]></title>
+      <description><![CDATA[Wales' trip to Montenegro did not go according to plan and, as a result, the path to the Women's World Cup is unchanged.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c5yzk55mk4no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yzk55mk4no</guid>
+      <pubDate>Sat, 06 Jun 2026 07:34:40 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2630/live/798d7700-6178-11f1-84b4-9d6caf5efa1c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Bellamy urges Wales to dominate Romania]]></title>
@@ -312,6 +352,30 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d27/live/07b77520-5e0f-11f1-8b8c-6d33e1d5abb6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Superstar in Spain, doubted in Brazil: Will Vinicius convince a nation?]]></title>
+      <description><![CDATA[Vinicius Junior is considered one of the best players in the world, but can he make the Brazilian public fall in love with him at the World Cup?]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c0l2rek0dj4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0l2rek0dj4o</guid>
+      <pubDate>Fri, 05 Jun 2026 06:05:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba1/live/b598e710-5cec-11f1-81d4-4b01427112e9.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Fifa demands fans pay after ticketing error offered free World Cup tickets]]></title>
+      <description><![CDATA[Fifa says fans who were mistakenly given free tickets to World Cup group stage matches in Toronto must pay for them within seven days or lose the seats.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cy828v7r5ydo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cy828v7r5ydo</guid>
+      <pubDate>Fri, 05 Jun 2026 09:10:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/11b21080-60b7-11f1-9b5a-5531746793c9.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Real Madrid plan Olise bid - Saturday's gossip]]></title>
+      <description><![CDATA[Real Madrid are lining up a £130m move for Bayern Munich winger Michael Olise, Arne Slot turns down Fulham after being sacked by Liverpool, Newcastle United are close to making their first summer signing, plus more.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c87q758zgl5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c87q758zgl5o</guid>
+      <pubDate>Fri, 05 Jun 2026 20:48:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0607/live/79c55d10-610e-11f1-8b8c-6d33e1d5abb6.png"/>
+    </item>
+    <item>
       <title><![CDATA[Tottenham sign Robertson after Liverpool exit]]></title>
       <description><![CDATA[Tottenham complete the signing of Scotland captain Andy Robertson as he leaves Liverpool at the end of his contract.]]></description>
       <link>https://www.bbc.com/sport/football/articles/c1l2lzzg2nyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -345,12 +409,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ae7/live/ab78a210-6125-11f1-a7a7-2725e47953a6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Stockport County appoint Rochdale boss McNulty]]></title>
-      <description><![CDATA[Stockport County appoint Rochdale boss Jim McNulty as their new manager on a three-year deal.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cn8p8j4gn6xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn8p8j4gn6xo</guid>
-      <pubDate>Fri, 05 Jun 2026 17:44:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99cc/live/835cf5c0-6025-11f1-95b8-61705f259545.jpg"/>
+      <title><![CDATA[The anatomy of a Golden Boot winner - and who could win it in 2026?]]></title>
+      <description><![CDATA[A look at the common attributes of World Cup Golden Boot winners and the claims of the leading 2026 candidates examined.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/ce3pe9nxe7jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/ce3pe9nxe7jo</guid>
+      <pubDate>Wed, 03 Jun 2026 05:22:46 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1408/live/96d316f0-5f1e-11f1-a8ca-4fcb3c649cfe.jpg"/>
     </item>
     <item>
       <title><![CDATA[How England can still qualify for the Women's World Cup]]></title>
@@ -359,14 +423,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c1k2k18r4ymo</guid>
       <pubDate>Fri, 05 Jun 2026 23:07:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1105/live/500bda60-612e-11f1-83c8-eb17c0ff297e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Superstar in Spain, doubted in Brazil: Will Vinicius convince a nation?]]></title>
-      <description><![CDATA[Vinicius Junior is considered one of the best players in the world, but can he make the Brazilian public fall in love with him at the World Cup?]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c0l2rek0dj4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c0l2rek0dj4o</guid>
-      <pubDate>Fri, 05 Jun 2026 06:05:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba1/live/b598e710-5cec-11f1-81d4-4b01427112e9.jpg"/>
     </item>
     <item>
       <title><![CDATA[Bellamy's Hagi pain as Wales boss eyes improvement]]></title>
@@ -385,6 +441,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bea4/live/df3f4350-569f-11f1-82a8-f7509e7dd289.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Stockport County appoint Rochdale boss McNulty]]></title>
+      <description><![CDATA[Stockport County appoint Rochdale boss Jim McNulty as their new manager on a three-year deal.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/cn8p8j4gn6xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cn8p8j4gn6xo</guid>
+      <pubDate>Fri, 05 Jun 2026 17:44:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99cc/live/835cf5c0-6025-11f1-95b8-61705f259545.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Perez promises biggest deal in Real Madrid's history]]></title>
       <description><![CDATA[Florentino Perez promises to make a club-record offer for an unnamed "great player" if re-elected as Real Madrid president on Sunday.]]></description>
       <link>https://www.bbc.com/sport/football/articles/cx212py8mjvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -393,12 +457,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9461/live/f515fb60-60bd-11f1-bca0-e975c953fcd1.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Wales aim to right their wrongs against the Czechs]]></title>
-      <description><![CDATA[Wales' trip to Montenegro did not go according to plan and, as a result, the path to the Women's World Cup is unchanged.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c5yzk55mk4no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c5yzk55mk4no</guid>
-      <pubDate>Sat, 06 Jun 2026 07:34:40 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2630/live/798d7700-6178-11f1-84b4-9d6caf5efa1c.jpg"/>
+      <title><![CDATA[Wales not good enough in Montenegro - Wilkinson]]></title>
+      <description><![CDATA[Having been denied a second goal, Wales were left with red faces when Jasna Djokovic levelled late on.]]></description>
+      <link>https://www.bbc.com/sport/football/articles/c3v2v245d17o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c3v2v245d17o</guid>
+      <pubDate>Fri, 05 Jun 2026 20:04:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1211/live/b8e26570-610d-11f1-89a3-d1f559421220.jpg"/>
     </item>
     <item>
       <title><![CDATA[From EFL to World Cup - 11 players to look out for]]></title>
@@ -415,30 +479,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cx217277w8wo</guid>
       <pubDate>Fri, 05 Jun 2026 14:20:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c7/live/e361e660-6020-11f1-8b8c-6d33e1d5abb6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[World Cup 2026: How to follow on the BBC]]></title>
-      <description><![CDATA[The biggest World Cup in history starts on 11 June and there are more ways to follow it on the BBC than ever before.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c62dy77g8e8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c62dy77g8e8o</guid>
-      <pubDate>Tue, 02 Jun 2026 05:33:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e49b/live/35e96df0-5daa-11f1-89a3-d1f559421220.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Download your World Cup 2026 wallchart]]></title>
-      <description><![CDATA[Get your essential piece of kit now by downloading the Fifa World Cup 2026 wallchart. ]]></description>
-      <link>https://www.bbc.com/sport/football/articles/c4g51wd9px6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/c4g51wd9px6o</guid>
-      <pubDate>Tue, 02 Jun 2026 11:06:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e2d/live/34955c50-5e7e-11f1-8b8c-6d33e1d5abb6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[World Cup 2026: All 48 squads confirmed ]]></title>
-      <description><![CDATA[All 48 confirmed squads for the 2026 World Cup in the US, Canada and Mexico.]]></description>
-      <link>https://www.bbc.com/sport/football/articles/cvgz43lgn15o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/football/articles/cvgz43lgn15o</guid>
-      <pubDate>Tue, 02 Jun 2026 12:43:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7774/live/90206170-53a0-11f1-89a3-d1f559421220.jpg"/>
     </item>
     <item>
       <title><![CDATA[All done deals in June 2026]]></title>
