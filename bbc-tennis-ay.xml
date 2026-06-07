@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 07 Jun 2026 03:45:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 07:54:19 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA['I want to thank myself' - teenager Andreeva's journey to Grand Slam glory]]></title>
-      <description><![CDATA[Mirra Andreeva thanks her coach, her team and most importantly herself as she claims her first Grand Slam trophy at the French Open.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cgmd7yv4wjdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cgmd7yv4wjdo</guid>
-      <pubDate>Sat, 06 Jun 2026 19:52:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63a5/live/9f989da0-61da-11f1-a211-b739dafd566d.jpg"/>
-    </item>
     <item>
       <title><![CDATA[Friendship to be forgotten with French Open on the line]]></title>
       <description><![CDATA[Alexander Zverev and Flavio Cobolli are good friends - but they will put that to one side when they meet in the French Open final on Sunday.]]></description>
@@ -30,6 +22,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cgmd791pjkno</guid>
       <pubDate>Sat, 06 Jun 2026 18:41:21 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c261/live/7660a170-61c2-11f1-9127-3f1b1c5e19b3.png"/>
+    </item>
+    <item>
+      <title><![CDATA['I want to thank myself' - teenager Andreeva's journey to Grand Slam glory]]></title>
+      <description><![CDATA[Mirra Andreeva thanks her coach, her team and most importantly herself as she claims her first Grand Slam trophy at the French Open.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cgmd7yv4wjdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cgmd7yv4wjdo</guid>
+      <pubDate>Sat, 06 Jun 2026 19:52:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63a5/live/9f989da0-61da-11f1-a211-b739dafd566d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Qualifier Chwalinska on '18 years of patience and perseverance' after Paris run]]></title>
@@ -46,6 +46,22 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c1dy7grv4y3o</guid>
       <pubDate>Sat, 06 Jun 2026 15:44:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e11/live/9acf5bf0-61bd-11f1-8b8c-6d33e1d5abb6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Expectation a privilege for Wales tennis star Xu]]></title>
+      <description><![CDATA[Swansea tennis star Mimi Xu is looking to back up her dream breakthrough season with another appearance at Wimbledon this summer. ]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cy82l5dl5lwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cy82l5dl5lwo</guid>
+      <pubDate>Sun, 07 Jun 2026 04:31:58 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f02/live/4e6a3ba0-55e6-11f1-9d25-db25c0e2fcc3.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How to follow Queen's on the BBC]]></title>
+      <description><![CDATA[Britain's Emma Raducanu and the great Serena Williams all feature at Queen's in the HSBC Championships - follow the tournament across the BBC.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cewpevz8w1ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cewpevz8w1ko</guid>
+      <pubDate>Sun, 07 Jun 2026 07:51:18 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4815/live/c5f0a9d0-618e-11f1-b682-cf91850925ea.jpg"/>
     </item>
     <item>
       <title><![CDATA[GB's Patten and partner Heliovaara beaten in French Open doubles final]]></title>
@@ -80,28 +96,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7aa/live/f701f270-60f5-11f1-bb63-4f1168d17ecf.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Hewett and Reid win seventh straight French Open title]]></title>
-      <description><![CDATA[Britain's Alfie Hewett and Gordon Reid win their seventh successive French Open wheelchair doubles title together.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cp3p324ye7no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cp3p324ye7no</guid>
-      <pubDate>Fri, 05 Jun 2026 18:26:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d469/live/fcad6250-6108-11f1-9134-bfd933b9750c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How to follow French Open finals weekend across BBC]]></title>
-      <description><![CDATA[The second Grand Slam of the year is nearing its conclusion - here is all you need to know about French Open finals weekend.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c2426p5z9dvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c2426p5z9dvo</guid>
-      <pubDate>Sat, 06 Jun 2026 19:22:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85e6/live/bb48cf50-5f66-11f1-8dad-8347ac6f73d8.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How shock French Open finalist's tiny tattoo gives meaning to big run]]></title>
       <description><![CDATA[Qualifier Maja Chwalinska is one win away from an unthinkable French Open title after coming through the darkest period of her life.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cp8p8n1npyeo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cp8p8n1npyeo</guid>
       <pubDate>Thu, 04 Jun 2026 20:03:05 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d0d/live/e13db290-603b-11f1-ba56-b5d51ea42878.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Hewett and Reid win seventh straight French Open title]]></title>
+      <description><![CDATA[Britain's Alfie Hewett and Gordon Reid win their seventh successive French Open wheelchair doubles title together.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cp3p324ye7no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cp3p324ye7no</guid>
+      <pubDate>Fri, 05 Jun 2026 18:26:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d469/live/fcad6250-6108-11f1-9134-bfd933b9750c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Berrettini tired of retiring as injury ends French Open hopes]]></title>
@@ -136,14 +144,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1658/live/5061ac30-5f65-11f1-8dad-8347ac6f73d8.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sabalenka 'fell into dark hole mentally' in shock quarter-final loss]]></title>
-      <description><![CDATA[World number one Aryna Sabalenka sees her French Open title hopes vanish as she unravels in a crushing quarter-final defeat by Diana Shnaider.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/clypeq8ljp6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/clypeq8ljp6o</guid>
-      <pubDate>Wed, 03 Jun 2026 15:56:46 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c6c/live/93fc79b0-5f52-11f1-b658-099eb92ce9d6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Hewett & Reid into wheelchair doubles semi-finals]]></title>
       <description><![CDATA[British duo Alfie Hewett and Gordon Reid start their bid for a seventh consecutive men's wheelchair doubles title at the French Open with a comfortable quarter-final win.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/ce3p9xe7d3vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -160,6 +160,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ab7/live/c6a9ca70-5e8a-11f1-82d1-3f140356d043.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Sabalenka 'fell into dark hole mentally' in shock quarter-final loss]]></title>
+      <description><![CDATA[World number one Aryna Sabalenka sees her French Open title hopes vanish as she unravels in a crushing quarter-final defeat by Diana Shnaider.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/clypeq8ljp6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/clypeq8ljp6o</guid>
+      <pubDate>Wed, 03 Jun 2026 15:56:46 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c6c/live/93fc79b0-5f52-11f1-b658-099eb92ce9d6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Zverev ends Jodar run to reach semi-finals and keep Grand Slam dream alive]]></title>
       <description><![CDATA[Alexander Zverev keeps his pursuit of an elusive Grand Slam title on track with a comprehensive quarter-final win against teenager Rafael Jodar at the French Open.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cqxpn5glvzro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -174,14 +182,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cdep82g4k9wo</guid>
       <pubDate>Mon, 01 Jun 2026 23:28:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9541/live/1fa59bf0-5def-11f1-9565-ef0970da1cfe.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Will Sabalenka and Osaka open door for women's night sessions?]]></title>
-      <description><![CDATA[It may only have lasted 87 minutes, but Aryna Sabalenka's match against Naomi Osaka brought an X-factor to a very rare French Open women's night-session match.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/clypljzxe2po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/clypljzxe2po</guid>
-      <pubDate>Mon, 01 Jun 2026 22:41:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e2e/live/e64d0350-5dfa-11f1-8695-b166103db198.jpg"/>
     </item>
     <item>
       <title><![CDATA[No previous French Open champions left - who will seize chance?]]></title>
