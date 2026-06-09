@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 21:23:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 23:04:29 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[World's largest chipmaker does not rule out price rises as costs increase]]></title>
+      <description><![CDATA[In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.]]></description>
+      <link>https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce3ez4zzzlvo</guid>
+      <pubDate>Tue, 09 Jun 2026 22:00:24 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0073/live/e8e49210-6424-11f1-a614-bb0f90cd931c.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up]]></title>
       <description><![CDATA[ Xi has wrapped up a two-day visit to Pyongyang, his first official trip to North Korea since 2019.]]></description>
@@ -56,20 +64,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f7/live/174f9600-5fbf-11f1-8bfb-e1d8bc1274bd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Grab what you can while you can: The new reality in the South China Sea ]]></title>
-      <description><![CDATA[After years of watching China create land to back its expansive claims, others are doing the same.  ]]></description>
-      <link>https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy823n3ln29o</guid>
-      <pubDate>Wed, 03 Jun 2026 22:00:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a80/live/357b5b10-5e74-11f1-8b8c-6d33e1d5abb6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[China goes after 'ghost kitchens' to rein in cut-throat food delivery apps]]></title>
       <description><![CDATA[The thousands of "ghost kitchens" - online shops that don't actually exist - have spooked Chinese consumers.]]></description>
       <link>https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cj4p7zglq5no</guid>
       <pubDate>Tue, 02 Jun 2026 07:52:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8187/live/9ae7af80-5e47-11f1-bc28-25fe0a327fe4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Grab what you can while you can: The new reality in the South China Sea ]]></title>
+      <description><![CDATA[After years of watching China create land to back its expansive claims, others are doing the same.  ]]></description>
+      <link>https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cy823n3ln29o</guid>
+      <pubDate>Wed, 03 Jun 2026 22:00:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a80/live/357b5b10-5e74-11f1-8b8c-6d33e1d5abb6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days]]></title>
@@ -86,14 +94,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g8vg72z43o</guid>
       <pubDate>Wed, 27 May 2026 22:00:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af0/live/3c285660-5aab-11f1-89a3-d1f559421220.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Xi basks in spotlight as he hosts Putin days after Trump]]></title>
-      <description><![CDATA[Two presidential visits days apart is how Xi Jinping wants the world to see him: talking to everyone, tied to no-one.]]></description>
-      <link>https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cjep12qx3xjo</guid>
-      <pubDate>Wed, 20 May 2026 11:42:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d09d/live/432fc630-544f-11f1-b682-cf91850925ea.jpg"/>
     </item>
   </channel>
 </rss>
