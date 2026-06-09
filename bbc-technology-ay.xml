@@ -10,13 +10,21 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 17:24:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 19:36:34 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
-      <title><![CDATA[Farage says Reform has contacted X 'at highest level' over fake AI ads]]></title>
+      <title><![CDATA[Version of AI tool 'too powerful for public' released to public]]></title>
+      <description><![CDATA[Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.]]></description>
+      <link>https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ckg701v1dp6o</guid>
+      <pubDate>Tue, 09 Jun 2026 18:35:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a65/live/82edf440-642b-11f1-a08b-a904eba6340c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Farage says Reform has contacted X 'to highest level' over fake AI ads]]></title>
       <description><![CDATA[The fake ads feature the governor of the Bank of England - the Bank has urged people to report them.]]></description>
       <link>https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cewq1w7r0zgo</guid>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2124z7g45o</guid>
       <pubDate>Fri, 05 Jun 2026 07:17:39 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f663/live/f9d74be0-602c-11f1-95b8-61705f259545.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The ancient trick making food waste useful and tasty]]></title>
-      <description><![CDATA[Instead of throwing away byproducts of food processing, fermentation is making them valuable.]]></description>
-      <link>https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c78kmj2kyklo</guid>
-      <pubDate>Thu, 04 Jun 2026 23:10:26 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e61/live/8661ed20-5297-11f1-8b8c-6d33e1d5abb6.jpg"/>
     </item>
   </channel>
 </rss>
