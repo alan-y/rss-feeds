@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 13:57:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 17:23:41 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Williams' Queen's campaign in doubt after Mboko injury]]></title>
+      <description><![CDATA[Serena Williams' doubles campaign at Queen's is in doubt after Victoria Mboko suffers a knee injury in her singles match against Karolina Pliskova.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c3ey8pkgjzlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c3ey8pkgjzlo</guid>
+      <pubDate>Wed, 10 Jun 2026 16:59:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebc8/live/d8077f00-64ee-11f1-8e1d-bbbb1017d210.jpg"/>
+    </item>
     <item>
       <title><![CDATA['Maybe a C-minus?' - how good was Williams' winning return?]]></title>
       <description><![CDATA[Serena Williams rolls back the years at Queen's with a winning performance on her comeback to tennis after 1,375 days away from the sport.]]></description>
@@ -40,29 +48,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d44/live/fcace680-6410-11f1-9216-c3eba4acaf31.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Williams' doubles partner retires in second set of singles match after fall]]></title>
+      <description><![CDATA[Victoria Mboko retires in the second set of her singles match against Karolina Pliskova after a heavy fall. The Canadian is scheduled to play with Serena Williams in doubles on Thursday.]]></description>
+      <link>https://www.bbc.com/sport/tennis/videos/c621j6jvz6mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/c621j6jvz6mo</guid>
+      <pubDate>Wed, 10 Jun 2026 17:02:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b656/live/1942a1e0-64ed-11f1-8546-8f19e4fe30f4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Williams makes winning return at Queen's]]></title>
       <description><![CDATA[Serena Williams and Victoria Mboko defeat third seeds Nicole Melichar-Martinez and Erin Routliffe to reach the second round at Queen's. The unseeded pair came through a tie-break in the opening set before racing away with the second set to win 7-6 (7-2) 6-2. ]]></description>
       <link>https://www.bbc.com/sport/tennis/videos/c4gypxylkjmo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/c4gypxylkjmo</guid>
       <pubDate>Tue, 09 Jun 2026 20:45:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26dd/live/e6799470-6443-11f1-b1db-af71d47507d6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['You can do anything at any age' - Williams on Queen's comeback ]]></title>
-      <description><![CDATA[Serena Williams makes a triumphant return to professional tennis at the Queen's Club, securing a first-round doubles victory alongside Canada's Victoria Mboko. 
-Playing on the Andy Murray Arena, the 44-year-old American icon inspired the crowd by declaring "you can do anything at any age" following their victory. ]]></description>
-      <link>https://www.bbc.com/sport/tennis/videos/cy8d74mv2k3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/cy8d74mv2k3o</guid>
-      <pubDate>Tue, 09 Jun 2026 21:16:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57dc/live/5f185890-6448-11f1-b1db-af71d47507d6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Raducanu blitzes Blinkova in Queen's opening match]]></title>
-      <description><![CDATA[British number one Emma Raducanu wins her opening game of the grass-court season 6-0 6-3 against Russia's Anna Blinkova, to advance to the second round of Queen's. ]]></description>
-      <link>https://www.bbc.com/sport/tennis/videos/cwy0ly7x7dpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/cwy0ly7x7dpo</guid>
-      <pubDate>Tue, 09 Jun 2026 14:44:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b74/live/68142b90-6411-11f1-8e1d-bbbb1017d210.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why last woman to defeat Williams doesn't mind change in history books]]></title>
@@ -201,6 +200,23 @@ Playing on the Andy Murray Arena, the 44-year-old American icon inspired the cro
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83b7/live/54d72980-603b-11f1-ba56-b5d51ea42878.jpg"/>
     </item>
     <item>
+      <title><![CDATA['You can do anything at any age' - Williams on Queen's comeback ]]></title>
+      <description><![CDATA[Serena Williams makes a triumphant return to professional tennis at the Queen's Club, securing a first-round doubles victory alongside Canada's Victoria Mboko. 
+Playing on the Andy Murray Arena, the 44-year-old American icon inspired the crowd by declaring "you can do anything at any age" following their victory. ]]></description>
+      <link>https://www.bbc.com/sport/tennis/videos/cy8d74mv2k3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/cy8d74mv2k3o</guid>
+      <pubDate>Tue, 09 Jun 2026 21:16:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57dc/live/5f185890-6448-11f1-b1db-af71d47507d6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Raducanu blitzes Blinkova in Queen's opening match]]></title>
+      <description><![CDATA[British number one Emma Raducanu wins her opening game of the grass-court season 6-0 6-3 against Russia's Anna Blinkova, to advance to the second round of Queen's. ]]></description>
+      <link>https://www.bbc.com/sport/tennis/videos/cwy0ly7x7dpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/cwy0ly7x7dpo</guid>
+      <pubDate>Tue, 09 Jun 2026 14:44:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b74/live/68142b90-6411-11f1-8e1d-bbbb1017d210.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How Williams' training partner from Wigan kept her return secret]]></title>
       <description><![CDATA[British tennis player David Quayle flew out to Florida to help Serena Williams prepare for her return to tennis at Queen's.]]></description>
       <link>https://www.bbc.com/sport/tennis/videos/c79yn3lqx33o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -220,28 +236,12 @@ Playing on the Andy Murray Arena, the 44-year-old American icon inspired the cro
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d242/live/4a232570-5aaf-11f1-b682-cf91850925ea.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Seven-time Grand Slam champion Murray retires ]]></title>
-      <description><![CDATA[Seven-time Grand Slam champion Jamie Murray retires from tennis as one of the most-decorated doubles players in the world. Here's a look back at his 2007 and 2017 mixed doubles triumphs at Wimbledon. ]]></description>
-      <link>https://www.bbc.com/sport/tennis/videos/c4gdd6z0dlmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/c4gdd6z0dlmo</guid>
-      <pubDate>Wed, 15 Apr 2026 14:39:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9195/live/f927f480-38d9-11f1-879d-1b2f5c3919b8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Draper cruises to Davis Cup win on return from injury]]></title>
-      <description><![CDATA[Jack Draper cruises to an emphatic victory on his long-awaited return from injury to give Great Britain the lead over Norway in Davis Cup qualifying.]]></description>
-      <link>https://www.bbc.com/sport/tennis/videos/clyn7pd5jg7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/clyn7pd5jg7o</guid>
-      <pubDate>Thu, 05 Feb 2026 19:42:14 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da4a/live/447650d0-02ca-11f1-b7e1-afb6d0884c18.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I'm always the chaser?' - Djokovic unimpressed by reporter's question]]></title>
-      <description><![CDATA[24-time Grand Slam winner Novak Djokovic says he felt "disrespectful" after being asked how he felt "chasing" Jannik Sinner and Carlos Alcaraz, after previously "chasing" Roger Federer and Rafael Nadal during the early parts of his career. ]]></description>
-      <link>https://www.bbc.com/sport/tennis/videos/cq6vp3ep9rmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/cq6vp3ep9rmo</guid>
-      <pubDate>Wed, 28 Jan 2026 12:08:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaa8/live/c5346590-fc3f-11f0-a422-4ba8a094a8fa.jpg"/>
+      <title><![CDATA[Murray retires after 'tough year of tennis']]></title>
+      <description><![CDATA[Seven-time Grand Slam champion Jamie Murray retires from tennis, saying he had no desire to return to the sport and has no regrets.]]></description>
+      <link>https://www.bbc.com/sport/tennis/videos/cwyxx81y0wlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/cwyxx81y0wlo</guid>
+      <pubDate>Wed, 15 Apr 2026 17:31:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fe6/live/5f052d30-38ef-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Will Sabalenka and Osaka open door for women's night sessions?]]></title>
@@ -300,6 +300,22 @@ Playing on the Andy Murray Arena, the 44-year-old American icon inspired the cro
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5739/live/4dca2f20-ff83-11f0-9972-d3f265c101c6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Draper cruises to Davis Cup win on return from injury]]></title>
+      <description><![CDATA[Jack Draper cruises to an emphatic victory on his long-awaited return from injury to give Great Britain the lead over Norway in Davis Cup qualifying.]]></description>
+      <link>https://www.bbc.com/sport/tennis/videos/clyn7pd5jg7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/clyn7pd5jg7o</guid>
+      <pubDate>Thu, 05 Feb 2026 19:42:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da4a/live/447650d0-02ca-11f1-b7e1-afb6d0884c18.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['I'm always the chaser?' - Djokovic unimpressed by reporter's question]]></title>
+      <description><![CDATA[24-time Grand Slam winner Novak Djokovic says he felt "disrespectful" after being asked how he felt "chasing" Jannik Sinner and Carlos Alcaraz, after previously "chasing" Roger Federer and Rafael Nadal during the early parts of his career. ]]></description>
+      <link>https://www.bbc.com/sport/tennis/videos/cq6vp3ep9rmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/cq6vp3ep9rmo</guid>
+      <pubDate>Wed, 28 Jan 2026 12:08:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaa8/live/c5346590-fc3f-11f0-a422-4ba8a094a8fa.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Are we animals in the zoo?' - Top tennis players call for more privacy]]></title>
       <description><![CDATA[Jessica Pegula, Iga Swiatek and Novak Djokovic have all supported Coco Gauff's concerns over the use of cameras away from the court at the Australian Open, insisting more privacy is needed for all players competing. ]]></description>
       <link>https://www.bbc.com/sport/tennis/videos/cvg1zypy8p9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -354,14 +370,6 @@ Playing on the Andy Murray Arena, the 44-year-old American icon inspired the cro
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/cm28l1m133vo</guid>
       <pubDate>Wed, 10 Dec 2025 17:52:36 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/995c/live/10596740-d5ef-11f0-9fb5-5f3a3703a365.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Women's tennis going in right direction - King]]></title>
-      <description><![CDATA[Billie Jean King, founder of the WTA, believes the organisation's billion-dollar deal with Mercedes shows the tour "continues to lead the way" in women's sport.]]></description>
-      <link>https://www.bbc.com/sport/tennis/videos/cvg170lrpvdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/cvg170lrpvdo</guid>
-      <pubDate>Wed, 10 Dec 2025 17:43:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b2c/live/160543c0-d5eb-11f0-a892-01d657345866.jpg"/>
     </item>
     <item>
       <title><![CDATA[Who has won tennis' 'Battle of the Sexes'?]]></title>
