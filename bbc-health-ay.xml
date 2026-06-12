@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 10:52:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 14:10:32 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -272,6 +272,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bda/live/d088bf20-5723-11f0-82f9-ffcaa67a8d94.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Major A&E changes announced amid strikes]]></title>
+      <description><![CDATA[Patients have been urged to only attend A&E if their condition is life-threatening or serious.]]></description>
+      <link>https://www.bbc.com/news/articles/c5yzdq8g758o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c5yzdq8g758o</guid>
+      <pubDate>Fri, 12 Jun 2026 12:50:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/609a/live/4e730160-6651-11f1-a24b-57d53eede25c.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Cancellations 'unavoidable' during hospital strike]]></title>
       <description><![CDATA[The British Medical Association has announced more strike action in an ongoing dispute over pay.]]></description>
       <link>https://www.bbc.com/news/articles/ckg89vk7em7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -304,14 +312,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ede7/live/53554ba0-3421-11f1-aa50-fd39c44a0779.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Month of worry' over doctor strike surgery delay]]></title>
-      <description><![CDATA[The strike further delays Tom Lawson's gastric bypass surgery after a more than three-year wait.]]></description>
-      <link>https://www.bbc.com/news/articles/crr1e1lgj7qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/crr1e1lgj7qo</guid>
-      <pubDate>Wed, 08 Apr 2026 12:32:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba4/live/60a6aa40-3333-11f1-8873-2d60fc58e0b0.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why did it take so long for me to be diagnosed?]]></title>
       <description><![CDATA[Ellie Colton was finally diagnosed with endometriosis after years of debilitating pain. She meets a scientist developing a simple diagnostic test that could help many women.]]></description>
       <link>https://www.bbc.com/videos/c20y7k26p7xo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -326,14 +326,6 @@
       <guid isPermaLink="false">https://www.bbc.com/videos/cwy01y93kqvo</guid>
       <pubDate>Thu, 11 Jun 2026 08:47:06 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8969/live/f6e4fa60-6570-11f1-8e1d-bbbb1017d210.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Author on benefits of investing in children's mental health]]></title>
-      <description><![CDATA[Dr Monique Lynch-Jonah has launched the Healthy Minds Kids Series. The collection of picture books aims to help children aged seven to 12 develop emotional wellbeing, confidence, resilience, and positive mental health from an early age.]]></description>
-      <link>https://www.bbc.com/videos/cz75wl8d8w2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/videos/cz75wl8d8w2o</guid>
-      <pubDate>Wed, 10 Jun 2026 08:23:21 GMT</pubDate>
-      <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e069/live/9b22da10-64a5-11f1-9c89-85486d952f7c.jpg"/>
     </item>
   </channel>
 </rss>
