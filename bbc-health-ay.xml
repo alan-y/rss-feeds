@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 19:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 20:51:40 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Resident doctors cancel strike after new offer from government]]></title>
+      <description><![CDATA[The walkout had been due to start at 07:00 BST on Monday and last until Friday.]]></description>
+      <link>https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cj9g1wgxng2o</guid>
+      <pubDate>Sat, 13 Jun 2026 20:46:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7d/live/40c89fc0-675f-11f1-8e1d-bbbb1017d210.jpg"/>
+    </item>
     <item>
       <title><![CDATA['I've never been this good' – revolutionary immune reset puts lupus in remission]]></title>
       <description><![CDATA[Patients on the trial have not needed medication to manage their condition.]]></description>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/c3d2grdep8mo</guid>
       <pubDate>Thu, 04 Jun 2026 04:55:43 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d23c/live/ba4e90d0-5f66-11f1-8dad-8347ac6f73d8.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Breakthrough ovarian cancer drug offers patients more time and better quality of life]]></title>
-      <description><![CDATA[Women taking the drug, which is kinder on the body, tell the BBC it has given them their lives back.]]></description>
-      <link>https://www.bbc.com/news/articles/ce8p57y35lzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8p57y35lzo</guid>
-      <pubDate>Wed, 03 Jun 2026 23:34:59 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a83/live/55c96ba0-5fe1-11f1-a292-23ac7fbac375.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cosmeticorexia: How girls are falling down a skincare rabbit hole]]></title>
@@ -302,14 +302,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3l2pygnlyo</guid>
       <pubDate>Mon, 13 Apr 2026 23:06:45 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e71/live/33e4db60-374a-11f1-8a34-6b2c37f4bef9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Doctors strikes' and 'paw prints in space']]></title>
-      <description><![CDATA[A round-up of stories from local newspapers and the BBC from the past week in the West of England.]]></description>
-      <link>https://www.bbc.com/news/articles/c0krp1e7lkmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c0krp1e7lkmo</guid>
-      <pubDate>Sun, 12 Apr 2026 06:12:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ede7/live/53554ba0-3421-11f1-aa50-fd39c44a0779.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why did it take so long for me to be diagnosed?]]></title>
