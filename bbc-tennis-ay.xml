@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 05:38:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 10:29:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Williams sisters receive Wimbledon doubles wildcard]]></title>
+      <description><![CDATA[Serena Williams is given a wildcard to play alongside older sister Venus in the Wimbledon women's doubles.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/clyerm8lym9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/clyerm8lym9o</guid>
+      <pubDate>Tue, 16 Jun 2026 10:18:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5a9/live/87fada90-696a-11f1-9480-fb9e69e45953.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Evans questions lack of 'classy gesture' after Queen's wildcard decision]]></title>
       <description><![CDATA[Britain's Dan Evans says it would have been "a classy gesture" to give him a Queen's wildcard in his penultimate tournament before retirement.]]></description>
@@ -56,20 +64,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aaa/live/1abddcb0-680d-11f1-b1db-af71d47507d6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Raducanu loses Queen's final as trophy wait continues]]></title>
-      <description><![CDATA[Emma Raducanu misses the chance to win a first title since her 2021 US Open triumph as she is beaten in the Queen's final by Croatia's Donna Vekic.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cvg5e5nlmk8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cvg5e5nlmk8o</guid>
-      <pubDate>Sun, 14 Jun 2026 14:41:09 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06eb/live/95b66b20-6818-11f1-a177-65e13786d3a5.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How to follow Queen's live on the BBC as men's tournament starts]]></title>
       <description><![CDATA[How to follow the men's HSBC Championships at Queen's live on the BBC.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cewpevz8w1ko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cewpevz8w1ko</guid>
       <pubDate>Mon, 15 Jun 2026 10:27:01 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba5/live/8775a120-680e-11f1-a177-65e13786d3a5.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Raducanu loses Queen's final as trophy wait continues]]></title>
+      <description><![CDATA[Emma Raducanu misses the chance to win a first title since her 2021 US Open triumph as she is beaten in the Queen's final by Croatia's Donna Vekic.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cvg5e5nlmk8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cvg5e5nlmk8o</guid>
+      <pubDate>Sun, 14 Jun 2026 14:41:09 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06eb/live/95b66b20-6818-11f1-a177-65e13786d3a5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Raducanu thankful for 'incredible support' after Queen's final loss]]></title>
@@ -97,14 +105,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/crlwkx2j5nyo</guid>
       <pubDate>Sat, 13 Jun 2026 18:10:10 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cae8/live/6c677450-672b-11f1-90d2-07b4bd908511.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Boulter stuns Rybakina at Queen's for biggest career win]]></title>
-      <description><![CDATA[An inspired Katie Boulter celebrates the biggest win of her career by ranking as she beats world number two Elena Rybakina to reach the Queen's semi-finals.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c1wyq5r20djo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c1wyq5r20djo</guid>
-      <pubDate>Fri, 12 Jun 2026 20:39:47 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cc1/live/d9118a20-669d-11f1-80bb-fb4d08542828.jpg"/>
     </item>
     <item>
       <title><![CDATA[Vekic grateful for Queen's Club opportunity after title win]]></title>
@@ -159,6 +159,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2696/live/950d8b80-65a8-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Boulter stuns Rybakina at Queen's for biggest career win]]></title>
+      <description><![CDATA[An inspired Katie Boulter celebrates the biggest win of her career by ranking as she beats world number two Elena Rybakina to reach the Queen's semi-finals.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c1wyq5r20djo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c1wyq5r20djo</guid>
+      <pubDate>Fri, 12 Jun 2026 20:39:47 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cc1/live/d9118a20-669d-11f1-80bb-fb4d08542828.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Former British number one Evans to retire after Wimbledon]]></title>
       <description><![CDATA[Former British number one Dan Evans is to retire from tennis after this year's Wimbledon.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c2eyx7x47d1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -197,14 +205,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cwy0ldzprrwo</guid>
       <pubDate>Tue, 09 Jun 2026 20:13:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfeb/live/b8982280-642d-11f1-b8f6-610bb0606470.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Raducanu feeds off home support to return to winning ways at Queen's]]></title>
-      <description><![CDATA[Emma Raducanu begins her Wimbledon preparations with a promising straight-set victory at Queen's.while Katie Boulter fights back for a deserved win.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cr5j4yjzdp4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cr5j4yjzdp4o</guid>
-      <pubDate>Tue, 09 Jun 2026 20:04:36 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bf6/live/66c2f270-641c-11f1-9216-c3eba4acaf31.jpg"/>
     </item>
     <item>
       <title><![CDATA['This win goes to the crowd' - Boulter on victory over Rybakina]]></title>
