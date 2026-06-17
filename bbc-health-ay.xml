@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 02:05:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 07:29:44 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['We travel 530 miles so our son can have a haircut']]></title>
+      <description><![CDATA[How a very special hairdressing salon in Lowestoft is cutting it when it comes to neurodivergence.]]></description>
+      <link>https://www.bbc.com/news/articles/cwyd9yzg46yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cwyd9yzg46yo</guid>
+      <pubDate>Wed, 17 Jun 2026 06:13:43 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08e8/live/52d9b9e0-68a1-11f1-b9ac-e71b9be292bd.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Why you might not be buying the right pain relief for period cramps]]></title>
       <description><![CDATA[Many women are buying less effective pain medication for period cramps, supermarket data suggests. ]]></description>
@@ -112,12 +120,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1137/live/ac17f060-6056-11f1-89a3-d1f559421220.jpg"/>
     </item>
     <item>
-      <title><![CDATA['World-first' vaccine designed by artificial intelligence]]></title>
-      <description><![CDATA[Cambridge scientists say they have, for the first time, tested a vaccine designed by AI.]]></description>
-      <link>https://www.bbc.com/news/articles/crrpggegwe0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/crrpggegwe0o</guid>
-      <pubDate>Thu, 04 Jun 2026 23:29:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5399/live/5dceca40-6066-11f1-89f7-47e36b8faab0.jpg"/>
+      <title><![CDATA[Flesh-eating bug made my skin look like roadkill]]></title>
+      <description><![CDATA[Caroline Fonjock says she owes her life to the medics who quickly diagnosed and treated her.]]></description>
+      <link>https://www.bbc.com/news/articles/c77y4de6xeno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c77y4de6xeno</guid>
+      <pubDate>Wed, 17 Jun 2026 05:39:04 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c45b/live/b9f2d710-693c-11f1-b83c-1976736f0a63.jpg"/>
     </item>
     <item>
       <title><![CDATA[Recovery of Ebola patients offers rare moments of joy at epicentre of outbreak]]></title>
@@ -142,14 +150,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cg7p8n9g2klo</guid>
       <pubDate>Wed, 03 Jun 2026 23:42:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed01/live/2c3845a0-446f-11f1-b55d-0f258dce1735.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I forgot what it's like to be outside': Intensive care ward opens on rooftop]]></title>
-      <description><![CDATA[The outdoor ward, at King's College Hospital in London, will monitor how much it boosts the recovery of seriously ill patients.]]></description>
-      <link>https://www.bbc.com/news/articles/cm2p1pzzmyeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2p1pzzmyeo</guid>
-      <pubDate>Fri, 29 May 2026 00:00:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5973/live/ff036cb0-5b28-11f1-8b8c-6d33e1d5abb6.jpg"/>
     </item>
     <item>
       <title><![CDATA[What is meningitis B and why is a vaccine only being offered to some teenagers?]]></title>
@@ -224,6 +224,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f16/live/9a369f00-664a-11f1-9cfe-f18f6b94142d.jpg"/>
     </item>
     <item>
+      <title><![CDATA['I forgot what it's like to be outside': Intensive care ward opens on rooftop]]></title>
+      <description><![CDATA[The outdoor ward, at King's College Hospital in London, will monitor how much it boosts the recovery of seriously ill patients.]]></description>
+      <link>https://www.bbc.com/news/articles/cm2p1pzzmyeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cm2p1pzzmyeo</guid>
+      <pubDate>Fri, 29 May 2026 00:00:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5973/live/ff036cb0-5b28-11f1-8b8c-6d33e1d5abb6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Excessive social media 'negatively impacts wellbeing']]></title>
       <description><![CDATA[The World Happiness Reports finds the more time spent on social media the greater loss of wellbeing.]]></description>
       <link>https://www.bbc.com/news/articles/cgmp493wpj0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -246,6 +254,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cp9p5m00nxgo</guid>
       <pubDate>Mon, 04 May 2026 06:15:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7657/live/382b7450-44b4-11f1-ac78-2112837ce2aa.png"/>
+    </item>
+    <item>
+      <title><![CDATA['World-first' vaccine designed by artificial intelligence]]></title>
+      <description><![CDATA[Cambridge scientists say they have, for the first time, tested a vaccine designed by AI.]]></description>
+      <link>https://www.bbc.com/news/articles/crrpggegwe0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/crrpggegwe0o</guid>
+      <pubDate>Thu, 04 Jun 2026 23:29:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5399/live/5dceca40-6066-11f1-89f7-47e36b8faab0.jpg"/>
     </item>
     <item>
       <title><![CDATA[Bird flu vaccine trial against potential pandemic strain begins]]></title>
