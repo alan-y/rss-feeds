@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 19 Jun 2026 12:26:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:51:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Moutet loses almost all prize money for swearing on BBC TV]]></title>
+      <description><![CDATA[France's Corentin Moutet loses almost his entire Queen's prize money after being fined $40,000 for swearing seven times in a live BBC television interview.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cvgdq9gjlv1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cvgdq9gjlv1o</guid>
+      <pubDate>Fri, 19 Jun 2026 14:40:20 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eff/live/87e40820-6be4-11f1-95c7-b58617a2924f.jpg"/>
+    </item>
     <item>
       <title><![CDATA[GB's Klugman beaten in Nottingham second round]]></title>
       <description><![CDATA[British teenager Hannah Klugman says she feels "very different" after a week practising with "some great players" following her second-round Nottingham Open defeat.]]></description>
@@ -40,6 +48,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ed/live/f4475500-6a66-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Opened new world' - Paralympian Breakwell on how fate launched career]]></title>
+      <description><![CDATA[Abbie Breakwell reflects on the chance meeting that launched her wheelchair tennis career as she prepares to play at the venue where it happened.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cz7502q2zz8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cz7502q2zz8o</guid>
+      <pubDate>Fri, 19 Jun 2026 13:24:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a51/live/57f6c3d0-6bd2-11f1-a94c-73f00a91c697.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Evans misses out on Wimbledon singles wildcard]]></title>
       <description><![CDATA[British tennis stalwart Dan Evans will have to go through qualifying to make the main draw of the men's singles at Wimbledon after missing out on a wildcard.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cn94141qdqqo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -54,22 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cm20exjnmd5o</guid>
       <pubDate>Wed, 17 Jun 2026 19:15:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1692/live/eaca9400-6a62-11f1-b7aa-49f3a4d630f8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Norrie beaten at Queen's on injury return]]></title>
-      <description><![CDATA[Cameron Norrie is beaten by Alejandro Davidovich Fokina at Queen's in the Briton's first singles match since suffering a rib injury in May.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/crm03nkvdnxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/crm03nkvdnxo</guid>
-      <pubDate>Tue, 16 Jun 2026 19:16:37 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7fd/live/1a2e9c70-69b7-11f1-8e1d-bbbb1017d210.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Moutet swears seven times in live BBC interview]]></title>
-      <description><![CDATA[Corentin Moutet says he "hopes you guys didn't get offended" after swearing seven times in a live BBC television interview at Queen's.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c5yzlrn2r13o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c5yzlrn2r13o</guid>
-      <pubDate>Tue, 16 Jun 2026 17:45:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96c1/live/269dbd10-69a8-11f1-8e1d-bbbb1017d210.jpg"/>
     </item>
     <item>
       <title><![CDATA[How to follow the men's tournament at Queen's on the BBC]]></title>
@@ -131,6 +131,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b62/live/1a33e480-6973-11f1-8e1d-bbbb1017d210.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Norrie beaten at Queen's on injury return]]></title>
+      <description><![CDATA[Cameron Norrie is beaten by Alejandro Davidovich Fokina at Queen's in the Briton's first singles match since suffering a rib injury in May.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/crm03nkvdnxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/crm03nkvdnxo</guid>
+      <pubDate>Tue, 16 Jun 2026 19:16:37 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7fd/live/1a2e9c70-69b7-11f1-8e1d-bbbb1017d210.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Moutet swears seven times in live BBC interview]]></title>
+      <description><![CDATA[Corentin Moutet says he "hopes you guys didn't get offended" after swearing seven times in a live BBC television interview at Queen's.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c5yzlrn2r13o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c5yzlrn2r13o</guid>
+      <pubDate>Tue, 16 Jun 2026 17:45:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96c1/live/269dbd10-69a8-11f1-8e1d-bbbb1017d210.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Evans questions lack of 'classy gesture' after Queen's wildcard decision]]></title>
       <description><![CDATA[Britain's Dan Evans says it would have been "a classy gesture" to give him a Queen's wildcard in his penultimate tournament before retirement.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/ceqdjzx7340o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -155,28 +171,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05e0/live/5ae4a910-696e-11f1-8e1d-bbbb1017d210.png"/>
     </item>
     <item>
-      <title><![CDATA['The new Emma' - positives Raducanu can take from Queen's to Wimbledon]]></title>
-      <description><![CDATA[Emma Raducanu falls agonisingly short at Queen's after losing in Sunday's final - but there are huge positives to take with Wimbledon just around the corner.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c1kymddkkj7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c1kymddkkj7o</guid>
-      <pubDate>Sun, 14 Jun 2026 18:53:08 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f2/live/497a0b20-680b-11f1-a177-65e13786d3a5.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Bridesmaid duties await Nicholls after Queen's joy]]></title>
       <description><![CDATA[Tennis star Olivia Nicholls will be playing a key role at her doubles partner's wedding.]]></description>
       <link>https://www.bbc.com/news/articles/cy73x54x43xo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cy73x54x43xo</guid>
       <pubDate>Tue, 16 Jun 2026 13:16:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e309/live/fd083fc0-695c-11f1-b208-61bbe9701388.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[GB's Jones misses match points in Nottingham loss]]></title>
-      <description><![CDATA[Britain's Francesca Jones misses two match points in a narrow defeat by Talia Gibson in the Nottingham Open first round.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c14yj747m5vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c14yj747m5vo</guid>
-      <pubDate>Mon, 15 Jun 2026 18:38:33 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51f3/live/2ca5d550-68de-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Raducanu overcomes 'tough moments' to reach Queen's final ]]></title>
@@ -274,6 +274,22 @@ Playing on the Andy Murray Arena, the 44-year-old American icon inspired the cro
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57dc/live/5f185890-6448-11f1-b1db-af71d47507d6.jpg"/>
     </item>
     <item>
+      <title><![CDATA['The new Emma' - positives Raducanu can take from Queen's to Wimbledon]]></title>
+      <description><![CDATA[Emma Raducanu falls agonisingly short at Queen's after losing in Sunday's final - but there are huge positives to take with Wimbledon just around the corner.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c1kymddkkj7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c1kymddkkj7o</guid>
+      <pubDate>Sun, 14 Jun 2026 18:53:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f2/live/497a0b20-680b-11f1-a177-65e13786d3a5.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[GB's Jones misses match points in Nottingham loss]]></title>
+      <description><![CDATA[Britain's Francesca Jones misses two match points in a narrow defeat by Talia Gibson in the Nottingham Open first round.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c14yj747m5vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c14yj747m5vo</guid>
+      <pubDate>Mon, 15 Jun 2026 18:38:33 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51f3/live/2ca5d550-68de-11f1-8546-8f19e4fe30f4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Raducanu loses Queen's final as trophy wait continues]]></title>
       <description><![CDATA[Emma Raducanu misses the chance to win a first title since her 2021 US Open triumph as she is beaten in the Queen's final by Croatia's Donna Vekic.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cvg5e5nlmk8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -313,22 +329,6 @@ Playing on the Andy Murray Arena, the 44-year-old American icon inspired the cro
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c0lyg82kl31o</guid>
       <pubDate>Thu, 11 Jun 2026 13:33:45 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80b5/live/0cd5f0d0-6581-11f1-8891-eb416676059a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[GB to face Czech Republic in BJK Cup quarter-final]]></title>
-      <description><![CDATA[Great Britain are drawn against the Czech Republic in the quarter-final stage of this year's Billie Jean King Cup.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c3vyrx79zreo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c3vyrx79zreo</guid>
-      <pubDate>Thu, 11 Jun 2026 10:18:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c2b/live/1e2a44c0-657d-11f1-9f01-693d064aea27.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Kyrgios' return to action ends in second round]]></title>
-      <description><![CDATA[Australian Nick Kyrgios' return to action at the Stuttgart Open ends with a second-round loss to Japanese qualifier Sho Shimabukuro.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cd7w5dv9npjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cd7w5dv9npjo</guid>
-      <pubDate>Thu, 11 Jun 2026 17:36:17 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61c0/live/939e9bc0-65b4-11f1-9fd1-0b44a7e33c3f.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Williams' British hitting partner kept one of tennis' biggest secrets]]></title>
