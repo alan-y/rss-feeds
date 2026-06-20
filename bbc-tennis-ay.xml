@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 13:59:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 15:49:29 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Sabalenka loses another deciding set 6-0 in Pegula loss]]></title>
+      <description><![CDATA[Aryna Sabalenka loses another deciding set without winning a game as Jessica Pegula beats the world number one to reach the Berlin Open final.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cvg4182l37po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cvg4182l37po</guid>
+      <pubDate>Sat, 20 Jun 2026 15:22:51 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5d1/live/8317d4d0-6cba-11f1-8546-8f19e4fe30f4.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Fery's Queen's run ended by Cerundolo in narrow loss]]></title>
       <description><![CDATA[Britain's Arthur Fery narrowly misses out on another career milestone as he falls to Francisco Cerundolo in the Queen's quarter-finals.]]></description>
@@ -40,6 +48,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cx2wq1g56lqo</guid>
       <pubDate>Fri, 19 Jun 2026 16:31:37 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/495e/live/be9be260-6bd1-11f1-a94c-73f00a91c697.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Best shots as GB's Fery reaches Queen's quarter-finals]]></title>
+      <description><![CDATA[Watch the best shots as Great Britain's Arthur Ferry reaches his first ATP Tour quarter-final with a straight-set win over French veteran Adrian Mannarino at Queen's.]]></description>
+      <link>https://www.bbc.com/sport/tennis/videos/c70yz5l5y7lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/c70yz5l5y7lo</guid>
+      <pubDate>Wed, 17 Jun 2026 16:40:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ed/live/f4475500-6a66-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Moutet loses almost all prize money for swearing on BBC TV]]></title>
@@ -80,22 +96,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cn94141qdqqo</guid>
       <pubDate>Wed, 17 Jun 2026 19:14:08 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/882b/live/121edf40-6a7f-11f1-8e56-530bbb41ec43.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Fery makes Queen's quarter-finals with 'best result of career']]></title>
-      <description><![CDATA[British number five Arthur Fery produces a superb display to beat Adrian Mannarino and keep home hopes alive in the HSBC Championships at Queen's.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cm20exjnmd5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cm20exjnmd5o</guid>
-      <pubDate>Wed, 17 Jun 2026 19:15:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1692/live/eaca9400-6a62-11f1-b7aa-49f3a4d630f8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Best shots as GB's Fery reaches Queen's quarter-finals]]></title>
-      <description><![CDATA[Watch the best shots as Great Britain's Arthur Ferry reaches his first ATP Tour quarter-final with a straight-set win over French veteran Adrian Mannarino at Queen's.]]></description>
-      <link>https://www.bbc.com/sport/tennis/videos/c70yz5l5y7lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/c70yz5l5y7lo</guid>
-      <pubDate>Wed, 17 Jun 2026 16:40:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ed/live/f4475500-6a66-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Best shots as GB's Norrie beaten by Davidovich Fokina]]></title>
@@ -292,6 +292,14 @@ Playing on the Andy Murray Arena, the 44-year-old American icon inspired the cro
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/097c/live/bbe2ba10-6895-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Fery makes Queen's quarter-finals with 'best result of career']]></title>
+      <description><![CDATA[British number five Arthur Fery produces a superb display to beat Adrian Mannarino and keep home hopes alive in the HSBC Championships at Queen's.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cm20exjnmd5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cm20exjnmd5o</guid>
+      <pubDate>Wed, 17 Jun 2026 19:15:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1692/live/eaca9400-6a62-11f1-b7aa-49f3a4d630f8.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[GB's Jones misses match points in Nottingham loss]]></title>
       <description><![CDATA[Britain's Francesca Jones misses two match points in a narrow defeat by Talia Gibson in the Nottingham Open first round.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c14yj747m5vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -331,14 +339,6 @@ Playing on the Andy Murray Arena, the 44-year-old American icon inspired the cro
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cn59w6e530yo</guid>
       <pubDate>Fri, 12 Jun 2026 11:59:42 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2696/live/950d8b80-65a8-11f1-8546-8f19e4fe30f4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Former British number one Evans to retire after Wimbledon]]></title>
-      <description><![CDATA[Former British number one Dan Evans is to retire from tennis after this year's Wimbledon.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c2eyx7x47d1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c2eyx7x47d1o</guid>
-      <pubDate>Thu, 11 Jun 2026 15:51:20 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/339b/live/f8e5a200-6594-11f1-b1db-af71d47507d6.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Williams' British hitting partner kept one of tennis' biggest secrets]]></title>
