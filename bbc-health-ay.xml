@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 01:33:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 06:01:40 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Minimum age of 11 set for UK puberty blocker trial]]></title>
+      <description><![CDATA[Gender-questioning children will have to be at least 11 years old to take part in a clinical trial of puberty-blocking drugs.]]></description>
+      <link>https://www.bbc.com/news/articles/c892p2qdjjxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c892p2qdjjxo</guid>
+      <pubDate>Fri, 19 Jun 2026 16:18:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e381/live/993b9060-6be0-11f1-95c7-b58617a2924f.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Five tips to keep your kids cool this weekend]]></title>
       <description><![CDATA[Temperatures are set to rise over the next few days, and children can be especially vulnerable - so read on for tips to protect them. ]]></description>
@@ -104,14 +112,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2337/live/461b52a0-6490-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How Eriksen's heart device kicked into action]]></title>
-      <description><![CDATA[Denmark's team doctor said an ICD implanted into the footballer's chest responded as it should after he collapsed on Sunday.]]></description>
-      <link>https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cewq1g7z4qzo</guid>
-      <pubDate>Mon, 08 Jun 2026 16:55:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94c9/live/0b6417e0-633d-11f1-81a3-11c500fa26e7.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Flesh-eating bug made my skin look like roadkill]]></title>
       <description><![CDATA[Caroline Fonjock says she owes her life to the medics who quickly diagnosed and treated her.]]></description>
       <link>https://www.bbc.com/news/articles/c77y4de6xeno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -126,6 +126,14 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3xyvww1lqo</guid>
       <pubDate>Mon, 15 Jun 2026 23:26:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23f6/live/0200a2a0-68c8-11f1-8e1d-bbbb1017d210.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How Eriksen's heart device kicked into action]]></title>
+      <description><![CDATA[Denmark's team doctor said an ICD implanted into the footballer's chest responded as it should after he collapsed on Sunday.]]></description>
+      <link>https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cewq1g7z4qzo</guid>
+      <pubDate>Mon, 08 Jun 2026 16:55:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94c9/live/0b6417e0-633d-11f1-81a3-11c500fa26e7.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cosmeticorexia: How girls are falling down a skincare rabbit hole]]></title>
