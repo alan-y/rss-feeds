@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 01:41:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 06:50:37 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Jeremy Clarkson in remission from prostate cancer]]></title>
+      <description><![CDATA[The presenter shared his "aggressive" cancer diagnosis on an episode of Clarkson's Farm earlier this week.]]></description>
+      <link>https://www.bbc.com/news/articles/czj8kgg4rrro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/czj8kgg4rrro</guid>
+      <pubDate>Sun, 21 Jun 2026 01:48:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c89/live/f4659520-6d08-11f1-ac3a-fd1dab35209e.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Minimum age of 11 set for UK puberty blocker trial]]></title>
       <description><![CDATA[Gender-questioning children will have to be at least 11 years old to take part in a clinical trial of puberty-blocking drugs.]]></description>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cp3657re2epo</guid>
       <pubDate>Thu, 11 Jun 2026 09:08:29 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e33/live/31d52750-6583-11f1-8546-8f19e4fe30f4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Advanced radiotherapy for prostate cancer to cut sessions from 20 to five]]></title>
-      <description><![CDATA[Some men in England with the disease will now be offered an advanced form of treatment on the NHS.]]></description>
-      <link>https://www.bbc.com/news/articles/crm02mmgr3ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/crm02mmgr3ro</guid>
-      <pubDate>Tue, 09 Jun 2026 23:57:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2337/live/461b52a0-6490-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flesh-eating bug made my skin look like roadkill]]></title>
