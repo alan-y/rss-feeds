@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 17:55:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:46:04 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -24,11 +24,19 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f62a/live/1091f0a0-6e43-11f1-8a85-d1d176b992ab.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Where champions are born' - the making of Jannik Sinner]]></title>
+      <description><![CDATA[Jannik Sinner is the world's best tennis player. This is the journey that forged a champion.]]></description>
+      <link>https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44cc/live/8178e2e0-6d5f-11f1-8546-8f19e4fe30f4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Draper 'wins ugly like Murray' on injury return]]></title>
       <description><![CDATA[Jack Draper says he drew inspiration from new coach Sir Andy Murray to claim an "ugly" win in his first competitive match in over two months.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cwy0prvwyxko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cwy0prvwyxko</guid>
-      <pubDate>Mon, 22 Jun 2026 17:01:03 GMT</pubDate>
+      <pubDate>Mon, 22 Jun 2026 18:24:05 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a161/live/f812b5c0-6e54-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c1eyj44q18no</guid>
       <pubDate>Mon, 22 Jun 2026 15:10:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c31c/live/d120b0f0-6e47-11f1-8e1d-bbbb1017d210.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Where champions are born' - the making of Jannik Sinner]]></title>
-      <description><![CDATA[Jannik Sinner is the world's best tennis player. This is the journey that forged a champion.]]></description>
-      <link>https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44cc/live/8178e2e0-6d5f-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Williams is the greatest - but will she produce another great fight?]]></title>
@@ -72,6 +72,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ae/live/537920a0-6b32-11f1-bcc1-1395fad0ad8f.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Big smile!' - Evans reaches second round of Wimbledon qualifying]]></title>
+      <description><![CDATA[Britain's Dan Evans beats Juan Carlos Prado Angelo in the first round of Wimbledon qualifying and insists not receiving a wild card to the main draw is not a motivating factor for him.]]></description>
+      <link>https://www.bbc.com/sport/tennis/videos/cn9428ryr29o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/cn9428ryr29o</guid>
+      <pubDate>Mon, 22 Jun 2026 14:56:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0f6/live/d27cbe80-6e47-11f1-b1db-af71d47507d6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Bouzkova beats Navarro to clinch Nottingham title]]></title>
       <description><![CDATA[Marie Bouzkova overcomes an ankle injury to beat Emma Navarro and win the Nottingham Open for her first grass-court singles title.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c9v2rzxk8nmo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -88,12 +96,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0523/live/ef951620-6d5c-11f1-8e1d-bbbb1017d210.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Big smile!' - Evans reaches second round of Wimbledon qualifying]]></title>
-      <description><![CDATA[Britain's Dan Evans beats Juan Carlos Prado Angelo in the first round of Wimbledon qualifying and insists not receiving a wild card to the main draw is not a motivating factor for him.]]></description>
-      <link>https://www.bbc.com/sport/tennis/videos/cn9428ryr29o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/videos/cn9428ryr29o</guid>
-      <pubDate>Mon, 22 Jun 2026 14:56:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0f6/live/d27cbe80-6e47-11f1-b1db-af71d47507d6.jpg"/>
+      <title><![CDATA[How Murray was tempted back to tennis - and would he ever do a Serena?]]></title>
+      <description><![CDATA[British tennis icon Andy Murray discusses returning to coaching with Jack Draper, Serena Williams' comeback and filling the void of not playing.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c621zrvxp6vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c621zrvxp6vo</guid>
+      <pubDate>Sun, 21 Jun 2026 08:01:19 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d2a/live/ef339070-6cf4-11f1-b8e9-41ac4c10e072.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cerundolo fights back to beat Paul in Queen's final]]></title>
@@ -128,12 +136,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ed/live/f4475500-6a66-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How Murray was tempted back to tennis - and would he ever do a Serena?]]></title>
-      <description><![CDATA[British tennis icon Andy Murray discusses returning to coaching with Jack Draper, Serena Williams' comeback and filling the void of not playing.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c621zrvxp6vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c621zrvxp6vo</guid>
-      <pubDate>Sun, 21 Jun 2026 08:01:19 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d2a/live/ef339070-6cf4-11f1-b8e9-41ac4c10e072.jpg"/>
+      <title><![CDATA[Sabalenka loses another deciding set 6-0 as Pegula triumphs]]></title>
+      <description><![CDATA[Aryna Sabalenka loses another deciding set without winning a game as Jessica Pegula beats the world number one to reach the Berlin Open final.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cvg4182l37po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cvg4182l37po</guid>
+      <pubDate>Sat, 20 Jun 2026 15:22:51 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5d1/live/8317d4d0-6cba-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Injury struggles 'like watching your decline' - Draper]]></title>
@@ -142,14 +150,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/ce37jwnwdejo</guid>
       <pubDate>Sun, 21 Jun 2026 18:09:30 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91c1/live/19433770-6d9b-11f1-8e1d-bbbb1017d210.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sabalenka loses another deciding set 6-0 as Pegula triumphs]]></title>
-      <description><![CDATA[Aryna Sabalenka loses another deciding set without winning a game as Jessica Pegula beats the world number one to reach the Berlin Open final.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cvg4182l37po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cvg4182l37po</guid>
-      <pubDate>Sat, 20 Jun 2026 15:22:51 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5d1/live/8317d4d0-6cba-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Moutet loses almost all prize money for swearing on BBC TV]]></title>
@@ -174,6 +174,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cy06kjyx726o</guid>
       <pubDate>Fri, 19 Jun 2026 17:07:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11b2/live/edec3150-6c0d-11f1-8e1d-bbbb1017d210.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[GB's Klugman beaten in Nottingham second round]]></title>
+      <description><![CDATA[British teenager Hannah Klugman says she feels "very different" after a week practising with "some great players" following her second-round Nottingham Open defeat.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/c9921y744k5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c9921y744k5o</guid>
+      <pubDate>Thu, 18 Jun 2026 17:07:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba28/live/a82cc840-6b32-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Best shots as GB's Norrie beaten by Davidovich Fokina]]></title>
@@ -281,14 +289,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fa6/live/965d36a0-65a0-11f1-b1db-af71d47507d6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[GB's Klugman beaten in Nottingham second round]]></title>
-      <description><![CDATA[British teenager Hannah Klugman says she feels "very different" after a week practising with "some great players" following her second-round Nottingham Open defeat.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c9921y744k5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c9921y744k5o</guid>
-      <pubDate>Thu, 18 Jun 2026 17:07:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba28/live/a82cc840-6b32-11f1-8546-8f19e4fe30f4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Evans misses out on Wimbledon singles wildcard]]></title>
       <description><![CDATA[British tennis stalwart Dan Evans will have to go through qualifying to make the main draw of the men's singles at Wimbledon after missing out on a wildcard.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cn94141qdqqo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -335,6 +335,14 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cjrg31xdd28o</guid>
       <pubDate>Mon, 15 Jun 2026 16:29:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/097c/live/bbe2ba10-6895-11f1-8546-8f19e4fe30f4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Raducanu loses Queen's final as trophy wait continues]]></title>
+      <description><![CDATA[Emma Raducanu misses the chance to win a first title since her 2021 US Open triumph as she is beaten in the Queen's final by Croatia's Donna Vekic.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cvg5e5nlmk8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cvg5e5nlmk8o</guid>
+      <pubDate>Sun, 14 Jun 2026 14:41:09 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06eb/live/95b66b20-6818-11f1-a177-65e13786d3a5.jpg"/>
     </item>
     <item>
       <title><![CDATA['The new Emma' - positives Raducanu can take from Queen's to Wimbledon]]></title>
