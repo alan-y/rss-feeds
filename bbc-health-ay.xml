@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 01:43:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 07:23:09 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -216,6 +216,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f94e/live/99458870-666f-11f1-a204-a391eaa3fb9a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Swim club calls for more school water safety lessons]]></title>
+      <description><![CDATA[From the autumn a new Water Safety Forum is being introduced to primary and secondary schools.]]></description>
+      <link>https://www.bbc.com/news/articles/cx2xq1pz393o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx2xq1pz393o</guid>
+      <pubDate>Mon, 22 Jun 2026 05:08:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b88b/live/e7c107f0-6beb-11f1-8e1d-bbbb1017d210.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Islanders' lifestyle views could help shape future]]></title>
       <description><![CDATA[The results could help the government plan and deliver services in the future, officials say.]]></description>
       <link>https://www.bbc.com/news/articles/cp8r3534eelo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -246,14 +254,6 @@
       <guid isPermaLink="false">https://www.bbc.com/news/articles/cdrpykmm0x5o</guid>
       <pubDate>Wed, 06 May 2026 05:24:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d6/live/5c17cf60-4894-11f1-891e-47c72be732a7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Calls for Reformer Pilates regulation amid boom]]></title>
-      <description><![CDATA[Reformer Pilates businesses in the UK rose nearly ten-fold between 2024 and 2025.]]></description>
-      <link>https://www.bbc.com/news/articles/cp9p5m00nxgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cp9p5m00nxgo</guid>
-      <pubDate>Mon, 04 May 2026 06:15:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7657/live/382b7450-44b4-11f1-ac78-2112837ce2aa.png"/>
     </item>
     <item>
       <title><![CDATA['World-first' vaccine designed by artificial intelligence]]></title>

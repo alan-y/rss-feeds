@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 01:43:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 07:22:57 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[In the foothills of the Dolomites, a champion was made]]></title>
+      <description><![CDATA[Jannik Sinner is the world's best tennis player. This is the journey that forged a champion.]]></description>
+      <link>https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44cc/live/8178e2e0-6d5f-11f1-8546-8f19e4fe30f4.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Serena Williams to make singles comeback at Wimbledon]]></title>
       <description><![CDATA[Serena Williams will make a surprise return to singles action at Wimbledon later this month after accepting a wildcard.]]></description>
@@ -98,14 +106,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eff/live/87e40820-6be4-11f1-95c7-b58617a2924f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Fery's Queen's run ended by Cerundolo in narrow loss]]></title>
-      <description><![CDATA[Britain's Arthur Fery narrowly misses out on another career milestone as he falls to Francisco Cerundolo in the Queen's quarter-finals.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/cy06kjyx726o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cy06kjyx726o</guid>
-      <pubDate>Fri, 19 Jun 2026 17:07:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11b2/live/edec3150-6c0d-11f1-8e1d-bbbb1017d210.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Cerundolo fights back to beat Paul in Queen's final]]></title>
       <description><![CDATA[Watch the best shots from the men's singles final as Argentina's Francisco Cerundolo comes from a set down to beat Tommy Paul 6-7 (4-7) 6-4 6-3 to win the biggest title of his career at Queen's.]]></description>
       <link>https://www.bbc.com/sport/tennis/videos/cy8d54rrnv4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -162,6 +162,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de2a/live/a57c68b0-6c0b-11f1-866d-31e44f099e94.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Fery's Queen's run ended by Cerundolo in narrow loss]]></title>
+      <description><![CDATA[Britain's Arthur Fery narrowly misses out on another career milestone as he falls to Francisco Cerundolo in the Queen's quarter-finals.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/cy06kjyx726o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cy06kjyx726o</guid>
+      <pubDate>Fri, 19 Jun 2026 17:07:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11b2/live/edec3150-6c0d-11f1-8e1d-bbbb1017d210.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[GB's Klugman beaten in Nottingham second round]]></title>
       <description><![CDATA[British teenager Hannah Klugman says she feels "very different" after a week practising with "some great players" following her second-round Nottingham Open defeat.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/c9921y744k5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -184,14 +192,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cz7502q2zz8o</guid>
       <pubDate>Fri, 19 Jun 2026 13:24:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a51/live/57f6c3d0-6bd2-11f1-a94c-73f00a91c697.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Williams sisters receive Wimbledon doubles wildcard]]></title>
-      <description><![CDATA[Serena Williams is given a wildcard to play alongside older sister Venus in the Wimbledon women's doubles.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/clyerm8lym9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/clyerm8lym9o</guid>
-      <pubDate>Tue, 16 Jun 2026 10:18:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b62/live/1a33e480-6973-11f1-8e1d-bbbb1017d210.jpg"/>
     </item>
     <item>
       <title><![CDATA[Vekic beats Raducanu in straight sets to win Queen's final]]></title>
@@ -299,6 +299,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b656/live/1942a1e0-64ed-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Williams sisters receive Wimbledon doubles wildcard]]></title>
+      <description><![CDATA[Serena Williams is given a wildcard to play alongside older sister Venus in the Wimbledon women's doubles.]]></description>
+      <link>https://www.bbc.com/sport/tennis/articles/clyerm8lym9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/clyerm8lym9o</guid>
+      <pubDate>Tue, 16 Jun 2026 10:18:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b62/live/1a33e480-6973-11f1-8e1d-bbbb1017d210.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Fery makes Queen's quarter-finals with 'best result of career']]></title>
       <description><![CDATA[British number five Arthur Fery produces a superb display to beat Adrian Mannarino and keep home hopes alive in the HSBC Championships at Queen's.]]></description>
       <link>https://www.bbc.com/sport/tennis/articles/cm20exjnmd5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -329,14 +337,6 @@
       <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/cjrg31xdd28o</guid>
       <pubDate>Mon, 15 Jun 2026 16:29:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/097c/live/bbe2ba10-6895-11f1-8546-8f19e4fe30f4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[GB's Jones misses match points in Nottingham loss]]></title>
-      <description><![CDATA[Britain's Francesca Jones misses two match points in a narrow defeat by Talia Gibson in the Nottingham Open first round.]]></description>
-      <link>https://www.bbc.com/sport/tennis/articles/c14yj747m5vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/sport/tennis/articles/c14yj747m5vo</guid>
-      <pubDate>Mon, 15 Jun 2026 18:38:33 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51f3/live/2ca5d550-68de-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
       <title><![CDATA['The new Emma' - positives Raducanu can take from Queen's to Wimbledon]]></title>
