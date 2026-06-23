@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 11:32:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 14:03:41 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -38,6 +38,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44cc/live/8178e2e0-6d5f-11f1-8546-8f19e4fe30f4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How is UK heatwave impacting sport for players and fans?]]></title>
+      <description><![CDATA[BBC Sport explores the impact of the UK heatwave on sports events across the country]]></description>
+      <link>https://www.bbc.co.uk/sport/articles/c75yqnrz6ppo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/c75yqnrz6ppo</guid>
+      <pubDate>Tue, 23 Jun 2026 11:57:06 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d072/live/591a0680-6ee5-11f1-92d8-97879fd3f743.jpg"/>
     </item>
     <item>
       <title><![CDATA[Draper 'wins ugly like Murray' on injury return]]></title>
@@ -120,14 +128,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ed/live/f4475500-6a66-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Cerundolo's dad conquers fear of flying to watch son win Queen's]]></title>
-      <description><![CDATA[Francisco Cerundolo secures the biggest title of his career by fighting back to beat Tommy Paul in the longest men's singles final at Queen's.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cj6g16jwx2wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cj6g16jwx2wo</guid>
-      <pubDate>Sun, 21 Jun 2026 19:15:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfeb/live/e6a82450-6da0-11f1-99fb-910cace8d3c6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Bouzkova beats Navarro to clinch Nottingham title]]></title>
       <description><![CDATA[Marie Bouzkova overcomes an ankle injury to beat Emma Navarro and win the Nottingham Open for her first grass-court singles title.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/c9v2rzxk8nmo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -136,12 +136,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31d1/live/6a57c8b0-6d82-11f1-a2ba-775ae811ce10.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How Murray was tempted back to tennis - and would he ever do a Serena?]]></title>
-      <description><![CDATA[British tennis icon Andy Murray discusses returning to coaching with Jack Draper, Serena Williams' comeback and filling the void of not playing.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/c621zrvxp6vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c621zrvxp6vo</guid>
-      <pubDate>Sun, 21 Jun 2026 08:01:19 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d2a/live/ef339070-6cf4-11f1-b8e9-41ac4c10e072.jpg"/>
+      <title><![CDATA[Cerundolo's dad conquers fear of flying to watch son win Queen's]]></title>
+      <description><![CDATA[Francisco Cerundolo secures the biggest title of his career by fighting back to beat Tommy Paul in the longest men's singles final at Queen's.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cj6g16jwx2wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cj6g16jwx2wo</guid>
+      <pubDate>Sun, 21 Jun 2026 19:15:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfeb/live/e6a82450-6da0-11f1-99fb-910cace8d3c6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Injury struggles 'like watching your decline' - Draper]]></title>
+      <description><![CDATA[Jack Draper says he felt he was watching his own decline during his recent injury struggles - but the Briton does not picture his career "being all injuries".]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/ce37jwnwdejo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ce37jwnwdejo</guid>
+      <pubDate>Sun, 21 Jun 2026 18:09:30 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91c1/live/19433770-6d9b-11f1-8e1d-bbbb1017d210.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sabalenka loses another deciding set 6-0 as Pegula triumphs]]></title>
@@ -152,12 +160,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5d1/live/8317d4d0-6cba-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Injury struggles 'like watching your decline' - Draper]]></title>
-      <description><![CDATA[Jack Draper says he felt he was watching his own decline during his recent injury struggles - but the Briton does not picture his career "being all injuries".]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/ce37jwnwdejo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ce37jwnwdejo</guid>
-      <pubDate>Sun, 21 Jun 2026 18:09:30 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91c1/live/19433770-6d9b-11f1-8e1d-bbbb1017d210.jpg"/>
+      <title><![CDATA[How Murray was tempted back to tennis - and would he ever do a Serena?]]></title>
+      <description><![CDATA[British tennis icon Andy Murray discusses returning to coaching with Jack Draper, Serena Williams' comeback and filling the void of not playing.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/c621zrvxp6vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c621zrvxp6vo</guid>
+      <pubDate>Sun, 21 Jun 2026 08:01:19 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d2a/live/ef339070-6cf4-11f1-b8e9-41ac4c10e072.jpg"/>
     </item>
     <item>
       <title><![CDATA[Moutet loses almost all prize money for swearing on BBC TV]]></title>
@@ -305,14 +313,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b62/live/1a33e480-6973-11f1-8e1d-bbbb1017d210.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Norrie beaten at Queen's on injury return]]></title>
-      <description><![CDATA[Cameron Norrie is beaten by Alejandro Davidovich Fokina at Queen's in the Briton's first singles match since suffering a rib injury in May.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/crm03nkvdnxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/crm03nkvdnxo</guid>
-      <pubDate>Tue, 16 Jun 2026 19:16:37 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7fd/live/1a2e9c70-69b7-11f1-8e1d-bbbb1017d210.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Moutet swears seven times in live BBC interview]]></title>
       <description><![CDATA[Corentin Moutet says he "hopes you guys didn't get offended" after swearing seven times in a live BBC television interview at Queen's.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/c5yzlrn2r13o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -327,6 +327,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cjrg31xdd28o</guid>
       <pubDate>Mon, 15 Jun 2026 16:29:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/097c/live/bbe2ba10-6895-11f1-8546-8f19e4fe30f4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Raducanu loses Queen's final as trophy wait continues]]></title>
+      <description><![CDATA[Emma Raducanu misses the chance to win a first title since her 2021 US Open triumph as she is beaten in the Queen's final by Croatia's Donna Vekic.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cvg5e5nlmk8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cvg5e5nlmk8o</guid>
+      <pubDate>Sun, 14 Jun 2026 14:41:09 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06eb/live/95b66b20-6818-11f1-a177-65e13786d3a5.jpg"/>
     </item>
     <item>
       <title><![CDATA['The new Emma' - positives Raducanu can take from Queen's to Wimbledon]]></title>
