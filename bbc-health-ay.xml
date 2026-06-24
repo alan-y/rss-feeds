@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 23:41:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 03:28:24 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Want to feel happier at work? Take a five-minute walk]]></title>
+      <description><![CDATA[Sitting for prolonged periods is associated with health complications – but you can counteract the risks of a sedentary life. ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c78yzz936evo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c78yzz936evo</guid>
+      <pubDate>Tue, 23 Jun 2026 23:50:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec8/live/c27948f0-6f19-11f1-b785-53b93b49184f.jpg"/>
+    </item>
     <item>
       <title><![CDATA[First drug to delay onset of type 1 diabetes made available on NHS ]]></title>
       <description><![CDATA[The immunotherpay can give children and adults three extra years before they need to use insulin.]]></description>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czrx7pvx57eo</guid>
       <pubDate>Thu, 11 Jun 2026 23:03:30 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcbc/live/dffc4bf0-65ac-11f1-8e1d-bbbb1017d210.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Meningitis B vaccine to be offered to a million young people ]]></title>
-      <description><![CDATA[The decision for the one-off vaccine programme follows the unprecedented outbreak in Kent this year.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c982352my98o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c982352my98o</guid>
-      <pubDate>Thu, 11 Jun 2026 23:02:20 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ce/live/5227f710-6625-11f1-8e1d-bbbb1017d210.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is watching England in the World Cup bad for your health?]]></title>
