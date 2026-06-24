@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 22:24:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 23:46:18 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Obesity cases rising fastest in young adults]]></title>
+      <description><![CDATA[Experts say the cost of living, pandemic and boom in unhealthy food are behind the rise in cases.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c8j2m2zrrxko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8j2m2zrrxko</guid>
+      <pubDate>Wed, 24 Jun 2026 23:11:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b31/live/91ee8f70-6ff4-11f1-91bd-23fe59e75f62.png"/>
+    </item>
     <item>
       <title><![CDATA[Want to feel happier at work? Take a five-minute walk]]></title>
       <description><![CDATA[Sitting for prolonged periods is associated with health complications – but you can counteract the risks of a sedentary life. ]]></description>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4gy2d9y5z3o</guid>
       <pubDate>Thu, 11 Jun 2026 23:31:13 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b06d/live/120b1c40-65b5-11f1-9fd1-0b44a7e33c3f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I spent uni savings on getting my teeth fixed' - the real cost of NHS dentist shortage]]></title>
-      <description><![CDATA[People tell BBC Your Voice the rising cost of private dentistry is putting them in a difficult position.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/czrx7pvx57eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czrx7pvx57eo</guid>
-      <pubDate>Thu, 11 Jun 2026 23:03:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcbc/live/dffc4bf0-65ac-11f1-8e1d-bbbb1017d210.jpg"/>
     </item>
     <item>
       <title><![CDATA[Many fear the NHS will continue to fail mothers and babies unless there's a cultural shift]]></title>
@@ -297,6 +297,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bda/live/d088bf20-5723-11f0-82f9-ffcaa67a8d94.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Consultants and specialist doctors to begin strike action]]></title>
+      <description><![CDATA[Most routine and elective services will be cancelled but full emergency cover will remain in place.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c14y72vkv3yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c14y72vkv3yo</guid>
+      <pubDate>Wed, 24 Jun 2026 23:00:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/848e/live/3c0ac080-6fd9-11f1-8388-87b50ca0bd23.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[A&E to remain open as doctors' strike called off]]></title>
       <description><![CDATA[Resident doctor strikes are now on pause while they consider a new pay offer form the government.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cy8wpz316lgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -319,14 +327,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5yzdq8g758o</guid>
       <pubDate>Fri, 12 Jun 2026 12:50:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/609a/live/4e730160-6651-11f1-a24b-57d53eede25c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why are resident doctors striking and how much are they paid?]]></title>
-      <description><![CDATA[In June, resident doctors in England will walk out for the 16th time in a long-running dispute over pay.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cn0qyl4ljjko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cn0qyl4ljjko</guid>
-      <pubDate>Wed, 27 May 2026 14:57:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8359/live/8e09a2a0-3273-11f1-934f-036468834728.jpg"/>
     </item>
   </channel>
 </rss>
