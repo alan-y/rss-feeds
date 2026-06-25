@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 22:08:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 23:47:47 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Teens who hacked TfL were known to police years before cyber-attack]]></title>
+      <description><![CDATA[Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2kx8jr244o</guid>
+      <pubDate>Thu, 25 Jun 2026 23:19:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a3/live/85237e00-6e54-11f1-b648-1b56797cb133.png"/>
+    </item>
+    <item>
+      <title><![CDATA[The abundant but expensive energy source that's under your feet]]></title>
+      <description><![CDATA[Start-ups are taking fresh approaches to geothermal energy, but will the economics work?]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o</guid>
+      <pubDate>Thu, 25 Jun 2026 23:05:05 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb7/live/a859fe20-6b03-11f1-b1db-af71d47507d6.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Apple hikes some prices by nearly 20% while Xbox raises console cost]]></title>
       <description><![CDATA[Apple said it had "never seen a component price increase this much, this quickly".]]></description>
@@ -102,22 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5yz5z72lqgo</guid>
       <pubDate>Mon, 22 Jun 2026 23:01:11 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/385d/live/d8649f50-6be2-11f1-8546-8f19e4fe30f4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[WhatsApp to be led by Indian start-up founder as Will Cathcart steps back]]></title>
-      <description><![CDATA[WhatsApp's leadership shake-up comes as Meta looks to strengthen its app's already booming presence in India.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c8e2195k5j2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8e2195k5j2o</guid>
-      <pubDate>Mon, 22 Jun 2026 15:57:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be5b/live/30742380-6e51-11f1-8c89-cfc50446b805.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[It's not just about nudity warns actress - the complex reality of images and online abuse]]></title>
-      <description><![CDATA[Tech companies and authorities are failing women by focusing on nudity rather than consent, says a report by Chayn.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c8621dqewxzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8621dqewxzo</guid>
-      <pubDate>Sun, 21 Jun 2026 23:21:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c69b/live/f1ace170-6bce-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
   </channel>
 </rss>
