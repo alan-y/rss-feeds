@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 15:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 17:11:23 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Rice back in England training but James misses out again]]></title>
+      <description><![CDATA[Declan Rice returns to England training on Friday, but Reece James again misses out and remains a doubt to face Panama.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/ckg4kv0kkgeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckg4kv0kkgeo</guid>
+      <pubDate>Fri, 26 Jun 2026 16:54:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/501e/live/afe77120-717c-11f1-a417-dfae8167aae6.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Why has Trump stayed away from the World Cup?]]></title>
       <description><![CDATA[Why has Donald Trump stayed away from the World Cup? And will he appear before the final?]]></description>
@@ -24,7 +32,15 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef95/live/6ca52b10-7167-11f1-a589-278435dff441.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Rainbow flags await Egypt and Iran at awkward World Cup Pride Match]]></title>
+      <title><![CDATA[Is an outsider right about reasons for Scottish football's ills?]]></title>
+      <description><![CDATA[From undervalued broadcasting deals to unfulfilled potential, Ian Wright says he feels sorry for Scottish football fans - but is the former England striker right?]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c5yz9nnp2p1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yz9nnp2p1o</guid>
+      <pubDate>Fri, 26 Jun 2026 16:26:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/b25f0c60-7172-11f1-8e1d-bbbb1017d210.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Rainbow flags await Egypt and Iran at awkward Pride Match]]></title>
       <description><![CDATA[Iran's coach refuses to discuss pride celebrations in Seattle, where his country face Egypt in a crucial Group G match.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go</guid>
@@ -88,22 +104,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7113/live/0ccc7300-714a-11f1-93ee-112d8afd7f99.png"/>
     </item>
     <item>
-      <title><![CDATA[Brentford in talks to hold Shakhtar's Champions League matches]]></title>
-      <description><![CDATA[Brentford could play host to Champions League matches next season, despite not qualifying for the competition]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/ce3ex4pr11eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ce3ex4pr11eo</guid>
-      <pubDate>Fri, 26 Jun 2026 13:14:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec7d/live/488fcf70-7151-11f1-93ee-112d8afd7f99.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The 0-0 draw that highlighted flaw in World Cup format]]></title>
-      <description><![CDATA[Doubts rise over the World Cup's format as the first of the two group games that give the two teams a chance to progress with a draw finishes 0-0. ]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo</guid>
-      <pubDate>Fri, 26 Jun 2026 09:47:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c99c/live/1a0a5260-7098-11f1-86cf-0fd142c2b6fb.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Wales boss Bellamy has 'burned bridges' - Roberts]]></title>
       <description><![CDATA[Wales head coach Craig Bellamy faces tensions in his relationships with bosses, players and fans after a move to Burnley collapsed.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c4gywygqlgdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -152,12 +152,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ecd/live/9bdb8fd0-70e7-11f1-b1db-af71d47507d6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[The 0-0 draw that highlighted flaw in World Cup format]]></title>
+      <description><![CDATA[Doubts rise over the World Cup's format as the first of the two group games that give the two teams a chance to progress with a draw finishes 0-0. ]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo</guid>
+      <pubDate>Fri, 26 Jun 2026 09:47:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c99c/live/1a0a5260-7098-11f1-86cf-0fd142c2b6fb.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Belgium going out? Sutton's World Cup 2026 score predictions - final group games]]></title>
       <description><![CDATA[BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cg74z733xmko</guid>
       <pubDate>Wed, 24 Jun 2026 18:42:01 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Brentford in talks to hold Shakhtar's Champions League matches]]></title>
+      <description><![CDATA[Brentford could play host to Champions League matches next season, despite not qualifying for the competition]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/ce3ex4pr11eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ce3ex4pr11eo</guid>
+      <pubDate>Fri, 26 Jun 2026 13:14:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec7d/live/488fcf70-7151-11f1-93ee-112d8afd7f99.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why are World Cup underdogs doing so well?]]></title>
@@ -176,28 +192,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f5d/live/a30166e0-714b-11f1-93ee-112d8afd7f99.jpg"/>
     </item>
     <item>
+      <title><![CDATA[FAW chief expects Bellamy to remain Wales boss]]></title>
+      <description><![CDATA[Football Association of Wales chief executive Noel Mooney expects Craig Bellamy to stay on as Wales head coach after the collapse of his proposed move to Burnley.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c79y72dx72jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c79y72dx72jo</guid>
+      <pubDate>Fri, 26 Jun 2026 16:11:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f596/live/7dfc8d70-717d-11f1-8e1d-bbbb1017d210.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[World Cup quiz: Who are England's top appearance-makers?]]></title>
       <description><![CDATA[Test your knowledge of the players who have featured at least 10 times for England at World Cups.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/clypr5jvgrjo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/clypr5jvgrjo</guid>
       <pubDate>Fri, 26 Jun 2026 14:45:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e162/live/3b06e480-6817-11f1-8546-8f19e4fe30f4.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Man City agree record fee with Forest for Anderson]]></title>
-      <description><![CDATA[Manchester City agree a club record deal with Nottingham Forest to sign England midfielder Elliot Anderson.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo</guid>
-      <pubDate>Thu, 25 Jun 2026 22:23:23 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31f6/live/4f755950-70dd-11f1-9224-b52e76164c15.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Pattinson signs new deal with London City Lionesses ]]></title>
-      <description><![CDATA[London City Lionesses has announced England defender Poppy Pattinson has extended her contract until summer 2029.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cly02qzep7qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cly02qzep7qo</guid>
-      <pubDate>Fri, 26 Jun 2026 13:10:16 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f50f/live/bd8fc850-715d-11f1-909a-0f95894a566f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Where to watch the World Cup on the BBC and ITV]]></title>
@@ -216,6 +224,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2178/live/e3957800-68bc-11f1-b1db-af71d47507d6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Man City agree record fee with Forest for Anderson]]></title>
+      <description><![CDATA[Manchester City agree a club record deal with Nottingham Forest to sign England midfielder Elliot Anderson.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo</guid>
+      <pubDate>Thu, 25 Jun 2026 22:23:23 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31f6/live/4f755950-70dd-11f1-9224-b52e76164c15.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Pattinson signs new deal with London City Lionesses ]]></title>
+      <description><![CDATA[London City Lionesses has announced England defender Poppy Pattinson has extended her contract until summer 2029.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cly02qzep7qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cly02qzep7qo</guid>
+      <pubDate>Fri, 26 Jun 2026 13:10:16 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f50f/live/bd8fc850-715d-11f1-909a-0f95894a566f.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Beccacece goes from brink to World Cup history with Ecuador ]]></title>
       <description><![CDATA[Sebastian Beccacece was on the verge of losing his job as Ecuador head coach as the clock ticked down against Germany - now he has a last-32 match to look forward to.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cqx133qlve2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -230,22 +254,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yzlw6gz8jo</guid>
       <pubDate>Fri, 26 Jun 2026 11:02:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e5f/live/46664770-714b-11f1-8546-8f19e4fe30f4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What each team need to reach World Cup knockouts]]></title>
-      <description><![CDATA[With the final round of group fixtures under way the path to the World Cup final on 19 July is starting to take shape.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo</guid>
-      <pubDate>Fri, 26 Jun 2026 04:08:59 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee0/live/79527380-7113-11f1-b168-6bdcc3cc7b1b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['We could call it racist' - Ivory Coast boss sad at Schweinsteiger comments]]></title>
-      <description><![CDATA[Ivory Coast boss Emerse Fae says comments from ex-Germany midfielder Bastian Schweinsteiger about their "wild" playing style could be considered racist.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cx2x0ev2deqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx2x0ev2deqo</guid>
-      <pubDate>Fri, 26 Jun 2026 00:21:34 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/696d/live/48c136c0-70f0-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
       <title><![CDATA[US interested in hosting 2038 World Cup - Giuliani]]></title>
@@ -320,6 +328,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce02/live/f53f26d0-702a-11f1-8e1d-bbbb1017d210.jpg"/>
     </item>
     <item>
+      <title><![CDATA[What each team need to reach World Cup knockouts]]></title>
+      <description><![CDATA[With the final round of group fixtures under way the path to the World Cup final on 19 July is starting to take shape.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo</guid>
+      <pubDate>Fri, 26 Jun 2026 04:08:59 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee0/live/79527380-7113-11f1-b168-6bdcc3cc7b1b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['We could call it racist' - Ivory Coast boss sad at Schweinsteiger comments]]></title>
+      <description><![CDATA[Ivory Coast boss Emerse Fae says comments from ex-Germany midfielder Bastian Schweinsteiger about their "wild" playing style could be considered racist.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cx2x0ev2deqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx2x0ev2deqo</guid>
+      <pubDate>Fri, 26 Jun 2026 00:21:34 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/696d/live/48c136c0-70f0-11f1-8546-8f19e4fe30f4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Brentford in talks to sign Burnley's Anthony]]></title>
       <description><![CDATA[Jaidon Anthony could swap Burnley for Brentford, as the Bees open talks to sign the forward.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c77yd4yxzlno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -347,12 +371,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3dd/live/93a982d0-70d9-11f1-8fd9-bbd9722885d9.jpg"/>
     </item>
     <item>
-      <title><![CDATA[What is SkyJo? The card game being played in the England camp]]></title>
-      <description><![CDATA[As England try to get their game right on the pitch, the games they play off the field are performing a key role in team bonding - as Morgan Rogers reveals to BBC Sport.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c5yzdryjj8vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yzdryjj8vo</guid>
-      <pubDate>Fri, 26 Jun 2026 05:26:44 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/775f/live/6a4d3fb0-7117-11f1-b071-fbfa4a952290.jpg"/>
+      <title><![CDATA[Who am I? Guess World Cup star No 19]]></title>
+      <description><![CDATA[Will you get today's World Cup player in as few attempts as possible?]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cqjp9lv5j5qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqjp9lv5j5qo</guid>
+      <pubDate>Fri, 26 Jun 2026 05:56:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d992/live/82a49490-6b91-11f1-b1db-af71d47507d6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why Vrancken marks fresh start at data-driven Hearts]]></title>
@@ -363,28 +387,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b616/live/7bea9ea0-70d3-11f1-b99e-c37426e5c10d.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Why it's time for Saka and Rashford - Shearer]]></title>
-      <description><![CDATA[Former England captain Alan Shearer explains why Thomas Tuchel needs to change some personnel as well as his team's mindset when they face Panama.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cwyl7dpnx1no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwyl7dpnx1no</guid>
-      <pubDate>Thu, 25 Jun 2026 16:53:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b505/live/0bd3f200-7075-11f1-8546-8f19e4fe30f4.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Who am I? Guess World Cup star No 19]]></title>
-      <description><![CDATA[Will you get today's World Cup player in as few attempts as possible?]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cqjp9lv5j5qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqjp9lv5j5qo</guid>
-      <pubDate>Fri, 26 Jun 2026 05:56:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d992/live/82a49490-6b91-11f1-b1db-af71d47507d6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Wrexham icon Mullin leaves club by mutual consent]]></title>
       <description><![CDATA[Striker Paul Mullin leaves Wrexham by mutual consent, ending a memorable spell at the north Wales club.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c1dyq44zv1go?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c1dyq44zv1go</guid>
       <pubDate>Fri, 26 Jun 2026 14:00:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f81/live/b0ab4870-6f2e-11f1-8b65-27158411943c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[What is SkyJo? The card game being played in the England camp]]></title>
+      <description><![CDATA[As England try to get their game right on the pitch, the games they play off the field are performing a key role in team bonding - as Morgan Rogers reveals to BBC Sport.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c5yzdryjj8vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yzdryjj8vo</guid>
+      <pubDate>Fri, 26 Jun 2026 05:26:44 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/775f/live/6a4d3fb0-7117-11f1-b071-fbfa4a952290.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hincapie completes permanent £34.5m Arsenal move]]></title>
@@ -395,22 +411,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8x2189557wo</guid>
       <pubDate>Thu, 25 Jun 2026 13:45:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc30/live/be916040-70a1-11f1-98f6-a389d1d57bcb.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Is the World Cup ball making it hard for goalkeepers?]]></title>
-      <description><![CDATA[While some goalkeepers have produced heroic performances in the World Cup, others have struggled with shots from outside the area, so is there a problem with the ball?]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c1jy8pr6k37o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c1jy8pr6k37o</guid>
-      <pubDate>Thu, 25 Jun 2026 14:45:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaf0/live/e9feb1d0-709f-11f1-86cf-0fd142c2b6fb.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How brands banned from the World Cup became the story]]></title>
-      <description><![CDATA[When we try to suppress something, we often make it more visible - and Fifa is living that in real time with its sponsors.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cdejrjpe8w3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cdejrjpe8w3o</guid>
-      <pubDate>Thu, 25 Jun 2026 10:53:31 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a0e/live/63fb9050-6fe9-11f1-a9c4-37da5d161ee0.jpg"/>
     </item>
     <item>
       <title><![CDATA[Championship fixtures: Your club-by-club guide]]></title>
@@ -427,6 +427,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cg74ded0d95o</guid>
       <pubDate>Thu, 25 Jun 2026 08:04:29 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b4f/live/972ab7d0-6fbc-11f1-8dfa-636ee713b41c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Why it's time for Saka and Rashford - Shearer]]></title>
+      <description><![CDATA[Former England captain Alan Shearer explains why Thomas Tuchel needs to change some personnel as well as his team's mindset when they face Panama.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cwyl7dpnx1no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwyl7dpnx1no</guid>
+      <pubDate>Thu, 25 Jun 2026 16:53:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b505/live/0bd3f200-7075-11f1-8546-8f19e4fe30f4.png"/>
     </item>
     <item>
       <title><![CDATA[Tuchel's England are opposite to Southgate's - and built to beat top teams]]></title>
@@ -461,19 +469,11 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/734e/live/2dc74eb0-6d6f-11f1-a2ba-775ae811ce10.jpg"/>
     </item>
     <item>
-      <title><![CDATA[No need to panic for England - but this was a reality check]]></title>
-      <description><![CDATA[England's drab goalless draw with Ghana is no cause to panic - but it does serve as a reality check, writes Phil McNulty.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c5yzv7wl00xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yzv7wl00xo</guid>
-      <pubDate>Wed, 24 Jun 2026 00:53:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fa3/live/3690e000-6f5a-11f1-8546-8f19e4fe30f4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[All done deals in June 2026]]></title>
       <description><![CDATA[Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/ce9p91r771go?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ce9p91r771go</guid>
-      <pubDate>Fri, 26 Jun 2026 12:39:16 GMT</pubDate>
+      <pubDate>Fri, 26 Jun 2026 16:35:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"/>
     </item>
     <item>
@@ -573,6 +573,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5777/live/9ee71430-70bd-11f1-9aa7-534d8bc0bf5e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Graham agrees permanent deal with Ipswich Women]]></title>
+      <description><![CDATA[Ipswich Town Women sign forward Kit Graham on a two-year contract following a successful loan from Tottenham last season.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c4gyw1ge1r4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gyw1ge1r4o</guid>
+      <pubDate>Fri, 26 Jun 2026 15:44:11 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ece1/live/8b86be30-7172-11f1-a417-dfae8167aae6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Tottenham sign former Arsenal midfielder Pelova]]></title>
       <description><![CDATA[Tottenham confirm the signing of Netherlands midfielder Victoria Pelova following her exit from Arsenal.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cy8wvdvg98xo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -603,14 +611,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cddlmvddrvyo</guid>
       <pubDate>Wed, 24 Jun 2026 20:53:29 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9692/live/22ad1ea0-700e-11f1-91b6-e97e8b379747.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Real sign Schroeder in 'most expensive' women's transfer]]></title>
-      <description><![CDATA[BK Hacken teenager Felicia Schroeder has joined Real Madrid in a deal that makes the 19-year-old forward "the most expensive transfer ever in women's football".]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c0lyk13989ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c0lyk13989ro</guid>
-      <pubDate>Tue, 23 Jun 2026 19:54:40 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c038/live/beb3f600-6f39-11f1-a91d-9509c96f4739.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Cornish miners brought football to Mexico]]></title>
