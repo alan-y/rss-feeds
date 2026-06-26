@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 17:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 19:08:15 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Draper denied place in Eastbourne final by Humbert]]></title>
+      <description><![CDATA[Jack Draper misses out on a place in the Eastbourne Open final after Frenchman Ugo Humbert ends the Briton's encouraging return to action following injury.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cgev5ldzrg9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cgev5ldzrg9o</guid>
+      <pubDate>Fri, 26 Jun 2026 19:06:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe55/live/5c0a1530-7190-11f1-8268-a773f3902180.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Williams given favourable Wimbledon start - who else plays who?]]></title>
       <description><![CDATA[American superstar Serena Williams will make her highly anticipated singles comeback at Wimbledon against Australia's Maya Joint in the first round.]]></description>
@@ -98,6 +106,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbbf/live/37999b50-33ef-11f1-8606-05fe34b06e1b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Humbert v Draper - best shots from Eastbourne semi-final ]]></title>
+      <description><![CDATA[Watch the best shots as Great Britain's Jack Draper suffers a straight-set semi-final defeat by France's Ugo Humbert at Eastbourne.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/videos/c98268z05r4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/videos/c98268z05r4o</guid>
+      <pubDate>Fri, 26 Jun 2026 19:01:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc43/live/d6a6b3e0-718e-11f1-8e1d-bbbb1017d210.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Bergs v Samuel - best shots from Brit's semi-final defeat]]></title>
       <description><![CDATA[Watch the best shots from Great Britain's Toby Samuel as his dream run ends in a closely contested three-set defeat by Zizou Bergs at Eastbourne. 
 
@@ -131,18 +147,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/videos/cp8rwxpkjj5o</guid>
       <pubDate>Wed, 24 Jun 2026 18:23:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e39/live/e341c6a0-6ff7-11f1-8546-8f19e4fe30f4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Evans 'happy with decision' to retire after Wimbledon]]></title>
-      <description><![CDATA[Great Britain's Dan Evans says he is "happy" with his decision to retire after Wimbledon after his singles career came to an end as he suffered a defeat to Tristan Schoolkate in the second round of Wimbledon qualifying.
-
-
-Dan Evans, however, will still play at Wimbledon after being given a wildcard into the men's doubles with Henry Searle.
-]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/videos/cpd393e0jyvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/videos/cpd393e0jyvo</guid>
-      <pubDate>Wed, 24 Jun 2026 15:32:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1b6/live/c87d0fc0-6fe1-11f1-8e1d-bbbb1017d210.jpg"/>
     </item>
     <item>
       <title><![CDATA[Draper into last eight to continue injury comeback]]></title>
@@ -199,6 +203,18 @@ Dan Evans, however, will still play at Wimbledon after being given a wildcard in
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44cc/live/8178e2e0-6d5f-11f1-8546-8f19e4fe30f4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Evans 'happy with decision' to retire after Wimbledon]]></title>
+      <description><![CDATA[Great Britain's Dan Evans says he is "happy" with his decision to retire after Wimbledon after his singles career came to an end as he suffered a defeat to Tristan Schoolkate in the second round of Wimbledon qualifying.
+
+
+Dan Evans, however, will still play at Wimbledon after being given a wildcard into the men's doubles with Henry Searle.
+]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/videos/cpd393e0jyvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/videos/cpd393e0jyvo</guid>
+      <pubDate>Wed, 24 Jun 2026 15:32:01 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1b6/live/c87d0fc0-6fe1-11f1-8e1d-bbbb1017d210.jpg"/>
     </item>
     <item>
       <title><![CDATA[GB's Fery beats Burruchaga in thrilling contest to reach last 16]]></title>
@@ -290,14 +306,6 @@ Dan Evans, however, will still play at Wimbledon after being given a wildcard in
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/videos/c8d29zd9ypyo</guid>
       <pubDate>Sun, 14 Jun 2026 15:32:01 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf84/live/8bda49e0-6805-11f1-b1db-af71d47507d6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Raducanu cruises past Jovic to reach Queen's final ]]></title>
-      <description><![CDATA[Britain's Emma Raducanu reaches her first ever grass court final at Queen's with a dominant 6-2, 6-2 victory against American Iva Jovic. ]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/videos/c5yz2lz5z9ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/videos/c5yz2lz5z9ko</guid>
-      <pubDate>Sat, 13 Jun 2026 19:26:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c729/live/a5b72a20-675d-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Williams is the greatest - but will she produce another great fight?]]></title>
