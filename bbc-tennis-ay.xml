@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 06:17:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 09:36:54 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Old guard boosts Wimbledon in battle for centre stage]]></title>
+      <description><![CDATA[Serena Williams, Jannik Sinner and Novak Djokovic feature in our essential guide to Wimbledon 2026.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/c0qypk51v7do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c0qypk51v7do</guid>
+      <pubDate>Sun, 28 Jun 2026 09:32:43 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dca/live/d8497610-724c-11f1-b46f-17a6b71f4bc4.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Raducanu quits practice as Wimbledon fitness fears grow]]></title>
       <description><![CDATA[Emma Raducanu's chances of being fit for Wimbledon look to be in considerable doubt after the Briton cut short her practice on Saturday.]]></description>
@@ -90,14 +98,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fed/live/21dc9e10-70a4-11f1-a074-f75fb10ee765.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Tarvet among three Brits to reach Wimbledon through qualifying]]></title>
-      <description><![CDATA[A trio of Britons - Ollie Tarvet, Billy Harris and Max Basing - qualify for the Wimbledon main draw.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cx2knvx2xg5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cx2knvx2xg5o</guid>
-      <pubDate>Thu, 25 Jun 2026 17:19:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a0b/live/8cd6f5e0-70b7-11f1-b1da-a3a610594805.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How to follow Wimbledon on the BBC]]></title>
       <description><![CDATA[Wimbledon begins on Monday, 29 June - and you can follow every minute live across the BBC.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/ckg5ny1vy5ro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -157,20 +157,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3c7/live/c8bcc1c0-6fea-11f1-a9c4-37da5d161ee0.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Tarvet among three Brits to reach Wimbledon through qualifying]]></title>
+      <description><![CDATA[A trio of Britons - Ollie Tarvet, Billy Harris and Max Basing - qualify for the Wimbledon main draw.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cx2knvx2xg5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cx2knvx2xg5o</guid>
+      <pubDate>Thu, 25 Jun 2026 17:19:47 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a0b/live/8cd6f5e0-70b7-11f1-b1da-a3a610594805.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Raducanu misses Wimbledon practice amid injury concern]]></title>
       <description><![CDATA[Emma Raducanu misses training at Wimbledon on Thursday as she manages an injury aggravated by her run to the Queen's final.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/cy8wvq6130xo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cy8wvq6130xo</guid>
       <pubDate>Thu, 25 Jun 2026 15:24:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8e1/live/57259320-709e-11f1-86cf-0fd142c2b6fb.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Returning Draper reaches Eastbourne semi-finals]]></title>
-      <description><![CDATA[Jack Draper says he is gaining confidence in his body after he extends his winning return from injury by reaching the Eastbourne Open semi-finals.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/c3ryjp1zwr5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c3ryjp1zwr5o</guid>
-      <pubDate>Thu, 25 Jun 2026 17:01:51 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88ac/live/eec10c20-70b0-11f1-88b6-991d05fc2cf9.jpg"/>
     </item>
     <item>
       <title><![CDATA[Anisimova plots Wimbledon sequel with happier ending]]></title>
