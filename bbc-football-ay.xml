@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 29 Jun 2026 20:59:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 22:16:10 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -90,6 +90,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90b7/live/b1089230-73e5-11f1-bb9e-33cb2da512b5.jpg"/>
     </item>
     <item>
+      <title><![CDATA['They needed that' - Havertz levels for Germany with header]]></title>
+      <description><![CDATA[Kai Havertz equalises for Germany against Paraquay in their last-32 tie.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/videos/cvgdpyeejjlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cvgdpyeejjlo</guid>
+      <pubDate>Mon, 29 Jun 2026 22:13:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fec/live/1428b040-7407-11f1-b1db-af71d47507d6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['That might just wake Germany up' - Paraguay take shock lead through Enciso]]></title>
+      <description><![CDATA[Julio Enciso gives Paraguay the lead as they look to upset the odds by defeating Germany in the round of 32. ]]></description>
+      <link>https://www.bbc.co.uk/sport/football/videos/c0kyemyzzdzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c0kyemyzzdzo</guid>
+      <pubDate>Mon, 29 Jun 2026 21:39:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/535f/live/34a9dce0-7402-11f1-b1db-af71d47507d6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Martinelli scores stoppage-time winner to send Brazil through to last 16]]></title>
       <description><![CDATA[Gabriel Martinelli scores a dramatic 95th-minute winner with Brazil coming from behind to beat Japan, set up a World Cup last-16 tie against Norway or Ivory Coast.]]></description>
       <link>https://www.bbc.co.uk/sport/football/videos/cdjknkplkr2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -112,22 +128,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c04y1yr3xwko</guid>
       <pubDate>Mon, 29 Jun 2026 19:18:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a017/live/2305d160-73fd-11f1-8546-8f19e4fe30f4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Casemiro equalises for Brazil with powerful header]]></title>
-      <description><![CDATA[Casemiro heads in Brazil's equaliser against Japan in Houston after a brilliant cross by Gabriel during their round of 32 encounter. ]]></description>
-      <link>https://www.bbc.co.uk/sport/football/videos/ckg0l0225n7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ckg0l0225n7o</guid>
-      <pubDate>Mon, 29 Jun 2026 19:04:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6b7/live/4724bc00-73e9-11f1-8546-8f19e4fe30f4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Canada into last 16 with late winner against South Africa]]></title>
-      <description><![CDATA[Stephen Eustaquio scores a dramatic winner in the second minute of injury time as co-hosts Canada beat South Africa to move into the last 16 of the World Cup for the first time.]]></description>
-      <link>https://www.bbc.co.uk/sport/videos/clyx5432r8do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/videos/clyx5432r8do</guid>
-      <pubDate>Sun, 28 Jun 2026 21:49:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dde7/live/4c6fc700-7339-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Kane will sign new Bayern deal - Tuesday's gossip]]></title>
@@ -258,12 +258,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b188/live/190ea230-6b93-11f1-b1db-af71d47507d6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Casemiro equalises for Brazil with powerful header]]></title>
+      <description><![CDATA[Casemiro heads in Brazil's equaliser against Japan in Houston after a brilliant cross by Gabriel during their round of 32 encounter. ]]></description>
+      <link>https://www.bbc.co.uk/sport/football/videos/ckg0l0225n7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/ckg0l0225n7o</guid>
+      <pubDate>Mon, 29 Jun 2026 19:04:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6b7/live/4724bc00-73e9-11f1-8546-8f19e4fe30f4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Eustaquio scores in injury-time to take Canada through to the last 16]]></title>
       <description><![CDATA[Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup.]]></description>
       <link>https://www.bbc.co.uk/sport/videos/c79yr8npv9go?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/videos/c79yr8npv9go</guid>
       <pubDate>Sun, 28 Jun 2026 21:24:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f64/live/c3ccd8d0-733c-11f1-b1db-af71d47507d6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[England labour past Panama to qualify for last 32 as group winners]]></title>
+      <description><![CDATA[Goals from Jude Bellingham and Harry Kane help England secure a 2-0 win over Panama, as Thomas Tuchel's side qualify for the World Cup last 32 as winners of Group L.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo</guid>
+      <pubDate>Sat, 27 Jun 2026 23:35:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/851c/live/a0517480-727c-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Maestro Messi scores again and breaks another record in the process]]></title>
@@ -307,22 +323,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cx245dlmnpzo</guid>
       <pubDate>Sat, 27 Jun 2026 22:56:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7176/live/6bfcd610-7278-11f1-b1db-af71d47507d6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Kane breaks England World Cup goals record to double lead against Panama]]></title>
-      <description><![CDATA[Harry Kane scores the 11th World Cup goal of his career to overtake Gary Lineker as England's all-time top scorer in the competition, as England take a 2-0 lead against Panama in their final Group L game.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/videos/c9w27q780xqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c9w27q780xqo</guid>
-      <pubDate>Sat, 27 Jun 2026 22:56:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94fb/live/2fd3ee20-727e-11f1-8e1d-bbbb1017d210.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Colombia denied late winner in enthralling draw with Portugal]]></title>
-      <description><![CDATA[Colombia and Portugal play out one of the games of the tournament, as both sides qualify for the World Cup last 32 following a gripping 0-0 draw.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/videos/cx2dyez02z8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cx2dyez02z8o</guid>
-      <pubDate>Sun, 28 Jun 2026 02:46:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d755/live/9e191c70-7297-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
       <title><![CDATA[BBC Sport expert Sutton predicts World Cup's last-32 matches]]></title>
