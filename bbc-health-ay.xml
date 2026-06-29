@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 29 Jun 2026 05:02:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 10:01:00 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -21,7 +21,7 @@
       <link>https://www.bbc.co.uk/news/articles/cwydwgy7125o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwydwgy7125o</guid>
       <pubDate>Mon, 29 Jun 2026 02:41:26 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d746/live/763df840-731b-11f1-a489-2d4c87e59982.png"/>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca9f/live/4d3c9f30-7381-11f1-8e1d-bbbb1017d210.jpg"/>
     </item>
     <item>
       <title><![CDATA[Over one million children referred for mental healthcare - with anxiety the main reason]]></title>
@@ -29,7 +29,7 @@
       <link>https://www.bbc.co.uk/news/articles/cwyd1l0lge8o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwyd1l0lge8o</guid>
       <pubDate>Mon, 29 Jun 2026 00:58:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/885a/live/4c732320-715c-11f1-909a-0f95894a566f.jpg"/>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01c6/live/d954e460-7385-11f1-8e1d-bbbb1017d210.jpg"/>
     </item>
     <item>
       <title><![CDATA[Even young and fit urged to skip runs and too many beers in heatwave]]></title>
@@ -193,6 +193,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b66e/live/35af95b0-22c4-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why is pregnancy sickness drug not easily accessible to all?]]></title>
+      <description><![CDATA[BBC journalist Linzi Kinghorn finds out why a pregnancy sickness drug is not always accessible on the NHS.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cy8w5w095vxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy8w5w095vxo</guid>
+      <pubDate>Mon, 29 Jun 2026 05:11:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2be2/live/11230640-7397-11f1-8546-8f19e4fe30f4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Tributes paid to pioneering gynaecological surgeon]]></title>
       <description><![CDATA[Prof Christopher Balogun-Lynch was "pivotal" in the development of Milton Keynes University Hospital.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cd95yqnjw47o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -207,14 +215,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c621z6gw87ko</guid>
       <pubDate>Sat, 27 Jun 2026 05:26:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/562e/live/4ee8ff50-6f52-11f1-8d21-5b6614553136.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How an ovary syndrome led to Bake Off star's fame]]></title>
-      <description><![CDATA[Now a successful TV presenter, Briony May Williams said she started stress-baking when she became ill.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cwy2yv91vw7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwy2yv91vw7o</guid>
-      <pubDate>Tue, 16 Jun 2026 05:17:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/867f/live/ee6bd2a0-60ca-11f1-b808-9f0a293e0062.jpg"/>
     </item>
     <item>
       <title><![CDATA[Swim club calls for more school water safety lessons]]></title>
@@ -293,8 +293,8 @@
       <description><![CDATA[The BMA said there will "undoubtedly be cancellation of operations, outpatient appointments and elective care" but "patient safety will still be prioritised".]]></description>
       <link>https://www.bbc.co.uk/news/articles/cpv31erm387o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cpv31erm387o</guid>
-      <pubDate>Sun, 28 Jun 2026 23:06:29 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6843/live/9a557390-70bc-11f1-b1da-a3a610594805.jpg"/>
+      <pubDate>Mon, 29 Jun 2026 08:47:59 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d914/live/e92264b0-7396-11f1-b38b-37f255239404.jpg"/>
     </item>
     <item>
       <title><![CDATA[Consultants and specialist doctors take strike action over pay]]></title>
