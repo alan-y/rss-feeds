@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 22:41:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 00:07:42 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -112,6 +112,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa64/live/ff6ff560-68b6-11f1-b1db-af71d47507d6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Loved and loathed: The making of India's viral liver doctor]]></title>
+      <description><![CDATA[Dr Cyriac Abby Philips has built a large online following, but often clashes with India's traditional medicine specialists.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c39y7w901vdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c39y7w901vdo</guid>
+      <pubDate>Sun, 28 Jun 2026 23:11:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edfa/live/4ab643a0-712a-11f1-bbc4-a143fa1b1944.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Many fear the NHS will continue to fail mothers and babies unless there's a cultural shift]]></title>
       <description><![CDATA[Families will continue to be failed unless the NHS makes meaningful changes, BBC's Michael Buchanan writes.]]></description>
       <link>https://www.bbc.co.uk/news/articles/c2kyn81epdvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -142,14 +150,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c77y4de6xeno</guid>
       <pubDate>Wed, 17 Jun 2026 05:39:04 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c45b/live/b9f2d710-693c-11f1-b83c-1976736f0a63.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Recovery of Ebola patients offers rare moments of joy at epicentre of outbreak]]></title>
-      <description><![CDATA[There are glimpses of happiness in the Democratic Republic of Congo's fight against the virus that has killed more than 170. ]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cp3xyvww1lqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cp3xyvww1lqo</guid>
-      <pubDate>Mon, 15 Jun 2026 23:26:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23f6/live/0200a2a0-68c8-11f1-8e1d-bbbb1017d210.jpg"/>
     </item>
     <item>
       <title><![CDATA[What does hot weather do to the body?]]></title>
@@ -289,6 +289,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bda/live/d088bf20-5723-11f0-82f9-ffcaa67a8d94.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Resident doctors take strike action over pay]]></title>
+      <description><![CDATA[The BMA said there will "undoubtedly be cancellation of operations, outpatient appointments and elective care" but "patient safety will still be prioritised".]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cpv31erm387o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cpv31erm387o</guid>
+      <pubDate>Sun, 28 Jun 2026 23:06:29 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6843/live/9a557390-70bc-11f1-b1da-a3a610594805.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Consultants and specialist doctors take strike action over pay]]></title>
       <description><![CDATA[Full emergency cover remained in place and patients were told to attend all scheduled appointments unless advised otherwise.
 
@@ -321,14 +329,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckg89vk7em7o</guid>
       <pubDate>Fri, 12 Jun 2026 15:03:33 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f092/live/5c74aa20-6598-11f1-99b8-5530f29d65f4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Major A&E changes announced amid strikes]]></title>
-      <description><![CDATA[Patients have been urged to only attend A&E if their condition is life-threatening or serious.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c5yzdq8g758o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5yzdq8g758o</guid>
-      <pubDate>Fri, 12 Jun 2026 12:50:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/609a/live/4e730160-6651-11f1-a24b-57d53eede25c.jpg"/>
     </item>
   </channel>
 </rss>
