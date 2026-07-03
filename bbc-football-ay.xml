@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 03 Jul 2026 04:12:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 07:41:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Huge Snicko VAR call prolongs Ronaldo's last dance but ends Modric's]]></title>
+      <description><![CDATA[Veteran forward Cristiano Ronaldo gets another day on the World Cup stage after Croatia are denied a late equaliser by a huge VAR call.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cz0jee3vy39o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cz0jee3vy39o</guid>
+      <pubDate>Fri, 03 Jul 2026 04:42:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/352c/live/7ded63e0-76af-11f1-af69-5108783f4681.png"/>
+    </item>
     <item>
       <title><![CDATA[The one club man who is Spain's under-the-radar hero]]></title>
       <description><![CDATA[Mikel Oyarzabal is perhaps not the biggest name in Spain's World Cup squad, but the one who has so far shone brightest.]]></description>
@@ -48,6 +56,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/678f/live/d9af8c70-7683-11f1-9510-1546718f668b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Who am I? Guess World Cup star No 26]]></title>
+      <description><![CDATA[Will you get today's player in as few attempts as possible?]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cd0px78zrj1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd0px78zrj1o</guid>
+      <pubDate>Fri, 03 Jul 2026 05:32:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b83c/live/e7e512b0-6b93-11f1-8546-8f19e4fe30f4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[England, France & Spain v Portugal on BBC in last 16]]></title>
       <description><![CDATA[England's meeting with Mexico is one of four World Cup last-16 matches to be broadcast live on BBC One, BBC iPlayer and across BBC Sport.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/ckg4wvn1ke9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -70,22 +86,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/czx59l1knv0o</guid>
       <pubDate>Thu, 02 Jul 2026 10:37:10 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e5b/live/31d97ee0-75af-11f1-ad58-1b9b2309c3b3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why are Man City breaking the bank for Anderson?]]></title>
-      <description><![CDATA[Elliot Anderson will become the most expensive British player, but why are Manchester City prepared to pay a record fee to sign the midfielder?]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo</guid>
-      <pubDate>Thu, 02 Jul 2026 13:16:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64fc/live/e9609640-75f3-11f1-8c3f-e37c76e39331.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Man Utd ready for Baleba move - Friday gossip]]></title>
-      <description><![CDATA[Manchester United want Brighton midfielder Carlos Baleba, Arsenal are keen on Aston Villa favourite Ezri Konsa and Bruno Guimaraes, and is Mason Greenwood heading to Madrid?]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cx23644x506o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx23644x506o</guid>
-      <pubDate>Thu, 02 Jul 2026 20:32:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5076/live/ccd73ba0-7643-11f1-a627-714adb4eed6e.png"/>
     </item>
     <item>
       <title><![CDATA[Ronaldo levels from penalty spot for Portugal]]></title>
@@ -128,12 +128,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1138/live/e4041800-7654-11f1-9510-1546718f668b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why are Man City breaking the bank for Anderson?]]></title>
+      <description><![CDATA[Elliot Anderson will become the most expensive British player, but why are Manchester City prepared to pay a record fee to sign the midfielder?]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3dynyg0j1lo</guid>
+      <pubDate>Thu, 02 Jul 2026 13:16:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64fc/live/e9609640-75f3-11f1-8c3f-e37c76e39331.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[England have 'big concerns' - so who would you pick to face Mexico?]]></title>
       <description><![CDATA[Who should play at right-back? Does Anthony Gordon deserve to start? Select and share your England team to face Mexico.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cr7x18r0z59o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr7x18r0z59o</guid>
       <pubDate>Thu, 02 Jul 2026 13:00:15 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e3/live/a2756110-760d-11f1-a627-714adb4eed6e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Man Utd ready for Baleba move - Friday gossip]]></title>
+      <description><![CDATA[Manchester United want Brighton midfielder Carlos Baleba, Arsenal are keen on Aston Villa favourite Ezri Konsa and Bruno Guimaraes, and is Mason Greenwood heading to Madrid?]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cx23644x506o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx23644x506o</guid>
+      <pubDate>Thu, 02 Jul 2026 20:32:29 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5076/live/ccd73ba0-7643-11f1-a627-714adb4eed6e.png"/>
     </item>
     <item>
       <title><![CDATA[Why Spurs' statement spending appears set to continue]]></title>
@@ -144,36 +160,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1974/live/94747480-762a-11f1-ac11-19a4319081d7.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Boycott of Israel games would cause 'significant and lasting harm' - FAI]]></title>
-      <description><![CDATA[The Football Association of Ireland says any boycott of the Republic of Ireland's Nations League games against Israel in the autumn would have potentially extensive repercussions.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/ce375yel3d5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ce375yel3d5o</guid>
-      <pubDate>Thu, 02 Jul 2026 20:28:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/300e/live/965814b0-7642-11f1-b976-0b9c15b0ccfc.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Glasner poised for Forest job as Pereira exits]]></title>
       <description><![CDATA[Vitor Pereira has left Nottingham Forest with the club poised to appoint former Crystal Palace boss Oliver Glasner as his successor. ]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cy8dgze1n8go?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy8dgze1n8go</guid>
       <pubDate>Thu, 02 Jul 2026 17:34:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c686/live/946e52b0-7569-11f1-b976-0b9c15b0ccfc.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Pubs allowed to stay open until 5am for England Mexico match]]></title>
-      <description><![CDATA[The government had initially said it would not relax licensing laws further for the World Cup.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c1kyr8747m9o</guid>
-      <pubDate>Thu, 02 Jul 2026 20:49:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ab2/live/e30a5c40-7634-11f1-9510-1546718f668b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Spurs sign Fernandes for club record £85m]]></title>
-      <description><![CDATA[Tottenham complete the signing of Mateus Fernandes from West Ham for a club-record fee of £85m.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c862ejqg3leo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c862ejqg3leo</guid>
-      <pubDate>Thu, 02 Jul 2026 09:14:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4bb/live/1407fb90-75f9-11f1-8c3f-e37c76e39331.jpg"/>
     </item>
     <item>
       <title><![CDATA[Where to watch the World Cup on the BBC and ITV]]></title>
@@ -190,6 +182,30 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c0qy0zn231yo</guid>
       <pubDate>Thu, 11 Jun 2026 17:08:40 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2178/live/e3957800-68bc-11f1-b1db-af71d47507d6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Pubs allowed to stay open until 5am for England Mexico match]]></title>
+      <description><![CDATA[The government had initially said it would not relax licensing laws further for the World Cup.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c1kyr8747m9o</guid>
+      <pubDate>Thu, 02 Jul 2026 20:49:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/306d/live/0c455db0-76a5-11f1-b976-0b9c15b0ccfc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Boycott of Israel games would cause 'significant and lasting harm' - FAI]]></title>
+      <description><![CDATA[The Football Association of Ireland says any boycott of the Republic of Ireland's Nations League games against Israel in the autumn would have potentially extensive repercussions.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/ce375yel3d5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ce375yel3d5o</guid>
+      <pubDate>Thu, 02 Jul 2026 20:28:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/300e/live/965814b0-7642-11f1-b976-0b9c15b0ccfc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Spurs sign Fernandes for club record £85m]]></title>
+      <description><![CDATA[Tottenham complete the signing of Mateus Fernandes from West Ham for a club-record fee of £85m.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c862ejqg3leo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c862ejqg3leo</guid>
+      <pubDate>Thu, 02 Jul 2026 09:14:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4bb/live/1407fb90-75f9-11f1-8c3f-e37c76e39331.jpg"/>
     </item>
     <item>
       <title><![CDATA[Tuchel wants young England fans to stay up for 1am World Cup clash - but should they?]]></title>
@@ -216,36 +232,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f141/live/de07ef10-73db-11f1-bb92-23f4f6ea1fbd.jpg"/>
     </item>
     <item>
-      <title><![CDATA[The World Cup's free agents looking for their next move ]]></title>
-      <description><![CDATA[Fourteen players still at the World Cup have no club to return to once the tournament is over.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c5yzleqqvjqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yzleqqvjqo</guid>
-      <pubDate>Thu, 02 Jul 2026 12:44:02 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08e4/live/5cfe25b0-7610-11f1-a627-714adb4eed6e.png"/>
-    </item>
-    <item>
       <title><![CDATA[16.3m tune in to watch England beat DR Congo]]></title>
       <description><![CDATA[England's dramatic win over DR Congo in the World Cup last 16 attracts an audience of 16.3m on the BBC.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cvg40883026o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvg40883026o</guid>
       <pubDate>Thu, 02 Jul 2026 12:15:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d99/live/e7b45390-75f8-11f1-8c3f-e37c76e39331.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Premier League clubs interested in Japan's Nakamura]]></title>
-      <description><![CDATA[Japan winger Keito Nakamura is keen to move to the Premier League this summer after attracting interest from several clubs, following his impressive World Cup performances.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cx2j8e99g7ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx2j8e99g7ko</guid>
-      <pubDate>Thu, 02 Jul 2026 15:52:35 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e47e/live/be6137e0-7528-11f1-b8b8-e187759eae96.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Uefa will not use red cards for players who cover mouth]]></title>
-      <description><![CDATA[Players who cover their mouths in confrontations with opponents will not be shown red cards in Uefa competitions.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c2dy80ddllxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c2dy80ddllxo</guid>
-      <pubDate>Thu, 02 Jul 2026 14:55:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f377/live/a882e6c0-7623-11f1-9cba-11a4f8930054.jpg"/>
     </item>
     <item>
       <title><![CDATA['Spain are furious' - Cucurella has goal ruled out]]></title>
@@ -307,6 +299,30 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b0e/live/61ce5c90-757a-11f1-a627-714adb4eed6e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[The World Cup's free agents looking for their next move ]]></title>
+      <description><![CDATA[Fourteen players still at the World Cup have no club to return to once the tournament is over.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c5yzleqqvjqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yzleqqvjqo</guid>
+      <pubDate>Thu, 02 Jul 2026 12:44:02 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08e4/live/5cfe25b0-7610-11f1-a627-714adb4eed6e.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Premier League clubs interested in Japan's Nakamura]]></title>
+      <description><![CDATA[Japan winger Keito Nakamura is keen to move to the Premier League this summer after attracting interest from several clubs, following his impressive World Cup performances.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cx2j8e99g7ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx2j8e99g7ko</guid>
+      <pubDate>Thu, 02 Jul 2026 15:52:35 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e47e/live/be6137e0-7528-11f1-b8b8-e187759eae96.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Uefa will not use red cards for players who cover mouth]]></title>
+      <description><![CDATA[Players who cover their mouths in confrontations with opponents will not be shown red cards in Uefa competitions.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c2dy80ddllxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c2dy80ddllxo</guid>
+      <pubDate>Thu, 02 Jul 2026 14:55:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f377/live/a882e6c0-7623-11f1-9cba-11a4f8930054.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['You can't catch your breath' - how will Azteca altitude impact England?]]></title>
       <description><![CDATA[BBC Sport explores how playing football at high altitude affects the body and mind as England prepare to visit Mexico and their fortress Azteca Stadium.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c4gy0v05qyro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -339,20 +355,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7473/live/76a318e0-761f-11f1-8c8c-f987daa96c22.jpg"/>
     </item>
     <item>
-      <title><![CDATA[England fans face resale prices of at least £2,600 for Mexico tickets]]></title>
-      <description><![CDATA[England fans hoping to attend the World Cup last-16 showdown with Mexico face paying a minimum of £2,600 for one ticket on Fifa's resale site. ]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cdxdg73n911o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cdxdg73n911o</guid>
-      <pubDate>Thu, 02 Jul 2026 10:18:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/855d/live/b9fbc3d0-7589-11f1-92e5-efd489c4d444.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[First Afcon, now World Cup - Senegal trapped in 'football hell']]></title>
       <description><![CDATA[Senegal's nightmarish year continues, with a heart-breaking collapse against Belgium featuring late penalty drama which was remarkably similar to events in this year's chaotic Afcon final.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cm20kegmlp5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm20kegmlp5o</guid>
       <pubDate>Thu, 02 Jul 2026 12:03:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3813/live/877fdb90-760a-11f1-b976-0b9c15b0ccfc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[England fans face resale prices of at least £2,600 for Mexico tickets]]></title>
+      <description><![CDATA[England fans hoping to attend the World Cup last-16 showdown with Mexico face paying a minimum of £2,600 for one ticket on Fifa's resale site. ]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cdxdg73n911o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cdxdg73n911o</guid>
+      <pubDate>Thu, 02 Jul 2026 10:18:29 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/855d/live/b9fbc3d0-7589-11f1-92e5-efd489c4d444.jpg"/>
     </item>
     <item>
       <title><![CDATA[Everton sign midfielder Hackney from Middlesbrough]]></title>
@@ -373,22 +389,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26be/live/5cc62090-7622-11f1-9cba-11a4f8930054.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Hull sign goalkeeper Butland from Rangers]]></title>
-      <description><![CDATA[Promoted Hull City sign goalkeeper Jack Butland from Rangers on a two-year deal.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c4gyx2x728eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gyx2x728eo</guid>
-      <pubDate>Thu, 02 Jul 2026 13:08:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/735b/live/a795c9a0-760d-11f1-ac6e-25f7e4f0c9b9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I spent $6,000 on a World Cup trip but was left stranded at the gate']]></title>
-      <description><![CDATA[Hundreds of fans who bought World Cup tickets on resale site StubHub say they have had them cancelled at the last minute.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crkvlekgy07o</guid>
-      <pubDate>Thu, 02 Jul 2026 04:59:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e82/live/5992ae70-7573-11f1-9510-1546718f668b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Would Glasner tarnish Palace legacy with move to new enemies Forest? ]]></title>
       <description><![CDATA[Will Oliver Glasner tarnish Crystal Palace legacy with Nottingham Forest move? ]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cwykxyqgpzno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -397,20 +397,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fc5/live/dcf3e940-7597-11f1-832e-29cbe4028c1e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Bronze renews contract with Chelsea until 2027 ]]></title>
-      <description><![CDATA[England international Lucy Bronze has signed a contract extension with Chelsea until 2027.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c17yvrgllk1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c17yvrgllk1o</guid>
-      <pubDate>Thu, 02 Jul 2026 11:26:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb12/live/8df0ab30-7605-11f1-b409-f16cfa99a4ec.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Who am I? Guess World Cup star No 25]]></title>
-      <description><![CDATA[Will you get today's player in as few attempts as possible?]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cj4pl4jdk4ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj4pl4jdk4ko</guid>
-      <pubDate>Thu, 02 Jul 2026 05:51:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c3c/live/bcbc2f10-6b93-11f1-8546-8f19e4fe30f4.jpg"/>
+      <title><![CDATA['I spent $6,000 on a World Cup trip but was left stranded at the gate']]></title>
+      <description><![CDATA[Hundreds of fans who bought World Cup tickets on resale site StubHub say they have had them cancelled at the last minute.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crkvlekgy07o</guid>
+      <pubDate>Thu, 02 Jul 2026 04:59:47 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e82/live/5992ae70-7573-11f1-9510-1546718f668b.jpg"/>
     </item>
     <item>
       <title><![CDATA[What you need to know about England's last-16 opponents Mexico]]></title>
@@ -433,7 +425,7 @@
       <description><![CDATA[BBC Sport takes a look at what England will need to do to reach the final after progressing the last 16]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o</guid>
-      <pubDate>Fri, 03 Jul 2026 04:05:22 GMT</pubDate>
+      <pubDate>Fri, 03 Jul 2026 05:00:29 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbaf/live/d94933c0-7576-11f1-afe7-df77d8cf5f2d.jpg"/>
     </item>
     <item>
@@ -533,12 +525,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5051/live/e5483a70-6632-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[San Jose close in on deal for Scotland's Gunn - gossip]]></title>
-      <description><![CDATA[Scotland goalkeeper linked with MLS move plus domestic transfer news.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cq61qdql7e0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq61qdql7e0o</guid>
-      <pubDate>Thu, 02 Jul 2026 07:48:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/749e/live/180e8e80-75df-11f1-a627-714adb4eed6e.png"/>
+      <title><![CDATA[Hull sign goalkeeper Butland from Rangers]]></title>
+      <description><![CDATA[Promoted Hull City sign goalkeeper Jack Butland from Rangers on a two-year deal.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c4gyx2x728eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gyx2x728eo</guid>
+      <pubDate>Thu, 02 Jul 2026 13:08:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/735b/live/a795c9a0-760d-11f1-ac6e-25f7e4f0c9b9.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rangers linked with Partizan captain Dragojević - gossip]]></title>
+      <description><![CDATA[Rangers reportedly have a bid rejected for Partizan Belgrade's Vanja Dragojević as Celtic are said to have tabled an offer for Las Palmas goalkeeper Dinko Horkas, while there's also news from Aberdeen, Dundee United, Hibernian, Heart of Midlothian, Motherwell, St Mirren and St Johnstone.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/ce8ml68jj00o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ce8ml68jj00o</guid>
+      <pubDate>Fri, 03 Jul 2026 06:21:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a16/live/3b763f90-76a6-11f1-9510-1546718f668b.png"/>
     </item>
     <item>
       <title><![CDATA[Could Rangers make Scotland standout Ferguson marquee signing?]]></title>
@@ -549,14 +549,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efd9/live/01d532f0-7557-11f1-9510-1546718f668b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Why new Scotland head coach has tricky task]]></title>
-      <description><![CDATA[Steve Clarke's successor as Scotland head coach may have a tricky task to sustain the national side's success over the long term.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c5yzqrq0e9do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yzqrq0e9do</guid>
-      <pubDate>Tue, 30 Jun 2026 13:30:58 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42b/live/7a1a4e20-7486-11f1-a63e-8369d3f8e6b7.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Neil embraces expectation after joining Rangers]]></title>
       <description><![CDATA[Dan Neil expects "a very similar feeling" of trying to meet expectations after joining Rangers from Sunderland on a three-year deal.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c2lyrw20n80o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -565,12 +557,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4d5/live/edf91190-752c-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Who has your Premiership club brought in & let go? - Summer 2026]]></title>
+      <description><![CDATA[Your one-stop shop for all the ins and outs in the Scottish Premiership during the  2026 summer transfer window.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo</guid>
+      <pubDate>Fri, 03 Jul 2026 05:19:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d6d/live/0fb0f9e0-4a24-11f0-9471-e380f647874e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[London City Lionesses sign Germany striker Anyomi]]></title>
       <description><![CDATA[Germany forward Nicole Anyomi joins London City Lionesses on a four-year contract.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c5yz8xlwr25o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yz8xlwr25o</guid>
       <pubDate>Thu, 02 Jul 2026 08:06:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97f1/live/df882c40-75e5-11f1-b2ef-f150187f763a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Bronze renews contract with Chelsea until 2027 ]]></title>
+      <description><![CDATA[England international Lucy Bronze has signed a contract extension with Chelsea until 2027.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c17yvrgllk1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c17yvrgllk1o</guid>
+      <pubDate>Thu, 02 Jul 2026 11:26:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb12/live/8df0ab30-7605-11f1-b409-f16cfa99a4ec.jpg"/>
     </item>
     <item>
       <title><![CDATA[FGR team closure 'sends message women not valued']]></title>
