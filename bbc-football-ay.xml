@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 11:49:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 13:28:12 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -41,7 +41,7 @@
     </item>
     <item>
       <title><![CDATA[Stay humble - the Premier League feud about to hit world stage]]></title>
-      <description><![CDATA[The Premier League between Manchester City's Erling Haaland and Arsenal defender Erling Haaland goes global as Norway meet Brazil at the World Cup.]]></description>
+      <description><![CDATA[The Premier League feud between Manchester City's Erling Haaland and Arsenal defender Gabriel goes global as Norway meet Brazil at the World Cup.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c2ky2x52kwlo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c2ky2x52kwlo</guid>
       <pubDate>Sun, 05 Jul 2026 09:25:03 GMT</pubDate>
@@ -88,20 +88,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12a5/live/a6a70d00-77f3-11f1-8911-63b505ab1e28.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Real Madrid sign defender Dumfries from Inter Milan]]></title>
+      <description><![CDATA[Real Madrid sign Netherlands full-back Denzel Dumfries from Inter Milan on a four-year deal.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c20yyg6n3zwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c20yyg6n3zwo</guid>
+      <pubDate>Sun, 05 Jul 2026 12:23:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e2/live/a1c111c0-7869-11f1-ab53-3dbca6ef5ee1.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Brentford set to sign Burnley forward Anthony]]></title>
       <description><![CDATA[Brentford are nearing a move for Burnley forward Jaidon Anthony for a £15m fee rising to £17m with add-ons.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c77yd4yxzlno?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c77yd4yxzlno</guid>
       <pubDate>Sun, 05 Jul 2026 11:32:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10e9/live/c2033e50-6f08-11f1-87e9-1dc598ae70b3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Unbeaten in 34 matches - why Morocco are World Cup contenders]]></title>
-      <description><![CDATA[As  Morocco beat Canada to book their place in the last-8, their World Cup campaign can no longer be seen as a fairytale.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o</guid>
-      <pubDate>Sat, 04 Jul 2026 21:20:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9140/live/2df0c2e0-77e7-11f1-b24a-2dac1f24311d.jpg"/>
     </item>
     <item>
       <title><![CDATA['Disgusting' Paraguay went 'way too far' against France]]></title>
@@ -142,6 +142,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cddlpql2e98o</guid>
       <pubDate>Sat, 04 Jul 2026 19:49:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c352/live/7099b550-77df-11f1-a627-714adb4eed6e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Unbeaten in 34 matches - why Morocco are World Cup contenders]]></title>
+      <description><![CDATA[As  Morocco beat Canada to book their place in the last-8, their World Cup campaign can no longer be seen as a fairytale.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o</guid>
+      <pubDate>Sat, 04 Jul 2026 21:20:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9140/live/2df0c2e0-77e7-11f1-b24a-2dac1f24311d.jpg"/>
     </item>
     <item>
       <title><![CDATA[England have 'big concerns' - so who would you pick to face Mexico?]]></title>
@@ -240,14 +248,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/549a/live/6bb10d60-7715-11f1-b8d2-89a55e0b98b8.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Fenerbahce complete deal to sign Ake from Man City]]></title>
-      <description><![CDATA[Fenerbahce sign Netherlands defender Nathan Ake from Manchester City in a deal that could be worth up to £8.5m.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c20y27eqj13o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c20y27eqj13o</guid>
-      <pubDate>Sat, 04 Jul 2026 15:04:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b35/live/c96ed680-76f7-11f1-ab95-f1a10991b6dc.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Ounahi gives Morocco the lead against Canada]]></title>
       <description><![CDATA[Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup.]]></description>
       <link>https://www.bbc.co.uk/sport/football/videos/c9q23dlgw72o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -320,6 +320,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b5f/live/886464c0-76f2-11f1-a627-714adb4eed6e.png"/>
     </item>
     <item>
+      <title><![CDATA[Fenerbahce complete deal to sign Ake from Man City]]></title>
+      <description><![CDATA[Fenerbahce sign Netherlands defender Nathan Ake from Manchester City in a deal that could be worth up to £8.5m.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c20y27eqj13o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c20y27eqj13o</guid>
+      <pubDate>Sat, 04 Jul 2026 15:04:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b35/live/c96ed680-76f7-11f1-ab95-f1a10991b6dc.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Murals, flags and beef dishes - Messi mania takes hold in Miami]]></title>
       <description><![CDATA[Lionel Messi's World Cup goals roadshow continued with his seventh of the tournament for Argentina against Cape Verde - and delighted the fans who were in Miami to see their hero.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -350,14 +358,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj3g7dxlvexo</guid>
       <pubDate>Fri, 03 Jul 2026 11:36:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73f5/live/f12e8d60-76c9-11f1-bd3f-0f791277aaa0.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[England-Mexico 1am kick-off unchanged after Fifa U-turn]]></title>
-      <description><![CDATA[England's World Cup last-16 tie against Mexico will kick off as scheduled at 01:00 BST on Monday.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo</guid>
-      <pubDate>Sat, 04 Jul 2026 00:16:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f30/live/6152b0e0-770f-11f1-beb9-b5355696e847.jpg"/>
     </item>
     <item>
       <title><![CDATA[Williamson eyes Scotland job with McCoist on staff]]></title>
