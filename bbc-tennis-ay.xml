@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 04:33:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 07:46:47 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[A rivalry renewed - Sabalenka and Osaka meet again]]></title>
+      <description><![CDATA[For the third time in three months, Aryna Sabalenka and Naomi Osaka will meet - but this time for a place in the Wimbledon quarter-finals.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cg53p7mn85mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cg53p7mn85mo</guid>
+      <pubDate>Sun, 05 Jul 2026 05:00:51 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/915b/live/84fc30a0-77fc-11f1-9f1f-0d563b557b65.jpg"/>
+    </item>
     <item>
       <title><![CDATA[GB's Fery fights off Bergs and nosebleeds to reach fourth round]]></title>
       <description><![CDATA[British wildcard Arthur Fery beats Zizou Bergs to reach the Wimbledon fourth round and keep home singles hopes alive - despite suffering three nosebleeds.]]></description>
@@ -32,28 +40,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a602/live/96aa5aa0-77c7-11f1-a627-714adb4eed6e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Who am I? Guess the tennis star No 6]]></title>
+      <description><![CDATA[Will you get today's tennis player in as few attempts as possible?]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/c1ky0km90zxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c1ky0km90zxo</guid>
+      <pubDate>Sun, 05 Jul 2026 06:17:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01c2/live/2e5b23f0-7185-11f1-8e1d-bbbb1017d210.png"/>
+    </item>
+    <item>
       <title><![CDATA[Dimitrov out to rewrite Wimbledon story after beating Berrettini]]></title>
       <description><![CDATA[An emotional Grigor Dimitrov says he wants to rewrite his Wimbledon story after reaching the fourth round with a thrilling five-set victory over Matteo Berrettini.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/clyep040vlmo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/clyep040vlmo</guid>
       <pubDate>Sat, 04 Jul 2026 21:48:11 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8047/live/6ea4f6f0-77ef-11f1-9633-6dcef27bffbb.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Injury ends Williams' Wimbledon comeback]]></title>
-      <description><![CDATA[Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo</guid>
-      <pubDate>Sat, 04 Jul 2026 17:22:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa6/live/b2249b20-77b7-11f1-a777-2740d50846c8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Advantage Sabalenka? Swiatek & Rybakina out in shock defeats]]></title>
-      <description><![CDATA[Elena Rybakina becomes the highest seed to fall at Wimbledon so far in a straight-set third-round defeat by Elise Mertens.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/clywpdxx9n8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/clywpdxx9n8o</guid>
-      <pubDate>Sat, 04 Jul 2026 15:55:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac1f/live/3d0f0b80-77b8-11f1-a627-714adb4eed6e.jpg"/>
     </item>
     <item>
       <title><![CDATA[GB's Fery battles to beat Bergs in five-set thriller]]></title>
@@ -64,12 +64,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2154/live/8e84b140-77db-11f1-a627-714adb4eed6e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Injury ends Williams' Wimbledon comeback]]></title>
+      <description><![CDATA[Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo</guid>
+      <pubDate>Sat, 04 Jul 2026 17:22:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa6/live/b2249b20-77b7-11f1-a777-2740d50846c8.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Qualifiers eye more shocks after causing Wimbledon upsets]]></title>
       <description><![CDATA[Qualifiers Roman Safiullin and Shintaro Mochizuki set their sights on toppling title challengers Novak Djokovic and Jannik Sinner after causing huge upsets at Wimbledon.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/cq81px242d4o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cq81px242d4o</guid>
       <pubDate>Fri, 03 Jul 2026 23:22:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a02/live/3d340bd0-770c-11f1-8511-4184dbb07950.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Advantage Sabalenka? Swiatek & Rybakina out in shock defeats]]></title>
+      <description><![CDATA[Elena Rybakina becomes the highest seed to fall at Wimbledon so far in a straight-set third-round defeat by Elise Mertens.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/clywpdxx9n8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/clywpdxx9n8o</guid>
+      <pubDate>Sat, 04 Jul 2026 15:55:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac1f/live/3d0f0b80-77b8-11f1-a627-714adb4eed6e.jpg"/>
     </item>
     <item>
       <title><![CDATA[How to follow day seven of Wimbledon live on the BBC]]></title>
@@ -86,22 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cpwev4979edo</guid>
       <pubDate>Sat, 04 Jul 2026 06:15:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2016/live/b5ad7da0-717e-11f1-b1db-af71d47507d6.png"/>
-    </item>
-    <item>
-      <title><![CDATA['You're taking our jobs' - doubles players angry at proposed cuts]]></title>
-      <description><![CDATA[Doubles players are "angry" at proposals to cut their events because it is "taking our jobs away", say Wimbledon champions Julian Cash and Lloyd Glasspool.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/c20y24zrnvgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c20y24zrnvgo</guid>
-      <pubDate>Fri, 03 Jul 2026 19:43:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ea1/live/311e1aa0-770e-11f1-beb9-b5355696e847.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Djokovic fights off Rinderknech to claim more history as Sinner wins]]></title>
-      <description><![CDATA[Novak Djokovic claims his latest piece of history as he equals Roger Federer's record total of 105 men's singles match wins at Wimbledon by battling past Arthur Rinderknech.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cevlkr4jxy4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cevlkr4jxy4o</guid>
-      <pubDate>Fri, 03 Jul 2026 17:16:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0639/live/3d92f8e0-7705-11f1-9510-1546718f668b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Dimitrov's Wimbledon dream continues after classic against Berrettini]]></title>
@@ -144,12 +144,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a50/live/048007a0-77c8-11f1-a627-714adb4eed6e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Djokovic fights off Rinderknech to claim more history as Sinner wins]]></title>
+      <description><![CDATA[Novak Djokovic claims his latest piece of history as he equals Roger Federer's record total of 105 men's singles match wins at Wimbledon by battling past Arthur Rinderknech.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cevlkr4jxy4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cevlkr4jxy4o</guid>
+      <pubDate>Fri, 03 Jul 2026 17:16:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0639/live/3d92f8e0-7705-11f1-9510-1546718f668b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Sabalenka beats Ostapenko to set up blockbuster Osaka meeting]]></title>
       <description><![CDATA[Aryna Sabalenka battles past Latvia's Jelena Ostapenko to set up a blockbuster fourth-round match against Naomi Osaka at Wimbledon.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/cddlqd0877mo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cddlqd0877mo</guid>
       <pubDate>Fri, 03 Jul 2026 19:06:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f857/live/b4bf00e0-770e-11f1-beb9-b5355696e847.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['You're taking our jobs' - doubles players angry at proposed cuts]]></title>
+      <description><![CDATA[Doubles players are "angry" at proposals to cut their events because it is "taking our jobs away", say Wimbledon champions Julian Cash and Lloyd Glasspool.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/c20y24zrnvgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c20y24zrnvgo</guid>
+      <pubDate>Fri, 03 Jul 2026 19:43:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ea1/live/311e1aa0-770e-11f1-beb9-b5355696e847.jpg"/>
     </item>
     <item>
       <title><![CDATA['Not a carnival sideshow' - doubles players fear cutbacks]]></title>
@@ -176,28 +192,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f95/live/9d911ba0-7714-11f1-b8d2-89a55e0b98b8.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Eala's historic Wimbledon run thrills boxing-obsessed Philippines]]></title>
-      <description><![CDATA[The 21-year-old has become the first Filipino to reach the third round of a Grand Slam in the Open era.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cpv3x3p7mdvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cpv3x3p7mdvo</guid>
-      <pubDate>Fri, 03 Jul 2026 08:55:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b82/live/5adc3a60-76b0-11f1-af69-5108783f4681.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Boulter and Watson among Britons to exit doubles ]]></title>
       <description><![CDATA[Katie Boulter and Heather Watson are among the British players to exit the doubles competition in the first round at Wimbledon on Thursday.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/cn078gx313xo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cn078gx313xo</guid>
       <pubDate>Thu, 02 Jul 2026 19:54:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebc6/live/6b171ec0-764e-11f1-a011-354a7c444b02.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Swiatek and Rybakina dominate to reach third round]]></title>
-      <description><![CDATA[Iga Swiatek overpowers former finalist Karolina Pliskova as she continues her Wimbledon title defence by reaching the third round in straight sets.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/c8x27g927j8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c8x27g927j8o</guid>
-      <pubDate>Thu, 02 Jul 2026 19:12:03 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3e/live/d88aa4d0-761d-11f1-8c8c-f987daa96c22.jpg"/>
     </item>
     <item>
       <title><![CDATA['Bazooka of a forehand!' - best shots as Keys defeats Anisimova]]></title>
@@ -291,12 +291,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29d1/live/caf66fb0-762d-11f1-b976-0b9c15b0ccfc.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Swiatek and Rybakina dominate to reach third round]]></title>
+      <description><![CDATA[Iga Swiatek overpowers former finalist Karolina Pliskova as she continues her Wimbledon title defence by reaching the third round in straight sets.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/c8x27g927j8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c8x27g927j8o</guid>
+      <pubDate>Thu, 02 Jul 2026 19:12:03 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3e/live/d88aa4d0-761d-11f1-8c8c-f987daa96c22.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[How is the Wimbledon schedule decided? Your questions answered]]></title>
       <description><![CDATA[Our Ask Me Anything team answer your questions about the Wimbledon schedule.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/cg53g472140o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cg53g472140o</guid>
       <pubDate>Thu, 02 Jul 2026 15:14:50 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e41/live/a3ed6b00-7621-11f1-9510-1546718f668b.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Eala's historic Wimbledon run thrills boxing-obsessed Philippines]]></title>
+      <description><![CDATA[The 21-year-old has become the first Filipino to reach the third round of a Grand Slam in the Open era.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cpv3x3p7mdvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cpv3x3p7mdvo</guid>
+      <pubDate>Fri, 03 Jul 2026 08:55:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b82/live/5adc3a60-76b0-11f1-af69-5108783f4681.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fery last Briton standing in Wimbledon singles]]></title>
@@ -329,22 +345,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cgjxzeqnn1vo</guid>
       <pubDate>Wed, 01 Jul 2026 21:29:09 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a58e/live/2b59c8b0-7594-11f1-81b1-d5d688879af5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The 'bad boy with a good heart' waves farewell at Wimbledon]]></title>
-      <description><![CDATA[Dan Evans bids an emotional farewell at Wimbledon as he and Henry Searle lose in the final match of the Briton's career.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cewqzq2dwr8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cewqzq2dwr8o</guid>
-      <pubDate>Wed, 01 Jul 2026 16:52:59 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1a9/live/223fcb50-7547-11f1-9499-0d1c901927e6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Williams' knee injury leaves Wimbledon doubles in doubt]]></title>
-      <description><![CDATA[Serena Williams' hopes of playing alongside her older sister Venus in the Wimbledon doubles look in doubt because of a knee injury.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cx2kr12ggv9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cx2kr12ggv9o</guid>
-      <pubDate>Wed, 01 Jul 2026 12:41:57 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0802/live/eb99ff00-7544-11f1-81d0-b57b06d692af.jpg"/>
     </item>
     <item>
       <title><![CDATA['Where champions are born' - the making of Jannik Sinner]]></title>
