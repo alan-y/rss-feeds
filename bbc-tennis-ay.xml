@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 08:05:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 12:15:46 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,14 +48,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a7a/live/51cc8660-7849-11f1-b976-0b9c15b0ccfc.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Patten & Heliovaara maintain Wimbledon title bid]]></title>
-      <description><![CDATA[Britain's Henry Patten and Finnish team-mate Harri Heliovaara maintain their bid to reclaim the Wimbledon men's doubles title by reaching the quarter-finals.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/c0myyrl1m0go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c0myyrl1m0go</guid>
-      <pubDate>Sun, 05 Jul 2026 22:24:48 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c348/live/8a063ce0-78be-11f1-901e-2fa34f22dc4a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Osaka stuns Sabalenka to reach Wimbledon quarter-finals]]></title>
       <description><![CDATA[Naomi Osaka secures a brilliant straight sets win over world number one Aryna Sabalenka to reach the quarter-finals of Wimbledon 2026.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/videos/crellq01788o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -70,6 +62,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ckg5ny1vy5ro</guid>
       <pubDate>Sun, 05 Jul 2026 22:12:11 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d357/live/8b4d54c0-786f-11f1-9510-1546718f668b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Patten & Heliovaara maintain Wimbledon title bid]]></title>
+      <description><![CDATA[Britain's Henry Patten and Finnish team-mate Harri Heliovaara maintain their bid to reclaim the Wimbledon men's doubles title by reaching the quarter-finals.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/c0myyrl1m0go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c0myyrl1m0go</guid>
+      <pubDate>Sun, 05 Jul 2026 22:24:48 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c348/live/8a063ce0-78be-11f1-901e-2fa34f22dc4a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Osaka stuns world number one Sabalenka to reach quarter-finals]]></title>
@@ -94,14 +94,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cj3gp85me40o</guid>
       <pubDate>Sat, 04 Jul 2026 20:07:24 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a09/live/27c9e170-77d4-11f1-84db-63b8d819a925.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Dimitrov out to rewrite Wimbledon story after beating Berrettini]]></title>
-      <description><![CDATA[An emotional Grigor Dimitrov says he wants to rewrite his Wimbledon story after reaching the fourth round with a thrilling five-set victory over Matteo Berrettini.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/clyep040vlmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/clyep040vlmo</guid>
-      <pubDate>Sat, 04 Jul 2026 21:48:11 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8047/live/6ea4f6f0-77ef-11f1-9633-6dcef27bffbb.jpg"/>
     </item>
     <item>
       <title><![CDATA['Simply brilliant' - best shots from day seven at Wimbledon]]></title>
@@ -142,6 +134,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/videos/cly7p77e8x3o</guid>
       <pubDate>Sat, 04 Jul 2026 23:24:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e50/live/6caf4e30-77ff-11f1-a627-714adb4eed6e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Dimitrov out to rewrite Wimbledon story after beating Berrettini]]></title>
+      <description><![CDATA[An emotional Grigor Dimitrov says he wants to rewrite his Wimbledon story after reaching the fourth round with a thrilling five-set victory over Matteo Berrettini.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/clyep040vlmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/clyep040vlmo</guid>
+      <pubDate>Sat, 04 Jul 2026 21:48:11 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8047/live/6ea4f6f0-77ef-11f1-9633-6dcef27bffbb.jpg"/>
     </item>
     <item>
       <title><![CDATA['Not a carnival sideshow' - doubles players fear cutbacks]]></title>
@@ -190,14 +190,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cddlqd0877mo</guid>
       <pubDate>Fri, 03 Jul 2026 19:06:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f857/live/b4bf00e0-770e-11f1-beb9-b5355696e847.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[GB's Cash & Glasspool on track for doubles title defence]]></title>
-      <description><![CDATA[British duo Julian Cash and Lloyd Glasspool remain on course to defend their men's doubles title after reaching round three at Wimbledon.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cddlp4l5l3do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cddlp4l5l3do</guid>
-      <pubDate>Fri, 03 Jul 2026 20:38:50 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f95/live/9d911ba0-7714-11f1-b8d2-89a55e0b98b8.jpg"/>
     </item>
     <item>
       <title><![CDATA['Absolutely sensational!' - best shots from day six]]></title>
@@ -288,6 +280,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf64/live/1388dca0-770e-11f1-b976-0b9c15b0ccfc.jpg"/>
     </item>
     <item>
+      <title><![CDATA[GB's Cash & Glasspool on track for doubles title defence]]></title>
+      <description><![CDATA[British duo Julian Cash and Lloyd Glasspool remain on course to defend their men's doubles title after reaching round three at Wimbledon.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cddlp4l5l3do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cddlp4l5l3do</guid>
+      <pubDate>Fri, 03 Jul 2026 20:38:50 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f95/live/9d911ba0-7714-11f1-b8d2-89a55e0b98b8.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['You're taking our jobs' - doubles players angry at proposed cuts]]></title>
       <description><![CDATA[Doubles players are "angry" at proposals to cut their events because it is "taking our jobs away", say Wimbledon champions Julian Cash and Lloyd Glasspool.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/c20y24zrnvgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -326,14 +326,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cg53g472140o</guid>
       <pubDate>Thu, 02 Jul 2026 15:14:50 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e41/live/a3ed6b00-7621-11f1-9510-1546718f668b.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Fery last Briton standing in Wimbledon singles]]></title>
-      <description><![CDATA[Arthur Fery is the last British player standing in the Wimbledon singles after his compatriots Katie Swan, Jacob Fearnley, and Jan Choinski are beaten.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cly87nn87plo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cly87nn87plo</guid>
-      <pubDate>Thu, 02 Jul 2026 20:48:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0b8/live/bf62a7d0-7624-11f1-ac11-19a4319081d7.jpg"/>
     </item>
     <item>
       <title><![CDATA[What is the prize money per round at Wimbledon?]]></title>
