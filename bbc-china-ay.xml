@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 05:10:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 08:46:02 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[China sentences official to death for taking $325m in bribes ]]></title>
+      <description><![CDATA[The 69-year-old helped companies secure valuable contracts in exchange for money, a court heard.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c33y0n1v1xjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c33y0n1v1xjo</guid>
+      <pubDate>Tue, 07 Jul 2026 03:36:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/258b/live/2bc73090-79b2-11f1-bebe-3701069fbdcb.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Can China repeat its EV success with robotaxis?]]></title>
       <description><![CDATA[China's self-driving car firms have been given a headstart by the country's EV supply chain as they expand globally.]]></description>
@@ -32,14 +40,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0472/live/4679ce60-76fc-11f1-9e14-057377bcce93.jpg"/>
     </item>
     <item>
-      <title><![CDATA[China's internet got so mad about a celebrity's 'bad' singing, her concert was cancelled]]></title>
-      <description><![CDATA[Celebrities have become outlets for young people's social and economic frustrations.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cdx7d254lrjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdx7d254lrjo</guid>
-      <pubDate>Fri, 03 Jul 2026 22:46:42 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff62/live/0fec33e0-76cc-11f1-b508-3b3f1f22a3c1.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[China says pilot crashed small plane into skyscraper for 'personal reasons']]></title>
       <description><![CDATA[The 66-year-old, who died in the crash, had anxiety and referenced "ending his life" in his diary.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -48,20 +48,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0be4/live/5d268880-7600-11f1-b976-0b9c15b0ccfc.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Can China target critics abroad with its new 'ethnic unity' law?]]></title>
-      <description><![CDATA[Rights groups fear the new law gives Beijing legal authority to go after people beyond its borders.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cx23dwx0232o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx23dwx0232o</guid>
-      <pubDate>Wed, 01 Jul 2026 05:34:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32b8/live/0d3f5890-74f9-11f1-9bbd-83e44a2dbbf0.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Dettol apologises after ad to clean up 'toxic men' backfires in China]]></title>
       <description><![CDATA[The ad sparked accusations of sexism in China, after featuring a man looking for a partner who is "not tainted by other men".]]></description>
       <link>https://www.bbc.co.uk/news/articles/ced4vq6zylpo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ced4vq6zylpo</guid>
       <pubDate>Tue, 23 Jun 2026 08:05:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74d2/live/dc836e90-6ed0-11f1-8bcc-0dcbc11a720b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[China's internet got so mad about a celebrity's 'bad' singing, her concert was cancelled]]></title>
+      <description><![CDATA[Celebrities have become outlets for young people's social and economic frustrations.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cdx7d254lrjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdx7d254lrjo</guid>
+      <pubDate>Fri, 03 Jul 2026 22:46:42 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff62/live/0fec33e0-76cc-11f1-b508-3b3f1f22a3c1.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Can China target critics abroad with its new 'ethnic unity' law?]]></title>
+      <description><![CDATA[Rights groups fear the new law gives Beijing legal authority to go after people beyond its borders.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cx23dwx0232o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx23dwx0232o</guid>
+      <pubDate>Wed, 01 Jul 2026 05:34:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32b8/live/0d3f5890-74f9-11f1-9bbd-83e44a2dbbf0.jpg"/>
     </item>
     <item>
       <title><![CDATA[China's import of custard apples is sparking fears in Taiwan]]></title>
@@ -86,22 +94,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2x5z4202jo</guid>
       <pubDate>Tue, 09 Jun 2026 23:49:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e30/live/fe3146e0-64b0-11f1-8e1d-bbbb1017d210.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Friendship or leverage: Why is Xi Jinping in North Korea?]]></title>
-      <description><![CDATA[Beijing is trying to reassert influence over a strategically vital yet deeply unpredictable partner.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cdep497r256o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdep497r256o</guid>
-      <pubDate>Mon, 08 Jun 2026 14:22:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac8/live/dce70a90-6318-11f1-aecd-df176a37a192.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[China goes after 'ghost kitchens' to rein in cut-throat food delivery apps]]></title>
-      <description><![CDATA[The thousands of "ghost kitchens" - online shops that don't actually exist - have spooked Chinese consumers.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cj4p7zglq5no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj4p7zglq5no</guid>
-      <pubDate>Tue, 02 Jun 2026 07:52:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8187/live/9ae7af80-5e47-11f1-bc28-25fe0a327fe4.jpg"/>
     </item>
   </channel>
 </rss>
