@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 06:27:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 09:10:56 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,6 +48,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1355/live/d7a0b940-7a6b-11f1-b3a0-9d60633dee75.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Why Newcastle target Manzambi is in demand]]></title>
+      <description><![CDATA[Johan Manzambi has been one of the World Cup's breakout stars, so can Newcastle United win the race to sign the Freiburg midfielder?]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cwyllrxveklo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwyllrxveklo</guid>
+      <pubDate>Wed, 08 Jul 2026 09:03:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d008/live/057f9b30-7966-11f1-9ade-614b823fa1e3.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Fulham appoint Arbeloa as Silva's successor]]></title>
       <description><![CDATA[Fulham appoint Alvaro Arbeloa as their new manager on a three-year contract, succeeding Marco Silva who left for Benfica.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cvgjnlj0d1go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -80,14 +88,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8e2n47j0j5o</guid>
       <pubDate>Tue, 07 Jul 2026 20:58:10 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d52/live/c2ff92d0-7a44-11f1-b976-0b9c15b0ccfc.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Villa and Belgium midfielder Onana ruptures ACL]]></title>
-      <description><![CDATA[Aston Villa midfielder Amadou Onana ruptures an anterior cruciate ligament while playing for Belgium at the World Cup.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c862nw2xj0jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c862nw2xj0jo</guid>
-      <pubDate>Tue, 07 Jul 2026 18:51:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68e6/live/d6a8e630-7a33-11f1-ab76-d75965dea4d1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Who am I? Guess World Cup star No 31]]></title>
@@ -141,12 +141,44 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f856/live/090001c0-7a4a-11f1-b976-0b9c15b0ccfc.jpg"/>
     </item>
     <item>
+      <title><![CDATA[England on course to face Argentina in semis? See their path to final]]></title>
+      <description><![CDATA[BBC Sport takes a look at what England will need to do to reach the World Cup final after progressing to the quarter-finals.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o</guid>
+      <pubDate>Tue, 07 Jul 2026 22:55:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b84/live/85f4ebd0-78e9-11f1-a627-714adb4eed6e.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Villa and Belgium midfielder Onana ruptures ACL]]></title>
+      <description><![CDATA[Aston Villa midfielder Amadou Onana ruptures an anterior cruciate ligament while playing for Belgium at the World Cup.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c862nw2xj0jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c862nw2xj0jo</guid>
+      <pubDate>Tue, 07 Jul 2026 18:51:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68e6/live/d6a8e630-7a33-11f1-ab76-d75965dea4d1.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Arsenal sign Switzerland midfielder Reuteler]]></title>
+      <description><![CDATA[Arsenal sign Switzerland midfielder Geraldine Reuteler following her exit from Eintracht Frankfurt.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cp8lel2nmx5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cp8lel2nmx5o</guid>
+      <pubDate>Wed, 08 Jul 2026 09:01:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f0c/live/82e56eb0-7aa6-11f1-9f6d-f5ba4753cb85.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[The superstar double act that became England's Wonderwall]]></title>
       <description><![CDATA[With 10 of England's 11 goals at the World Cup scored by either Harry Kane or Jude Bellingham, BBC Sport looks at how dependent on them the team is.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c24yym25rgjo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c24yym25rgjo</guid>
       <pubDate>Tue, 07 Jul 2026 11:11:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6895/live/a64d4ec0-7968-11f1-9ade-614b823fa1e3.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Can Scotland learn from history-making Norway?]]></title>
+      <description><![CDATA[Norway, a nation of a similar size to Scotland, are through to the World Cup quarter-finals, so can lessons be learned from their neighbours from across the North Sea?]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cr7xk8r9xl4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr7xk8r9xl4o</guid>
+      <pubDate>Tue, 07 Jul 2026 15:54:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f83c/live/344a3460-7a1b-11f1-b976-0b9c15b0ccfc.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arsenal set to sign Meslier on free transfer after Leeds exit]]></title>
@@ -166,22 +198,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa11/live/ef502500-7a2d-11f1-ab76-d75965dea4d1.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Inside Liverpool's pre-season plans as Iraola starts work]]></title>
-      <description><![CDATA[New Liverpool head coach Andoni Iraola has arrived at the club's training ground and is preparing to start work with his new squad ahead of the Premier League season.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c5yz3g5pmzyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yz3g5pmzyo</guid>
-      <pubDate>Tue, 07 Jul 2026 15:43:40 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab25/live/d195b520-7a14-11f1-a37f-8d94fb2430cd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Can Scotland learn from history-making Norway?]]></title>
-      <description><![CDATA[Norway, a nation of a similar size to Scotland, are through to the World Cup quarter-finals, so can lessons be learned from their neighbours from across the North Sea?]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cr7xk8r9xl4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr7xk8r9xl4o</guid>
-      <pubDate>Tue, 07 Jul 2026 15:54:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f83c/live/344a3460-7a1b-11f1-b976-0b9c15b0ccfc.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Fifa's Balogun decision could lead to football 'cesspit' - McAllister]]></title>
       <description><![CDATA[Uefa vice-president Laura McAllister says there is a risk of "an absolute cesspit" of political interference in football after USA striker Folarin Balogun avoided a ban at the World Cup.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cgmdkjg9pkno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -190,12 +206,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a80/live/3118b8a0-7a1d-11f1-bee8-53ce494e1abc.jpg"/>
     </item>
     <item>
-      <title><![CDATA[England into quarter-finals - what is their path to the final?]]></title>
-      <description><![CDATA[BBC Sport takes a look at what England will need to do to reach the World Cup final after progressing to the quarter-finals.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o</guid>
-      <pubDate>Tue, 07 Jul 2026 22:55:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b84/live/85f4ebd0-78e9-11f1-a627-714adb4eed6e.png"/>
+      <title><![CDATA[Inside Liverpool's pre-season plans as Iraola starts work]]></title>
+      <description><![CDATA[New Liverpool head coach Andoni Iraola has arrived at the club's training ground and is preparing to start work with his new squad ahead of the Premier League season.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c5yz3g5pmzyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yz3g5pmzyo</guid>
+      <pubDate>Tue, 07 Jul 2026 15:43:40 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab25/live/d195b520-7a14-11f1-a37f-8d94fb2430cd.jpg"/>
     </item>
     <item>
       <title><![CDATA[England players to get hoarding warning after freak Henderson injury]]></title>
@@ -204,46 +220,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/czx5qev7nqno</guid>
       <pubDate>Tue, 07 Jul 2026 17:49:34 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bfc/live/1da570c0-7a2b-11f1-bee8-53ce494e1abc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[La Liga chief critical of 'complicit silence' surrounding Fifa ]]></title>
-      <description><![CDATA[La Liga president Javier Tebas has criticised the "complicit silence" which surrounds Fifa after the Folarin Balogun controversy.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c0ly51j7grxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c0ly51j7grxo</guid>
-      <pubDate>Tue, 07 Jul 2026 12:49:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc21/live/805e2c00-7a00-11f1-8329-119e86ad1936.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Coach was 'happy' to have Maddy Cusack on team]]></title>
-      <description><![CDATA[Jonathan Morgan, Maddy Cusack's coach at Sheffield United, gave evidence earlier on Tuesday.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cdx78912gx1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdx78912gx1o</guid>
-      <pubDate>Tue, 07 Jul 2026 15:27:38 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f141/live/de07ef10-73db-11f1-bb92-23f4f6ea1fbd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Overturn this' - Belgium taunt US and say Trump move fired them up]]></title>
-      <description><![CDATA[Belgium's Nicolas Raskin says Fifa's decision to allow US striker Folarin Balogun to play against them fired them up for the last-16 tie in Seattle.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gyj50450go</guid>
-      <pubDate>Tue, 07 Jul 2026 07:07:29 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/565d/live/36866a60-79bb-11f1-8257-1765759c449e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Qarabag's Duran poised for Celtic medical]]></title>
-      <description><![CDATA[Colombian forward Camilo Duran is poised to become Celtic's first summer signing, arriving for an undisclosed fee from Qarabag, manager Martin O'Neill confirms.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c5yzzxv8yw0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yzzxv8yw0o</guid>
-      <pubDate>Tue, 07 Jul 2026 17:51:53 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b7/live/a1c2be70-7874-11f1-9510-1546718f668b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Brentford sign Burnley forward Anthony]]></title>
-      <description><![CDATA[Brentford sign forward Jaidon Anthony from Burnley on a four-year contract, with an option for an extra year.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c77yd4yxzlno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c77yd4yxzlno</guid>
-      <pubDate>Tue, 07 Jul 2026 15:34:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10e9/live/c2033e50-6f08-11f1-87e9-1dc598ae70b3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Belgium make light work of US to set up quarter-final tie with Spain]]></title>
@@ -294,12 +270,52 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/197b/live/1eea5080-78f1-11f1-9510-1546718f668b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[La Liga chief critical of 'complicit silence' surrounding Fifa ]]></title>
+      <description><![CDATA[La Liga president Javier Tebas has criticised the "complicit silence" which surrounds Fifa after the Folarin Balogun controversy.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c0ly51j7grxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c0ly51j7grxo</guid>
+      <pubDate>Tue, 07 Jul 2026 12:49:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc21/live/805e2c00-7a00-11f1-8329-119e86ad1936.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Overturn this' - Belgium taunt US and say Trump move fired them up]]></title>
+      <description><![CDATA[Belgium's Nicolas Raskin says Fifa's decision to allow US striker Folarin Balogun to play against them fired them up for the last-16 tie in Seattle.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gyj50450go</guid>
+      <pubDate>Tue, 07 Jul 2026 07:07:29 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/565d/live/36866a60-79bb-11f1-8257-1765759c449e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Qarabag's Duran poised for Celtic medical]]></title>
+      <description><![CDATA[Colombian forward Camilo Duran is poised to become Celtic's first summer signing, arriving for an undisclosed fee from Qarabag, manager Martin O'Neill confirms.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c5yzzxv8yw0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yzzxv8yw0o</guid>
+      <pubDate>Tue, 07 Jul 2026 17:51:53 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b7/live/a1c2be70-7874-11f1-9510-1546718f668b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Coach was 'happy' to have Maddy Cusack on team]]></title>
+      <description><![CDATA[Jonathan Morgan, Maddy Cusack's coach at Sheffield United, gave evidence earlier on Tuesday.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cdx78912gx1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdx78912gx1o</guid>
+      <pubDate>Tue, 07 Jul 2026 15:27:38 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f141/live/de07ef10-73db-11f1-bb92-23f4f6ea1fbd.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Ronaldo's World Cup career ends in tears as 'pandering' Martinez departs]]></title>
       <description><![CDATA[BBC Sport looks at the end of Cristiano Ronaldo's World Cup career as he fails to win football's biggest prize.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c3vyyq1kg5go?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3vyyq1kg5go</guid>
       <pubDate>Mon, 06 Jul 2026 23:51:04 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a83e/live/3391e580-799a-11f1-a284-630313c9a0fe.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Brentford sign Burnley forward Anthony]]></title>
+      <description><![CDATA[Brentford sign forward Jaidon Anthony from Burnley on a four-year contract, with an option for an extra year.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c77yd4yxzlno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c77yd4yxzlno</guid>
+      <pubDate>Tue, 07 Jul 2026 15:34:47 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10e9/live/c2033e50-6f08-11f1-87e9-1dc598ae70b3.jpg"/>
     </item>
     <item>
       <title><![CDATA[9.1m watch England's epic win over Mexico]]></title>
@@ -310,12 +326,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3361/live/b8d36620-79cb-11f1-86c6-df420601713b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Newcastle closing in on signing of Ajax's Steur]]></title>
-      <description><![CDATA[Newcastle United are closing in on the signing of 18-year-old Ajax midfielder Sean Steur.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/crkv506gxyro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crkv506gxyro</guid>
-      <pubDate>Tue, 07 Jul 2026 08:34:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56aa/live/157a7930-79dc-11f1-a400-b302bc872d47.jpg"/>
+      <title><![CDATA[How can Stoke City keep spending on transfer fees?]]></title>
+      <description><![CDATA[Football finance expert Kieran Maguire explains how Stoke can manage the Championship's Squad Cost Rules this summer.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c4gyxpgp1dlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gyxpgp1dlo</guid>
+      <pubDate>Tue, 07 Jul 2026 15:21:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a44/live/275ae610-7a10-11f1-b151-87c0badc88c3.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[A shambolic end for the American dream - did Balogun saga play a part?]]></title>
+      <description><![CDATA[Mauricio Pochettino says he feels "disappointed with too many people" who brought "politics and manipulation" into the game as the US exit World Cup.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo</guid>
+      <pubDate>Tue, 07 Jul 2026 05:00:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c767/live/d72f45f0-79bf-11f1-b078-9b61a92fb8b3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Burnley in talks to appoint Hayen as boss]]></title>
@@ -326,28 +350,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcc2/live/b19bd430-7a09-11f1-92a1-2dcee5cd2863.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How can Stoke City keep spending on transfer fees?]]></title>
-      <description><![CDATA[Football finance expert Kieran Maguire explains how Stoke can manage the Championship's Squad Cost Rules this summer.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c4gyxpgp1dlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gyxpgp1dlo</guid>
-      <pubDate>Tue, 07 Jul 2026 15:21:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a44/live/275ae610-7a10-11f1-b151-87c0badc88c3.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[TNS fall to Champions League defeat in Azerbaijan]]></title>
       <description><![CDATA[The New Saints need to turn tie around in home leg after losing 2-0 at Sabah in first qualifying round of Champions League.]]></description>
       <link>https://www.bbc.co.uk/sport/articles/c5yz0903v5no?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/c5yz0903v5no</guid>
       <pubDate>Tue, 07 Jul 2026 18:12:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e141/live/e0868580-7a2f-11f1-ab76-d75965dea4d1.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[A shambolic end for the American dream - did Balogun saga play a part?]]></title>
-      <description><![CDATA[Mauricio Pochettino says he feels "disappointed with too many people" who brought "politics and manipulation" into the game as the US exit World Cup.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo</guid>
-      <pubDate>Tue, 07 Jul 2026 05:00:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c767/live/d72f45f0-79bf-11f1-b078-9b61a92fb8b3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Mbappe condemns racist posts from Paraguay senator]]></title>
@@ -364,38 +372,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8d2n6mmn6jo</guid>
       <pubDate>Tue, 07 Jul 2026 16:18:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cef/live/f0b56a10-7a1c-11f1-8228-eda6b31aeccd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why European backlash over Trump intervention won't worry Infantino]]></title>
-      <description><![CDATA[After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o</guid>
-      <pubDate>Tue, 07 Jul 2026 08:02:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94dc/live/8a1615f0-796f-11f1-9290-9b15d0e76459.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Zimbabwean football star survives gun attack in South Africa]]></title>
-      <description><![CDATA[South African police say they are investigating a case of attempted murder but that no arrests have been made so far.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c1my1rvy28do</guid>
-      <pubDate>Tue, 07 Jul 2026 11:12:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/90590610-79de-11f1-a400-b302bc872d47.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Spain's World Cup challenge built on record-breaking historic defence]]></title>
-      <description><![CDATA[If Spain are to get their hands on the World Cup trophy again, they may have their defence, rather than their attack, to thank.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cyv00rzd3lpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cyv00rzd3lpo</guid>
-      <pubDate>Mon, 06 Jul 2026 23:16:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9753/live/af13aa80-798c-11f1-97bb-1f6a9ee67044.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[FA considering appeal after Quansah red card]]></title>
-      <description><![CDATA[The Football Association is considering whether to appeal after England defender Jarell Quansah's red card against Mexico.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cz0jjz830g3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cz0jjz830g3o</guid>
-      <pubDate>Mon, 06 Jul 2026 20:15:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb76/live/9a00a3e0-796f-11f1-9290-9b15d0e76459.jpg"/>
     </item>
     <item>
       <title><![CDATA[How England used five mini games to beat Mexico]]></title>
@@ -466,7 +442,7 @@
       <description><![CDATA[BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c74y970len4o</guid>
-      <pubDate>Tue, 07 Jul 2026 08:17:51 GMT</pubDate>
+      <pubDate>Wed, 08 Jul 2026 08:16:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09c5/live/83c3fe00-79d9-11f1-9510-1546718f668b.jpg"/>
     </item>
     <item>
@@ -518,28 +494,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5051/live/e5483a70-6632-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Celtic to agree to pay fee for Qarabag's Duran - gossip ]]></title>
-      <description><![CDATA[Celtic reportedly agree to stump up cash for Qarabag forward as Rangers intend to keep striker.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cp8rrp90p50o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cp8rrp90p50o</guid>
-      <pubDate>Tue, 07 Jul 2026 06:43:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f23/live/e50c5d60-79cf-11f1-a627-714adb4eed6e.png"/>
+      <title><![CDATA[Meet Sweden's top scorer who hopes to play for Scotland]]></title>
+      <description><![CDATA[Robbie Ure is thriving with Allsvenskan leaders IK Sirius but Scotland may have competition from Ukraine for the in-form striker.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cy0472drrlzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy0472drrlzo</guid>
+      <pubDate>Wed, 08 Jul 2026 08:39:51 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8fc/live/23f75830-7a9e-11f1-932b-1f29e7985956.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Partick's Clarke moves to Doncaster immediately after Celtic switch]]></title>
-      <description><![CDATA[Doncaster Rovers sign Partick Thistle goalkeeper Josh Clarke on a loan deal that will become a permanent in January.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c15y1q01g92o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c15y1q01g92o</guid>
-      <pubDate>Tue, 07 Jul 2026 12:08:36 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a73/live/784d15b0-7a0c-11f1-92a1-2dcee5cd2863.jpg"/>
+      <title><![CDATA[Benitez refuses to rule out Scotland interest - gossip]]></title>
+      <description><![CDATA[Rangers linked with midfielders in Norway and Serbia and would former Liverpool and Real Madrid manager be interested in Scotland job?]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c892nee7w9wo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c892nee7w9wo</guid>
+      <pubDate>Wed, 08 Jul 2026 06:35:50 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1204/live/24027ff0-7a97-11f1-b976-0b9c15b0ccfc.png"/>
     </item>
     <item>
-      <title><![CDATA[Former Hibs boss Kirk named Durham boss two years after Leicester sacking]]></title>
-      <description><![CDATA[Willie Kirk has been appointed head coach of WSL 2 side Durham two years after he was sacked by Leicester City Women's team for having a relationship with a player.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cgjxe2y2y96o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cgjxe2y2y96o</guid>
-      <pubDate>Tue, 07 Jul 2026 11:09:03 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4990/live/6d428ef0-79eb-11f1-be9c-610b4a1a06d3.jpg"/>
+      <title><![CDATA[Who has your Premiership club brought in & let go this summer?]]></title>
+      <description><![CDATA[Your one-stop shop for all the ins and outs in the Scottish Premiership during the  2026 summer transfer window.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo</guid>
+      <pubDate>Tue, 07 Jul 2026 20:34:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d6d/live/0fb0f9e0-4a24-11f0-9471-e380f647874e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Arsenal sign Germany striker Cerci on free]]></title>
@@ -550,20 +526,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0967/live/d802abb0-7934-11f1-b976-0b9c15b0ccfc.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Kirk named Durham boss two years after Leicester sacking]]></title>
+      <description><![CDATA[Willie Kirk has been appointed head coach of WSL 2 side Durham two years after he was sacked by Leicester City Women's team for having a relationship with a player.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cgjxe2y2y96o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cgjxe2y2y96o</guid>
+      <pubDate>Tue, 07 Jul 2026 11:09:03 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4990/live/6d428ef0-79eb-11f1-be9c-610b4a1a06d3.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Beever-Jones signs new contract until 2030 with Chelsea ]]></title>
       <description><![CDATA[England forward Aggie Beever-Jones signs a new contract with Chelsea, extending her stay at the club she joined as a nine-year-old until 2030. ]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cn599py6xvlo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cn599py6xvlo</guid>
       <pubDate>Mon, 06 Jul 2026 14:00:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2202/live/4f454190-7941-11f1-86fe-4309bed8b569.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Arsenal sign Lioness Stanway from Bayern]]></title>
-      <description><![CDATA[England midfielder Georgia Stanway says she is joining Arsenal to "win trophies and grow as a player".]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cy9r153pe31o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy9r153pe31o</guid>
-      <pubDate>Fri, 03 Jul 2026 08:00:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f15/live/d153a850-76cd-11f1-a627-714adb4eed6e.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Cornish miners brought football to Mexico]]></title>
