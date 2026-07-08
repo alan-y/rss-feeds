@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 22:18:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 23:33:36 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -94,14 +94,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b05/live/9d71a0e0-7af2-11f1-94d8-c95634a95d3e.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Defending champions Cash & Glasspool out of Wimbledon]]></title>
-      <description><![CDATA[Julian Cash and Lloyd Glasspool's men's doubles title defence is over at Wimbledon as they fell to a straight-set defeat in the quarter-finals.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cn8kmly1zgmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cn8kmly1zgmo</guid>
-      <pubDate>Wed, 08 Jul 2026 19:26:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4751/live/49513030-7b00-11f1-9510-1546718f668b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[How are famous faces invited into Wimbledon's royal box?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team examines how the Centre Court royal box really works at Wimbledon.]]></description>
       <link>https://www.bbc.co.uk/news/articles/ckg4evjnxz3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -151,6 +143,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/videos/c4gydzk883ko</guid>
       <pubDate>Tue, 07 Jul 2026 19:07:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c523/live/19136480-7a36-11f1-bee8-53ce494e1abc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Defending champions Cash & Glasspool out of Wimbledon]]></title>
+      <description><![CDATA[Julian Cash and Lloyd Glasspool's men's doubles title defence is over at Wimbledon as they fell to a straight-set defeat in the quarter-finals.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cn8kmly1zgmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cn8kmly1zgmo</guid>
+      <pubDate>Wed, 08 Jul 2026 19:26:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4751/live/49513030-7b00-11f1-9510-1546718f668b.jpg"/>
     </item>
     <item>
       <title><![CDATA['How?!' - Gauff battles into first Wimbledon semi-final ]]></title>
