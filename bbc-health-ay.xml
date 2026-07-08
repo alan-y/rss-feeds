@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 19:58:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 21:12:52 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[MenB vaccine offers men no protection from gonorrhoea, claims major study]]></title>
+      <description><![CDATA[The Meningitis B vaccine does not prevent gonorrhoea infections despite being offered to at-risk men, scientists say. ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/crel4yyxwd1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crel4yyxwd1o</guid>
+      <pubDate>Wed, 08 Jul 2026 21:06:53 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fefb/live/ad332400-7ae7-11f1-9a9c-53fd8f110370.jpg"/>
+    </item>
     <item>
       <title><![CDATA[German doctor jailed for murder of 15 patients and suspected of more]]></title>
       <description><![CDATA[The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.]]></description>
@@ -104,14 +112,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7148/live/800d6ce0-762f-11f1-ac11-19a4319081d7.png"/>
     </item>
     <item>
-      <title><![CDATA[Women with PMOS should have yearly NHS checks, says health watchdog]]></title>
-      <description><![CDATA[Despite affecting millions of women in the UK, PMOS is still under-diagnosed and inconsistently managed, say experts.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cd0m3g05kx2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cd0m3g05kx2o</guid>
-      <pubDate>Tue, 30 Jun 2026 23:04:58 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6f6/live/4ff2ee30-7545-11f1-80c5-0be6bd1362c3.png"/>
-    </item>
-    <item>
       <title><![CDATA[Why some African nations are turning down Trump aid money]]></title>
       <description><![CDATA[The Trump administration sees the aid as more transactional - but some say it is not a fair trade.]]></description>
       <link>https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -199,6 +199,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cd0mnv3xdzeo</guid>
       <pubDate>Tue, 07 Jul 2026 05:04:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/690b/live/2f3e67d0-70b0-11f1-88b6-991d05fc2cf9.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Women with PMOS should have yearly NHS checks, says health watchdog]]></title>
+      <description><![CDATA[Despite affecting millions of women in the UK, PMOS is still under-diagnosed and inconsistently managed, say experts.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cd0m3g05kx2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cd0m3g05kx2o</guid>
+      <pubDate>Tue, 30 Jun 2026 23:04:58 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6f6/live/4ff2ee30-7545-11f1-80c5-0be6bd1362c3.png"/>
     </item>
     <item>
       <title><![CDATA[Why is pregnancy sickness drug not easily accessible to all?]]></title>
