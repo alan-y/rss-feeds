@@ -10,19 +10,11 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 22:26:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 23:49:04 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
-    <item>
-      <title><![CDATA['The whole match was the tie-break' - how rollercoaster semi-final unfolded]]></title>
-      <description><![CDATA[Twenty-two points, 18 minutes, one winner - how Karolina Muchova and Coco Gauff's "rollercoaster" semi-final was decided by an astonishing tie-break.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/c8j2dwr07p0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c8j2dwr07p0o</guid>
-      <pubDate>Thu, 09 Jul 2026 19:38:31 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c107/live/0f20c760-7bcb-11f1-bee8-53ce494e1abc.jpg"/>
-    </item>
     <item>
       <title><![CDATA[To Wimbledon and back - Fery's voyage to Centre Court spotlight]]></title>
       <description><![CDATA[Arthur Fery learned how to play tennis less than a mile away from Wimbledon's Centre Court - now he's one win away from the SW19 final.]]></description>
@@ -30,6 +22,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cpq30vnj7jlo</guid>
       <pubDate>Thu, 09 Jul 2026 18:49:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2c9/live/7d8f7680-7bbf-11f1-b976-0b9c15b0ccfc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['The whole match was the tie-break' - how rollercoaster semi-final unfolded]]></title>
+      <description><![CDATA[Twenty-two points, 18 minutes, one winner - how Karolina Muchova and Coco Gauff's "rollercoaster" semi-final was decided by an astonishing tie-break.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/c8j2dwr07p0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c8j2dwr07p0o</guid>
+      <pubDate>Thu, 09 Jul 2026 19:38:31 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c107/live/0f20c760-7bcb-11f1-bee8-53ce494e1abc.jpg"/>
     </item>
     <item>
       <title><![CDATA[GB's Patten and Heliovaara reach Wimbledon final]]></title>
