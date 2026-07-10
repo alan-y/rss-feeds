@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 10 Jul 2026 10:22:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 12:56:16 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[EU threatens Meta with fines over 'addictive' Facebook and Instagram]]></title>
+      <description><![CDATA[Regulators say features such as infinite scroll contribute to "compulsive use" and "unhealthy habits".]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8j2dje3pldo</guid>
+      <pubDate>Fri, 10 Jul 2026 12:02:40 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07d0/live/f2f84510-7c54-11f1-ad56-219c1e341d26.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Big tech must deal with scam ads under Ofcom proposals]]></title>
       <description><![CDATA[Ofcom says more than half of UK adults have encountered potentially fraudulent ads online.
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cp8r1798kp7o</guid>
       <pubDate>Wed, 01 Jul 2026 23:31:43 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c12/live/954cafe0-75d9-11f1-a627-714adb4eed6e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[PlayStation will stop releasing games on discs in 2028]]></title>
-      <description><![CDATA[The firm said future games would still be sold in shops, but they would come with a digital code only.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0ryjyvjq41o</guid>
-      <pubDate>Wed, 01 Jul 2026 16:40:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/671f/live/b441e390-754b-11f1-a0e5-ab9c63e24c99.jpg"/>
     </item>
   </channel>
 </rss>
