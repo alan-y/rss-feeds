@@ -10,17 +10,25 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 10 Jul 2026 06:43:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 10:22:36 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
-      <title><![CDATA[Vapes to have less enticing names to protect children, under UK plans]]></title>
-      <description><![CDATA[People are being consulted about plans to stop vape companies using of enticing flavour descriptions that "attract" children into experimenting.]]></description>
+      <title><![CDATA['People don't realise how at risk they are': A day with an ambulance service in a heatwave]]></title>
+      <description><![CDATA[The BBC join a crew based in Exeter as the UK sizzles in one of its longest-running heatwaves.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cvg4y289ppjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvg4y289ppjo</guid>
+      <pubDate>Fri, 10 Jul 2026 10:18:28 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10d9/live/e9b241f0-7c44-11f1-bee8-53ce494e1abc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Vapes to have less enticing names and flavours to protect children]]></title>
+      <description><![CDATA[People are being consulted about plans to stop vape companies using enticing flavour descriptions that "attract" children into experimenting.]]></description>
       <link>https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9v29d7vml7o</guid>
-      <pubDate>Fri, 10 Jul 2026 02:15:38 GMT</pubDate>
+      <pubDate>Fri, 10 Jul 2026 09:54:49 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b3/live/aaac8d00-7b93-11f1-897a-ebe8a20106d3.jpg"/>
     </item>
     <item>
@@ -38,6 +46,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c04yxnlkdxzo</guid>
       <pubDate>Thu, 09 Jul 2026 22:41:08 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01c3/live/c7651dd0-7c1b-11f1-9510-1546718f668b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Why heatwaves hit women harder]]></title>
+      <description><![CDATA[Experts are calling for better awareness of the heat-related risks to women and more targeted efforts to protect them.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c4gyp1knzzxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4gyp1knzzxo</guid>
+      <pubDate>Wed, 08 Jul 2026 23:49:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0c2/live/978c1ee0-7b87-11f1-9510-1546718f668b.png"/>
     </item>
     <item>
       <title><![CDATA[A country that made huge progress on measles now reports 120,000 cases]]></title>
@@ -102,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c79yyyxzergo</guid>
       <pubDate>Mon, 06 Jul 2026 18:27:25 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a03/live/7f2263d0-7954-11f1-9988-0351319ba973.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wegovy weight loss pill now available in UK - here's what you need to know]]></title>
-      <description><![CDATA[The once-a-day pill, from the makers of the Wegovy weight-loss jab, can now be bought privately in UK pharmacies.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czj8w4pjd4yo</guid>
-      <pubDate>Mon, 06 Jul 2026 11:09:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74c8/live/8cfeae00-790e-11f1-b976-0b9c15b0ccfc.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why some African nations are turning down Trump aid money]]></title>
@@ -183,14 +191,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3rzg0vg947o</guid>
       <pubDate>Fri, 12 Jun 2026 10:40:50 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a62/live/bd7f7e80-356e-11f1-8695-1dc4ba7083b8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why heatwaves hit women harder]]></title>
-      <description><![CDATA[Experts are calling for better awareness of the heat-related risks to women and more targeted efforts to protect them.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c4gyp1knzzxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4gyp1knzzxo</guid>
-      <pubDate>Wed, 08 Jul 2026 23:49:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0c2/live/978c1ee0-7b87-11f1-9510-1546718f668b.png"/>
     </item>
     <item>
       <title><![CDATA[Endometriosis could be diagnosed by blood test, research suggests]]></title>
