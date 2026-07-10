@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 10 Jul 2026 20:45:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 22:00:35 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -48,14 +48,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e52/live/718ca8d0-7c69-11f1-ab77-73970114f4de.jpg"/>
     </item>
     <item>
-      <title><![CDATA['What old-timers can do' - the evolution of Belgium's golden generation]]></title>
-      <description><![CDATA[BBC Sport explores what is behind Belgium's progress to the last eight of the World Cup, and whether they were too easily discounted among the contenders.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c5yz0g0mg4no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yz0g0mg4no</guid>
-      <pubDate>Fri, 10 Jul 2026 11:38:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91c9/live/30d0d4d0-7a0a-11f1-92a1-2dcee5cd2863.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Jesus reunites with Ronaldo as new Portugal head coach]]></title>
       <description><![CDATA[Jorge Jesus is named Portugal's new head coach on a four-year contract to run through to the 2030 World Cup. ]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c3eyl9pvxj1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -72,12 +64,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd9/live/4aa98760-7c78-11f1-917a-91e958a7e786.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Mexico boss' explicit heckle a bit of fun - Gordon]]></title>
-      <description><![CDATA[England winger Anthony Gordon says being sworn at by Mexico boss Javier Aguirre in a viral moment of their World Cup match was "just a bit of fun".]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o</guid>
-      <pubDate>Fri, 10 Jul 2026 06:36:59 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f5f/live/d8cfcd00-7c24-11f1-a4f7-e1c223785e11.jpg"/>
+      <title><![CDATA[New species named after Cape Verde keeper Vozinha]]></title>
+      <description><![CDATA[A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo</guid>
+      <pubDate>Fri, 10 Jul 2026 19:30:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c0c/live/adb97d00-7c92-11f1-b9b6-03aa1610fbc2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Salah demands put Saudi switch in doubt - Saturday's gossip]]></title>
@@ -88,6 +80,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd0/live/79cc0e60-7c9a-11f1-bc8b-e92dc63221dc.png"/>
     </item>
     <item>
+      <title><![CDATA[Mexico boss' explicit heckle a bit of fun - Gordon]]></title>
+      <description><![CDATA[England winger Anthony Gordon says being sworn at by Mexico boss Javier Aguirre in a viral moment of their World Cup match was "just a bit of fun".]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o</guid>
+      <pubDate>Fri, 10 Jul 2026 06:36:59 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f5f/live/d8cfcd00-7c24-11f1-a4f7-e1c223785e11.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[France into semi-finals after comfortable win over Morocco]]></title>
       <description><![CDATA[Kylian Mbappe scores his eighth goal of this World Cup to make up for an earlier penalty miss with Ousmane Dembele adding a second as France prove too good for Morocco and move into the semi-finals.]]></description>
       <link>https://www.bbc.co.uk/sport/football/videos/crm0ry2nemmo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -96,12 +96,30 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f8/live/f7c5b270-7be2-11f1-9510-1546718f668b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Burnley appoint Hayen as new head coach]]></title>
+      <description><![CDATA[Burnley appoint Genk boss Nicky Hayen as their new head coach on a three-year deal.
+
+]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cz6v5j606ywo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cz6v5j606ywo</guid>
+      <pubDate>Fri, 10 Jul 2026 18:16:05 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cab/live/32eb7670-7c86-11f1-a046-0508c8c5d104.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Absolute perfection!' Mbappe fires France ahead against Morocco]]></title>
       <description><![CDATA[All the angles of Kylian Mbappe's opener for France against Morocco in the 2026 World Cup.]]></description>
       <link>https://www.bbc.co.uk/sport/football/videos/cwyemrl4dw8o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cwyemrl4dw8o</guid>
       <pubDate>Thu, 09 Jul 2026 22:00:43 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5af8/live/a87f3b30-7bdf-11f1-b976-0b9c15b0ccfc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Influential' Lamine Yamal has 'more to give' to Spain]]></title>
+      <description><![CDATA[BBC Sport World Cup pundits Cesar Azpilicueta and Wayne Rooney look at how Lamine Yamal performed against Belgium and feel there is "more to come" from the Spain forward.]]></description>
+      <link>https://www.bbc.co.uk/sport/videos/cy9r3dnngqno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/videos/cy9r3dnngqno</guid>
+      <pubDate>Fri, 10 Jul 2026 21:52:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b3d/live/dacbad80-7ca7-11f1-926f-c90d1bcfbc84.jpg"/>
     </item>
     <item>
       <title><![CDATA['World Cup quarter-final is Norway's biggest event ever by far']]></title>
@@ -118,24 +136,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cn0vn94je8qo</guid>
       <pubDate>Wed, 08 Jul 2026 00:07:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f256/live/c4a01a10-7a5d-11f1-b976-0b9c15b0ccfc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Argentina make incredible late comeback to beat Egypt]]></title>
-      <description><![CDATA[Argentina survive an almighty scare before delivering a scarcely believable second-half comeback to break Egypt hearts and reach the quarter-finals of the 2026 World Cup.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/videos/cd95wjv1nedo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cd95wjv1nedo</guid>
-      <pubDate>Tue, 07 Jul 2026 19:13:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d8/live/003fa630-7a36-11f1-bee8-53ce494e1abc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Burnley appoint Hayen as new head coach]]></title>
-      <description><![CDATA[Burnley appoint Genk boss Nicky Hayen as their new head coach on a three-year deal.
-
-]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cz6v5j606ywo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cz6v5j606ywo</guid>
-      <pubDate>Fri, 10 Jul 2026 18:16:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cab/live/32eb7670-7c86-11f1-a046-0508c8c5d104.jpg"/>
     </item>
     <item>
       <title><![CDATA[England defender Charles joins Man City from Chelsea]]></title>
@@ -194,14 +194,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffb8/live/c7f92f70-7b76-11f1-bee8-53ce494e1abc.png"/>
     </item>
     <item>
-      <title><![CDATA[New species named after Cape Verde keeper Vozinha]]></title>
-      <description><![CDATA[A new species of sea slug has been named after Cape Verde goalkeeper Vozinha to mark his performance against Spain at the World Cup.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cn8kdxgxlkeo</guid>
-      <pubDate>Fri, 10 Jul 2026 19:30:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c0c/live/adb97d00-7c92-11f1-b9b6-03aa1610fbc2.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Are stuttering penalties clever or a fail? Stats suggest they are a no-no]]></title>
       <description><![CDATA[Kylian Mbappe's penalty miss in France's win against Morocco is the latest example of a player missing a penalty after stuttering in the run-up.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cg74k39rp4vo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -241,6 +233,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwy20q7wd3go</guid>
       <pubDate>Fri, 10 Jul 2026 05:20:12 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5973/live/9bc39a50-7953-11f1-a627-714adb4eed6e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Argentina make incredible late comeback to beat Egypt]]></title>
+      <description><![CDATA[Argentina survive an almighty scare before delivering a scarcely believable second-half comeback to break Egypt hearts and reach the quarter-finals of the 2026 World Cup.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/videos/cd95wjv1nedo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cd95wjv1nedo</guid>
+      <pubDate>Tue, 07 Jul 2026 19:13:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d8/live/003fa630-7a36-11f1-bee8-53ce494e1abc.jpg"/>
     </item>
     <item>
       <title><![CDATA[Switzerland beat Colombia on penalties to reach quarter-finals]]></title>
@@ -300,14 +300,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cx266ee3v2mo</guid>
       <pubDate>Tue, 07 Jul 2026 01:55:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd29/live/6418aee0-79a5-11f1-9510-1546718f668b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Spain into quarter-finals after Merino's late winner against Portugal]]></title>
-      <description><![CDATA[Spain leave it late as super-sub Mikel Merino scores a stoppage-time winner to send his side into the quarter-finals, ending Cristiano Ronaldo's hopes of World Cup glory.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/videos/cx2338eg1ndo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cx2338eg1ndo</guid>
-      <pubDate>Mon, 06 Jul 2026 21:46:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb2e/live/ec2a6720-7981-11f1-a627-714adb4eed6e.jpg"/>
     </item>
     <item>
       <title><![CDATA[France cruise into semi-finals - are they best-ever version of Les Bleus?]]></title>
@@ -380,6 +372,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ce37xww195yo</guid>
       <pubDate>Fri, 10 Jul 2026 14:14:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c3e/live/22b132f0-7c67-11f1-ab77-73970114f4de.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Norway's Haaland says pressure is all on England]]></title>
+      <description><![CDATA[Norway striker Erling Haaland says all the pressure is on England before the two sides' World Cup quarter-final on Saturday.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cj3gd8rg628o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj3gd8rg628o</guid>
+      <pubDate>Thu, 09 Jul 2026 22:01:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d0f/live/95327a00-7be0-11f1-bdcd-e913eca119a7.jpg"/>
     </item>
     <item>
       <title><![CDATA[BBC expert Sutton's World Cup quarter-final predictions]]></title>
