@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 09:51:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 11:04:10 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,12 +40,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c95/live/7be2c8b0-5382-11f1-89a3-d1f559421220.png"/>
     </item>
     <item>
-      <title><![CDATA[Superb Sinner ends Djokovic's latest bid for history]]></title>
-      <description><![CDATA[Jannik Sinner produces a devastating display to end Novak Djokovic's latest bid for history and set up a Wimbledon final against Alexander Zverev.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/c04y0pyqk6zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c04y0pyqk6zo</guid>
-      <pubDate>Fri, 10 Jul 2026 18:36:13 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bdc/live/9fefad30-7c87-11f1-a046-0508c8c5d104.jpg"/>
+      <title><![CDATA[Sinner too strong for record-chasing Djokovic in Wimbledon semi-final]]></title>
+      <description><![CDATA[Novak Djokovic's pursuit for a record 25th Grand Slam title is put to an end by defending champion Jannik Sinner, whose straight-set win sets up a meeting with Alexander Zverev in the final of Wimbledon 2026.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/videos/cwyerxyrz9mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/videos/cwyerxyrz9mo</guid>
+      <pubDate>Fri, 10 Jul 2026 19:24:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5d4/live/0c202a20-7c92-11f1-bee8-53ce494e1abc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How to follow Wimbledon women's final on the BBC]]></title>
+      <description><![CDATA[How to follow Wimbledon on BBC TV, iPlayer, radio and online.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/ckg5ny1vy5ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ckg5ny1vy5ro</guid>
+      <pubDate>Fri, 10 Jul 2026 19:36:07 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/525d/live/59e16b80-7c96-11f1-9b18-bb5b415621a9.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fery's Wimbledon run ended by Zverev in semi-finals]]></title>
@@ -56,12 +64,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5960/live/ad31f2c0-7c6c-11f1-98fd-6b03daaf8a77.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sinner too strong for record-chasing Djokovic in Wimbledon semi-final]]></title>
-      <description><![CDATA[Novak Djokovic's pursuit for a record 25th Grand Slam title is put to an end by defending champion Jannik Sinner, whose straight-set win sets up a meeting with Alexander Zverev in the final of Wimbledon 2026.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/videos/cwyerxyrz9mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/videos/cwyerxyrz9mo</guid>
-      <pubDate>Fri, 10 Jul 2026 19:24:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5d4/live/0c202a20-7c92-11f1-bee8-53ce494e1abc.jpg"/>
+      <title><![CDATA[Superb Sinner ends Djokovic's latest bid for history]]></title>
+      <description><![CDATA[Jannik Sinner produces a devastating display to end Novak Djokovic's latest bid for history and set up a Wimbledon final against Alexander Zverev.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/c04y0pyqk6zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c04y0pyqk6zo</guid>
+      <pubDate>Fri, 10 Jul 2026 18:36:13 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bdc/live/9fefad30-7c87-11f1-a046-0508c8c5d104.jpg"/>
     </item>
     <item>
       <title><![CDATA[GB's Hewett into fifth straight Wimbledon final]]></title>
@@ -80,28 +88,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d7d/live/1b52c140-7c67-11f1-ab77-73970114f4de.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Why is Zverev allowed to use his phone at Wimbledon?]]></title>
-      <description><![CDATA[Our Ask Me Anything team explain why Zverev is exempt from Wimbledon's in-match mobile phone ban.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/czx5jrgvj0eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/czx5jrgvj0eo</guid>
-      <pubDate>Fri, 10 Jul 2026 18:20:11 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d0a/live/cb033940-7c75-11f1-b976-0b9c15b0ccfc.png"/>
-    </item>
-    <item>
       <title><![CDATA['Sensational!' - best shots from day 12 at Wimbledon]]></title>
       <description><![CDATA[Enjoy the best shots from day 12 of Wimbledon, featuring Great Britain's Arthur Fery and defending men's singles champion Jannik Sinner.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/videos/cjwgel52593o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/videos/cjwgel52593o</guid>
       <pubDate>Fri, 10 Jul 2026 19:15:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3fa/live/456e7370-7c8f-11f1-926f-c90d1bcfbc84.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How to follow Wimbledon women's final on the BBC]]></title>
-      <description><![CDATA[How to follow Wimbledon on BBC TV, iPlayer, radio and online.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/ckg5ny1vy5ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ckg5ny1vy5ro</guid>
-      <pubDate>Fri, 10 Jul 2026 19:36:07 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/525d/live/59e16b80-7c96-11f1-9b18-bb5b415621a9.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fery's a 'fighter and could have one heck of a career' - Agassi ]]></title>
@@ -136,6 +128,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ec/live/7c8797e0-7bc9-11f1-b976-0b9c15b0ccfc.jpg"/>
     </item>
     <item>
+      <title><![CDATA[To Wimbledon and back - Fery's voyage to Centre Court spotlight]]></title>
+      <description><![CDATA[Arthur Fery learned how to play tennis about a mile away from Wimbledon's Centre Court - now he's one win from the SW19 final.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cpq30vnj7jlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cpq30vnj7jlo</guid>
+      <pubDate>Fri, 10 Jul 2026 05:10:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2c9/live/7d8f7680-7bbf-11f1-b976-0b9c15b0ccfc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Why is Zverev allowed to use his phone at Wimbledon?]]></title>
+      <description><![CDATA[Our Ask Me Anything team explain why Zverev is exempt from Wimbledon's in-match mobile phone ban.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/czx5jrgvj0eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/czx5jrgvj0eo</guid>
+      <pubDate>Fri, 10 Jul 2026 18:20:11 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d0a/live/cb033940-7c75-11f1-b976-0b9c15b0ccfc.png"/>
+    </item>
+    <item>
       <title><![CDATA['The whole match was the tie-break' - how rollercoaster semi-final unfolded]]></title>
       <description><![CDATA[Twenty-two points, 18 minutes, one winner - how Karolina Muchova and Coco Gauff's "rollercoaster" semi-final was decided by an astonishing tie-break.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/c8j2dwr07p0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -152,28 +160,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b52b/live/e3a8c770-7bcc-11f1-b543-9988255dfa81.jpg"/>
     </item>
     <item>
-      <title><![CDATA[To Wimbledon and back - Fery's voyage to Centre Court spotlight]]></title>
-      <description><![CDATA[Arthur Fery learned how to play tennis about a mile away from Wimbledon's Centre Court - now he's one win from the SW19 final.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cpq30vnj7jlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cpq30vnj7jlo</guid>
-      <pubDate>Fri, 10 Jul 2026 05:10:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2c9/live/7d8f7680-7bbf-11f1-b976-0b9c15b0ccfc.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Muchova saves match point in epic to beat Gauff and reach final against Noskova]]></title>
       <description><![CDATA[Karolina Muchova recovers from match point down to win an epic deciding-set tie-break against Coco Gauff and reach the final at Wimbledon.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/c74yk1qp4dko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c74yk1qp4dko</guid>
       <pubDate>Thu, 09 Jul 2026 19:44:09 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b16/live/0e26c810-7bac-11f1-9510-1546718f668b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[GB's Patten and Heliovaara reach Wimbledon final]]></title>
-      <description><![CDATA[Great Britain's Henry Patten and Finnish team-mate Harri Heliovaara reach their second Wimbledon men's doubles final in three years.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/c4gyv3kzxkno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c4gyv3kzxkno</guid>
-      <pubDate>Thu, 09 Jul 2026 19:10:52 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cfb/live/60960250-7bca-11f1-941e-ab9e4842f6dd.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why are Wimbledon's colours purple and green?]]></title>
@@ -282,6 +274,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7f0/live/b50102e0-7af3-11f1-b976-0b9c15b0ccfc.jpg"/>
     </item>
     <item>
+      <title><![CDATA[GB's Patten and Heliovaara reach Wimbledon final]]></title>
+      <description><![CDATA[Great Britain's Henry Patten and Finnish team-mate Harri Heliovaara reach their second Wimbledon men's doubles final in three years.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/c4gyv3kzxkno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c4gyv3kzxkno</guid>
+      <pubDate>Thu, 09 Jul 2026 19:10:52 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cfb/live/60960250-7bca-11f1-941e-ab9e4842f6dd.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Jamie Murray answers your Wimbledon questions]]></title>
       <description><![CDATA[Our Ask Me Anything team put your tennis questions to former Wimbledon mixed doubles champion Jamie Murray.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/cj0g67rq5nmo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -320,14 +320,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cm2dgm39mz6o</guid>
       <pubDate>Wed, 08 Jul 2026 19:40:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c809/live/567bbbb0-7b6c-11f1-bee8-53ce494e1abc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Kostyuk dedicates Wimbledon quarter-final win to grandfather]]></title>
-      <description><![CDATA[Ukraine's Marta Kostyuk storms into the Wimbledon semi-finals for the first time with a superb victory over Italy's Jasmine Paolini.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/c70ygpwpljgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c70ygpwpljgo</guid>
-      <pubDate>Wed, 08 Jul 2026 14:30:39 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8689/live/51b94db0-7ad4-11f1-a130-2b898c796aa9.jpg"/>
     </item>
     <item>
       <title><![CDATA['Where champions are born' - the making of Jannik Sinner]]></title>
