@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 22:29:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 23:33:55 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Thousands may have died in UK's exceptional May and June heatwaves]]></title>
+      <description><![CDATA[An early estimate suggests more than 2,700 people will have died from heat-related causes during the UK's exceptionally hot weather in recent months. ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czx5zy82n7no</guid>
+      <pubDate>Sun, 12 Jul 2026 23:10:23 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3908/live/2b02c5c0-7c3c-11f1-8ccc-df652c9169a7.jpg"/>
+    </item>
     <item>
       <title><![CDATA[US pays out $3m to victims of mystery Havana Syndrome condition reported by spies]]></title>
       <description><![CDATA[US officials and diplomats and their families began reporting a mysterious illness a decade ago.]]></description>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/clyw89g3443o</guid>
       <pubDate>Wed, 08 Jul 2026 09:05:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddf1/live/58c3a3a0-7a1e-11f1-b976-0b9c15b0ccfc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Public to be asked who should pay for social care as part of major review]]></title>
-      <description><![CDATA[Baroness Louise Casey, who is leading the review, has called the current system "impossible".]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cvg49lq1jw6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvg49lq1jw6o</guid>
-      <pubDate>Tue, 07 Jul 2026 11:05:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9464/live/e2b5a220-c96c-11ef-b3a3-454067b77f03.jpg"/>
     </item>
     <item>
       <title><![CDATA[We are living fewer years in good health: Is the NHS part of the problem?]]></title>
