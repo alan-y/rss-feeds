@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 14:43:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 15:58:41 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -56,22 +56,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14c2/live/c0979910-7ced-11f1-b976-0b9c15b0ccfc.png"/>
     </item>
     <item>
-      <title><![CDATA[Big stars and old rivals - what to expect in semi-finals]]></title>
-      <description><![CDATA[France face Spain and England take on Argentina in heavyweight World Cup semi-final meetings - here's what to expect from the last four.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo</guid>
-      <pubDate>Sun, 12 Jul 2026 12:29:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c316/live/83dd8b10-7dab-11f1-926f-c90d1bcfbc84.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Embolo sent off as result of mistaken identity rule]]></title>
-      <description><![CDATA[Switzerland's Breel Embolo becomes first player to be sent off as a result of a new law for mistaken identity at the World Cup.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/ckg0k5gdr79o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckg0k5gdr79o</guid>
-      <pubDate>Sun, 12 Jul 2026 04:22:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ec5/live/7f45e610-7da1-11f1-a049-155ea2296701.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Lamine Yamal? Mbappe? Kane? Pick your World Cup semi-final XI]]></title>
       <description><![CDATA[As we look ahead to the World Cup semi-final, BBC Sport pick their last-four combined XI. Do you agree?]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/ckg4l37nm0do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -80,12 +64,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d1/live/fffe9600-7cdc-11f1-bee8-53ce494e1abc.png"/>
     </item>
     <item>
+      <title><![CDATA[Big stars and old rivals - what to expect in semi-finals]]></title>
+      <description><![CDATA[France face Spain and England take on Argentina in heavyweight World Cup semi-final meetings - here's what to expect from the last four.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo</guid>
+      <pubDate>Sun, 12 Jul 2026 12:29:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a6f/live/a6cb8cd0-7e05-11f1-afb0-9dae682daff3.png"/>
+    </item>
+    <item>
       <title><![CDATA[Did ball hit spidercam before England goal? Snicko says not - Norway unsure]]></title>
       <description><![CDATA[Norway's World Cup campaign ends in a quarter-final defeat by England, but they leave frustrated, arguing that Jude Bellingham's equaliser should not have counted.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cd95335dp10o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd95335dp10o</guid>
       <pubDate>Sun, 12 Jul 2026 02:20:21 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d256/live/cce243b0-7d8c-11f1-bc93-cb7def7b7e6e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Embolo sent off as result of mistaken identity rule]]></title>
+      <description><![CDATA[Switzerland's Breel Embolo becomes first player to be sent off as a result of a new law for mistaken identity at the World Cup.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/ckg0k5gdr79o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckg0k5gdr79o</guid>
+      <pubDate>Sun, 12 Jul 2026 04:22:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ec5/live/7f45e610-7da1-11f1-a049-155ea2296701.jpg"/>
     </item>
     <item>
       <title><![CDATA[Bellingham reaching heights of World Cup legends with Messi next]]></title>
@@ -544,7 +544,7 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a134/live/2313c310-7d1c-11f1-b61e-1b6852ddc42f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Second season always a challenge - Falkirk's McGlynn]]></title>
+      <title><![CDATA['More respect' but second season a challenge for Falkirk - McGlynn]]></title>
       <description><![CDATA[John McGlynn believes Falkirk will be given "more respect" in the coming campaign and matching last season will be "a challenge".]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cewqv5vwndeo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cewqv5vwndeo</guid>
@@ -582,6 +582,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cdr480l5yd3o</guid>
       <pubDate>Fri, 10 Jul 2026 17:17:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f5a/live/d90963e0-7c82-11f1-a046-0508c8c5d104.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who has your Premiership club brought in & let go this summer?]]></title>
+      <description><![CDATA[Your one-stop shop for all the ins and outs in the Scottish Premiership during the  2026 summer transfer window.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo</guid>
+      <pubDate>Sat, 11 Jul 2026 09:37:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d6d/live/0fb0f9e0-4a24-11f0-9471-e380f647874e.jpg"/>
     </item>
     <item>
       <title><![CDATA[England defender Charles joins Man City from Chelsea]]></title>
