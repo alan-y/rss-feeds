@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 08:15:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 11:32:28 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales]]></title>
+      <description><![CDATA[An early estimate suggests more than 2,700 people will have died from heat-related causes during the UK's exceptionally hot weather in recent months. ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czx5zy82n7no</guid>
+      <pubDate>Mon, 13 Jul 2026 08:57:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/987f/live/952355a0-7e8f-11f1-bee8-53ce494e1abc.jpg"/>
+    </item>
     <item>
       <title><![CDATA[UK begins trials of Ebola vaccine developed in just eight weeks]]></title>
       <description><![CDATA[The UK medicines regulator has given approval for an experimental vaccine to be tested on healthy adults.]]></description>
@@ -22,14 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cpwep8xnkrqo</guid>
       <pubDate>Mon, 13 Jul 2026 08:00:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a622/live/f22a5910-76f6-11f1-ab95-f1a10991b6dc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales]]></title>
-      <description><![CDATA[An early estimate suggests more than 2,700 people will have died from heat-related causes during the UK's exceptionally hot weather in recent months. ]]></description>
-      <link>https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czx5zy82n7no</guid>
-      <pubDate>Mon, 13 Jul 2026 06:45:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/987f/live/952355a0-7e8f-11f1-bee8-53ce494e1abc.jpg"/>
     </item>
     <item>
       <title><![CDATA[US pays out $3m to victims of mystery Havana Syndrome condition reported by spies]]></title>
@@ -152,7 +152,7 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc9e/live/b4bb9e20-6fbe-11f1-8dfa-636ee713b41c.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Starting uni? What to know about having the free NHS meningitis B jab]]></title>
+      <title><![CDATA[Starting uni? What to know about the free NHS meningitis B jab in England]]></title>
       <description><![CDATA[It follows the UK's largest and fastest growing meningitis B outbreak to date in Kent earlier this year. ]]></description>
       <link>https://www.bbc.co.uk/news/articles/cvgmyggpg42o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvgmyggpg42o</guid>
