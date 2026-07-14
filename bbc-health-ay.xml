@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 09:28:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 11:12:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[PPE failures left NHS staff poorly protected and wasted billions, Covid inquiry finds]]></title>
+      <description><![CDATA[Healthcare staff were unable to properly protect themselves, or those in their care, from dangerous infections, says the latest inquiry report.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czrxrlydyzzo</guid>
+      <pubDate>Tue, 14 Jul 2026 11:01:09 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26b2/live/429dd230-7f4b-11f1-b7b5-4731f6422ba0.jpg"/>
+    </item>
     <item>
       <title><![CDATA[How my period is supercharging my ADHD]]></title>
       <description><![CDATA[A first-of-its-kind study by UK researchers is looking at the link between menstrual cycles and ADHD.]]></description>
@@ -94,22 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4gyp1knzzxo</guid>
       <pubDate>Wed, 08 Jul 2026 23:49:12 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0c2/live/978c1ee0-7b87-11f1-9510-1546718f668b.png"/>
-    </item>
-    <item>
-      <title><![CDATA[A country that made huge progress on measles now reports 120,000 cases]]></title>
-      <description><![CDATA[Hundreds of children are dying from measles in Bangladesh, where hospitals are overwhelmed.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cj0gel72mlgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj0gel72mlgo</guid>
-      <pubDate>Wed, 08 Jul 2026 22:03:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05e0/live/6fd73af0-7a98-11f1-bee8-53ce494e1abc.png"/>
-    </item>
-    <item>
-      <title><![CDATA[MenB vaccine offers men no protection from gonorrhoea, claims major study]]></title>
-      <description><![CDATA[The Meningitis B vaccine does not prevent gonorrhoea infections despite being offered to at-risk men, scientists say. ]]></description>
-      <link>https://www.bbc.co.uk/news/articles/crel4yyxwd1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crel4yyxwd1o</guid>
-      <pubDate>Wed, 08 Jul 2026 21:06:53 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fefb/live/ad332400-7ae7-11f1-9a9c-53fd8f110370.jpg"/>
     </item>
     <item>
       <title><![CDATA[We are living fewer years in good health: Is the NHS part of the problem?]]></title>
@@ -263,14 +255,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cp8dpjx1yvmo</guid>
       <pubDate>Thu, 16 Apr 2026 14:39:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6af/live/0b7ceb50-39a1-11f1-818c-6f173b5082f5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Vaccines a huge success, but public trust must be earned - key findings from Covid report]]></title>
-      <description><![CDATA[Immunisation saved hundreds of thousands of UK lives, but vaccine hesitancy remains an issue. ]]></description>
-      <link>https://www.bbc.co.uk/news/articles/ce3dp52l70zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce3dp52l70zo</guid>
-      <pubDate>Thu, 16 Apr 2026 13:02:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc1c/live/c1be81a0-39a9-11f1-879d-1b2f5c3919b8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Doctors vote to take strike action in row over pay]]></title>
