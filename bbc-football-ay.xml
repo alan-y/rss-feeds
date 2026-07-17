@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 19:36:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 20:30:25 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -20,7 +20,7 @@
       <description><![CDATA[Wayne Rooney thinks the Football Association should stick with Thomas Tuchel as England head coach unless a move for Pep Guardiola is possible. ]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c304ldrmmero?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c304ldrmmero</guid>
-      <pubDate>Fri, 17 Jul 2026 19:33:38 GMT</pubDate>
+      <pubDate>Fri, 17 Jul 2026 20:16:26 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1f6/live/cb3d80e0-820c-11f1-a389-0bd432a143c3.jpg"/>
     </item>
     <item>
@@ -56,6 +56,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c04c/live/8964d390-8210-11f1-be77-cd53d9589267.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Arsenal want Villa's Rogers - Saturday's gossip]]></title>
+      <description><![CDATA[Arsenal want Morgan Rogers, Mohamed Salah is set to join Besiktas, Manchester United are interested in Neco Williams, plus more.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cd69qv6536zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd69qv6536zo</guid>
+      <pubDate>Fri, 17 Jul 2026 20:10:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a203/live/c2568780-8219-11f1-bee8-53ce494e1abc.png"/>
+    </item>
+    <item>
+      <title><![CDATA[All 11 last-minute winners at the World Cup]]></title>
+      <description><![CDATA[Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/videos/cp8xn9y46xdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cp8xn9y46xdo</guid>
+      <pubDate>Thu, 16 Jul 2026 13:41:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd41/live/64d978f0-811b-11f1-bee8-53ce494e1abc.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Tuchel did not deliver, but his time with England is not up - Shearer]]></title>
       <description><![CDATA[Former England captain Alan Shearer says Three Lions boss Thomas Tuchel will not be fazed by criticism he has faced over the World Cup semi-final defeat.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c8xnl908y28o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -88,22 +104,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go</guid>
       <pubDate>Fri, 17 Jul 2026 16:26:43 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b722/live/caed38d0-7acb-11f1-a130-2b898c796aa9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Liverpool midfielder Szoboszlai signs new five-year deal]]></title>
-      <description><![CDATA[Liverpool midfielder Dominik Szoboszlai signs a new five-year contract at Anfield.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cx2rn4llxxno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx2rn4llxxno</guid>
-      <pubDate>Fri, 17 Jul 2026 14:03:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0835/live/f913d5b0-8166-11f1-8b33-67c0f232af5c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[All 11 last-minute winners at the World Cup]]></title>
-      <description><![CDATA[Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/videos/cp8xn9y46xdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cp8xn9y46xdo</guid>
-      <pubDate>Thu, 16 Jul 2026 13:41:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd41/live/64d978f0-811b-11f1-bee8-53ce494e1abc.jpg"/>
     </item>
     <item>
       <title><![CDATA[Pele at the Azteca? England in '66? Ranking the best World Cup finals]]></title>
@@ -162,6 +162,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31b8/live/dec4ce60-812c-11f1-b525-63787292c170.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Liverpool midfielder Szoboszlai signs new five-year deal]]></title>
+      <description><![CDATA[Liverpool midfielder Dominik Szoboszlai signs a new five-year contract at Anfield.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cx2rn4llxxno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx2rn4llxxno</guid>
+      <pubDate>Fri, 17 Jul 2026 14:03:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0835/live/f913d5b0-8166-11f1-8b33-67c0f232af5c.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[West Ham captain Bowen to stay at club]]></title>
       <description><![CDATA[West Ham United captain Jarrod Bowen will stay at the club for the forthcoming season in the Championship.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cz64ww3j2yxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -194,14 +202,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b799/live/f014a550-81b3-11f1-bc34-d11e2a8fe857.jpg"/>
     </item>
     <item>
-      <title><![CDATA[England missing final piece of jigsaw - Kane]]></title>
-      <description><![CDATA[England captain Harry Kane says the team are "missing that final piece of the jigsaw" and need to "find a way to get better" following defeat to Argentina.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cvgv52dne1mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvgv52dne1mo</guid>
-      <pubDate>Fri, 17 Jul 2026 07:46:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c5e/live/c466faf0-81ab-11f1-86e4-c5a5b374f2bc.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[World Cup quiz: Can you name finalists since 1930?]]></title>
       <description><![CDATA[As we approach Sunday's World Cup final, test your knowledge of the teams who have made it to this stage before.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cj4pw98d29eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -216,6 +216,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yzy1rzxepo</guid>
       <pubDate>Fri, 17 Jul 2026 09:36:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a8/live/a8e87500-8058-11f1-bee8-53ce494e1abc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[England missing final piece of jigsaw - Kane]]></title>
+      <description><![CDATA[England captain Harry Kane says the team are "missing that final piece of the jigsaw" and need to "find a way to get better" following defeat to Argentina.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cvgv52dne1mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvgv52dne1mo</guid>
+      <pubDate>Fri, 17 Jul 2026 07:46:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c5e/live/c466faf0-81ab-11f1-86e4-c5a5b374f2bc.jpg"/>
     </item>
     <item>
       <title><![CDATA[How have missed targets affected Newcastle's summer rebuild?]]></title>
@@ -248,14 +256,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cpw981n4v19o</guid>
       <pubDate>Fri, 17 Jul 2026 10:16:57 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dca/live/8abd2bf0-8131-11f1-b525-63787292c170.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Iheanacho rejects new Celtic deal for Turkey's second tier]]></title>
-      <description><![CDATA[Nigeria striker Kelechi Iheanacho turns down a new contract with Celtic and joins Bursaspor, who have just been promoted to Turkey's second tier.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cz054lpgym7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cz054lpgym7o</guid>
-      <pubDate>Fri, 17 Jul 2026 16:45:47 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/752b/live/d05feda0-81fe-11f1-a927-670d17f8e943.jpg"/>
     </item>
     <item>
       <title><![CDATA[Who am I? Guess World Cup star No 40]]></title>
@@ -339,6 +339,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef87/live/18cbc900-81dd-11f1-8b86-31ce3d5ecce7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Iheanacho rejects new Celtic deal for Turkey's second tier]]></title>
+      <description><![CDATA[Nigeria striker Kelechi Iheanacho turns down a new contract with Celtic and joins Bursaspor, who have just been promoted to Turkey's second tier.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cz054lpgym7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cz054lpgym7o</guid>
+      <pubDate>Fri, 17 Jul 2026 16:45:47 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/752b/live/d05feda0-81fe-11f1-a927-670d17f8e943.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[New York issues air quality alert days before World Cup final]]></title>
       <description><![CDATA[Officials in New York and New Jersey issue an air quality health alert because of wildfire smoke just days before the World Cup final.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c9w0jen8x90o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -371,14 +379,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21aa/live/4ea0cc10-81c4-11f1-97b7-87871fc222bc.png"/>
     </item>
     <item>
-      <title><![CDATA[Defender Esteve leaves Burnley to join RB Leipzig]]></title>
-      <description><![CDATA[Former France Under-21s defender Maxime Esteve leaves Burnley to join Bundesliga club RB Leipzig for a reported fee of £27.3m.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c1mymzpzv2ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c1mymzpzv2ko</guid>
-      <pubDate>Fri, 17 Jul 2026 09:59:26 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea9c/live/747361e0-7f86-11f1-a47a-d94293d2b0e4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[The financial winners and losers from the World Cup]]></title>
       <description><![CDATA[Big bucks are being made from the 2026 tournament off the field, but who is raking in the most, and who is losing out?]]></description>
       <link>https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -395,6 +395,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yzye502vko</guid>
       <pubDate>Fri, 17 Jul 2026 09:30:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f90c/live/fad52af0-81f9-11f1-b81f-6b9faca7ef3f.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Defender Esteve leaves Burnley to join RB Leipzig]]></title>
+      <description><![CDATA[Former France Under-21s defender Maxime Esteve leaves Burnley to join Bundesliga club RB Leipzig for a reported fee of £27.3m.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c1mymzpzv2ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c1mymzpzv2ko</guid>
+      <pubDate>Fri, 17 Jul 2026 09:59:26 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea9c/live/747361e0-7f86-11f1-a47a-d94293d2b0e4.jpg"/>
     </item>
     <item>
       <title><![CDATA['A true miracle of destiny' - Messi and Lamine Yamal's incredible first meeting]]></title>
@@ -419,14 +427,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ckgd2g7kzxeo</guid>
       <pubDate>Fri, 17 Jul 2026 07:41:56 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f43/live/42a1b8e0-81b3-11f1-bc34-d11e2a8fe857.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Forest set to make £45m offer for Spurs' Bergvall]]></title>
-      <description><![CDATA[Nottingham Forest are set to make an offer of £45m for Tottenham midfielder Lucas Bergvall.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cp3052zlvwqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cp3052zlvwqo</guid>
-      <pubDate>Thu, 16 Jul 2026 18:24:16 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc43/live/68d7a5a0-813c-11f1-b525-63787292c170.jpg"/>
     </item>
     <item>
       <title><![CDATA[Inter interested in Spence - Friday's gossip ]]></title>
