@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 19 Jul 2026 18:36:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 19:49:34 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Experience this match in 3D]]></title>
+      <description><![CDATA[Watch the World Cup final from every angle including through the eyes of every player.]]></description>
+      <link>https://www.3d-bbc.co.uk/?matchId=151710&amp;at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.3d-bbc.co.uk/?matchId=151710</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9788/live/ba37b670-83a2-11f1-b976-0b9c15b0ccfc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Robbie Williams, Tom Cruise and Jennifer Hudson among stars at World Cup closing ceremony]]></title>
+      <description><![CDATA[The celebrity line-up will continue at half-time with performances by Madonna, Justin Bieber, Shakira and BTS.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/clyxjl0wkl7o</guid>
+      <pubDate>Sun, 19 Jul 2026 19:33:09 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1447/live/fc1348f0-83a9-11f1-bee8-53ce494e1abc.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Trump presence means tight security for World Cup final]]></title>
       <description><![CDATA[Supporters faced long queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final.]]></description>
@@ -22,14 +38,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c304p73m3zgo</guid>
       <pubDate>Sun, 19 Jul 2026 17:50:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a63e/live/f99ddf20-8388-11f1-8537-c5e158f8690c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[IShowSpeed kicks off World Cup closing ceremony in blaze of colour]]></title>
-      <description><![CDATA[Another star-studded performance at half-time will include Shakira, BTS, Madonna and Justin Bieber.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/clyxjl0wkl7o</guid>
-      <pubDate>Sun, 19 Jul 2026 18:33:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/030c/live/5b9c41e0-839c-11f1-8c34-fb0b540950a3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Messi on the brink of history - will it be his last World Cup game?]]></title>
@@ -248,6 +256,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a562/live/a1c11090-8213-11f1-be77-cd53d9589267.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Ten-man Kilmarnock leave it late against Elgin - League Cup round-up ]]></title>
+      <description><![CDATA[Ten-man Kilmarnock need a stoppage-time goal to defeat Elgin City in the Premier Sports Cup group stage, while St Johnstone and holders St Mirren are also among Saturday's winners.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cwyq9kx08kno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwyq9kx08kno</guid>
+      <pubDate>Sat, 18 Jul 2026 20:15:49 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/990b/live/35e14fd0-82c6-11f1-adf9-c14531781464.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['No regrets' - Tuchel on England's defeat by Argentina]]></title>
       <description><![CDATA[England manager Thomas Tuchel believes his team "got too passive" after scoring first in the World Cup semi-final against Argentina, which they lost 2-1 at Atlanta Stadium.]]></description>
       <link>https://www.bbc.co.uk/sport/football/videos/c62v3q3qp99o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -320,14 +336,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ten-man Kilmarnock leave it late against Elgin - League Cup round-up ]]></title>
-      <description><![CDATA[Ten-man Kilmarnock need a stoppage-time goal to defeat Elgin City in the Premier Sports Cup group stage, while St Johnstone and holders St Mirren are also among Saturday's winners.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cwyq9kx08kno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwyq9kx08kno</guid>
-      <pubDate>Sat, 18 Jul 2026 20:15:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/990b/live/35e14fd0-82c6-11f1-adf9-c14531781464.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[More games, more controversy - good and bad of biggest World Cup yet]]></title>
       <description><![CDATA[From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/ce8k0njm23yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -374,6 +382,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8rnd6n1j78o</guid>
       <pubDate>Sat, 18 Jul 2026 19:47:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1585/live/78bc12c0-82e1-11f1-926f-c90d1bcfbc84.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Swansea close in on deal for Motherwell's Just]]></title>
+      <description><![CDATA[Swansea City hope to tie up a deal for Motherwell's Elijah Just after he impressed for New Zealand at the World Cup.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cqlxreqep15o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqlxreqep15o</guid>
+      <pubDate>Sun, 19 Jul 2026 19:16:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d75e/live/fea3aa10-83a4-11f1-8175-0b71720eeb65.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Villa's record signing Manzambi can spearhead new era]]></title>
@@ -542,14 +558,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cz7dj84x49po</guid>
       <pubDate>Sat, 18 Jul 2026 16:29:25 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/588a/live/80301900-82c5-11f1-adf9-c14531781464.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Who has your Premiership club brought in & let go this summer?]]></title>
-      <description><![CDATA[Your one-stop shop for all the ins and outs in the Scottish Premiership during the  2026 summer transfer window.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvgjd1rr3ryo</guid>
-      <pubDate>Sat, 18 Jul 2026 18:49:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d6d/live/0fb0f9e0-4a24-11f0-9471-e380f647874e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Aston Villa sign defender Harviken from Juventus]]></title>
