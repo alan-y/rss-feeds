@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 20 Jul 2026 18:23:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 20:11:15 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Thousands of websites taken down for illegal World Cup streams]]></title>
+      <description><![CDATA[More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o</guid>
+      <pubDate>Mon, 20 Jul 2026 20:08:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b77/live/d269b8a0-8475-11f1-ac57-abae38e66d9e.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Ofcom unable to take further legal action against suicide forum]]></title>
       <description><![CDATA[The regulator said it had "no further legal routes available" under the Online Safety Act.]]></description>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy8w379e091o</guid>
       <pubDate>Fri, 10 Jul 2026 22:54:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c345/live/988f5600-7ca3-11f1-bc75-67a16fbc54d2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[EU threatens Meta with fines over 'addictive' Facebook and Instagram]]></title>
-      <description><![CDATA[Regulators say features such as infinite scroll contribute to "compulsive use" and "unhealthy habits".]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8j2dje3pldo</guid>
-      <pubDate>Fri, 10 Jul 2026 12:02:40 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07d0/live/f2f84510-7c54-11f1-ad56-219c1e341d26.jpg"/>
     </item>
   </channel>
 </rss>
