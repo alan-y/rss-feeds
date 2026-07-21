@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 04:35:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 07:16:24 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Food delivery rider wins China's top literary prize]]></title>
+      <description><![CDATA[Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo</guid>
+      <pubDate>Mon, 20 Jul 2026 03:53:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27d9/live/016c8b40-83eb-11f1-a4bc-65277c7fcf81.jpg"/>
+    </item>
     <item>
       <title><![CDATA[China hits out at British Steel nationalisation]]></title>
       <description><![CDATA[The UK government said taking the firm into public hands would safeguard "a vital national capability".]]></description>
@@ -30,14 +38,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cd959q11g54o</guid>
       <pubDate>Wed, 15 Jul 2026 17:02:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c14/live/40b48570-801f-11f1-9317-f3c8d3f68726.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I must get out into the free world', dissident who fled China on boat tells BBC]]></title>
-      <description><![CDATA[Dong Guangping, who has resettled in Canada, recounts his perilous escape from China to South Korea.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cm2j2jw117lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2j2jw117lo</guid>
-      <pubDate>Wed, 15 Jul 2026 22:04:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f86/live/acfc0010-8019-11f1-9317-f3c8d3f68726.png"/>
     </item>
     <item>
       <title><![CDATA[Five arrested after Hong Kong police raid independent bookshops]]></title>
@@ -64,12 +64,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8707/live/0aa9b510-8027-11f1-b976-0b9c15b0ccfc.jpg"/>
     </item>
     <item>
-      <title><![CDATA[East Asia braces for destructive typhoon as landslides kill 15 in Philippines]]></title>
-      <description><![CDATA[Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c04y6wr03gxo</guid>
-      <pubDate>Fri, 10 Jul 2026 13:53:11 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe89/live/7d209130-7c45-11f1-8ccc-df652c9169a7.jpg"/>
+      <title><![CDATA['I must get out into the free world', dissident who fled China on boat tells BBC]]></title>
+      <description><![CDATA[Dong Guangping, who has resettled in Canada, recounts his perilous escape from China to South Korea.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cm2j2jw117lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2j2jw117lo</guid>
+      <pubDate>Wed, 15 Jul 2026 22:04:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f86/live/acfc0010-8019-11f1-9317-f3c8d3f68726.png"/>
     </item>
     <item>
       <title><![CDATA['The water just came so fast': Typhoon triggers floods and rare tornadoes in China]]></title>
