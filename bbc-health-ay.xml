@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 23:37:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 01:04:05 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[UK humanitarian worker monitored for Ebola in London hospital]]></title>
+      <description><![CDATA[The health worker was evacuated to the UK from the DR Congo after being potentially exposed to the virus.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cdewk5r308jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdewk5r308jo</guid>
+      <pubDate>Wed, 22 Jul 2026 00:52:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22c0/live/117a7b30-8555-11f1-b976-0b9c15b0ccfc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[More young women in their 20s are getting type 2 diabetes]]></title>
+      <description><![CDATA[England is seeing "a worrying increase" in women in their 20s developing type 2 diabetes, say experts. Here's what to look out for. ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o</guid>
+      <pubDate>Wed, 22 Jul 2026 00:03:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13dc/live/eb3abd90-84d2-11f1-8a1f-271692b35cb6.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Your tips on getting a fussy child to eat, and six recipes they'll love]]></title>
       <description><![CDATA[Want to avoid battles over broccoli and squabbles over spinach? We've asked you for your advice on how to cope at mealtimes over the summer holidays.]]></description>
@@ -94,22 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c07y77exx8eo</guid>
       <pubDate>Thu, 16 Jul 2026 00:20:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdcd/live/69df5570-80eb-11f1-9bcb-d9018057bd1c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Covid inquiry PPE report - key findings]]></title>
-      <description><![CDATA[What went wrong with the government's planning and buying of vital items like gloves and gowns that cost taxpayers billions of pounds.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c07y7zj43jmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c07y7zj43jmo</guid>
-      <pubDate>Tue, 14 Jul 2026 12:45:44 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c46b/live/092f31d0-7f5d-11f1-a97a-9b1029617ccb.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[UK wasted £10bn on PPE that left NHS staff poorly protected, Covid inquiry finds]]></title>
-      <description><![CDATA[Healthcare staff were unable to properly protect themselves, or those in their care, from dangerous infections, says the latest inquiry report.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czrxrlydyzzo</guid>
-      <pubDate>Tue, 14 Jul 2026 12:12:53 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26b2/live/429dd230-7f4b-11f1-b7b5-4731f6422ba0.jpg"/>
     </item>
     <item>
       <title><![CDATA[I had to stop modelling because I kept passing out from crippling endometriosis]]></title>
@@ -247,6 +247,22 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2kkrndr00o</guid>
       <pubDate>Mon, 06 Jul 2026 13:09:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8066/live/a26e1000-792c-11f1-bb09-19b977572e60.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Covid inquiry PPE report - key findings]]></title>
+      <description><![CDATA[What went wrong with the government's planning and buying of vital items like gloves and gowns that cost taxpayers billions of pounds.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c07y7zj43jmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c07y7zj43jmo</guid>
+      <pubDate>Tue, 14 Jul 2026 12:45:44 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c46b/live/092f31d0-7f5d-11f1-a97a-9b1029617ccb.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[UK wasted £10bn on PPE that left NHS staff poorly protected, Covid inquiry finds]]></title>
+      <description><![CDATA[Healthcare staff were unable to properly protect themselves, or those in their care, from dangerous infections, says the latest inquiry report.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czrxrlydyzzo</guid>
+      <pubDate>Tue, 14 Jul 2026 12:12:53 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26b2/live/429dd230-7f4b-11f1-b7b5-4731f6422ba0.jpg"/>
     </item>
     <item>
       <title><![CDATA[UK begins trials of Ebola vaccine developed in just eight weeks]]></title>
