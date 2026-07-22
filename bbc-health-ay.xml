@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 04:37:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 07:18:29 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -29,7 +29,7 @@
       <link>https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o</guid>
       <pubDate>Wed, 22 Jul 2026 00:03:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13dc/live/eb3abd90-84d2-11f1-8a1f-271692b35cb6.jpg"/>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef88/live/20de43c0-8593-11f1-926f-c90d1bcfbc84.jpg"/>
     </item>
     <item>
       <title><![CDATA[Your tips on getting a fussy child to eat, and six recipes they'll love]]></title>
@@ -193,6 +193,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8a0/live/1f4e29c0-58e4-11f1-aa85-913b08133db5.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Removing tax from sanitary products 'pointless']]></title>
+      <description><![CDATA[Jersey's government has spent more than £500,000 on its free period product scheme since 2022.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cn8k0n0rdz0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cn8k0n0rdz0o</guid>
+      <pubDate>Wed, 22 Jul 2026 05:29:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be3a/live/f90299e0-8593-11f1-8c0b-a342efb64389.png"/>
+    </item>
+    <item>
       <title><![CDATA[I'll lose my bowel because my pain was dismissed until my husband spoke up]]></title>
       <description><![CDATA[An operation left Donna Davies in constant pain but she only felt believed when her husband spoke up.]]></description>
       <link>https://www.bbc.co.uk/news/articles/c2047z42e7lo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -207,14 +215,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czj8zp9e084o</guid>
       <pubDate>Mon, 13 Jul 2026 23:00:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa4f/live/cfcc3c30-7c37-11f1-a2fb-0b92ebfbb860.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Endometriosis groups 'crying out' for cut in diagnosis time]]></title>
-      <description><![CDATA[Two new non-invasive tests available from GPs are being proposed to speed up diagnosis times.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/ce3e4909qqzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce3e4909qqzo</guid>
-      <pubDate>Sun, 12 Jul 2026 06:15:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6ba/live/a1eb6a20-7bab-11f1-b976-0b9c15b0ccfc.jpg"/>
     </item>
     <item>
       <title><![CDATA['You are not alone with endometriosis pain']]></title>
@@ -329,6 +329,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj9g1wgxng2o</guid>
       <pubDate>Sat, 13 Jun 2026 20:46:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7d/live/40c89fc0-675f-11f1-8e1d-bbbb1017d210.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Why Joe Marler turned to cycling...]]></title>
+      <description><![CDATA[Joe Marler tells BBC Sport's Alex Fletcher about the benefits of cycling. ]]></description>
+      <link>https://www.bbc.co.uk/sport/videos/c8dnm3qj71eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/videos/c8dnm3qj71eo</guid>
+      <pubDate>Wed, 22 Jul 2026 07:10:31 GMT</pubDate>
+      <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a4c/live/d91e7fa0-842f-11f1-b976-0b9c15b0ccfc.jpg"/>
     </item>
   </channel>
 </rss>
