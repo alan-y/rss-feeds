@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 13:54:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 15:54:29 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Google fined €890m by EU for favouring its own apps over rivals]]></title>
+      <description><![CDATA[It is the first major enforcement action against the tech giant under the EU's new digital rules.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cevmenngkzpo</guid>
+      <pubDate>Thu, 23 Jul 2026 14:05:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f649/live/69a3a390-869f-11f1-a0b6-435e4178a497.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Amazon gaming boss predicts future where players no longer need consoles]]></title>
       <description><![CDATA[Jeff Gattis said the rising cost of gaming tech is likely to mean more people will stream their games online.]]></description>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o</guid>
       <pubDate>Thu, 16 Jul 2026 11:08:33 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c060/live/299cb270-80e4-11f1-a5c2-db1656c1a0a8.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Teen hackers who live streamed cyber-attack on TfL jailed]]></title>
-      <description><![CDATA[Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o</guid>
-      <pubDate>Thu, 16 Jul 2026 10:52:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1c8/live/b89f8e40-8105-11f1-926f-c90d1bcfbc84.jpg"/>
     </item>
   </channel>
 </rss>
