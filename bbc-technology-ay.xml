@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 17:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 18:41:26 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Google and Tesla shares plunge as AI spending rattles markets ]]></title>
+      <description><![CDATA[As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c235n47g8g8o</guid>
+      <pubDate>Thu, 23 Jul 2026 17:25:10 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f610/live/9cc8bdc0-8616-11f1-8dd8-4d5cff7c66df.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Google fined €890m by EU for favouring its own apps over rivals]]></title>
       <description><![CDATA[It is the first major enforcement action against the tech giant under the EU's new digital rules.]]></description>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4gkxppljpyo</guid>
       <pubDate>Thu, 23 Jul 2026 11:39:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4082/live/50efec00-8681-11f1-b60e-a7e0943a9c78.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Google burning through cash with spiralling AI costs]]></title>
-      <description><![CDATA[The company said earlier this year it expected to spend as much as $190bn on AI investments.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c235n47g8g8o</guid>
-      <pubDate>Thu, 23 Jul 2026 07:15:59 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f610/live/9cc8bdc0-8616-11f1-8dd8-4d5cff7c66df.jpg"/>
     </item>
     <item>
       <title><![CDATA[Teenager drops social media addiction lawsuit against Meta]]></title>
