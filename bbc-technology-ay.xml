@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 22:30:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 23:39:14 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Warning shot or publicity stunt - how worried should we be about the OpenAI hack?]]></title>
+      <description><![CDATA[Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cd9w22n9e4go</guid>
+      <pubDate>Fri, 24 Jul 2026 23:11:13 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg"/>
+    </item>
     <item>
       <title><![CDATA[PlayStation Network outage resolved after thousands of gamers unable to play]]></title>
       <description><![CDATA[The outage affected gamers' ability to launch games, apps or network features on their PlayStation.]]></description>
@@ -112,14 +120,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o</guid>
       <pubDate>Mon, 20 Jul 2026 20:08:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b77/live/d269b8a0-8475-11f1-ac57-abae38e66d9e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Ofcom unable to take further legal action against suicide forum]]></title>
-      <description><![CDATA[The regulator said it had "no further legal routes available" under the Online Safety Act.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c3d3ejgdm20o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3d3ejgdm20o</guid>
-      <pubDate>Mon, 20 Jul 2026 16:57:30 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5845/live/bb4adc70-8458-11f1-8cf4-43aed99842b4.jpg"/>
     </item>
   </channel>
 </rss>
