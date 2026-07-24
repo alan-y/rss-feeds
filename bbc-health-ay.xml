@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 04:37:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 07:15:35 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['Evidence lacking' for mental health monitoring tech]]></title>
+      <description><![CDATA[The Lampard Inquiry hears from experts about Oxevision technology.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c7vgd11d60do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c7vgd11d60do</guid>
+      <pubDate>Fri, 24 Jul 2026 04:48:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad80/live/2560f690-8660-11f1-b976-0b9c15b0ccfc.jpg"/>
+    </item>
     <item>
       <title><![CDATA['Life-changing' MS drug to help people walk now on NHS in England]]></title>
       <description><![CDATA[Fampridine boosts nerve signals to make it easier to walk, with up to 5,000 eligible. ]]></description>
@@ -104,14 +112,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ac5/live/29a87d30-812f-11f1-bee8-53ce494e1abc.jpg"/>
     </item>
     <item>
-      <title><![CDATA[NHS manager says trust wanted 4,000 reports 'gone']]></title>
-      <description><![CDATA[He tells an inquiry he believed a trust was 'panicking' and was discouraged from raising rota issues.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c6212klngkko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6212klngkko</guid>
-      <pubDate>Thu, 16 Jul 2026 14:52:45 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bb4/live/45b0fa60-8063-11f1-bee8-53ce494e1abc.png"/>
-    </item>
-    <item>
       <title><![CDATA[I had to stop modelling because I kept passing out from crippling endometriosis]]></title>
       <description><![CDATA[Three women describe how endometriosis has affected their careers, as an inquiry takes place.]]></description>
       <link>https://www.bbc.co.uk/news/articles/c79yyzw9v8xo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -193,6 +193,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8a0/live/1f4e29c0-58e4-11f1-aa85-913b08133db5.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Female veterans support group makes national impact]]></title>
+      <description><![CDATA[Chelley Tulloch, a former RAF medic, is one of 48 female veterans to benefit from the groups' help.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cg7mzv73jjdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cg7mzv73jjdo</guid>
+      <pubDate>Fri, 24 Jul 2026 04:52:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/362c/live/67742e10-871b-11f1-a4e0-e589dd7408b0.png"/>
+    </item>
+    <item>
       <title><![CDATA[Removing tax from sanitary products 'pointless']]></title>
       <description><![CDATA[Jersey's government has spent more than £500,000 on its free period product scheme since 2022.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cn8k0n0rdz0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -207,14 +215,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c2047z42e7lo</guid>
       <pubDate>Sun, 19 Jul 2026 06:01:10 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/452b/live/6ded8060-82bc-11f1-87aa-2bcbbeff03e6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How my period is supercharging my ADHD]]></title>
-      <description><![CDATA[A first-of-its-kind study by UK researchers is looking at the link between menstrual cycles and ADHD.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/czj8zp9e084o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czj8zp9e084o</guid>
-      <pubDate>Mon, 13 Jul 2026 23:00:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa4f/live/cfcc3c30-7c37-11f1-a2fb-0b92ebfbb860.jpg"/>
     </item>
     <item>
       <title><![CDATA['You are not alone with endometriosis pain']]></title>
