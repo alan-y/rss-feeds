@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 25 Jul 2026 07:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 09:07:04 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Changes called for as Sinner and Djokovic withdraw from Canadian Open]]></title>
+      <description><![CDATA[The tournament director of the Canadian Open says changes need to be made to the "demanding schedule" of players after Jannik Sinner and Novak Djokovic pull out of the Masters 1000 event.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o</guid>
+      <pubDate>Sat, 25 Jul 2026 08:39:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfee/live/22cae040-87fe-11f1-a311-5da3a8a1de78.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Tsitsipas claims first ATP title in 16 months]]></title>
       <description><![CDATA[Stefanos Tsitsipas wins his first ATP title in 16 months after defeating Raphael Collignon in the Swiss Open final.]]></description>
@@ -64,14 +72,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/707d/live/02a5beb0-7e31-11f1-bee8-53ce494e1abc.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sinner beats Zverev in thriller to retain Wimbledon title]]></title>
-      <description><![CDATA[Jannik Sinner comes from a set down to defeat Alexander Zverev 6-7 (7-9) 7-6 (7-2) 6-3 6-4 to retain his Wimbledon title.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/videos/c75y2rgvv96o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/videos/c75y2rgvv96o</guid>
-      <pubDate>Sun, 12 Jul 2026 21:03:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6b/live/8e381260-7e32-11f1-b976-0b9c15b0ccfc.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Drama, celebrations and outfits - our end-of-Wimbledon awards]]></title>
       <description><![CDATA[This year's Wimbledon has been full of excitement, interesting stories and great British success - Naomi Broady runs through her favourite moments.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/cyv0d7lypgyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -110,6 +110,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ckg85p1dp12o</guid>
       <pubDate>Sat, 11 Jul 2026 20:41:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc0a/live/dbfe2d40-7d5b-11f1-bee8-53ce494e1abc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sinner beats Zverev in thriller to retain Wimbledon title]]></title>
+      <description><![CDATA[Jannik Sinner comes from a set down to defeat Alexander Zverev 6-7 (7-9) 7-6 (7-2) 6-3 6-4 to retain his Wimbledon title.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/videos/c75y2rgvv96o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/videos/c75y2rgvv96o</guid>
+      <pubDate>Sun, 12 Jul 2026 21:03:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6b/live/8e381260-7e32-11f1-b976-0b9c15b0ccfc.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Sinner slid his way to Wimbledon glory]]></title>
