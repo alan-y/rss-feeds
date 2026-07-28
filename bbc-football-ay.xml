@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 28 Jul 2026 16:54:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 18:13:43 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -32,6 +32,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c6e/live/d4a65f80-8a86-11f1-83c5-cf36fe4b083e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Zidane waited for France - now can he harness their star power?]]></title>
+      <description><![CDATA[Zinedine Zidane says he waited for the France job, but what will he bring to the role after after five years out of management?]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c20dxgpjng3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c20dxgpjng3o</guid>
+      <pubDate>Tue, 28 Jul 2026 17:04:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7877/live/7c1b7350-8a95-11f1-abbc-1d62d6206917.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Celtic 'a really good match' for record signing Hogh]]></title>
       <description><![CDATA[Celtic break their transfer record to sign Denmark striker Kasper Hogh from Bodo/Glimt on a four-year contract.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cwymjrm0xlwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -48,8 +56,8 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d610/live/883f0070-8a90-11f1-abbc-1d62d6206917.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Would Leeds move help Trafford oust Pickford from England team?]]></title>
-      <description><![CDATA[BBC Sport examines James Trafford's England chances after a big-money move to Leeds]]></description>
+      <title><![CDATA[Could Leeds move help Trafford challenge for England keeper spot?]]></title>
+      <description><![CDATA[BBC Sport examines how James Trafford's England chances could be affected it he completes a big-money move to Leeds.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/clyer1yze4jo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/clyer1yze4jo</guid>
       <pubDate>Tue, 28 Jul 2026 16:28:44 GMT</pubDate>
@@ -62,14 +70,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm2gyzme6gno</guid>
       <pubDate>Tue, 28 Jul 2026 11:30:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cb6/live/96f704d0-8a6f-11f1-924e-bfa32777c3ff.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Zidane confirmed as France head coach]]></title>
-      <description><![CDATA[Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o</guid>
-      <pubDate>Tue, 28 Jul 2026 09:03:49 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2db/live/96268e10-8a72-11f1-b8a3-41b986490a13.jpg"/>
     </item>
     <item>
       <title><![CDATA[No excuses for Rangers as McInnes era is poised to begin]]></title>
@@ -158,6 +158,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b98/live/4ec17980-8a82-11f1-83c5-cf36fe4b083e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Zidane confirmed as France head coach]]></title>
+      <description><![CDATA[Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o</guid>
+      <pubDate>Tue, 28 Jul 2026 09:03:49 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2db/live/96268e10-8a72-11f1-b8a3-41b986490a13.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Shootouts & regional fixture split for new-look League Cup]]></title>
       <description><![CDATA[The Players Cup, formerly the League Cup, will have a 23-team league phase that includes penalty shootouts to settle draws after 90 minutes.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c8rnevypmgjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -172,6 +180,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gvew81dd0o</guid>
       <pubDate>Tue, 28 Jul 2026 11:34:05 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d3e/live/31535e70-8a75-11f1-b8ee-9b3c26ad07bb.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['I needed this summer' - what next for Arsenal's Kelly?]]></title>
+      <description><![CDATA[Chloe Kelly found 2025-26 hard, but is optimistic about hers and Arsenal's prospects this season.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cgk4gk5xd2xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cgk4gk5xd2xo</guid>
+      <pubDate>Tue, 28 Jul 2026 08:01:34 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb40/live/04b14cc0-89cf-11f1-b2ab-0dd01740f9f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why Chelsea want to sign older players]]></title>
@@ -190,12 +206,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0021/live/38d854d0-859c-11f1-926f-c90d1bcfbc84.png"/>
     </item>
     <item>
-      <title><![CDATA['I needed this summer' - what next for Arsenal's Kelly?]]></title>
-      <description><![CDATA[Chloe Kelly found 2025-26 hard, but is optimistic about hers and Arsenal's prospects this season.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cgk4gk5xd2xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cgk4gk5xd2xo</guid>
-      <pubDate>Tue, 28 Jul 2026 08:01:34 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb40/live/04b14cc0-89cf-11f1-b2ab-0dd01740f9f6.jpg"/>
+      <title><![CDATA[Motherwell told to 'eat barbed wire' before Faroes test]]></title>
+      <description><![CDATA[Motherwell boss Alfred Johansson is bracing himself for a tough HB Torshavn welcome in Thursday's Conference League qualifier.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c4gx3e3gdz1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gx3e3gdz1o</guid>
+      <pubDate>Tue, 28 Jul 2026 17:03:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a49/live/a4c60f80-8aa0-11f1-bdb4-61a481e25caf.jpg"/>
     </item>
     <item>
       <title><![CDATA[Reading remove online shop items with spelling errors]]></title>
@@ -206,14 +222,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86c8/live/785850b0-89ac-11f1-a44b-5525937994ba.png"/>
     </item>
     <item>
-      <title><![CDATA[Inter in advanced talks with England defender Stones]]></title>
-      <description><![CDATA[England defender John Stones is in advanced talks with Inter Milan about joining the Italian side on a free transfer.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo</guid>
-      <pubDate>Mon, 27 Jul 2026 20:02:14 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e023/live/496d6e50-89f4-11f1-ad85-33848ec6bcfe.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Man City brace for Rodri bid - Tuesday's gossip]]></title>
       <description><![CDATA[Manchester City brace for Real Madrid's Rodri bid, Leeds set to sign James Trafford for £40m, Crystal Palace agree terms with Raphael Le Guen and Real Madrid set to make second Yan Diomande offer.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cjejwe30jpyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -222,20 +230,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ce/live/372c1e20-89ff-11f1-b2ab-0dd01740f9f6.png"/>
     </item>
     <item>
-      <title><![CDATA[Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?]]></title>
-      <description><![CDATA[With Real Madrid renewing contract talks and Arsenal showing interest, there may be no more intriguing transfer situation right now than Vinicius Jr's future.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o</guid>
-      <pubDate>Mon, 27 Jul 2026 10:26:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d30/live/def92a80-89a0-11f1-b2ab-0dd01740f9f6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Diomande agrees Real Madrid terms as PSG step away]]></title>
-      <description><![CDATA[RB Leipzig winger Yan Diomande agrees personal terms with Real Madrid after Paris St-Germain withdraw their interest.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cqx74lpprd7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx74lpprd7o</guid>
-      <pubDate>Mon, 27 Jul 2026 05:46:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5633/live/e88d1110-8964-11f1-b5c7-f34a712b7d61.jpg"/>
+      <title><![CDATA[Inter in advanced talks with England defender Stones]]></title>
+      <description><![CDATA[England defender John Stones is in advanced talks with Inter Milan about joining the Italian side on a free transfer.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo</guid>
+      <pubDate>Mon, 27 Jul 2026 20:02:14 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e023/live/496d6e50-89f4-11f1-ad85-33848ec6bcfe.jpg"/>
     </item>
     <item>
       <title><![CDATA[Can lightning strike twice? Cape Verde set for Wafcon debut]]></title>
@@ -278,14 +278,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/441f/live/daf7c2b0-850f-11f1-a08a-6d526d664753.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Salah, Stones & Sancho - who are the Premier League free agents?]]></title>
-      <description><![CDATA[BBC Sport takes a look at some of the notable out-of-contract players who playing in the English top flight last season.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c78g7pj9gyno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c78g7pj9gyno</guid>
-      <pubDate>Mon, 27 Jul 2026 14:05:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/401e/live/190686d0-89da-11f1-b2ab-0dd01740f9f6.png"/>
-    </item>
-    <item>
       <title><![CDATA[Chelsea open talks to sign Henderson and Welbeck]]></title>
       <description><![CDATA[Chelsea are in talks to sign Brentford midfielder Jordan Henderson and Brighton striker Danny Welbeck.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -294,20 +286,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3cd/live/7472a8e0-89ea-11f1-b2ab-0dd01740f9f6.png"/>
     </item>
     <item>
-      <title><![CDATA['Every country wants to beat Nigeria' - Super Falcons hunt 11th Wafcon title]]></title>
-      <description><![CDATA[Nigeria face Malawi, Zambia and Egypt at the 2026 Women's Africa Cup of Nations, looking to defend their crown and claim an 11th title.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cly5q0e2g0ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cly5q0e2g0ro</guid>
-      <pubDate>Mon, 27 Jul 2026 16:47:12 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0bc/live/5673ac60-89c5-11f1-a501-d9a9d2e9b6c1.jpg"/>
+      <title><![CDATA[Diomande agrees Real Madrid terms as PSG step away]]></title>
+      <description><![CDATA[RB Leipzig winger Yan Diomande agrees personal terms with Real Madrid after Paris St-Germain withdraw their interest.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cqx74lpprd7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx74lpprd7o</guid>
+      <pubDate>Mon, 27 Jul 2026 05:46:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5633/live/e88d1110-8964-11f1-b5c7-f34a712b7d61.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Glamour club Wrexham proving it can produce its own]]></title>
-      <description><![CDATA[Despite the club's high-profile recruitment, there remains a firm desire to develop the next generation of homegrown talent.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/czxqpnvg3xlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/czxqpnvg3xlo</guid>
-      <pubDate>Mon, 27 Jul 2026 05:04:28 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed6f/live/7b1dd660-6e2e-11f1-9fdc-51e252bb92b4.jpg"/>
+      <title><![CDATA[Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?]]></title>
+      <description><![CDATA[With Real Madrid renewing contract talks and Arsenal showing interest, there may be no more intriguing transfer situation right now than Vinicius Jr's future.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o</guid>
+      <pubDate>Mon, 27 Jul 2026 10:26:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d30/live/def92a80-89a0-11f1-b2ab-0dd01740f9f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[York appoint Lindsey after shock Maynard sacking]]></title>
@@ -348,6 +340,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cre4qpq5j4wo</guid>
       <pubDate>Mon, 27 Jul 2026 06:10:05 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd8d/live/9cd85070-897f-11f1-b8ee-9b3c26ad07bb.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Glamour club Wrexham proving it can produce its own]]></title>
+      <description><![CDATA[Despite the club's high-profile recruitment, there remains a firm desire to develop the next generation of homegrown talent.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/czxqpnvg3xlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/czxqpnvg3xlo</guid>
+      <pubDate>Mon, 27 Jul 2026 05:04:28 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed6f/live/7b1dd660-6e2e-11f1-9fdc-51e252bb92b4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Messiah or papering over cracks? Klopp must sway doubters in Germany rebuild]]></title>
@@ -468,6 +468,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cr49lgg014ko</guid>
       <pubDate>Tue, 28 Jul 2026 09:02:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7e3/live/7abdc950-8459-11f1-8cf4-43aed99842b4.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Every country wants to beat Nigeria' - Super Falcons hunt 11th Wafcon title]]></title>
+      <description><![CDATA[Nigeria face Malawi, Zambia and Egypt at the 2026 Women's Africa Cup of Nations, looking to defend their crown and claim an 11th title.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cly5q0e2g0ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cly5q0e2g0ro</guid>
+      <pubDate>Mon, 27 Jul 2026 16:47:12 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0bc/live/5673ac60-89c5-11f1-a501-d9a9d2e9b6c1.jpg"/>
     </item>
     <item>
       <title><![CDATA[In spotlight but shunning limelight - Olise's unique rise to top]]></title>
