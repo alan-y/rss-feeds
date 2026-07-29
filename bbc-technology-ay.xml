@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 21:16:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 22:16:22 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[The Chinese robot army transforming the UK's retail industry]]></title>
+      <description><![CDATA[Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms. ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0jl8v23qwgo</guid>
+      <pubDate>Wed, 29 Jul 2026 22:08:29 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ad/live/c412f1a0-8708-11f1-94fc-011b42f226be.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Meta shares fall as frustration grows over AI spending plans]]></title>
+      <description><![CDATA[Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckgd31l5yrdo</guid>
+      <pubDate>Wed, 29 Jul 2026 21:47:21 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba2a/live/554a2820-8b94-11f1-9e6e-a18e6e88bf61.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Data centres could pay hundreds of millions in deposits for power demands]]></title>
       <description><![CDATA[The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.]]></description>
@@ -104,22 +120,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cevmenngkzpo</guid>
       <pubDate>Thu, 23 Jul 2026 23:10:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f649/live/69a3a390-869f-11f1-a0b6-435e4178a497.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Lawmakers push for AI 'kill switch' after OpenAI models go rogue]]></title>
-      <description><![CDATA[A new bill would let the US government order the shutdown of AI models that pose a public threat.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o</guid>
-      <pubDate>Thu, 23 Jul 2026 20:58:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a255/live/1eacc3a0-86d9-11f1-bba7-35d3e67315de.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Google and Tesla shares plunge as AI spending rattles markets ]]></title>
-      <description><![CDATA[As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c235n47g8g8o</guid>
-      <pubDate>Thu, 23 Jul 2026 20:42:33 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f610/live/9cc8bdc0-8616-11f1-8dd8-4d5cff7c66df.jpg"/>
     </item>
   </channel>
 </rss>
