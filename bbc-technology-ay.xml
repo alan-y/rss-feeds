@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 22:16:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 23:17:03 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Meta shares fall as frustration grows over AI spending plans]]></title>
+      <description><![CDATA[Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckgd31l5yrdo</guid>
+      <pubDate>Wed, 29 Jul 2026 22:44:18 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba2a/live/554a2820-8b94-11f1-9e6e-a18e6e88bf61.jpg"/>
+    </item>
     <item>
       <title><![CDATA[The Chinese robot army transforming the UK's retail industry]]></title>
       <description><![CDATA[Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms. ]]></description>
@@ -22,14 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0jl8v23qwgo</guid>
       <pubDate>Wed, 29 Jul 2026 22:08:29 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ad/live/c412f1a0-8708-11f1-94fc-011b42f226be.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Meta shares fall as frustration grows over AI spending plans]]></title>
-      <description><![CDATA[Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies ]]></description>
-      <link>https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckgd31l5yrdo</guid>
-      <pubDate>Wed, 29 Jul 2026 21:47:21 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba2a/live/554a2820-8b94-11f1-9e6e-a18e6e88bf61.jpg"/>
     </item>
     <item>
       <title><![CDATA[Data centres could pay hundreds of millions in deposits for power demands]]></title>
