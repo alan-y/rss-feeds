@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 31 Jul 2026 20:44:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 22:03:54 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Snapchat joins other popular platforms in fight against 'AI slop']]></title>
+      <description><![CDATA[Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c77g6dm5pr8o</guid>
+      <pubDate>Fri, 31 Jul 2026 21:57:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1ad/live/074af240-8d23-11f1-92b9-3b7efaf76067.jpg"/>
+    </item>
     <item>
       <title><![CDATA[AI firms must answer for rogue bots, says boss of hacked company]]></title>
       <description><![CDATA[Clement Delangue said he didn't want cyber attacks on other companies to become "normalised".]]></description>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c872nj1n4xyo</guid>
       <pubDate>Mon, 27 Jul 2026 23:00:06 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe81/live/c5a82ce0-7aad-11f1-b976-0b9c15b0ccfc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why budding birders are flocking to Shazam-like apps to identify avians]]></title>
-      <description><![CDATA[Birdwatchers tell the BBC how apps have changed their lifelong hobby - and attracted new birders.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr59m5nmemno</guid>
-      <pubDate>Mon, 27 Jul 2026 07:53:30 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed6f/live/ee815b00-85ac-11f1-9454-77c2271a5b4a.jpg"/>
     </item>
   </channel>
 </rss>
