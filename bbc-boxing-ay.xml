@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/boxing</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 01 Aug 2026 11:46:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 13:17:32 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/boxing/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[McConnell takes gold as Walsh and Rock claim silver]]></title>
+      <description><![CDATA[Team Northern Ireland boxer Jon McConnell claims a Commonwealth Games debut gold medal as he beats Wales' Orlando Holley-Sotomi via split decision at the SEC Centre.]]></description>
+      <link>https://www.bbc.co.uk/sport/boxing/articles/c07rpy72e50o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/c07rpy72e50o</guid>
+      <pubDate>Sat, 01 Aug 2026 12:37:18 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d0/live/8e5356f0-8da6-11f1-9e26-8164f877b701.jpg"/>
+    </item>
     <item>
       <title><![CDATA[England equal best boxing haul at Commonwealths]]></title>
       <description><![CDATA[England equal their best ever boxing results at a Commonwealth Games, with seven reaching the finals and 10 claiming a medal.]]></description>
@@ -96,20 +104,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4608/live/55100e70-89a9-11f1-b8ee-9b3c26ad07bb.png"/>
     </item>
     <item>
-      <title><![CDATA[Highlights - Joshua beats Prenga after early scare]]></title>
-      <description><![CDATA[In his comeback fight, Anthony Joshua suffered two early knockdowns but recovered to dramatically stop Kristian Prenga in the second round in Saudi Arabia.]]></description>
-      <link>https://www.bbc.co.uk/sport/boxing/videos/cvgvp7n45e5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/videos/cvgvp7n45e5o</guid>
-      <pubDate>Sun, 26 Jul 2026 11:33:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f016/live/f54fd6c0-88e3-11f1-b8ee-9b3c26ad07bb.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Watch every episode]]></title>
       <description><![CDATA[Natasha Jonas and Chris Eubank Jr feature]]></description>
       <link>https://www.bbc.co.uk/sport/boxing/articles/crgy3zy4meyo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/crgy3zy4meyo</guid>
       <pubDate>Sun, 28 Apr 2024 14:22:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65be/live/0a0e42b0-960e-11ef-9260-19e6a950e830.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Highlights - Joshua beats Prenga after early scare]]></title>
+      <description><![CDATA[In his comeback fight, Anthony Joshua suffered two early knockdowns but recovered to dramatically stop Kristian Prenga in the second round in Saudi Arabia.]]></description>
+      <link>https://www.bbc.co.uk/sport/boxing/videos/cvgvp7n45e5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/videos/cvgvp7n45e5o</guid>
+      <pubDate>Sun, 26 Jul 2026 11:33:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f016/live/f54fd6c0-88e3-11f1-b8ee-9b3c26ad07bb.jpg"/>
     </item>
     <item>
       <title><![CDATA['I feel pain' - the British champion with no British passport]]></title>
