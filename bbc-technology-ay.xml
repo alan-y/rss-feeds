@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 20:37:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 21:53:13 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[SpaceX's first-ever earnings show higher revenues and huge spending]]></title>
+      <description><![CDATA[Elon Musk's company has struggled to maintain investor enthusiasm that greeted its stock market debut.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0qvpveg20vo</guid>
+      <pubDate>Tue, 04 Aug 2026 20:48:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a14/live/a0d16bc0-903d-11f1-a691-e5bd21941ac1.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Apple issues new challenge against UK order for access to private user data]]></title>
       <description><![CDATA[It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy.]]></description>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9q90q9qnn2o</guid>
       <pubDate>Wed, 29 Jul 2026 11:35:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e2f/live/8ed23800-8b42-11f1-a7ab-8b30adf0800a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI says its rogue AI tried to hack other companies]]></title>
-      <description><![CDATA[The out-of-control AI found four logins which allowed it to access multiple unnamed online services.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c2el319vzr3o</guid>
-      <pubDate>Wed, 29 Jul 2026 08:49:27 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52e9/live/3c2ddae0-8a9e-11f1-bdb4-61a481e25caf.jpg"/>
     </item>
   </channel>
 </rss>
