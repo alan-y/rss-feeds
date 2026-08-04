@@ -10,18 +10,26 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 05:33:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 08:06:34 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Top-rated mental health trust asked to save £24m]]></title>
+      <description><![CDATA[An NHS trust could lose up to 330 posts and a union says there will be "consequences" for patients.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cd9wk27y05zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cd9wk27y05zo</guid>
+      <pubDate>Tue, 04 Aug 2026 06:55:45 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/548a/live/beda4270-8f95-11f1-9fab-17cb342cbbd7.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Breast cancer checks missing most women under 50 who are at risk, says study]]></title>
       <description><![CDATA[Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.]]></description>
       <link>https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckgv652r625o</guid>
       <pubDate>Tue, 04 Aug 2026 01:08:13 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d894/live/92ce6890-8f37-11f1-bd9f-4361c301d82b.jpg"/>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cb3/live/9266a900-8fda-11f1-a7ab-8b30adf0800a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body]]></title>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdewk5r308jo</guid>
       <pubDate>Wed, 22 Jul 2026 00:52:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22c0/live/117a7b30-8555-11f1-b976-0b9c15b0ccfc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[More young women in their 20s are getting type 2 diabetes]]></title>
-      <description><![CDATA[England is seeing "a worrying increase" in women in their 20s developing type 2 diabetes, say experts. Here's what to look out for. ]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o</guid>
-      <pubDate>Wed, 22 Jul 2026 00:03:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef88/live/20de43c0-8593-11f1-926f-c90d1bcfbc84.jpg"/>
     </item>
     <item>
       <title><![CDATA[There's a reason child vaccination rates are falling - and it's not social media]]></title>
