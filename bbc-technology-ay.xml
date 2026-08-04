@@ -10,17 +10,25 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 21:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 23:02:04 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
+      <title><![CDATA['I feel like I dug my own grave': The workers caught in the AI transition]]></title>
+      <description><![CDATA[AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cgr7nxve05go</guid>
+      <pubDate>Tue, 04 Aug 2026 22:10:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d916/live/b72ddec0-8648-11f1-a268-d919c0699520.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[SpaceX's first-ever earnings show higher revenues and huge spending]]></title>
       <description><![CDATA[Elon Musk's company has struggled to maintain investor enthusiasm that greeted its stock market debut.]]></description>
       <link>https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0qvpveg20vo</guid>
-      <pubDate>Tue, 04 Aug 2026 20:48:59 GMT</pubDate>
+      <pubDate>Tue, 04 Aug 2026 21:57:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a14/live/a0d16bc0-903d-11f1-a691-e5bd21941ac1.jpg"/>
     </item>
     <item>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckgd31l5yrdo</guid>
       <pubDate>Wed, 29 Jul 2026 22:44:18 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba2a/live/554a2820-8b94-11f1-9e6e-a18e6e88bf61.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Data centres could pay hundreds of millions in deposits for power demands]]></title>
-      <description><![CDATA[The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9q90q9qnn2o</guid>
-      <pubDate>Wed, 29 Jul 2026 11:35:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e2f/live/8ed23800-8b42-11f1-a7ab-8b30adf0800a.jpg"/>
     </item>
   </channel>
 </rss>
