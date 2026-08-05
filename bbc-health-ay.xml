@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 05 Aug 2026 20:26:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 21:51:56 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Walk-in mental health centres to open in banks and libraries across England]]></title>
+      <description><![CDATA[Government plans network of nearly 200 specialist services to help those facing mental health crises.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cpd76e737ljo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cpd76e737ljo</guid>
+      <pubDate>Wed, 05 Aug 2026 21:30:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12f3/live/6670ee10-910f-11f1-b61e-4f9456542bbf.jpg"/>
+    </item>
     <item>
       <title><![CDATA[From flip flops to fisherman's sandals: How to look after your feet this summer]]></title>
       <description><![CDATA[They may keep your feet cool but some styles could be doing more harm than good. ]]></description>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cgk4xrznxn5o</guid>
       <pubDate>Fri, 24 Jul 2026 00:05:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c174/live/c6425de0-851d-11f1-97e8-4f50dea2b016.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Life-changing' MS drug to help people walk now on NHS in England]]></title>
-      <description><![CDATA[Fampridine boosts nerve signals to make it easier to walk, with up to 5,000 eligible. ]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cgmkygjk9g2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cgmkygjk9g2o</guid>
-      <pubDate>Wed, 22 Jul 2026 23:38:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41e4/live/9d09f630-85fa-11f1-b976-0b9c15b0ccfc.jpg"/>
     </item>
     <item>
       <title><![CDATA[There's a reason child vaccination rates are falling - and it's not social media]]></title>
