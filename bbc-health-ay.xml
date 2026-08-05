@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 23:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 00:18:09 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Are summer sandals killing your feet? ]]></title>
+      <description><![CDATA[They may keep your feet cool but some styles could be doing more harm than good. ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cnvney840l9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cnvney840l9o</guid>
+      <pubDate>Tue, 04 Aug 2026 23:53:44 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4180/live/4e8e01b0-8f49-11f1-9c3d-5b64c79e1429.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Top-rated mental health trust asked to save £24m]]></title>
       <description><![CDATA[An NHS trust could lose up to 330 posts and a union says there will be "consequences" for patients.]]></description>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cgmkygjk9g2o</guid>
       <pubDate>Wed, 22 Jul 2026 23:38:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41e4/live/9d09f630-85fa-11f1-b976-0b9c15b0ccfc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[UK humanitarian worker monitored for Ebola in London hospital]]></title>
-      <description><![CDATA[The health worker was evacuated to the UK from the DR Congo after being potentially exposed to the virus.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cdewk5r308jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdewk5r308jo</guid>
-      <pubDate>Wed, 22 Jul 2026 00:52:35 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22c0/live/117a7b30-8555-11f1-b976-0b9c15b0ccfc.jpg"/>
     </item>
     <item>
       <title><![CDATA[There's a reason child vaccination rates are falling - and it's not social media]]></title>
