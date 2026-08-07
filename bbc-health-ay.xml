@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 07 Aug 2026 18:27:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 19:38:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -112,6 +112,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4585/live/380a4a50-8a19-11f1-831c-e5ac62e791c5.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Obesity rates have doubled in England since 1993 - what's going on?]]></title>
+      <description><![CDATA[Around seven million more adults are living with obesity than would have been if obesity rates had stayed the same as 1993.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo</guid>
+      <pubDate>Fri, 07 Aug 2026 18:38:46 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3036/live/4189fa30-9270-11f1-be40-e93959facbbc.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[There's a reason child vaccination rates are falling - and it's not social media]]></title>
       <description><![CDATA[As child immunisation rates fall across the UK, one clinic in west Yorkshire is taking aggressive steps to boost immunisations]]></description>
       <link>https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&amp;at_campaign=rss</link>
@@ -142,14 +150,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cp9errxl97go</guid>
       <pubDate>Sun, 19 Jul 2026 00:01:55 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b5c/live/1c3f9550-8064-11f1-926f-c90d1bcfbc84.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Doctors failed to spot my hidden condition for so long I was left permanently disabled]]></title>
-      <description><![CDATA[Actor Daneka Etchells is performing in a show which reflects her experiences of "medical gaslighting".]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c1k13l8jljeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c1k13l8jljeo</guid>
-      <pubDate>Sat, 18 Jul 2026 00:21:57 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0327/live/de781ca0-81ea-11f1-b7bc-5dd9ae7a9918.jpg"/>
     </item>
     <item>
       <title><![CDATA[Starting uni? What to know about the free NHS meningitis B jab in England]]></title>
