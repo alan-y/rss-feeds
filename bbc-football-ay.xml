@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 18:54:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 19:54:16 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -24,12 +24,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf9e/live/650f8d00-94b7-11f1-a7ab-8b30adf0800a.png"/>
     </item>
     <item>
-      <title><![CDATA[Liverpool sign Araujo on loan from Barcelona]]></title>
-      <description><![CDATA[Liverpool sign Uruguay defender Ronald Araujo on a season-long loan from Barcelona, with an option to buy. ]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c70gk0ry07ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c70gk0ry07ko</guid>
-      <pubDate>Mon, 10 Aug 2026 18:04:38 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dd0/live/ded9dcd0-948f-11f1-9ade-bb7c8a2b6bc0.jpg"/>
+      <title><![CDATA[Why has Araujo joined Liverpool and where did it go wrong at Barcelona?]]></title>
+      <description><![CDATA[Ronald Araujo has joined Liverpool on loan from Barcelona. We explain why Liverpool moved for the Uruguay defender and what went wrong at Barcelona.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c4gx5w7egvwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gx5w7egvwo</guid>
+      <pubDate>Mon, 10 Aug 2026 18:11:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd0/live/be0d78c0-94c8-11f1-870d-5d08c49babb2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Forest to host Leeds in EFL Cup - second-round draw in full]]></title>
+      <description><![CDATA[Nottingham Forest will face Leeds in the Carabao Cup in the only all-Premier League tie in the second round of the competition. ]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c98vm4rz7m7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c98vm4rz7m7o</guid>
+      <pubDate>Mon, 10 Aug 2026 19:33:19 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60eb/live/62b87140-94f1-11f1-a7ab-8b30adf0800a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Villa in talks to sign Bayern's Palhinha]]></title>
@@ -56,6 +64,22 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3060/live/83fd9be0-94c5-11f1-9730-59a19ad5a9b7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Liverpool sign Araujo on loan from Barcelona]]></title>
+      <description><![CDATA[Liverpool sign Uruguay defender Ronald Araujo on a season-long loan from Barcelona, with an option to buy. ]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c70gk0ry07ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c70gk0ry07ko</guid>
+      <pubDate>Mon, 10 Aug 2026 18:04:38 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dd0/live/ded9dcd0-948f-11f1-9ade-bb7c8a2b6bc0.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[West Ham sign winger Solomon from Tottenham]]></title>
+      <description><![CDATA[West Ham United sign winger Manor Solomon from Tottenham on a three-year contract.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cpq8x2ggdnno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cpq8x2ggdnno</guid>
+      <pubDate>Mon, 10 Aug 2026 18:56:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b89/live/0f2144e0-94eb-11f1-851e-d7ee390acd9c.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Championship all-stars to global gamble - will Ipswich's approach work?]]></title>
       <description><![CDATA[As Ipswich prepare for their return to the Premier League, BBC Sport look at how they are approaching the transfer market differently.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cx2lexp9qjxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -72,36 +96,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbd5/live/9ca987b0-9495-11f1-9ade-bb7c8a2b6bc0.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sliding doors - when Mourinho said yes, then no, to Man Utd]]></title>
-      <description><![CDATA[The inside story of Manchester United's attempt to get Jose Mourinho to replace Sir Alex Ferguson, why he said 'no' and the impact of that decision.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cd7ljn5rej4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd7ljn5rej4o</guid>
-      <pubDate>Mon, 10 Aug 2026 12:59:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f94c/live/0cb4c8a0-94b2-11f1-870d-5d08c49babb2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why has Araujo joined Liverpool and where did it go wrong at Barcelona?]]></title>
-      <description><![CDATA[Ronald Araujo has joined Liverpool on loan from Barcelona. We explain why Liverpool moved for the Uruguay defender and what went wrong at Barcelona.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c4gx5w7egvwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gx5w7egvwo</guid>
-      <pubDate>Mon, 10 Aug 2026 18:11:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dd0/live/be0d78c0-94c8-11f1-870d-5d08c49babb2.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Derby 'off market' as takeover deal collapses]]></title>
       <description><![CDATA[Saudi Arabia government official Turki Alalshikh abandons his proposed takeover of Championship club Derby County.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cm2gk7l7yl7o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm2gk7l7yl7o</guid>
       <pubDate>Mon, 10 Aug 2026 16:51:34 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3144/live/4f65b840-94d4-11f1-8a9a-13c674e4e5fe.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Brazilian player falls down tunnel during goal celebration]]></title>
-      <description><![CDATA[Brazilian player Jacy says he got "carried away" after he ended up falling down a hold in his goal celebration in Coritib's 2-1 win against Chapecoense.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cd9wg9x3n55o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd9wg9x3n55o</guid>
-      <pubDate>Mon, 10 Aug 2026 07:46:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d015/live/02235460-948f-11f1-9ade-bb7c8a2b6bc0.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hibs stun Rangers with dramatic late winner]]></title>
@@ -144,12 +144,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7161/live/b7e91bd0-92a6-11f1-a7ab-8b30adf0800a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Sliding doors - when Mourinho said yes, then no, to Man Utd]]></title>
+      <description><![CDATA[The inside story of Manchester United's attempt to get Jose Mourinho to replace Sir Alex Ferguson, why he said 'no' and the impact of that decision.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cd7ljn5rej4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd7ljn5rej4o</guid>
+      <pubDate>Mon, 10 Aug 2026 12:59:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f94c/live/0cb4c8a0-94b2-11f1-870d-5d08c49babb2.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Will summit encourage Scottish clubs to give youth a chance?]]></title>
       <description><![CDATA[Finding a balance between the national interest and self-interest of clubs will be a challenge when it comes to how best to nurture Scottish talent, writes Tom English.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/ce3q52njxv0o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ce3q52njxv0o</guid>
       <pubDate>Mon, 10 Aug 2026 15:14:04 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d882/live/885d2bd0-94cd-11f1-8189-057951e10a11.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Brazilian player falls down tunnel during goal celebration]]></title>
+      <description><![CDATA[Brazilian player Jacy says he got "carried away" after he ended up falling down a hold in his goal celebration in Coritib's 2-1 win against Chapecoense.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cd9wg9x3n55o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd9wg9x3n55o</guid>
+      <pubDate>Mon, 10 Aug 2026 07:46:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d015/live/02235460-948f-11f1-9ade-bb7c8a2b6bc0.jpg"/>
     </item>
     <item>
       <title><![CDATA[Parkinson withdraws from England Under-20 camp]]></title>
@@ -168,6 +184,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2589/live/f2091d60-94ae-11f1-a7ab-8b30adf0800a.png"/>
     </item>
     <item>
+      <title><![CDATA[Who am I? Guess Premier League star No 21]]></title>
+      <description><![CDATA[Work out the identity of today's player in as few attempts as possible.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c74gzej20xpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c74gzej20xpo</guid>
+      <pubDate>Mon, 10 Aug 2026 05:38:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbc4/live/8fe12a80-85b1-11f1-926f-c90d1bcfbc84.png"/>
+    </item>
+    <item>
       <title><![CDATA[Rangers chairman expects up to five more signings]]></title>
       <description><![CDATA[Rangers chairman Andrew Cavanagh is frustrated with the start to the season but expects three to five more signings before the transfer window closes.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c62e5rp68ero?at_medium=RSS&amp;at_campaign=rss</link>
@@ -182,14 +206,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4g36zdrq2lo</guid>
       <pubDate>Mon, 10 Aug 2026 12:45:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e60/live/34f7ea10-94b5-11f1-afe9-fb1a837ec5d9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Who am I? Guess Premier League star No 21]]></title>
-      <description><![CDATA[Work out the identity of today's player in as few attempts as possible.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c74gzej20xpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c74gzej20xpo</guid>
-      <pubDate>Mon, 10 Aug 2026 05:38:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbc4/live/8fe12a80-85b1-11f1-926f-c90d1bcfbc84.png"/>
     </item>
     <item>
       <title><![CDATA[SWPL player drain a problem or positive?]]></title>
@@ -216,22 +232,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d39f/live/c0bbd8b0-91cf-11f1-abbf-613e9d231927.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Guimaraes can ignite something different in us - Arteta ]]></title>
-      <description><![CDATA[Mikel Arteta said the signing of Bruno Guimaraes will "ignite something different" in Arsenal and hinted that the Gunners are not done with their summer transfer activity. ]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c629ggx45d3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c629ggx45d3o</guid>
-      <pubDate>Sun, 09 Aug 2026 19:27:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c07c/live/5eccc9b0-94a5-11f1-afe9-fb1a837ec5d9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Mudryk's emotional return and 'leader' Palmer - inside Chelsea's pre-season]]></title>
-      <description><![CDATA[Chelsea's pre-season campaign was all about new manager Xabi Alonso, so what have we learned about his side?]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o</guid>
-      <pubDate>Sun, 09 Aug 2026 19:41:04 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b3/live/199ae2a0-9261-11f1-b9ff-37ae3aba3894.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Swap agreed for Everton's McNeil and Palace's Johnson]]></title>
       <description><![CDATA[Everton and Crystal Palace agree a swap deal that will involve Toffees' winger Dwight McNeil joining the Eagles and Wales international Brennan Johnson moving in the opposite direction.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -246,6 +246,22 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5ywqxvgzl0o</guid>
       <pubDate>Mon, 10 Aug 2026 03:47:50 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0b1/live/a919e380-90e6-11f1-9d9d-b9b73beaa905.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Guimaraes can ignite something different in us - Arteta ]]></title>
+      <description><![CDATA[Mikel Arteta said the signing of Bruno Guimaraes will "ignite something different" in Arsenal and hinted that the Gunners are not done with their summer transfer activity. ]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c629ggx45d3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c629ggx45d3o</guid>
+      <pubDate>Sun, 09 Aug 2026 19:27:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c07c/live/5eccc9b0-94a5-11f1-afe9-fb1a837ec5d9.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Mudryk's emotional return and 'leader' Palmer - inside Chelsea's pre-season]]></title>
+      <description><![CDATA[Chelsea's pre-season campaign was all about new manager Xabi Alonso, so what have we learned about his side?]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o</guid>
+      <pubDate>Sun, 09 Aug 2026 19:41:04 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b3/live/199ae2a0-9261-11f1-b9ff-37ae3aba3894.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wrexham closing in on Sunderland's Patterson]]></title>
@@ -272,12 +288,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdfe/live/50e65800-90a6-11f1-b8ee-9b3c26ad07bb.png"/>
     </item>
     <item>
-      <title><![CDATA['Celtic fans are going to fall in love with him' - Hogh makes his mark]]></title>
-      <description><![CDATA[Kasper Hogh earns rave reviews after his first goals - and first hat-trick - for Celtic in Saturday's 5-1 thrashing of Kilmarnock.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cevm77lg27yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cevm77lg27yo</guid>
-      <pubDate>Sun, 09 Aug 2026 19:43:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a1/live/56e5bbc0-9410-11f1-bc11-d9696db7ebba.jpg"/>
+      <title><![CDATA[Nigeria 'still have hope' for 2027 World Cup spot]]></title>
+      <description><![CDATA[Nigeria must go "back to the drawing board" after missing out on automatic qualification for the 2027 Women's World Cup, says keeper Chiamaka Nnadozie.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cg4d0qd33gwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cg4d0qd33gwo</guid>
+      <pubDate>Mon, 10 Aug 2026 12:28:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b5a/live/65d7fc30-94ae-11f1-afe9-fb1a837ec5d9.jpg"/>
     </item>
     <item>
       <title><![CDATA[Villa interested in Endrick loan - Monday's gossip]]></title>
@@ -288,12 +304,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9cc/live/e1f92300-9433-11f1-b2ab-0dd01740f9f6.png"/>
     </item>
     <item>
-      <title><![CDATA[Nigeria 'still have hope' for 2027 World Cup spot]]></title>
-      <description><![CDATA[Nigeria must go "back to the drawing board" after missing out on automatic qualification for the 2027 Women's World Cup, says keeper Chiamaka Nnadozie.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cg4d0qd33gwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cg4d0qd33gwo</guid>
-      <pubDate>Mon, 10 Aug 2026 12:28:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b5a/live/65d7fc30-94ae-11f1-afe9-fb1a837ec5d9.jpg"/>
+      <title><![CDATA['Celtic fans are going to fall in love with him' - Hogh makes his mark]]></title>
+      <description><![CDATA[Kasper Hogh earns rave reviews after his first goals - and first hat-trick - for Celtic in Saturday's 5-1 thrashing of Kilmarnock.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cevm77lg27yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cevm77lg27yo</guid>
+      <pubDate>Sun, 09 Aug 2026 19:43:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5a1/live/56e5bbc0-9410-11f1-bc11-d9696db7ebba.jpg"/>
     </item>
     <item>
       <title><![CDATA[We cannot sustain the level we want - Iraola]]></title>
@@ -318,22 +334,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cn4n884vr4mo</guid>
       <pubDate>Sun, 09 Aug 2026 17:55:36 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92de/live/c86cc1e0-9419-11f1-b17e-d707629ede06.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Fulham agree £30m fee for Southampton's Charles]]></title>
-      <description><![CDATA[Fulham agree a deal worth up to £30m for Southampton midfielder Shea Charles, subject to a medical.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o</guid>
-      <pubDate>Sun, 09 Aug 2026 13:10:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906c/live/4ef88fb0-93f1-11f1-bd38-f1deaeb1a5de.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[New season, new boss - will Alexander-Arnold be key figure at Real Madrid?]]></title>
-      <description><![CDATA[Trent Alexander-Arnold faces a defining second season at Real Madrid as he looks to prove his worth under Jose Mourinho.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o</guid>
-      <pubDate>Sun, 09 Aug 2026 05:18:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/746c/live/6fd77660-9270-11f1-be40-e93959facbbc.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cymru Premier games to be shown live by BBC Wales]]></title>
@@ -416,14 +416,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00c4/live/0a7e5940-9244-11f1-a7ab-8b30adf0800a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[When is the EFL Cup second-round draw?]]></title>
-      <description><![CDATA[The second-round draw of the EFL Cup takes place on Monday, with 11 Premier League teams entering the competition.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo</guid>
-      <pubDate>Mon, 10 Aug 2026 17:47:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52db/live/6caf75b0-9260-11f1-a7ab-8b30adf0800a.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Does World Cup third place play-off count towards Golden Boot?]]></title>
       <description><![CDATA[BBC Sport's Ask Me Anything team looks into the history of World Cup Golden Boot winners and the third-place play-off]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cn8nl41xr59o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -446,6 +438,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd0m840p7d1o</guid>
       <pubDate>Thu, 09 Jul 2026 17:04:26 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d3/live/7dfe1b00-7bb8-11f1-9510-1546718f668b.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[When is the EFL Cup second-round draw?]]></title>
+      <description><![CDATA[The second-round draw of the EFL Cup takes place on Monday, with 11 Premier League teams entering the competition.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo</guid>
+      <pubDate>Mon, 10 Aug 2026 17:47:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52db/live/6caf75b0-9260-11f1-a7ab-8b30adf0800a.jpg"/>
     </item>
     <item>
       <title><![CDATA[McInnes left frustrated amid Rangers' poor start to season]]></title>
