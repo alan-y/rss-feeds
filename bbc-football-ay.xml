@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 20:40:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 21:32:00 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -30,14 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cedje42vgwjo</guid>
       <pubDate>Tue, 11 Aug 2026 18:10:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebe/live/2f830390-959f-11f1-a036-eb7cd99c5268.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The map showing world's division over Infantino]]></title>
-      <description><![CDATA[BBC Sport uses visuals to explore the support and opposition to Gianni Infantino's leadership of Fifa from its members.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c0l5e18063lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c0l5e18063lo</guid>
-      <pubDate>Tue, 11 Aug 2026 11:02:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f85/live/1eb1a3e0-94f6-11f1-9181-85140b8ce01b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Unhappy PSG given extra Super Cup dressing room]]></title>
@@ -78,6 +70,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c7vgj826nnjo</guid>
       <pubDate>Tue, 11 Aug 2026 09:42:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b214/live/00ae7ab0-956b-11f1-8b14-5d44448d174a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Coventry eye Mudryk on loan - Wednesday's gossip]]></title>
+      <description><![CDATA[Coventry City interested in signing Chelsea winger Mykhaylo Mudryk on loan, Barcelona still chasing Manchester City midfielder Rodri and Manchester United make a move for Real Madrid striker Endrick.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cy5d127gv0go?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy5d127gv0go</guid>
+      <pubDate>Tue, 11 Aug 2026 21:16:52 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f5/live/3e046f50-95c5-11f1-b2ab-0dd01740f9f6.png"/>
     </item>
     <item>
       <title><![CDATA[Mount set to miss Man Utd's Dublin game with Leeds]]></title>
@@ -240,20 +240,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77b0/live/dd052be0-9597-11f1-863d-591d6d16ad3c.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Who am I? Guess Premier League star No 22]]></title>
-      <description><![CDATA[Work out the identity of today's player in as few attempts as possible.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cnvnmgzr65vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cnvnmgzr65vo</guid>
-      <pubDate>Tue, 11 Aug 2026 05:42:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0021/live/38d854d0-859c-11f1-926f-c90d1bcfbc84.png"/>
-    </item>
-    <item>
       <title><![CDATA[Chelsea face Sociedad in Champions League qualifying]]></title>
       <description><![CDATA[Chelsea will face Spanish side Real Sociedad in the Women's Champions League third qualifying round, with the first leg of the tie on 26 August.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cdrvm27rel0o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cdrvm27rel0o</guid>
       <pubDate>Tue, 11 Aug 2026 11:35:40 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ffb/live/f1b17f10-9580-11f1-8636-978a48bd79b6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who am I? Guess Premier League star No 22]]></title>
+      <description><![CDATA[Work out the identity of today's player in as few attempts as possible.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cnvnmgzr65vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cnvnmgzr65vo</guid>
+      <pubDate>Tue, 11 Aug 2026 05:42:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0021/live/38d854d0-859c-11f1-926f-c90d1bcfbc84.png"/>
     </item>
     <item>
       <title><![CDATA[Fulham sign Charles from Southampton for £30m]]></title>
@@ -280,12 +280,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/380b/live/1aca2350-9560-11f1-870d-5d08c49babb2.png"/>
     </item>
     <item>
-      <title><![CDATA[Man City close in on Bouaddi - Tuesday's gossip]]></title>
-      <description><![CDATA[Manchester City on the verge of signing Ayyoub Bouaddi, Serie A interest in Arsenal duo Gabriel Jesus and Gabriel Martinelli plus Harry Kane a target for Barcelona and Tottenham. ]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cre417w85reo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cre417w85reo</guid>
-      <pubDate>Mon, 10 Aug 2026 20:30:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d362/live/c4a20390-94f0-11f1-b2ab-0dd01740f9f6.png"/>
+      <title><![CDATA[Walker's 'hangover' warning as Burnley chase fast start]]></title>
+      <description><![CDATA[Burnley defender Kyle Walker warns his team-mates they cannot "have a hangover" as they target an immediate Premier League return.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cqx7ldvyd8do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx7ldvyd8do</guid>
+      <pubDate>Tue, 11 Aug 2026 12:06:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9635/live/395f3460-957c-11f1-8636-978a48bd79b6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why has Araujo joined Liverpool and where did it go wrong at Barcelona?]]></title>
@@ -294,14 +294,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gx5w7egvwo</guid>
       <pubDate>Mon, 10 Aug 2026 18:11:48 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f7/live/2cb4c400-9581-11f1-8636-978a48bd79b6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Walker's 'hangover' warning as Burnley chase fast start]]></title>
-      <description><![CDATA[Burnley defender Kyle Walker warns his team-mates they cannot "have a hangover" as they target an immediate Premier League return.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cqx7ldvyd8do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqx7ldvyd8do</guid>
-      <pubDate>Tue, 11 Aug 2026 12:06:26 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9635/live/395f3460-957c-11f1-8636-978a48bd79b6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Forest owner Marinakis sues Palace over gun banner]]></title>
@@ -354,12 +346,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50e9/live/87c78880-943e-11f1-a8a3-b1b5a1a29840.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Will summit encourage Scottish clubs to give youth a chance?]]></title>
-      <description><![CDATA[Finding a balance between the national interest and self-interest of clubs will be a challenge when it comes to how best to nurture Scottish talent, writes Tom English.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/ce3q52njxv0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ce3q52njxv0o</guid>
-      <pubDate>Mon, 10 Aug 2026 15:14:04 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d882/live/885d2bd0-94cd-11f1-8189-057951e10a11.jpg"/>
+      <title><![CDATA[SWPL player drain a problem or positive?]]></title>
+      <description><![CDATA[Players flocking to ply their trade in England can still be a positive for women's football in Scotland, insists SWPL managing director Fiona McIntyre.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/clyj0kg9jjdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/clyj0kg9jjdo</guid>
+      <pubDate>Mon, 10 Aug 2026 16:48:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec7a/live/e9edb5c0-94d9-11f1-870d-5d08c49babb2.png"/>
     </item>
     <item>
       <title><![CDATA[What are your favourite new kits for the coming season?]]></title>
@@ -482,20 +474,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d106/live/c7cf06f0-94f8-11f1-9181-85140b8ce01b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Can SFA summit encourage clubs to give youth a chance?]]></title>
+      <description><![CDATA[Finding a balance between the national interest and self-interest of clubs will be a challenge when it comes to how best to nurture Scottish talent, writes Tom English.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/ce3q52njxv0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ce3q52njxv0o</guid>
+      <pubDate>Mon, 10 Aug 2026 15:14:04 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d882/live/885d2bd0-94cd-11f1-8189-057951e10a11.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Parkinson withdraws from England Under-20 camp]]></title>
       <description><![CDATA[Teenager Erica Meg Parkinson withdraws from England's training camp before the Under-20 Women's World Cup in Poland next month.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cd0xk2n23ymo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd0xk2n23ymo</guid>
       <pubDate>Mon, 10 Aug 2026 16:53:54 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61f7/live/599b3350-90e5-11f1-bad1-37f8e0c246e3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[SWPL player drain a problem or positive?]]></title>
-      <description><![CDATA[Players flocking to ply their trade in England can still be a positive for women's football in Scotland, insists SWPL managing director Fiona McIntyre.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/clyj0kg9jjdo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/clyj0kg9jjdo</guid>
-      <pubDate>Mon, 10 Aug 2026 16:48:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec7a/live/e9edb5c0-94d9-11f1-870d-5d08c49babb2.png"/>
     </item>
     <item>
       <title><![CDATA[Nobbs says promotion would be 'job done' in career]]></title>
