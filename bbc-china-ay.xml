@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 03:22:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 04:52:53 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -40,14 +40,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60dd/live/9a103bd0-91fb-11f1-952a-e58ebd1358f8.jpg"/>
     </item>
     <item>
-      <title><![CDATA[The Chinese robot army transforming the UK's retail industry]]></title>
-      <description><![CDATA[Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms. ]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0jl8v23qwgo</guid>
-      <pubDate>Wed, 29 Jul 2026 22:08:29 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ad/live/c412f1a0-8708-11f1-94fc-011b42f226be.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Trump administration bans new Chinese humanoid robots]]></title>
       <description><![CDATA[The US and China are locked in a race to the lead the world in robotics and artificial intelligence.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -62,6 +54,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx27mjvxgg1o</guid>
       <pubDate>Mon, 27 Jul 2026 22:07:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20fe/live/61704590-8666-11f1-93cb-95d7eb12ec49.png"/>
+    </item>
+    <item>
+      <title><![CDATA[The Chinese robot army transforming the UK's retail industry]]></title>
+      <description><![CDATA[Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms. ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0jl8v23qwgo</guid>
+      <pubDate>Wed, 29 Jul 2026 22:08:29 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ad/live/c412f1a0-8708-11f1-94fc-011b42f226be.jpg"/>
     </item>
     <item>
       <title><![CDATA[Blocked by censors, China's animal lovers take fight against abuse offline and overseas]]></title>
@@ -86,14 +86,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cd959q11g54o</guid>
       <pubDate>Wed, 15 Jul 2026 17:02:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c14/live/40b48570-801f-11f1-9317-f3c8d3f68726.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['The water just came so fast': Typhoon triggers floods and rare tornadoes in China]]></title>
-      <description><![CDATA[Villagers whose families have been stranded told the BBC they are struggling to get food and help.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c79ygnv9e93o</guid>
-      <pubDate>Wed, 08 Jul 2026 00:49:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c16e/live/c1b8aea0-79ba-11f1-8257-1765759c449e.jpg"/>
     </item>
   </channel>
 </rss>
