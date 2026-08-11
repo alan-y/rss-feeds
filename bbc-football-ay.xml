@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 16:33:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 17:35:27 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -72,14 +72,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccd/live/cfebe100-9584-11f1-8636-978a48bd79b6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Why do teams choose not to disclose transfer fees?]]></title>
-      <description><![CDATA[Our Ask Me Anything team explain why some player transfer fees are undisclosed, plus more of your transfer window questions.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cy0j1284e47o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy0j1284e47o</guid>
-      <pubDate>Tue, 11 Aug 2026 14:54:32 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e41c/live/29f9e160-958f-11f1-a7ab-8b30adf0800a.png"/>
-    </item>
-    <item>
       <title><![CDATA[Forest sign Sporting's Ivory Coast defender Diomande]]></title>
       <description><![CDATA[Nottingham Forest sign Ivory Coast defender Ousmane Diomande from Portuguese club Sporting for a reported £34m.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c70g5539dygo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -94,14 +86,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cn5n3rl0p0ko</guid>
       <pubDate>Tue, 11 Aug 2026 11:36:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75be/live/fcee1ec0-94a3-11f1-870d-5d08c49babb2.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Rangers' Chermiti out for 'significant period' with knee injury]]></title>
-      <description><![CDATA[Youssef Chermiti faces a long recovery from anterior cruciate ligament damage sustained shortly after Rangers turned down an offer for the striker.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cwyrkkk1kzqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwyrkkk1kzqo</guid>
-      <pubDate>Tue, 11 Aug 2026 12:22:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/315d/live/c0c401f0-9433-11f1-ad46-afcadea0bd12.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hibs stun Rangers with dramatic late winner]]></title>
@@ -144,12 +128,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7161/live/b7e91bd0-92a6-11f1-a7ab-8b30adf0800a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Rangers' Chermiti out for 'significant period' with knee injury]]></title>
+      <description><![CDATA[Youssef Chermiti faces a long recovery from anterior cruciate ligament damage sustained shortly after Rangers turned down an offer for the striker.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cwyrkkk1kzqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwyrkkk1kzqo</guid>
+      <pubDate>Tue, 11 Aug 2026 12:22:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/315d/live/c0c401f0-9433-11f1-ad46-afcadea0bd12.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Bath in 'serious discussions' to play rugby matches at Reading]]></title>
       <description><![CDATA[Reading owner Rob Couhig says the club have had "serious discussions" with Bath about the Prem Rugby club playing at their stadium.]]></description>
       <link>https://www.bbc.co.uk/sport/rugby-union/articles/cx2jrge11rwo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/cx2jrge11rwo</guid>
       <pubDate>Tue, 11 Aug 2026 11:50:02 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7607/live/ab7b3840-9569-11f1-8b14-5d44448d174a.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Why do teams choose not to disclose transfer fees?]]></title>
+      <description><![CDATA[Our Ask Me Anything team explain why some player transfer fees are undisclosed, plus more of your transfer window questions.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cy0j1284e47o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy0j1284e47o</guid>
+      <pubDate>Tue, 11 Aug 2026 14:54:32 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e41c/live/29f9e160-958f-11f1-a7ab-8b30adf0800a.png"/>
     </item>
     <item>
       <title><![CDATA[Are Man Utd judged differently to other WSL sides?]]></title>
@@ -200,12 +200,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ac/live/8715fad0-842f-11f1-8db9-6b4471749e2a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Who is prospective new Celtic signing Hassan?]]></title>
+      <description><![CDATA[BBC Scotland takes a look at Egypt winger Haissem Hassan, who seems poised for a move to Scottish champions Celtic.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c980kg4xnxeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c980kg4xnxeo</guid>
+      <pubDate>Tue, 11 Aug 2026 16:08:58 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1bc/live/6f37ffd0-9596-11f1-af19-5b895ed53d0f.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Wrexham sign Sunderland goalkeeper Patterson]]></title>
       <description><![CDATA[Goalkeeper Anthony Patterson leaves Sunderland to join Championship side Wrexham.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cx256kz7nkko?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx256kz7nkko</guid>
       <pubDate>Tue, 11 Aug 2026 15:30:53 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77b0/live/dd052be0-9597-11f1-863d-591d6d16ad3c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who am I? Guess Premier League star No 22]]></title>
+      <description><![CDATA[Work out the identity of today's player in as few attempts as possible.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cnvnmgzr65vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cnvnmgzr65vo</guid>
+      <pubDate>Tue, 11 Aug 2026 05:42:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0021/live/38d854d0-859c-11f1-926f-c90d1bcfbc84.png"/>
     </item>
     <item>
       <title><![CDATA[Chelsea face Sociedad in Champions League qualifying]]></title>
@@ -224,22 +240,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ca3/live/a29bad60-9580-11f1-a7ab-8b30adf0800a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Who am I? Guess Premier League star No 22]]></title>
-      <description><![CDATA[Work out the identity of today's player in as few attempts as possible.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cnvnmgzr65vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cnvnmgzr65vo</guid>
-      <pubDate>Tue, 11 Aug 2026 05:42:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0021/live/38d854d0-859c-11f1-926f-c90d1bcfbc84.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Man City close in on Bouaddi - Tuesday's gossip]]></title>
-      <description><![CDATA[Manchester City on the verge of signing Ayyoub Bouaddi, Serie A interest in Arsenal duo Gabriel Jesus and Gabriel Martinelli plus Harry Kane a target for Barcelona and Tottenham. ]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cre417w85reo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cre417w85reo</guid>
-      <pubDate>Mon, 10 Aug 2026 20:30:44 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d362/live/c4a20390-94f0-11f1-b2ab-0dd01740f9f6.png"/>
-    </item>
-    <item>
       <title><![CDATA[Fulham sign Charles from Southampton for £30m]]></title>
       <description><![CDATA[Fulham confirm the signing of Southampton midfielder Shea Charles in a deal worth up to £30m.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -254,6 +254,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm2g9yvd1neo</guid>
       <pubDate>Tue, 11 Aug 2026 09:00:30 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/380b/live/1aca2350-9560-11f1-870d-5d08c49babb2.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Man City close in on Bouaddi - Tuesday's gossip]]></title>
+      <description><![CDATA[Manchester City on the verge of signing Ayyoub Bouaddi, Serie A interest in Arsenal duo Gabriel Jesus and Gabriel Martinelli plus Harry Kane a target for Barcelona and Tottenham. ]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cre417w85reo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cre417w85reo</guid>
+      <pubDate>Mon, 10 Aug 2026 20:30:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d362/live/c4a20390-94f0-11f1-b2ab-0dd01740f9f6.png"/>
     </item>
     <item>
       <title><![CDATA[Why has Araujo joined Liverpool and where did it go wrong at Barcelona?]]></title>
@@ -272,14 +280,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9635/live/395f3460-957c-11f1-8636-978a48bd79b6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Who could Arsenal sign after missing out on Vinicius Jr? ]]></title>
-      <description><![CDATA[One big signing missed, but one big signing through the doors - it's been a mixed transfer window for Arsenal.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno</guid>
-      <pubDate>Mon, 10 Aug 2026 20:32:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ffc/live/bda591f0-9546-11f1-b2ab-0dd01740f9f6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Forest owner Marinakis sues Palace over gun banner]]></title>
       <description><![CDATA[Evangelos Marinakis is suing Crystal Palace for a banner unfurled by their fans depicting the Nottingham Forest owner holding a gun to midfielder Morgan Gibbs-White's head.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/czjlwe90py7o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -294,6 +294,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvg90n3dvd5o</guid>
       <pubDate>Mon, 10 Aug 2026 22:00:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e191/live/c5ee25e0-94e0-11f1-8d2f-451ff8544cca.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who could Arsenal sign after missing out on Vinicius Jr? ]]></title>
+      <description><![CDATA[One big signing missed, but one big signing through the doors - it's been a mixed transfer window for Arsenal.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno</guid>
+      <pubDate>Mon, 10 Aug 2026 20:32:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ffc/live/bda591f0-9546-11f1-b2ab-0dd01740f9f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Forest to host Leeds in EFL Cup - second-round draw in full]]></title>
@@ -314,14 +322,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d406/live/89d1d100-94fa-11f1-9181-85140b8ce01b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Consortium including Bezos advances talks for Liverpool stake]]></title>
-      <description><![CDATA[A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo</guid>
-      <pubDate>Mon, 10 Aug 2026 13:16:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf9e/live/650f8d00-94b7-11f1-a7ab-8b30adf0800a.png"/>
-    </item>
-    <item>
       <title><![CDATA[Championship all-stars to global gamble - will Ipswich's approach work?]]></title>
       <description><![CDATA[As Ipswich prepare for their return to the Premier League, BBC Sport look at how they are approaching the transfer market differently.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cx2lexp9qjxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -336,22 +336,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ce3q52njxv0o</guid>
       <pubDate>Mon, 10 Aug 2026 15:14:04 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d882/live/885d2bd0-94cd-11f1-8189-057951e10a11.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Villa in talks to sign Bayern's Palhinha]]></title>
-      <description><![CDATA[Aston Villa are in talks over a move for Bayern Munich midfielder Joao Palhinha.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c1m1krdjk4no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c1m1krdjk4no</guid>
-      <pubDate>Mon, 10 Aug 2026 15:40:18 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc28/live/c0d42090-94cd-11f1-8189-057951e10a11.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Derby 'off market' as takeover deal collapses]]></title>
-      <description><![CDATA[Saudi Arabia government official Turki Alalshikh abandons his proposed takeover of Championship club Derby County.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cm2gk7l7yl7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cm2gk7l7yl7o</guid>
-      <pubDate>Mon, 10 Aug 2026 16:51:34 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3144/live/4f65b840-94d4-11f1-8a9a-13c674e4e5fe.jpg"/>
     </item>
     <item>
       <title><![CDATA[What are your favourite new kits for the coming season?]]></title>
@@ -456,14 +440,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo</guid>
       <pubDate>Mon, 10 Aug 2026 17:47:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52db/live/6caf75b0-9260-11f1-a7ab-8b30adf0800a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Who is prospective new Celtic signing Hassan?]]></title>
-      <description><![CDATA[BBC Scotland takes a look at Egypt winger Haissem Hassan, who seems poised for a move to Scottish champions Celtic.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c980kg4xnxeo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c980kg4xnxeo</guid>
-      <pubDate>Tue, 11 Aug 2026 16:08:58 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1bc/live/6f37ffd0-9596-11f1-af19-5b895ed53d0f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Rangers agree £6.5m deal for PSV's Driouech - gossip]]></title>
