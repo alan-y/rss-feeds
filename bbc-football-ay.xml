@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 15:56:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 16:22:14 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -56,14 +56,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dac3/live/07444830-97bb-11f1-870d-5d08c49babb2.png"/>
     </item>
     <item>
-      <title><![CDATA[Ex-tennis player Bautista Agut scores on football debut]]></title>
-      <description><![CDATA[Roberto Bautista Agut scores twice on his debut for Spanish seventh-tier side CD Els Ibarsos - just over a month after retiring from tennis.]]></description>
-      <link>https://www.bbc.co.uk/sport/articles/c0jllp431qqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/c0jllp431qqo</guid>
-      <pubDate>Sat, 15 Aug 2026 13:07:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b94/live/b8c99dd0-98a6-11f1-9d70-ef365dc3a762.png"/>
-    </item>
-    <item>
       <title><![CDATA[Carrick pushing to improve the squad this summer]]></title>
       <description><![CDATA[Ahead of his first full Premier League campaign in charge at Old Trafford, Carrick feels the squad is making good progress.]]></description>
       <link>https://www.bbc.co.uk/sport/football/videos/c4g3vg077vpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -104,20 +96,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c2/live/d2549200-9694-11f1-870d-5d08c49babb2.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Newcastle change shirts during first half of friendly]]></title>
+      <description><![CDATA[Newcastle United change shirts in the first half of their pre-season friendly against Bayer Leverkusen.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cd9wwny25z4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd9wwny25z4o</guid>
+      <pubDate>Sat, 15 Aug 2026 16:03:59 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a098/live/9f49e940-98c0-11f1-baa7-c1f421a55365.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ex-tennis player Bautista Agut scores on football debut]]></title>
+      <description><![CDATA[Roberto Bautista Agut scores twice on his debut for Spanish seventh-tier side CD Els Ibarsos - just over a month after retiring from tennis.]]></description>
+      <link>https://www.bbc.co.uk/sport/articles/c0jllp431qqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/c0jllp431qqo</guid>
+      <pubDate>Sat, 15 Aug 2026 13:07:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b94/live/b8c99dd0-98a6-11f1-9d70-ef365dc3a762.png"/>
+    </item>
+    <item>
       <title><![CDATA['This is the right one' - Rohl on leaving Rangers for Salzburg]]></title>
       <description><![CDATA[Danny Rohl explains why he left Rangers for Red Bull Salzburg - where he hopes to win trophies and help develop young players. ]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cj9dpvwl1nmo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj9dpvwl1nmo</guid>
       <pubDate>Sat, 15 Aug 2026 06:19:19 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cab7/live/0e7a72c0-97fa-11f1-9577-b1309b6ea3af.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hull sign Gelhardt and Gourna-Douath ]]></title>
-      <description><![CDATA[Hull City sign English forward Joe Gelhardt from Leeds and French midfielder Lucas Gourna-Douath from Red Bull Salzburg for undisclosed fees.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cvg8qgg7qg1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvg8qgg7qg1o</guid>
-      <pubDate>Sat, 15 Aug 2026 12:03:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0046/live/e5c49ba0-98a1-11f1-870d-5d08c49babb2.png"/>
     </item>
     <item>
       <title><![CDATA[Palace sign Khalaili from Union Saint-Gilloise]]></title>
@@ -128,14 +128,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/532e/live/320cfba0-9885-11f1-bace-fdc643e9157b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Who am I? Guess Premier League star No 26]]></title>
-      <description><![CDATA[Work out the identity of today's player in as few attempts as possible.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/czrjyxn7mn4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/czrjyxn7mn4o</guid>
-      <pubDate>Sat, 15 Aug 2026 06:44:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f47e/live/2e0294b0-85b2-11f1-bee8-53ce494e1abc.png"/>
-    </item>
-    <item>
       <title><![CDATA[No player bigger than a club - is that changing for some fans?]]></title>
       <description><![CDATA[From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigger draw than clubs for young fans?]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cn8ner50zdno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -144,12 +136,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dc2/live/6d005e60-926c-11f1-9f0c-8d4ddef91df6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Arsenal lead Hinshelwood race - Saturday's gossip]]></title>
-      <description><![CDATA[Arsenal lead race for Jack Hinshelwood, Barcelona set to make third Rodri bid, Manchester United and Tottenham join Arsenal in discussing Victor Osimhen, plus more.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c80n2g2x0g7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c80n2g2x0g7o</guid>
-      <pubDate>Fri, 14 Aug 2026 21:14:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ae/live/71e00c00-9820-11f1-b2ab-0dd01740f9f6.png"/>
+      <title><![CDATA[Hull sign Gelhardt and Gourna-Douath ]]></title>
+      <description><![CDATA[Hull City sign English forward Joe Gelhardt from Leeds and French midfielder Lucas Gourna-Douath from Red Bull Salzburg for undisclosed fees.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cvg8qgg7qg1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvg8qgg7qg1o</guid>
+      <pubDate>Sat, 15 Aug 2026 12:03:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0046/live/e5c49ba0-98a1-11f1-870d-5d08c49babb2.png"/>
     </item>
     <item>
       <title><![CDATA[VAR, timewasting and subs - new rules for the new season]]></title>
@@ -160,12 +152,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b11/live/96fea260-6582-11f1-b1db-af71d47507d6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Bezos-backed consortium buys a third of Liverpool]]></title>
-      <description><![CDATA[Liverpool's owners agree to sell about a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af44/live/70cbf600-9585-11f1-8636-978a48bd79b6.jpg"/>
+      <title><![CDATA[Who am I? Guess Premier League star No 26]]></title>
+      <description><![CDATA[Work out the identity of today's player in as few attempts as possible.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/czrjyxn7mn4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/czrjyxn7mn4o</guid>
+      <pubDate>Sat, 15 Aug 2026 06:44:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f47e/live/2e0294b0-85b2-11f1-bee8-53ce494e1abc.png"/>
     </item>
     <item>
       <title><![CDATA[Who to pick, who to avoid - your team's FPL assets analysed]]></title>
@@ -176,6 +168,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/908e/live/aab70ec0-9636-11f1-acde-358da1a6646b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Fine-tuning and a clear target - Wrexham's season aim]]></title>
+      <description><![CDATA[Wrexham aim for the coming campaign clear after they narrowly missed out on a Championship play-off spot last season.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cy8m14gz4ldo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy8m14gz4ldo</guid>
+      <pubDate>Sat, 15 Aug 2026 09:15:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91d5/live/abf50060-949e-11f1-870d-5d08c49babb2.png"/>
+    </item>
+    <item>
       <title><![CDATA[Arteta not worried about Arsenal contract talks]]></title>
       <description><![CDATA[Mikel Arteta says supporters "don't have to worry about" his future at Arsenal as he wants to extend his contract and the time left on his deal is "not an issue".]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cp3r6qgve4no?at_medium=RSS&amp;at_campaign=rss</link>
@@ -184,12 +184,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/528a/live/77286200-97eb-11f1-a655-8fe1097dfbd0.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Fine-tuning and a clear target - Wrexham's season aim]]></title>
-      <description><![CDATA[Wrexham aim for the coming campaign clear after they narrowly missed out on a Championship play-off spot last season.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cy8m14gz4ldo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy8m14gz4ldo</guid>
-      <pubDate>Sat, 15 Aug 2026 09:15:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91d5/live/abf50060-949e-11f1-870d-5d08c49babb2.png"/>
+      <title><![CDATA[Bezos-backed consortium buys a third of Liverpool]]></title>
+      <description><![CDATA[Liverpool's owners agree to sell about a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo</guid>
+      <pubDate>Fri, 14 Aug 2026 16:00:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af44/live/70cbf600-9585-11f1-8636-978a48bd79b6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Arsenal lead Hinshelwood race - Saturday's gossip]]></title>
+      <description><![CDATA[Arsenal lead race for Jack Hinshelwood, Barcelona set to make third Rodri bid, Manchester United and Tottenham join Arsenal in discussing Victor Osimhen, plus more.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c80n2g2x0g7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c80n2g2x0g7o</guid>
+      <pubDate>Fri, 14 Aug 2026 21:14:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ae/live/71e00c00-9820-11f1-b2ab-0dd01740f9f6.png"/>
     </item>
     <item>
       <title><![CDATA[Why Michaely Bihina is the keeper making waves at Wafcon]]></title>
@@ -216,6 +224,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6210/live/c4f34450-97c3-11f1-97a6-b387157e78db.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Burnley drop shirt sponsor after 42 days]]></title>
+      <description><![CDATA[Burnley drop their shirt sponsor just two days before their opening Championship match against West Ham - and only 42 days after signing the deal.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c3r0yv8ygzvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3r0yv8ygzvo</guid>
+      <pubDate>Fri, 14 Aug 2026 16:20:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff2/live/a5bf2290-97f3-11f1-8170-33f7e8571fbe.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[The key stats as Chelsea look to go from 10th to the title again]]></title>
       <description><![CDATA[With a new manager at the helm in Xabi Alonso, can Chelsea go from 10th to the Premier League title like they did a decade ago?]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cwyr2zez9q2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -232,36 +248,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d1b/live/87ca5c40-97ef-11f1-9bd9-d1c2814d5e5d.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Arsenal express interest in signing Quansah]]></title>
-      <description><![CDATA[Arsenal express an interest in signing Bayer Leverkusen and England defender Jarell Quansah.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c9q92xr0854o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9q92xr0854o</guid>
-      <pubDate>Fri, 14 Aug 2026 10:35:26 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c9c/live/3cbc6190-97cb-11f1-a927-0dfab640b8c9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Burnley drop shirt sponsor after 42 days]]></title>
-      <description><![CDATA[Burnley drop their shirt sponsor just two days before their opening Championship match against West Ham - and only 42 days after signing the deal.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c3r0yv8ygzvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3r0yv8ygzvo</guid>
-      <pubDate>Fri, 14 Aug 2026 16:20:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff2/live/a5bf2290-97f3-11f1-8170-33f7e8571fbe.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[What's going wrong for Rangers and McInnes?]]></title>
       <description><![CDATA[After Rangers' Europa League qualifying defeat by Jagellonia Bialystok, what is going wrong for new manager Derek McInnes and his side so far this season?]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cly8w7wm9v8o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cly8w7wm9v8o</guid>
       <pubDate>Thu, 13 Aug 2026 23:43:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4392/live/288a7220-976c-11f1-8f14-db85ab2bc00f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Cardiff secure return of Liverpool loanee Scanlon]]></title>
-      <description><![CDATA[Liverpool defender Calum Scanlon is back for a second spell with Cardiff City for the 2026-27 Championship season.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cd69e18glyvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd69e18glyvo</guid>
-      <pubDate>Sat, 15 Aug 2026 11:09:18 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9504/live/9366b060-988c-11f1-870d-5d08c49babb2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Free agent Sancho favours move abroad]]></title>
@@ -280,20 +272,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cec/live/dc8cf2b0-9718-11f1-bb91-6bb44c42ed47.jpg"/>
     </item>
     <item>
-      <title><![CDATA[EFL says losses not sustainable after PFA legal action]]></title>
-      <description><![CDATA[The level of losses in football creates "a systemic insolvency risk" for the pyramid, says EFL chief executive Trevor Birch.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c0m7yl78mjmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c0m7yl78mjmo</guid>
-      <pubDate>Fri, 14 Aug 2026 13:01:53 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/560c/live/a8c6edb0-97da-11f1-bb4c-d758974ed97b.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Burnley sign Chelsea's Satpayev on loan]]></title>
       <description><![CDATA[Chelsea's new teenage winger Dastan Satpayev joins Championship club Burnley on a season's loan.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c1w1y95305no?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c1w1y95305no</guid>
       <pubDate>Fri, 14 Aug 2026 19:49:11 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25fb/live/e704f600-9800-11f1-bc94-d3a8a062b873.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['It's like Eastenders' - West Ham's boardroom battle on eve of Championship season]]></title>
+      <description><![CDATA[As West Ham get ready to start their first league campaign outside the top flight since 2011-12, what's going on in the boardroom?]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cz7d88zgypno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cz7d88zgypno</guid>
+      <pubDate>Thu, 13 Aug 2026 15:02:56 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b757/live/45c19390-9709-11f1-b72c-211ea4e0afc4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Will you beat our mega football nicknames quiz?]]></title>
@@ -400,20 +392,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d3/live/7dfe1b00-7bb8-11f1-9510-1546718f668b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Balikwisha set to leave Celtic with three clubs interested - gossip]]></title>
-      <description><![CDATA[Celtic forward likely moving on as Scottish champions target goalkeeper.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cp30x80lny7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cp30x80lny7o</guid>
-      <pubDate>Sat, 15 Aug 2026 11:51:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f42d/live/0a29b730-98b3-11f1-a7ab-8b30adf0800a.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Europa League exit leaves Rangers counting the financial cost]]></title>
-      <description><![CDATA[As Rangers struggle on the pitch, there will be an understanding that they need fan loyalty to stay afloat.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cvg94jqpzxpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvg94jqpzxpo</guid>
-      <pubDate>Sat, 15 Aug 2026 08:31:58 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37f9/live/d611d1b0-9800-11f1-bc94-d3a8a062b873.jpg"/>
+      <title><![CDATA['A bit surreal' - Penrice joins Rangers from AEK Athens on loan]]></title>
+      <description><![CDATA[Rangers sign left-back James Penrice from Greek champions AEK Athens for on loan with an option to buy.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c75gxqnwqz6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c75gxqnwqz6o</guid>
+      <pubDate>Sat, 15 Aug 2026 16:18:51 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29ba/live/290d9d50-92b5-11f1-8b47-5b0ee90b7bd3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man City must act like champions as WSL rivals grow stronger]]></title>
