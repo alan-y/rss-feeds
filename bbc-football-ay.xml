@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 16:22:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 16:57:02 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Fernandez booed by Chelsea fans as Alonso offers glimpse of blueprint]]></title>
+      <description><![CDATA[Enzo Fernandez is booed by sections of the Chelsea support, Morgan Rogers scores on his first appearance and Xabi Alonso offers a glimpse of what could be his blueprint for the season.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c36dd10jj09o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c36dd10jj09o</guid>
+      <pubDate>Sat, 15 Aug 2026 16:22:07 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3947/live/067a6270-98c1-11f1-baa7-c1f421a55365.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Belgian Pocognoli frontrunner to be Scotland boss]]></title>
       <description><![CDATA[Former Monaco head coach Sebastien Pocognoli is identified by the Scottish FA as their prime candidate to replace Steve Clarke.]]></description>
@@ -38,14 +46,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy8ee0gzqx2o</guid>
       <pubDate>Sat, 15 Aug 2026 14:02:48 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0d5/live/058b5740-98b0-11f1-9a0b-ef36d15fc6b3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[PSG sign World Cup winner Torres from Barcelona]]></title>
-      <description><![CDATA[Ferran Torres, who scored the winning goal for Spain at the World Cup, has joined European champions Paris St-Germain from Barcelona.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c20jyxjl8yko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c20jyxjl8yko</guid>
-      <pubDate>Sat, 15 Aug 2026 09:37:31 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f12/live/1e272b10-974f-11f1-9c09-a729ba578a81.jpg"/>
     </item>
     <item>
       <title><![CDATA[Premier League clubs looking to EFL for next Semenyo and Eze]]></title>
@@ -96,12 +96,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c2/live/d2549200-9694-11f1-870d-5d08c49babb2.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Newcastle change shirts during first half of friendly]]></title>
-      <description><![CDATA[Newcastle United change shirts in the first half of their pre-season friendly against Bayer Leverkusen.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cd9wwny25z4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd9wwny25z4o</guid>
-      <pubDate>Sat, 15 Aug 2026 16:03:59 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a098/live/9f49e940-98c0-11f1-baa7-c1f421a55365.jpg"/>
+      <title><![CDATA[PSG sign World Cup winner Torres from Barcelona]]></title>
+      <description><![CDATA[Ferran Torres, who scored the winning goal for Spain at the World Cup, has joined European champions Paris St-Germain from Barcelona.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c20jyxjl8yko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c20jyxjl8yko</guid>
+      <pubDate>Sat, 15 Aug 2026 09:37:31 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f12/live/1e272b10-974f-11f1-9c09-a729ba578a81.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ex-tennis player Bautista Agut scores on football debut]]></title>
@@ -110,6 +110,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/c0jllp431qqo</guid>
       <pubDate>Sat, 15 Aug 2026 13:07:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b94/live/b8c99dd0-98a6-11f1-9d70-ef365dc3a762.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Newcastle change shirts during first half of friendly]]></title>
+      <description><![CDATA[Newcastle United change shirts in the first half of their pre-season friendly against Bayer Leverkusen.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cd9wwny25z4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd9wwny25z4o</guid>
+      <pubDate>Sat, 15 Aug 2026 16:03:59 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05f7/live/7cd856f0-98c8-11f1-a7ab-8b30adf0800a.jpg"/>
     </item>
     <item>
       <title><![CDATA['This is the right one' - Rohl on leaving Rangers for Salzburg]]></title>
@@ -136,14 +144,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dc2/live/6d005e60-926c-11f1-9f0c-8d4ddef91df6.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Hull sign Gelhardt and Gourna-Douath ]]></title>
-      <description><![CDATA[Hull City sign English forward Joe Gelhardt from Leeds and French midfielder Lucas Gourna-Douath from Red Bull Salzburg for undisclosed fees.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cvg8qgg7qg1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvg8qgg7qg1o</guid>
-      <pubDate>Sat, 15 Aug 2026 12:03:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0046/live/e5c49ba0-98a1-11f1-870d-5d08c49babb2.png"/>
-    </item>
-    <item>
       <title><![CDATA[VAR, timewasting and subs - new rules for the new season]]></title>
       <description><![CDATA[The 2026-27 season will feature an unprecedented number of new laws, mostly designed to tackle tempo disruption and make the game quicker.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/ce85pje4gyqo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -168,12 +168,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/908e/live/aab70ec0-9636-11f1-acde-358da1a6646b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Fine-tuning and a clear target - Wrexham's season aim]]></title>
-      <description><![CDATA[Wrexham aim for the coming campaign clear after they narrowly missed out on a Championship play-off spot last season.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cy8m14gz4ldo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy8m14gz4ldo</guid>
-      <pubDate>Sat, 15 Aug 2026 09:15:00 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91d5/live/abf50060-949e-11f1-870d-5d08c49babb2.png"/>
+      <title><![CDATA[Hull sign Gelhardt and Gourna-Douath ]]></title>
+      <description><![CDATA[Hull City sign English forward Joe Gelhardt from Leeds and French midfielder Lucas Gourna-Douath from Red Bull Salzburg for undisclosed fees.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cvg8qgg7qg1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvg8qgg7qg1o</guid>
+      <pubDate>Sat, 15 Aug 2026 12:03:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0046/live/e5c49ba0-98a1-11f1-870d-5d08c49babb2.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Why Michaely Bihina is the keeper making waves at Wafcon]]></title>
+      <description><![CDATA[Fans in Cameroon want a statue built for Michaely Bihina after she made four penalty saves against Morocco to help Cameroon reach the 2026 Wafcon final.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c7vgylpgmz7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c7vgylpgmz7o</guid>
+      <pubDate>Sat, 15 Aug 2026 07:38:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1bf/live/63493d20-97f2-11f1-a579-3beb34ebe76c.png"/>
     </item>
     <item>
       <title><![CDATA[Arteta not worried about Arsenal contract talks]]></title>
@@ -200,12 +208,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ae/live/71e00c00-9820-11f1-b2ab-0dd01740f9f6.png"/>
     </item>
     <item>
-      <title><![CDATA[Why Michaely Bihina is the keeper making waves at Wafcon]]></title>
-      <description><![CDATA[Fans in Cameroon want a statue built for Michaely Bihina after she made four penalty saves against Morocco to help Cameroon reach the 2026 Wafcon final.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c7vgylpgmz7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c7vgylpgmz7o</guid>
-      <pubDate>Sat, 15 Aug 2026 07:38:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1bf/live/63493d20-97f2-11f1-a579-3beb34ebe76c.png"/>
+      <title><![CDATA[Burnley drop shirt sponsor after 42 days]]></title>
+      <description><![CDATA[Burnley drop their shirt sponsor just two days before their opening Championship match against West Ham - and only 42 days after signing the deal.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c3r0yv8ygzvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3r0yv8ygzvo</guid>
+      <pubDate>Fri, 14 Aug 2026 16:20:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff2/live/a5bf2290-97f3-11f1-8170-33f7e8571fbe.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Fine-tuning and a clear target - Wrexham's season aim]]></title>
+      <description><![CDATA[Wrexham aim for the coming campaign clear after they narrowly missed out on a Championship play-off spot last season.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cy8m14gz4ldo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy8m14gz4ldo</guid>
+      <pubDate>Sat, 15 Aug 2026 09:15:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91d5/live/abf50060-949e-11f1-870d-5d08c49babb2.png"/>
     </item>
     <item>
       <title><![CDATA[Chelsea say no Fernandez move as deadline passes - but is it really over?]]></title>
@@ -224,12 +240,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6210/live/c4f34450-97c3-11f1-97a6-b387157e78db.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Burnley drop shirt sponsor after 42 days]]></title>
-      <description><![CDATA[Burnley drop their shirt sponsor just two days before their opening Championship match against West Ham - and only 42 days after signing the deal.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c3r0yv8ygzvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3r0yv8ygzvo</guid>
-      <pubDate>Fri, 14 Aug 2026 16:20:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ff2/live/a5bf2290-97f3-11f1-8170-33f7e8571fbe.jpg"/>
+      <title><![CDATA[Free agent Sancho favours move abroad]]></title>
+      <description><![CDATA[Free agent Jadon Sancho is believed to prefer a move abroad despite receiving offers from Premier League clubs.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cd7lw2lv7npo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd7lw2lv7npo</guid>
+      <pubDate>Fri, 14 Aug 2026 14:03:24 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bca/live/a90ee7a0-97e4-11f1-b676-b9e4494c0c74.jpg"/>
     </item>
     <item>
       <title><![CDATA[The key stats as Chelsea look to go from 10th to the title again]]></title>
@@ -240,52 +256,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f4d/live/30b45970-97d5-11f1-b1e0-bbc28f2688df.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Celtic's Engels poised for West Ham transfer]]></title>
-      <description><![CDATA[Belgium midfielder Arne Engels is having a medical pending a transfer to West Ham United, Celtic manager Martin O'Neill has confirmed.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cgjexdypjqyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cgjexdypjqyo</guid>
-      <pubDate>Fri, 14 Aug 2026 14:51:01 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d1b/live/87ca5c40-97ef-11f1-9bd9-d1c2814d5e5d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What's going wrong for Rangers and McInnes?]]></title>
-      <description><![CDATA[After Rangers' Europa League qualifying defeat by Jagellonia Bialystok, what is going wrong for new manager Derek McInnes and his side so far this season?]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cly8w7wm9v8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cly8w7wm9v8o</guid>
-      <pubDate>Thu, 13 Aug 2026 23:43:51 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4392/live/288a7220-976c-11f1-8f14-db85ab2bc00f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Free agent Sancho favours move abroad]]></title>
-      <description><![CDATA[Free agent Jadon Sancho is believed to prefer a move abroad despite receiving offers from Premier League clubs.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cd7lw2lv7npo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd7lw2lv7npo</guid>
-      <pubDate>Fri, 14 Aug 2026 14:03:24 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bca/live/a90ee7a0-97e4-11f1-b676-b9e4494c0c74.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[What's going on with Southampton boss Eckert's FA probe?]]></title>
-      <description><![CDATA[While Southampton felt the full force of the EFL's disciplionary powers at the back end of last season, Spygate is far from over with the future of Tonda Eckert still uncertain. ]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cly5pe3303eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cly5pe3303eo</guid>
-      <pubDate>Fri, 14 Aug 2026 11:23:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cec/live/dc8cf2b0-9718-11f1-bb91-6bb44c42ed47.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Burnley sign Chelsea's Satpayev on loan]]></title>
-      <description><![CDATA[Chelsea's new teenage winger Dastan Satpayev joins Championship club Burnley on a season's loan.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c1w1y95305no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c1w1y95305no</guid>
-      <pubDate>Fri, 14 Aug 2026 19:49:11 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25fb/live/e704f600-9800-11f1-bc94-d3a8a062b873.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['It's like Eastenders' - West Ham's boardroom battle on eve of Championship season]]></title>
-      <description><![CDATA[As West Ham get ready to start their first league campaign outside the top flight since 2011-12, what's going on in the boardroom?]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cz7d88zgypno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cz7d88zgypno</guid>
-      <pubDate>Thu, 13 Aug 2026 15:02:56 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b757/live/45c19390-9709-11f1-b72c-211ea4e0afc4.jpg"/>
+      <title><![CDATA[Man City's Reijnders set for £52m Saudi move]]></title>
+      <description><![CDATA[Manchester City midfielder Tijjani Reijnders is set to leave following a year at the club after a £52m move was agreed with Saudi Pro-League side Al-Qadsiah.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cp30xwkj4y3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cp30xwkj4y3o</guid>
+      <pubDate>Thu, 13 Aug 2026 22:12:05 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/962d/live/43569b80-9760-11f1-a764-31772918f872.jpg"/>
     </item>
     <item>
       <title><![CDATA[Will you beat our mega football nicknames quiz?]]></title>
