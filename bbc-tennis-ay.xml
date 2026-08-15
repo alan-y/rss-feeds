@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 21:56:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 22:22:54 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Djokovic suffers in heat as Tirante inflicts shock defeat]]></title>
+      <description><![CDATA[Novak Djokovic struggles with the heat and humidity as he falls to a shock defeat by Argentina's Thiago Tirante in the second round of the Cincinnati Open.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cj033qggmv3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cj033qggmv3o</guid>
+      <pubDate>Sat, 15 Aug 2026 22:07:10 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b79f/live/f0fdcb50-98f5-11f1-aa0d-e3900609838d.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Ex-tennis player Bautista Agut scores on football debut]]></title>
       <description><![CDATA[Roberto Bautista Agut scores twice on his debut for Spanish seventh-tier side CD Els Ibarsos - just over a month after retiring from tennis.]]></description>
@@ -56,20 +64,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dffe/live/adbcfe50-968f-11f1-9854-73d5e7b83e3b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Jodar on verge of smashing record for fastest rise to top 10]]></title>
-      <description><![CDATA[The teenage Spaniard's rise to the top of tennis is set to be faster than the sport's modern greats]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cwy4wwxxkwno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cwy4wwxxkwno</guid>
-      <pubDate>Tue, 11 Aug 2026 21:40:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ba/live/c270f380-9584-11f1-8636-978a48bd79b6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[World number one Sinner to miss Cincinnati Open]]></title>
       <description><![CDATA[World number one Jannik Sinner withdraws from this week's Cincinnati Open because of a knee injury, but still expects to be fit for the US Open later this month.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/cdx7gg7wq2do?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cdx7gg7wq2do</guid>
       <pubDate>Sun, 09 Aug 2026 17:48:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43c4/live/26034dc0-9419-11f1-b17e-d707629ede06.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Jodar on verge of smashing record for fastest rise to top 10]]></title>
+      <description><![CDATA[The teenage Spaniard's rise to the top of tennis is set to be faster than the sport's modern greats]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cwy4wwxxkwno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cwy4wwxxkwno</guid>
+      <pubDate>Tue, 11 Aug 2026 21:40:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ba/live/c270f380-9584-11f1-8636-978a48bd79b6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Norrie saves match point in superb Montreal fightback]]></title>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cjwx9y96x90o</guid>
       <pubDate>Tue, 04 Aug 2026 12:54:49 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c60c/live/9df88400-9002-11f1-b2ab-0dd01740f9f6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Williams sisters set to play Cincinnati Open doubles]]></title>
-      <description><![CDATA[Serena Williams and Venus Williams are given a wildcard entry for the women's doubles at the Cincinnati Open. ]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/ce97d0ygzkmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ce97d0ygzkmo</guid>
-      <pubDate>Mon, 03 Aug 2026 18:20:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/529e/live/b82cab00-8f65-11f1-8659-31d8ca04a20f.jpg"/>
     </item>
     <item>
       <title><![CDATA['Out of this world!' - Best shots of Wimbledon 2026]]></title>
@@ -176,6 +176,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3522/live/0b9e00e0-8f61-11f1-8659-31d8ca04a20f.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Williams sisters set to play Cincinnati Open doubles]]></title>
+      <description><![CDATA[Serena Williams and Venus Williams are given a wildcard entry for the women's doubles at the Cincinnati Open. ]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/ce97d0ygzkmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ce97d0ygzkmo</guid>
+      <pubDate>Mon, 03 Aug 2026 18:20:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/529e/live/b82cab00-8f65-11f1-8659-31d8ca04a20f.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Dog walk and expletive text - key findings in Vondrousova anti-doping case]]></title>
       <description><![CDATA[The full report into 2023 Wimbledon champion Marketa Vondrousova's four-year ban for refusing a doping test has been released - BBC Sport analyses the key findings.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/cn0nrgp7nqlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -206,14 +214,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cx2j9711znro</guid>
       <pubDate>Fri, 31 Jul 2026 10:44:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e92/live/74c05ed0-8ccb-11f1-97f5-93fc85ee9dc4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Alexandrova collapses on court amid 34C heat]]></title>
-      <description><![CDATA[World number 19 Ekaterina Alexandrova collapses on court and had to retire from her first-round match at the Memphis Classic due to high temperatures.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/c80nk83k88vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c80nk83k88vo</guid>
-      <pubDate>Wed, 29 Jul 2026 05:44:35 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c186/live/9bda3d10-8b0e-11f1-9afb-bb99db1ea8ef.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cruz Hewitt - son of Lleyton - wins on senior debut]]></title>
