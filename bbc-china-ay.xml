@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 05:59:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:55:09 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[China censors public mourning as it holds former premier's funeral]]></title>
+      <description><![CDATA[While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo</guid>
+      <pubDate>Tue, 18 Aug 2026 04:28:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be9a/live/c8400770-9aba-11f1-81ae-010a5ad83b46.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Movie that went viral for terrible animation becomes China box office hit]]></title>
       <description><![CDATA[Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.]]></description>
@@ -78,14 +86,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0jl8v23qwgo</guid>
       <pubDate>Wed, 29 Jul 2026 22:08:29 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ad/live/c412f1a0-8708-11f1-94fc-011b42f226be.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Blocked by censors, China's animal lovers take fight against abuse offline and overseas]]></title>
-      <description><![CDATA[The killing of a dog and her puppies in Guangdong has sparked outrage inside and outside the country.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqx7wd3x420o</guid>
-      <pubDate>Thu, 23 Jul 2026 05:46:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5395/live/0daae1a0-840d-11f1-b3ec-1d7f0502d196.png"/>
     </item>
   </channel>
 </rss>
