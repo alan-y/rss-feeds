@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 15:29:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:03:54 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -80,6 +80,14 @@
       <media:thumbnail width="240" height="125" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c781/live/d49cfbb0-9a13-11f1-a291-b542ee92de7c.png"/>
     </item>
     <item>
+      <title><![CDATA[New Celtic signings unlikely before LASK tie - O'Neill]]></title>
+      <description><![CDATA[Celtic manager Martin O'Neill does not anticipate any new arrivals before Wednesday's Champions League play-off first leg at home to LASK and insists he would be happy for Reo Hatate to stay.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/ce8kekejx8lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ce8kekejx8lo</guid>
+      <pubDate>Tue, 18 Aug 2026 15:34:36 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/241e/live/e9675a50-9b11-11f1-9341-0383083a41e3.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Hart on Man City's rebuild, Chelsea's opportunity and Arsenal's title defence]]></title>
       <description><![CDATA[The former Manchester City and England goalkeeper believes Enzo Maresca will be given time to build.]]></description>
       <link>https://www.bbc.co.uk/sport/articles/cly5e5ezlj5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cp8xdx7ypr6o</guid>
       <pubDate>Tue, 18 Aug 2026 13:17:01 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b601/live/242d7790-9b04-11f1-bb80-c1b1e1adeea5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Guardiola-Walker fallout revealed in new documentary]]></title>
-      <description><![CDATA[A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust-up he had with former captain Kyle Walker.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo</guid>
-      <pubDate>Mon, 17 Aug 2026 23:00:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/095f/live/c3977850-9a49-11f1-a86b-519b4d19bbee.jpg"/>
     </item>
     <item>
       <title><![CDATA[Kane set to begin talks over new Bayern contract]]></title>
@@ -152,20 +152,36 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58f5/live/a4d21870-949b-11f1-a7ab-8b30adf0800a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Paul Scholes banned from driving for speeding]]></title>
-      <description><![CDATA[The former Manchester United player banned after speeding twice in two days.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c8en326kjdpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8en326kjdpo</guid>
-      <pubDate>Tue, 18 Aug 2026 12:27:29 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7229/live/a880acf0-9afb-11f1-a27d-25dca26018ed.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Is Haaland worth the price? Pick Rogers or Palmer? Five key FPL questions ]]></title>
       <description><![CDATA[BBC Sport's team of Fantasy Premier League experts debate some of the new season's big talking points to help you select your team before Friday's deadline.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cn0np755k4wo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cn0np755k4wo</guid>
       <pubDate>Tue, 18 Aug 2026 07:23:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b09f/live/205992d0-97fc-11f1-870d-5d08c49babb2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Guardiola-Walker fallout revealed in new documentary]]></title>
+      <description><![CDATA[A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust-up he had with former captain Kyle Walker.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo</guid>
+      <pubDate>Mon, 17 Aug 2026 23:00:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/095f/live/c3977850-9a49-11f1-a86b-519b4d19bbee.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Retaining top talent a challenge - Everton chief Kinnear]]></title>
+      <description><![CDATA[Retaining top talent is a challenge for established Premier League clubs even when they are performing well, says Everton chief executive officer Angus Kinnear.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c3d373jg15zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3d373jg15zo</guid>
+      <pubDate>Tue, 18 Aug 2026 15:29:58 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0846/live/153e3bc0-9b13-11f1-9341-0383083a41e3.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Paul Scholes banned from driving for speeding]]></title>
+      <description><![CDATA[The former Manchester United player banned after speeding twice in two days.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c8en326kjdpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8en326kjdpo</guid>
+      <pubDate>Tue, 18 Aug 2026 12:27:29 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7229/live/a880acf0-9afb-11f1-a27d-25dca26018ed.jpg"/>
     </item>
     <item>
       <title><![CDATA[Haaland's main rivals for the Premier League Golden Boot]]></title>
@@ -192,20 +208,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e88/live/5ad68e20-9ad8-11f1-b2f7-5d1639b20e22.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Top Fifa official sacked after Infantino plan criticism]]></title>
-      <description><![CDATA[Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o</guid>
-      <pubDate>Mon, 17 Aug 2026 20:46:08 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1588/live/02883190-9aee-11f1-a291-b542ee92de7c.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Ex-Man Utd striker Depay takes pay cut to stay at Corinthians]]></title>
       <description><![CDATA[Memphis Depay waives a reported fee of nearly £3m days after accusing Corinthians of "unacceptable behaviour" over a contract extension.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cq56x7qvjn2o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cq56x7qvjn2o</guid>
       <pubDate>Tue, 18 Aug 2026 07:01:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/213f/live/775d2e30-9acb-11f1-a74b-2f66a3b83590.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Top Fifa official sacked after Infantino plan criticism]]></title>
+      <description><![CDATA[Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o</guid>
+      <pubDate>Mon, 17 Aug 2026 20:46:08 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1588/live/02883190-9aee-11f1-a291-b542ee92de7c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fernandez will cost Man City more than £120m - Tuesday's gossip]]></title>
@@ -232,14 +248,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a65/live/e0f47630-9a73-11f1-b68f-817a5a696299.jpg"/>
     </item>
     <item>
-      <title><![CDATA[When does the summer transfer window close?]]></title>
-      <description><![CDATA[Our Ask Me Anything team explains when the summer transfer window closes]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c8xgn20ddrzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8xgn20ddrzo</guid>
-      <pubDate>Tue, 18 Aug 2026 10:08:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95c2/live/c5fe7080-9ae9-11f1-a291-b542ee92de7c.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Barry-Murphy toasts Colwill after Cardiff fightback]]></title>
       <description><![CDATA[Brian Barry-Murphy toasts substitute Rubin Colwill's impact in Cardiff City's dramatic Welsh derby draw with Wrexham.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c62qe7197zwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -254,6 +262,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cdx7dlwed1wo</guid>
       <pubDate>Tue, 18 Aug 2026 06:04:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0021/live/38d854d0-859c-11f1-926f-c90d1bcfbc84.png"/>
+    </item>
+    <item>
+      <title><![CDATA[When does the summer transfer window close?]]></title>
+      <description><![CDATA[Our Ask Me Anything team explains when the summer transfer window closes]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c8xgn20ddrzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c8xgn20ddrzo</guid>
+      <pubDate>Tue, 18 Aug 2026 10:08:37 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95c2/live/c5fe7080-9ae9-11f1-a291-b542ee92de7c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chelsea co-owners Boehly & Walter explore selling stakes]]></title>
@@ -296,20 +312,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b9/live/e58adf30-996b-11f1-aaab-c702cc6b4645.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Ipswich sign Strasbourg duo Enciso & Ouattara ]]></title>
-      <description><![CDATA[Ipswich Town complete the signing of Julio Enciso and Abdoul Ouattara from French club Strasbourg.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cwymzjwypezo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwymzjwypezo</guid>
-      <pubDate>Mon, 17 Aug 2026 14:51:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a6f/live/8ba19640-9a50-11f1-96c4-e7f87215742d.png"/>
-    </item>
-    <item>
       <title><![CDATA[These eight players will help you win FPL]]></title>
       <description><![CDATA[Our Fantasy Premier League experts pick eight players they think will help you have a successful FPL season.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c4g305xwdr4o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4g305xwdr4o</guid>
       <pubDate>Mon, 17 Aug 2026 07:49:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f8/live/07dcc7a0-970b-11f1-870d-5d08c49babb2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ipswich sign Strasbourg duo Enciso & Ouattara ]]></title>
+      <description><![CDATA[Ipswich Town complete the signing of Julio Enciso and Abdoul Ouattara from French club Strasbourg.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cwymzjwypezo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwymzjwypezo</guid>
+      <pubDate>Mon, 17 Aug 2026 14:51:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a6f/live/8ba19640-9a50-11f1-96c4-e7f87215742d.png"/>
     </item>
     <item>
       <title><![CDATA[Man Utd will reject any bid for Fernandes]]></title>
@@ -342,14 +358,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx2lz34ve8lo</guid>
       <pubDate>Mon, 17 Aug 2026 22:43:44 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acaf/live/eaac2d40-9a8b-11f1-97a8-59956482e833.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Scottish FA withdraws support for Fifa president Infantino]]></title>
-      <description><![CDATA[The Scottish Football Association has lost confidence in Gianni Infantino and will not be voting for his re-election as president of Fifa, chief executive Ian Maxwell has told BBC Sport.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/crrv4092pvlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crrv4092pvlo</guid>
-      <pubDate>Mon, 17 Aug 2026 12:43:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e69f/live/e03a5720-9a35-11f1-bb53-f521e7e25454.jpg"/>
     </item>
     <item>
       <title><![CDATA[Dublin Dons? The failed attempt to bring a Premier League club to Ireland]]></title>
@@ -478,14 +486,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c9q9r0jpzlro</guid>
       <pubDate>Tue, 18 Aug 2026 06:38:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad08/live/b911f3b0-9a62-11f1-aed2-8d6da8d75094.png"/>
-    </item>
-    <item>
-      <title><![CDATA[What will ticket arrangements be for Rangers v Celtic?]]></title>
-      <description><![CDATA[A few months on from disorder at their last cup meeting at Ibrox, Rangers and Celtic are scheduled to meet at the same venue but the ticketing arrangements are still to be confirmed. BBC Scotland assesses the likely outcome.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c1k1x4pgnlmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c1k1x4pgnlmo</guid>
-      <pubDate>Mon, 17 Aug 2026 16:46:57 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/619d/live/c2da6180-9a57-11f1-b792-a710e56a11dc.jpg"/>
     </item>
     <item>
       <title><![CDATA[Bronze explains out-of-character contract extension]]></title>
