@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 14:34:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 17:12:46 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Salmonella outbreak: What we know so far ]]></title>
+      <description><![CDATA[Hundreds have fallen ill with salmonella infections in an outbreak linked to imported eggs. ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cp30gqnpqjqo</guid>
+      <pubDate>Wed, 19 Aug 2026 16:43:56 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b42/live/0e674fe0-9bdf-11f1-ba30-ddd78081057f.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Scientists 'stunned' by children's lung recovery in ultra low emission zone]]></title>
       <description><![CDATA[Children's lung capacity caught up with their peers in less polluted areas once a clean air zone came in, a study shows.]]></description>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c89n8j5e32do</guid>
       <pubDate>Sat, 08 Aug 2026 01:34:07 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea09/live/c84ef840-927a-11f1-a7ab-8b30adf0800a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Artificial Intelligence used to design brand new viruses]]></title>
-      <description><![CDATA[Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5y3j3ngevmo</guid>
-      <pubDate>Thu, 06 Aug 2026 18:01:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9015/live/b6fc8870-9223-11f1-af4d-5164294a85c7.jpg"/>
     </item>
     <item>
       <title><![CDATA[What's driving men to get penis fillers, despite the risks?]]></title>
