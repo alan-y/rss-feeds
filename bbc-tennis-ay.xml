@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 17:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 17:48:52 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Alcaraz to play US Open after four months out]]></title>
+      <description><![CDATA[Defending champion Carlos Alcaraz is set to make his return at the US Open after missing four months with a wrist injury.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cwyq490lje0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cwyq490lje0o</guid>
+      <pubDate>Thu, 20 Aug 2026 17:39:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b26b/live/30098130-9cbc-11f1-aed2-8d6da8d75094.jpg"/>
+    </item>
     <item>
       <title><![CDATA['I feel I am imprisoning myself' - Djokovic on doubts, childhood and future]]></title>
       <description><![CDATA[Novak Djokovic discusses being his own biggest doubter and the Belgrade childhood that shaped him in a new documentary.]]></description>
@@ -56,20 +64,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a022/live/b17419e0-9b24-11f1-b792-a710e56a11dc.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Williams sisters 'find our way to each other' but lose on doubles return]]></title>
-      <description><![CDATA[Serena and Venus Williams lose a thriller at the Cincinnati Open in their first doubles match together for four years.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/c4g6m08nnn8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c4g6m08nnn8o</guid>
-      <pubDate>Tue, 18 Aug 2026 06:33:17 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be38/live/b932e360-9ac9-11f1-a74b-2f66a3b83590.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Fery named in GB Davis Cup team to face Ecuador]]></title>
       <description><![CDATA[Wimbledon semi-finalist Arthur Fery is selected in Great Britain's Davis Cup team to face Ecuador in September.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/cz97zew58xxo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cz97zew58xxo</guid>
       <pubDate>Mon, 17 Aug 2026 22:50:27 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/303a/live/8f7f0840-9a34-11f1-90d9-9d833c0912f2.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Williams sisters 'find our way to each other' but lose on doubles return]]></title>
+      <description><![CDATA[Serena and Venus Williams lose a thriller at the Cincinnati Open in their first doubles match together for four years.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/c4g6m08nnn8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c4g6m08nnn8o</guid>
+      <pubDate>Tue, 18 Aug 2026 06:33:17 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be38/live/b932e360-9ac9-11f1-a74b-2f66a3b83590.jpg"/>
     </item>
     <item>
       <title><![CDATA[Kyrgios suspended after positive cocaine test]]></title>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cm2gp2xmdkjo</guid>
       <pubDate>Thu, 13 Aug 2026 20:25:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e8c/live/b0ddb9b0-9768-11f1-b2ab-0dd01740f9f6.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Swiatek into first final of her 'toughest season']]></title>
-      <description><![CDATA[Iga Swiatek will meet Elena Rybakina in the Canadian Open final after both players battled through their semi-finals in three sets.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/ckgdppv82ymo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ckgdppv82ymo</guid>
-      <pubDate>Thu, 13 Aug 2026 07:24:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2291/live/d76baf50-96e2-11f1-9b96-77d3dc534330.jpg"/>
     </item>
     <item>
       <title><![CDATA['Out of this world!' - Best shots of Wimbledon 2026]]></title>
@@ -168,6 +168,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ba/live/c270f380-9584-11f1-8636-978a48bd79b6.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Swiatek into first final of her 'toughest season']]></title>
+      <description><![CDATA[Iga Swiatek will meet Elena Rybakina in the Canadian Open final after both players battled through their semi-finals in three sets.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/ckgdppv82ymo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ckgdppv82ymo</guid>
+      <pubDate>Thu, 13 Aug 2026 07:24:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2291/live/d76baf50-96e2-11f1-9b96-77d3dc534330.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[114 days and counting - how damaging is Alcaraz's wrist injury?]]></title>
       <description><![CDATA[BBC Sport analyses Carlos Alcaraz's ongoing absence from tennis and why wrist injuries are so difficult to manage.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/cq56qz4xx1yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -206,14 +214,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cgljg3g7y2eo</guid>
       <pubDate>Tue, 04 Aug 2026 22:08:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d5c/live/42a81f50-904a-11f1-bac4-9bcd48c14c6e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Raducanu to miss US Open to continue recovery]]></title>
-      <description><![CDATA[Emma Raducanu will miss the US Open as she continues her recovery from a stress fracture.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cn4njxg33l7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cn4njxg33l7o</guid>
-      <pubDate>Mon, 03 Aug 2026 17:45:48 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3522/live/0b9e00e0-8f61-11f1-8659-31d8ca04a20f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Wimbledon crowd 'played big part' in me reaching final - Zverev]]></title>
@@ -320,6 +320,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c512/live/84fe04d0-8d86-11f1-a7ab-8b30adf0800a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Raducanu to miss US Open to continue recovery]]></title>
+      <description><![CDATA[Emma Raducanu will miss the US Open as she continues her recovery from a stress fracture.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cn4njxg33l7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cn4njxg33l7o</guid>
+      <pubDate>Mon, 03 Aug 2026 17:45:48 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3522/live/0b9e00e0-8f61-11f1-8659-31d8ca04a20f.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Boulter to lead GB at Billie Jean King Cup finals]]></title>
       <description><![CDATA[Katie Boulter will lead the British team competing at the Billie Jean Cup finals in Shenzen, China, in September. ]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/cpq8vlq2vdgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -350,14 +358,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cx2j9711znro</guid>
       <pubDate>Fri, 31 Jul 2026 10:44:33 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e92/live/74c05ed0-8ccb-11f1-97f5-93fc85ee9dc4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Norrie wins first match since April]]></title>
-      <description><![CDATA[British number two Cameron Norrie ends a six-match losing streak with a straight-set win over Aleksandar Kovacevic.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/c629683nlg7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c629683nlg7o</guid>
-      <pubDate>Tue, 28 Jul 2026 10:07:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c84a/live/32e066e0-8a50-11f1-8aea-37a02a7d69e8.jpg"/>
     </item>
     <item>
       <title><![CDATA[Sabalenka & Djokovic to team up in US Open mixed doubles]]></title>
