@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 04:19:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 04:58:20 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Founder of China's Evergrande sentenced to life in prison]]></title>
+      <description><![CDATA[Hui's sentencing marks a pivotal moment in the fallout from Evergrande's collapse, which shook China's property sector.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo</guid>
+      <pubDate>Thu, 20 Aug 2026 04:42:13 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7941/live/f514e1b0-9c4c-11f1-a7e0-fd27165ce529.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Alleged sexual assault by local official and businessman sparks outrage in China]]></title>
       <description><![CDATA[Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.]]></description>
@@ -78,14 +86,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx27mjvxgg1o</guid>
       <pubDate>Mon, 27 Jul 2026 22:07:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20fe/live/61704590-8666-11f1-93cb-95d7eb12ec49.png"/>
-    </item>
-    <item>
-      <title><![CDATA[The Chinese robot army transforming the UK's retail industry]]></title>
-      <description><![CDATA[Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms. ]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0jl8v23qwgo</guid>
-      <pubDate>Wed, 29 Jul 2026 22:08:29 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ad/live/c412f1a0-8708-11f1-94fc-011b42f226be.jpg"/>
     </item>
   </channel>
 </rss>
