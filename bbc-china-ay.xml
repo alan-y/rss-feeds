@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 01:14:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 02:38:05 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[HK's Tiananmen activists guilty in national security trial]]></title>
+      <description><![CDATA[Three activists were accused of inciting others to subvert state power under the China-introduced law. ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c1l10mdrld5o</guid>
+      <pubDate>Fri, 21 Aug 2026 02:22:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e569/live/d69eaff0-9d04-11f1-aed2-8d6da8d75094.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Founder of collapsed Chinese property giant Evergrande sentenced to life in prison]]></title>
       <description><![CDATA[Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.]]></description>
@@ -30,14 +38,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o</guid>
       <pubDate>Wed, 19 Aug 2026 07:21:51 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90a4/live/c36598f0-9bb4-11f1-b109-879e35c24276.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Chinese robotics giant Unitree soars in stock market debut]]></title>
-      <description><![CDATA[Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0qv4w9492zo</guid>
-      <pubDate>Wed, 19 Aug 2026 07:19:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5e/live/f165f440-9b6c-11f1-b1cb-859c01609bc4.jpg"/>
     </item>
     <item>
       <title><![CDATA[China censors public mourning as it holds former premier's funeral]]></title>
@@ -64,6 +64,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea3e/live/dbc88590-9639-11f1-b809-7db91972344e.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Chinese robotics giant Unitree soars in stock market debut]]></title>
+      <description><![CDATA[Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0qv4w9492zo</guid>
+      <pubDate>Wed, 19 Aug 2026 07:19:30 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5e/live/f165f440-9b6c-11f1-b1cb-859c01609bc4.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[The lonely Chinese men being conned by fake brides]]></title>
       <description><![CDATA["Flash marriage" scams are an extreme symptom of a demographic crisis long in the making in China.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -78,14 +86,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo</guid>
       <pubDate>Wed, 29 Jul 2026 02:30:50 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b8e/live/23eaf6d0-8ade-11f1-b889-f97dd2fdd738.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[China's new challenge as natural disasters strike - fake AI videos]]></title>
-      <description><![CDATA[Storms and flooding incidents over the last few months have seen fake videos inundating social media.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx27mjvxgg1o</guid>
-      <pubDate>Mon, 27 Jul 2026 22:07:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20fe/live/61704590-8666-11f1-93cb-95d7eb12ec49.png"/>
     </item>
   </channel>
 </rss>
