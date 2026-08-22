@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 22 Aug 2026 11:19:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 11:40:37 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -72,14 +72,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae30/live/c51559b0-9e02-11f1-afde-61b39e745f81.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Sutton's opening weekend predictions v Courteeners frontman Liam Fray]]></title>
-      <description><![CDATA[BBC Sport football expert Chris Sutton takes on Courteeners frontman Liam Fray, plus the BBC readers and AI with his predictions for the fixtures on the opening weekend of the new Premier League season.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cn9nqzny7n7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cn9nqzny7n7o</guid>
-      <pubDate>Fri, 21 Aug 2026 06:46:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d433/live/6476cc20-98ac-11f1-a7ab-8b30adf0800a.png"/>
-    </item>
-    <item>
       <title><![CDATA[How Liverpool are preparing to face six new managers in first six games]]></title>
       <description><![CDATA[For Liverpool and Andoni Iraola, the Premier League schedule means they will face six teams with new managers in their first six matches.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cg5l9qz1dvno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -126,6 +118,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/videos/cvgl2zz12xeo</guid>
       <pubDate>Fri, 21 Aug 2026 20:42:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11f8/live/a36290b0-9da0-11f1-b109-879e35c24276.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sutton's opening weekend predictions v Courteeners frontman Liam Fray]]></title>
+      <description><![CDATA[BBC Sport football expert Chris Sutton takes on Courteeners frontman Liam Fray, plus the BBC readers and AI with his predictions for the fixtures on the opening weekend of the new Premier League season.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cn9nqzny7n7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cn9nqzny7n7o</guid>
+      <pubDate>Fri, 21 Aug 2026 06:46:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d433/live/6476cc20-98ac-11f1-a7ab-8b30adf0800a.png"/>
     </item>
     <item>
       <title><![CDATA[Tzolis shines in Premier League opener - Arsenal v Coventry player ratings]]></title>
@@ -208,20 +208,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6af9/live/3cef6b50-9d64-11f1-a07c-85afe5c51b6f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Spurs agree £75m deal for Savinho who 'wanted to leave' Man City]]></title>
-      <description><![CDATA[Tottenham have agreed a deal to sign Savinho for an initial £75m after the winger asked to leave Manchester City, according to boss Enzo Maresca.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo</guid>
-      <pubDate>Fri, 21 Aug 2026 06:30:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/030e/live/790b26f0-9d29-11f1-ba3e-c323fd3033f4.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Speed-dating, sharks & Hunted - unique pre-season tales from WSL 2]]></title>
       <description><![CDATA[BBC Sport looks into some of the unique ways Women's Super League 2 clubs have been preparing during pre-season.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cevmky1vgzzo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cevmky1vgzzo</guid>
       <pubDate>Fri, 21 Aug 2026 13:22:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f9b/live/ef27ad30-9d52-11f1-aac2-870643eea2ac.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Spurs agree £75m deal for Savinho who 'wanted to leave' Man City]]></title>
+      <description><![CDATA[Tottenham have agreed a deal to sign Savinho for an initial £75m after the winger asked to leave Manchester City, according to boss Enzo Maresca.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo</guid>
+      <pubDate>Fri, 21 Aug 2026 06:30:48 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/030e/live/790b26f0-9d29-11f1-ba3e-c323fd3033f4.jpg"/>
     </item>
     <item>
       <title><![CDATA[Inter complete £30m deal for Liverpool's Jones]]></title>
@@ -254,14 +254,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvg0jgy929do</guid>
       <pubDate>Fri, 21 Aug 2026 09:41:46 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6618/live/c473cd80-9d89-11f1-aed2-8d6da8d75094.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Premier League predictions 2026-27: BBC Sport pundits pick their top four]]></title>
-      <description><![CDATA[We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo</guid>
-      <pubDate>Thu, 20 Aug 2026 05:24:16 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f1/live/4444d1b0-9bb6-11f1-b109-879e35c24276.jpg"/>
     </item>
     <item>
       <title><![CDATA[England Women U20s squad named amid boycott threat]]></title>
@@ -336,6 +328,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32c5/live/37f5c4c0-96fa-11f1-a7ab-8b30adf0800a.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Premier League predictions 2026-27: BBC Sport pundits pick their top four]]></title>
+      <description><![CDATA[We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo</guid>
+      <pubDate>Thu, 20 Aug 2026 05:24:16 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f1/live/4444d1b0-9bb6-11f1-b109-879e35c24276.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Bellingham, Vinicius Jr and Mbappe not incompatible - Mourinho]]></title>
       <description><![CDATA[Real Madrid trio Jude Bellingham, Vinicius Jr and Kylian Mbappe can all play together in the same team successfully, new head coach Jose Mourinho says.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cdrv1nx150jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -375,14 +375,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwyq4vyxzxwo</guid>
       <pubDate>Fri, 21 Aug 2026 15:10:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fd6/live/a5470290-9d68-11f1-a07c-85afe5c51b6f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Chelsea reject initial Leeds loan bid for Mudryk]]></title>
-      <description><![CDATA[Chelsea reject an initial season-long loan offer from Leeds United for winger Mykhailo Mudryk.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c4gjv4xq2l8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gjv4xq2l8o</guid>
-      <pubDate>Fri, 21 Aug 2026 15:22:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6737/live/d3936e50-9aec-11f1-930b-57cfba7235f9.jpg"/>
     </item>
     <item>
       <title><![CDATA[How to follow the Premier League opening weekend on the BBC]]></title>
