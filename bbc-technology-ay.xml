@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 23:19:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 23:40:28 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Why students are being paid £2,000 to play computer games]]></title>
+      <description><![CDATA[Roehampton University offers students £2,000 a year to play esports alongside their studies.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cz647wlvg1do</guid>
+      <pubDate>Sun, 23 Aug 2026 23:23:55 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e70/live/c3634490-9c9c-11f1-a5a0-114ca9d4a1bc.jpg"/>
+    </item>
     <item>
       <title><![CDATA[TikTok to pay $400m to US in one of largest child privacy settlements]]></title>
       <description><![CDATA[The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the age of 13.]]></description>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c62em5lpvnjo</guid>
       <pubDate>Tue, 18 Aug 2026 09:26:41 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[US states call for big changes to Instagram and Facebook as Meta child privacy trial begins]]></title>
-      <description><![CDATA[US states are suing the social media giant to force an overhaul of its platforms for young users.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/clyqpx6xk69o</guid>
-      <pubDate>Tue, 18 Aug 2026 09:00:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c4d/live/36a87330-9aea-11f1-a291-b542ee92de7c.jpg"/>
     </item>
   </channel>
 </rss>
