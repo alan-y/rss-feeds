@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 18:26:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 19:01:26 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -72,6 +72,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7857/live/922fab50-9a1e-11f1-9a44-e568b7279c37.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Kane first Englishman to win Germany's player of the year award]]></title>
+      <description><![CDATA[Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win the award.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo</guid>
+      <pubDate>Sun, 23 Aug 2026 14:16:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/971e/live/f5c72370-9ef9-11f1-aed4-af6fe65bfcd6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['When you score at the end it tastes better' - Iraola]]></title>
+      <description><![CDATA[Liverpool head coach Andoni Iraola reacts to his sides 2-2 draw against Newcastle United on the opening weekend of the 2026-27 Premier League season.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/videos/c4gvgj0w9j2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c4gvgj0w9j2o</guid>
+      <pubDate>Sun, 23 Aug 2026 18:28:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9646/live/06631cb0-9f1e-11f1-b109-879e35c24276.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Aston Villa 'must accept everything' - Emery after Brighton thrashing]]></title>
       <description><![CDATA[Aston Villa manager Unai Emery reacts to a difficult opening day after a thrashing at the hands of Brighton, having conceding four goals in the first half.]]></description>
       <link>https://www.bbc.co.uk/sport/football/videos/c78g8y8vxpmo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -120,14 +136,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dea/live/d711fe20-9e57-11f1-a291-b542ee92de7c.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Wasteful Palace punished by Everton in Sage's first game]]></title>
-      <description><![CDATA[Everton beat Crystal Palace 2–0 to win their opening game of the Premier League season for the first time in five years, with goals from Kiernan Dewsbury‑Hall and Thierno.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/videos/c0m7dk4z82ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c0m7dk4z82ro</guid>
-      <pubDate>Sat, 22 Aug 2026 19:00:58 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53bc/live/30d71700-9e54-11f1-aed2-8d6da8d75094.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Rooney says Man Utd must become feared - but what went wrong at Hull?]]></title>
       <description><![CDATA[Manchester United made an awful start to their Premier League campaign at newly-promoted Hull. What went wrong?]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cvgxg1g8nkro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -144,14 +152,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eec/live/794c18e0-9edc-11f1-b054-07f783ef1041.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Kane first Englishman to win Germany's player of the year award]]></title>
-      <description><![CDATA[Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win the award.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo</guid>
-      <pubDate>Sun, 23 Aug 2026 14:16:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/971e/live/f5c72370-9ef9-11f1-aed4-af6fe65bfcd6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA['New season, new trim' - Haaland reveals buzzcut]]></title>
       <description><![CDATA[Manchester City striker Erling Haaland reveals his new buzz cut on social media.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -160,20 +160,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0010/live/8943d720-9ee5-11f1-b109-879e35c24276.png"/>
     </item>
     <item>
-      <title><![CDATA[What does Savinho's £75m move reveal about Man City's multi-club model?]]></title>
-      <description><![CDATA[Does Savinho's £75m move from Manchester City to Tottenham represent a sporting success for the Abu Dhabi-owned club?]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c3w0wpy86z7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3w0wpy86z7o</guid>
-      <pubDate>Sun, 23 Aug 2026 07:43:38 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff03/live/3a05b270-9e20-11f1-bc51-19e4b5ccc0f6.jpg"/>
+      <title><![CDATA['It hurts' - Alexander-Arnold reveals he still receives abuse after Liverpool exit]]></title>
+      <description><![CDATA[Trent Alexander-Arnold says he still receives abuse from Liverpool fans online after leaving Anfield for Real Madrid 14 months ago.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cqjxj2zz77ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqjxj2zz77ro</guid>
+      <pubDate>Sun, 23 Aug 2026 10:05:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cfa/live/e77effe0-9ec2-11f1-86f9-ff2d438d88d1.jpg"/>
     </item>
     <item>
-      <title><![CDATA[De Zerbi learns cash alone cannot fix Spurs' losing mentality]]></title>
-      <description><![CDATA[Spurs head coach Roberto De Zerbi discovers cash is no cure for a losing mentality as they crash to a heavy defeat at Brentford, says chief football writer Phil McNulty.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cd696j44jqyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd696j44jqyo</guid>
-      <pubDate>Sat, 22 Aug 2026 20:16:00 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c40f/live/f8337350-9e5b-11f1-92d9-fda6ee78d386.jpg"/>
+      <title><![CDATA[Wasteful Palace punished by Everton in Sage's first game]]></title>
+      <description><![CDATA[Everton beat Crystal Palace 2–0 to win their opening game of the Premier League season for the first time in five years, with goals from Kiernan Dewsbury‑Hall and Thierno.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/videos/c0m7dk4z82ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c0m7dk4z82ro</guid>
+      <pubDate>Sat, 22 Aug 2026 19:00:58 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53bc/live/30d71700-9e54-11f1-aed2-8d6da8d75094.jpg"/>
     </item>
     <item>
       <title><![CDATA[Relive: Keegan's Newcastle lose thriller to Liverpool]]></title>
@@ -227,12 +227,12 @@ Both clubs will pay tribute to Keegan before their Premier League opener at St J
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c791/live/156654f0-9e7b-11f1-b109-879e35c24276.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Spurs 'didn't fight in the right way' - De Zerbi ]]></title>
-      <description><![CDATA[Tottenham Hotspur head coach Roberto Di Zerbi believes his side "didn't fight in the right way" in their 3-0 loss to Brentford in the opening match of the 2026-27 Premier League season.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/videos/cp8x8jl4yj2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cp8x8jl4yj2o</guid>
-      <pubDate>Sat, 22 Aug 2026 19:23:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/999e/live/04701f00-9e5d-11f1-a291-b542ee92de7c.jpg"/>
+      <title><![CDATA[De Zerbi learns cash alone cannot fix Spurs' losing mentality]]></title>
+      <description><![CDATA[Spurs head coach Roberto De Zerbi discovers cash is no cure for a losing mentality as they crash to a heavy defeat at Brentford, says chief football writer Phil McNulty.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cd696j44jqyo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd696j44jqyo</guid>
+      <pubDate>Sat, 22 Aug 2026 20:16:00 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c40f/live/f8337350-9e5b-11f1-92d9-fda6ee78d386.jpg"/>
     </item>
     <item>
       <title><![CDATA[Flex your football brain with our daily quizzes]]></title>
@@ -243,12 +243,12 @@ Both clubs will pay tribute to Keegan before their Premier League opener at St J
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"/>
     </item>
     <item>
-      <title><![CDATA['It hurts' - Alexander-Arnold reveals he still receives abuse after Liverpool exit]]></title>
-      <description><![CDATA[Trent Alexander-Arnold says he still receives abuse from Liverpool fans online after leaving Anfield for Real Madrid 14 months ago.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cqjxj2zz77ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqjxj2zz77ro</guid>
-      <pubDate>Sun, 23 Aug 2026 10:05:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cfa/live/e77effe0-9ec2-11f1-86f9-ff2d438d88d1.jpg"/>
+      <title><![CDATA[What does Savinho's £75m move reveal about Man City's multi-club model?]]></title>
+      <description><![CDATA[Does Savinho's £75m move from Manchester City to Tottenham represent a sporting success for the Abu Dhabi-owned club?]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c3w0wpy86z7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c3w0wpy86z7o</guid>
+      <pubDate>Sun, 23 Aug 2026 07:43:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff03/live/3a05b270-9e20-11f1-bc51-19e4b5ccc0f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Alvarez open to Arsenal transfer - Sunday's gossip]]></title>
@@ -273,14 +273,6 @@ Both clubs will pay tribute to Keegan before their Premier League opener at St J
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cdx7x90dxywo</guid>
       <pubDate>Sat, 22 Aug 2026 17:49:41 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8479/live/19fea790-9e14-11f1-95e0-53a570c83624.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Life after Salah - why Isak and Wirtz must step up for Liverpool]]></title>
-      <description><![CDATA[Liverpool are preparing to begin a season without Mohamed Salah for the first time in a decade - but they haven't replaced him yet. This is why.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cd69dd1q4qlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd69dd1q4qlo</guid>
-      <pubDate>Sun, 23 Aug 2026 06:31:21 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1764/live/101cb1b0-9c87-11f1-95d8-5b0dba89a322.jpg"/>
     </item>
     <item>
       <title><![CDATA[Man City agree £86m deal for teen midfielder Bouaddi]]></title>
@@ -385,6 +377,14 @@ Both clubs will pay tribute to Keegan before their Premier League opener at St J
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c39e9vpjg1do</guid>
       <pubDate>Sat, 22 Aug 2026 20:10:40 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e3/live/7017a160-9e5d-11f1-92d9-fda6ee78d386.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[West Ham woe and why Millwall are team to beat  - McLean's EFL takeaways]]></title>
+      <description><![CDATA[Final Score EFL pundit Aaron McLean reflects on the highs and lows of Saturday's action.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c70g0e3njg3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c70g0e3njg3o</guid>
+      <pubDate>Sat, 22 Aug 2026 18:21:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f8/live/785fef60-801f-11f0-ab3e-bd52082cd0ae.png"/>
     </item>
     <item>
       <title><![CDATA[Bolt registers to play for Manchester Sunday league team]]></title>
@@ -513,14 +513,6 @@ Both clubs will pay tribute to Keegan before their Premier League opener at St J
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crl7l3yx0g9o</guid>
       <pubDate>Sun, 23 Aug 2026 08:58:49 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/510c/live/ceabf890-9e38-11f1-8a71-eb9ef5df2469.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Celtic pursue Serie A midfielder Gineitis - gossip]]></title>
-      <description><![CDATA[Celtic continue their pursuit of midfield options as Rangers prepare for a big name departure...]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cqjxjg5r0kyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqjxjg5r0kyo</guid>
-      <pubDate>Sun, 23 Aug 2026 08:08:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/822b/live/6ceea3f0-9ec9-11f1-b109-879e35c24276.png"/>
     </item>
     <item>
       <title><![CDATA[England Women U20s squad named amid boycott threat]]></title>
