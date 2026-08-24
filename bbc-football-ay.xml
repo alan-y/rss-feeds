@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 15:03:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:58:29 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -64,12 +64,28 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b064/live/471e3800-9bd8-11f1-bb4d-1147ef2e78e5.jpg"/>
     </item>
     <item>
+      <title><![CDATA[How the Guehi gamble paid off for Maresca]]></title>
+      <description><![CDATA[Match of the Day's Joe Hart discusses Manchester City's Marc Guehi and his performance in midfield, with plenty of praise for the centre half in a different position against Bournemouth.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/videos/cdewe13009do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cdewe13009do</guid>
+      <pubDate>Sun, 23 Aug 2026 23:02:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fa9/live/c7a10d20-9f40-11f1-b109-879e35c24276.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Mateta's contract claim leaves Palace with transfer decision]]></title>
       <description><![CDATA[Following a dispute over the length of his contract, will Jean-Philippe Mateta stay at Crystal Palace beyond the transfer window?]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cz6465pj4njo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cz6465pj4njo</guid>
       <pubDate>Mon, 24 Aug 2026 08:06:26 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0d9/live/24f29b60-9f2d-11f1-9470-1de69dec5d33.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Barcelona say police used 'disproportionate' force on fans]]></title>
+      <description><![CDATA[Barcelona accuse police of using "disproportionate force" against their fans before Sunday's 5-0 win away at Elche.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cpwl87rlqjvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cpwl87rlqjvo</guid>
+      <pubDate>Mon, 24 Aug 2026 15:14:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d09f/live/0724abd0-9fca-11f1-8dfa-d5875b87c784.jpg"/>
     </item>
     <item>
       <title><![CDATA[Uefa chief Ceferin rules out Fifa presidency bid]]></title>
@@ -94,22 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yrrzn1dnno</guid>
       <pubDate>Mon, 24 Aug 2026 05:35:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Relief for Iraola but Liverpool have work to do]]></title>
-      <description><![CDATA[Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improve after below-par display.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo</guid>
-      <pubDate>Sun, 23 Aug 2026 19:27:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6654/live/5aacfea0-9f21-11f1-b2a2-8945a27a2843.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[How the Guehi gamble paid off for Maresca]]></title>
-      <description><![CDATA[Match of the Day's Joe Hart discusses Manchester City's Marc Guehi and his performance in midfield, with plenty of praise for the centre half in a different position against Bournemouth.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/videos/cdewe13009do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cdewe13009do</guid>
-      <pubDate>Sun, 23 Aug 2026 23:02:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fa9/live/c7a10d20-9f40-11f1-b109-879e35c24276.jpg"/>
     </item>
     <item>
       <title><![CDATA['Energy, pace, passion' - Newcastle's dynamic performance]]></title>
@@ -158,6 +158,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ce343r7245no</guid>
       <pubDate>Sun, 23 Aug 2026 23:12:00 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0372/live/b7ea8db0-9f23-11f1-b730-67fb18a6ecb1.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Relief for Iraola but Liverpool have work to do]]></title>
+      <description><![CDATA[Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improve after below-par display.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo</guid>
+      <pubDate>Sun, 23 Aug 2026 19:27:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6654/live/5aacfea0-9f21-11f1-b2a2-8945a27a2843.jpg"/>
     </item>
     <item>
       <title><![CDATA[Watkins' absence at Brighton a question for him - Emery]]></title>
@@ -272,14 +280,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60f/live/862c0570-9f09-11f1-8ab2-7700e58d1417.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Al-Hilal open talks to sign Arsenal winger Martinelli]]></title>
-      <description><![CDATA[Saudi Arabian club Al-Hilal open negotiations with Arsenal over a move for Brazil forward Gabriel Martinelli. ]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo</guid>
-      <pubDate>Sun, 23 Aug 2026 17:37:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f940/live/651d0c30-9f18-11f1-b2a2-8945a27a2843.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why are Australians thriving in WSL but not Premier League?]]></title>
       <description><![CDATA[The Premier League used to feature a host of top Australians. Now there is just one player from the country in the competition, but it's a very different story in the WSL.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cx2v3yy9ed9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -296,20 +296,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/954f/live/046a1130-9f31-11f1-aed2-8d6da8d75094.png"/>
     </item>
     <item>
+      <title><![CDATA[Al-Hilal open talks to sign Arsenal winger Martinelli]]></title>
+      <description><![CDATA[Saudi Arabian club Al-Hilal open negotiations with Arsenal over a move for Brazil forward Gabriel Martinelli. ]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo</guid>
+      <pubDate>Sun, 23 Aug 2026 17:37:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f940/live/651d0c30-9f18-11f1-b2a2-8945a27a2843.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Gvardiol rescues result for Maresca - player ratings for Man City v Bournemouth]]></title>
       <description><![CDATA[How Man City and Bournemouth players rated following their Premier League match.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy0j01pr0p0o</guid>
       <pubDate>Sun, 23 Aug 2026 19:17:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fed4/live/2762bfc0-9f27-11f1-80f3-91ea4cf013d4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Kane first Englishman to win Germany's player of the year award]]></title>
-      <description><![CDATA[Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win the award.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo</guid>
-      <pubDate>Sun, 23 Aug 2026 14:16:55 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/971e/live/f5c72370-9ef9-11f1-aed4-af6fe65bfcd6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Using international football to reignite Premier League dreams]]></title>
@@ -334,6 +334,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c1414my6165o</guid>
       <pubDate>Sun, 23 Aug 2026 11:40:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eec/live/794c18e0-9edc-11f1-b054-07f783ef1041.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Kane first Englishman to win Germany's player of the year award]]></title>
+      <description><![CDATA[Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win the award.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo</guid>
+      <pubDate>Sun, 23 Aug 2026 14:16:55 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/971e/live/f5c72370-9ef9-11f1-aed4-af6fe65bfcd6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Is Sevilla's 'all-round striker' Ure ready to lead Scotland's attack?]]></title>
@@ -480,6 +488,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d3/live/7dfe1b00-7bb8-11f1-9510-1546718f668b.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Docherty appointed Scotland Under-21 head coach]]></title>
+      <description><![CDATA[Tony Docherty is named Scotland Under-21 head coach, with Steven Naismith as assistant.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cy4zyk4w78no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy4zyk4w78no</guid>
+      <pubDate>Mon, 24 Aug 2026 15:33:02 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de78/live/2b7c2940-9fcf-11f1-ba89-8d0bd2eb1384.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Girona winger Kim to undergo Rangers medical]]></title>
       <description><![CDATA[Girona winger Kim Min-Su is expected to arrive in Glasgow in the next 48 hours before a prospective move to Rangers.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/crr4ldl1wp0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -494,14 +510,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c5yj8de5d94o</guid>
       <pubDate>Mon, 24 Aug 2026 07:00:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6ac/live/45647990-9f87-11f1-aed2-8d6da8d75094.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['It's not doom and gloom just yet' - what is going on at Morton?]]></title>
-      <description><![CDATA[It's been a rocky start to the season for Morton with seven straight defeats, while the fans' group running the Championship club are dealing with a shortfall in funding.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/crl7l3yx0g9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crl7l3yx0g9o</guid>
-      <pubDate>Sun, 23 Aug 2026 08:58:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/510c/live/ceabf890-9e38-11f1-8a71-eb9ef5df2469.jpg"/>
     </item>
     <item>
       <title><![CDATA[England Women U20s squad named amid boycott threat]]></title>
