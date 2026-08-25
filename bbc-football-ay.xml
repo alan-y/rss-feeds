@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 05:15:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 05:50:39 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -58,6 +58,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8592/live/96f26f60-a004-11f1-a291-b542ee92de7c.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Flex your football brain with our daily quizzes]]></title>
+      <description><![CDATA[Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cd7llw7yzggo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cd7llw7yzggo</guid>
+      <pubDate>Tue, 25 Aug 2026 05:24:31 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Man City agree deal for Palmeiras winger Allan]]></title>
       <description><![CDATA[Manchester City agree to sign winger Allan Elias from Palmeiras in a deal worth up to £34.2m.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cpveylz0n8go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -90,14 +98,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e4c/live/1ec5a190-9fed-11f1-8f6f-6b425335bd44.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Does Elliott have a Liverpool future after latest omission?]]></title>
-      <description><![CDATA[Harvey Elliott's position at Liverpool looks uncertain following his absence from the matchday squad at Newcastle on the opening weekend of the Premier League season.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c5y589nwjk9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5y589nwjk9o</guid>
-      <pubDate>Mon, 24 Aug 2026 14:23:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0cb/live/ec9cbc90-9fc3-11f1-8648-8d7b77845e6d.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[McInnes could be in stand for first Old Firm game]]></title>
       <description><![CDATA[Derek McInnes could be in the stand for his first Old Firm match as Rangers manager after a hearing date of 31 August was set for his appeal against a touchline ban.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c750nd2419ko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -122,7 +122,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f12c/live/c4991580-a00a-11f1-aed2-8d6da8d75094.jpg"/>
     </item>
     <item>
-      <title><![CDATA['It would appear he's no longer wanting to play for Aston Villa' - does Watkins want out?]]></title>
+      <title><![CDATA['It would appear he no longer wants to play for Villa' - does Watkins want out?]]></title>
       <description><![CDATA[After being left out of Aston Villa's match-day squad against Brighton, Match of the Day's Gabby Logan, Danny Murphy and Joe Hart consider if Ollie Watkins is on the verge of leaving the club for Al Hilal.]]></description>
       <link>https://www.bbc.co.uk/sport/football/videos/cwy4y5k4kg4o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/cwy4y5k4kg4o</guid>
@@ -154,6 +154,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c7e/live/409f0a30-9ff3-11f1-aed2-8d6da8d75094.png"/>
     </item>
     <item>
+      <title><![CDATA[Does Elliott have a Liverpool future after latest omission?]]></title>
+      <description><![CDATA[Harvey Elliott's position at Liverpool looks uncertain following his absence from the matchday squad at Newcastle on the opening weekend of the Premier League season.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c5y589nwjk9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5y589nwjk9o</guid>
+      <pubDate>Mon, 24 Aug 2026 14:23:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0cb/live/ec9cbc90-9fc3-11f1-8648-8d7b77845e6d.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Villa in talks with Club Brugge for defender Ordonez]]></title>
       <description><![CDATA[Aston Villa are working on a move for Club Brugge central defender Joel Ordonez after failing to agree a deal with Southampton for Taylor Harwood-Bellis.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c0469r217q5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -176,14 +184,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cj4jxwxxvqyo</guid>
       <pubDate>Mon, 24 Aug 2026 17:28:40 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecef/live/4c7e0780-9fde-11f1-9c90-a93a719154c7.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Flex your football brain with our daily quizzes]]></title>
-      <description><![CDATA[Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c5yrrzn1dnno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c5yrrzn1dnno</guid>
-      <pubDate>Mon, 24 Aug 2026 05:35:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why 'woeful' Villa crumbled against Brighton]]></title>
@@ -240,6 +240,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c4gvgj0w9j2o</guid>
       <pubDate>Sun, 23 Aug 2026 18:28:28 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9646/live/06631cb0-9f1e-11f1-b109-879e35c24276.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Aston Villa 'must accept everything' - Emery after Brighton thrashing]]></title>
+      <description><![CDATA[Aston Villa manager Unai Emery reacts to a difficult opening day after a thrashing at the hands of Brighton, having conceding four goals in the first half.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/videos/c78g8y8vxpmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/videos/c78g8y8vxpmo</guid>
+      <pubDate>Sun, 23 Aug 2026 16:20:57 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a469/live/66cdbfe0-9f0c-11f1-a291-b542ee92de7c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fans suffer firework burns and eye injuries in Eredivisie]]></title>
