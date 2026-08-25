@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 21:36:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:57:31 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -64,12 +64,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fa1/live/93399c20-a0bf-11f1-a291-b542ee92de7c.png"/>
     </item>
     <item>
-      <title><![CDATA[Leeds and Rangers co-owner jailed after prostitution arrest]]></title>
-      <description><![CDATA[ Jed York pleaded no contest to two charges in Ohio after being arrested for soliciting prostitution.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c790wyyv71vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c790wyyv71vo</guid>
-      <pubDate>Tue, 25 Aug 2026 10:55:25 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da0/live/b4003d30-a06d-11f1-a9ee-9bb6b032b6a3.jpg"/>
+      <title><![CDATA[Cardiff's Anyadike, 15, sets new EFL Cup record as youngest player]]></title>
+      <description><![CDATA[Cardiff City's Noah Anyadike, 15, becomes the youngest player in EFL Cup history after starting their second-round defeat against Norwich City.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/czrzgzn1z5ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/czrzgzn1z5ro</guid>
+      <pubDate>Tue, 25 Aug 2026 21:17:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8980/live/cb4e7180-a0b0-11f1-8229-b91d73b62f74.jpg"/>
     </item>
     <item>
       <title><![CDATA[What does your Premier League club still need in the transfer window?]]></title>
@@ -78,6 +78,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4gql9p0qn2o</guid>
       <pubDate>Tue, 25 Aug 2026 16:17:47 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8423/live/fbaf0330-9fd4-11f1-aed2-8d6da8d75094.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Leeds and Rangers co-owner jailed after prostitution arrest]]></title>
+      <description><![CDATA[ Jed York pleaded no contest to two charges in Ohio after being arrested for soliciting prostitution.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c790wyyv71vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c790wyyv71vo</guid>
+      <pubDate>Tue, 25 Aug 2026 10:55:25 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da0/live/b4003d30-a06d-11f1-a9ee-9bb6b032b6a3.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ranking the best managers in Premier League history]]></title>
@@ -118,14 +126,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cvgy42l2v5go</guid>
       <pubDate>Tue, 25 Aug 2026 16:18:23 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdfa/live/ab039d50-a098-11f1-8a1f-314a01485cf4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Dalglish and Carney win PFA merit awards]]></title>
-      <description><![CDATA[Liverpool and Scotland legend Sir Kenny Dalglish and Lionesses great Karen Carney win the Professional Footballers' Association's merit awards for 2026.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cn8e7q501j3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cn8e7q501j3o</guid>
-      <pubDate>Tue, 25 Aug 2026 10:01:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4420/live/0a133670-a05d-11f1-a291-b542ee92de7c.png"/>
     </item>
     <item>
       <title><![CDATA['I'm very proud of this' - Fernandes wins PFA player of the year]]></title>
@@ -242,6 +242,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a9/live/eb749380-9f03-11f1-aed2-8d6da8d75094.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Dalglish and Carney win PFA merit awards]]></title>
+      <description><![CDATA[Liverpool and Scotland legend Sir Kenny Dalglish and Lionesses great Karen Carney win the Professional Footballers' Association's merit awards for 2026.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cn8e7q501j3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cn8e7q501j3o</guid>
+      <pubDate>Tue, 25 Aug 2026 10:01:23 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4420/live/0a133670-a05d-11f1-a291-b542ee92de7c.png"/>
+    </item>
+    <item>
       <title><![CDATA[Grealish back for Man City - but for how long?]]></title>
       <description><![CDATA[Man City winger has made two substitute appearances so far this season, but his future remains in doubt.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cy0znx93x05o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -282,14 +290,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4101/live/2d345f20-a054-11f1-94bd-930e18756ae0.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Change is necessary' - players unite against Fifa]]></title>
-      <description><![CDATA[A number of current and former footballers unite against Fifa president Gianni Infantino, stating that "change is necessary" at the global governing body.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cy4zl2mz9rko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy4zl2mz9rko</guid>
-      <pubDate>Tue, 25 Aug 2026 06:31:19 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1074/live/aaa414a0-a04a-11f1-aacc-21a045d9c0c6.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Alvarez's Arsenal dilemma amid summer's most bitter transfer tussle]]></title>
       <description><![CDATA[An analysis of Julian Alvarez's future with the transfer window closing on 1 September - and the Argentine's chances of a move from Atletico Madrid to Arsenal.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c750nd7yq7yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -314,6 +314,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c5/live/0d070e60-9fd6-11f1-b1ca-0b18d44a4d5d.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Change is necessary' - players unite against Fifa]]></title>
+      <description><![CDATA[A number of current and former footballers unite against Fifa president Gianni Infantino, stating that "change is necessary" at the global governing body.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/cy4zl2mz9rko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy4zl2mz9rko</guid>
+      <pubDate>Tue, 25 Aug 2026 06:31:19 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1074/live/aaa414a0-a04a-11f1-aacc-21a045d9c0c6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Ethiopia bids to host 2028 Afcon despite having only one approved stadium]]></title>
       <description><![CDATA[Ethiopia submits a bid to host the 2028 Africa Cup of Nations despite lacking enough stadiums to host a 24-team tournament.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/c2e0dl2xkzko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -330,14 +338,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfb8/live/1823e460-a096-11f1-91dc-4919512f173f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[McInnes could be in stand for first Old Firm game]]></title>
-      <description><![CDATA[Derek McInnes could be in the stand for his first Old Firm match as Rangers manager after a hearing date of 31 August was set for his appeal against a touchline ban.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/c750nd2419ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c750nd2419ko</guid>
-      <pubDate>Mon, 24 Aug 2026 14:15:19 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2e/live/99a241b0-861c-11f1-aba5-dfbb15fd1ac1.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Man City agree deal for Palmeiras winger Allan]]></title>
       <description><![CDATA[Manchester City agree to sign winger Allan Elias from Palmeiras in a deal worth up to £34.2m.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cpveylz0n8go?at_medium=RSS&amp;at_campaign=rss</link>
@@ -346,12 +346,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cce/live/de1cd070-9fea-11f1-8f6f-6b425335bd44.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Rogers & Palmer star but Sanchez struggles - Fulham v Chelsea player ratings]]></title>
-      <description><![CDATA[Morgan Rogers scores on his Chelsea debut as Xabi Alonso's side beat Fulham at Craven Cottage - here are BBC Sport's player ratings. ]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cx2d2w7z190o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cx2d2w7z190o</guid>
-      <pubDate>Mon, 24 Aug 2026 20:54:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613f/live/4530ea30-9ffa-11f1-be19-71b839ccdc73.jpg"/>
+      <title><![CDATA[McInnes could be in stand for first Old Firm game]]></title>
+      <description><![CDATA[Derek McInnes could be in the stand for his first Old Firm match as Rangers manager after a hearing date of 31 August was set for his appeal against a touchline ban.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c750nd2419ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c750nd2419ko</guid>
+      <pubDate>Mon, 24 Aug 2026 14:15:19 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2e/live/99a241b0-861c-11f1-aba5-dfbb15fd1ac1.jpg"/>
     </item>
     <item>
       <title><![CDATA[Does Elliott have a Liverpool future after latest omission?]]></title>
