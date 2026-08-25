@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/football</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 23:32:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:56:15 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/football/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[O'Neill takes responsibility with nowhere to hide for Celtic]]></title>
+      <description><![CDATA[Celtic manager Martin O'Neill says his team have a "million miles to go" after defeat in Austria.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/c7506lkw1gno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c7506lkw1gno</guid>
+      <pubDate>Tue, 25 Aug 2026 23:35:46 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ff/live/3a0293a0-a0dd-11f1-9eb4-25fa73e257d0.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Forest agree £50m deal for Chelsea striker Delap]]></title>
       <description><![CDATA[Nottingham Forest have agreed a fee worth around £50m to sign Chelsea striker Liam Delap.]]></description>
@@ -70,14 +78,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/czrzgzn1z5ro</guid>
       <pubDate>Tue, 25 Aug 2026 21:17:12 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8980/live/cb4e7180-a0b0-11f1-8229-b91d73b62f74.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Exhausted and fragile - how Celtic's capitulation unfolded]]></title>
-      <description><![CDATA[BBC Scotland guides you through the timeline in Celtic's Champions League reverse in Austria.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/crerjz8814qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crerjz8814qo</guid>
-      <pubDate>Tue, 25 Aug 2026 23:12:09 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b9c/live/74042430-a0d6-11f1-87d1-67808c68f5ae.jpg"/>
     </item>
     <item>
       <title><![CDATA[What does your Premier League club still need in the transfer window?]]></title>
@@ -250,6 +250,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4420/live/0a133670-a05d-11f1-a291-b542ee92de7c.png"/>
     </item>
     <item>
+      <title><![CDATA[Exhausted and fragile - how Celtic's capitulation unfolded]]></title>
+      <description><![CDATA[BBC Scotland guides you through the timeline in Celtic's Champions League reverse in Austria.]]></description>
+      <link>https://www.bbc.co.uk/sport/football/articles/crerjz8814qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/crerjz8814qo</guid>
+      <pubDate>Tue, 25 Aug 2026 23:12:09 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b9c/live/74042430-a0d6-11f1-87d1-67808c68f5ae.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[FA approves WSL academy sides in National League]]></title>
       <description><![CDATA[Women's Super League (WSL) academy sides will play in tier three of the football pyramid from the 2027-28 season with the divisive proposal approved by the Football Association.]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cx2zyzvvvzpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -394,14 +402,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2955/live/4e45a290-9fa6-11f1-aed2-8d6da8d75094.jpg"/>
     </item>
     <item>
-      <title><![CDATA[The maths whizz turned £86m teenage star heading to Man City]]></title>
-      <description><![CDATA[Manchester City have agreed a deal in principle with Lille to sign midfielder Ayyoub Bouaddi - what makes him such a highly rated talent?]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cwylg0kp5lwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cwylg0kp5lwo</guid>
-      <pubDate>Sun, 23 Aug 2026 12:44:36 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7857/live/922fab50-9a1e-11f1-9a44-e568b7279c37.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Quiz: Do you know these footballers from their haircuts?]]></title>
       <description><![CDATA[Erling Haaland shaved off his flowing blond locks before the new Premier League season - but do you recognise these other footballers from their haircuts?]]></description>
       <link>https://www.bbc.co.uk/sport/football/articles/cwyeye08929o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -520,14 +520,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj642ld8px1o</guid>
       <pubDate>Tue, 25 Aug 2026 19:03:00 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76a9/live/6c369ed0-a09b-11f1-8a1f-314a01485cf4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Docherty appointed Scotland Under-21 head coach]]></title>
-      <description><![CDATA[Tony Docherty is named Scotland Under-21 head coach, with Steven Naismith as assistant.]]></description>
-      <link>https://www.bbc.co.uk/sport/football/articles/cy4zyk4w78no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cy4zyk4w78no</guid>
-      <pubDate>Mon, 24 Aug 2026 15:33:02 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de78/live/2b7c2940-9fcf-11f1-ba89-8d0bd2eb1384.jpg"/>
     </item>
     <item>
       <title><![CDATA['Super proud' - Smith wins consecutive PFA young player of the year]]></title>
