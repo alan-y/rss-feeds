@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 23:56:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 01:14:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Musk's SpaceX to build $100bn launch facility in Louisiana]]></title>
+      <description><![CDATA[The project will be the firm's biggest facility yet and aims to send rockets to space in 2029.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq5xel4v642o</guid>
+      <pubDate>Wed, 26 Aug 2026 01:10:17 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0154/live/eb4cb0b0-a0e6-11f1-ae86-873e58ca67d5.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Firms scramble for battery power in Spain and Portugal]]></title>
       <description><![CDATA[After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.]]></description>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo</guid>
       <pubDate>Wed, 19 Aug 2026 16:04:16 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d7/live/94b09ad0-9bd4-11f1-bb4d-1147ef2e78e5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI slows down training after its AI carried out hack]]></title>
-      <description><![CDATA[The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c235dmndylzo</guid>
-      <pubDate>Wed, 19 Aug 2026 11:19:12 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc62/live/f7f452d0-9bbb-11f1-9cab-ed9e722cbe4c.jpg"/>
     </item>
   </channel>
 </rss>
