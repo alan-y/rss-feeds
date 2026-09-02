@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 02 Sep 2026 00:32:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 05:02:40 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group]]></title>
+      <description><![CDATA[Booking.com said the "limited test" was "not a true reflection of the experience of millions of listings or reviews".]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cly4e0wn452o</guid>
+      <pubDate>Wed, 02 Sep 2026 01:27:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Will self-flying planes transform the skies?]]></title>
       <description><![CDATA[Autonomous crop-spraying aircraft are leading the way in pilot-free flying.]]></description>
@@ -111,14 +119,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c17jlngexy9o</guid>
       <pubDate>Wed, 26 Aug 2026 15:38:49 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e75/live/80f6b0f0-a15c-11f1-aaf8-119f176ff4ce.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[AI gold rush draws crypto firms away from Bitcoin]]></title>
-      <description><![CDATA[The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c07ler8x9kpo</guid>
-      <pubDate>Tue, 25 Aug 2026 23:11:02 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c2d/live/88718a80-a07b-11f1-bfeb-dfb02ea642ef.png"/>
     </item>
   </channel>
 </rss>
