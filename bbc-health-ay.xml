@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 21:07:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 23:19:42 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Transplanted pig kidney works in US man's body for record 271 days]]></title>
+      <description><![CDATA[A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c305qn2jeggo</guid>
+      <pubDate>Thu, 03 Sep 2026 22:31:23 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7ac/live/9ea66460-a7b5-11f1-b5cf-8556ae508a51.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Children as young as six going to A&E in mental health crisis]]></title>
       <description><![CDATA[NHS emergency departments are seeing more cases of self-harm, eating disorders and emotional distress in young people.]]></description>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c1e5p51n2p2o</guid>
       <pubDate>Tue, 25 Aug 2026 23:40:38 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55d4/live/9aa98d10-a08a-11f1-8116-c5aabe4388a9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[HPV home-testing kits available for women in England who have missed cervical screening]]></title>
-      <description><![CDATA[Nearly four million women in England can order a self-testing kits to check for high-risk HPV.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c9w4jgg4y55o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9w4jgg4y55o</guid>
-      <pubDate>Mon, 24 Aug 2026 23:27:50 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e70/live/3e5420e0-9fd4-11f1-a291-b542ee92de7c.png"/>
     </item>
     <item>
       <title><![CDATA[Why 'sleepmaxxing' could be making your sleep worse]]></title>
