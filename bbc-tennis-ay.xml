@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 09 Sep 2026 05:12:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 09:51:52 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Shelton beats Alcaraz in latest-ever US Open finish to reach semis]]></title>
+      <description><![CDATA[Carlos Alcaraz's US Open title defence is over after a dramatic five-set quarter-final loss to Ben Shelton that ends at 03:34 local time.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo</guid>
+      <pubDate>Wed, 09 Sep 2026 09:03:44 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cfd/live/de377d00-ac22-11f1-9bd9-7b7da208bd5c.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Tiafoe consoles tearful Michelsen after remarkable comeback]]></title>
       <description><![CDATA[Frances Tiafoe comes from two sets and a break down to beat Alex Michelsen in a thrilling comeback to reach the US Open semi-finals.]]></description>
@@ -32,20 +40,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6342/live/4c500960-abb5-11f1-bb85-fd7540ffe1df.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How Alcaraz can single-handedly end American dreams]]></title>
-      <description><![CDATA[Three Americans have the chance to become the first home US Open men's champion since 2003. But Carlos Alcaraz stands in the way.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/c86xgxenyz9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c86xgxenyz9o</guid>
-      <pubDate>Tue, 08 Sep 2026 09:56:43 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf79/live/bd2f3300-ab4b-11f1-8e27-d7d44e0117ca.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Hewett and Reid bid for sixth US Open title]]></title>
-      <description><![CDATA[Alfie Hewett and Gordon Reid start their bid for a sixth wheelchair doubles title at the US Open with a dominant victory in New York.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/czjzmex1dv9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/czjzmex1dv9o</guid>
-      <pubDate>Tue, 08 Sep 2026 21:57:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2040/live/4b2c4b10-abcf-11f1-897e-d7c2bae07186.jpg"/>
+      <title><![CDATA[Osaka makes passionate defence of on-court outfits]]></title>
+      <description><![CDATA[Naomi Osaka says any criticism she receives for her outfits is "worth it" if it means "the people after me have an easier path".]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cm27vzjkm7zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cm27vzjkm7zo</guid>
+      <pubDate>Wed, 09 Sep 2026 07:14:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca70/live/980f3790-ac19-11f1-940e-bf738e043799.jpg"/>
     </item>
     <item>
       <title><![CDATA[Gauff's statement win completes stacked US Open last eight]]></title>
@@ -54,6 +54,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o</guid>
       <pubDate>Tue, 08 Sep 2026 02:59:35 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fed3/live/b9bfc7e0-ab21-11f1-9d2e-db9e6e136bce.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Hewett and Reid bid for sixth US Open title]]></title>
+      <description><![CDATA[Alfie Hewett and Gordon Reid start their bid for a sixth wheelchair doubles title at the US Open with a dominant victory in New York.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/czjzmex1dv9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/czjzmex1dv9o</guid>
+      <pubDate>Tue, 08 Sep 2026 21:57:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2040/live/4b2c4b10-abcf-11f1-897e-d7c2bae07186.jpg"/>
     </item>
     <item>
       <title><![CDATA[From match point to US Open exit - lucky loser denied history]]></title>
@@ -80,12 +88,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1388/live/d641cd80-aae7-11f1-aed2-8d6da8d75094.jpg"/>
     </item>
     <item>
-      <title><![CDATA[I can't relate to pressure Eala faces - Gauff]]></title>
-      <description><![CDATA[World number four Coco Gauff says she "can't really empathise" with rising Filipino star Alexandra Eala because "she has more pressure than I do".]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/c4gm8k0m2kzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c4gm8k0m2kzo</guid>
-      <pubDate>Mon, 07 Sep 2026 07:50:16 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/998c/live/c1a913b0-aa8d-11f1-9e5d-f9e7792c40d7.jpg"/>
+      <title><![CDATA[How to follow US Open on the BBC]]></title>
+      <description><![CDATA[Everything you need to know about the 2026 US Open, including how to follow the tournament across the BBC.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cddv720123vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cddv720123vo</guid>
+      <pubDate>Mon, 07 Sep 2026 22:41:07 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5acb/live/0967b7d0-9fe7-11f1-8ed1-41aaf1fca4f2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Alcaraz delivers statement win to reach last eight]]></title>
@@ -96,12 +104,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab66/live/410b6450-aa2a-11f1-aed2-8d6da8d75094.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How to follow US Open on the BBC]]></title>
-      <description><![CDATA[Everything you need to know about the 2026 US Open, including how to follow the tournament across the BBC.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cddv720123vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cddv720123vo</guid>
-      <pubDate>Mon, 07 Sep 2026 22:41:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5acb/live/0967b7d0-9fe7-11f1-8ed1-41aaf1fca4f2.jpg"/>
+      <title><![CDATA[I can't relate to pressure Eala faces - Gauff]]></title>
+      <description><![CDATA[World number four Coco Gauff says she "can't really empathise" with rising Filipino star Alexandra Eala because "she has more pressure than I do".]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/c4gm8k0m2kzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c4gm8k0m2kzo</guid>
+      <pubDate>Mon, 07 Sep 2026 07:50:16 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/998c/live/c1a913b0-aa8d-11f1-9e5d-f9e7792c40d7.jpg"/>
     </item>
     <item>
       <title><![CDATA[Fritz and Cobolli shocked as men's seeds tumble]]></title>
@@ -126,14 +134,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cjw5vwlq1n3o</guid>
       <pubDate>Sat, 05 Sep 2026 04:09:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d4f/live/29482390-a8d5-11f1-be3b-5176b67c0c1a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[No Brits left in US Open singles - but are there reasons to be positive?]]></title>
-      <description><![CDATA[There will be no British interest in the second week of another Grand Slam at the US Open - but is it all doom and gloom?]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cy4zvjk74ppo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cy4zvjk74ppo</guid>
-      <pubDate>Sat, 05 Sep 2026 09:26:14 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba3d/live/2cca7510-a8ec-11f1-adb4-d97572157911.jpg"/>
     </item>
     <item>
       <title><![CDATA[Williams sisters crash out of US Open after losing to Chan and Joint]]></title>
@@ -174,6 +174,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/videos/c75y2rgvv96o</guid>
       <pubDate>Sun, 12 Jul 2026 21:03:22 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6b/live/8e381260-7e32-11f1-b976-0b9c15b0ccfc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[No Brits left in US Open singles - but are there reasons to be positive?]]></title>
+      <description><![CDATA[There will be no British interest in the second week of another Grand Slam at the US Open - but is it all doom and gloom?]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cy4zvjk74ppo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cy4zvjk74ppo</guid>
+      <pubDate>Sat, 05 Sep 2026 09:26:14 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba3d/live/2cca7510-a8ec-11f1-adb4-d97572157911.jpg"/>
     </item>
     <item>
       <title><![CDATA[Gauff wins but mixed fortunes for home hopes at US Open]]></title>
@@ -222,14 +230,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c4gj0x5z10go</guid>
       <pubDate>Thu, 03 Sep 2026 23:23:20 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca1/live/ba4fcfa0-a6ff-11f1-9deb-1f1584451e2c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Sabalenka earns 53-minute US Open win - but tension still shows]]></title>
-      <description><![CDATA[Two-time defending champion Aryna Sabalenka cruises into the US Open third round before a spiky exchange with a journalist.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/ce8emkzpxmmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ce8emkzpxmmo</guid>
-      <pubDate>Thu, 03 Sep 2026 02:21:11 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ee/live/98c7d600-a733-11f1-b2fc-b90b4b6e44c1.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Sinner slid his way to Wimbledon glory]]></title>
