@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 08 Sep 2026 22:25:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 00:34:12 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Very hot drinks may damage the food pipe and increase cancer risk]]></title>
+      <description><![CDATA[Steaming hot liquid can damage the cell lining on the way down to the stomach, experts say.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce3r77d9n90o</guid>
+      <pubDate>Tue, 08 Sep 2026 23:30:39 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/779f/live/b37430c0-aaa8-11f1-9eba-7de947fa7cd1.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Support for disability benefits 'remarkably strong' report finds]]></title>
       <description><![CDATA[About 7% of those polled wanted disability benefit cuts, according to the latest British Social Attitudes survey.]]></description>
@@ -110,14 +118,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/clyx0gzynneo</guid>
       <pubDate>Thu, 27 Aug 2026 23:13:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21ec/live/6e373a20-a2a6-11f1-b109-879e35c24276.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Salmonella outbreak: What we know so far ]]></title>
-      <description><![CDATA[Hundreds have fallen ill with salmonella infections in an outbreak linked to imported eggs. ]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cp30gqnpqjqo</guid>
-      <pubDate>Thu, 27 Aug 2026 11:02:19 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b42/live/0e674fe0-9bdf-11f1-ba30-ddd78081057f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why 'sleepmaxxing' could be making your sleep worse]]></title>
