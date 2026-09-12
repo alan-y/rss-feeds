@@ -10,18 +10,26 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 12 Sep 2026 16:22:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:44:07 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
       <title><![CDATA[Anthropic boss Dario Amodei calls for AI development to slow down]]></title>
-      <description><![CDATA[Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.]]></description>
+      <description><![CDATA[The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.]]></description>
       <link>https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c14dpgm0rg4o</guid>
-      <pubDate>Sat, 12 Sep 2026 15:53:43 GMT</pubDate>
+      <pubDate>Sat, 12 Sep 2026 17:42:38 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Dramatic insider warnings over AI fall flat with some in Silicon Valley]]></title>
+      <description><![CDATA[A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq635037g18o</guid>
+      <pubDate>Sat, 12 Sep 2026 17:28:53 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/203a/live/5d11e480-ae26-11f1-a540-61c3f7fc4e6c.jpg"/>
     </item>
     <item>
       <title><![CDATA[PlayStation gambles with 18-rated Wolverine game - will it pay off?]]></title>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c1j1896e973o</guid>
       <pubDate>Tue, 08 Sep 2026 23:05:23 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb6c/live/d0ef5870-900c-11f1-aabc-c3c7aa714117.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[OpenAI says it cracked 90-year-old maths problem in 88 hours]]></title>
-      <description><![CDATA[OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy. ]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy7zygy3rl2o</guid>
-      <pubDate>Tue, 08 Sep 2026 20:57:09 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg"/>
     </item>
   </channel>
 </rss>
