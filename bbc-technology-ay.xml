@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 06:24:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:18:41 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Why are there concerns AI could threaten humanity, and how real are they?]]></title>
+      <description><![CDATA[Existential fears about AI have once again reared their head - here's what you need to know. ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c790xvnzgnno</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b6/live/889402c0-b036-11f1-9ae0-e316eeb4632d.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Trump downplays warnings of AI risks, citing rivalry with China]]></title>
       <description><![CDATA[The US president said "negative forces" were airing concerns about "things that won't happen".]]></description>
@@ -29,7 +37,7 @@
       <link>https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwyzp47py48o</guid>
       <pubDate>Sun, 13 Sep 2026 18:20:22 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b55d/live/2989a230-afa0-11f1-b88f-8308bd3510af.jpg"/>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99cd/live/76ef92d0-b015-11f1-b1d1-571ed4d7ff2c.jpg"/>
     </item>
     <item>
       <title><![CDATA[AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC]]></title>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckgwy1k42w4o</guid>
       <pubDate>Wed, 09 Sep 2026 15:34:09 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cace/live/40c59310-ac2a-11f1-9bd9-7b7da208bd5c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[White House pulls Tetris-style 'Build The Wall' game after copyright concern]]></title>
-      <description><![CDATA[The Tetris Company says it takes "copyright infringement very seriously" and is not involved with the game.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9v9djj4m3do</guid>
-      <pubDate>Wed, 09 Sep 2026 12:06:40 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4129/live/deb20cc0-ac39-11f1-b483-f5be285e6b7e.jpg"/>
     </item>
   </channel>
 </rss>
