@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 21 Sep 2026 01:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:28:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -152,14 +152,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d6c/live/1c0aaf60-aed7-11f1-b1d1-571ed4d7ff2c.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Townsend & Siniakova complete career Slam in New York]]></title>
-      <description><![CDATA[Katerina Siniakova and Taylor Townsend win the women's doubles at the US Open to complete a historic career doubles Grand Slam.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cx2zp20ykeno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cx2zp20ykeno</guid>
-      <pubDate>Fri, 11 Sep 2026 20:21:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0a2/live/3449ea60-ae1d-11f1-8225-ff6477b4e227.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[GB qualify for Davis Cup Finals after doubles win]]></title>
       <description><![CDATA[Great Britain qualify for the Davis Cup Finals after taking an unassailable 3-0 lead over Ecuador as Henry Patten and Neal Skupski beat Gonzalo Escobar and Diego Hidalgo 6-3 6-4.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/videos/cwx2z105mx48o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -201,6 +193,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/videos/cq63znqlq70o</guid>
       <pubDate>Sun, 13 Sep 2026 10:30:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/79b89260-af5b-11f1-b1d1-571ed4d7ff2c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Townsend & Siniakova complete career Slam in New York]]></title>
+      <description><![CDATA[Katerina Siniakova and Taylor Townsend win the women's doubles at the US Open to complete a historic career doubles Grand Slam.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cx2zp20ykeno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cx2zp20ykeno</guid>
+      <pubDate>Fri, 11 Sep 2026 20:21:41 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0a2/live/3449ea60-ae1d-11f1-8225-ff6477b4e227.jpg"/>
     </item>
     <item>
       <title><![CDATA[American Shelton to face Zverev in US Open final]]></title>
@@ -249,14 +249,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cwyzp5v2ye6o</guid>
       <pubDate>Thu, 10 Sep 2026 05:35:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf3e/live/69eee270-acb4-11f1-b1d1-571ed4d7ff2c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Just a number' - Rybakina's rise to world number one]]></title>
-      <description><![CDATA[Elena Rybakina becomes the new women's world number one after reaching the US Open semi-finals, ending Aryna Sabalenka's 99-week reign at the top of the rankings.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/c70l7qgw87do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c70l7qgw87do</guid>
-      <pubDate>Wed, 09 Sep 2026 19:00:02 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31d4/live/1f7b1f30-ac80-11f1-a540-61c3f7fc4e6c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Shelton reaches semis after beating Alcaraz in five-set epic]]></title>
@@ -355,6 +347,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ab0/live/8dad8aa0-7dfb-11f1-926f-c90d1bcfbc84.jpg"/>
     </item>
     <item>
+      <title><![CDATA['Just a number' - Rybakina's rise to world number one]]></title>
+      <description><![CDATA[Elena Rybakina becomes the new women's world number one after reaching the US Open semi-finals, ending Aryna Sabalenka's 99-week reign at the top of the rankings.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/c70l7qgw87do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c70l7qgw87do</guid>
+      <pubDate>Wed, 09 Sep 2026 19:00:02 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31d4/live/1f7b1f30-ac80-11f1-a540-61c3f7fc4e6c.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[No Brits left in US Open singles - but are there reasons to be positive?]]></title>
       <description><![CDATA[There will be no British interest in the second week of another Grand Slam at the US Open - but is it all doom and gloom?]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/articles/cy4zvjk74ppo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -393,14 +393,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cn0nrgp7nqlo</guid>
       <pubDate>Fri, 31 Jul 2026 18:30:43 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c512/live/84fe04d0-8d86-11f1-a7ab-8b30adf0800a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[From shock loss to Wimbledon title - resilient Sinner rises back to top]]></title>
-      <description><![CDATA[For a brief moment after his shock French Open loss, Jannik Sinner appeared vulnerable. He answered the critics by storming to a second Wimbledon title.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cx2v84zje83o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cx2v84zje83o</guid>
-      <pubDate>Sun, 12 Jul 2026 22:52:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38ee/live/f22bb240-7e41-11f1-a07f-631014235e99.jpg"/>
     </item>
     <item>
       <title><![CDATA[The people and places that shaped a two-time Wimbledon champion]]></title>
