@@ -10,17 +10,33 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 24 Sep 2026 06:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:56:05 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
-      <title><![CDATA[OpenAI agent 'infiltrated' Australian government website, PM says]]></title>
-      <description><![CDATA[Albanese said he expressed "concern" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.]]></description>
+      <title><![CDATA[FBI investigates claim by hackers they stole data on all agency staff]]></title>
+      <description><![CDATA[The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9n74574elljo</guid>
+      <pubDate>Thu, 24 Sep 2026 11:46:07 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Are we back in big tech's 'move fast and break things' era?]]></title>
+      <description><![CDATA[Despite promises to make safe AI, examples of bots behaving badly are now coming at us thick and fast.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o</guid>
+      <pubDate>Thu, 24 Sep 2026 11:29:20 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f9/live/bf71f270-b801-11f1-97e1-83bf52ec4acd.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rogue OpenAI agent 'infiltrated' Australian government website in world first]]></title>
+      <description><![CDATA[Australia criticised OpenAI for taking "too long" to tell them about the breach which happened in June.]]></description>
       <link>https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6vgy0333dppo</guid>
-      <pubDate>Thu, 24 Sep 2026 03:22:54 GMT</pubDate>
+      <pubDate>Thu, 24 Sep 2026 07:10:58 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg"/>
     </item>
     <item>
@@ -86,22 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvj64gz74ky4o</guid>
       <pubDate>Tue, 22 Sep 2026 14:51:39 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d0/live/a8257e70-b6a3-11f1-ba3d-1d5c8a47f823.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Not all AI workers think the tech could kill everyone]]></title>
-      <description><![CDATA[In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5y7qj54klpo</guid>
-      <pubDate>Sat, 19 Sep 2026 23:01:57 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae2c/live/f246e690-b3a3-11f1-84e0-d100e0413eb5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Google's Gemini AI hacked three companies in security test]]></title>
-      <description><![CDATA[The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c607l0k72rlvo</guid>
-      <pubDate>Sat, 19 Sep 2026 13:39:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg"/>
     </item>
   </channel>
 </rss>
