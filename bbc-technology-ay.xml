@@ -10,17 +10,33 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 24 Sep 2026 11:56:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 16:32:26 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
-      <title><![CDATA[FBI investigates claim by hackers they stole data on all agency staff]]></title>
+      <title><![CDATA[Rogue OpenAI agent 'infiltrated' Australian government website in world first]]></title>
+      <description><![CDATA[Australia criticised OpenAI for taking "too long" to tell them about the breach which happened in June.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6vgy0333dppo</guid>
+      <pubDate>Thu, 24 Sep 2026 15:42:07 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?]]></title>
+      <description><![CDATA[News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw24jm9rryy3o</guid>
+      <pubDate>Thu, 24 Sep 2026 14:08:38 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[FBI investigating claim hackers have stolen details of all its agents]]></title>
       <description><![CDATA[The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.]]></description>
       <link>https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9n74574elljo</guid>
-      <pubDate>Thu, 24 Sep 2026 11:46:07 GMT</pubDate>
+      <pubDate>Thu, 24 Sep 2026 12:23:52 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg"/>
     </item>
     <item>
@@ -30,14 +46,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o</guid>
       <pubDate>Thu, 24 Sep 2026 11:29:20 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f9/live/bf71f270-b801-11f1-97e1-83bf52ec4acd.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Rogue OpenAI agent 'infiltrated' Australian government website in world first]]></title>
-      <description><![CDATA[Australia criticised OpenAI for taking "too long" to tell them about the breach which happened in June.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6vgy0333dppo</guid>
-      <pubDate>Thu, 24 Sep 2026 07:10:58 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg"/>
     </item>
     <item>
       <title><![CDATA[Indians are discovering the thrill of shopping without paying ]]></title>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro</guid>
       <pubDate>Tue, 22 Sep 2026 22:04:31 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e53/live/1223df10-b730-11f1-a430-4d16ee157c41.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Call of Duty's Activision to make next Halo game as Xbox cuts more jobs ]]></title>
-      <description><![CDATA[The news comes as part of a "reset" announced by Xbox in July, with 3,600 planned job losses overall.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvj64gz74ky4o</guid>
-      <pubDate>Tue, 22 Sep 2026 14:51:39 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d0/live/a8257e70-b6a3-11f1-ba3d-1d5c8a47f823.png"/>
     </item>
   </channel>
 </rss>
