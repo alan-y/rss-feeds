@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 24 Sep 2026 16:32:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 20:06:33 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Why Australia chose the world's biggest political stage to reveal OpenAI hack]]></title>
+      <description><![CDATA[Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr3eqk15ld14o</guid>
+      <pubDate>Thu, 24 Sep 2026 18:06:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c6/live/2164cc30-b804-11f1-97e1-83bf52ec4acd.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Rogue OpenAI agent 'infiltrated' Australian government website in world first]]></title>
       <description><![CDATA[Australia criticised OpenAI for taking "too long" to tell them about the breach which happened in June.]]></description>
