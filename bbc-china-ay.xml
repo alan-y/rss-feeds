@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 27 Sep 2026 17:03:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 20:12:50 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -56,6 +56,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb15/live/c9e0fd20-b7cd-11f1-9f14-6be29ed37cd7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Young people in China are fangirling over a professor who gets their anxiety]]></title>
+      <description><![CDATA[China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cq70dgdndr46o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq70dgdndr46o</guid>
+      <pubDate>Sat, 26 Sep 2026 22:02:18 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0ca/live/4a526d50-b8ea-11f1-ba42-19e1456ae537.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Footage of Tibet floods is being heavily censored in China - and we know little about victims there]]></title>
       <description><![CDATA[Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -70,14 +78,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c99d08j3kz1o</guid>
       <pubDate>Tue, 25 Aug 2026 22:37:50 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5da/live/34a325e0-a093-11f1-91dc-4919512f173f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why Tesla has been caught up in a massive car recall in China]]></title>
-      <description><![CDATA[The country's biggest ever car recall affects more than four million vehicles made by Tesla, XPeng, Xiaomi and other firms.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9w4jx2rvgro</guid>
-      <pubDate>Wed, 26 Aug 2026 03:33:59 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/454c/live/fff5c310-a020-11f1-9a9c-a9fc171e125c.jpg"/>
     </item>
   </channel>
 </rss>
