@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 10 Oct 2026 01:31:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:44:22 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -216,6 +216,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c099/live/b8a77540-bf05-11f1-bc1a-938448dddde1.jpg"/>
     </item>
     <item>
+      <title><![CDATA['What terminal cancer has taught me about life']]></title>
+      <description><![CDATA[A Gloucestershire man with terminal cancer shares the life lessons he wishes he'd learned sooner.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c8x2z22wdeglo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8x2z22wdeglo</guid>
+      <pubDate>Sat, 10 Oct 2026 06:16:46 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d16/live/9ec7e820-c32a-11f1-9981-cf94ea240e40.png"/>
+    </item>
+    <item>
       <title><![CDATA[Fund launched to back community wellbeing projects]]></title>
       <description><![CDATA[The fund aims to attract support from individuals, families, businesses and charitable trusts.
 
@@ -248,14 +256,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmwyz2p41ezvo</guid>
       <pubDate>Tue, 22 Sep 2026 23:20:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b216/live/382df5e0-b732-11f1-b1d1-571ed4d7ff2c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Seated exercises help physical and mental health]]></title>
-      <description><![CDATA[Laugh, Move & Groove, nominated for the Make a Difference Awards, holds sessions around Jersey.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c639m4k9x7e3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c639m4k9x7e3o</guid>
-      <pubDate>Wed, 16 Sep 2026 11:50:01 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0715/live/6d4ae420-b0e5-11f1-b427-b9b4ddc559ae.jpg"/>
     </item>
     <item>
       <title><![CDATA[Running costs of vaccine damage scheme more than double amount paid to victims]]></title>
