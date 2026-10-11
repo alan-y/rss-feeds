@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 11 Oct 2026 07:17:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:09:56 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -216,6 +216,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba08/live/692bede0-be4a-11f1-a73b-295bdc9b9b7f.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Service increases access to mental health support]]></title>
+      <description><![CDATA[The programme covers a range of topics, including managing anxiety and boosting self-esteem.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cj5ynwynwgrqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj5ynwynwgrqo</guid>
+      <pubDate>Sun, 11 Oct 2026 07:51:12 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29c3/live/761115b0-c3c9-11f1-8fc5-335d62f6730b.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['What terminal cancer has taught me about life']]></title>
       <description><![CDATA[A Gloucestershire man with terminal cancer shares the life lessons he wishes he'd learned sooner.]]></description>
       <link>https://www.bbc.co.uk/news/articles/c8x2z22wdeglo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -248,14 +256,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv5yj62zn56yo</guid>
       <pubDate>Sat, 26 Sep 2026 11:11:16 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9635/live/39a08c10-b80b-11f1-93f5-ff96839fb91e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Fresh bedsheets and dusk walks: Expert tips for sleep-deprived freshers]]></title>
-      <description><![CDATA[Why it's a good idea to get out for an evening stroll, and other essential sleep advice for students.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cmwyz2p41ezvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmwyz2p41ezvo</guid>
-      <pubDate>Tue, 22 Sep 2026 23:20:56 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b216/live/382df5e0-b732-11f1-b1d1-571ed4d7ff2c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Running costs of vaccine damage scheme more than double amount paid to victims]]></title>
