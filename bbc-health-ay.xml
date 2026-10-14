@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 05:20:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:21:33 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -112,6 +112,22 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e825/live/bbd99510-c0f7-11f1-812d-715b1c9a79e7.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Bryant attacks 'irresponsible' Stormont ministers over budget]]></title>
+      <description><![CDATA[The Secretary of State says there is little 'financial accountability or responsibility' across Northern Ireland's executive. ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c6je5wqgwxpgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6je5wqgwxpgo</guid>
+      <pubDate>Wed, 14 Oct 2026 09:56:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3d2/live/bb939d90-c7a9-11f1-a624-a3d8608fc192.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Swimmer Archie Goodburn to meet prime minister over cancer funding]]></title>
+      <description><![CDATA[The Scottish athlete, who has inoperable brain tumours, previously made a tearful plea for more investment in brain cancer research on BBC Breakfast.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cm74pn052j2vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm74pn052j2vo</guid>
+      <pubDate>Wed, 14 Oct 2026 07:37:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7add/live/d23d0210-c70a-11f1-a86b-b5b222c3559c.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['I could never hear on my left side - until I got a prosthetic ear']]></title>
       <description><![CDATA[Stephen Gilbert, 74, was born with unilateral microtia, a rare condition in which the external ear is underdeveloped or missing on one side.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cj5yn402e70eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -126,22 +142,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckr5y2g331yvo</guid>
       <pubDate>Tue, 13 Oct 2026 11:55:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8633/live/ebdb0690-c64c-11f1-b47f-e3f9cf703bc3.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[I've woken from endometriosis operations to find the surgery hasn't been done]]></title>
-      <description><![CDATA[Kelly O'Shea says she's "lost faith" in women's health after paying £20k for treatment she needed.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cq99znm9j7plo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq99znm9j7plo</guid>
-      <pubDate>Tue, 13 Oct 2026 07:54:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bd5/live/3db412c0-c654-11f1-8600-efb62b613ab5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['I was dead for 10 minutes, but lived to tell the tale']]></title>
-      <description><![CDATA[Medics in Spain raced against time to save Sandra McCartney's life after her heart stopped beating.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c6r7yny29e51o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6r7yny29e51o</guid>
-      <pubDate>Tue, 13 Oct 2026 05:09:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/510d/live/5a0ba460-c6c7-11f1-9b46-7b2f89ed4491.jpg"/>
     </item>
     <item>
       <title><![CDATA[Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery]]></title>
@@ -206,6 +206,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/clyw89g3443o</guid>
       <pubDate>Wed, 08 Jul 2026 09:05:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddf1/live/58c3a3a0-7a1e-11f1-b976-0b9c15b0ccfc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[I've woken from endometriosis operations to find the surgery hasn't been done]]></title>
+      <description><![CDATA[Kelly O'Shea says she has "lost faith" in women's health after paying £20k for treatment she needed.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cq99znm9j7plo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq99znm9j7plo</guid>
+      <pubDate>Tue, 13 Oct 2026 07:54:42 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bd5/live/3db412c0-c654-11f1-8600-efb62b613ab5.jpg"/>
     </item>
     <item>
       <title><![CDATA[Chronic UTIs made MP 'feel like a drug user']]></title>
