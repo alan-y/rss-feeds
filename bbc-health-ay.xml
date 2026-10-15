@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 00:52:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:34:16 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -112,19 +112,11 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e825/live/bbd99510-c0f7-11f1-812d-715b1c9a79e7.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Warning to women amid shortages of some HRT products]]></title>
-      <description><![CDATA[Two brands of HRT patches, including Estradot transdermal and FemSeven Conti patches, have been affected, the Department of Health has said.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cwr7yz5x7pj0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwr7yz5x7pj0o</guid>
-      <pubDate>Wed, 14 Oct 2026 23:01:00 GMT</pubDate>
-      <media:thumbnail width="240" height="159" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f08/live/af862a80-c7f0-11f1-bc2e-018d645d8d21.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Fewer than 800 Scots have received weight loss jabs on NHS, BBC finds]]></title>
       <description><![CDATA[Only five of Scotland's 14 health boards currently offer the treatment specifically for weight loss, it has emerged.]]></description>
       <link>https://www.bbc.co.uk/news/articles/c69wzpw0x9jeo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c69wzpw0x9jeo</guid>
-      <pubDate>Wed, 14 Oct 2026 21:58:03 GMT</pubDate>
+      <pubDate>Thu, 15 Oct 2026 05:17:37 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe8/live/42d1b9f0-c709-11f1-9783-ed95709f9dec.jpg"/>
     </item>
     <item>
@@ -132,8 +124,16 @@
       <description><![CDATA[Caroline Bailey was diagnosed after suffering with "a stabbing pain in the middle of my abdomen".]]></description>
       <link>https://www.bbc.co.uk/news/articles/cmq8nkqlvv9qo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmq8nkqlvv9qo</guid>
-      <pubDate>Wed, 14 Oct 2026 21:57:24 GMT</pubDate>
+      <pubDate>Thu, 15 Oct 2026 05:05:59 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ff0/live/dcbd5900-c3f0-11f1-913a-eb4b8e15ad15.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Warning to women amid shortages of some HRT products]]></title>
+      <description><![CDATA[Two brands of HRT patches, including Estradot transdermal and FemSeven Conti patches, have been affected, the Department of Health has said.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cwr7yz5x7pj0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwr7yz5x7pj0o</guid>
+      <pubDate>Wed, 14 Oct 2026 23:01:00 GMT</pubDate>
+      <media:thumbnail width="240" height="159" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f08/live/af862a80-c7f0-11f1-bc2e-018d645d8d21.jpg"/>
     </item>
     <item>
       <title><![CDATA[First minister 'does not accept' there is no more money for Stormont]]></title>
@@ -216,12 +216,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddf1/live/58c3a3a0-7a1e-11f1-b976-0b9c15b0ccfc.jpg"/>
     </item>
     <item>
-      <title><![CDATA[I've woken from endometriosis operations to find the surgery hasn't been done]]></title>
-      <description><![CDATA[Kelly O'Shea says she has "lost faith" in women's health after paying £20k for treatment she needed.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cq99znm9j7plo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq99znm9j7plo</guid>
-      <pubDate>Tue, 13 Oct 2026 07:54:42 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bd5/live/3db412c0-c654-11f1-8600-efb62b613ab5.jpg"/>
+      <title><![CDATA['Some think endometriosis is just a bad period, but it's so much worse']]></title>
+      <description><![CDATA[Women with endometriosis are suffering financially as well as physically, a new report by MPs warns. ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c65ynq37jxz1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65ynq37jxz1o</guid>
+      <pubDate>Thu, 15 Oct 2026 05:21:02 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6141/live/115cc120-c7dc-11f1-9671-5b70c6e774ea.jpg"/>
     </item>
     <item>
       <title><![CDATA[New mental health directory launches]]></title>
