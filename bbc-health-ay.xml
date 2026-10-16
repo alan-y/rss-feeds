@@ -10,18 +10,34 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 16 Oct 2026 14:55:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 18:37:23 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Russian man linked to deadly London hospitals hack arrested]]></title>
+      <description><![CDATA[The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9vgr61kml3mo</guid>
+      <pubDate>Fri, 16 Oct 2026 15:31:33 GMT</pubDate>
+      <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/215f/live/0e7d2e70-c969-11f1-9a39-31b474234113.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Covid vaccine compensation scheme set for overhaul after Inquiry criticism]]></title>
+      <description><![CDATA[Ministers promise to reform the scheme that provides financial support for those injured or bereaved by vaccines in the UK.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c3pwgqd4gz9xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3pwgqd4gz9xo</guid>
+      <pubDate>Fri, 16 Oct 2026 15:02:46 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08d1/live/a4986680-c96f-11f1-80fc-ab418b149008.png"/>
+    </item>
     <item>
       <title><![CDATA[Pope pictured for first time since surgery and cancer diagnosis]]></title>
       <description><![CDATA[The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw146ej00yn7o</guid>
       <pubDate>Fri, 16 Oct 2026 14:36:39 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e15/live/049ac9a0-c96c-11f1-a6e6-417671ef62cb.jpg"/>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b711/live/6c3028b0-c978-11f1-9a39-31b474234113.jpg"/>
     </item>
     <item>
       <title><![CDATA[Ten-year-old Willow among children to benefit from pioneering same-day test to spot infections]]></title>
@@ -96,22 +112,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3e5/live/8f4de9c0-c33f-11f1-bc2e-018d645d8d21.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Harry says he 'slipped into depression' after leaving UK]]></title>
-      <description><![CDATA[The Duke of Sussex says he had an "adrenaline crash" while visiting Vancouver Island to "get some space".]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c623dv9n93evo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c623dv9n93evo</guid>
-      <pubDate>Thu, 08 Oct 2026 18:55:41 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4fa/live/bfc01350-c342-11f1-b521-0bbd7e4f1f2e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Ominous signs' of winter pressures as NHS waiting list grows]]></title>
-      <description><![CDATA[NHS winter pressures appear to be building already, with rises in waiting times for planned surgery.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o</guid>
-      <pubDate>Thu, 08 Oct 2026 12:42:56 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7dd/live/02c21880-c30a-11f1-8f04-85217d686658.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[School's plan to use toilet chaperones puts pupils at risk, says campaigner]]></title>
       <description><![CDATA[Some pupils will have to be escorted to the toilet over vandalism and attendance problems.]]></description>
       <link>https://www.bbc.co.uk/news/articles/c617krlyvnjdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -140,7 +140,7 @@
       <description><![CDATA[Creators say women's health content is getting them shadowbanned on social media. So what's really happening?]]></description>
       <link>https://www.bbc.co.uk/news/articles/cvj6jznp9ww9o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvj6jznp9ww9o</guid>
-      <pubDate>Fri, 16 Oct 2026 00:53:58 GMT</pubDate>
+      <pubDate>Fri, 16 Oct 2026 16:41:32 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a53c/live/281e7410-c315-11f1-8f04-85217d686658.jpg"/>
     </item>
     <item>
@@ -288,14 +288,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cpwep8xnkrqo</guid>
       <pubDate>Mon, 13 Jul 2026 08:00:16 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a622/live/f22a5910-76f6-11f1-ab95-f1a10991b6dc.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['World-first' vaccine designed by artificial intelligence]]></title>
-      <description><![CDATA[Cambridge scientists say they have, for the first time, tested a vaccine designed by AI.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/crrpggegwe0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crrpggegwe0o</guid>
-      <pubDate>Thu, 04 Jun 2026 23:29:06 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5399/live/5dceca40-6066-11f1-89f7-47e36b8faab0.jpg"/>
     </item>
     <item>
       <title><![CDATA[Doctors vote to take strike action in row over pay]]></title>
