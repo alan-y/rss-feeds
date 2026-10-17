@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 17 Oct 2026 08:47:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 12:42:02 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Pope to be discharged days after lung cancer surgery]]></title>
+      <description><![CDATA[The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5x2vkddrkrko</guid>
+      <pubDate>Sat, 17 Oct 2026 12:37:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8795/live/43b0cae0-ca20-11f1-a718-8f4bc8d2cdf5.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Pope pictured for first time since surgery and cancer diagnosis]]></title>
       <description><![CDATA[The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.]]></description>
@@ -104,14 +112,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9481/live/3d1c2fb0-c30b-11f1-8f04-85217d686658.jpg"/>
     </item>
     <item>
-      <title><![CDATA[ADHD and autism at risk of over-diagnosis, says government review]]></title>
-      <description><![CDATA[The review, which focuses on younger people, warned there was a risk society was moving from an era of under-diagnosis to over-diagnosis.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crkg7n1ypj24o</guid>
-      <pubDate>Thu, 08 Oct 2026 23:01:30 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3e5/live/8f4de9c0-c33f-11f1-bc2e-018d645d8d21.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[School's plan to use toilet chaperones puts pupils at risk, says campaigner]]></title>
       <description><![CDATA[Some pupils will have to be escorted to the toilet over vandalism and attendance problems.]]></description>
       <link>https://www.bbc.co.uk/news/articles/c617krlyvnjdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -136,7 +136,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a38d/live/79444630-a2a0-11f0-94eb-2d0a64a6f1c0.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Why people who have never smoked are getting hooked on vaping]]></title>
+      <title><![CDATA[Why people who have never smoked are getting hooked on vapes]]></title>
       <description><![CDATA[More than one million people now vape who have never been smokers, according to the ONS.]]></description>
       <link>https://www.bbc.co.uk/news/articles/ck62y33489zqo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck62y33489zqo</guid>
