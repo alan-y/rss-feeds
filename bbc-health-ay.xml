@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 20 Oct 2026 19:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:37:55 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Second Labour MP suspended over Covid loan repayments ]]></title>
+      <description><![CDATA[Perran Moon, MP for Camborne and Redruth, voluntarily referred himself for investigation.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o</guid>
+      <pubDate>Tue, 20 Oct 2026 21:20:28 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aba/live/0c34cc90-ccc0-11f1-b943-5f5800ec2246.png"/>
+    </item>
     <item>
       <title><![CDATA[Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds]]></title>
       <description><![CDATA[The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.]]></description>
@@ -86,14 +94,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9vgr61kml3mo</guid>
       <pubDate>Fri, 16 Oct 2026 15:31:33 GMT</pubDate>
       <media:thumbnail width="240" height="136" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/215f/live/0e7d2e70-c969-11f1-9a39-31b474234113.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Covid vaccine compensation scheme set for overhaul after Inquiry criticism]]></title>
-      <description><![CDATA[Ministers promise to reform the scheme that provides financial support for those injured or bereaved by vaccines in the UK.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c3pwgqd4gz9xo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3pwgqd4gz9xo</guid>
-      <pubDate>Fri, 16 Oct 2026 15:02:46 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08d1/live/a4986680-c96f-11f1-80fc-ab418b149008.png"/>
     </item>
     <item>
       <title><![CDATA['I started ketamine at 14 and needed nappies at 22' - the rise of young people going to rehab]]></title>
@@ -258,20 +258,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f16/live/9a369f00-664a-11f1-9cfe-f18f6b94142d.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Covid vaccine compensation scheme set for overhaul after Inquiry criticism]]></title>
+      <description><![CDATA[Ministers promise to reform the scheme that provides financial support for those injured or bereaved by vaccines in the UK.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c3pwgqd4gz9xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3pwgqd4gz9xo</guid>
+      <pubDate>Fri, 16 Oct 2026 15:02:46 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08d1/live/a4986680-c96f-11f1-80fc-ab418b149008.png"/>
+    </item>
+    <item>
       <title><![CDATA[Running costs of vaccine damage scheme more than double amount paid to victims]]></title>
       <description><![CDATA[The cost of administration and medical checks has now topped £83m, according to new figures.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cj06762qegmo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj06762qegmo</guid>
       <pubDate>Fri, 11 Sep 2026 17:45:14 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1126/live/e1999d80-0b31-11f1-9972-d3f265c101c6.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Covid inquiry PPE report - key findings]]></title>
-      <description><![CDATA[What went wrong with the government's planning and buying of vital items like gloves and gowns that cost taxpayers billions of pounds.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c07y7zj43jmo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c07y7zj43jmo</guid>
-      <pubDate>Tue, 14 Jul 2026 12:45:44 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c46b/live/092f31d0-7f5d-11f1-a97a-9b1029617ccb.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hospital doctors to strike as pay dispute continues]]></title>
