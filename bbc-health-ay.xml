@@ -10,18 +10,26 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 23 Oct 2026 05:18:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:14:20 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
     <item>
-      <title><![CDATA[Private care home investment needs monitoring, regulator says]]></title>
-      <description><![CDATA[US investors are buying up UK care homes - a situation regulators say they are "watching carefully" in case it threatens plans for a National Care Service.]]></description>
+      <title><![CDATA[First personalised cancer vaccine cuts risk of disease returning in major trial]]></title>
+      <description><![CDATA[The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cq0ld9g9e913o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq0ld9g9e913o</guid>
+      <pubDate>Fri, 23 Oct 2026 07:49:02 GMT</pubDate>
+      <media:thumbnail width="240" height="132" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f379/live/0f348400-cead-11f1-bc2e-018d645d8d21.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rapid changes to care market risk to National Care Service, regulator says]]></title>
+      <description><![CDATA[Concerns raised as big private firms buy up care homes and home help fragmenting in England.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cke8r6543gplo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cke8r6543gplo</guid>
       <pubDate>Thu, 22 Oct 2026 23:20:05 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2666/live/d07c6a50-ce31-11f1-9f18-490cec60aa0f.png"/>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ea/live/282500d0-cea7-11f1-bc2e-018d645d8d21.jpg"/>
     </item>
     <item>
       <title><![CDATA[Give more people weight-loss jabs on the NHS, say MPs]]></title>
@@ -104,20 +112,20 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Cancer patients centre at risk over 'disgraceful' funds move]]></title>
+      <description><![CDATA[The Department of Health has decided to take back £1.5m from the project, Belfast Trust officials have told a Stormont committee.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c60qkpxw8eeno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c60qkpxw8eeno</guid>
+      <pubDate>Fri, 23 Oct 2026 07:50:33 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08bd/live/5bb18390-cec7-11f1-b9e0-e5f0da03dc7f.jpg"/>
+    </item>
+    <item>
       <title><![CDATA['Wildly unfair that my husband and I pay £4k a year for ADHD treatment'                    ]]></title>
       <description><![CDATA[Northern Ireland is the only part of the UK without a formally commissioned, publicly-funded adult service for ADHD.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cvze4wg10389o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvze4wg10389o</guid>
       <pubDate>Fri, 23 Oct 2026 05:14:41 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ab9/live/1d14e420-ce2b-11f1-9f18-490cec60aa0f.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Haematology centre for cancer patients at risk over 'disgraceful' funds move]]></title>
-      <description><![CDATA[The Department of Health has decided to take back £1.5m from the project, Belfast Trust officials have told a Stormont committee.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c60qkpxw8eeno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c60qkpxw8eeno</guid>
-      <pubDate>Thu, 22 Oct 2026 23:04:31 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b60/live/5bc78560-ce3f-11f1-a86f-f78305ec9987.jpg"/>
     </item>
     <item>
       <title><![CDATA['Difficult decision' to close Samaritans branch after more than 50 years]]></title>
