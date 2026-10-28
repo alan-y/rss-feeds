@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 23:08:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 02:22:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['An annoying buzz': The search for stealthier drones]]></title>
+      <description><![CDATA[As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck1exgejq3xvo</guid>
+      <pubDate>Wed, 28 Oct 2026 00:01:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b2/live/ad407780-c7b4-11f1-a64c-550be9e3c66b.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Apple to replace iPhone Duos affected by screen problem]]></title>
       <description><![CDATA[Photos shared online showed faults appearing on the screens of Apple's first foldable device.]]></description>

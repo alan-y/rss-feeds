@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 23:08:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 02:22:33 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[China's families are now supporting more old people than kids]]></title>
+      <description><![CDATA[The latest figures mark a major milestone as Beijing grapples with an ageing population.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo</guid>
+      <pubDate>Tue, 27 Oct 2026 23:16:08 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39b9/live/b1569840-d105-11f1-8441-f1b8954c52d9.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Mbappé sorry for 'ill-judged' Mao remark after backlash in China]]></title>
       <description><![CDATA[The France star had referred to the former Chinese leader as a "dictator" during an interview about memes.]]></description>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4gjy9lr551o</guid>
       <pubDate>Wed, 30 Sep 2026 23:25:23 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035f/live/4e878500-bcdb-11f1-babe-4199b0e7ccea.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Trump-Xi summit: What wasn't said might matter the most]]></title>
-      <description><![CDATA[The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo</guid>
-      <pubDate>Mon, 28 Sep 2026 07:52:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b3c/live/3b3dc640-bb09-11f1-913f-9dfd502f2fcc.jpg"/>
     </item>
   </channel>
 </rss>
