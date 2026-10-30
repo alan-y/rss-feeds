@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/boxing</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 16:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 20:52:42 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/boxing/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Canelo makes weight against backdrop of Saudi turmoil]]></title>
+      <description><![CDATA[Christian Mbilli and Saul 'Canelo' Alvarez make weight for their world title bout in Riyadh just 24 hours after two ballistic missiles are intercepted over the Saudi Arabian capital.]]></description>
+      <link>https://www.bbc.co.uk/sport/boxing/articles/cmwy721wd7x6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/cmwy721wd7x6o</guid>
+      <pubDate>Fri, 30 Oct 2026 19:12:03 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2052/live/68c0cc30-d494-11f1-9a20-f717db279e3e.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Adames to face Welshman Warburton in non-title bout]]></title>
       <description><![CDATA[WBC middleweight world champion Carlos Adames makes his Zuffa Boxing debut against Welshman Gerome Warburton on Saturday, 14 November.]]></description>
@@ -80,14 +88,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0b0/live/650e2dc0-d05d-11f1-bbf5-99ed69f0d81f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[How world champion Smith can become a mainstream star]]></title>
-      <description><![CDATA[In his BBC Sport column, Tony Bellew explains why Dalton Smith could be British boxing's next superstar - and why he should fight Adam Azim at Hillsborough.]]></description>
-      <link>https://www.bbc.co.uk/sport/boxing/articles/c8y56qlzqq96o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/c8y56qlzqq96o</guid>
-      <pubDate>Fri, 23 Oct 2026 09:20:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/366b/live/74aba0d0-cd62-11f1-b962-b7ff822cde72.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Cordina agrees Pacquiao terms on Fury-Joshua card]]></title>
       <description><![CDATA[Promoter Eddie Hearn says former world champion Joe Cordina has agreed terms to face boxing great Manny Pacquiao on the Tyson Fury-Anthony Joshua undercard.]]></description>
       <link>https://www.bbc.co.uk/sport/boxing/articles/c34g1wenzg9jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -118,6 +118,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/videos/c2kw1zedx25o</guid>
       <pubDate>Wed, 09 Sep 2026 10:59:59 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b295/live/ada20ac0-aab0-11f1-aed2-8d6da8d75094.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How world champion Smith can become a mainstream star]]></title>
+      <description><![CDATA[In his BBC Sport column, Tony Bellew explains why Dalton Smith could be British boxing's next superstar - and why he should fight Adam Azim at Hillsborough.]]></description>
+      <link>https://www.bbc.co.uk/sport/boxing/articles/c8y56qlzqq96o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/c8y56qlzqq96o</guid>
+      <pubDate>Fri, 23 Oct 2026 09:20:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/366b/live/74aba0d0-cd62-11f1-b962-b7ff822cde72.jpg"/>
     </item>
     <item>
       <title><![CDATA[The compromises and power struggles that shaped Fury-Joshua]]></title>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/c9w0z9ydre2o</guid>
       <pubDate>Wed, 26 Aug 2026 06:28:28 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14bb/live/1841e3c0-a082-11f1-a9bc-ad5fed338eb5.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Heavyweight Itauma handed harsh world-title lesson]]></title>
-      <description><![CDATA[British heavyweight Moses Itauma was taught a harsh lesson at world level - what can he learn from defeat and where does the 21-year-old go next?]]></description>
-      <link>https://www.bbc.co.uk/sport/boxing/articles/cg7krndl84do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/cg7krndl84do</guid>
-      <pubDate>Sun, 30 Aug 2026 06:08:52 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f3e/live/63b16870-a461-11f1-aed2-8d6da8d75094.jpg"/>
     </item>
     <item>
       <title><![CDATA[From Love Island to Commonwealth gold for McConnell]]></title>
