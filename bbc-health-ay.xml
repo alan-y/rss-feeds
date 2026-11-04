@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 04 Nov 2026 15:18:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 21:22:06 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Cocaine overtakes heroin as leading cause of drug deaths in England and Wales]]></title>
+      <description><![CDATA[The number of deaths linked to cocaine use in England and Wales has nearly quadrupled in a decade.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cmdxw051np9jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmdxw051np9jo</guid>
+      <pubDate>Wed, 04 Nov 2026 17:58:59 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e4/live/bcaf3470-d878-11f1-a364-a1fce50dd192.jpg"/>
+    </item>
     <item>
       <title><![CDATA['Multi-cancer' blood tests coming to some GP surgeries soon]]></title>
       <description><![CDATA[The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic cancer, much sooner.]]></description>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cke8r6543gplo</guid>
       <pubDate>Thu, 22 Oct 2026 23:20:05 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ea/live/282500d0-cea7-11f1-bc2e-018d645d8d21.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Give more people weight-loss jabs on the NHS, say MPs]]></title>
-      <description><![CDATA[Current plans for 6% of eligible patients to get Mounjaro by 2028 unambitious, say MPs.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cm4g1pkwxdqwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4g1pkwxdqwo</guid>
-      <pubDate>Thu, 22 Oct 2026 23:06:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/485d/live/4dbd22c0-ce37-11f1-a86f-f78305ec9987.png"/>
     </item>
     <item>
       <title><![CDATA['Such terrible waste' as health trust buildings could cost an extra £20m]]></title>
