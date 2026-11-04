@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/world/asia/china</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 04 Nov 2026 00:39:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 06:58:59 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/world/asia/china/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea]]></title>
+      <description><![CDATA[Papua New Guinea police had earlier dismissed speculation that the 32kg object was "merely a dummy".]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o</guid>
+      <pubDate>Wed, 04 Nov 2026 03:46:10 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03fb/live/ecd52fb0-d800-11f1-b851-6586c863d7ea.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Crypto giant Binance hit by $6.3bn hack suspected to be largest in history]]></title>
       <description><![CDATA[Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.]]></description>
@@ -22,14 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o</guid>
       <pubDate>Fri, 30 Oct 2026 09:33:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/15f26510-d4f1-11f1-9df7-95635b0b4a0d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[China made Mbappé apologise - but many don't know exactly what he said]]></title>
-      <description><![CDATA[His comment about Chinese leader Mao sparked anger but censorship left many wondering what exactly happened.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cm3wv36d603yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3wv36d603yo</guid>
-      <pubDate>Thu, 29 Oct 2026 23:03:15 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4a8/live/2e93a660-d3ac-11f1-b441-2b33b063138f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hong Kong's leader apologises for deadly high-rise fire]]></title>
@@ -72,6 +72,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39b9/live/b1569840-d105-11f1-8441-f1b8954c52d9.jpg"/>
     </item>
     <item>
+      <title><![CDATA[China made Mbappé apologise - but many don't know exactly what he said]]></title>
+      <description><![CDATA[His comment about Chinese leader Mao sparked anger but censorship left many wondering what exactly happened.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cm3wv36d603yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3wv36d603yo</guid>
+      <pubDate>Thu, 29 Oct 2026 23:03:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4a8/live/2e93a660-d3ac-11f1-b441-2b33b063138f.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[India and China were easing tensions - then a border official spoke out]]></title>
       <description><![CDATA[India-China ties were on a cautious recovery path until a border official’s remarks raised fresh doubts about ground realities.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cj3vq7nkzr0qo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -94,14 +102,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5pve834grpno</guid>
       <pubDate>Mon, 05 Oct 2026 01:42:11 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/570e/live/a11df9f0-bc83-11f1-8bd0-b38b5eda40be.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[As Christmas rush looms, how do China-made toys find their way to the US?]]></title>
-      <description><![CDATA[With the festive season on the horizon, we trace toys from factories in China to US shelves.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5djvyde0y1jo</guid>
-      <pubDate>Wed, 14 Oct 2026 23:01:28 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0d2/live/df74c9d0-c54e-11f1-b4f1-2359026a88ee.jpg"/>
     </item>
   </channel>
 </rss>
