@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 03 Nov 2026 20:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 00:39:23 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA['Multi-cancer' blood tests coming to some GP surgeries soon]]></title>
+      <description><![CDATA[The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic cancer, much sooner.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm9qz93ew22no</guid>
+      <pubDate>Wed, 04 Nov 2026 00:04:28 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e57b/live/5bce4a50-d78e-11f1-9440-953b82c8f55a.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Parents' concerns to trigger urgent checks in A&E]]></title>
       <description><![CDATA[Concerns from staff, parents, carers or the child themselves will trigger an immediate escalation of care.]]></description>
@@ -96,12 +104,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/485d/live/4dbd22c0-ce37-11f1-a86f-f78305ec9987.png"/>
     </item>
     <item>
-      <title><![CDATA[First human case of Shamonda virus detected in France, officials say]]></title>
-      <description><![CDATA[The disease, which usually affects cattle, has been identified in a patient who died in early October.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o</guid>
-      <pubDate>Thu, 22 Oct 2026 13:53:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f518/live/9a1112f0-ce03-11f1-8991-296181d7e3de.jpg"/>
+      <title><![CDATA[Rural health board shake-up opposed as locals fight cuts to hospital beds]]></title>
+      <description><![CDATA[The plans would see inpatient beds reduced from 146 to either 90 or 60 in the county.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c5ev3mkjvzrwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5ev3mkjvzrwo</guid>
+      <pubDate>Tue, 03 Nov 2026 21:01:00 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65f/live/4d8ac6c0-d7bc-11f1-a701-fddedf244c16.jpg"/>
     </item>
     <item>
       <title><![CDATA[No babies to be born at hospital from end of November]]></title>
@@ -118,14 +126,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crgqwgp04e50o</guid>
       <pubDate>Tue, 03 Nov 2026 06:08:18 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/900f/live/4dba9c40-d7af-11f1-93e1-3b657b665bcf.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['It took years to get pain-relieving surgery - I hope a robot means others won't have to wait']]></title>
-      <description><![CDATA[A woman who waited in pain for years for endometriosis surgery praises high-tech bid to end delays.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c98rz8v5rem0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c98rz8v5rem0o</guid>
-      <pubDate>Mon, 02 Nov 2026 06:24:21 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c29/live/fb223b90-d692-11f1-b441-2b33b063138f.jpg"/>
     </item>
     <item>
       <title><![CDATA['It gives me the ick': Can you cheat on someone with a video game?]]></title>
@@ -190,6 +190,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/clyw89g3443o</guid>
       <pubDate>Wed, 08 Jul 2026 09:05:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddf1/live/58c3a3a0-7a1e-11f1-b976-0b9c15b0ccfc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['It took years to get pain-relieving surgery - I hope a robot means others won't have to wait']]></title>
+      <description><![CDATA[A woman who waited in pain for years for endometriosis surgery praises high-tech bid to end delays.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c98rz8v5rem0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c98rz8v5rem0o</guid>
+      <pubDate>Mon, 02 Nov 2026 06:24:21 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c29/live/fb223b90-d692-11f1-b441-2b33b063138f.jpg"/>
     </item>
     <item>
       <title><![CDATA['I could barely stand up straight with menopause after cancer' ]]></title>
