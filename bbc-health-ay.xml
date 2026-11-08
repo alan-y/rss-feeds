@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 08 Nov 2026 16:30:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 20:45:09 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -104,8 +104,16 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81f9/live/dbfea4d0-ce20-11f1-906e-e3128518d85d.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Paramedic sustains multiple injuries in hospital assault]]></title>
+      <description><![CDATA[The NI Ambulance Service said the paramedic sustained injuries to the back of her head, neck, face, and hands during the incident.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cxnv0487qpj3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxnv0487qpj3o</guid>
+      <pubDate>Sun, 08 Nov 2026 19:19:26 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3b6/live/99d37b20-dba0-11f1-93e1-3b657b665bcf.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m]]></title>
-      <description><![CDATA[The dementia treatment for children is available in the US, with funding for UK children unclear. ]]></description>
+      <description><![CDATA[The dementia treatment for children is available in the US, with funding for UK children unclear.]]></description>
       <link>https://www.bbc.co.uk/news/articles/c8046kdw56e2o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8046kdw56e2o</guid>
       <pubDate>Sun, 08 Nov 2026 07:04:36 GMT</pubDate>
@@ -126,14 +134,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx4g114r0d2do</guid>
       <pubDate>Fri, 06 Nov 2026 17:10:28 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c53/live/40fa9f80-da0e-11f1-a701-fddedf244c16.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Health minister instructs trusts to pause cuts to Phone First service]]></title>
-      <description><![CDATA[The triage line was scrapped in Belfast and was to close in the Northern Trust later this month.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/crn8wnq05dyqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crn8wnq05dyqo</guid>
-      <pubDate>Fri, 06 Nov 2026 06:22:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9861/live/81652440-d901-11f1-9c68-d767468fa269.jpg"/>
     </item>
     <item>
       <title><![CDATA[The NHS is relying more on charities - and that might be creating problems for patients]]></title>

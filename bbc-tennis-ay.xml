@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/tennis</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 08 Nov 2026 16:30:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 20:45:13 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/tennis/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Alcaraz takes revenge on Shelton to win first Paris Masters title]]></title>
+      <description><![CDATA[Carlos Alcaraz takes revenge on Ben Shelton as the Spaniard's remarkable comeback from injury continues with victory in the final of the Paris Masters.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/ck9qz8d2znl5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/ck9qz8d2znl5o</guid>
+      <pubDate>Sun, 08 Nov 2026 17:56:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ae/live/c1b3eb80-db95-11f1-a42b-dbe60e973664.jpg"/>
+    </item>
     <item>
       <title><![CDATA[World number one Rybakina withdraws from WTA Finals]]></title>
       <description><![CDATA[World number one Elena Rybakina withdraws from the season-ending WTA Finals because of a viral illness.]]></description>
@@ -22,14 +30,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cm4g1n9ednn1o</guid>
       <pubDate>Sat, 07 Nov 2026 21:10:55 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10e0/live/f0e412b0-dae9-11f1-aac9-0789014bcc48.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Alcaraz sets up Shelton rematch in Paris final]]></title>
-      <description><![CDATA[Carlos Alcaraz says he is ready for "one of most difficult challenges in tennis" after setting up a rematch against Ben Shelton in the Paris Masters final.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cw0k06v13xvxo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cw0k06v13xvxo</guid>
-      <pubDate>Sat, 07 Nov 2026 19:54:27 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b5/live/e9ff53f0-dae0-11f1-88f9-d3c2139f8619.jpg"/>
     </item>
     <item>
       <title><![CDATA[WTA chair apologises to Pegula for airing of 'diva' comment]]></title>
@@ -40,12 +40,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9fc/live/18726650-da2d-11f1-ab60-69d917fc430c.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Alcaraz beats Fritz to help Jodar reach ATP finals]]></title>
-      <description><![CDATA[Carlos Alcaraz saves two match points to beat Taylor Fritz in the Paris Masters quarter-finals - a result which helped Spanish compatriot Rafael Jodar qualify for the ATP finals.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/c6e9lldl3lpjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c6e9lldl3lpjo</guid>
-      <pubDate>Fri, 06 Nov 2026 22:35:04 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0b1/live/b1030f60-da2c-11f1-ab60-69d917fc430c.jpg"/>
+      <title><![CDATA[Alcaraz sets up Shelton rematch in Paris final]]></title>
+      <description><![CDATA[Carlos Alcaraz says he is ready for "one of most difficult challenges in tennis" after setting up a rematch against Ben Shelton in the Paris Masters final.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/cw0k06v13xvxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cw0k06v13xvxo</guid>
+      <pubDate>Sat, 07 Nov 2026 19:54:27 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b5/live/e9ff53f0-dae0-11f1-88f9-d3c2139f8619.jpg"/>
     </item>
     <item>
       <title><![CDATA[Coach who helped Sinner to the top set to depart]]></title>
@@ -70,6 +70,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cm1dwll642ngo</guid>
       <pubDate>Thu, 05 Nov 2026 16:29:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01bb/live/71a39df0-d908-11f1-93e1-3b657b665bcf.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Alcaraz beats Fritz to help Jodar reach ATP finals]]></title>
+      <description><![CDATA[Carlos Alcaraz saves two match points to beat Taylor Fritz in the Paris Masters quarter-finals - a result which helped Spanish compatriot Rafael Jodar qualify for the ATP finals.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/c6e9lldl3lpjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c6e9lldl3lpjo</guid>
+      <pubDate>Fri, 06 Nov 2026 22:35:04 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0b1/live/b1030f60-da2c-11f1-ab60-69d917fc430c.jpg"/>
     </item>
     <item>
       <title><![CDATA[Defeat ends Djokovic's hopes of making ATP Finals]]></title>
@@ -152,14 +160,6 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4521/live/008fafc0-d5f0-11f1-a6a8-6dc45e4fc351.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Djokovic keeps alive bid to squeeze into ATP Finals]]></title>
-      <description><![CDATA[Novak Djokovic keeps alive his last-ditch bid to qualify for this year's ATP Finals by grinding out a first-round victory at the Paris Masters.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/c3n04nzv1n21o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c3n04nzv1n21o</guid>
-      <pubDate>Tue, 03 Nov 2026 16:57:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92bb/live/d4138220-d7a5-11f1-b441-2b33b063138f.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Dart reacts to her first WTA title after 'incredible week']]></title>
       <description><![CDATA[Speaking to BBC Sport, Harriet Dart says it's been an "incredible week" after coming through qualifying to win the Guangzhou Open, the first WTA Tour singles title of her career.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/videos/cqj9kgr8kzvyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -201,6 +201,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/videos/cje36023xr42o</guid>
       <pubDate>Sun, 11 Oct 2026 20:21:51 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b8/live/e7da37b0-c5b0-11f1-9a39-31b474234113.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Djokovic keeps alive bid to squeeze into ATP Finals]]></title>
+      <description><![CDATA[Novak Djokovic keeps alive his last-ditch bid to qualify for this year's ATP Finals by grinding out a first-round victory at the Paris Masters.]]></description>
+      <link>https://www.bbc.co.uk/sport/tennis/articles/c3n04nzv1n21o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/c3n04nzv1n21o</guid>
+      <pubDate>Tue, 03 Nov 2026 16:57:17 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92bb/live/d4138220-d7a5-11f1-b441-2b33b063138f.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Dart revived career with help of Wimbledon champion]]></title>
@@ -249,14 +257,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cr78pxd66d47o</guid>
       <pubDate>Mon, 26 Oct 2026 16:07:20 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f313/live/bbf1e2a0-d14b-11f1-9eb5-811878e0f07d.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Osaka 'not far off' her best but often ponders future]]></title>
-      <description><![CDATA[Four-time Grand Slam champion Naomi Osaka says she is returning to her best form but would consider quitting the game if asked to by her three-year-old daughter.]]></description>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cwg7xy5x3590o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/articles/cwg7xy5x3590o</guid>
-      <pubDate>Sun, 25 Oct 2026 12:54:11 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67de/live/bf4b6760-d05a-11f1-bbf5-99ed69f0d81f.jpg"/>
     </item>
     <item>
       <title><![CDATA[Djokovic ends trophy drought with victory in China]]></title>
