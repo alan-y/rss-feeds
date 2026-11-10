@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 08:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:22:17 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -104,6 +104,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c425/live/edea3700-cedd-11f1-b441-2b33b063138f.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Amber alert as Scotland faces blood donation shortages]]></title>
+      <description><![CDATA[An amber alert has been issued after stockpiles of blood fell below target several times in recent months]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c678p8yz0k38o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c678p8yz0k38o</guid>
+      <pubDate>Tue, 10 Nov 2026 11:30:32 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2cf/live/342559b0-dcf4-11f1-9ef0-4b5930e2f80e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[NHS boss received nearly £400,000 'redundancy' pay-off when she retired]]></title>
       <description><![CDATA[The payment comes ahead of a planned major overhaul of Scotland's NHS which could see the number of health boards cut dramatically.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cw4g11xkyj1jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -112,7 +120,7 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b848/live/4dd2e140-d946-11f1-b2ee-87d22b17ac74.png"/>
     </item>
     <item>
-      <title><![CDATA['Screening may have picked up my lung cancer earlier']]></title>
+      <title><![CDATA[To the day I die, I will regret putting a cigarette in my mouth]]></title>
       <description><![CDATA[Joan McConville is calling for a national screening programme in Northern Ireland, like there is in England and Wales.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cke8r704e8l6o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cke8r704e8l6o</guid>
@@ -126,14 +134,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckr5ypqrjj32o</guid>
       <pubDate>Tue, 10 Nov 2026 05:59:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a446/live/11099240-d478-11f1-9dda-1ba6fcc7d159.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Senior doctors at Glasgow hospital in care delay warning]]></title>
-      <description><![CDATA[Consultants at the Queen Elizabeth University Hospital say conditions for emergency patients there are deteriorating.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/ckx2d2vv40w6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckx2d2vv40w6o</guid>
-      <pubDate>Mon, 09 Nov 2026 16:34:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4af/live/b8745950-dc3b-11f1-a701-fddedf244c16.png"/>
     </item>
     <item>
       <title><![CDATA[The NHS is relying more on charities - and that might be creating problems for patients]]></title>
