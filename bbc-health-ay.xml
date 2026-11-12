@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 12 Nov 2026 12:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 20:03:49 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -112,6 +112,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69c4/live/05b4e120-d46d-11f1-a701-fddedf244c16.jpg"/>
     </item>
     <item>
+      <title><![CDATA[I'm burnt out and feel forgotten as a young carer]]></title>
+      <description><![CDATA[Min, 16, says people do not always understand her sacrifices and how valuable support is.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c68xzylnzjv9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c68xzylnzjv9o</guid>
+      <pubDate>Thu, 12 Nov 2026 13:07:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1216/live/2d877910-d837-11f1-87c3-29e1cdce63c6.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Free Sad lamps given out as disorder 'makes it hard to do anything on darker days']]></title>
       <description><![CDATA[Seasonal Affective Disorder can affect mood, energy and sleep during the winter months.]]></description>
       <link>https://www.bbc.co.uk/news/articles/c6wyvy50r2ewo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -142,14 +150,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c317k7kn44nzo</guid>
       <pubDate>Tue, 10 Nov 2026 18:55:34 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2938/live/968c8a30-dd24-11f1-a701-fddedf244c16.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Amber alert as Scotland faces blood donation shortages]]></title>
-      <description><![CDATA[An amber alert has been issued after stockpiles of blood fell below target several times in recent months]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c678p8yz0k38o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c678p8yz0k38o</guid>
-      <pubDate>Tue, 10 Nov 2026 11:30:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2cf/live/342559b0-dcf4-11f1-9ef0-4b5930e2f80e.jpg"/>
     </item>
     <item>
       <title><![CDATA[Are max strength cold and flu pills worth the money?]]></title>
@@ -238,14 +238,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj5ynv9lvl51o</guid>
       <pubDate>Mon, 09 Nov 2026 06:30:54 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4f4/live/cb49ec50-dc06-11f1-b6f4-7b86d13131ad.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Cancer survivor calls for fertility funding change]]></title>
-      <description><![CDATA[A woman who survived blood cancer says she wants survivors to get funded fertility treatment.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cm8ez3e8yy9wo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm8ez3e8yy9wo</guid>
-      <pubDate>Mon, 09 Nov 2026 06:10:40 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1df3/live/df3a8ba0-dc26-11f1-a5b1-adf9c8e8d692.jpg"/>
     </item>
     <item>
       <title><![CDATA[New charity uses outdoors to improve mental health]]></title>
@@ -368,6 +360,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy8wpz316lgo</guid>
       <pubDate>Sun, 14 Jun 2026 14:15:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f492/live/712d2af0-67f5-11f1-8e1d-bbbb1017d210.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Toilets: Are you a squatter or a sitter?]]></title>
+      <description><![CDATA[Did you know the average time it takes to pass a bowel movement is shorter if you're squatting rather than sitting? Josie Peters explores why. ]]></description>
+      <link>https://www.bbc.co.uk/videos/cm0qjeqnd30eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/videos/cm0qjeqnd30eo</guid>
+      <pubDate>Thu, 12 Nov 2026 16:16:54 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9dd/live/b43b3060-de94-11f1-b441-2b33b063138f.jpg"/>
     </item>
   </channel>
 </rss>
