@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/sport/boxing</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 17 Nov 2026 08:04:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:40:11 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/boxing/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Ex-world champion Linares detained by ICE in Texas]]></title>
+      <description><![CDATA[Three-time world champion Jorge Linares says he has been detained by US Immigration authorities in Texas. ]]></description>
+      <link>https://www.bbc.co.uk/sport/boxing/articles/cwgklx47lgm0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/cwgklx47lgm0o</guid>
+      <pubDate>Tue, 17 Nov 2026 09:31:27 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db2/live/3aa5de50-e261-11f1-900c-895604014268.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Irish boxer Reeves dies aged 31 after three months in coma]]></title>
       <description><![CDATA[Irish boxer Lee Reeves has died aged 31, three months after he suffered serious injuries in a bout in Dublin, his promoter Queensberry has announced.]]></description>
@@ -22,6 +30,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/cv4gnp901zzxo</guid>
       <pubDate>Tue, 17 Nov 2026 07:18:08 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce5d/live/cceee0b0-e20f-11f1-949a-f7d7fdb21969.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[The boxer who lost 45kg and fought depression to chase a dream]]></title>
+      <description><![CDATA[Unbeaten Swansea fighter Willy Gilheaney was inspired by Tyson Fury's journey and now wants to be a world champion like the Gypsy King.]]></description>
+      <link>https://www.bbc.co.uk/sport/boxing/articles/c3y0eedpd05ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/c3y0eedpd05ro</guid>
+      <pubDate>Tue, 17 Nov 2026 11:39:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b21/live/cbd56de0-e271-11f1-a094-5fdc692f3e33.jpg"/>
     </item>
     <item>
       <title><![CDATA[Cardiff's Kronk? The gym where Welsh champions train]]></title>
@@ -56,22 +72,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d6f/live/441b8540-e0b6-11f1-b441-2b33b063138f.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Adames beats Welshman Warburton by unanimous decision]]></title>
-      <description><![CDATA[WBC middleweight champion Carlos Adames beats Gerome Warburton by unanimous decision in a non-title super middleweight bout.]]></description>
-      <link>https://www.bbc.co.uk/sport/boxing/articles/cmkgkz244pgro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/cmkgkz244pgro</guid>
-      <pubDate>Sat, 14 Nov 2026 20:27:04 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c140/live/46c51ab0-e064-11f1-b454-23ac84bf5ae9.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Cameron-Mayer rematch added to Paul Christmas Eve card]]></title>
-      <description><![CDATA[Chantelle Cameron will defend her light-middleweight world titles in a rematch against Mikaela Mayer on the undercard of Jake Paul's fight against Cedric Doumbe on 24 December.]]></description>
-      <link>https://www.bbc.co.uk/sport/boxing/articles/cvde1nx6j6g3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/cvde1nx6j6g3o</guid>
-      <pubDate>Fri, 13 Nov 2026 14:45:25 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/350f/live/4cd3edb0-df6e-11f1-8112-6b9154c79b48.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Why Fury was born to fight ]]></title>
       <description><![CDATA[Inspired by his father John and drawn to boxing from a young age, Tyson Fury went on to become heavyweight world champion. BBC Sport takes a look at the defining moments that shaped one of Britain's most extraordinary sporting journeys.]]></description>
       <link>https://www.bbc.co.uk/sport/boxing/videos/cwx29gd12xjko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -86,6 +86,22 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwdd172l2nedo</guid>
       <pubDate>Wed, 11 Nov 2026 12:01:04 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eed/live/c6a7f710-ddbd-11f1-b441-2b33b063138f.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Adames beats Welshman Warburton by unanimous decision]]></title>
+      <description><![CDATA[WBC middleweight champion Carlos Adames beats Gerome Warburton by unanimous decision in a non-title super middleweight bout.]]></description>
+      <link>https://www.bbc.co.uk/sport/boxing/articles/cmkgkz244pgro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/cmkgkz244pgro</guid>
+      <pubDate>Sat, 14 Nov 2026 20:27:04 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c140/live/46c51ab0-e064-11f1-b454-23ac84bf5ae9.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Cameron-Mayer rematch added to Paul Christmas Eve card]]></title>
+      <description><![CDATA[Chantelle Cameron will defend her light-middleweight world titles in a rematch against Mikaela Mayer on the undercard of Jake Paul's fight against Cedric Doumbe on 24 December.]]></description>
+      <link>https://www.bbc.co.uk/sport/boxing/articles/cvde1nx6j6g3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/cvde1nx6j6g3o</guid>
+      <pubDate>Fri, 13 Nov 2026 14:45:25 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/350f/live/4cd3edb0-df6e-11f1-8112-6b9154c79b48.jpg"/>
     </item>
     <item>
       <title><![CDATA[How Riley went from KSI's trainer to world-title dream]]></title>
@@ -110,22 +126,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/c3wy04zvre15o</guid>
       <pubDate>Thu, 12 Nov 2026 08:29:46 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/485ea930-de71-11f1-9115-cfe6d179af3a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Respect and laughs as Fury and Joshua face off]]></title>
-      <description><![CDATA[After more than a decade of public feuding and false starts, Tyson Fury and Anthony Joshua exchange pleasantries, trade jokes and even discuss going for a pint at a news conference in London.]]></description>
-      <link>https://www.bbc.co.uk/sport/boxing/articles/cme8x7rey9dlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/cme8x7rey9dlo</guid>
-      <pubDate>Wed, 30 Sep 2026 19:37:32 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2056/live/a96a29c0-bd01-11f1-ae73-153b8464afc4.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Crazy' I'll get to 'knock my boss out' - Doumbe]]></title>
-      <description><![CDATA[Cedric Doumbe says it is "crazy" he will get the chance to "face my boss and knock him out" when he fights Jake Paul in Dubai on 24 December.]]></description>
-      <link>https://www.bbc.co.uk/sport/boxing/articles/cm752n322gn9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/cm752n322gn9o</guid>
-      <pubDate>Wed, 11 Nov 2026 11:47:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6405/live/0fa94ac0-d640-11f1-be6d-936c6c4b19c2.png"/>
     </item>
     <item>
       <title><![CDATA[Watch every episode]]></title>
