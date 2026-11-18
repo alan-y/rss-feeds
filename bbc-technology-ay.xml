@@ -10,11 +10,51 @@
       <link>https://www.bbc.co.uk/news/technology</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 06:41:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:10:30 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Grand Theft Auto 6 is a masterpiece, say critics]]></title>
+      <description><![CDATA[Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw8r75xm8v4po</guid>
+      <pubDate>Wed, 18 Nov 2026 14:57:56 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[The seven Anthropic founders who are about to become multi-billionaires]]></title>
+      <description><![CDATA[The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmd7159vlr85o</guid>
+      <pubDate>Wed, 18 Nov 2026 13:55:14 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Hacks, AI or just overdue updates - why have there been so many outages?]]></title>
+      <description><![CDATA[There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6z0kly2lll7o</guid>
+      <pubDate>Wed, 18 Nov 2026 13:16:53 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4986/live/43b39be0-e34c-11f1-99aa-0f40b013ad11.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[British hacker who stole $11m through text message scheme jailed for six years in US]]></title>
+      <description><![CDATA[Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm87987w1qz5o</guid>
+      <pubDate>Wed, 18 Nov 2026 09:28:35 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee74/live/b9842e30-e337-11f1-9479-d17d3e98c29d.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Security flaw found in Java, world's third-largest programming language ]]></title>
+      <description><![CDATA[The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cke89jevqm1vo</guid>
+      <pubDate>Wed, 18 Nov 2026 08:47:06 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fd/live/c9c932d0-e324-11f1-99a1-253766e7ad8b.jpg"/>
+    </item>
     <item>
       <title><![CDATA[How important are Nvidia and Jensen Huang to the US economy?]]></title>
       <description><![CDATA[The former Nvidia chief executive has been at the centre of the artificial intelligence boom.]]></description>
@@ -24,23 +64,15 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Security flaw found in Java, world's third-largest programming language ]]></title>
-      <description><![CDATA[The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cke89jevqm1vo</guid>
-      <pubDate>Wed, 18 Nov 2026 05:33:13 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d641/live/9437db30-e30b-11f1-99b6-a35a62fa4264.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Waymo pulls driverless taxis from all US freeways]]></title>
       <description><![CDATA[The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmy86pp336qlo</guid>
       <pubDate>Wed, 18 Nov 2026 03:07:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e7c/live/e9a84520-e2f5-11f1-910a-c953499d69d5.jpg"/>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ea/live/d55939e0-e31c-11f1-99a1-253766e7ad8b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Nvidia says it won't reinstate Huang as firm reports bumper results]]></title>
+      <title><![CDATA[Nvidia says it won't reinstate Huang as it reports soaring sales]]></title>
       <description><![CDATA[The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo</guid>
@@ -78,38 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo</guid>
       <pubDate>Tue, 17 Nov 2026 11:49:01 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[US government confirms investigation into tech firm Megaspeed]]></title>
-      <description><![CDATA[The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmn504nq5033o</guid>
-      <pubDate>Tue, 17 Nov 2026 11:17:32 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['We're a capitalist society': Grindr defends $120 a month premium tier]]></title>
-      <description><![CDATA[It says the ultra-premium service is intended for a "small community" of users - and could get more expensive in future.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr1ewlqjn694o</guid>
-      <pubDate>Tue, 17 Nov 2026 09:41:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e9f/live/ace0da40-e2ae-11f1-a094-5fdc692f3e33.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss]]></title>
-      <description><![CDATA[A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cry49plv8v3go</guid>
-      <pubDate>Tue, 17 Nov 2026 02:37:53 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[The AI start-ups fixing India's broken roads and messy land records]]></title>
-      <description><![CDATA[From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges. ]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c820vnln2lzpo</guid>
-      <pubDate>Mon, 16 Nov 2026 23:25:53 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg"/>
     </item>
   </channel>
 </rss>
