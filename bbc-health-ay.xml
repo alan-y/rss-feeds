@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 21:46:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 02:56:14 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Massive hope for pancreatic cancer pill after trial saw tumours vanish]]></title>
+      <description><![CDATA[Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o</guid>
+      <pubDate>Fri, 20 Nov 2026 00:08:22 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca3/live/9b3a4680-e445-11f1-9192-3924a59e54c7.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Covid inquiry report: key findings on testing, tracing and 'the pingdemic']]></title>
       <description><![CDATA[Early efforts to contain coronavirus "were doomed to fail", the public inquiry has found. Here's what you need to know.]]></description>
@@ -112,12 +120,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a838/live/7c0b4310-0735-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Senior doctors call off two-day strike planned this month]]></title>
-      <description><![CDATA[Consultants in England were due to walk out on 25 November in disputes over pay and working conditions.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c6174gw2ewpgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6174gw2ewpgo</guid>
-      <pubDate>Wed, 11 Nov 2026 12:42:05 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d851/live/3ba79740-ddc9-11f1-9053-236ccb99630c.png"/>
+      <title><![CDATA[Resident doctors to begin 24-hour strike over pay]]></title>
+      <description><![CDATA[A full 24-hour strike begins at 07:00 GMT - the second such action taken by doctors this year.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o</guid>
+      <pubDate>Fri, 20 Nov 2026 00:02:03 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/655d/live/12226d10-e462-11f1-b62d-ef7f83cfcec4.jpg"/>
     </item>
     <item>
       <title><![CDATA['Dad was deteriorating': Two-hour ambulance target missed more than 2,000 times]]></title>
@@ -144,12 +152,12 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bced/live/6b8bb060-18b5-11f1-97ba-493bedc7637b.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Welsh NHS in strongest pre-winter position ever, says health minister]]></title>
-      <description><![CDATA[It comes as the number waiting for planned NHS treatment in Wales increases for the sixth month.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cq702e33el83o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq702e33el83o</guid>
-      <pubDate>Thu, 19 Nov 2026 13:52:35 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5e3/live/ca6c9fe0-e402-11f1-877f-2bb5452e5ffc.jpg"/>
+      <title><![CDATA[Does our ethnicity change how we experience dying?]]></title>
+      <description><![CDATA[Death is the one certainty we all share - but could our ethnicity change how we go through it?]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cv7028g0j3yxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv7028g0j3yxo</guid>
+      <pubDate>Fri, 20 Nov 2026 01:29:43 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fd/live/eeca2fc0-e2b2-11f1-8226-87dfa5049e9a.jpg"/>
     </item>
     <item>
       <title><![CDATA[Are max strength cold and flu pills worth the money?]]></title>
@@ -182,14 +190,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo</guid>
       <pubDate>Mon, 19 Oct 2026 00:09:25 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e828/live/0110bda0-bb78-11f1-bc1f-3f186ca4140c.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Why people who have never smoked are getting hooked on vapes]]></title>
-      <description><![CDATA[More than one million people now vape who have never been smokers, according to the ONS.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/ck62y33489zqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck62y33489zqo</guid>
-      <pubDate>Fri, 16 Oct 2026 23:49:16 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a8/live/e214ac90-ca31-11f1-9ab2-b325ce61f9d2.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau]]></title>
@@ -352,14 +352,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c14y72vkv3yo</guid>
       <pubDate>Thu, 25 Jun 2026 18:26:34 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6843/live/9a557390-70bc-11f1-b1da-a3a610594805.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[A&E to remain open as doctors' strike called off]]></title>
-      <description><![CDATA[Resident doctor strikes are now on pause while they consider a new pay offer form the government.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cy8wpz316lgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy8wpz316lgo</guid>
-      <pubDate>Sun, 14 Jun 2026 14:15:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f492/live/712d2af0-67f5-11f1-8e1d-bbbb1017d210.jpg"/>
     </item>
     <item>
       <title><![CDATA[Tennis my 'saviour' after trying to take my own life - Riedi]]></title>
