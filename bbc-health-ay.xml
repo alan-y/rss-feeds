@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 02:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:55:26 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -21,7 +21,7 @@
       <link>https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o</guid>
       <pubDate>Fri, 20 Nov 2026 00:08:22 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca3/live/9b3a4680-e445-11f1-9192-3924a59e54c7.jpg"/>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4568/live/3c973e20-e4be-11f1-99a1-253766e7ad8b.png"/>
     </item>
     <item>
       <title><![CDATA[Covid inquiry report: key findings on testing, tracing and 'the pingdemic']]></title>
@@ -120,12 +120,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a838/live/7c0b4310-0735-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Resident doctors to begin 24-hour strike over pay]]></title>
-      <description><![CDATA[A full 24-hour strike begins at 07:00 GMT - the second such action taken by doctors this year.]]></description>
+      <title><![CDATA[Striking doctors warn staff will leave NI health service for better pay]]></title>
+      <description><![CDATA[A full 24-hour strike began at 07:00 GMT - the second such action taken by doctors this year.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o</guid>
-      <pubDate>Fri, 20 Nov 2026 00:02:03 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/655d/live/12226d10-e462-11f1-b62d-ef7f83cfcec4.jpg"/>
+      <pubDate>Fri, 20 Nov 2026 10:42:46 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4130/live/46bd3670-e4cd-11f1-8ebd-0fa6091698b5.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Better results for patients' since SWAH surgery suspended, says health chief]]></title>
+      <description><![CDATA[Emergency general surgery was temporarily suspended at SWAH in December 2022. ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cq2d944g077lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq2d944g077lo</guid>
+      <pubDate>Fri, 20 Nov 2026 07:11:13 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ad/live/c4c548e0-e456-11f1-a094-5fdc692f3e33.jpg"/>
     </item>
     <item>
       <title><![CDATA['Dad was deteriorating': Two-hour ambulance target missed more than 2,000 times]]></title>
@@ -142,14 +150,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crjeqxexyq05o</guid>
       <pubDate>Thu, 19 Nov 2026 15:30:48 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0bf/live/715d23f0-e41d-11f1-9e08-55a8a3b48445.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Covid inquiry urges UK–Ireland pandemic co-ordination in future]]></title>
-      <description><![CDATA[In its latest report into the programme of test and trace, it said cooperation was needed "to ensure that border control measures are effective and operable in practice".]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c6x280lqrxpgo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x280lqrxpgo</guid>
-      <pubDate>Thu, 19 Nov 2026 15:07:43 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bced/live/6b8bb060-18b5-11f1-97ba-493bedc7637b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Does our ethnicity change how we experience dying?]]></title>
@@ -216,6 +216,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b66e/live/35af95b0-22c4-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
+      <title><![CDATA['When I found out about Breast Friends it was the best thing ever']]></title>
+      <description><![CDATA[The King's Award for Voluntary Service is the highest award given to voluntary groups in the UK.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c862p6v3wx43o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c862p6v3wx43o</guid>
+      <pubDate>Fri, 20 Nov 2026 06:10:40 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f665/live/bc046b60-e432-11f1-8346-933d3547e297.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Women in town hit poor health earlier than average]]></title>
       <description><![CDATA[Luton study reveals age of onset of poor health for women is five years below national average.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cqp8g8jr5ke8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -240,12 +248,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2513/live/8e9c0f60-dc2c-11f1-958b-3f65a8ba2dc3.jpg"/>
     </item>
     <item>
-      <title><![CDATA['My brother died, so I smashed up his TV']]></title>
-      <description><![CDATA[From bereavement to stillbirth, more women are finding release in rage rooms from Bath to Swindon.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cj5ynv9lvl51o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj5ynv9lvl51o</guid>
-      <pubDate>Mon, 09 Nov 2026 06:30:54 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4f4/live/cb49ec50-dc06-11f1-b6f4-7b86d13131ad.jpg"/>
+      <title><![CDATA[Community hub to close citing financial challenges]]></title>
+      <description><![CDATA[Lisa Green, who works in the cafe, says the team is like a "family" and people rely on the hub.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cv0l31g4n1weo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv0l31g4n1weo</guid>
+      <pubDate>Fri, 20 Nov 2026 06:09:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a94d/live/75a5b100-e447-11f1-9192-3924a59e54c7.jpg"/>
     </item>
     <item>
       <title><![CDATA[One of the most commonly injured parts of the body that many of us never train]]></title>
@@ -278,14 +286,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvgrk4ngl64o</guid>
       <pubDate>Mon, 26 Oct 2026 15:15:20 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a0e/live/fe4404f0-cbd1-11f1-aba9-2bb2608f11d9.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Wellbeing support demand for cancer patients grows]]></title>
-      <description><![CDATA[Macmillan Cancer Support Jersey publishes its annual report looking back at 2025.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/ck3r5v7qv499o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck3r5v7qv499o</guid>
-      <pubDate>Sun, 25 Oct 2026 07:15:23 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f65/live/cc966860-cc82-11f1-bed8-c51b95c602ec.jpg"/>
     </item>
     <item>
       <title><![CDATA['Quiet quitting' could be hitting the economy - here's why]]></title>
