@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 10:55:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:58:14 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -120,12 +120,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a838/live/7c0b4310-0735-11f1-b7e1-afb6d0884c18.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Striking doctors warn staff will leave NI health service for better pay]]></title>
+      <title><![CDATA[Man who nearly died during liver surgery at Aberdeen hospital says mistakes were made]]></title>
+      <description><![CDATA[It comes after a leaked review identified 19 avoidable deaths following liver and pancreatic surgery at the hospital.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cr894yq07v23o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr894yq07v23o</guid>
+      <pubDate>Fri, 20 Nov 2026 16:45:44 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f3/live/adfb2d10-e4e1-11f1-b039-c1944465024e.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Striking doctors warn staff will leave NI  for better pay]]></title>
       <description><![CDATA[A full 24-hour strike began at 07:00 GMT - the second such action taken by doctors this year.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o</guid>
-      <pubDate>Fri, 20 Nov 2026 10:42:46 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4130/live/46bd3670-e4cd-11f1-8ebd-0fa6091698b5.jpg"/>
+      <pubDate>Fri, 20 Nov 2026 12:37:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4944/live/79661eb0-e4e7-11f1-99a1-253766e7ad8b.jpg"/>
     </item>
     <item>
       <title><![CDATA['Better results for patients' since SWAH surgery suspended, says health chief]]></title>
@@ -134,22 +142,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq2d944g077lo</guid>
       <pubDate>Fri, 20 Nov 2026 07:11:13 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ad/live/c4c548e0-e456-11f1-a094-5fdc692f3e33.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Dad was deteriorating': Two-hour ambulance target missed more than 2,000 times]]></title>
-      <description><![CDATA[The Release to Rescue initiative was introduced this year to cut ambulance delays and speed up handover times. ]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cm752zx62n62o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm752zx62n62o</guid>
-      <pubDate>Thu, 19 Nov 2026 17:31:34 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5e9/live/f75e8720-e367-11f1-9f51-4bfc31543510.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Surgeon calls for corporate homicide probe over claims patients unnecessarily bled to death]]></title>
-      <description><![CDATA[Dr Mohammed Habib said he had been raising concerns about NHS Grampian for a decade, including with government ministers and police.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/crjeqxexyq05o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crjeqxexyq05o</guid>
-      <pubDate>Thu, 19 Nov 2026 15:30:48 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0bf/live/715d23f0-e41d-11f1-9e08-55a8a3b48445.png"/>
     </item>
     <item>
       <title><![CDATA[Does our ethnicity change how we experience dying?]]></title>
@@ -216,7 +208,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b66e/live/35af95b0-22c4-11f1-934f-036468834728.jpg"/>
     </item>
     <item>
-      <title><![CDATA['When I found out about Breast Friends it was the best thing ever']]></title>
+      <title><![CDATA['It's a lifeline': Breast cancer support group that's helped thousands]]></title>
       <description><![CDATA[The King's Award for Voluntary Service is the highest award given to voluntary groups in the UK.]]></description>
       <link>https://www.bbc.co.uk/news/articles/c862p6v3wx43o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c862p6v3wx43o</guid>
@@ -253,7 +245,7 @@
       <link>https://www.bbc.co.uk/news/articles/cv0l31g4n1weo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv0l31g4n1weo</guid>
       <pubDate>Fri, 20 Nov 2026 06:09:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a94d/live/75a5b100-e447-11f1-9192-3924a59e54c7.jpg"/>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ad/live/933aa900-e4d8-11f1-ae38-71bf515761f1.jpg"/>
     </item>
     <item>
       <title><![CDATA[One of the most commonly injured parts of the body that many of us never train]]></title>
@@ -342,16 +334,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cpv31erm387o</guid>
       <pubDate>Mon, 29 Jun 2026 10:45:58 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d914/live/e92264b0-7396-11f1-b38b-37f255239404.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Consultants and specialist doctors take strike action over pay]]></title>
-      <description><![CDATA[Full emergency cover remained in place and patients were told to attend all scheduled appointments unless advised otherwise.
-
-]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c14y72vkv3yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c14y72vkv3yo</guid>
-      <pubDate>Thu, 25 Jun 2026 18:26:34 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6843/live/9a557390-70bc-11f1-b1da-a3a610594805.jpg"/>
     </item>
     <item>
       <title><![CDATA[Tennis my 'saviour' after trying to take my own life - Riedi]]></title>
