@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 01:33:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 08:47:38 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -120,6 +120,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f050/live/f25348a0-df53-11f1-93e1-3b657b665bcf.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Midwives told to expect fewer jobs as recruitment drive is paused]]></title>
+      <description><![CDATA[One graduate said she would take minimum wage to get her first job in widwifery. ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/ck24e1j762y6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck24e1j762y6o</guid>
+      <pubDate>Sun, 22 Nov 2026 07:46:28 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b074/live/e23d5220-e52b-11f1-964d-a1d5fe40573e.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Independent review ordered into surgery carried out by NHS Grampian ]]></title>
       <description><![CDATA[It follows a whistleblower's leaking of a document which shows there were 19 avoidable deaths at the health board.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cr62pxzyql1jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -142,14 +150,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr894yq07v23o</guid>
       <pubDate>Fri, 20 Nov 2026 16:45:44 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f3/live/adfb2d10-e4e1-11f1-b039-c1944465024e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Striking doctors warn staff will leave NI  for better pay]]></title>
-      <description><![CDATA[A full 24-hour strike began at 07:00 GMT - the second such action taken by doctors this year.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o</guid>
-      <pubDate>Fri, 20 Nov 2026 12:37:33 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4944/live/79661eb0-e4e7-11f1-99a1-253766e7ad8b.jpg"/>
     </item>
     <item>
       <title><![CDATA['It gives me the ick': Can you cheat on someone with a video game?]]></title>
@@ -318,6 +318,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crje5dke7vgqo</guid>
       <pubDate>Tue, 20 Oct 2026 12:16:38 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82be/live/c47cd320-cc79-11f1-bed8-c51b95c602ec.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Striking doctors warn staff will leave NI  for better pay]]></title>
+      <description><![CDATA[A full 24-hour strike began at 07:00 GMT - the second such action taken by doctors this year.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o</guid>
+      <pubDate>Fri, 20 Nov 2026 12:37:33 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4944/live/79661eb0-e4e7-11f1-99a1-253766e7ad8b.jpg"/>
     </item>
     <item>
       <title><![CDATA[Hospital doctors to strike as pay dispute continues]]></title>
