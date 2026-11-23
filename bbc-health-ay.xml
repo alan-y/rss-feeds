@@ -10,7 +10,7 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 02:54:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:48:44 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
@@ -120,6 +120,30 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f9/live/ddcb76c0-df51-11f1-8364-2717a13d3b08.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Doctors begin fresh strike over pay dispute]]></title>
+      <description><![CDATA[It follows a separate 24-hour strike on Friday in which resident doctors took industrial action as part of the same dispute.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cr3eg5vzn875o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr3eg5vzn875o</guid>
+      <pubDate>Mon, 23 Nov 2026 11:37:51 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a32f/live/1037e510-e729-11f1-914b-6d226d813a52.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Woman faces hour-long drive to give birth as hospital suspends maternity services]]></title>
+      <description><![CDATA[From Monday, maternity services at Daisy Hill Hospital will move to Craigavon Area Hospital.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cv5y10xn90y3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv5y10xn90y3o</guid>
+      <pubDate>Mon, 23 Nov 2026 11:25:35 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d0a/live/2caf25c0-e501-11f1-a8e4-b1e12a49db15.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Antibiotics saved my life - then nearly killed me]]></title>
+      <description><![CDATA[Harriet Davies was given the drugs after falling ill while skiing in France.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/ckvg2elqy5g2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckvg2elqy5g2o</guid>
+      <pubDate>Mon, 23 Nov 2026 10:33:34 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d76/live/b8950d30-e6ae-11f1-99b6-a35a62fa4264.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Why are so many more young Scots claiming disability benefits?]]></title>
       <description><![CDATA[The number of Scots claiming disability benefits has risen sharply since the Covid pandemic - why?]]></description>
       <link>https://www.bbc.co.uk/news/articles/cw8r7kmgd8dxo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -134,30 +158,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck24e1j762y6o</guid>
       <pubDate>Sun, 22 Nov 2026 07:46:28 GMT</pubDate>
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b074/live/e23d5220-e52b-11f1-964d-a1d5fe40573e.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Independent review ordered into surgery carried out by NHS Grampian ]]></title>
-      <description><![CDATA[It follows a whistleblower's leaking of a document which shows there were 19 avoidable deaths at the health board.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cr62pxzyql1jo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr62pxzyql1jo</guid>
-      <pubDate>Sat, 21 Nov 2026 15:15:29 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/135f/live/622e3500-e5b6-11f1-a188-ff49e70cc466.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[I lost my dad, mum and sister to the same aggressive brain cancer]]></title>
-      <description><![CDATA[A charity says it's "highly unusual" to have three members of the same family die of the disease.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cm4gn0313098o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4gn0313098o</guid>
-      <pubDate>Sat, 21 Nov 2026 09:50:49 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f88/live/08dfaa90-e4dc-11f1-9cc5-e9713e77fd78.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Further walkout planned by NI doctors as strike ends]]></title>
-      <description><![CDATA[Consultants and specialist doctors will begin a separate 24-hour strike on Monday morning as part of the same pay dispute.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c6d71e9epe8qo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6d71e9epe8qo</guid>
-      <pubDate>Sat, 21 Nov 2026 07:01:13 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12ad/live/16f1c000-e581-11f1-b548-918aefb57c12.jpg"/>
     </item>
     <item>
       <title><![CDATA['It gives me the ick': Can you cheat on someone with a video game?]]></title>
@@ -320,6 +320,14 @@
       <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82be/live/c47cd320-cc79-11f1-bed8-c51b95c602ec.jpg"/>
     </item>
     <item>
+      <title><![CDATA[Further walkout planned by NI doctors as strike ends]]></title>
+      <description><![CDATA[Consultants and specialist doctors will begin a separate 24-hour strike on Monday morning as part of the same pay dispute.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c6d71e9epe8qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6d71e9epe8qo</guid>
+      <pubDate>Sat, 21 Nov 2026 07:01:13 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12ad/live/16f1c000-e581-11f1-b548-918aefb57c12.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Striking doctors warn staff will leave NI  for better pay]]></title>
       <description><![CDATA[A full 24-hour strike began at 07:00 GMT - the second such action taken by doctors this year.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cm3vgwxyxgk5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -336,28 +344,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a38d/live/79444630-a2a0-11f0-94eb-2d0a64a6f1c0.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Doctors vote to take strike action in row over pay]]></title>
-      <description><![CDATA[The British Medical Association is in dispute with Manx Care over "pay erosion since 2008".]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c24y8jlvy2vo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c24y8jlvy2vo</guid>
-      <pubDate>Fri, 03 Jul 2026 10:08:16 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c15c/live/618d61d0-76c0-11f1-bd3f-0f791277aaa0.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Tennis my 'saviour' after trying to take my own life - Riedi]]></title>
       <description><![CDATA[Swiss tennis player Leandro Riedi says the sport was his "saviour" after he attempted to take his own life shortly before Wimbledon qualifying began in June 2024.]]></description>
       <link>https://www.bbc.co.uk/sport/tennis/videos/cw1mdn0n531lo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/tennis/videos/cw1mdn0n531lo</guid>
       <pubDate>Thu, 19 Nov 2026 10:55:19 GMT</pubDate>
       <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e59a/live/cddb9d00-e404-11f1-99a1-253766e7ad8b.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Toilets: Are you a squatter or a sitter?]]></title>
-      <description><![CDATA[Did you know the average time it takes to pass a bowel movement is shorter if you're squatting rather than sitting? Josie Peters explores why. ]]></description>
-      <link>https://www.bbc.co.uk/videos/c804wngelw22o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/videos/c804wngelw22o</guid>
-      <pubDate>Wed, 18 Nov 2026 13:25:05 GMT</pubDate>
-      <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1de/live/e68a9020-e352-11f1-a094-5fdc692f3e33.jpg"/>
     </item>
   </channel>
 </rss>
