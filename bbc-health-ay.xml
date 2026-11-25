@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 18:57:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 02:57:48 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Third of young Brits have never had sex, but many are sexting and watching porn]]></title>
+      <description><![CDATA[More young people in Britain have never had sex, but many are sexting and watching porn. ]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw0737zzn50mo</guid>
+      <pubDate>Tue, 24 Nov 2026 23:38:39 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc18/live/8aec72e0-deb3-11f1-8fb5-a771a656a227.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Why I don't always tell potential employers I'm dyslexic]]></title>
       <description><![CDATA[Many dyslexic people say it harms their confidence, a report about experiences in the workplace suggests.]]></description>
@@ -112,12 +120,20 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07cd/live/8214d800-df5e-11f1-a8af-15d7a25dc0d1.png"/>
     </item>
     <item>
-      <title><![CDATA[Tories pledge to halt screen-based school exams and cut coursework]]></title>
-      <description><![CDATA[The party says its proposals for England aim to address excessive screen time and over-reliance on AI.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o</guid>
-      <pubDate>Sun, 15 Nov 2026 22:00:37 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/47994770-e110-11f1-b3df-4961589d9b68.jpg"/>
+      <title><![CDATA[A question of trust in the NHS could be Swinney's most dangerous political moment]]></title>
+      <description><![CDATA[The Scottish government has to convince the public and political rivals that it has a grip on the problems at NHS Grampian.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c65y12kg8711o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c65y12kg8711o</guid>
+      <pubDate>Tue, 24 Nov 2026 23:00:13 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2d/live/6d4b6c20-e816-11f1-a094-5fdc692f3e33.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Weak and immature management putting patients at risk at failing health board, review finds]]></title>
+      <description><![CDATA[A review finds targets and money being prioritised over patient care at Betsi Cadwaladr health board.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo</guid>
+      <pubDate>Tue, 24 Nov 2026 19:03:09 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aceb/live/90850830-e7f4-11f1-a094-5fdc692f3e33.jpg"/>
     </item>
     <item>
       <title><![CDATA[GP surgery suspends routine appointments due to 'tsunami' of demand]]></title>
@@ -126,14 +142,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm62pze6xn37o</guid>
       <pubDate>Tue, 24 Nov 2026 18:12:52 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca8/live/4160e700-e7e6-11f1-8b26-c1adae33e7f2.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Weak and immature management putting patients at risk at failing health board, review finds]]></title>
-      <description><![CDATA[A review finds targets and money being prioritised over patient care at Betsi Cadwaladr health board.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm3eg5g4l9ggo</guid>
-      <pubDate>Tue, 24 Nov 2026 17:37:17 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aceb/live/90850830-e7f4-11f1-a094-5fdc692f3e33.jpg"/>
     </item>
     <item>
       <title><![CDATA[Nurses vote for industrial action over pay]]></title>
@@ -150,14 +158,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmz9dyd4eegeo</guid>
       <pubDate>Tue, 24 Nov 2026 16:03:03 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff2e/live/a4696090-e816-11f1-ab42-55d8d8278025.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Catherine's cancer documentary makes me feel less alone, says Strictly's Amy Dowden]]></title>
-      <description><![CDATA[The dancer says Catherine's documentary about her cancer journey is "so important" to raise awareness.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cqdr151xj5ego?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqdr151xj5ego</guid>
-      <pubDate>Tue, 24 Nov 2026 16:02:20 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfb7/live/f14c6800-e7fb-11f1-ab60-79086b6495b8.jpg"/>
     </item>
     <item>
       <title><![CDATA['It gives me the ick': Can you cheat on someone with a video game?]]></title>
