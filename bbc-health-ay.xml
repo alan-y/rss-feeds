@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 14:17:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 22:46:45 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[My self-care ritual is a meal at a fancy restaurant - on my own]]></title>
+      <description><![CDATA[Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo</guid>
+      <pubDate>Fri, 27 Nov 2026 10:10:36 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4715/live/6ec7a880-ea5e-11f1-99b6-a35a62fa4264.png"/>
+    </item>
     <item>
       <title><![CDATA[NHS boss warns of 'horrible spike' in flu as hospital admissions surge]]></title>
       <description><![CDATA[Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.]]></description>
@@ -104,19 +112,11 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73cb/live/11eb1800-e373-11f1-9f51-4bfc31543510.jpg"/>
     </item>
     <item>
-      <title><![CDATA[Voy at-home test kit adverts banned over low testosterone claims]]></title>
-      <description><![CDATA[The Advertising Standards Authority says the adverts by online healthcare provider Voy made misleading claims.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o</guid>
-      <pubDate>Wed, 18 Nov 2026 01:11:07 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b0/live/d8c4a540-e2b5-11f1-bee0-ef418afc697f.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[Concern over maternity unit move prompts extra paramedic funding]]></title>
       <description><![CDATA[Ambulance chief concerned by extra pressure on area that already has "poor ambulance performance"'. ]]></description>
       <link>https://www.bbc.co.uk/news/articles/cq5y12vgkxyxo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq5y12vgkxyxo</guid>
-      <pubDate>Fri, 27 Nov 2026 13:53:16 GMT</pubDate>
+      <pubDate>Fri, 27 Nov 2026 17:11:58 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3cd/live/a9bbfc80-ea62-11f1-ad88-915444d789fa.jpg"/>
     </item>
     <item>
@@ -129,7 +129,7 @@
     </item>
     <item>
       <title><![CDATA['We feed and wash her': Severe ME leaves woman bedbound for five years]]></title>
-      <description><![CDATA[Shauna Chambers says her partner Row was “full of energy” but now cannot tolerate light or noise.]]></description>
+      <description><![CDATA[Shauna Chambers says her partner Row was "full of energy" but now cannot tolerate light or noise.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cwvg2d9dxdjdo?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwvg2d9dxdjdo</guid>
       <pubDate>Fri, 27 Nov 2026 06:06:31 GMT</pubDate>
@@ -144,7 +144,7 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e1/live/0441ff20-d6a4-11f0-8c06-f5d460985095.jpg"/>
     </item>
     <item>
-      <title><![CDATA['Craving connection': The young hikers swapping screens for walking groups]]></title>
+      <title><![CDATA['It feels very therapeutic': The young hikers swapping screens for walking groups]]></title>
       <description><![CDATA[From hiking in the Peak District hills to the city parks of Leicester - we talk to several young people who've embraced walking groups and feel better for it.]]></description>
       <link>https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&amp;at_campaign=rss</link>
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c32l50v7x2v1o</guid>
@@ -166,14 +166,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv7028g0j3yxo</guid>
       <pubDate>Fri, 20 Nov 2026 01:29:43 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fd/live/eeca2fc0-e2b2-11f1-8226-87dfa5049e9a.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA[Are max strength cold and flu pills worth the money?]]></title>
-      <description><![CDATA[Some cold and flu remedies cost 20 times as much as a basic pack of paracetamol or ibuprofen.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/cjkgep4rgngro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjkgep4rgngro</guid>
-      <pubDate>Thu, 12 Nov 2026 00:12:28 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3dd/live/1dbdaeb0-de7b-11f1-b88b-3f1671ea859d.jpg"/>
     </item>
     <item>
       <title><![CDATA[Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau]]></title>
@@ -256,14 +248,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f3/live/2e24a220-e0f8-11f1-97b9-9110abfffc70.jpg"/>
     </item>
     <item>
-      <title><![CDATA[New charity uses outdoors to improve mental health]]></title>
-      <description><![CDATA[A new charity hopes to use outdoor activities to improve men's mental health on the Isle of Man.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/ck98zqpzn1e5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck98zqpzn1e5o</guid>
-      <pubDate>Sun, 01 Nov 2026 07:39:54 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e24/live/64142fb0-d205-11f1-b3b6-c1e79e957e40.png"/>
-    </item>
-    <item>
       <title><![CDATA['Quiet quitting' could be hitting the economy - here's why]]></title>
       <description><![CDATA[Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -318,6 +302,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv8ez69g3g8go</guid>
       <pubDate>Thu, 15 Oct 2026 11:02:17 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a38d/live/79444630-a2a0-11f0-94eb-2d0a64a6f1c0.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Is snooker the most mentally challenging sport?]]></title>
+      <description><![CDATA[Gary Wilson, Ken Doherty and Jason Ferguson talk about the mental effects on professional snooker players.]]></description>
+      <link>https://www.bbc.co.uk/sport/snooker/videos/cq074pr3x3vgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/snooker/videos/cq074pr3x3vgo</guid>
+      <pubDate>Fri, 27 Nov 2026 19:02:41 GMT</pubDate>
+      <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74f4/live/b3a0c4c0-ea7f-11f1-99b6-a35a62fa4264.jpg"/>
     </item>
   </channel>
 </rss>
