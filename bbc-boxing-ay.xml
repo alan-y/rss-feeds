@@ -10,11 +10,27 @@
       <link>https://www.bbc.co.uk/sport/boxing</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 04:31:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:17:27 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/sport/boxing/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Fury cleared to fight Joshua after medical checks]]></title>
+      <description><![CDATA[Tyson Fury is medically cleared to fight Anthony Joshua in December after the bout was put in jeopardy by claims of a schizophrenia diagnosis.]]></description>
+      <link>https://www.bbc.co.uk/sport/boxing/articles/c539gd2x2ye1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/c539gd2x2ye1o</guid>
+      <pubDate>Fri, 27 Nov 2026 12:13:15 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/016d/live/ebfae280-ea5a-11f1-89b9-f318b11567ea.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[How Fury and Joshua changed British boxing forever]]></title>
+      <description><![CDATA[Before their long-awaited heavyweight bout, BBC Sport explores the impact Tyson Fury and Anthony Joshua have had on British boxing.]]></description>
+      <link>https://www.bbc.co.uk/sport/boxing/articles/cr62pg3n3p8vo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/cr62pg3n3p8vo</guid>
+      <pubDate>Fri, 27 Nov 2026 06:51:53 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1a2/live/ffd4c670-e8c2-11f1-99a1-253766e7ad8b.png"/>
+    </item>
     <item>
       <title><![CDATA[Fury 'never received' schizophrenia diagnosis]]></title>
       <description><![CDATA[Paris Fury, the wife of Tyson Fury, says the boxer has never received a diagnosis of schizophrenia.]]></description>
@@ -56,22 +72,6 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69de/live/5a9745b0-e74c-11f1-99b6-a35a62fa4264.png"/>
     </item>
     <item>
-      <title><![CDATA[Fury reveals schizophrenia diagnosis]]></title>
-      <description><![CDATA[Tyson Fury describes hearing voices in his head when he suffered a breakdown in 2015, and was also diagnosed with bipolar disorder.]]></description>
-      <link>https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo</guid>
-      <pubDate>Mon, 23 Nov 2026 09:53:52 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7f7/live/4c6eae80-e709-11f1-b584-c942e4bef845.jpg"/>
-    </item>
-    <item>
-      <title><![CDATA['Best in world' Price set for Cardiff stadium fight]]></title>
-      <description><![CDATA[Lauren Price is one of the most decorated fighters in British boxing history and is now set to headline a summer stadium show in Cardiff.]]></description>
-      <link>https://www.bbc.co.uk/sport/boxing/articles/cmly5w82gq0zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/cmly5w82gq0zo</guid>
-      <pubDate>Sat, 21 Nov 2026 13:45:19 GMT</pubDate>
-      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a873/live/96e38020-e5b1-11f1-a188-ff49e70cc466.jpg"/>
-    </item>
-    <item>
       <title><![CDATA[From Watford to world champion]]></title>
       <description><![CDATA[The story of how Anthony Joshua rose from a late starter in boxing to Olympic gold medallist and heavyweight world champion, before his long-awaited showdown with Tyson Fury.]]></description>
       <link>https://www.bbc.co.uk/sport/boxing/videos/c6x2v444m171o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -102,6 +102,14 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo</guid>
       <pubDate>Fri, 20 Nov 2026 23:30:56 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/795f/live/1dc78710-e53c-11f1-8e3b-a9faa658e88c.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Best in world' Price set for Cardiff stadium fight]]></title>
+      <description><![CDATA[Lauren Price is one of the most decorated fighters in British boxing history and is now set to headline a summer stadium show in Cardiff.]]></description>
+      <link>https://www.bbc.co.uk/sport/boxing/articles/cmly5w82gq0zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/articles/cmly5w82gq0zo</guid>
+      <pubDate>Sat, 21 Nov 2026 13:45:19 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a873/live/96e38020-e5b1-11f1-a188-ff49e70cc466.jpg"/>
     </item>
     <item>
       <title><![CDATA[History, hunger and headline bills - why Price is box office]]></title>
