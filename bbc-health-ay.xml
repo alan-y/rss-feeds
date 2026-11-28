@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 22:46:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:31:15 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Should I get a flu vaccine now?]]></title>
+      <description><![CDATA[Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8e018jyjngo</guid>
+      <pubDate>Sat, 28 Nov 2026 01:03:11 GMT</pubDate>
+      <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/267a/live/e3b37190-ea74-11f1-a828-d384c0290f6b.jpg"/>
+    </item>
     <item>
       <title><![CDATA[My self-care ritual is a meal at a fancy restaurant - on my own]]></title>
       <description><![CDATA[Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.]]></description>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crx20q8ql4gwo</guid>
       <pubDate>Thu, 19 Nov 2026 12:47:27 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/907e/live/c7d0e7d0-e37d-11f1-b879-03485a55c082.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Regulator mistakenly sent complaints about doctors to newspaper]]></title>
-      <description><![CDATA[Information sent to the Times newspaper by the General Medical Council included summaries of complaints alleging antisemitism and Islamophobia against doctors.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c8wy5erexq0ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8wy5erexq0ko</guid>
-      <pubDate>Wed, 18 Nov 2026 17:48:10 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73cb/live/11eb1800-e373-11f1-9f51-4bfc31543510.jpg"/>
     </item>
     <item>
       <title><![CDATA[Concern over maternity unit move prompts extra paramedic funding]]></title>
