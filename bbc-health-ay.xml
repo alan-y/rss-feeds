@@ -10,11 +10,19 @@
       <link>https://www.bbc.co.uk/news/health</link>
     </image>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Sat, 28 Nov 2026 04:31:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:33:38 GMT</lastBuildDate>
     <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
     <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
     <language><![CDATA[en-gb]]></language>
     <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Pharmacies get new powers to swap prescriptions during shortages]]></title>
+      <description><![CDATA[If a medicine is out of stock, staff can offer the same drug in a different strength or form, like a capsule instead of a pill.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro</guid>
+      <pubDate>Sat, 28 Nov 2026 06:00:11 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d4d/live/7569eb90-ea5d-11f1-89b9-f318b11567ea.jpg"/>
+    </item>
     <item>
       <title><![CDATA[Should I get a flu vaccine now?]]></title>
       <description><![CDATA[Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?]]></description>
@@ -102,14 +110,6 @@
       <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o</guid>
       <pubDate>Fri, 20 Nov 2026 00:08:22 GMT</pubDate>
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4568/live/3c973e20-e4be-11f1-99a1-253766e7ad8b.png"/>
-    </item>
-    <item>
-      <title><![CDATA[Covid inquiry report: key findings on testing, tracing and 'the pingdemic']]></title>
-      <description><![CDATA[Early efforts to contain coronavirus "were doomed to fail", the public inquiry has found. Here's what you need to know.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/crx20q8ql4gwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crx20q8ql4gwo</guid>
-      <pubDate>Thu, 19 Nov 2026 12:47:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/907e/live/c7d0e7d0-e37d-11f1-b879-03485a55c082.png"/>
     </item>
     <item>
       <title><![CDATA[Concern over maternity unit move prompts extra paramedic funding]]></title>
@@ -216,6 +216,14 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9828/live/99007990-dce6-11f1-a701-fddedf244c16.jpg"/>
     </item>
     <item>
+      <title><![CDATA[New project to provide free mental health courses]]></title>
+      <description><![CDATA[There will be free courses on mental health, wellbeing, recovery, personal growth and creativity.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/c8vg2ndz0d1zo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8vg2ndz0d1zo</guid>
+      <pubDate>Sat, 28 Nov 2026 09:45:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/473f/live/878692a0-e9d7-11f1-a652-278841d9ecc5.jpg"/>
+    </item>
+    <item>
       <title><![CDATA[Nature walks 'another tool' in mental health fight]]></title>
       <description><![CDATA[The Hope Haven hub is encouraging people to step outside in an effort to improve their well-being.]]></description>
       <link>https://www.bbc.co.uk/news/articles/cqzr56ny5rkpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -240,12 +248,12 @@
       <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ad/live/933aa900-e4d8-11f1-ae38-71bf515761f1.jpg"/>
     </item>
     <item>
-      <title><![CDATA[One of the most commonly injured parts of the body that many of us never train]]></title>
-      <description><![CDATA[Performance physiotherapist Genevieve Taiwah shares her top tips for looking after the joint that accounts for 5% of A&E visits.]]></description>
-      <link>https://www.bbc.co.uk/news/articles/c6vgxjevv5v7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6vgxjevv5v7o</guid>
-      <pubDate>Sun, 15 Nov 2026 16:18:27 GMT</pubDate>
-      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f3/live/2e24a220-e0f8-11f1-97b9-9110abfffc70.jpg"/>
+      <title><![CDATA[Covid inquiry report: key findings on testing, tracing and 'the pingdemic']]></title>
+      <description><![CDATA[Early efforts to contain coronavirus "were doomed to fail", the public inquiry has found. Here's what you need to know.]]></description>
+      <link>https://www.bbc.co.uk/news/articles/crx20q8ql4gwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crx20q8ql4gwo</guid>
+      <pubDate>Thu, 19 Nov 2026 12:47:27 GMT</pubDate>
+      <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/907e/live/c7d0e7d0-e37d-11f1-b879-03485a55c082.png"/>
     </item>
     <item>
       <title><![CDATA['Quiet quitting' could be hitting the economy - here's why]]></title>
